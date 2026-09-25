@@ -254,7 +254,17 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   "before": "Dates and texts from the EU legal acts on EUR-Lex; every link opens the act there. An orientation for planning, not legal advice. Source and updates: ",
   "url": "https://github.com/git-z0man/eu-regulation-timeline",
   "label": "eu-regulation-timeline",
-  "after": "."
+  "after": ".",
+  "links": [
+   {
+    "url": "procedures/index.html",
+    "label": "Legislative procedures"
+   },
+   {
+    "url": "LICENSE.md",
+    "label": "License: CC BY 4.0 (content), MIT (code)"
+   }
+  ]
  },
  "profiles": {
   "machinery-builder": {
@@ -1261,7 +1271,9 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     $("#footer").replaceChildren(
       D.source.before,
       el("a", { href: D.source.url }, D.source.label),
-      D.source.after + " Legend: filled diamond = obligations start; pale bar = in force, not yet applicable; solid bar = applicable; hatched bar = legislative procedure (expected duration); thin hatched bar = pending amendment. Keyboard: / search, ↑/↓ move between acts, Enter select, Esc clear.");
+      D.source.after,
+      ...(D.source.links || []).flatMap(l => [" ", el("a", { href: l.url }, l.label), " ·"]),
+      " Legend: filled diamond = obligations start; pale bar = in force, not yet applicable; solid bar = applicable; hatched bar = legislative procedure (expected duration); thin hatched bar = pending amendment. Keyboard: / search, ↑/↓ move between acts, Enter select, Esc clear.");
   }
 
   $("#profile").addEventListener("change", e => { profileKey = e.target.value; store.set("profile", profileKey); selected = null; renderAll(); });
