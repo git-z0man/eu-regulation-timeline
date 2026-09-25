@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regulation Timeline</title>
+<meta name="description" content="EU digital and product regulation: timeline, criticality and deadlines per company profile. Generated from the European Digital Regulation repository.">
+<style>
+:root {
+  --bg: #f7f7f4; --panel: #ffffff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --grid: #eceeea;
+  --band: rgba(255, 214, 102, .22); --focus: #1a5fd0; --asof: #c62828; --shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.05);
+  --act: #d94841; --act-pale: #f6d3d0; --prepare: #d98a1f; --prepare-pale: #f9e6c4;
+  --operate: #3f8a5a; --operate-pale: #d5eadc; --monitor: #3f6fbf; --monitor-pale: #dce6f6;
+  --low: #8a9096; --low-pale: #e6e8ea;
+  --radius: 10px; --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --grid: #23282c;
+    --band: rgba(255, 214, 102, .10); --focus: #7aa7ff; --asof: #ff6b6b; --shadow: none;
+    --act-pale: #4a2422; --prepare-pale: #4a3719; --operate-pale: #1f3a2a; --monitor-pale: #1f2f4a; --low-pale: #2c3034;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --grid: #23282c;
+  --band: rgba(255, 214, 102, .10); --focus: #7aa7ff; --asof: #ff6b6b; --shadow: none;
+  --act-pale: #4a2422; --prepare-pale: #4a3719; --operate-pale: #1f3a2a; --monitor-pale: #1f2f4a; --low-pale: #2c3034;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+a { color: inherit; text-decoration-color: color-mix(in srgb, currentColor 40%, transparent); text-underline-offset: 2px; }
+a:hover { text-decoration-color: currentColor; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+.wrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 40px; }
+header.top { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: flex-end; justify-content: space-between; margin-bottom: 16px; }
+h1 { font-size: clamp(20px, 2.4vw, 28px); line-height: 1.2; margin: 0 0 4px; letter-spacing: -.01em; }
+.sub { color: var(--muted); margin: 0; max-width: 70ch; }
+.tools { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.btn, select, input[type="search"] {
+  font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
+  padding: 7px 11px; min-height: 36px;
+}
+.btn { cursor: pointer; }
+.btn:hover { border-color: var(--muted); }
+input[type="search"] { width: min(260px, 70vw); }
+kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; color: var(--muted); }
+
+/* Alert strip: always part of the layout, never covers content */
+.strip {
+  display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; align-items: center;
+  background: var(--panel); border: 1px solid var(--line); border-left: 5px solid var(--act);
+  border-radius: var(--radius); padding: 10px 14px; margin-bottom: 14px; box-shadow: var(--shadow);
+}
+.strip .label { font-weight: 650; white-space: nowrap; }
+.deadlines { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0; padding: 0; list-style: none; }
+.deadlines li { white-space: nowrap; }
+.deadlines .days { font: 600 13px var(--mono); padding: 1px 6px; border-radius: 6px; background: var(--act-pale); margin-right: 6px; }
+@media (max-width: 640px) { .strip { grid-template-columns: 1fr; } .deadlines li { white-space: normal; } }
+
+/* Criticality chips = legend = filters */
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; padding: 0; list-style: none; }
+.chip {
+  display: inline-flex; gap: 8px; align-items: center; cursor: pointer; font: inherit; color: var(--ink);
+  background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px 6px 8px; min-height: 36px;
+}
+.chip .dot { width: 12px; height: 12px; border-radius: 50%; background: var(--c); flex: none; }
+.chip .n { font: 600 12px var(--mono); color: var(--muted); }
+.chip[aria-pressed="true"] { border-color: var(--c); box-shadow: inset 0 0 0 1px var(--c); background: color-mix(in srgb, var(--c) 10%, var(--panel)); }
+.chip:hover { border-color: var(--c); }
+
+.layout { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 16px; align-items: start; }
+.layout > * { min-width: 0; }
+@media (max-width: 1080px) { .layout { grid-template-columns: 1fr; } }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+
+/* Timeline */
+.tl { overflow-x: auto; overscroll-behavior-x: contain; border-radius: var(--radius); }
+.tl-inner { min-width: 860px; position: relative; padding: 0 0 8px; }
+.axis, .row, .grp { display: grid; grid-template-columns: 210px 1fr; }
+.axis { position: sticky; top: 0; z-index: 3; background: var(--panel); border-bottom: 1px solid var(--line); height: 34px; }
+.axis .years { position: relative; }
+.axis .yr { position: absolute; top: 0; height: 34px; display: flex; align-items: center; justify-content: center; font-weight: 600; font-size: 13px; color: var(--muted); }
+.axis .corner { display: flex; align-items: center; padding-left: 14px; font-weight: 600; font-size: 13px; color: var(--muted); }
+.grp { background: color-mix(in srgb, var(--ink) 6%, var(--panel)); }
+.grp h2 { grid-column: 1 / -1; margin: 0; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; padding: 7px 14px; color: var(--muted); }
+.row {
+  position: relative; min-height: 48px; border-bottom: 1px solid var(--grid); cursor: pointer; background: none;
+  width: 100%; border-left: 0; border-right: 0; border-top: 0; padding: 0; text-align: left; font: inherit; color: inherit;
+  transition: opacity .18s ease, filter .18s ease;
+}
+.row .name { display: flex; align-items: center; gap: 9px; padding: 6px 10px 6px 14px; font-size: 14px; line-height: 1.25;
+  position: sticky; left: 0; z-index: 2; background: var(--panel); }
+.axis .corner { position: sticky; left: 0; z-index: 4; background: var(--panel); }
+.row .name .dot { width: 11px; height: 11px; border-radius: 50%; background: var(--c); flex: none; }
+.row .track { position: relative; }
+.row:hover, .row[aria-current="true"] { background: color-mix(in srgb, var(--c) 7%, transparent); }
+.row[aria-current="true"] .name { font-weight: 650; }
+.tl.filtering .row:not(.match) { opacity: .28; filter: saturate(.2); }
+.tl.spot .row:not(.spotlit) { opacity: .45; }
+.bar { position: absolute; top: 50%; height: 14px; transform: translateY(-50%); border: 1px solid var(--c); border-radius: 3px; }
+.bar.in-force { background: var(--cp); }
+.bar.applicable { background: var(--c); }
+.bar.procedure { background: repeating-linear-gradient(135deg, var(--cp) 0 6px, transparent 6px 10px); border-style: dashed; border-width: 2px; }
+.bar.amend { height: 6px; top: auto; bottom: 5px; transform: none; opacity: .9; }
+.ms {
+  position: absolute; top: 50%; width: 11px; height: 11px; margin: -5.5px 0 0 -5.5px; transform: rotate(45deg);
+  background: var(--panel); border: 1.5px solid var(--ink); z-index: 1;
+}
+.ms.ob { background: var(--ink); }
+.ms-l { position: absolute; font-size: 10.5px; color: var(--muted); white-space: nowrap; transform: translateX(-50%); pointer-events: none; }
+.ms-l.up { top: 2px; } .ms-l.down { bottom: 1px; }
+.gridline { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--grid); pointer-events: none; }
+.overlay { position: absolute; top: 34px; bottom: 0; left: 210px; right: 0; pointer-events: none; z-index: 2; }
+.band { position: absolute; top: 0; bottom: 0; background: var(--band); }
+.cursor { position: absolute; top: 0; bottom: 0; width: 0; border-left: 2px dashed var(--asof); }
+.cursor.scrub { border-left: 2px solid var(--focus); }
+.cursor span { position: absolute; top: 4px; left: 4px; font: 600 11px var(--mono); color: var(--asof); background: var(--panel); padding: 0 4px; border-radius: 4px; white-space: nowrap; }
+.cursor.scrub span { color: var(--focus); top: 22px; }
+
+/* Scrubber */
+.scrub-box { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; padding: 12px 14px; border-top: 1px solid var(--line); }
+.scrub-box label { font-weight: 600; white-space: nowrap; }
+.scrub-box input[type="range"] { width: 100%; accent-color: var(--focus); }
+.scrub-box output { font: 600 13px var(--mono); min-width: 12ch; text-align: right; }
+@media (max-width: 640px) { .scrub-box { grid-template-columns: 1fr auto; } .scrub-box label { grid-column: 1 / -1; } }
+
+/* Detail panel */
+.detail { position: sticky; top: 12px; padding: 16px 18px 18px; max-height: calc(100vh - 24px); overflow: auto; contain: content; }
+@media (max-width: 1080px) { .detail { position: static; max-height: none; } }
+.detail h3 { margin: 0 0 2px; font-size: 18px; line-height: 1.25; }
+.detail .meta { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+.badge { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; padding: 3px 9px; border-radius: 999px; background: var(--cp); border: 1px solid var(--c); }
+.badge .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
+.detail h4 { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 16px 0 6px; }
+.detail p { margin: 0 0 8px; }
+.ms-list { list-style: none; margin: 0; padding: 0; }
+.ms-list li { display: grid; grid-template-columns: 92px 1fr auto; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--grid); font-size: 14px; }
+.ms-list time { font: 12.5px var(--mono); color: var(--muted); padding-top: 1px; }
+.ms-list .rel { font: 12px var(--mono); color: var(--muted); white-space: nowrap; }
+.ms-list .past { color: var(--muted); }
+.ob-tag { font-size: 11px; font-weight: 600; color: var(--act); margin-left: 4px; }
+.empty { color: var(--muted); }
+.close { float: right; }
+
+/* Table view */
+details.table-view { margin-top: 16px; }
+details.table-view summary { cursor: pointer; font-weight: 600; padding: 10px 14px; }
+.tbl-wrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 8px 12px; border-top: 1px solid var(--line); vertical-align: top; }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.6; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+@media print {
+  .tools, .scrub-box, .chips, details.table-view summary { display: none; }
+  details.table-view { display: block; } details.table-view > * { display: block; }
+  .layout { grid-template-columns: 1fr; } .detail { display: none; }
+  body { background: #fff; } .card { box-shadow: none; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1 id="title">EU digital and product regulation</h1>
+      <p class="sub" id="subtitle"></p>
+    </div>
+    <div class="tools">
+      <label class="sr" for="profile">Company profile</label>
+      <select id="profile"></select>
+      <label class="sr" for="q">Search acts</label>
+      <input id="q" type="search" placeholder="Search acts, e.g. CRA" autocomplete="off">
+      <kbd aria-hidden="true">/</kbd>
+      <button class="btn" type="button" id="theme" aria-label="Toggle dark mode">◐</button>
+    </div>
+  </header>
+
+  <section class="strip" aria-labelledby="dl-label">
+    <span class="label" id="dl-label">Next deadlines</span>
+    <ul class="deadlines" id="deadlines"></ul>
+  </section>
+
+  <ul class="chips" id="chips" aria-label="Filter by criticality"></ul>
+
+  <div class="layout">
+    <section class="card" aria-label="Timeline">
+      <div class="tl" id="tl">
+        <div class="tl-inner" id="tl-inner">
+          <div class="axis" aria-hidden="true"><div class="corner">Act</div><div class="years" id="years"></div></div>
+          <div id="rows" role="list"></div>
+          <div class="overlay" id="overlay" aria-hidden="true"></div>
+        </div>
+      </div>
+      <div class="scrub-box">
+        <label for="scrub">Status on date</label>
+        <input id="scrub" type="range" min="0" max="100" step="1">
+        <output id="scrub-out" for="scrub"></output>
+      </div>
+    </section>
+
+    <aside class="card detail" id="detail" aria-live="polite" aria-label="Details"></aside>
+  </div>
+
+  <details class="card table-view">
+    <summary>Table view</summary>
+    <div class="tbl-wrap"><table id="table"></table></div>
+  </details>
+
+  <footer id="footer"></footer>
+</div>
+
+<script type="application/json" id="data">{
+ "as_of": "2026-09-01",
+ "horizon": {
+  "start": "2024-01-01",
+  "end": "2031-01-01"
+ },
+ "groups": [
+  "Cybersecurity",
+  "AI and digital",
+  "Product framework",
+  "Industrial policy"
+ ],
+ "criticality": {
+  "act": {
+   "label": "Act now",
+   "legend": "Act now: obligations start within 15 months or started recently"
+  },
+  "prepare": {
+   "label": "Prepare",
+   "legend": "Prepare: obligations start in 15–36 months"
+  },
+  "operate": {
+   "label": "In operation",
+   "legend": "In operation: applies, no new obligations soon"
+  },
+  "monitor": {
+   "label": "Monitor",
+   "legend": "Monitor: proposal / legislative procedure"
+  },
+  "low": {
+   "label": "Low relevance",
+   "legend": "Low relevance for this profile"
+  }
+ },
+ "source": {
+  "before": "Dates and texts from the EU legal acts on EUR-Lex; every link opens the act there. An orientation for planning, not legal advice. Source and updates: ",
+  "url": "https://github.com/git-z0man/eu-regulation-timeline",
+  "label": "eu-regulation-timeline",
+  "after": "."
+ },
+ "profiles": {
+  "machinery-builder": {
+   "title": "Machinery builder",
+   "description": "Manufacturer of machinery with software, connectivity or AI functions, selling in the EU.",
+   "rows": [
+    {
+     "id": "cra",
+     "label": "CRA – Reg. 2024/2847",
+     "group": "Cybersecurity",
+     "act_title": "Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements",
+     "act_url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+     "criticality": "act",
+     "reason": "obligations start 11 Sep 2026",
+     "note": "Connected machines and their software are products with digital elements; security by design, SBOM, vulnerability handling, 24 h / 72 h reporting.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2024-12-10",
+       "to": "2027-12-11"
+      },
+      {
+       "state": "applicable",
+       "from": "2027-12-11",
+       "to": null
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2026-06-11",
+       "label": "Notified bodies",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "date": "2026-09-11",
+       "label": "Reporting Art. 14",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "date": "2027-12-11",
+       "label": "Full application",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "nis2",
+       "title": "NIS 2 Directive",
+       "url": "http://data.europa.eu/eli/dir/2022/2555/oj"
+      },
+      {
+       "id": "machinery-regulation",
+       "title": "Machinery Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+      },
+      {
+       "id": "epa",
+       "title": "European Product Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      },
+      {
+       "id": "pld",
+       "title": "Product Liability Directive",
+       "url": "http://data.europa.eu/eli/dir/2024/2853/oj"
+      },
+      {
+       "id": "csa",
+       "title": "Cybersecurity Act",
+       "url": "http://data.europa.eu/eli/reg/2019/881/oj"
+      },
+      {
+       "id": "public-procurement-act",
+       "title": "Public Procurement Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590"
+      }
+     ]
+    },
+    {
+     "id": "red-cyber",
+     "label": "RED cyber DA 2022/30",
+     "group": "Cybersecurity",
+     "act_title": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f), of that Directive",
+     "act_url": "http://data.europa.eu/eli/reg_del/2022/30/oj",
+     "criticality": "operate",
+     "reason": "applies",
+     "note": "Machines with radio modules (Wi-Fi, Bluetooth, cellular); EN 18031 until the CRA takes over.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2022-02-01",
+       "to": "2025-08-01"
+      },
+      {
+       "state": "applicable",
+       "from": "2025-08-01",
+       "to": "2027-12-11"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2025-08-01",
+       "label": "Applies",
+       "obligation": true,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2444"
+      },
+      {
+       "date": "2027-12-11",
+       "label": "Repealed, CRA takes over",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg_del/2026/339/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "red-cybersecurity-postponement",
+       "title": "Postponement of the RED cybersecurity delegated act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2444"
+      },
+      {
+       "id": "red-cybersecurity-repeal",
+       "title": "Repeal of the RED cybersecurity delegated act",
+       "url": "http://data.europa.eu/eli/reg_del/2026/339/oj"
+      },
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      }
+     ]
+    },
+    {
+     "id": "nis2",
+     "label": "NIS-2 – Dir. 2022/2555",
+     "group": "Cybersecurity",
+     "act_title": "Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union",
+     "act_url": "http://data.europa.eu/eli/dir/2022/2555/oj",
+     "criticality": "operate",
+     "reason": "applies",
+     "note": "Medium and large machinery manufacturers are important entities (Annex II); risk management, incident reporting, supply chain.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2023-01-16",
+       "to": "2024-10-18"
+      },
+      {
+       "state": "applicable",
+       "from": "2024-10-18",
+       "to": null
+      },
+      {
+       "state": "procedure",
+       "from": "2026-01-20",
+       "to": "2028-06-30"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2024-10-17",
+       "label": "Transposition",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/dir/2022/2555/oj"
+      },
+      {
+       "date": "2025-11-19",
+       "label": "Omnibus proposal",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837"
+      },
+      {
+       "date": "2026-01-20",
+       "label": "Amendment proposal",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013"
+      }
+     ],
+     "related": [
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "id": "csa",
+       "title": "Cybersecurity Act",
+       "url": "http://data.europa.eu/eli/reg/2019/881/oj"
+      },
+      {
+       "id": "csa2",
+       "title": "Cybersecurity Act 2",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011"
+      },
+      {
+       "id": "nis2-amendment",
+       "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013"
+      },
+      {
+       "id": "digital-omnibus",
+       "title": "Digital Omnibus",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837"
+      }
+     ]
+    },
+    {
+     "id": "csa",
+     "label": "CSA 2019/881 → CSA2",
+     "group": "Cybersecurity",
+     "act_title": "Regulation (EU) 2019/881 on ENISA and on information and communications technology cybersecurity certification",
+     "act_url": "http://data.europa.eu/eli/reg/2019/881/oj",
+     "criticality": "monitor",
+     "reason": "certification under the CSA is voluntary; CSA2 may shape CRA conformity assessment",
+     "note": "EUCC certification; CSA2 proposes ICT supply-chain rules and may shape CRA conformity.",
+     "phases": [
+      {
+       "state": "applicable",
+       "from": "2019-06-27",
+       "to": null
+      },
+      {
+       "state": "procedure",
+       "from": "2026-01-20",
+       "to": "2028-06-30"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2026-01-20",
+       "label": "CSA2 proposal",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011"
+      }
+     ],
+     "related": [
+      {
+       "id": "csa2",
+       "title": "Cybersecurity Act 2",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011"
+      },
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "id": "nis2",
+       "title": "NIS 2 Directive",
+       "url": "http://data.europa.eu/eli/dir/2022/2555/oj"
+      }
+     ]
+    },
+    {
+     "id": "ai-act",
+     "label": "AI Act – Reg. 2024/1689",
+     "group": "AI and digital",
+     "act_title": "Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence",
+     "act_url": "http://data.europa.eu/eli/reg/2024/1689/oj",
+     "criticality": "prepare",
+     "reason": "obligations start 02 Aug 2028",
+     "note": "AI safety components in machines are high-risk (Annex I); rules apply from 2 Aug 2028 after the Omnibus.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2024-08-01",
+       "to": "2025-02-02"
+      },
+      {
+       "state": "applicable",
+       "from": "2025-02-02",
+       "to": null
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2025-02-02",
+       "label": "Prohibitions",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+      },
+      {
+       "date": "2025-08-02",
+       "label": "GPAI",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+      },
+      {
+       "date": "2026-07-24",
+       "label": "AI Omnibus",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+      },
+      {
+       "date": "2027-12-02",
+       "label": "High-risk Annex III",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+      },
+      {
+       "date": "2028-08-02",
+       "label": "High-risk in products",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "digital-omnibus-ai",
+       "title": "Digital Omnibus on AI",
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+      },
+      {
+       "id": "machinery-regulation",
+       "title": "Machinery Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+      },
+      {
+       "id": "pld",
+       "title": "Product Liability Directive",
+       "url": "http://data.europa.eu/eli/dir/2024/2853/oj"
+      },
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      }
+     ]
+    },
+    {
+     "id": "machinery",
+     "label": "Machinery Reg. 2023/1230",
+     "group": "Product framework",
+     "act_title": "Regulation (EU) 2023/1230 on machinery",
+     "act_url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+     "criticality": "act",
+     "reason": "obligations start 20 Jan 2027",
+     "note": "Replaces the Machinery Directive; safety of software and AI, protection against corruption, digital instructions.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2023-07-19",
+       "to": "2027-01-20"
+      },
+      {
+       "state": "applicable",
+       "from": "2027-01-20",
+       "to": null
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2027-01-20",
+       "label": "Applies",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+      },
+      {
+       "date": "2028-08-02",
+       "label": "AI safety requirements",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "digital-omnibus-ai",
+       "title": "Digital Omnibus on AI",
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+      },
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "id": "epa",
+       "title": "European Product Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      },
+      {
+       "id": "gpsr",
+       "title": "General Product Safety Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+      },
+      {
+       "id": "ai-act",
+       "title": "Artificial Intelligence Act",
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+      }
+     ]
+    },
+    {
+     "id": "pld",
+     "label": "PLD – Dir. 2024/2853",
+     "group": "Product framework",
+     "act_title": "Directive (EU) 2024/2853 on liability for defective products",
+     "act_url": "http://data.europa.eu/eli/dir/2024/2853/oj",
+     "criticality": "act",
+     "reason": "obligations start 09 Dec 2026",
+     "note": "Software is a product; liability for defects including missing security updates, for products placed from 9 Dec 2026.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2024-12-08",
+       "to": "2026-12-09"
+      },
+      {
+       "state": "applicable",
+       "from": "2026-12-09",
+       "to": null
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2026-12-09",
+       "label": "Transposition",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/dir/2024/2853/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "id": "epa",
+       "title": "European Product Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      },
+      {
+       "id": "ai-act",
+       "title": "Artificial Intelligence Act",
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+      }
+     ]
+    },
+    {
+     "id": "gpsr",
+     "label": "GPSR – Reg. 2023/988",
+     "group": "Product framework",
+     "act_title": "Regulation (EU) 2023/988 on general product safety",
+     "act_url": "http://data.europa.eu/eli/reg/2023/988/oj",
+     "criticality": "operate",
+     "reason": "applies",
+     "note": "Consumer machinery and spare parts; safety, recalls, online sales.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2023-06-12",
+       "to": "2024-12-13"
+      },
+      {
+       "state": "applicable",
+       "from": "2024-12-13",
+       "to": null
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2024-12-13",
+       "label": "Applies",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "epa",
+       "title": "European Product Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      },
+      {
+       "id": "market-surveillance",
+       "title": "Market Surveillance Regulation",
+       "url": "http://data.europa.eu/eli/reg/2019/1020/oj"
+      }
+     ]
+    },
+    {
+     "id": "imera",
+     "label": "IMERA – Reg. 2024/2747",
+     "group": "Product framework",
+     "act_title": "Regulation (EU) 2024/2747 establishing a framework of measures related to an internal market emergency and to the resilience of the internal market",
+     "act_url": "http://data.europa.eu/eli/reg/2024/2747/oj",
+     "criticality": "low",
+     "reason": "low relevance for this profile",
+     "note": "Only in an internal market emergency; priority orders, fast-track conformity assessment.",
+     "phases": [
+      {
+       "state": "in-force",
+       "from": "2024-11-28",
+       "to": "2026-05-29"
+      },
+      {
+       "state": "applicable",
+       "from": "2026-05-29",
+       "to": null
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2026-05-29",
+       "label": "Applies",
+       "obligation": true,
+       "url": "http://data.europa.eu/eli/reg/2024/2747/oj"
+      }
+     ],
+     "related": [
+      {
+       "id": "internal-market-emergency-omnibus",
+       "title": "Internal market emergency omnibus",
+       "url": "http://data.europa.eu/eli/reg/2024/2748/oj"
+      },
+      {
+       "id": "gpsr",
+       "title": "General Product Safety Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+      },
+      {
+       "id": "machinery-regulation",
+       "title": "Machinery Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+      },
+      {
+       "id": "market-surveillance",
+       "title": "Market Surveillance Regulation",
+       "url": "http://data.europa.eu/eli/reg/2019/1020/oj"
+      }
+     ]
+    },
+    {
+     "id": "epa",
+     "label": "EPA (NLF revision)",
+     "group": "Product framework",
+     "act_title": "European Product Act",
+     "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+     "criticality": "monitor",
+     "reason": "proposal or legislative procedure",
+     "note": "New horizontal product framework replacing the NLF acts; CE marking, conformity assessment, digital product information.",
+     "phases": [
+      {
+       "state": "procedure",
+       "from": "2026-10-06",
+       "to": "2028-12-31"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2025-10-21",
+       "label": "EP resolution",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      },
+      {
+       "date": "2026-10-06",
+       "label": "Proposal expected",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      }
+     ],
+     "related": [
+      {
+       "id": "nlf-decision",
+       "title": "New Legislative Framework Decision",
+       "url": "http://data.europa.eu/eli/dec/2008/768(1)/oj"
+      },
+      {
+       "id": "accreditation-regulation",
+       "title": "Accreditation and CE marking Regulation",
+       "url": "http://data.europa.eu/eli/reg/2008/765/oj"
+      },
+      {
+       "id": "market-surveillance",
+       "title": "Market Surveillance Regulation",
+       "url": "http://data.europa.eu/eli/reg/2019/1020/oj"
+      },
+      {
+       "id": "gpsr",
+       "title": "General Product Safety Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+      },
+      {
+       "id": "machinery-regulation",
+       "title": "Machinery Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+      },
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      }
+     ]
+    },
+    {
+     "id": "digitalisation",
+     "label": "Digitalisation & common specs",
+     "group": "Product framework",
+     "act_title": "Proposal for a Regulation amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications",
+     "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504",
+     "criticality": "monitor",
+     "reason": "proposal or legislative procedure",
+     "note": "Digital declaration of conformity and instructions; common specifications where standards are missing (amends the Machinery Regulation).",
+     "phases": [
+      {
+       "state": "procedure",
+       "from": "2025-05-21",
+       "to": "2027-06-30"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2025-05-21",
+       "label": "COM(2025) 503/504",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504"
+      }
+     ],
+     "related": [
+      {
+       "id": "accreditation-regulation",
+       "title": "Accreditation and CE marking Regulation",
+       "url": "http://data.europa.eu/eli/reg/2008/765/oj"
+      },
+      {
+       "id": "machinery-regulation",
+       "title": "Machinery Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+      },
+      {
+       "id": "product-digitalisation-directive",
+       "title": "Digitalisation and common specifications in product legislation (Directive)",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0503"
+      },
+      {
+       "id": "epa",
+       "title": "European Product Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+      },
+      {
+       "id": "nlf-decision",
+       "title": "New Legislative Framework Decision",
+       "url": "http://data.europa.eu/eli/dec/2008/768(1)/oj"
+      }
+     ]
+    },
+    {
+     "id": "ppa",
+     "label": "Public Procurement Act",
+     "group": "Industrial policy",
+     "act_title": "Proposal for a Regulation on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU",
+     "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
+     "criticality": "monitor",
+     "reason": "proposal or legislative procedure",
+     "note": "Public buyers of machinery; EU preference and cyber criteria in tenders; amends the CRA.",
+     "phases": [
+      {
+       "state": "procedure",
+       "from": "2026-09-09",
+       "to": "2028-12-31"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2026-09-09",
+       "label": "Proposal",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590"
+      }
+     ],
+     "related": [
+      {
+       "id": "cra",
+       "title": "Cyber Resilience Act",
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+      },
+      {
+       "id": "nzia",
+       "title": "Net Zero Industry Act",
+       "url": "http://data.europa.eu/eli/reg/2024/1735/oj"
+      },
+      {
+       "id": "industrial-accelerator-act",
+       "title": "Industrial Accelerator Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100"
+      }
+     ]
+    },
+    {
+     "id": "iaa",
+     "label": "Industrial Accelerator Act",
+     "group": "Industrial policy",
+     "act_title": "Proposal for a Regulation establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors",
+     "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100",
+     "criticality": "monitor",
+     "reason": "proposal or legislative procedure",
+     "note": "\"Made in Europe\" criteria for public support in strategic sectors; amends the NZIA.",
+     "phases": [
+      {
+       "state": "procedure",
+       "from": "2026-03-04",
+       "to": "2028-06-30"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2026-03-04",
+       "label": "Proposal",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100"
+      }
+     ],
+     "related": [
+      {
+       "id": "nzia",
+       "title": "Net Zero Industry Act",
+       "url": "http://data.europa.eu/eli/reg/2024/1735/oj"
+      },
+      {
+       "id": "public-procurement-act",
+       "title": "Public Procurement Act",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}</script>
+<script>
+(() => {
+  "use strict";
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const CRIT = D.criticality;           // key -> {label, legend}
+  const ORDER = Object.keys(CRIT);
+  const $ = (s, el = document) => el.querySelector(s);
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") n.className = v;
+      else if (k === "style") n.setAttribute("style", v);
+      else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
+      else n.setAttribute(k, v === true ? "" : v);
+    }
+    for (const k of kids.flat()) if (k != null && k !== false) n.append(k.nodeType ? k : document.createTextNode(k));
+    return n;
+  };
+  const day = s => new Date(s + "T00:00:00Z");
+  const T0 = day(D.horizon.start), T1 = day(D.horizon.end);
+  const ASOF = day(D.as_of);                       // basis of the criticality
+  const TODAY = (() => { const n = new Date(); return new Date(Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate())); })();
+  const todayIso = TODAY.toISOString().slice(0, 10);
+  const pct = d => Math.max(0, Math.min(100, (day(d) - T0) / (T1 - T0) * 100));
+  const fmt = d => day(d).toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric", timeZone: "UTC" });
+  const daysBetween = (a, b) => Math.round((b - a) / 864e5);
+  const rel = d => {
+    const n = daysBetween(TODAY, day(d));
+    if (n === 0) return "today";
+    const a = Math.abs(n), s = a > 90 ? Math.round(a / 30.44) + " mo" : a + " d";
+    return n > 0 ? "in " + s : s + " ago";
+  };
+  const store = {
+    get(k) { try { return localStorage.getItem("rt:" + k); } catch { return null; } },
+    set(k, v) { try { localStorage.setItem("rt:" + k, v); } catch { /* private mode */ } },
+  };
+
+  let profileKey = (location.hash.match(/profile=([\w-]+)/) || [])[1] || store.get("profile") || Object.keys(D.profiles)[0];
+  if (!D.profiles[profileKey]) profileKey = Object.keys(D.profiles)[0];
+  let selected = (location.hash.match(/act=([\w-]+)/) || [])[1] || null;
+  const active = new Set();
+  let query = "";
+
+  // Theme toggle (default follows the system)
+  const savedTheme = store.get("theme");
+  if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+  $("#theme").addEventListener("click", () => {
+    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    store.set("theme", next);
+  });
+
+  const P = () => D.profiles[profileKey];
+  const rowsOf = () => P().rows;
+  const cvars = c => `--c: var(--${c}); --cp: var(--${c}-pale);`;
+
+  function stateOn(row, date) {
+    const t = day(date);
+    for (const p of row.phases) {
+      if (p.state === "procedure" && row.phases.some(q => q.state !== "procedure")) continue;
+      const a = day(p.from), b = p.to ? day(p.to) : null;
+      if (t >= a && (!b || t < b)) return p.state;
+    }
+    const firsts = row.phases.map(p => day(p.from));
+    if (firsts.length && t < new Date(Math.min(...firsts))) return "not yet";
+    return row.phases.some(p => p.to && day(p.to) <= t) ? "ended" : "—";
+  }
+  const STATE_LABEL = { "in-force": "in force, not yet applicable", applicable: "applicable", procedure: "in legislative procedure", "not yet": "not yet adopted", ended: "no longer applies", "—": "—" };
+
+  // ---------- header, profile, chips
+  function renderHeader() {
+    const sel = $("#profile");
+    sel.replaceChildren(...Object.entries(D.profiles).map(([k, p]) => el("option", { value: k, selected: k === profileKey }, p.title)));
+    sel.disabled = Object.keys(D.profiles).length < 2;
+    $("#title").textContent = "EU digital and product regulation – " + P().title;
+    $("#subtitle").textContent = `${P().description} Criticality as of ${fmt(D.as_of)}, an orientation for planning, not a legal assessment.`;
+    document.title = "Regulation Timeline – " + P().title;
+  }
+  function renderChips() {
+    const counts = Object.fromEntries(ORDER.map(k => [k, 0]));
+    rowsOf().forEach(r => counts[r.criticality]++);
+    $("#chips").replaceChildren(...ORDER.map(k => el("li", {},
+      el("button", { type: "button", class: "chip", style: cvars(k), "aria-pressed": String(active.has(k)), title: CRIT[k].legend,
+        onclick: () => { active.has(k) ? active.delete(k) : active.add(k); renderChips(); applyFilter(); } },
+        el("span", { class: "dot", "aria-hidden": "true" }), CRIT[k].label, el("span", { class: "n" }, String(counts[k]))))));
+  }
+  function renderDeadlines() {
+    const items = [];
+    rowsOf().forEach(r => r.milestones.forEach(m => {
+      if (m.obligation && day(m.date) >= TODAY && r.criticality !== "low") items.push({ r, m });
+    }));
+    items.sort((a, b) => day(a.m.date) - day(b.m.date));
+    const list = items.slice(0, 4).map(({ r, m }) => el("li", {},
+      el("span", { class: "days" }, rel(m.date)),
+      el("a", { href: "#act=" + r.id, onclick: e => { e.preventDefault(); select(r.id, true); } }, r.label.split(" – ")[0]),
+      ": " + m.label + " (" + fmt(m.date) + ")"));
+    $("#deadlines").replaceChildren(...(list.length ? list : [el("li", { class: "empty" }, "No dated obligations ahead.")]));
+  }
+
+  // ---------- timeline
+  function renderAxis() {
+    const years = $("#years");
+    const out = [];
+    for (let y = T0.getUTCFullYear(); y < T1.getUTCFullYear(); y++) {
+      const a = pct(y + "-01-01"), b = pct((y + 1) + "-01-01");
+      out.push(el("div", { class: "yr", style: `left:${a}%;width:${b - a}%` }, String(y)));
+    }
+    years.replaceChildren(...out);
+  }
+  function renderRows() {
+    const box = $("#rows");
+    const kids = [];
+    const grid = [];
+    for (let y = T0.getUTCFullYear(); y <= T1.getUTCFullYear(); y++) grid.push(pct(y + "-01-01"));
+    for (const g of D.groups) {
+      const rows = rowsOf().filter(r => r.group === g);
+      if (!rows.length) continue;
+      kids.push(el("div", { class: "grp", role: "presentation" }, el("h2", {}, g)));
+      rows.forEach((r, i) => {
+        const track = el("div", { class: "track" }, grid.map(x => el("span", { class: "gridline", style: `left:${x}%` })));
+        const hasMain = r.phases.some(p => p.state !== "procedure");
+        r.phases.forEach(p => {
+          const a = pct(p.from), b = pct(p.to || D.horizon.end);
+          const cls = "bar " + p.state + (p.state === "procedure" && hasMain ? " amend" : "");
+          track.append(el("span", { class: cls, style: `left:${a}%;width:${Math.max(b - a, .4)}%` }));
+        });
+        r.milestones.forEach((m, j) => {
+          const x = pct(m.date);
+          track.append(el("span", { class: "ms" + (m.obligation ? " ob" : ""), style: `left:${x}%`, title: `${m.label}: ${fmt(m.date)}` }));
+          track.append(el("span", { class: "ms-l " + (j % 2 ? "down" : "up"), style: `left:${x}%` }, m.label));
+        });
+        const btn = el("button", {
+          type: "button", class: "row", role: "listitem", style: cvars(r.criticality), "data-id": r.id,
+          "aria-label": `${r.label}. ${CRIT[r.criticality].label}: ${r.reason}.`,
+          onclick: () => select(r.id),
+          onmouseenter: () => spot(r.id), onmouseleave: () => spot(null), onfocus: () => spot(r.id), onblur: () => spot(null),
+          onkeydown: e => {
+            const all = [...box.querySelectorAll(".row")];
+            const k = all.indexOf(e.currentTarget);
+            if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+              e.preventDefault();
+              all[Math.max(0, Math.min(all.length - 1, k + (e.key === "ArrowDown" ? 1 : -1)))].focus();
+            }
+          },
+        }, el("span", { class: "name" }, el("span", { class: "dot", "aria-hidden": "true" }), r.label), track);
+        kids.push(btn);
+      });
+    }
+    box.replaceChildren(...kids);
+    applyFilter();
+    markSelected();
+  }
+  function spot(id) {
+    const tl = $("#tl");
+    tl.classList.toggle("spot", !!id && !tl.classList.contains("filtering"));
+    tl.querySelectorAll(".row").forEach(r => r.classList.toggle("spotlit", r.dataset.id === id));
+  }
+  function applyFilter() {
+    const tl = $("#tl");
+    const on = active.size > 0 || query.length > 0;
+    tl.classList.toggle("filtering", on);
+    tl.querySelectorAll(".row").forEach(b => {
+      const r = rowsOf().find(x => x.id === b.dataset.id);
+      const hay = (r.label + " " + r.act_title + " " + r.note).toLowerCase();
+      const ok = (!active.size || active.has(r.criticality)) && (!query || hay.includes(query));
+      b.classList.toggle("match", ok);
+    });
+  }
+  function renderOverlay() {
+    const ov = $("#overlay");
+    const next = new Date(TODAY); next.setUTCFullYear(next.getUTCFullYear() + 1);
+    const a = pct(todayIso), b = pct(next.toISOString().slice(0, 10));
+    ov.replaceChildren(
+      el("div", { class: "band", style: `left:${a}%;width:${b - a}%`, title: "next 12 months" }),
+      el("div", { class: "cursor", style: `left:${a}%` }, el("span", {}, "today " + fmt(todayIso))),
+      el("div", { class: "cursor scrub", id: "scrub-line", style: `left:${a}%;display:none` }, el("span", {})));
+  }
+
+  // ---------- scrubber: status of every act on a chosen date
+  const months = (T1.getUTCFullYear() - T0.getUTCFullYear()) * 12;
+  const scrub = $("#scrub");
+  scrub.max = String(months - 1);
+  const monthDate = i => { const d = new Date(T0); d.setUTCMonth(d.getUTCMonth() + i); return d.toISOString().slice(0, 10); };
+  const startMonth = Math.max(0, Math.min(months - 1, (TODAY.getUTCFullYear() - T0.getUTCFullYear()) * 12 + TODAY.getUTCMonth()));
+  scrub.value = String(startMonth);
+  let scrubDate = todayIso;
+  function onScrub() {
+    scrubDate = +scrub.value === startMonth ? todayIso : monthDate(+scrub.value);
+    const label = day(scrubDate).toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+    $("#scrub-out").value = label;
+    scrub.setAttribute("aria-valuetext", label + ": " + rowsOf().filter(r => stateOn(r, scrubDate) === "applicable").length + " acts applicable");
+    const line = $("#scrub-line");
+    const moved = +scrub.value !== startMonth;
+    line.style.display = moved ? "" : "none";
+    line.style.left = pct(scrubDate) + "%";
+    line.firstChild.textContent = label;
+    renderDetail();
+  }
+  scrub.addEventListener("input", onScrub);
+
+  // ---------- detail panel
+  function select(id, scroll) {
+    selected = id;
+    history.replaceState(null, "", "#profile=" + profileKey + (id ? "&act=" + id : ""));
+    markSelected();
+    renderDetail();
+    if (scroll && id) document.querySelector(`.row[data-id="${id}"]`)?.scrollIntoView({ block: "nearest", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+  }
+  function markSelected() {
+    document.querySelectorAll(".row").forEach(r => r.setAttribute("aria-current", String(r.dataset.id === selected)));
+  }
+  function renderDetail() {
+    const box = $("#detail");
+    const r = rowsOf().find(x => x.id === selected);
+    if (!r) {
+      const on = rowsOf().map(x => ({ x, s: stateOn(x, scrubDate) }));
+      const dateLabel = fmt(scrubDate);
+      box.replaceChildren(
+        el("h3", {}, "Status on " + dateLabel),
+        el("p", { class: "meta" }, "Move the date slider below the timeline, or select an act for details."),
+        ...["applicable", "in-force", "procedure"].map(s => {
+          const list = on.filter(o => o.s === s);
+          return list.length ? el("div", {}, el("h4", {}, STATE_LABEL[s] + " (" + list.length + ")"),
+            el("ul", { class: "ms-list" }, list.map(o => el("li", { style: "grid-template-columns: 1fr" },
+              el("a", { href: "#act=" + o.x.id, onclick: e => { e.preventDefault(); select(o.x.id, true); } }, o.x.label))))) : null;
+        }));
+      return;
+    }
+    const st = stateOn(r, scrubDate);
+    box.replaceChildren(
+      el("button", { type: "button", class: "btn close", "aria-label": "Close details", onclick: () => select(null) }, "✕"),
+      el("h3", {}, r.act_url ? el("a", { href: r.act_url, target: "_blank", rel: "noopener" }, r.label) : r.label),
+      el("p", { class: "meta" }, r.act_title),
+      el("span", { class: "badge", style: cvars(r.criticality) }, el("span", { class: "dot", "aria-hidden": "true" }), CRIT[r.criticality].label),
+      el("p", { style: "margin-top:8px" }, el("strong", {}, "Why: "), r.reason + "."),
+      el("h4", {}, "What it means for us"),
+      el("p", {}, r.note || "—"),
+      el("h4", {}, "Status on " + fmt(scrubDate)),
+      el("p", {}, STATE_LABEL[st] || st),
+      el("h4", {}, "Milestones"),
+      el("ul", { class: "ms-list" }, r.milestones.map(m => el("li", { class: day(m.date) < TODAY ? "past" : "" },
+        el("time", { datetime: m.date }, fmt(m.date)),
+        el("span", {}, m.url ? el("a", { href: m.url, target: "_blank", rel: "noopener" }, m.label) : m.label,
+          m.obligation ? el("span", { class: "ob-tag" }, "obligation") : null),
+        el("span", { class: "rel" }, rel(m.date))))),
+      r.related.length ? el("h4", {}, "Related acts") : null,
+      r.related.length ? el("p", {}, r.related.flatMap((a, i) => [i ? ", " : "", a.url ? el("a", { href: a.url, target: "_blank", rel: "noopener" }, a.title) : a.title])) : null,
+    );
+  }
+
+  // ---------- table view
+  function renderTable() {
+    const rows = [...rowsOf()].sort((a, b) => ORDER.indexOf(a.criticality) - ORDER.indexOf(b.criticality) || a.label.localeCompare(b.label));
+    $("#table").replaceChildren(
+      el("thead", {}, el("tr", {}, ["Act", "Criticality", "Why", "Next milestone", "What it means for us"].map(h => el("th", { scope: "col" }, h)))),
+      el("tbody", {}, rows.map(r => {
+        const nx = r.milestones.filter(m => day(m.date) >= TODAY).sort((a, b) => day(a.date) - day(b.date))[0];
+        return el("tr", {},
+          el("td", {}, r.act_url ? el("a", { href: r.act_url }, r.label) : r.label),
+          el("td", {}, CRIT[r.criticality].label),
+          el("td", {}, r.reason),
+          el("td", {}, nx ? fmt(nx.date) + " – " + nx.label : "—"),
+          el("td", {}, r.note));
+      })));
+  }
+
+  function renderAll() {
+    renderHeader(); renderChips(); renderDeadlines(); renderAxis(); renderRows(); renderOverlay(); onScrub(); renderTable();
+    $("#footer").replaceChildren(
+      D.source.before,
+      el("a", { href: D.source.url }, D.source.label),
+      D.source.after + " Legend: filled diamond = obligations start; pale bar = in force, not yet applicable; solid bar = applicable; hatched bar = legislative procedure (expected duration); thin hatched bar = pending amendment. Keyboard: / search, ↑/↓ move between acts, Enter select, Esc clear.");
+  }
+
+  $("#profile").addEventListener("change", e => { profileKey = e.target.value; store.set("profile", profileKey); selected = null; renderAll(); });
+  $("#q").addEventListener("input", e => { query = e.target.value.trim().toLowerCase(); applyFilter(); });
+  document.addEventListener("keydown", e => {
+    if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); }
+    if (e.key === "Escape") {
+      if (document.activeElement === $("#q") && query) { $("#q").value = ""; query = ""; applyFilter(); return; }
+      if (selected) select(null); else if (active.size) { active.clear(); renderChips(); applyFilter(); }
+    }
+  });
+  renderAll();
+})();
+</script>
+</body>
+</html>
