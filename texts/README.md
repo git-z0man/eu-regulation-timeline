@@ -512,6 +512,7 @@ Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Artic
 | Version | Stage | Document | EN | DE | Official source |
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-20_com-proposal | com-proposal | 52026PC0013 | [en](nis2-amendment/2026-01-20_com-proposal.en.md) | [de](nis2-amendment/2026-01-20_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0013) |
+| 2026-05-22_council-progress-report-st-9399-26 | council-progress-report | ST 9399/26 | [en](nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) | [de](nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/de/pdf) |
 | 2026-09-24_ep-draft-report-pe792-221 | ep-draft-report | PE792.221 | [en](nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) | – | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.docx) |
 
 ## Implementing Regulation (EU) 2024/2690
@@ -641,6 +642,7 @@ Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Artic
 | 2026-05-26_agreed-text-wk-7383-26 | agreed-text | WK 7383/26 | [en](product-digitalisation-regulation/2026-05-26_agreed-text-wk-7383-26.en.md) | – | [source](https://data.consilium.europa.eu/doc/document/WK-7383-2026-INIT/en/pdf) |
 | 2026-06-05_council-progress-report-st-9834-26 | council-progress-report | ST 9834/26 | [en](product-digitalisation-regulation/2026-06-05_council-progress-report-st-9834-26.en.md) | – | [source](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) |
 | 2026-06-12_council-progress-report-st-9834-26-rev-1 | council-progress-report | ST 9834/26 REV 1 | [en](product-digitalisation-regulation/2026-06-12_council-progress-report-st-9834-26-rev-1.en.md) | [de](product-digitalisation-regulation/2026-06-12_council-progress-report-st-9834-26-rev-1.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/de/pdf) |
+| 2026-06-24_council-confirmation-st-10482-26-rev-2 | council-confirmation | ST 10482/26 REV 2 | [en](product-digitalisation-regulation/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | – | [source](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) |
 | 2026-06-26_agreed-text-pe790-900 | agreed-text | PE790.900 | [en](product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) | – | [source](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790900/IMCO-AG-790900_en.docx) |
 
 ## PPA

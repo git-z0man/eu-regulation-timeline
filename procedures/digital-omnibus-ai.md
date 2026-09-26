@@ -61,6 +61,7 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 
 | Date | Document | Kind | Subject | Text |
 | --- | --- | --- | --- | --- |
+| 2025-12-01 | [WK 16586/25](https://data.consilium.europa.eu/doc/document/WK-16586-2025-INIT/en/pdf) | council-note | Digital Omnibus – Presentation by the Commission (AGS on 1 December) | – |
 | 2026-01-23 | [ST 5638/26](https://data.consilium.europa.eu/doc/document/ST-5638-2026-INIT/en/pdf) | council-compromise | Presidency compromise text | – |
 | 2026-02-05 | [PE782.530](https://data.europarl.europa.eu/api/v2/committee-documents/CJ40-PR-782530) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards … | – |
 | 2026-02-12 | [ST 6245/26](https://data.consilium.europa.eu/doc/document/ST-6245-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text | – |
