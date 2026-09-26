@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1820" height="916" viewBox="0 0 1820 916" font-family="Helvetica, Arial, sans-serif">
-<rect width="1820" height="916" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1820" height="958" viewBox="0 0 1820 958" font-family="Helvetica, Arial, sans-serif">
+<rect width="1820" height="958" fill="#ffffff"/>
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">EU digital and product regulation – Machinery builder</tspan></text>
 <text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 01 Sep 2026. Click a bar or milestone to open the act on EUR-Lex. An orientation, not legal advice.</tspan></text>
-<rect x="733.3" y="88.0" width="169.9" height="744.0" fill="#fff3c4" stroke="none" opacity="0.6"/>
+<rect x="733.3" y="88.0" width="169.9" height="786.0" fill="#fff3c4" stroke="none" opacity="0.6"/>
 <text font-size="10" fill="#8a6d00" text-anchor="middle"><tspan x="818.3" y="81.5">next 12 months</tspan></text>
-<line x1="280.0" y1="88.0" x2="280.0" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="280.0" y1="88.0" x2="280.0" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="365.0" y="102.2">2024</tspan></text>
-<line x1="450.3" y1="88.0" x2="450.3" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="450.3" y1="88.0" x2="450.3" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="535.3" y="102.2">2025</tspan></text>
-<line x1="620.2" y1="88.0" x2="620.2" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="620.2" y1="88.0" x2="620.2" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="705.2" y="102.2">2026</tspan></text>
-<line x1="790.1" y1="88.0" x2="790.1" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="790.1" y1="88.0" x2="790.1" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="875.1" y="102.2">2027</tspan></text>
-<line x1="960.0" y1="88.0" x2="960.0" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="960.0" y1="88.0" x2="960.0" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="1045.0" y="102.2">2028</tspan></text>
-<line x1="1130.3" y1="88.0" x2="1130.3" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="1130.3" y1="88.0" x2="1130.3" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="1215.3" y="102.2">2029</tspan></text>
-<line x1="1300.2" y1="88.0" x2="1300.2" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="1300.2" y1="88.0" x2="1300.2" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="1385.2" y="102.2">2030</tspan></text>
-<line x1="1470.1" y1="88.0" x2="1470.1" y2="832.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="1470.1" y1="88.0" x2="1470.1" y2="874.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="102.2">Act</tspan></text>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1484.0" y="102.2">What it means for us</tspan></text>
 <rect x="20.0" y="124.0" width="1780.0" height="30.0" fill="#44505c"/>
@@ -132,54 +132,61 @@
 <text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="640.2">New horizontal product framework replacing the NLF acts; CE</tspan><tspan x="1484.0" y="652.8">marking, conformity assessment, digital product information.</tspan></text>
 <line x1="20.0" y1="664.0" x2="1800.0" y2="664.0" stroke="#eceef0" stroke-width="1"/>
 <g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="678.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="688.9">Digitalisation &amp; common specs</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><rect x="515.5" y="674.0" width="358.4" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><title>COM(2025) 503/504: 21 May 2025</title><polygon points="515.5099247091034,679.0 521.5099247091034,685.0 515.5099247091034,691.0 509.5099247091034,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="523.5" y="669.0">COM(2025) 503/504</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf" target="_blank"><title>Council mandate: 24 Sep 2025</title><polygon points="574.1546885694729,679.0 580.1546885694729,685.0 574.1546885694729,691.0 568.1546885694729,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="582.2" y="702.0">Council mandate</tspan></text></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0024/A-10-2026-0024_en.docx" target="_blank"><title>EP mandate: 11 Mar 2026</title><polygon points="652.3477070499657,679.0 658.3477070499657,685.0 652.3477070499657,691.0 646.3477070499657,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0024/A-10-2026-0024_en.docx" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="660.3" y="669.0">EP mandate</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf" target="_blank"><title>Agreement: 09 Jun 2026</title><polygon points="694.2368240930869,679.0 700.2368240930869,685.0 694.2368240930869,691.0 688.2368240930869,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="702.2" y="702.0">Agreement</tspan></text></a>
-<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="676.0">Agreed 9 Jun 2026, applies 30 months after entry into force.</tspan><tspan x="1484.0" y="688.5">Digital declaration of conformity and instructions; common</tspan><tspan x="1484.0" y="701.0">specifications; amends the Machinery Regulation.</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="688.9">Standardisation Regulation (revision)</tspan></text>
+<g><title>expected</title><rect x="749.6" y="674.0" width="294.6" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></g>
+<g><title>Proposal expected (with EPA): 06 Oct 2026</title><polygon points="749.6235455167694,679.0 755.6235455167694,685.0 749.6235455167694,691.0 743.6235455167694,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
+<text font-size="8" fill="#222222" text-anchor="start"><tspan x="757.6" y="702.0">Proposal expected (with EPA)</tspan></text>
+<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="669.8">Update of the rules on standardisation (Reg. 1025/2012)</tspan><tspan x="1484.0" y="682.2">announced with the European Product Act (Commission Work</tspan><tspan x="1484.0" y="694.8">Programme 2026); basis of harmonised standards and</tspan><tspan x="1484.0" y="707.2">presumption of conformity.</tspan></text>
 <line x1="20.0" y1="706.0" x2="1800.0" y2="706.0" stroke="#eceef0" stroke-width="1"/>
-<rect x="20.0" y="712.0" width="1780.0" height="30.0" fill="#44505c"/>
-<text font-size="12" fill="#ffffff" text-anchor="start" font-weight="bold"><tspan x="24.0" y="731.2">Industrial policy</tspan></text>
-<g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="762.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="772.9">Public Procurement Act</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><rect x="737.1" y="758.0" width="392.8" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><title>Proposal: 09 Sep 2026</title><polygon points="737.056810403833,763.0 743.056810403833,769.0 737.056810403833,775.0 731.056810403833,769.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="745.1" y="753.0">Proposal</tspan></text></a>
-<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="766.2">Public buyers of machinery; EU preference and cyber criteria</tspan><tspan x="1484.0" y="778.8">in tenders; amends the CRA.</tspan></text>
-<line x1="20.0" y1="790.0" x2="1800.0" y2="790.0" stroke="#eceef0" stroke-width="1"/>
+<g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="720.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="730.9">Digitalisation &amp; common specs</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><rect x="515.5" y="716.0" width="358.4" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><title>COM(2025) 503/504: 21 May 2025</title><polygon points="515.5099247091034,721.0 521.5099247091034,727.0 515.5099247091034,733.0 509.5099247091034,727.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="523.5" y="711.0">COM(2025) 503/504</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf" target="_blank"><title>Council mandate: 24 Sep 2025</title><polygon points="574.1546885694729,721.0 580.1546885694729,727.0 574.1546885694729,733.0 568.1546885694729,727.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="582.2" y="744.0">Council mandate</tspan></text></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0024/A-10-2026-0024_en.docx" target="_blank"><title>EP mandate: 11 Mar 2026</title><polygon points="652.3477070499657,721.0 658.3477070499657,727.0 652.3477070499657,733.0 646.3477070499657,727.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0024/A-10-2026-0024_en.docx" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="660.3" y="711.0">EP mandate</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf" target="_blank"><title>Agreement: 09 Jun 2026</title><polygon points="694.2368240930869,721.0 700.2368240930869,727.0 694.2368240930869,733.0 688.2368240930869,727.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="702.2" y="744.0">Agreement</tspan></text></a>
+<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="718.0">Agreed 9 Jun 2026, applies 30 months after entry into force.</tspan><tspan x="1484.0" y="730.5">Digital declaration of conformity and instructions; common</tspan><tspan x="1484.0" y="743.0">specifications; amends the Machinery Regulation.</tspan></text>
+<line x1="20.0" y1="748.0" x2="1800.0" y2="748.0" stroke="#eceef0" stroke-width="1"/>
+<rect x="20.0" y="754.0" width="1780.0" height="30.0" fill="#44505c"/>
+<text font-size="12" fill="#ffffff" text-anchor="start" font-weight="bold"><tspan x="24.0" y="773.2">Industrial policy</tspan></text>
 <g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="804.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="814.9">Industrial Accelerator Act</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><rect x="649.1" y="800.0" width="395.2" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><title>Proposal: 04 Mar 2026</title><polygon points="649.0896646132786,805.0 655.0896646132786,811.0 649.0896646132786,817.0 643.0896646132786,811.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="657.1" y="795.0">Proposal</tspan></text></a>
-<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="808.2">&quot;Made in Europe&quot; criteria for public support in strategic</tspan><tspan x="1484.0" y="820.8">sectors; amends the NZIA.</tspan></text>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="814.9">Public Procurement Act</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><rect x="737.1" y="800.0" width="392.8" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><title>Proposal: 09 Sep 2026</title><polygon points="737.056810403833,805.0 743.056810403833,811.0 737.056810403833,817.0 731.056810403833,811.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="745.1" y="795.0">Proposal</tspan></text></a>
+<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="808.2">Public buyers of machinery; EU preference and cyber criteria</tspan><tspan x="1484.0" y="820.8">in tenders; amends the CRA.</tspan></text>
 <line x1="20.0" y1="832.0" x2="1800.0" y2="832.0" stroke="#eceef0" stroke-width="1"/>
-<line x1="733.3" y1="88.0" x2="733.3" y2="832.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="10" fill="#c62828" text-anchor="start" font-weight="bold"><tspan x="739.3" y="844.5">as of Sep 2026</tspan></text>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="870.9">Criticality</tspan></text>
-<rect x="110.0" y="861.0" width="12.0" height="12.0" fill="#d94841" stroke="none" rx="6.0"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="128.0" y="870.5">Act now: obligations start within 15 months or started recently</tspan></text>
-<rect x="415.0" y="861.0" width="12.0" height="12.0" fill="#e8a33d" stroke="none" rx="6.0"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="433.0" y="870.5">Prepare: obligations start in 15–36 months</tspan></text>
-<rect x="680.0" y="861.0" width="12.0" height="12.0" fill="#4f9a6a" stroke="none" rx="6.0"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="698.0" y="870.5">In operation: applies, no new obligations soon</tspan></text>
-<rect x="985.0" y="861.0" width="12.0" height="12.0" fill="#4a78c2" stroke="none" rx="6.0"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1003.0" y="870.5">Monitor: proposal / legislative procedure</tspan></text>
-<rect x="1250.0" y="861.0" width="12.0" height="12.0" fill="#9aa0a6" stroke="none" rx="6.0"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1268.0" y="870.5">Low relevance for this profile</tspan></text>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="894.9">State</tspan></text>
-<rect x="110.0" y="885.0" width="26.0" height="12.0" fill="#e6e8ea" stroke="#6f757b"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="144.0" y="894.5">in force, not yet applicable</tspan></text>
-<rect x="440.0" y="885.0" width="26.0" height="12.0" fill="#9aa0a6" stroke="#6f757b"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="474.0" y="894.5">applicable</tspan></text>
-<rect x="770.0" y="885.0" width="26.0" height="12.0" fill="#e6e8ea" stroke="#6f757b" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="804.0" y="894.5">proposal / legislative procedure (expected duration)</tspan></text>
-<polygon points="1108,885 1114,891 1108,897 1102,891" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1122.0" y="894.5">milestone (links to the provision)</tspan></text>
+<g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="846.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="856.9">Industrial Accelerator Act</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><rect x="649.1" y="842.0" width="395.2" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><title>Proposal: 04 Mar 2026</title><polygon points="649.0896646132786,847.0 655.0896646132786,853.0 649.0896646132786,859.0 643.0896646132786,853.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="657.1" y="837.0">Proposal</tspan></text></a>
+<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="850.2">&quot;Made in Europe&quot; criteria for public support in strategic</tspan><tspan x="1484.0" y="862.8">sectors; amends the NZIA.</tspan></text>
+<line x1="20.0" y1="874.0" x2="1800.0" y2="874.0" stroke="#eceef0" stroke-width="1"/>
+<line x1="733.3" y1="88.0" x2="733.3" y2="874.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="10" fill="#c62828" text-anchor="start" font-weight="bold"><tspan x="739.3" y="886.5">as of Sep 2026</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="912.9">Criticality</tspan></text>
+<rect x="110.0" y="903.0" width="12.0" height="12.0" fill="#d94841" stroke="none" rx="6.0"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="128.0" y="912.5">Act now: obligations start within 15 months or started recently</tspan></text>
+<rect x="415.0" y="903.0" width="12.0" height="12.0" fill="#e8a33d" stroke="none" rx="6.0"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="433.0" y="912.5">Prepare: obligations start in 15–36 months</tspan></text>
+<rect x="680.0" y="903.0" width="12.0" height="12.0" fill="#4f9a6a" stroke="none" rx="6.0"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="698.0" y="912.5">In operation: applies, no new obligations soon</tspan></text>
+<rect x="985.0" y="903.0" width="12.0" height="12.0" fill="#4a78c2" stroke="none" rx="6.0"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1003.0" y="912.5">Monitor: proposal / legislative procedure</tspan></text>
+<rect x="1250.0" y="903.0" width="12.0" height="12.0" fill="#9aa0a6" stroke="none" rx="6.0"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1268.0" y="912.5">Low relevance for this profile</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="936.9">State</tspan></text>
+<rect x="110.0" y="927.0" width="26.0" height="12.0" fill="#e6e8ea" stroke="#6f757b"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="144.0" y="936.5">in force, not yet applicable</tspan></text>
+<rect x="440.0" y="927.0" width="26.0" height="12.0" fill="#9aa0a6" stroke="#6f757b"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="474.0" y="936.5">applicable</tspan></text>
+<rect x="770.0" y="927.0" width="26.0" height="12.0" fill="#e6e8ea" stroke="#6f757b" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="804.0" y="936.5">proposal / legislative procedure (expected duration)</tspan></text>
+<polygon points="1108,927 1114,933 1108,939 1102,933" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1122.0" y="936.5">milestone (links to the provision)</tspan></text>
 </svg>
