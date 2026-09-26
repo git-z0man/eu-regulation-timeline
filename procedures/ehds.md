@@ -38,24 +38,24 @@ Drawing: [ehds.svg](ehds.svg), [ehds.pdf](ehds.pdf) · Web page: [ehds.html](ehd
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2022-05-30 | [ST 9461/22 REV 1](https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf) | council-text | Proposal for a Regulation on the European Health Data Space |
-| 2022-09-22 | [CELEX 52022AE2531](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531) | opinion | Opinion of the European Economic and Social Committee on the Communication from the Commission to the European Parliament and the Council — A European Health … |
-| 2022-12-02 | [ST 14768/22 COR 1](https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf) | council-progress-report | Progress report |
-| 2023-02-08 | [CELEX 52022AR3754](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754) | opinion | Opinion of the European Committee of the Regions on the European Health Data Space |
-| 2023-02-08 | [PE740.773](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-PA-740773) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space |
-| 2023-02-10 | [PE742.387](https://data.europarl.europa.eu/api/v2/committee-documents/CJ43-PR-742387) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space |
-| 2023-02-14 | [PE742.310](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PA-742310) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space |
-| 2023-05-23 | [PE742.310](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-AD-742310) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space |
-| 2023-05-25 | [PE740.773](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-AD-740773) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space |
-| 2023-05-26 | [ST 9368/23](https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf) | council-progress-report | Progress report |
-| 2023-12-05 | [A9-0395/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0395) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space |
-| 2023-12-07 | [ST 16048/23 REV 1](https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament |
-| 2023-12-13 | [P9_TA(2023)0462](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0462) | ep-position | European Health Data Space |
-| 2024-01-12 | [ST 5368/24](https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf) | trilogue | 4-column table |
-| 2024-03-18 | [ST 7553/24](https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement |
-| 2024-03-22 | [PE760.905](https://data.europarl.europa.eu/api/v2/committee-documents/CJ43-AG-760905) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation the European Parliament and the Council of the European Union on … |
-| 2024-04-24 | [P9_TA(2024)0331](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0331) | ep-position | European Health Data Space |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2022-05-30 | [ST 9461/22 REV 1](https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf) | council-text | Proposal for a Regulation on the European Health Data Space | – |
+| 2022-09-22 | [CELEX 52022AE2531](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531) | opinion | Opinion of the European Economic and Social Committee on the Communication from the Commission to the European Parliament and the Council — A European Health … | – |
+| 2022-12-02 | [ST 14768/22 COR 1](https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf) | council-progress-report | Progress report | – |
+| 2023-02-08 | [CELEX 52022AR3754](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754) | opinion | Opinion of the European Committee of the Regions on the European Health Data Space | – |
+| 2023-02-08 | [PE740.773](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-PA-740773) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | – |
+| 2023-02-10 | [PE742.387](https://data.europarl.europa.eu/api/v2/committee-documents/CJ43-PR-742387) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | – |
+| 2023-02-14 | [PE742.310](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PA-742310) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space | – |
+| 2023-05-23 | [PE742.310](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-AD-742310) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space | – |
+| 2023-05-25 | [PE740.773](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-AD-740773) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | – |
+| 2023-05-26 | [ST 9368/23](https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf) | council-progress-report | Progress report | – |
+| 2023-12-05 | [A9-0395/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0395) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | – |
+| 2023-12-07 | [ST 16048/23 REV 1](https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
+| 2023-12-13 | [P9_TA(2023)0462](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0462) | ep-position | European Health Data Space | – |
+| 2024-01-12 | [ST 5368/24](https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf) | trilogue | 4-column table | – |
+| 2024-03-18 | [ST 7553/24](https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | – |
+| 2024-03-22 | [PE760.905](https://data.europarl.europa.eu/api/v2/committee-documents/CJ43-AG-760905) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation the European Parliament and the Council of the European Union on … | – |
+| 2024-04-24 | [P9_TA(2024)0331](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0331) | ep-position | European Health Data Space | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

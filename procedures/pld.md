@@ -30,15 +30,15 @@ Drawing: [pld.svg](pld.svg), [pld.pdf](pld.pdf) · Web page: [pld.html](pld.html
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2023-01-24 | [CELEX 52022AE4922](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4922) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a directive of the European Parliament and of the Council on liability for defective … |
-| 2023-04-05 | [PE745.537](https://data.europarl.europa.eu/api/v2/committee-documents/CJ24-PR-745537) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council on Liability for defective products |
-| 2023-06-15 | [ST 10694/23](https://data.consilium.europa.eu/doc/document/ST-10694-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament |
-| 2023-10-12 | [A9-0291/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0291) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on liability for defective products |
-| 2024-01-18 | [ST 5551/24](https://data.consilium.europa.eu/doc/document/ST-5551-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement |
-| 2024-01-18 | [ST 5553/24](https://data.consilium.europa.eu/doc/document/ST-5553-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement |
-| 2024-01-24 | [PE758.731](https://data.europarl.europa.eu/api/v2/committee-documents/CJ24-AG-758731) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a directive of the European Parliament and of the Council on Liability for … |
-| 2024-03-12 | [P9_TA(2024)0132](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0132) | ep-position | Liability for defective products |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2023-01-24 | [CELEX 52022AE4922](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4922) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a directive of the European Parliament and of the Council on liability for defective … | – |
+| 2023-04-05 | [PE745.537](https://data.europarl.europa.eu/api/v2/committee-documents/CJ24-PR-745537) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council on Liability for defective products | – |
+| 2023-06-15 | [ST 10694/23](https://data.consilium.europa.eu/doc/document/ST-10694-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
+| 2023-10-12 | [A9-0291/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0291) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on liability for defective products | – |
+| 2024-01-18 | [ST 5551/24](https://data.consilium.europa.eu/doc/document/ST-5551-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | – |
+| 2024-01-18 | [ST 5553/24](https://data.consilium.europa.eu/doc/document/ST-5553-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | – |
+| 2024-01-24 | [PE758.731](https://data.europarl.europa.eu/api/v2/committee-documents/CJ24-AG-758731) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a directive of the European Parliament and of the Council on Liability for … | – |
+| 2024-03-12 | [P9_TA(2024)0132](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0132) | ep-position | Liability for defective products | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

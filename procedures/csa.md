@@ -21,9 +21,9 @@ Drawing: [csa.svg](csa.svg), [csa.pdf](csa.pdf) · Web page: [csa.html](csa.html
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2018-05-29 | [ST 9350/18](https://data.consilium.europa.eu/doc/document/ST-9350-2018-INIT/en/pdf) | council-position | General approach |
-| 2018-07-30 | [A8-0264/2018](https://data.europarl.europa.eu/api/v2/plenary-documents/A-8-2018-0264) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on ENISA, the "EU Cybersecurity Agency", and repealing Regulation (EU) … |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2018-05-29 | [ST 9350/18](https://data.consilium.europa.eu/doc/document/ST-9350-2018-INIT/en/pdf) | council-position | General approach | – |
+| 2018-07-30 | [A8-0264/2018](https://data.europarl.europa.eu/api/v2/plenary-documents/A-8-2018-0264) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on ENISA, the "EU Cybersecurity Agency", and repealing Regulation (EU) … | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

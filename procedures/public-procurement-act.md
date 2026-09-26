@@ -19,13 +19,13 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2026-09-10 | [ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … |
-| 2026-09-10 | [ST 12969/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … |
-| 2026-09-10 | [ST 12969/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-2/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public … |
-| 2026-09-10 | [ST 12969/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-3/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … |
-| 2026-09-10 | [ST 12969/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … |
-| 2026-09-10 | [ST 12969/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-5/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION Public Procurement Act |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2026-09-10 | [ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | – |
+| 2026-09-10 | [ST 12969/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | – |
+| 2026-09-10 | [ST 12969/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-2/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public … | – |
+| 2026-09-10 | [ST 12969/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-3/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | – |
+| 2026-09-10 | [ST 12969/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … | – |
+| 2026-09-10 | [ST 12969/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-5/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION Public Procurement Act | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

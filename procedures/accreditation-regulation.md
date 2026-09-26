@@ -19,8 +19,8 @@ Drawing: [accreditation-regulation.svg](accreditation-regulation.svg), [accredit
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/api/v2/plenary-documents/A-6-2007-0491) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/api/v2/plenary-documents/A-6-2007-0491) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

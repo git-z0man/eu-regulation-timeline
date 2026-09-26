@@ -59,27 +59,27 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2026-01-23 | [ST 5638/26](https://data.consilium.europa.eu/doc/document/ST-5638-2026-INIT/en/pdf) | council-compromise | Presidency compromise text |
-| 2026-02-05 | [PE782.530](https://data.europarl.europa.eu/api/v2/committee-documents/CJ40-PR-782530) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards … |
-| 2026-02-12 | [ST 6245/26](https://data.consilium.europa.eu/doc/document/ST-6245-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text |
-| 2026-02-26 | [PE784.179](https://data.europarl.europa.eu/api/v2/committee-documents/JURI-AD-784179) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … |
-| 2026-03-05 | [ST 6963/26](https://data.consilium.europa.eu/doc/document/ST-6963-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text |
-| 2026-03-06 | [PE784.261](https://data.europarl.europa.eu/api/v2/committee-documents/CULT-AD-784261) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … |
-| 2026-03-06 | [ST 6963/26 COR 1](https://data.consilium.europa.eu/doc/document/ST-6963-2026-COR-1/en/pdf) | council-compromise | Third Presidency compromise text |
-| 2026-03-10 | [ST 6969/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-6969-2026-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament |
-| 2026-03-18 | [CELEX 52025AE3929](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) … |
-| 2026-03-19 | [A10-0073/2026](https://data.europarl.europa.eu/api/v2/plenary-documents/A-10-2026-0073) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … |
-| 2026-03-26 | [P10_TA(2026)0098](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-10-2026-0098) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) |
-| 2026-03-27 | [WK 4547/26](https://data.consilium.europa.eu/doc/document/WK-4547-2026-INIT/en/pdf) | trilogue | 4 column document – AGS meeting on 1 April 2026 |
-| 2026-04-17 | [ST 8253/26](https://data.consilium.europa.eu/doc/document/ST-8253-2026-INIT/en/pdf) | trilogue | 4-column table |
-| 2026-04-17 | [ST 8260/26](https://data.consilium.europa.eu/doc/document/ST-8260-2026-INIT/en/pdf) | council-position | Revised mandate for negotiations with the European Parliament |
-| 2026-05-07 | [CELEX 52025AR4240](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240) | opinion | Opinion of the European Committee of the Regions – Digital simplification and Data Union Strategy |
-| 2026-05-08 | [ST 9034/26](https://data.consilium.europa.eu/doc/document/ST-9034-2026-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement |
-| 2026-05-13 | [PE789.081](https://data.europarl.europa.eu/api/v2/committee-documents/CJ40-AG-789081) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation Amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as … |
-| 2026-06-05 | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report |
-| 2026-06-12 | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report |
-| 2026-06-16 | [P10_TA(2026)0198](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-10-2026-0198) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2026-01-23 | [ST 5638/26](https://data.consilium.europa.eu/doc/document/ST-5638-2026-INIT/en/pdf) | council-compromise | Presidency compromise text | – |
+| 2026-02-05 | [PE782.530](https://data.europarl.europa.eu/api/v2/committee-documents/CJ40-PR-782530) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards … | – |
+| 2026-02-12 | [ST 6245/26](https://data.consilium.europa.eu/doc/document/ST-6245-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text | – |
+| 2026-02-26 | [PE784.179](https://data.europarl.europa.eu/api/v2/committee-documents/JURI-AD-784179) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | – |
+| 2026-03-05 | [ST 6963/26](https://data.consilium.europa.eu/doc/document/ST-6963-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text | – |
+| 2026-03-06 | [PE784.261](https://data.europarl.europa.eu/api/v2/committee-documents/CULT-AD-784261) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | – |
+| 2026-03-06 | [ST 6963/26 COR 1](https://data.consilium.europa.eu/doc/document/ST-6963-2026-COR-1/en/pdf) | council-compromise | Third Presidency compromise text | – |
+| 2026-03-10 | [ST 6969/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-6969-2026-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
+| 2026-03-18 | [CELEX 52025AE3929](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) … | – |
+| 2026-03-19 | [A10-0073/2026](https://data.europarl.europa.eu/api/v2/plenary-documents/A-10-2026-0073) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | – |
+| 2026-03-26 | [P10_TA(2026)0098](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-10-2026-0098) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | – |
+| 2026-03-27 | [WK 4547/26](https://data.consilium.europa.eu/doc/document/WK-4547-2026-INIT/en/pdf) | trilogue | 4 column document – AGS meeting on 1 April 2026 | – |
+| 2026-04-17 | [ST 8253/26](https://data.consilium.europa.eu/doc/document/ST-8253-2026-INIT/en/pdf) | trilogue | 4-column table | – |
+| 2026-04-17 | [ST 8260/26](https://data.consilium.europa.eu/doc/document/ST-8260-2026-INIT/en/pdf) | council-position | Revised mandate for negotiations with the European Parliament | – |
+| 2026-05-07 | [CELEX 52025AR4240](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240) | opinion | Opinion of the European Committee of the Regions – Digital simplification and Data Union Strategy | – |
+| 2026-05-08 | [ST 9034/26](https://data.consilium.europa.eu/doc/document/ST-9034-2026-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | – |
+| 2026-05-13 | [PE789.081](https://data.europarl.europa.eu/api/v2/committee-documents/CJ40-AG-789081) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation Amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as … | – |
+| 2026-06-05 | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | – |
+| 2026-06-12 | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | – |
+| 2026-06-16 | [P10_TA(2026)0198](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-10-2026-0198) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

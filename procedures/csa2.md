@@ -34,20 +34,20 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2026-01-22 | [ST 5611/26](https://data.consilium.europa.eu/doc/document/ST-5611-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … |
-| 2026-01-22 | [ST 5611/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European … |
-| 2026-01-22 | [ST 5611/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-2/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the documents Proposal for a Regulation of the European … |
-| 2026-01-22 | [ST 5611/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review |
-| 2026-01-22 | [ST 5611/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the documents Proposal for a Regulation of the European Parliament and of the Council … |
-| 2026-02-02 | [WK 1616/26](https://data.consilium.europa.eu/doc/document/WK-1616-2026-INIT/en/pdf) | council-note | New Cybersecurity package - Presentation by the Commission |
-| 2026-02-17 | [ST 5611/26 ADD 3 REV 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3-REV-1/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review |
-| 2026-04-29 | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency … |
-| 2026-05-18 | [WK 6913/26](https://data.consilium.europa.eu/doc/document/WK-6913-2026-INIT/en/pdf) | council-note | EU cybersecurity certification of cyber posture - Presentation by the Commission |
-| 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report |
-| 2026-05-27 | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | council-compromise | Presidency compromise text Titles II and III |
-| 2026-07-02 | [WK 5879/26](https://data.consilium.europa.eu/doc/document/WK-5879-2026-INIT/en/pdf) | council-note | Member States' consolidated comments on Articles 98-122 |
-| 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PR-792222) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the … |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2026-01-22 | [ST 5611/26](https://data.consilium.europa.eu/doc/document/ST-5611-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | – |
+| 2026-01-22 | [ST 5611/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European … | – |
+| 2026-01-22 | [ST 5611/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-2/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the documents Proposal for a Regulation of the European … | – |
+| 2026-01-22 | [ST 5611/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review | – |
+| 2026-01-22 | [ST 5611/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the documents Proposal for a Regulation of the European Parliament and of the Council … | – |
+| 2026-02-02 | [WK 1616/26](https://data.consilium.europa.eu/doc/document/WK-1616-2026-INIT/en/pdf) | council-note | New Cybersecurity package - Presentation by the Commission | – |
+| 2026-02-17 | [ST 5611/26 ADD 3 REV 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3-REV-1/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review | – |
+| 2026-04-29 | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency … | – |
+| 2026-05-18 | [WK 6913/26](https://data.consilium.europa.eu/doc/document/WK-6913-2026-INIT/en/pdf) | council-note | EU cybersecurity certification of cyber posture - Presentation by the Commission | – |
+| 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) |
+| 2026-05-27 | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | council-compromise | Presidency compromise text Titles II and III | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
+| 2026-07-02 | [WK 5879/26](https://data.consilium.europa.eu/doc/document/WK-5879-2026-INIT/en/pdf) | council-note | Member States' consolidated comments on Articles 98-122 | – |
+| 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PR-792222) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the … | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

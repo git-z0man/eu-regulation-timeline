@@ -24,13 +24,13 @@ Drawing: [gpsr.svg](gpsr.svg), [gpsr.pdf](gpsr.pdf) · Web page: [gpsr.html](gps
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2021-10-20 | [CELEX 52021AE3583](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE3583) | opinion | Opinion of the European Economic and Social Committee on the proposal for a Regulation of the European Parliament and of the Council on general product safety, … |
-| 2021-11-19 | [ST 13576/21](https://data.consilium.europa.eu/doc/document/ST-13576-2021-INIT/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European … |
-| 2022-06-24 | [A9-0191/2022](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2022-0191) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … |
-| 2022-07-20 | [ST 11469/22](https://data.consilium.europa.eu/doc/document/ST-11469-2022-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament |
-| 2022-09-02 | [ST 12074/22](https://data.consilium.europa.eu/doc/document/ST-12074-2022-INIT/en/pdf) | trilogue | 4 column table |
-| 2023-03-30 | [P9_TA(2023)0090](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0090) | ep-position | General Product Safety Regulation |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2021-10-20 | [CELEX 52021AE3583](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE3583) | opinion | Opinion of the European Economic and Social Committee on the proposal for a Regulation of the European Parliament and of the Council on general product safety, … | – |
+| 2021-11-19 | [ST 13576/21](https://data.consilium.europa.eu/doc/document/ST-13576-2021-INIT/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European … | – |
+| 2022-06-24 | [A9-0191/2022](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2022-0191) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | – |
+| 2022-07-20 | [ST 11469/22](https://data.consilium.europa.eu/doc/document/ST-11469-2022-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
+| 2022-09-02 | [ST 12074/22](https://data.consilium.europa.eu/doc/document/ST-12074-2022-INIT/en/pdf) | trilogue | 4 column table | – |
+| 2023-03-30 | [P9_TA(2023)0090](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0090) | ep-position | General Product Safety Regulation | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

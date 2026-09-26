@@ -41,17 +41,17 @@ Drawing: [cra.svg](cra.svg), [cra.pdf](cra.pdf) · Web page: [cra.html](cra.html
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2022-12-14 | [CELEX 52022AE4103](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4103) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council on horizontal cybersecurity … |
-| 2023-03-31 | [PE742.490](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-PA-742490) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on Horizontal cybersecurity requirements for products with digital … |
-| 2023-03-31 | [PE745.538](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PR-745538) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital … |
-| 2023-06-30 | [PE742.490](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-AD-742490) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on Horizontal cybersecurity requirements for products with digital … |
-| 2023-07-14 | [ST 11726/23](https://data.consilium.europa.eu/doc/document/ST-11726-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament |
-| 2023-07-27 | [A9-0253/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0253) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital … |
-| 2023-08-31 | [ST 12536/23](https://data.consilium.europa.eu/doc/document/ST-12536-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament |
-| 2023-12-18 | [ST 16753/23](https://data.consilium.europa.eu/doc/document/ST-16753-2023-INIT/en/pdf) | agreed-text | Regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements and amending Regulation … |
-| 2023-12-20 | [PE758.004](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-AG-758004) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council on horizontal … |
-| 2024-03-12 | [P9_TA(2024)0130](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0130) | ep-position | Cyber Resilience Act |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2022-12-14 | [CELEX 52022AE4103](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4103) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council on horizontal cybersecurity … | – |
+| 2023-03-31 | [PE742.490](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-PA-742490) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on Horizontal cybersecurity requirements for products with digital … | – |
+| 2023-03-31 | [PE745.538](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PR-745538) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital … | – |
+| 2023-06-30 | [PE742.490](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-AD-742490) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on Horizontal cybersecurity requirements for products with digital … | – |
+| 2023-07-14 | [ST 11726/23](https://data.consilium.europa.eu/doc/document/ST-11726-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
+| 2023-07-27 | [A9-0253/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0253) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital … | – |
+| 2023-08-31 | [ST 12536/23](https://data.consilium.europa.eu/doc/document/ST-12536-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
+| 2023-12-18 | [ST 16753/23](https://data.consilium.europa.eu/doc/document/ST-16753-2023-INIT/en/pdf) | agreed-text | Regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements and amending Regulation … | – |
+| 2023-12-20 | [PE758.004](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-AG-758004) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council on horizontal … | – |
+| 2024-03-12 | [P9_TA(2024)0130](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0130) | ep-position | Cyber Resilience Act | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

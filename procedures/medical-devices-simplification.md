@@ -24,23 +24,23 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2026-03-13 | [ST 7161/26](https://data.consilium.europa.eu/doc/document/ST-7161-2026-INIT/en/pdf) | council-note | cluster 1 |
-| 2026-03-23 | [WK 4453/26](https://data.consilium.europa.eu/doc/document/WK-4453-2026-INIT/en/pdf) | council-note | Commission presentation |
-| 2026-04-21 | [WK 5589/26](https://data.consilium.europa.eu/doc/document/WK-5589-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 2 - Support to the regulatory system |
-| 2026-04-27 | [ST 7253/26](https://data.consilium.europa.eu/doc/document/ST-7253-2026-INIT/en/pdf) | council-note | cluster 3 |
-| 2026-04-29 | [CELEX 52025AE4298](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE4298) | opinion | Opinion of the European Economic and Social Committee – Proposal of the European Parliament and of the Council amending Regulations (EU) 2017/745 and (EU) … |
-| 2026-05-07 | [WK 6502/26](https://data.consilium.europa.eu/doc/document/WK-6502-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 3 - Notified bodies, classification and conformity … |
-| 2026-05-18 | [WK 6846/26](https://data.consilium.europa.eu/doc/document/WK-6846-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency |
-| 2026-05-21 | [WK 7154/26](https://data.consilium.europa.eu/doc/document/WK-7154-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 4 - Post-market surveillance, vigilance and … |
-| 2026-05-28 | [ST 9114/26](https://data.consilium.europa.eu/doc/document/ST-9114-2026-INIT/en/pdf) | council-progress-report | Regulation to simplify rules on medical and in vitro diagnostic devices - Progress report |
-| 2026-06-03 | [WK 7872/26](https://data.consilium.europa.eu/doc/document/WK-7872-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 6 - Interplay with the AI Act, dedicated … |
-| 2026-06-19 | [ST 10284/26](https://data.consilium.europa.eu/doc/document/ST-10284-2026-INIT/en/pdf) | council-note | Exchange of views |
-| 2026-06-24 | [ST 10506/26](https://data.consilium.europa.eu/doc/document/ST-10506-2026-INIT/en/pdf) | council-note | Exchange of views |
-| 2026-06-30 | [PE787.987](https://data.europarl.europa.eu/api/v2/committee-documents/SANT-PR-787987) | ep-draft-report | DRAFT REPORT on the proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards … |
-| 2026-07-02 | [WK 9801/26](https://data.consilium.europa.eu/doc/document/WK-9801-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency |
-| 2026-07-16 | [WK 10612/26](https://data.consilium.europa.eu/doc/document/WK-10612-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency |
-| 2026-07-28 | [WK 10875/26](https://data.consilium.europa.eu/doc/document/WK-10875-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2026-03-13 | [ST 7161/26](https://data.consilium.europa.eu/doc/document/ST-7161-2026-INIT/en/pdf) | council-note | cluster 1 | – |
+| 2026-03-23 | [WK 4453/26](https://data.consilium.europa.eu/doc/document/WK-4453-2026-INIT/en/pdf) | council-note | Commission presentation | – |
+| 2026-04-21 | [WK 5589/26](https://data.consilium.europa.eu/doc/document/WK-5589-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 2 - Support to the regulatory system | – |
+| 2026-04-27 | [ST 7253/26](https://data.consilium.europa.eu/doc/document/ST-7253-2026-INIT/en/pdf) | council-note | cluster 3 | – |
+| 2026-04-29 | [CELEX 52025AE4298](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE4298) | opinion | Opinion of the European Economic and Social Committee – Proposal of the European Parliament and of the Council amending Regulations (EU) 2017/745 and (EU) … | – |
+| 2026-05-07 | [WK 6502/26](https://data.consilium.europa.eu/doc/document/WK-6502-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 3 - Notified bodies, classification and conformity … | – |
+| 2026-05-18 | [WK 6846/26](https://data.consilium.europa.eu/doc/document/WK-6846-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | – |
+| 2026-05-21 | [WK 7154/26](https://data.consilium.europa.eu/doc/document/WK-7154-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 4 - Post-market surveillance, vigilance and … | – |
+| 2026-05-28 | [ST 9114/26](https://data.consilium.europa.eu/doc/document/ST-9114-2026-INIT/en/pdf) | council-progress-report | Regulation to simplify rules on medical and in vitro diagnostic devices - Progress report | [en](../texts/medical-devices-simplification/2026-05-28_council-progress-report-st-9114-26.en.md) |
+| 2026-06-03 | [WK 7872/26](https://data.consilium.europa.eu/doc/document/WK-7872-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 6 - Interplay with the AI Act, dedicated … | – |
+| 2026-06-19 | [ST 10284/26](https://data.consilium.europa.eu/doc/document/ST-10284-2026-INIT/en/pdf) | council-note | Exchange of views | – |
+| 2026-06-24 | [ST 10506/26](https://data.consilium.europa.eu/doc/document/ST-10506-2026-INIT/en/pdf) | council-note | Exchange of views | – |
+| 2026-06-30 | [PE787.987](https://data.europarl.europa.eu/api/v2/committee-documents/SANT-PR-787987) | ep-draft-report | DRAFT REPORT on the proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards … | [de](../texts/medical-devices-simplification/2026-06-30_ep-draft-report-pe787-987.de.md) [en](../texts/medical-devices-simplification/2026-06-30_ep-draft-report-pe787-987.en.md) |
+| 2026-07-02 | [WK 9801/26](https://data.consilium.europa.eu/doc/document/WK-9801-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency | – |
+| 2026-07-16 | [WK 10612/26](https://data.consilium.europa.eu/doc/document/WK-10612-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency | – |
+| 2026-07-28 | [WK 10875/26](https://data.consilium.europa.eu/doc/document/WK-10875-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

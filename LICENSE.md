@@ -40,6 +40,25 @@ Titles, dates, document numbers and links come from the EU institutions:
 EUR-Lex and Cellar (Publications Office), the EP Open Data portal and the
 Council register. © European Union. They are reused with acknowledgement of
 the source, without distorting their meaning and without liability of the
-institutions (for Commission documents: Commission Decision 2011/833/EU,
-Article 6(2)). The site links to the documents; it does not republish them.
-Only documents the institutions have made public are shown.
+institutions. Only documents the institutions have made public are shown.
+
+## EU documents as Markdown (`texts/`)
+
+The folder `texts/` holds the official documents as Markdown, converted
+automatically for reading and searching. Each file names its official
+source (`official_source`) and the rule under which it is reused (`reuse`):
+
+- legal acts, proposals and other documents from EUR-Lex and Cellar:
+  © European Union, reused under Commission Decision 2011/833/EU, Article 6;
+- Council documents released by the Council register: © European Union,
+  Council of the EU, reused under Council Decision (EU) 2017/1842,
+  Article 6 (source acknowledged, meaning not distorted, no liability of the
+  Council);
+- European Parliament documents from the EP Open Data Portal:
+  © European Union, European Parliament, licensed under CC BY 4.0.
+
+The conversion is unofficial and can contain errors: headings, tables and
+change marks (bold, strikethrough) are reconstructed from the layout. Only
+the official document is authentic; the institutions are not responsible
+for the conversion. Our licence (CC BY 4.0 above) does not extend to these
+texts. National law and unofficial documents are not published.

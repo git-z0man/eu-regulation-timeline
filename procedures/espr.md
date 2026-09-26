@@ -34,22 +34,22 @@ Drawing: [espr.svg](espr.svg), [espr.pdf](espr.pdf) · Web page: [espr.html](esp
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2022-07-14 | [CELEX 52022AE0598](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE0598) | opinion | Opinion of the European Economic and Social Committee on the communication from the Commission to the European Parliament, the Council, the European Economic … |
-| 2022-11-09 | [PE738.514](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PA-738514) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on Establishing a framework for setting ecodesign requirements for … |
-| 2022-11-10 | [PE737.400](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-PA-737400) | ep-draft-opinion | DRAFT OPINION on establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC |
-| 2022-11-14 | [ST 14540/22](https://data.consilium.europa.eu/doc/document/ST-14540-2022-INIT/en/pdf) | council-progress-report | Progress report |
-| 2022-11-21 | [ST 14540/22 COR 1](https://data.consilium.europa.eu/doc/document/ST-14540-2022-COR-1/en/pdf) | council-progress-report | Progress report |
-| 2022-12-06 | [PE738.753](https://data.europarl.europa.eu/api/v2/committee-documents/ENVI-PR-738753) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … |
-| 2023-03-31 | [PE738.514](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-AD-738514) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on Establishing a framework for setting ecodesign requirements for … |
-| 2023-04-27 | [PE737.400](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-AD-737400) | ep-opinion | OPINION on the proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements for … |
-| 2023-05-15 | [ST 9014/23](https://data.consilium.europa.eu/doc/document/ST-9014-2023-INIT/en/pdf) | council-position | General approach |
-| 2023-05-23 | [ST 9649/23](https://data.consilium.europa.eu/doc/document/ST-9649-2023-INIT/en/pdf) | council-position | General approach |
-| 2023-06-22 | [A9-0218/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0218) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … |
-| 2023-07-12 | [P9_TA(2023)0272](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0272) | ep-position | Ecodesign Regulation |
-| 2023-12-19 | [ST 16723/23](https://data.consilium.europa.eu/doc/document/ST-16723-2023-INIT/en/pdf) | agreed-text | Regulation establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC - Analysis of the final … |
-| 2023-12-22 | [PE758.076](https://data.europarl.europa.eu/api/v2/committee-documents/ENVI-AG-758076) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council establishing a … |
-| 2024-04-23 | [P9_TA(2024)0303](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0303) | ep-position | Ecodesign Regulation |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2022-07-14 | [CELEX 52022AE0598](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE0598) | opinion | Opinion of the European Economic and Social Committee on the communication from the Commission to the European Parliament, the Council, the European Economic … | – |
+| 2022-11-09 | [PE738.514](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PA-738514) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on Establishing a framework for setting ecodesign requirements for … | – |
+| 2022-11-10 | [PE737.400](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-PA-737400) | ep-draft-opinion | DRAFT OPINION on establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC | – |
+| 2022-11-14 | [ST 14540/22](https://data.consilium.europa.eu/doc/document/ST-14540-2022-INIT/en/pdf) | council-progress-report | Progress report | – |
+| 2022-11-21 | [ST 14540/22 COR 1](https://data.consilium.europa.eu/doc/document/ST-14540-2022-COR-1/en/pdf) | council-progress-report | Progress report | – |
+| 2022-12-06 | [PE738.753](https://data.europarl.europa.eu/api/v2/committee-documents/ENVI-PR-738753) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … | – |
+| 2023-03-31 | [PE738.514](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-AD-738514) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on Establishing a framework for setting ecodesign requirements for … | – |
+| 2023-04-27 | [PE737.400](https://data.europarl.europa.eu/api/v2/committee-documents/IMCO-AD-737400) | ep-opinion | OPINION on the proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements for … | – |
+| 2023-05-15 | [ST 9014/23](https://data.consilium.europa.eu/doc/document/ST-9014-2023-INIT/en/pdf) | council-position | General approach | – |
+| 2023-05-23 | [ST 9649/23](https://data.consilium.europa.eu/doc/document/ST-9649-2023-INIT/en/pdf) | council-position | General approach | – |
+| 2023-06-22 | [A9-0218/2023](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2023-0218) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … | – |
+| 2023-07-12 | [P9_TA(2023)0272](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0272) | ep-position | Ecodesign Regulation | – |
+| 2023-12-19 | [ST 16723/23](https://data.consilium.europa.eu/doc/document/ST-16723-2023-INIT/en/pdf) | agreed-text | Regulation establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC - Analysis of the final … | – |
+| 2023-12-22 | [PE758.076](https://data.europarl.europa.eu/api/v2/committee-documents/ENVI-AG-758076) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council establishing a … | – |
+| 2024-04-23 | [P9_TA(2024)0303](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2024-0303) | ep-position | Ecodesign Regulation | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

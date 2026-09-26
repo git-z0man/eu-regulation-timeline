@@ -19,8 +19,8 @@ Drawing: [standardisation-regulation.svg](standardisation-regulation.svg), [stan
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/api/v2/plenary-documents/A-7-2012-0069) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/api/v2/plenary-documents/A-7-2012-0069) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

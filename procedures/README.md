@@ -6,6 +6,9 @@ Where each procedure stands, what happened last and what comes next. One page pe
 
 | Date | Act | Step | Source |
 | --- | --- | --- | --- |
+| Q4 2025 | [GPSR](gpsr.md) | Implementing act adopted, publication pending: Implementing Decision on European standards for products in the scope of the General Product Safety Regulation | Commission Register of delegated acts (RegDel) |
+| Q2 2026 | [AI Act](ai-act.md) | Implementing act adopted, publication pending: Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | Commission Register of delegated acts (RegDel) |
+| Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
 | 06 Oct 2026 | EPA | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5 (Q3 2026); date announced by the Commission |
 | 06 Oct 2026 | Standardisation Regulation (new) | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5, with the European Product Act (Q3 2026) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)](product-digitalisation-directive.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0133(COD) (forecasts) |
@@ -27,6 +30,31 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | [MDR/IVDR simplification – COM(2025) 1023 (proposal)](medical-devices-simplification.md) (2025/0404(COD)) | EP committee stage: EP draft report 30 Jun 2026; Council working party, latest document 28 Jul 2026 | 28 Jul 2026 · Council: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the … (WK 10875/26) | EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
 | [Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)](product-digitalisation-regulation.md) (2025/0134(COD)) | Provisional agreement (last trilogue 09 Jun 2026): EP mandate 11 Mar 2026; Council mandate (ST 13018/25 of 19 Sep 2025) | 14 Jul 2026 · European Parliament: Committee approves provisional agreement (PE790.900) | 23 Nov 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP plenary vote on the agreed text (Art. 294(3) TFEU), then Council adoption (Art. 294(4) TFEU), with legal-linguistic revision before or after the vote |
 | [EU Space Act – COM(2025) 335 (proposal)](space-act.md) (2025/0335(COD)) | EP committee stage: EP draft report 03 Mar 2026; Council working party, latest document 08 May 2026 | 08 May 2026 · Council: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and … (ST 8861/26) | EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
+
+## Delegated and implementing acts in preparation
+
+From the Commission's Register of delegated acts (RegDel): planned (adoption quarter) or adopted, not yet published. Published acts are in the act's folder.
+
+| Act | Kind | Title | Status | Planned | RegDel |
+| --- | --- | --- | --- | --- | --- |
+| GPSR | implementing | Implementing Decision on European standards for products in the scope of the General Product Safety Regulation | adopted, publication pending | Q4 2025 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18412) |
+| EHDS | implementing | European Health Data Space Board operations | adopted, publication pending | Q1 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18012) |
+| ESPR | implementing | Digital product passport registry – implementation arrangements | adopted, publication pending | Q1 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18627) |
+| NZIA | implementing | Minimum requirements on environmental sustainability for NZIA public procurement procedures | adopted, publication pending | Q1 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/17648) |
+| AI Act | implementing | Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | adopted, publication pending | Q2 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18848) |
+| EHDS | implementing | Cross-border exchange of personal electronic health data | adopted, publication pending | Q2 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18148) |
+| EHDS | implementing | European Health Data Space - MyHealth@EU requirements | adopted, publication pending | Q2 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18277) |
+| EHDS | implementing | European Health Data Space - minimum metadata for dataset descriptions (secondary use) | adopted, publication pending | Q3 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18288) |
+| AI Act | implementing | Articles 75c – 75d AI Act Implementing Act | planned | Q4 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/20087) |
+| EHDS | implementing | European Health Data Space HealthData@EU requirements | planned | Q4 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18728) |
+| EHDS | implementing | European Health Data Space – European Electronic Health Exchange Format specifications | planned | Q4 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19214) |
+| EHDS | implementing | European Health Data Space – common specifications for the harmonised software components of EHR systems | planned | Q4 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19648) |
+| EHDS | implementing | Templates for health data access applications, health data requests, data permits and decisions on a data request | planned | Q4 2026 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/18933) |
+| EHDS | implementing | European Health Data Space - Requirements for Secure Processing Environments | planned | Q1 2027 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19067) |
+| EHDS | implementing | European Health Data Space – Data Quality and Utility Label | planned | Q1 2027 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19747) |
+| EHDS | implementing | European Health Data Space – common specifications for the European digital testing environment | planned | Q1 2027 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19215) |
+| NZIA | implementing | Implementing Regulation on a standardised reporting template for Member States’ monitoring of the NZIA | planned | Q1 2027 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19987) |
+| ESPR | implementing | Green Public Procurement Criteria for sustainable and circular apparel textiles | planned | Q4 2027 | [entry](https://webgate.ec.europa.eu/regdel/#/implementingActs/19947) |
 
 ## Completed procedures
 

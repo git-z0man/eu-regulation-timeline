@@ -20,8 +20,8 @@ Drawing: [standardisation-amendment-2022.svg](standardisation-amendment-2022.svg
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2022-07-14 | [A9-0205/2022](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2022-0205) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 1025/2012 as regards the decisions of … |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2022-07-14 | [A9-0205/2022](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2022-0205) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 1025/2012 as regards the decisions of … | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

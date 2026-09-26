@@ -22,11 +22,11 @@ Drawing: [machinery-regulation.svg](machinery-regulation.svg), [machinery-regula
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2021-05-04 | [ST 8095/21 COR 1](https://data.consilium.europa.eu/doc/document/ST-8095-2021-COR-1/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery products |
-| 2021-09-22 | [CELEX 52021AE2559](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE2559) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council on machinery products’ … |
-| 2022-05-05 | [A9-0141/2022](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2022-0141) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on Machinery products |
-| 2023-04-18 | [P9_TA(2023)0097](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0097) | ep-position | Machinery |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2021-05-04 | [ST 8095/21 COR 1](https://data.consilium.europa.eu/doc/document/ST-8095-2021-COR-1/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery products | – |
+| 2021-09-22 | [CELEX 52021AE2559](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE2559) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council on machinery products’ … | – |
+| 2022-05-05 | [A9-0141/2022](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2022-0141) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on Machinery products | – |
+| 2023-04-18 | [P9_TA(2023)0097](https://data.europarl.europa.eu/api/v2/adopted-texts/TA-9-2023-0097) | ep-position | Machinery | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

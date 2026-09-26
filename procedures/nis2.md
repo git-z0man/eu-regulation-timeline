@@ -24,12 +24,12 @@ Drawing: [nis2.svg](nis2.svg), [nis2.pdf](nis2.pdf) · Web page: [nis2.html](nis
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2021-01-11 | [ST 14150/20 ADD 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14150-2020-ADD-1-COR-1/en/pdf) | council-text | ANNEXES to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, … |
-| 2021-04-27 | [CELEX 52020AE5749](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020AE5749) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Directive of the European Parliament and of the Council on measures for a high common … |
-| 2021-11-04 | [A9-0313/2021](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2021-0313) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on measures for a high common level of cybersecurity across the Union, … |
-| 2021-11-26 | [ST 14337/21](https://data.consilium.europa.eu/doc/document/ST-14337-2021-INIT/en/pdf) | council-position | General Approach |
-| 2022-01-11 | [ST 5163/22](https://data.consilium.europa.eu/doc/document/ST-5163-2022-INIT/en/pdf) | trilogue | Four-column document |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2021-01-11 | [ST 14150/20 ADD 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14150-2020-ADD-1-COR-1/en/pdf) | council-text | ANNEXES to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, … | – |
+| 2021-04-27 | [CELEX 52020AE5749](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020AE5749) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Directive of the European Parliament and of the Council on measures for a high common … | – |
+| 2021-11-04 | [A9-0313/2021](https://data.europarl.europa.eu/api/v2/plenary-documents/A-9-2021-0313) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on measures for a high common level of cybersecurity across the Union, … | – |
+| 2021-11-26 | [ST 14337/21](https://data.consilium.europa.eu/doc/document/ST-14337-2021-INIT/en/pdf) | council-position | General Approach | – |
+| 2022-01-11 | [ST 5163/22](https://data.consilium.europa.eu/doc/document/ST-5163-2022-INIT/en/pdf) | trilogue | Four-column document | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

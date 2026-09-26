@@ -15,6 +15,9 @@ against the files.
 **Legislative procedures** of the acts (Art. 294 TFEU route, events in Parliament and
 Council, public documents): [`procedures/`](procedures/index.html).
 
+**Texts as Markdown** (legal acts, proposals, public Council and EP documents, for reading
+and for use in chats and project folders): [`texts/`](texts/README.md).
+
 **License:** our content CC BY 4.0, page code MIT, EU sources © European Union; see
 [`LICENSE.md`](LICENSE.md).
 

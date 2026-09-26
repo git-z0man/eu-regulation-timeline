@@ -19,8 +19,8 @@ Drawing: [nlf-decision.svg](nlf-decision.svg), [nlf-decision.pdf](nlf-decision.p
 
 ## Public documents
 
-| Date | Document | Kind | Subject |
-| --- | --- | --- | --- |
-| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/api/v2/plenary-documents/A-6-2007-0490) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products |
+| Date | Document | Kind | Subject | Text |
+| --- | --- | --- | --- | --- |
+| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/api/v2/plenary-documents/A-6-2007-0490) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | – |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
