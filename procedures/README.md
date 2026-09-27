@@ -1,6 +1,6 @@
 # Legislative procedures
 
-Where each procedure stands, what happened last and what comes next. One page per act (`<id>.md`, also as web page and drawing).
+Where each procedure stands, what happened last and what comes next. One page per act (`<id>.md`, also as web page and drawing). What happened lately: [changes.md](changes.md) (also as Atom feed: [feed.xml](feed.xml)).
 
 ## Coming up
 

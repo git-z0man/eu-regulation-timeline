@@ -15,10 +15,10 @@ Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
-| 2026-06-03 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 502](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0502) | Cellar (CELEX 52026PC0502) |
-| 2026-06-24 | European Parliament | ITRE rapporteur appointed (Diego Solier, ECR) | – | EP Open Data API, procedure 2026-0138 (participation RAPPORTEUR) |
-| 2026-06-24 | European Parliament | IMCO rapporteur appointed (Reinier Van Lanschot, VERTS-ALE) | – | EP Open Data API, procedure 2026-0138 (participation RAPPORTEUR) |
-| 2026-09-17 | European Parliament | Referral to committee announced in plenary | – | EP Open Data API, procedure 2026-0138 (REFERRAL) |
+| 2026-06-03 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 502](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0502) · [en.md](../texts/cloud-ai-development-act/2026-06-03_com-proposal.en.md) [de.md](../texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | Cellar (CELEX 52026PC0502) |
+| 2026-06-24 | European Parliament | ITRE rapporteur appointed (Diego Solier, ECR) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (participation RAPPORTEUR) |
+| 2026-06-24 | European Parliament | IMCO rapporteur appointed (Reinier Van Lanschot, VERTS-ALE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (participation RAPPORTEUR) |
+| 2026-09-17 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (REFERRAL) |
 
 ## Public documents
 
@@ -33,5 +33,13 @@ Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai
 | 2026-07-07 | [WK 10169/26](https://data.consilium.europa.eu/doc/document/WK-10169-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | – |
 | 2026-08-24 | [WK 13042/26](https://data.consilium.europa.eu/doc/document/WK-13042-2026-INIT/en/pdf) | council-note | EDPS Opinion on the Proposal for a Regulation establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development … | – |
 | 2026-09-09 | [WK 13788/26](https://data.consilium.europa.eu/doc/document/WK-13788-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | – |
+
+## Texts as Markdown
+
+Unofficial Markdown conversions for reading, searching and project folders; only the official document is authentic. "Read" opens the rendered text on GitHub, where a link to a provision (#art-13, #rec-12, #annex-i) jumps to it.
+
+| Date | Stage | Document | Markdown | Read |
+| --- | --- | --- | --- | --- |
+| 2026-06-03 | com-proposal | [CELEX 52026PC0502](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0502) | [en](../texts/cloud-ai-development-act/2026-06-03_com-proposal.en.md) [de](../texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-06-03_com-proposal.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

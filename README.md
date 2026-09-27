@@ -16,7 +16,12 @@ against the files.
 Council, public documents): [`procedures/`](procedures/index.html).
 
 **Texts as Markdown** (legal acts, proposals, public Council and EP documents, for reading
-and for use in chats and project folders): [`texts/`](texts/README.md).
+and for use in chats and project folders): [`texts/`](texts/README.md). All texts of an act
+as one zip: [`texts/downloads/`](texts/README.md); an index for AI tools: [`llms.txt`](llms.txt).
+
+**Latest activity** in the procedures, newest first:
+[`procedures/changes.md`](procedures/changes.md), also as Atom feed
+([`procedures/feed.xml`](procedures/feed.xml)).
 
 **License:** our content CC BY 4.0, page code MIT, EU sources © European Union; see
 [`LICENSE.md`](LICENSE.md).

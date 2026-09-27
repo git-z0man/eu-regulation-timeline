@@ -116,15 +116,15 @@
 <g><title>06 Jun 2022: Plenary confirms mandate for trilogues</title><polygon points="975.9002433090025,629.0 981.9002433090025,635.0 975.9002433090025,641.0 969.9002433090025,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
 <rect x="971.9" y="599.0" width="252.4" height="12.0" fill="#ffffff"/>
 <text font-size="9" fill="#222222" text-anchor="start"><tspan x="975.9" y="608.1">06 Jun 2022 · Plenary confirms mandate for trilogues</tspan></text>
-<g><title>18 Apr 2023: Plenary adopt position – P9_TA(2023)0097</title><polygon points="1579.4525547445255,629.0 1585.4525547445255,635.0 1579.4525547445255,641.0 1573.4525547445255,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
+<a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0097_en.pdf" target="_blank"><title>18 Apr 2023: Plenary adopt position – P9_TA(2023)0097</title><polygon points="1579.4525547445255,629.0 1585.4525547445255,635.0 1579.4525547445255,641.0 1573.4525547445255,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="1518.2" y="599.0" width="261.8" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1522.2" y="608.1">18 Apr 2023 · Plenary adopt position (P9_TA(2023)0097)</tspan></text>
+<a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0097_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1522.2" y="608.1">18 Apr 2023 · Plenary adopt position (P9_TA(2023)0097)</tspan></text></a>
 <g><title>14 Jun 2023: Signature by the Presidents of EP and Council</title><polygon points="1688.3211678832117,887.0 1694.3211678832117,893.0 1688.3211678832117,899.0 1682.3211678832117,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
 <rect x="1494.7" y="857.0" width="285.3" height="12.0" fill="#ffffff"/>
 <text font-size="9" fill="#222222" text-anchor="start"><tspan x="1498.7" y="866.1">14 Jun 2023 · Signature by the Presidents of EP and Council</tspan></text>
-<g><title>29 Jun 2023: Published in the Official Journal</title><polygon points="1716.970802919708,887.0 1722.970802919708,893.0 1716.970802919708,899.0 1710.970802919708,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="1551.1" y="869.0" width="228.9" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1555.1" y="878.1">29 Jun 2023 · Published in the Official Journal</tspan></text>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230" target="_blank"><title>29 Jun 2023: Published in the Official Journal – CELEX 32023R1230</title><polygon points="1716.970802919708,887.0 1722.970802919708,893.0 1716.970802919708,899.0 1710.970802919708,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<rect x="1461.8" y="869.0" width="318.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1465.8" y="878.1">29 Jun 2023 · Published in the Official Journal (CELEX 32023R1230)</tspan></text></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="967.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="985.1">Sources: EP Open Data API (procedure events), Cellar procedure file and Council register documents (ST numbers), EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </svg>

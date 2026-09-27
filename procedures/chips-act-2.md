@@ -15,9 +15,9 @@ Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) 
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
-| 2026-06-03 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 504](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504) | Cellar (CELEX 52026PC0504) |
-| 2026-08-31 | European Parliament | ITRE rapporteur appointed (Oliver Schenk, PPE) | – | EP Open Data API, procedure 2026-0139 (participation RAPPORTEUR) |
-| 2026-09-14 | European Parliament | Referral to committee announced in plenary | – | EP Open Data API, procedure 2026-0139 (REFERRAL) |
+| 2026-06-03 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 504](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504) · [en.md](../texts/chips-act-2/2026-06-03_com-proposal.en.md) [de.md](../texts/chips-act-2/2026-06-03_com-proposal.de.md) | Cellar (CELEX 52026PC0504) |
+| 2026-08-31 | European Parliament | ITRE rapporteur appointed (Oliver Schenk, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29) | EP Open Data API, procedure 2026-0139 (participation RAPPORTEUR) |
+| 2026-09-14 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29) | EP Open Data API, procedure 2026-0139 (REFERRAL) |
 
 ## Public documents
 
@@ -29,5 +29,13 @@ Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) 
 | 2026-07-08 | [WK 10223/26](https://data.consilium.europa.eu/doc/document/WK-10223-2026-INIT/en/pdf) | council-note | Proposal on Chips Act 2.0 - Recital-article correlation table | – |
 | 2026-07-09 | [WK 10211/26](https://data.consilium.europa.eu/doc/document/WK-10211-2026-INIT/en/pdf) | council-note | Proposal on Chips Act 2.0 – Presentation by the Commission on Pillar I and II of the proposal | – |
 | 2026-09-11 | [ST 12887/26](https://data.consilium.europa.eu/doc/document/ST-12887-2026-INIT/en/pdf) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 24 September 2026 Regulation on a European Chips Act 2.0 - Policy … | – |
+
+## Texts as Markdown
+
+Unofficial Markdown conversions for reading, searching and project folders; only the official document is authentic. "Read" opens the rendered text on GitHub, where a link to a provision (#art-13, #rec-12, #annex-i) jumps to it.
+
+| Date | Stage | Document | Markdown | Read |
+| --- | --- | --- | --- | --- |
+| 2026-06-03 | com-proposal | [CELEX 52026PC0504](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504) | [en](../texts/chips-act-2/2026-06-03_com-proposal.en.md) [de](../texts/chips-act-2/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-06-03_com-proposal.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

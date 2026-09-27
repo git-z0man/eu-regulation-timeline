@@ -128,9 +128,9 @@
 <g><title>14 Dec 2022: Signature by the Presidents of EP and Council</title><polygon points="1678.909329829172,887.0 1684.909329829172,893.0 1678.909329829172,899.0 1672.909329829172,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
 <rect x="1494.7" y="857.0" width="285.3" height="12.0" fill="#ffffff"/>
 <text font-size="9" fill="#222222" text-anchor="start"><tspan x="1498.7" y="866.1">14 Dec 2022 · Signature by the Presidents of EP and Council</tspan></text>
-<g><title>27 Dec 2022: Published in the Official Journal</title><polygon points="1705.7293035479634,887.0 1711.7293035479634,893.0 1705.7293035479634,899.0 1699.7293035479634,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="1551.1" y="869.0" width="228.9" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1555.1" y="878.1">27 Dec 2022 · Published in the Official Journal</tspan></text>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555" target="_blank"><title>27 Dec 2022: Published in the Official Journal – CELEX 32022L2555</title><polygon points="1705.7293035479634,887.0 1711.7293035479634,893.0 1705.7293035479634,899.0 1699.7293035479634,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<rect x="1461.8" y="869.0" width="318.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1465.8" y="878.1">27 Dec 2022 · Published in the Official Journal (CELEX 32022L2555)</tspan></text></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="967.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="985.1">Sources: EP Open Data API (procedure events), Cellar procedure file and Council register documents (ST numbers), EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </svg>

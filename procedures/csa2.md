@@ -17,14 +17,14 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | --- | --- | --- | --- | --- |
 | 2026-01-20 | European Commission | Commission proposal (cybersecurity package, with NIS 2 amendments) (Art. 294(2) TFEU) | [COM(2026) 11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011) | Cellar (CELEX 52026PC0011) |
 | 2026-01-22 | Council | Proposal transmitted to the Council | [ST 5611/26](https://data.consilium.europa.eu/doc/document/ST-5611-2026-INIT/en/pdf) | Cellar procedure file; Council register (public document) |
-| 2026-01-26 | Council | First presentation in the working party (HWPCI) | – | Council progress report ST 9399/26, point 7 |
-| 2026-02-23 | Council | Working party starts readthrough of the Regulation | – | Council progress report ST 9399/26, point 9 |
-| 2026-02-26 | European Parliament | ITRE rapporteur appointed (Markéta Gregorová, Greens/EFA) | – | EP Open Data API (participation RAPPORTEUR); ST 9399/26, point 5 |
-| 2026-03-25 | European Parliament | Referral announced in plenary; IMCO opinion rapporteur appointed | – | EP Open Data API (REFERRAL; RAPPORTEUR_OPINION IMCO) |
+| 2026-01-26 | Council | First presentation in the working party (HWPCI) | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | Council progress report ST 9399/26, point 7 |
+| 2026-02-23 | Council | Working party starts readthrough of the Regulation | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | Council progress report ST 9399/26, point 9 |
+| 2026-02-26 | European Parliament | ITRE rapporteur appointed (Markéta Gregorová, Greens/EFA) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29) | EP Open Data API (participation RAPPORTEUR); ST 9399/26, point 5 |
+| 2026-03-25 | European Parliament | Referral announced in plenary; IMCO opinion rapporteur appointed | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29) | EP Open Data API (REFERRAL; RAPPORTEUR_OPINION IMCO) |
 | 2026-04-29 | Consultative bodies | EESC opinion | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | Cellar (CELEX 52026AE0075); ST 9399/26, point 6 |
-| 2026-05-22 | Council | Presidency progress report to Coreper and Council | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | Council progress report ST 9399/26 |
-| 2026-05-27 | Council | Presidency compromise text, Titles II (ENISA) and III (certification) | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | Council register (public document) |
-| 2026-09-18 | European Parliament | ITRE draft report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) | EP Open Data API (ITRE-PR-792222) |
+| 2026-05-22 | Council | Presidency progress report to Coreper and Council | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | Council progress report ST 9399/26 |
+| 2026-05-27 | Council | Presidency compromise text, Titles II (ENISA) and III (certification) | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | Council register (public document) |
+| 2026-09-18 | European Parliament | ITRE draft report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) · [en.md](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | EP Open Data API (ITRE-PR-792222) |
 
 ## Notes
 
@@ -48,6 +48,17 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) |
 | 2026-05-27 | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | council-compromise | Presidency compromise text Titles II and III | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
 | 2026-07-02 | [WK 5879/26](https://data.consilium.europa.eu/doc/document/WK-5879-2026-INIT/en/pdf) | council-note | Member States' consolidated comments on Articles 98-122 | – |
-| 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/api/v2/committee-documents/ITRE-PR-792222) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the … | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
+| 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the … | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
+
+## Texts as Markdown
+
+Unofficial Markdown conversions for reading, searching and project folders; only the official document is authentic. "Read" opens the rendered text on GitHub, where a link to a provision (#art-13, #rec-12, #annex-i) jumps to it.
+
+| Date | Stage | Document | Markdown | Read |
+| --- | --- | --- | --- | --- |
+| 2026-01-20 | com-proposal | [CELEX 52026PC0011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011) | [en](../texts/csa2/2026-01-20_com-proposal.en.md) [de](../texts/csa2/2026-01-20_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-01-20_com-proposal.en.md) |
+| 2026-05-22 | council-progress-report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) |
+| 2026-05-27 | council-compromise | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
+| 2026-09-18 | ep-draft-report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

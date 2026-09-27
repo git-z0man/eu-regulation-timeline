@@ -15,14 +15,14 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
-| 2026-03-04 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 100](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) | Cellar (CELEX 52026PC0100) |
-| 2026-04-29 | European Parliament | IMCO rapporteur appointed (Pierre Jouvet, S-D) | – | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
-| 2026-04-29 | European Parliament | INTA rapporteur appointed (Anna Cavazzini, VERTS-ALE) | – | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
-| 2026-04-29 | European Parliament | ITRE rapporteur appointed (Christophe Grudler, RENEW) | – | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
-| 2026-04-30 | European Parliament | Referral to committee announced in plenary | – | EP Open Data API, procedure 2026-0068 (REFERRAL) |
-| 2026-06-23 | Council | Partial Presidency compromise text | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) | Cellar procedure file 2026/68 (Council register) |
-| 2026-06-26 | Council | Partial Presidency compromise text | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) | Cellar procedure file 2026/68 (Council register) |
-| 2026-09-11 | European Parliament | CJ80 draft report | PE792.067 | EP Open Data API, procedure 2026-0068 (COMMITTEE_TABLING_REPORT) |
+| 2026-03-04 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 100](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) · [en.md](../texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) [de.md](../texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | Cellar (CELEX 52026PC0100) |
+| 2026-04-29 | European Parliament | IMCO rapporteur appointed (Pierre Jouvet, S-D) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
+| 2026-04-29 | European Parliament | INTA rapporteur appointed (Anna Cavazzini, VERTS-ALE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
+| 2026-04-29 | European Parliament | ITRE rapporteur appointed (Christophe Grudler, RENEW) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
+| 2026-04-30 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (REFERRAL) |
+| 2026-06-23 | Council | Partial Presidency compromise text | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | Cellar procedure file 2026/68 (Council register) |
+| 2026-06-26 | Council | Partial Presidency compromise text | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | Cellar procedure file 2026/68 (Council register) |
+| 2026-09-11 | European Parliament | CJ80 draft report | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | EP Open Data API, procedure 2026-0068 (COMMITTEE_TABLING_REPORT) |
 
 ## Public documents
 
@@ -56,6 +56,17 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | 2026-07-02 | [WK 9871/26](https://data.consilium.europa.eu/doc/document/WK-9871-2026-INIT/en/pdf) | council-note | Regulation for Industrial Accelerator Act: - General comments and questions on Chapter III by : AT, BE, CZ, DE, EE, DE, DK, EL, FI, FR, IT, LT, MT, NL, PL, PT, … | – |
 | 2026-07-08 | [ST 11374/26](https://data.consilium.europa.eu/doc/document/ST-11374-2026-INIT/en/pdf) | council-note | Guidance for further work | – |
 | 2026-07-30 | [WK 11081/26](https://data.consilium.europa.eu/doc/document/WK-11081-2026-INIT/en/pdf) | council-note | Industrial Accelerator Act - Union Origin Options Paper | – |
-| 2026-09-11 | [PE792.067](https://data.europarl.europa.eu/api/v2/committee-documents/CJ80-PR-792067) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of … | [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) |
+| 2026-09-11 | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of … | [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) |
+
+## Texts as Markdown
+
+Unofficial Markdown conversions for reading, searching and project folders; only the official document is authentic. "Read" opens the rendered text on GitHub, where a link to a provision (#art-13, #rec-12, #annex-i) jumps to it.
+
+| Date | Stage | Document | Markdown | Read |
+| --- | --- | --- | --- | --- |
+| 2026-03-04 | com-proposal | [CELEX 52026PC0100](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) | [en](../texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) [de](../texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) |
+| 2026-06-23 | council-compromise | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) |
+| 2026-06-26 | council-compromise | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) |
+| 2026-09-11 | ep-draft-report | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.docx) | [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
