@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regulations – EU regulation timeline</title>
+<meta name="description" content="One page per EU act: dates, texts, pending changes, implementing acts, standardisation, committees and legislative history.">
+<style>
+:root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e;
+  --chip: #eef1f6; --act: #d94841; --prepare: #e8a33d; --operate: #4f9a6a; --monitor: #4a78c2; --low: #9aa0a6; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --accent: #7aa7ff; --chip: #232a31; } }
+:root[data-theme="dark"] { --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136;
+  --accent: #7aa7ff; --chip: #232a31; }
+* { box-sizing: border-box; }
+html { scroll-padding-top: 64px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 16px 16px 48px; }
+a { color: var(--accent); }
+a.ext::after { content: " ↗"; font-size: 0.85em; }
+.crumbs { font-size: 14px; color: var(--muted); margin: 4px 0 10px; }
+.crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
+h1 { font-size: 28px; line-height: 1.2; margin: 0 0 4px; } h2 { font-size: 20px; margin: 0 0 10px; }
+h3 { font-size: 16px; margin: 18px 0 6px; }
+.muted { color: var(--muted); } .small { font-size: 13px; }
+.head { display: grid; grid-template-columns: 1fr auto; gap: 12px 24px; align-items: start; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 4px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.official { font-size: 14px; }
+nav.sections { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line);
+  margin: 14px -16px 0; padding: 8px 16px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); background: var(--chip); border-radius: 999px;
+  padding: 5px 12px; font-size: 14px; }
+nav.sections a[aria-current="true"] { background: var(--accent); color: #fff; }
+section { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; margin-top: 16px; }
+.sec-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.sec-head a.more { font-size: 14px; white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; vertical-align: top; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
+.table { overflow-x: auto; }
+.next { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+.next li { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.next .date { font-weight: 600; } .next .rel { color: var(--muted); font-size: 13px; margin-left: 6px; }
+.next .kind { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+.next a { text-decoration: none; color: inherit; display: block; }
+.next a:hover .what { text-decoration: underline; }
+.tag { font-size: 12px; color: #a4302a; font-weight: 600; }
+.note { background: var(--chip); border-radius: 8px; padding: 8px 12px; font-size: 14px; margin: 8px 0; }
+details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 14px; }
+.stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
+.past { color: var(--muted); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 12px; }
+a.card-link { text-decoration: none; color: inherit; }
+.acard { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; height: 100%; }
+a.card-link:hover .acard { border-color: var(--accent); } .acard h2 { margin: 4px 0 6px; }
+section.changes { border-left: 4px solid var(--prepare); }
+.change { border-top: 1px solid var(--line); padding-top: 4px; margin-top: 10px; }
+.change:first-of-type { border-top: 0; margin-top: 0; }
+.change h3 { margin-top: 8px; } .change th { width: 70px; }
+.fig { margin: 18px 0 8px; } .fig img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  border-radius: 8px; padding: 6px; margin: 8px 0; }
+.legend { list-style: none; padding: 0; margin: 6px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; }
+.legend .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--line);
+  vertical-align: -2px; margin-right: 6px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+.top { position: fixed; right: 16px; bottom: 16px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
+  padding: 6px 12px; font-size: 13px; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+@media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
+  th, td { padding: 6px 8px; } }
+</style></head><body><div class="wrap">
+<style>
+.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
+  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
+.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.item:hover { background: var(--chip, #eef1f6); }
+.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .sitenav .brand { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a></nav>
+<h1>Regulations</h1>
+<p class="muted">One page per act with everything about it: the next dates, pending changes, the texts, implementing and delegated acts, standardisation, committees and expert groups, and the legislative history. More acts on the <a href="../index.html">timeline</a> and in the <a href="../procedures/index.html">legislative procedures</a>.</p>
+<div class="cards">
+<a class="card-link" href="cra.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>CRA</h2><p class="small">Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements</p><p class="small"><strong>Next:</strong> 08 Oct 2026 – CRA Expert Group: 6th meeting of the CRA Expert Group</p><p class="small"><strong>Pending changes:</strong> PPA</p></div></a>
+<a class="card-link" href="machinery-regulation.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>MR</h2><p class="small">Regulation (EU) 2023/1230 on machinery</p><p class="small"><strong>Next:</strong> 20 Oct 2026 – Formal vote forecast: prEN IEC 62745:2025</p><p class="small"><strong>Pending changes:</strong> Omnibus IV – Digitalisation and common specifications (Regulation)</p></div></a>
+<a class="card-link" href="ai-act.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--prepare)"></span>Prepare</div><h2>AI Act</h2><p class="small">Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence</p><p class="small"><strong>Next:</strong> 30 Sep 2026 – Formal vote forecast: prEN 18228</p><p class="small"><strong>Pending changes:</strong> MDR/IVDR simplification</p></div></a>
+<a class="card-link" href="nis2.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--operate)"></span>In operation</div><h2>NIS-2</h2><p class="small">Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union</p><p class="small"><strong>Pending changes:</strong> NIS-2 amendment, Digital Omnibus</p></div></a>
+<a class="card-link" href="csa2.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>CSA2</h2><p class="small">Proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881</p></div></a>
+</div>
+<footer>Built from public sources only: EUR-Lex and Cellar, the Register of Commission documents, eNorm, the Comitology Register, the Register of Commission expert groups and the public work programmes of CEN-CENELEC and ETSI. Our own compilation, an orientation for planning, not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer></div></body></html>

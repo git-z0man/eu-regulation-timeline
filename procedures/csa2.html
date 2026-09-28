@@ -29,6 +29,16 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 </style>
 </head>
 <body><div class="wrap">
+<style>
+.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
+  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
+.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.item:hover { background: var(--chip, #eef1f6); }
+.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .sitenav .brand { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html" aria-current="page">Procedures</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a></nav>
 
 <p class="muted"><a href="../index.html#act=csa2">← Regulation timeline</a> › <a href="../acts/csa2.html">Cybersecurity Act 2</a> › Legislative procedure · <a href="index.html">All procedures</a></p>
 <h1>Cybersecurity Act 2 – COM(2026) 11 (proposal)</h1>

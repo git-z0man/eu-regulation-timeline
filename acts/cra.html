@@ -49,6 +49,14 @@ th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
 details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 14px; }
 .stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
 .past { color: var(--muted); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 12px; }
+a.card-link { text-decoration: none; color: inherit; }
+.acard { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; height: 100%; }
+a.card-link:hover .acard { border-color: var(--accent); } .acard h2 { margin: 4px 0 6px; }
+section.changes { border-left: 4px solid var(--prepare); }
+.change { border-top: 1px solid var(--line); padding-top: 4px; margin-top: 10px; }
+.change:first-of-type { border-top: 0; margin-top: 0; }
+.change h3 { margin-top: 8px; } .change th { width: 70px; }
 .fig { margin: 18px 0 8px; } .fig img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
   border-radius: 8px; padding: 6px; margin: 8px 0; }
 .legend { list-style: none; padding: 0; margin: 6px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; }
@@ -60,6 +68,16 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 @media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
   th, td { padding: 6px 8px; } }
 </style></head><body><div class="wrap">
+<style>
+.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
+  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
+.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.item:hover { background: var(--chip, #eef1f6); }
+.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .sitenav .brand { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a></nav>
 <p class="crumbs"><a href="../index.html#act=cra">← Regulation timeline</a> › Cybersecurity › <strong>CRA</strong></p>
 <div class="head"><div>
 <h1>Cyber Resilience Act</h1>
@@ -70,7 +88,12 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 <a class="chip" href="../index.html#profile=machinery-builder&amp;act=cra" style="text-decoration:none;color:inherit"><span class="dot" style="background:var(--act)"></span>Machinery builder: <strong>Act now</strong></a>
 </div></div>
 <div class="official"><a class="ext" href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank" rel="noopener">EUR-Lex</a><br>Text: <a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.en.md" target="_blank" rel="noopener">EN</a> · <a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.de.md" target="_blank" rel="noopener">DE</a></div></div>
-<nav class="sections" aria-label="Sections"><a href="#next">Next up</a><a href="#dates">Dates</a><a href="#texts">Texts</a><a href="#implementing">Implementing acts</a><a href="#standardisation">Standardisation</a><a href="#committees">Committees</a><a href="#history">History</a><a href="#related">Related</a></nav>
+<nav class="sections" aria-label="Sections"><a href="#changes">Pending changes</a><a href="#next">Next up</a><a href="#dates">Dates</a><a href="#texts">Texts</a><a href="#implementing">Implementing acts</a><a href="#standardisation">Standardisation</a><a href="#committees">Committees</a><a href="#history">History</a><a href="#related">Related</a></nav>
+<section id="changes" class="changes"><div class="sec-head"><h2>Pending changes to this act</h2></div>
+<p class="small muted">Proposals that would amend or replace this act. They are not law; the act applies as published until an amending act is adopted and applies.</p>
+<div class="change pending"><h3>PPA <span class="muted small">– amends this act, proposal</span></h3><p class="small">Proposal for a Regulation on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU</p><p class="small"><a class="ext" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank" rel="noopener">COM(2026) 590 (proposal)</a> · proposed 09 Sep 2026 · <a href="../procedures/public-procurement-act.html">Legislative procedure →</a></p><div class="table"><table><tbody><tr><th>Stage</th><td>Commission proposal<div class="small muted">Parliament: not yet referred to committee; Council: working party, latest document 10 Sep 2026</div></td></tr><tr><th>Latest</th><td>10 Sep 2026 · Council: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public … (ST 12969/26)</td></tr><tr><th>Next</th><td>Referral to an EP committee; Council working party</td></tr></tbody></table></div><p class="small">Latest public text: Commission proposal of 2026-09-09 (<a class="ext" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank" rel="noopener">COM(2026) 590 (proposal)</a>) · read: <a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.en.md" target="_blank" rel="noopener">EN</a> <span class="small muted">(<a href="../texts/public-procurement-act/2026-09-09_com-proposal.en.md" download>en.md</a>)</span></p></div>
+<div class="change"><h3>EHDS <span class="muted small">– amends this act</span></h3><p class="small">Regulation (EU) 2025/327 on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847</p><p class="small"><a class="ext" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327" target="_blank" rel="noopener">Regulation (EU) 2025/327</a> · published 05 Mar 2025 · <a href="../procedures/ehds.html">Legislative procedure →</a></p></div>
+</section>
 <section id="next"><div class="sec-head"><h2>Next up</h2><span class="small muted">the next dates across law, standards and committees</span></div><ul class="next" id="next-list">
 <li data-date="2025-02-12"><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=3967" target="_blank" rel="noopener"><div class="kind">Committees</div><div><time data-rel datetime="2025-02-12" class="date">12 Feb 2025</time><span class="rel"></span></div><div class="what">CRA Expert Group: 1st meeting of the CRA Expert Group</div></a></li>
 <li data-date="2025-06-04"><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=3967" target="_blank" rel="noopener"><div class="kind">Committees</div><div><time data-rel datetime="2025-06-04" class="date">04 Jun 2025</time><span class="rel"></span></div><div class="what">CRA Expert Group: 2nd meeting of the CRA Expert Group</div></a></li>
