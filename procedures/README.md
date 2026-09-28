@@ -8,18 +8,35 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | --- | --- | --- | --- |
 | Q4 2025 | [GPSR](gpsr.md) | Implementing act adopted, publication pending: Implementing Decision on European standards for products in the scope of the General Product Safety Regulation | Commission Register of delegated acts (RegDel) |
 | Q2 2026 | [AI Act](ai-act.md) | Implementing act adopted, publication pending: Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | Commission Register of delegated acts (RegDel) |
+| 30 Sep 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18228 | CEN-CENELEC work programme |
 | Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
 | 06 Oct 2026 | EPA | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5 (Q3 2026); date announced by the Commission |
 | 06 Oct 2026 | Standardisation Regulation (new) | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5, with the European Product Act (Q3 2026) |
 | 08 Oct 2026 | [CRA](cra.md) | CRA Expert Group: 6th meeting of the CRA Expert Group | Register of Commission expert groups |
+| 20 Oct 2026 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025 | CEN-CENELEC work programme |
 | 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: COM Expert Group on Machinery | Register of Commission expert groups |
 | 30 Oct 2026 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 16–41) | Standardisation request, Annex (deadlines) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)](product-digitalisation-directive.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0133(COD) (forecasts) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)](product-digitalisation-regulation.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0134(COD) (forecasts) |
 | 30 Nov 2026 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 1, 15) | Draft amending decision (Comitology Register) |
+| 30 Nov 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-1 | CEN-CENELEC work programme |
 | 14 Dec 2026 | [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2026/0068(COD) (forecasts) |
+| 04 Jan 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13849-2 | CEN-CENELEC work programme |
+| 19 Jan 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN XXX (Cybersecurity requirements for products with digital element) | CEN-CENELEC work programme |
 | 31 Jan 2027 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 16–41) | Draft amending decision (Comitology Register) |
+| 03 Mar 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18283 | CEN-CENELEC work programme |
+| 07 Mar 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-2 | CEN-CENELEC work programme |
+| 18 Mar 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18284 | CEN-CENELEC work programme |
+| 17 May 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 12100 | CEN-CENELEC work programme |
+| 01 Jun 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 14159 | CEN-CENELEC work programme |
+| 02 Jun 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18288 | CEN-CENELEC work programme |
+| 01 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-3 | CEN-CENELEC work programme |
+| 21 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-4, prEN 18229-5 | CEN-CENELEC work programme |
+| 26 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN ISO/IEC 23282 | CEN-CENELEC work programme |
+| 11 Oct 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 60204-1 | CEN-CENELEC work programme |
 | 30 Oct 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 10–14, 2–9) | Standardisation request, Annex (deadlines) |
+| 21 Mar 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: EN IEC 60204-32:2025/prAA | CEN-CENELEC work programme |
+| 23 Oct 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13857 rev | CEN-CENELEC work programme |
 | 20 Jan 2034 | [MR](machinery-regulation.md) | M/605: phase 2 deadline for the requested standards (80 items) | Standardisation request, Annex (deadlines) |
 
 ## Ongoing procedures
@@ -89,4 +106,4 @@ From the Commission's Register of delegated acts (RegDel): planned (adoption qua
 | [Standardisation Regulation – Regulation (EC) No 1025/2012](standardisation-regulation.md) | 2011/0150(COD) | Completed, published 14 Nov 2012 |
 | [TSR – Regulation (EU) 2025/2509](toy-safety-regulation.md) | 2023/0290(COD) | Completed, published 12 Dec 2025 |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

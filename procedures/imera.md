@@ -71,4 +71,4 @@ Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 o
 
 No meetings listed.
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
