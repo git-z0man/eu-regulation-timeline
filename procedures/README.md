@@ -1,6 +1,6 @@
 # Legislative procedures
 
-Where each procedure stands, what happened last and what comes next. One page per act (`<id>.md`, also as web page and drawing). What happened lately: [changes.md](changes.md) (also as Atom feed: [feed.xml](feed.xml)).
+Where each procedure stands, what happened last and what comes next. One page per act (`<id>.md`, also as web page and drawing). What happened lately: [changes.md](changes.md) (also as Atom feed: [feed.xml](feed.xml)). Comitology committees and expert groups: [committees.md](committees.md); standardisation requests: [standardisation.md](standardisation.md).
 
 ## Coming up
 
@@ -11,9 +11,16 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
 | 06 Oct 2026 | EPA | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5 (Q3 2026); date announced by the Commission |
 | 06 Oct 2026 | Standardisation Regulation (new) | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5, with the European Product Act (Q3 2026) |
+| 08 Oct 2026 | [CRA](cra.md) | CRA Expert Group: 6th meeting of the CRA Expert Group | Register of Commission expert groups |
+| 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: COM Expert Group on Machinery | Register of Commission expert groups |
+| 30 Oct 2026 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 16–41) | Standardisation request, Annex (deadlines) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)](product-digitalisation-directive.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0133(COD) (forecasts) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)](product-digitalisation-regulation.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0134(COD) (forecasts) |
+| 30 Nov 2026 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 1, 15) | Draft amending decision (Comitology Register) |
 | 14 Dec 2026 | [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2026/0068(COD) (forecasts) |
+| 31 Jan 2027 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 16–41) | Draft amending decision (Comitology Register) |
+| 30 Oct 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 10–14, 2–9) | Standardisation request, Annex (deadlines) |
+| 20 Jan 2034 | [MR](machinery-regulation.md) | M/605: phase 2 deadline for the requested standards (80 items) | Standardisation request, Annex (deadlines) |
 
 ## Ongoing procedures
 
@@ -82,4 +89,4 @@ From the Commission's Register of delegated acts (RegDel): planned (adoption qua
 | [Standardisation Regulation – Regulation (EC) No 1025/2012](standardisation-regulation.md) | 2011/0150(COD) | Completed, published 14 Nov 2012 |
 | [TSR – Regulation (EU) 2025/2509](toy-safety-regulation.md) | 2023/0290(COD) | Completed, published 12 Dec 2025 |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

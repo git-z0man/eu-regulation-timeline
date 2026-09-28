@@ -4,7 +4,7 @@ The official EU documents of the regulation timeline and the legislative procedu
 
 EN and DE link the Markdown files (for download and project folders); "GitHub" opens the rendered text, where a link to a provision (`#art-13`, `#rec-12`, `#annex-i`) jumps to it.
 
-Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0.
+Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Reg. 765/2008
 
@@ -35,6 +35,16 @@ All texts of this act as one file: [accreditation-regulation.zip](downloads/accr
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-23_oj | oj | 32026D0375 | [en](accreditation-regulation/implementing-decision-2026-375/2026-02-23_oj.en.md) | [de](accreditation-regulation/implementing-decision-2026-375/2026-02-23_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/accreditation-regulation/implementing-decision-2026-375/2026-02-23_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026D0375) |
+
+## M/580 – C(2021)9277
+
+`accreditation-regulation/sreq-m580` – COMMISSION IMPLEMENTING DECISION of 17.12.2021 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards accreditation and conformity assessment in support of Regulation (EC) No 765/2008 of the European Parliament and of the Council
+
+All texts of this act as one file: [accreditation-regulation.zip](downloads/accreditation-regulation.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-17_commission-decision | commission-decision | – | [en](accreditation-regulation/sreq-m580/2021-12-17_commission-decision.en.md) | [de](accreditation-regulation/sreq-m580/2021-12-17_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/accreditation-regulation/sreq-m580/2021-12-17_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)9277&lang=de) |
 
 ## AI Act
 
@@ -77,6 +87,16 @@ All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-21_oj | oj | 32026R1755 | [en](ai-act/implementing-regulation-2026-1755/2026-07-21_oj.en.md) | [de](ai-act/implementing-regulation-2026-1755/2026-07-21_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/implementing-regulation-2026-1755/2026-07-21_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1755) |
+
+## M/613 – C(2025)3871
+
+`ai-act/sreq-m613` – COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
+
+All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-23_commission-decision | commission-decision | – | [en](ai-act/sreq-m613/2025-06-23_commission-decision.en.md) | [de](ai-act/sreq-m613/2025-06-23_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/sreq-m613/2025-06-23_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)3871&lang=de) |
 
 ## Chips Act 2.0
 
@@ -142,6 +162,16 @@ All texts of this act as one file: [cra.zip](downloads/cra.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-01_oj | oj | 32025R2392 | [en](cra/implementing-regulation-2025-2392/2025-12-01_oj.en.md) | [de](cra/implementing-regulation-2025-2392/2025-12-01_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/implementing-regulation-2025-2392/2025-12-01_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2392) |
+
+## M/606 – C(2025)618
+
+`cra/sreq-m606` – COMMISSION IMPLEMENTING DECISION of 3.2.2025 on a standardisation request to the European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and the European Telecommunications Standards Institute (ETSI) as regards products with digital elements in support of Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act)
+
+All texts of this act as one file: [cra.zip](downloads/cra.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-03_commission-decision | commission-decision | – | [en](cra/sreq-m606/2025-02-03_commission-decision.en.md) | [de](cra/sreq-m606/2025-02-03_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/sreq-m606/2025-02-03_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)618&lang=de) |
 
 ## CSA
 
@@ -341,6 +371,26 @@ All texts of this act as one file: [espr.zip](downloads/espr.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-10_oj | oj | 32026R0002 | [en](espr/implementing-regulation-2026-2/2026-02-10_oj.en.md) | [de](espr/implementing-regulation-2026-2/2026-02-10_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/implementing-regulation-2026-2/2026-02-10_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0002) |
 
+## M/604 – C(2024)5423
+
+`espr/sreq-m604` – COMMISSION IMPLEMENTING DECISION of 31.7.2024 on a standardisation request to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation, and the European Telecommunications Standards Institute as regards digital product passports in support of Union policy on ecodesign requirements for sustainable products and on batteries and waste batteries
+
+All texts of this act as one file: [espr.zip](downloads/espr.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-07-31_commission-decision | commission-decision | – | [en](espr/sreq-m604/2024-07-31_commission-decision.en.md) | [de](espr/sreq-m604/2024-07-31_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/sreq-m604/2024-07-31_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2024)5423&lang=de) |
+
+## M/604 Amd 1 – C(2025)8024
+
+`espr/sreq-m604-amd1` – COMMISSION IMPLEMENTING DECISION of 28.11.2025 amending Implementing Decision C(2024)5423 as regards the legal basis and the deadlines for the adoption of the standards
+
+All texts of this act as one file: [espr.zip](downloads/espr.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-28_commission-decision | commission-decision | – | [en](espr/sreq-m604-amd1/2025-11-28_commission-decision.en.md) | [de](espr/sreq-m604-amd1/2025-11-28_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)8024&lang=de) |
+
 ## GPSR
 
 `gpsr` – Regulation (EU) 2023/988 on general product safety
@@ -424,6 +474,47 @@ All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-12-02_oj | oj | 32024R2958 | [en](gpsr/implementing-regulation-2024-2958/2024-12-02_oj.en.md) | [de](gpsr/implementing-regulation-2024-2958/2024-12-02_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/implementing-regulation-2024-2958/2024-12-02_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2958) |
 
+## M/538 – C(2015)8011
+
+`gpsr/sreq-m538` – COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces
+
+All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2015-11-25_commission-decision | commission-decision | – | [en](gpsr/sreq-m538/2015-11-25_commission-decision.en.md) | [de](gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=de) |
+
+## Annual Union work programme for European standardisation 2024
+
+`guidance/commission/uwp-2024` – Commission Notice – The 2024 annual Union work programme for European standardisation
+
+All texts of this act as one file: [guidance-commission-uwp-2024.zip](downloads/guidance-commission-uwp-2024.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-02-15_final | final | 52024XC01364 | [en](guidance/commission/uwp-2024/2024-02-15_final.en.md) | [de](guidance/commission/uwp-2024/2024-02-15_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/uwp-2024/2024-02-15_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52024XC01364) |
+| 2024-10-10_corrigendum-01 | corrigendum | 52024XC01364R(01) | [en](guidance/commission/uwp-2024/2024-10-10_corrigendum-01.en.md) | [de](guidance/commission/uwp-2024/2024-10-10_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/uwp-2024/2024-10-10_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52024XC01364R(01)) |
+
+## Annual Union work programme for European standardisation 2025
+
+`guidance/commission/uwp-2025` – Commission Notice – The 2025 annual Union work programme for European standardisation
+
+All texts of this act as one file: [guidance-commission-uwp-2025.zip](downloads/guidance-commission-uwp-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-27_final | final | 52025XC01818 | [en](guidance/commission/uwp-2025/2025-03-27_final.en.md) | [de](guidance/commission/uwp-2025/2025-03-27_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/uwp-2025/2025-03-27_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025XC01818) |
+
+## Annual Union work programme for European standardisation 2026
+
+`guidance/commission/uwp-2026` – Commission Notice – The 2026 annual Union work programme for European standardisation
+
+All texts of this act as one file: [guidance-commission-uwp-2026.zip](downloads/guidance-commission-uwp-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-19_final | final | 52026XC01695 | [en](guidance/commission/uwp-2026/2026-03-19_final.en.md) | [de](guidance/commission/uwp-2026/2026-03-19_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026XC01695) |
+
 ## Commission Work Programme 2026
 
 `guidance/commission/work-programme-2026` – Communication from the Commission – Commission work programme 2026
@@ -489,6 +580,16 @@ All texts of this act as one file: [machinery-regulation.zip](downloads/machiner
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-07-15_oj | oj | 32024R1922 | [en](machinery-regulation/implementing-regulation-2024-1922/2024-07-15_oj.en.md) | [de](machinery-regulation/implementing-regulation-2024-1922/2024-07-15_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/implementing-regulation-2024-1922/2024-07-15_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1922) |
+
+## M/605 – C(2025)129
+
+`machinery-regulation/sreq-m605` – COMMISSION IMPLEMENTING DECISION of 20.1.2025 on a standardisation request to the European Committee for Standardization and to the European Committee for Electrotechnical Standardization as regards machinery and related products in support of Regulation (EU) 2023/1230 of the European Parliament and of the Council
+
+All texts of this act as one file: [machinery-regulation.zip](downloads/machinery-regulation.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-01-20_commission-decision | commission-decision | – | [en](machinery-regulation/sreq-m605/2025-01-20_commission-decision.en.md) | [de](machinery-regulation/sreq-m605/2025-01-20_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/sreq-m605/2025-01-20_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)129&lang=de) |
 
 ## MSR
 
@@ -831,6 +932,26 @@ All texts of this act as one file: [red-cybersecurity-repeal.zip](downloads/red-
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-04-29_oj | oj | 32026R0339 | [en](red-cybersecurity-repeal/2026-04-29_oj.en.md) | [de](red-cybersecurity-repeal/2026-04-29_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red-cybersecurity-repeal/2026-04-29_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0339) |
 
+## M/585 – C(2022)5637
+
+`red-cybersecurity/sreq-m585` – COMMISSION IMPLEMENTING DECISION of 5.8.2022 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards radio equipment in support of Directive 2014/53/EU of the European Parliament and of the Council and Commission Delegated Regulation (EU) 2022/30
+
+All texts of this act as one file: [red-cybersecurity.zip](downloads/red-cybersecurity.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05_commission-decision | commission-decision | – | [en](red-cybersecurity/sreq-m585/2022-08-05_commission-decision.en.md) | [de](red-cybersecurity/sreq-m585/2022-08-05_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red-cybersecurity/sreq-m585/2022-08-05_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)5637&lang=de) |
+
+## M/585 Amd 1 – C(2023)5624
+
+`red-cybersecurity/sreq-m585-amd1` – COMMISSION IMPLEMENTING DECISION of 23.8.2023 amending Implementing Decision C(2022) 5637 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards radio equipment in support of Directive 2014/53/EU of the European Parliament and of the Council and Commission Delegated Regulation (EU) 2022/30
+
+All texts of this act as one file: [red-cybersecurity.zip](downloads/red-cybersecurity.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023-08-23_commission-decision | commission-decision | – | [en](red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.en.md) | [de](red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)5624&lang=de) |
+
 ## EU Space Act
 
 `space-act` – Proposal for a Regulation on the safety, resilience and sustainability of space activities in the Union
@@ -876,3 +997,13 @@ All texts of this act as one file: [toy-safety-regulation.zip](downloads/toy-saf
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-12_oj | oj | 32025R2509 | [en](toy-safety-regulation/2025-12-12_oj.en.md) | [de](toy-safety-regulation/2025-12-12_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/toy-safety-regulation/2025-12-12_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2509) |
 | 2026-02-09_corrigendum-01 | corrigendum | 32025R2509R(01) | – | [de](toy-safety-regulation/2026-02-09_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/toy-safety-regulation/2026-02-09_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2509R(01)) |
+
+## M/589 – C(2022)7410
+
+`toy-safety-regulation/sreq-m589` – COMMISSION IMPLEMENTING DECISION of 24.10.2022 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards toys in support of Directive 2009/48/EC of the European Parliament and of the Council
+
+All texts of this act as one file: [toy-safety-regulation.zip](downloads/toy-safety-regulation.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022-10-24_commission-decision | commission-decision | – | [en](toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.en.md) | [de](toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)7410&lang=de) |

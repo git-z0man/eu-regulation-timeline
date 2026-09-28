@@ -50,4 +50,14 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2024-11-18 | oj | [CELEX 32024L2853](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853) | [en](../texts/pld/2024-11-18_oj.en.md) [de](../texts/pld/2024-11-18_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/pld/2024-11-18_oj.en.md) |
 | 2026-05-07 | corrigendum | [CELEX 32024L2853R(01)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853R(01)) | [en](../texts/pld/2026-05-07_corrigendum-01.en.md) [de](../texts/pld/2026-05-07_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/pld/2026-05-07_corrigendum-01.en.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [EXPERT GROUP ON PRODUCT LIABILITY](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3995)
+
+Expert group E03995, GROW.
+
+No meetings listed.
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

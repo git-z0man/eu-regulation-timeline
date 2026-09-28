@@ -61,4 +61,14 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | --- | --- | --- | --- | --- |
 | 2024-11-08 | oj | [CELEX 32024R2747](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2747) | [en](../texts/imera/2024-11-08_oj.en.md) [de](../texts/imera/2024-11-08_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/imera/2024-11-08_oj.en.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [Internal Market Emergency and Resilience Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131800/consult)
+
+Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+
+No meetings listed.
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

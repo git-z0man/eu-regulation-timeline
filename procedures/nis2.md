@@ -41,4 +41,18 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2022-12-27 | oj | [CELEX 32022L2555](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555) | [en](../texts/nis2/2022-12-27_oj.en.md) [de](../texts/nis2/2022-12-27_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2/2022-12-27_oj.en.md) |
 | 2023-12-22 | corrigendum | [CELEX 32022L2555R(04)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555R(04)) | [en](../texts/nis2/2023-12-22_corrigendum-04.en.md) [de](../texts/nis2/2023-12-22_corrigendum-04.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2/2023-12-22_corrigendum-04.en.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [Cybersecurity Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C127400/consult)
+
+Comitology committee C127400, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2024-10-02 | [Cybersecurity Committee - 3rd meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1672/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/100188/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/2/consult) · [draft implementing act v3](https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/3/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/101077/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult) |
+| 2024-09-09 | [2nd Cybersecurity Commitology](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1540/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/099646/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/100864/1/consult) |
+| 2024-07-11 | [1st Cybersecurity Commitee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1186/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/098443/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/099645/1/consult) |
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

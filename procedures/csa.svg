@@ -81,23 +81,23 @@
 <text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1707.2" y="415.1">Jul</tspan></text>
 <line x1="1780.0" y1="420.0" x2="1780.0" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
 <rect x="20.0" y="420.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="428.0" width="6.0" height="70.0" fill="#4a78c2" stroke="none"/>
-<text font-size="11" fill="#4a78c2" text-anchor="start" font-weight="bold"><tspan x="34.0" y="466.9">European Commission</tspan></text>
+<rect x="20.0" y="428.0" width="6.0" height="70.0" fill="#2a78d6" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="466.9">European Commission</tspan></text>
 <rect x="20.0" y="506.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="514.0" width="6.0" height="70.0" fill="#7b8794" stroke="none"/>
-<text font-size="11" fill="#7b8794" text-anchor="start" font-weight="bold"><tspan x="34.0" y="552.9">Consultative bodies</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="552.9">Consultative bodies</tspan></text>
 <rect x="20.0" y="592.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="600.0" width="6.0" height="70.0" fill="#2e7d5b" stroke="none"/>
-<text font-size="11" fill="#2e7d5b" text-anchor="start" font-weight="bold"><tspan x="34.0" y="638.9">European Parliament</tspan></text>
+<rect x="20.0" y="600.0" width="6.0" height="70.0" fill="#1baf7a" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="638.9">European Parliament</tspan></text>
 <rect x="20.0" y="678.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="686.0" width="6.0" height="70.0" fill="#8a6d00" stroke="none"/>
-<text font-size="11" fill="#8a6d00" text-anchor="start" font-weight="bold"><tspan x="34.0" y="724.9">Trilogues (informal)</tspan></text>
+<rect x="20.0" y="686.0" width="6.0" height="70.0" fill="#eda100" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="724.9">Trilogues (informal)</tspan></text>
 <rect x="20.0" y="764.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="772.0" width="6.0" height="70.0" fill="#b5472d" stroke="none"/>
-<text font-size="11" fill="#b5472d" text-anchor="start" font-weight="bold"><tspan x="34.0" y="810.9">Council</tspan></text>
+<rect x="20.0" y="772.0" width="6.0" height="70.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="810.9">Council</tspan></text>
 <rect x="20.0" y="850.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="858.0" width="6.0" height="70.0" fill="#444444" stroke="none"/>
-<text font-size="11" fill="#444444" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
 <g><title>23 Oct 2017: Referral to committee announced in plenary</title><polygon points="261.62929745889386,629.0 267.62929745889386,635.0 261.62929745889386,641.0 255.62929745889386,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
 <rect x="257.6" y="599.0" width="271.2" height="12.0" fill="#ffffff"/>
 <text font-size="9" fill="#222222" text-anchor="start"><tspan x="261.6" y="608.1">23 Oct 2017 · Referral to committee announced in plenary</tspan></text>

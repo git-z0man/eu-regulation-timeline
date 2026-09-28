@@ -63,4 +63,47 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2025-04-28 | corrigendum | [CELEX 32024R1781R(02)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781R(02)) | [en](../texts/espr/2025-04-28_corrigendum-02.en.md) [de](../texts/espr/2025-04-28_corrigendum-02.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/2025-04-28_corrigendum-02.en.md) |
 | 2025-11-27 | corrigendum | [CELEX 32024R1781R(03)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781R(03)) | [de](../texts/espr/2025-11-27_corrigendum-03.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/2025-11-27_corrigendum-03.de.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Standardisation
+
+Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
+
+### M/604 – C(2024)5423 (under execution)
+
+COMMISSION IMPLEMENTING DECISION of 31.7.2024 on a standardisation request to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation, and the European Telecommunications Standards Institute as regards digital product passports in support of Union policy on ecodesign requirements for sustainable products and on batteries and waste batteries
+
+adopted 2024-07-31; expires 2028-03-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/604_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2024)5423&lang=en) · [en.md](../texts/espr/sreq-m604/2024-07-31_commission-decision.en.md) · [de.md](../texts/espr/sreq-m604/2024-07-31_commission-decision.de.md)
+
+### M/604 Amd 1 – C(2025)8024 (under execution)
+
+COMMISSION IMPLEMENTING DECISION of 28.11.2025 amending Implementing Decision C(2024)5423 as regards the legal basis and the deadlines for the adoption of the standards
+
+adopted 2025-11-28; expires 2028-03-30; ESOs: CEN, CENELEC, ETSI; amends M/604. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/604AMD1_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)8024&lang=en) · [en.md](../texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.en.md) · [de.md](../texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.de.md)
+
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [Ecodesign for Sustainable Products Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130300/consult)
+
+Comitology committee C130300, ENV; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2026-06-30 | [4th Meeting of the Ecodesign for Sustainable Products Committee – Draft Implementing Regulation on the Digital Product Passport Registry – 30th June 2026 meeting on Digital Product Passport](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1112/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117014/1/consult) · [draft implementing act v4](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/4/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/117289/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117013/1/consult) |
+| 2026-06-22 | [3rd Meeting of the Ecodesign for Sustainable Products Committee – Draft Implementing Regulation on the Digital Product Passport Registry – 22nd June 2026 meeting on Digital Product Passport](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)875/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117011/1/consult) · [draft implementing act v3](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/3/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117012/1/consult) |
+| 2026-06-08 | [2nd Ecodesign for sustainable products committee meeting on Digital Product Passport – 8th June 2026](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)876/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/115926/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/2/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117010/1/consult) |
+| 2026-05-12 | [Ecodesign for sustainable products committee meeting on Digital Product Passport](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)713/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117003/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/115823/1/consult) |
+| 2025-09-16 | [1st meeting of the Ecodesign for Sustainable Products Committee​](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1470/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/109300/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/109301/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/109991/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/109997/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/111587/1/consult) |
+
+### [Group of experts on Ecodesign for Sustainable Products and Energy Labelling ('the Ecodesign Forum') (Ecodesign Forum)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969)
+
+Expert group E03969, ENER, ENV, GROW.
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2026-03-19 | Ecodesign Forum - Digital Product Passport (DPP) | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132242/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133412/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download) |
+| 2025-11-24 | Ecodesign Forum | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123803/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127016/download) |
+| 2025-04-01 | Meeting of the "Group of Experts on Ecodesign for Sustainable Products and Energy Labelling" on Electronic Displays of 1 April 2025 | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115418/download) |
+| 2025-02-19 | First meeting of the Group of Experts on Ecodesign for Sustainable Products and Energy Labelling (‘the Ecodesign Forum’ - E03969) - Wed. 19/02/2025 and Thurs. 20/02/2025 (hybrid format) | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115421/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115420/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124552/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/113705/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/113704/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/113703/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/113706/download) |
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

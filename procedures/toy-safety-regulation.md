@@ -66,4 +66,37 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2025-12-12 | oj | [CELEX 32025R2509](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509) | [en](../texts/toy-safety-regulation/2025-12-12_oj.en.md) [de](../texts/toy-safety-regulation/2025-12-12_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/toy-safety-regulation/2025-12-12_oj.en.md) |
 | 2026-02-09 | corrigendum | [CELEX 32025R2509R(01)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509R(01)) | [de](../texts/toy-safety-regulation/2026-02-09_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/toy-safety-regulation/2026-02-09_corrigendum-01.de.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Standardisation
+
+Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
+
+### M/589 – C(2022)7410 (under execution)
+
+COMMISSION IMPLEMENTING DECISION of 24.10.2022 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards toys in support of Directive 2009/48/EC of the European Parliament and of the Council
+
+adopted 2022-10-24; expires 2026-10-25; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/589_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)7410&lang=en) · [en.md](../texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.en.md) · [de.md](../texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.de.md)
+
+### Planned (annual Union work programmes)
+
+| Year | Action | Planned |
+| --- | --- | --- |
+| 2025 | [75. Safety of toys](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) | Development of new standards to cover the technical specifications of LED lights in toys as covered by the Directive 2009/48/EC. Development of new harmonised standards in support of the proposed Regulation. |
+| 2026 | [31. Safety of toys](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) | Amendment to the current standardisation request for toys, i.e. amendment of Commission Implementing Decision C(2022) 7410 (M/589), by extending the deadlines for delivery of the standards and extending the scope of the current standardisation request in order to include the technical specifications of LED lights in toys in the revised version of EN 62115 (standard for electric toys). Adoption of a new standardisation request to support the new requirements of the forthcoming new Regulation on toy safety (COM/2023/462) and development of new/revised standards to be requested under the new standardisation request. |
+
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [Expert Group on Toys Safety](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=1360)
+
+Expert group E01360, GROW.
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2026-09-10 | Working group on Chemicals - Expert Group on the Safety of Toys | – |
+| 2026-05-18 | Ad hoc subgroup Chemicals on asbestos in toy sands | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133893/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133873/download) |
+| 2026-02-10 | CHEMICALS' SUBGROUP OF THE EXPERT GROUP ON TOYS SAFETY | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/125955/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/137891/download) |
+| 2025-10-07 | Expert group on Toys Safety | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122090/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122091/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127516/download) |
+| 2024-10-01 | Expert Group on Toys Safety | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115281/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115263/download) |
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

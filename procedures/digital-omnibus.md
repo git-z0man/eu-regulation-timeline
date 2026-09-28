@@ -102,4 +102,14 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-06-12 | council-progress-report | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | [en](../texts/digital-omnibus/2026-06-12_council-progress-report-st-9834-26-rev-1.en.md) [de](../texts/digital-omnibus/2026-06-12_council-progress-report-st-9834-26-rev-1.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-12_council-progress-report-st-9834-26-rev-1.en.md) |
 | 2026-06-22 | ep-draft-report | [PE786.818](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.docx) | [en](../texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) [de](../texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Standardisation
+
+Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
+
+### Planned (annual Union work programmes)
+
+| Year | Action | Planned |
+| --- | --- | --- |
+| 2026 | [7. Machine-readable expression of consent choices](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) | Development of harmonised European standards for the machine-readable expression of consent choices, the exercise of the right to object to direct marketing and a common vocabulary of data processing purposes, in order to reduce ‘cookie consent fatigue’ by enabling users to set and communicate their preferences centrally. The standards will operationalise forthcoming amendments to the Regulation (EU) 2016/679 (General Data Protection Regulation) and the Directive (EU) 2002/58/EC (‘ePrivacy Directive’) through the Digital Omnibus Regulation, support new obligations under Article 88b and Article 21 of the General Data Protection Regulation, and provide clear implementation guidance for website, application and consumer internet of Things providers across the EU. |
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

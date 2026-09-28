@@ -2,7 +2,7 @@
 
 > Timeline, legislative procedures and official documents (as Markdown) of EU digital and product regulation: Cyber Resilience Act, NIS-2, Cybersecurity Act 2, AI Act, Digital Omnibus, New Legislative Framework and European Product Act, Machinery Regulation, GPSR, PLD, standardisation.
 
-Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic. Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0.
+Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic. Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Overview
 
@@ -16,16 +16,19 @@ Unofficial Markdown conversion made for reading and searching; conversion errors
 - Reg. 765/2008: [2008-08-13_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/accreditation-regulation/2008-08-13_oj.en.md)
 - Implementing Decision (EU) 2019/417: [2019-03-15_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/accreditation-regulation/implementing-decision-2019-417/2019-03-15_oj.en.md)
 - Implementing Decision (EU) 2026/375: [2026-02-23_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/accreditation-regulation/implementing-decision-2026-375/2026-02-23_oj.en.md)
+- M/580 – C(2021)9277: [2021-12-17_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/accreditation-regulation/sreq-m580/2021-12-17_commission-decision.en.md)
 - AI Act: [2024-07-12_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/ai-act/2024-07-12_oj.en.md)
 - Commission Decision C/2024/1459 (AI Office): [2024-02-14_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/ai-act/decision-2024-1459/2024-02-14_oj.en.md)
 - Implementing Regulation (EU) 2025/454: [2025-03-10_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/ai-act/implementing-regulation-2025-454/2025-03-10_oj.en.md)
 - Implementing Regulation (EU) 2026/1755: [2026-07-21_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/ai-act/implementing-regulation-2026-1755/2026-07-21_oj.en.md)
+- M/613 – C(2025)3871: [2025-06-23_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/ai-act/sreq-m613/2025-06-23_commission-decision.en.md)
 - Chips Act 2.0: [2026-06-03_com-proposal](https://git-z0man.github.io/eu-regulation-timeline/texts/chips-act-2/2026-06-03_com-proposal.en.md)
 - CADA: [2026-06-03_com-proposal](https://git-z0man.github.io/eu-regulation-timeline/texts/cloud-ai-development-act/2026-06-03_com-proposal.en.md)
 - CRA: [2024-11-20_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/2024-11-20_oj.en.md), [2024-12-05_corrigendum-01](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/2024-12-05_corrigendum-01.en.md), [2025-07-02_corrigendum-02](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/2025-07-02_corrigendum-02.en.md), [2025-10-17_corrigendum-04](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/2025-10-17_corrigendum-04.en.md)
 - Delegated Regulation (EU) 2025/1535: [2025-10-29_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/delegated-regulation-2025-1535/2025-10-29_oj.en.md)
 - Delegated Regulation (EU) 2026/881: [2026-04-20_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/delegated-regulation-2026-881/2026-04-20_oj.en.md)
 - Implementing Regulation (EU) 2025/2392: [2025-12-01_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/implementing-regulation-2025-2392/2025-12-01_oj.en.md)
+- M/606 – C(2025)618: [2025-02-03_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/cra/sreq-m606/2025-02-03_commission-decision.en.md)
 - CSA: [2019-06-07_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/csa/2019-06-07_oj.en.md)
 - CSA amendment 2025/37: [2025-01-15_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/csa-managed-security-services/2025-01-15_oj.en.md), [2025-01-24_corrigendum-01](https://git-z0man.github.io/eu-regulation-timeline/texts/csa-managed-security-services/2025-01-24_corrigendum-01.en.md)
 - Implementing Regulation (EU) 2024/3143: [2024-12-19_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/csa/implementing-regulation-2024-3143/2024-12-19_oj.en.md)
@@ -44,6 +47,8 @@ Unofficial Markdown conversion made for reading and searching; conversion errors
 - Delegated Regulation (EU) 2026/296: [2026-04-22_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/espr/delegated-regulation-2026-296/2026-04-22_oj.en.md)
 - Implementing Regulation (EU) 2026/1778: [2026-07-17_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/espr/implementing-regulation-2026-1778/2026-07-17_oj.en.md)
 - Implementing Regulation (EU) 2026/2: [2026-02-10_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/espr/implementing-regulation-2026-2/2026-02-10_oj.en.md)
+- M/604 – C(2024)5423: [2024-07-31_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/espr/sreq-m604/2024-07-31_commission-decision.en.md)
+- M/604 Amd 1 – C(2025)8024: [2025-11-28_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.en.md)
 - GPSR: [2023-05-23_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/2023-05-23_oj.en.md)
 - Delegated Regulation (EU) 2024/3173: [2024-12-13_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/delegated-regulation-2024-3173/2024-12-13_oj.en.md)
 - Implementing Decision (EU) 2026/901: [2026-04-27_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/implementing-decision-2026-901/2026-04-27_oj.en.md)
@@ -52,12 +57,17 @@ Unofficial Markdown conversion made for reading and searching; conversion errors
 - Implementing Regulation (EU) 2024/1740: [2024-06-24_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/implementing-regulation-2024-1740/2024-06-24_oj.en.md)
 - Implementing Regulation (EU) 2024/2639: [2024-10-10_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/implementing-regulation-2024-2639/2024-10-10_oj.en.md)
 - Implementing Regulation (EU) 2024/2958: [2024-12-02_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/implementing-regulation-2024-2958/2024-12-02_oj.en.md)
+- M/538 – C(2015)8011: [2015-11-25_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/gpsr/sreq-m538/2015-11-25_commission-decision.en.md)
+- Annual Union work programme for European standardisation 2024: [2024-02-15_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/commission/uwp-2024/2024-02-15_final.en.md), [2024-10-10_corrigendum-01](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/commission/uwp-2024/2024-10-10_corrigendum-01.en.md)
+- Annual Union work programme for European standardisation 2025: [2025-03-27_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/commission/uwp-2025/2025-03-27_final.en.md)
+- Annual Union work programme for European standardisation 2026: [2026-03-19_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/commission/uwp-2026/2026-03-19_final.en.md)
 - Commission Work Programme 2026: [2025-10-21_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/commission/work-programme-2026/2025-10-21_final.en.md)
 - IMERA: [2024-11-08_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/imera/2024-11-08_oj.en.md)
 - IAA: [2026-03-04_com-proposal](https://git-z0man.github.io/eu-regulation-timeline/texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md), [2026-06-23_council-compromise-st-10817-26](https://git-z0man.github.io/eu-regulation-timeline/texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md), [2026-06-26_council-compromise-st-11237-26](https://git-z0man.github.io/eu-regulation-timeline/texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md), [2026-09-11_ep-draft-report-pe792-067](https://git-z0man.github.io/eu-regulation-timeline/texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md)
 - IMERA omnibus: [2024-11-08_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/internal-market-emergency-omnibus/2024-11-08_oj.en.md), [2025-04-22_corrigendum-01](https://git-z0man.github.io/eu-regulation-timeline/texts/internal-market-emergency-omnibus/2025-04-22_corrigendum-01.en.md)
 - MR: [2023-06-29_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/machinery-regulation/2023-06-29_oj.en.md), [2023-07-04_corrigendum-01](https://git-z0man.github.io/eu-regulation-timeline/texts/machinery-regulation/2023-07-04_corrigendum-01.en.md)
 - Implementing Regulation (EU) 2024/1922: [2024-07-15_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/machinery-regulation/implementing-regulation-2024-1922/2024-07-15_oj.en.md)
+- M/605 – C(2025)129: [2025-01-20_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/machinery-regulation/sreq-m605/2025-01-20_commission-decision.en.md)
 - MSR: [2019-06-25_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/market-surveillance/2019-06-25_oj.en.md)
 - Implementing Decision (EU) 2023/733: [2023-04-04_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/market-surveillance/implementing-decision-2023-733/2023-04-04_oj.en.md)
 - Implementing Decision (EU) 2023/975: [2023-05-17_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/market-surveillance/implementing-decision-2023-975/2023-05-17_oj.en.md)
@@ -89,7 +99,10 @@ Unofficial Markdown conversion made for reading and searching; conversion errors
 - RED DA 2022/30: [2022-01-12_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/red-cybersecurity/2022-01-12_oj.en.md)
 - Delegated Regulation 2023/2444: [2023-10-27_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/red-cybersecurity-postponement/2023-10-27_oj.en.md)
 - Delegated Regulation 2026/339: [2026-04-29_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/red-cybersecurity-repeal/2026-04-29_oj.en.md)
+- M/585 – C(2022)5637: [2022-08-05_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/red-cybersecurity/sreq-m585/2022-08-05_commission-decision.en.md)
+- M/585 Amd 1 – C(2023)5624: [2023-08-23_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.en.md)
 - EU Space Act: [2025-06-25_com-proposal](https://git-z0man.github.io/eu-regulation-timeline/texts/space-act/2025-06-25_com-proposal.en.md), [2025-11-26_council-progress-report-st-15830-25](https://git-z0man.github.io/eu-regulation-timeline/texts/space-act/2025-11-26_council-progress-report-st-15830-25.en.md), [2025-12-05_council-compromise-st-16435-25](https://git-z0man.github.io/eu-regulation-timeline/texts/space-act/2025-12-05_council-compromise-st-16435-25.en.md), [2025-12-05_council-compromise-st-16437-25](https://git-z0man.github.io/eu-regulation-timeline/texts/space-act/2025-12-05_council-compromise-st-16437-25.en.md), [2026-03-03_ep-draft-report-pe784-432](https://git-z0man.github.io/eu-regulation-timeline/texts/space-act/2026-03-03_ep-draft-report-pe784-432.en.md), [2026-05-08_council-progress-report-st-8861-26](https://git-z0man.github.io/eu-regulation-timeline/texts/space-act/2026-05-08_council-progress-report-st-8861-26.en.md)
 - Reg. 2022/2480: [2022-12-19_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/standardisation-amendment-2022/2022-12-19_oj.en.md)
 - Standardisation Regulation: [2012-11-14_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/standardisation-regulation/2012-11-14_oj.en.md)
 - TSR: [2025-12-12_oj](https://git-z0man.github.io/eu-regulation-timeline/texts/toy-safety-regulation/2025-12-12_oj.en.md)
+- M/589 – C(2022)7410: [2022-10-24_commission-decision](https://git-z0man.github.io/eu-regulation-timeline/texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.en.md)

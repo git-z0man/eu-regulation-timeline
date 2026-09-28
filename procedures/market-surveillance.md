@@ -36,4 +36,22 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | --- | --- | --- | --- | --- |
 | 2019-06-25 | oj | [CELEX 32019R1020](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1020) | [en](../texts/market-surveillance/2019-06-25_oj.en.md) [de](../texts/market-surveillance/2019-06-25_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/market-surveillance/2019-06-25_oj.en.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [Committee on market surveillance and compliance of products](https://ec.europa.eu/transparency/comitology-register/screen/committees/C52400/consult)
+
+Comitology committee C52400, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2024-06-27 | [Sixteenth meeting of the Committee on market surveillance and compliance of products](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)965/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097700/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/091448/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/098410/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/098416/1/consult) |
+
+### [Expert Group on the Internal Market for Products (IMP-EG)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2798)
+
+Expert group E02798, GROW.
+
+No meetings listed.
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

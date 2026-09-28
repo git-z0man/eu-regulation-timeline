@@ -31,4 +31,14 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | --- | --- | --- | --- | --- |
 | 2008-08-13 | oj | [CELEX 32008R0765](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) | [en](../texts/accreditation-regulation/2008-08-13_oj.en.md) [de](../texts/accreditation-regulation/2008-08-13_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/accreditation-regulation/2008-08-13_oj.en.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Standardisation
+
+Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
+
+### M/580 – C(2021)9277 (under execution)
+
+COMMISSION IMPLEMENTING DECISION of 17.12.2021 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards accreditation and conformity assessment in support of Regulation (EC) No 765/2008 of the European Parliament and of the Council
+
+adopted 2021-12-17; expires 2030-12-31; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/580_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)9277&lang=en) · [en.md](../texts/accreditation-regulation/sreq-m580/2021-12-17_commission-decision.en.md) · [de.md](../texts/accreditation-regulation/sreq-m580/2021-12-17_commission-decision.de.md)
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.

@@ -71,31 +71,31 @@
 <line x1="1780.0" y1="420.0" x2="1780.0" y2="936.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="415.1">Jan 2027</tspan></text>
 <rect x="20.0" y="420.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="428.0" width="6.0" height="70.0" fill="#4a78c2" stroke="none"/>
-<text font-size="11" fill="#4a78c2" text-anchor="start" font-weight="bold"><tspan x="34.0" y="466.9">European Commission</tspan></text>
+<rect x="20.0" y="428.0" width="6.0" height="70.0" fill="#2a78d6" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="466.9">European Commission</tspan></text>
 <rect x="20.0" y="506.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="514.0" width="6.0" height="70.0" fill="#7b8794" stroke="none"/>
-<text font-size="11" fill="#7b8794" text-anchor="start" font-weight="bold"><tspan x="34.0" y="552.9">Consultative bodies</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="552.9">Consultative bodies</tspan></text>
 <rect x="20.0" y="592.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="600.0" width="6.0" height="70.0" fill="#2e7d5b" stroke="none"/>
-<text font-size="11" fill="#2e7d5b" text-anchor="start" font-weight="bold"><tspan x="34.0" y="638.9">European Parliament</tspan></text>
+<rect x="20.0" y="600.0" width="6.0" height="70.0" fill="#1baf7a" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="638.9">European Parliament</tspan></text>
 <rect x="20.0" y="678.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="686.0" width="6.0" height="70.0" fill="#8a6d00" stroke="none"/>
-<text font-size="11" fill="#8a6d00" text-anchor="start" font-weight="bold"><tspan x="34.0" y="724.9">Trilogues (informal)</tspan></text>
+<rect x="20.0" y="686.0" width="6.0" height="70.0" fill="#eda100" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="724.9">Trilogues (informal)</tspan></text>
 <rect x="20.0" y="764.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="772.0" width="6.0" height="70.0" fill="#b5472d" stroke="none"/>
-<text font-size="11" fill="#b5472d" text-anchor="start" font-weight="bold"><tspan x="34.0" y="810.9">Council</tspan></text>
+<rect x="20.0" y="772.0" width="6.0" height="70.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="810.9">Council</tspan></text>
 <rect x="20.0" y="850.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="858.0" width="6.0" height="70.0" fill="#444444" stroke="none"/>
-<text font-size="11" fill="#444444" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
 <line x1="1362.8" y1="420.0" x2="1362.8" y2="936.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
 <text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="1362.8" y="946.1">as of 26 Sep 2026</tspan></text>
-<rect x="317.5" y="802.0" width="666.7" height="10.0" fill="#b5472d" stroke="none" opacity="0.25"/>
-<text font-size="8" fill="#b5472d" text-anchor="start"><tspan x="321.5" y="822.3">Cyprus Presidency – Horizontal Working Party on Cyber Issues (15 meetings)</tspan></text>
-<rect x="988.5" y="802.0" width="369.9" height="10.0" fill="#b5472d" stroke="none" opacity="0.25"/>
-<text font-size="8" fill="#b5472d" text-anchor="start"><tspan x="992.5" y="822.3">Irish Presidency – compromise texts</tspan></text>
-<rect x="450.9" y="630.0" width="907.6" height="10.0" fill="#2e7d5b" stroke="none" opacity="0.25"/>
-<text font-size="8" fill="#2e7d5b" text-anchor="start"><tspan x="454.9" y="650.3">ITRE (lead) with IMCO and BUDG opinions</tspan></text>
+<rect x="317.5" y="802.0" width="666.7" height="10.0" fill="#4a3aa7" stroke="none" opacity="0.25"/>
+<text font-size="8" fill="#52514e" text-anchor="start"><tspan x="321.5" y="822.3">Cyprus Presidency – Horizontal Working Party on Cyber Issues (15 meetings)</tspan></text>
+<rect x="988.5" y="802.0" width="369.9" height="10.0" fill="#4a3aa7" stroke="none" opacity="0.25"/>
+<text font-size="8" fill="#52514e" text-anchor="start"><tspan x="992.5" y="822.3">Irish Presidency – compromise texts</tspan></text>
+<rect x="450.9" y="630.0" width="907.6" height="10.0" fill="#1baf7a" stroke="none" opacity="0.25"/>
+<text font-size="8" fill="#52514e" text-anchor="start"><tspan x="454.9" y="650.3">ITRE (lead) with IMCO and BUDG opinions</tspan></text>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011" target="_blank"><title>20 Jan 2026: Commission proposal (cybersecurity package, with NIS 2 amendments) – COM(2026) 11</title><polygon points="291.7260273972603,457.0 297.7260273972603,463.0 291.7260273972603,469.0 285.7260273972603,463.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="287.7" y="427.0" width="454.5" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="291.7" y="436.1">20 Jan 2026 · Commission proposal (cybersecurity package, with NIS 2 amendments) (COM(2026) 11)</tspan></text></a>

@@ -66,4 +66,98 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2025-10-17 | corrigendum | [CELEX 32024R2847R(04)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R(04)) | [en](../texts/cra/2025-10-17_corrigendum-04.en.md) [de](../texts/cra/2025-10-17_corrigendum-04.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2025-10-17_corrigendum-04.en.md) |
 | 2026-08-06 | corrigendum | [CELEX 32024R2847R(07)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R(07)) | [de](../texts/cra/2026-08-06_corrigendum-07.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2026-08-06_corrigendum-07.de.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office and documents the Council register releases. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Standardisation
+
+Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
+
+### M/606 – C(2025)618 (under execution)
+
+COMMISSION IMPLEMENTING DECISION of 3.2.2025 on a standardisation request to the European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and the European Telecommunications Standards Institute (ETSI) as regards products with digital elements in support of Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act)
+
+adopted 2025-02-03; expires 2027-11-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/606_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)618&lang=en) · [en.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.en.md) · [de.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.de.md)
+
+| Item | Standard(s) requested | Kind | Deadline | Draft amendment |
+| --- | --- | --- | --- | --- |
+| 1 | European standard(s) on designing, developing and producing products with digital elements in such a way that they ensure an appropriate level of cybersecurity based on the risks | new | 2026-08-30 | 2026-11-30 |
+| 2 | European standard(s) on making products with digital elements available on the market without known exploitable vulnerabilities | new | 2027-10-30 | – |
+| 3 | European standard(s) on making products with digital elements available on the market with a secure by default configuration | new | 2027-10-30 | – |
+| 4 | European standard(s) on ensuring that vulnerabilities in products with digital elements can be addressed through security updates | new | 2027-10-30 | – |
+| 5 | European standard(s) on ensuring protection of products with digital elements from unauthorised access and reporting on possible unauthorised access | new | 2027-10-30 | – |
+| 6 | European standard(s) on protecting the confidentiality of data stored, transmitted or otherwise processed by a product with digital elements | new | 2027-10-30 | – |
+| 7 | European standard(s) on protecting the integrity of data, commands, programs by a product with digital elements, and its configuration against any manipulation or modification not authorised by the user, as well as reporting on corruptions | new | 2027-10-30 | – |
+| 8 | European standard(s) on processing only personal or other data that are adequate, relevant and limited to what is necessary in relation to the intended purpose of the product with digital elements (‘minimisation of data’) | new | 2027-10-30 | – |
+| 9 | European standard(s) on protecting the availability of essential and basic functions of the product with digital elements | new | 2027-10-30 | – |
+| 10 | European standard(s) on minimising the negative impact of a product with digital elements or its connected devices on the availability of services provided by other devices or networks | new | 2027-10-30 | – |
+| 11 | European standard(s) on designing, developing and producing products with digital elements with limitted attack surfaces | new | 2027-10-30 | – |
+| 12 | European standard(s) on designing, developing and producing products with digital elements that reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques | new | 2027-10-30 | – |
+| 13 | European standard(s) on providing security related information by recording and/or monitoring relevant internal activity of products with digital elements with an optout mechanism for the user | new | 2027-10-30 | – |
+| 14 | European standard(s) on securely and easily removing or transferring all data and settings of a product with digital elements. | new | 2027-10-30 | – |
+| 15 | European standard(s) on vulnerability handling for products with digital elements | new | 2026-08-30 | 2026-11-30 |
+| 16 | European standard(s) on essential cybersecurity requirements for identity management systems and privileged access management software and hardware, including authentication and access control readers, including biometric readers | new | 2026-10-30 | 2027-01-31 |
+| 17 | European standard(s) on essential cybersecurity requirements for standalone and embedded browsers | new | 2026-10-30 | 2027-01-31 |
+| 18 | European standard(s) on essential cybersecurity requirements for password managers | new | 2026-10-30 | 2027-01-31 |
+| 19 | European standard(s) on essential cybersecurity requirements for software that searches for, removes, or quarantines malicious software | new | 2026-10-30 | 2027-01-31 |
+| 20 | European standard(s) on essential cybersecurity requirements for products with digital elements with the function of virtual private network (VPN) | new | 2026-10-30 | 2027-01-31 |
+| 21 | European standard(s) on essential cybersecurity requirements for network management systems | new | 2026-10-30 | 2027-01-31 |
+| 22 | European standard(s) on essential cybersecurity requirements for Security information and event management (SIEM) systems | new | 2026-10-30 | 2027-01-31 |
+| 23 | European standard(s) on essential cybersecurity requirements for boot managers | new | 2026-10-30 | 2027-01-31 |
+| 24 | European standard(s) on essential cybersecurity requirements for public key infrastructure and digital certificate issuance software | new | 2026-10-30 | 2027-01-31 |
+| 25 | European standard(s) on essential cybersecurity requirements for physical and virtual network interfaces | new | 2026-10-30 | 2027-01-31 |
+| 26 | European standard(s) on essential cybersecurity requirements for operating systems | new | 2026-10-30 | 2027-01-31 |
+| 27 | European standard(s) on essential cybersecurity requirements for routers, modems intended for the connection to the internet, and switches | new | 2026-10-30 | 2027-01-31 |
+| 28 | European standard(s) on essential cybersecurity requirements for microprocessors with security-related functionalities | new | 2026-10-30 | 2027-01-31 |
+| 29 | European standard(s) on essential cybersecurity requirements for microcontrollers with security-related functionalities | new | 2026-10-30 | 2027-01-31 |
+| 30 | European standard(s) on essential cybersecurity requirements for application specific integrated circuits (AS IC) and field-programmable gate arrays (FPGA) with security-related functionalities | new | 2026-10-30 | 2027-01-31 |
+| 31 | European standard(s) on essential cybersecurity requirements for smart home general purpose virtual assistants | new | 2026-10-30 | 2027-01-31 |
+| 32 | European standard(s) on essential cybersecurity requirements for smart home products with security functionalities, including smart door locks, security cameras, baby monitoring systems and alarm systems | new | 2026-10-30 | 2027-01-31 |
+| 33 | European standard(s) on essential cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC that have social interactive features (e.g. speaking or filming) or that have location tracking features | new | 2026-10-30 | 2027-01-31 |
+| 34 | European standard(s) on essential cybersecurity requirements for personal wearable products to be worn or placed on a human body that have a health monitoring (such as tracking) purpose and to which Regulation (EU) 2017/745 or Regulation (EU) 2017/746 do not apply or personal wearable products that are intended for the use by and for children | new | 2026-10-30 | 2027-01-31 |
+| 35 | European standard(s) on essential cybersecurity requirements for hypervisors and container runtime systems that support virtualised execution of operating systems and similar environments | new | 2026-10-30 | 2027-01-31 |
+| 36 | European standard(s) on essential cybersecurity requirements for firewalls, intrusion detection and/or prevention systems, including specifically those intended for industrial use | new | 2026-10-30 | 2027-01-31 |
+| 37 | European standard(s) on essential cybersecurity requirements for tamperresistant microprocessors | new | 2026-10-30 | 2027-01-31 |
+| 38 | European standard(s) on essential cybersecurity requirements for tamperresistant microcontrollers | new | 2026-10-30 | 2027-01-31 |
+| 39 | European standard(s) on essential cybersecurity requirements for Hardware Devices with Security Boxes | new | 2026-10-30 | 2027-01-31 |
+| 40 | European standard(s) on essential cybersecurity requirements for smart meter gateways within smart metering systems as defined in Article 2 (23) of Directive (EU) 2019/944 and other devices for advanced security purposes, including for secure cryptoprocessing | new | 2026-10-30 | 2027-01-31 |
+| 41 | European standard(s) on essential cybersecurity requirements for smartcards or similar devices, including secure elements | new | 2026-10-30 | 2027-01-31 |
+
+Source: Annex I to Commission Implementing Decision C(2025)618 (M/606), “List of new European Standards to be drafted”. [Draft Commission implementing decision amending Implementing Decision C(2025)618 (replaces Annex I)](https://ec.europa.eu/transparency/comitology-register/screen/documents/118113/1/consult), Ref. Ares(2026)9002280 of 2026-09-23, Committee on Standards (C41700), written procedure launched 2026-09-16: Moves the 2026 deadlines (items 1 and 15: 30 Nov 2026; items 16–41: 31 Jan 2027) after the ESOs' joint report of 3 June 2026; items 2–14 unchanged. Ceases to apply if CEN, Cenelec or ETSI do not accept it within a month (Art. 2 of the draft). Not adopted.
+
+### Planned (annual Union work programmes)
+
+| Year | Action | Planned |
+| --- | --- | --- |
+| 2024 | [6. Cybersecurity requirements for products with digital elements](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024XC01364) | Develop European standards and European standardisation deliverables corresponding to essential cybersecurity specifications as set out by the Cyber Resilience Act and notably concerning: (i) security specifications relating to the properties of products with digital elements and vulnerability handling specifications (ii) methodologies concerning assurance levels relating to products with digital elements as referred to above; (iii) evaluation methodologies for evaluating cybersecurity risks associated with products with digital elements. |
+| 2025 | [6. Cybersecurity requirements for products with digital elements](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) | Develop European standards and European standardisation deliverables corresponding to essential cybersecurity specifications as set out by the Cyber Resilience Act and notably regarding: (i) security specifications relating to the properties of products with digital elements and vulnerability handling specifications; (ii) methodologies for determining assurance levels relating to products with digital elements, as referred to above; (iii) evaluation methodologies for assessing cybersecurity risks associated with products with digital elements. |
+| 2025 | [19. Standards driving quantum technology development and the implementation of Post-Quantum Cryptography protocols](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) | Development of European standards and standardisation deliverables to support the advancement of quantum technologies and Post-Quantum Cryptography (PQC) in alignment with EU policies and strategic objectives. |
+| 2026 | [5. Cybersecurity requirements for products with digital elements](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) | Standardisation request to develop harmonised European standards in support of Regulation (EU) 2024/8247 (Cyber Resilience Act), complementing Commission Implementing Decision C(2025) 618, standardisation request M/606. While M/606 mandates horizontal cybersecurity properties and vertical standards for Annex III/IV critical products, this request addresses gaps for products with digital elements outside those annexes, notably in rail, machinery, lifts, agricultural machinery, artificial intelligence systems and solar inverters. Deliverables will implement the Act’s essential requirements in these domains, including test methods and conformity evidence. Standards will align with Union legislation, delimit scope to avoid overlap, and facilitate publication of references in the Official Journal of the EU. |
+
+Other actions of the work programmes that ask for coordination with this act: [2026, Action 2: Standards driving quantum technology development and the implementation of Post-Quantum Cryptography protocols](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695); [2026, Action 6: EU Digital Identity Wallet](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695); [2026, Action 27: Design of unmanned aircraft for low-risk operations](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695).
+
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+
+### [Product Security Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130100/consult)
+
+Comitology committee C130100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2025-11-07 | [3rd Product Security Committee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1935/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/110602/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/110695/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/110695/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/111015/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/111012/1/consult) |
+| 2025-10-10 | [2nd Product Security Committee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1750/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/110055/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/110068/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/110696/1/consult) |
+| 2025-09-10 | [1st Product Security Committee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1522/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/109453/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/109454/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/110069/1/consult) |
+
+### [Expert Group on Cybersecurity of Products with Digital Elements (CRA Expert Group)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967)
+
+Expert group E03967, CNECT.
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2026-10-08 | 6th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download) |
+| 2026-06-10 | 5th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133174/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download) |
+| 2026-03-04 | 4th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/126784/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/129854/download) |
+| 2025-10-22 | 3rd meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/121846/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124083/download) |
+| 2025-06-04 | 2nd meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117450/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/119798/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117406/download) |
+| 2025-02-12 | 1st meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/112919/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115550/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/114789/download) |
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm and the Register of Commission documents. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
