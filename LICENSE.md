@@ -2,8 +2,9 @@
 
 ## Our content: CC BY 4.0
 
-The timeline, the procedure drawings, the criticality ratings, notes and
-tables on this site are our own compilation. They are licensed under the
+The timeline, the procedure drawings, the criticality ratings, the charts on
+the act pages (e.g. the CRA pathways to conformity with harmonised
+standards), notes and tables on this site are our own compilation. They are licensed under the
 [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You may share and adapt them for any purpose, also commercially, if you give
 appropriate credit ("EU regulation timeline,

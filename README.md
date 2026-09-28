@@ -1,4 +1,4 @@
-<!-- as_of: 2026-09-01 -->
+<!-- as_of: 2026-09-28 -->
 # EU regulation timeline
 
 When do EU rules on cybersecurity, AI and products start to apply, and what do they
@@ -7,13 +7,16 @@ criticality rating per company profile.
 
 **Interactive page:** <https://git-z0man.github.io/eu-regulation-timeline/>
 
-As of **01 September 2026**. Dates are taken from the legal texts (links open EUR-Lex).
+As of **28 September 2026**. Dates are taken from the legal texts (links open EUR-Lex).
 Criticality is computed from the dates and is an orientation for planning, not legal
 advice. This repository is generated automatically; please do not open pull requests
 against the files.
 
 **Legislative procedures** of the acts (Art. 294 TFEU route, events in Parliament and
 Council, public documents): [`procedures/`](procedures/index.html).
+
+**Act pages** (next dates, texts, implementing acts, standardisation requests with
+their deadlines and the CEN-CENELEC and ETSI projects, committees and expert groups): [CRA](acts/cra.html), [MR](acts/machinery-regulation.html), [AI Act](acts/ai-act.html).
 
 **Texts as Markdown** (legal acts, proposals, public Council and EP documents, for reading
 and for use in chats and project folders): [`texts/`](texts/README.md). All texts of an act
@@ -36,7 +39,7 @@ Editable in draw.io: [`machinery-builder.drawio`](machinery-builder.drawio) · I
 
 | | Act | Criticality | Why | Next milestone | What it means |
 | --- | --- | --- | --- | --- | --- |
-| 🔴 | [CRA – Reg. 2024/2847](http://data.europa.eu/eli/reg/2024/2847/oj) | act | obligations start 11 Sep 2026 | 11 Sep 2026 Reporting Art. 14 | Connected machines and their software are products with digital elements; security by design, SBOM, vulnerability handling, 24 h / 72 h reporting. |
+| 🔴 | [CRA – Reg. 2024/2847](http://data.europa.eu/eli/reg/2024/2847/oj) | act | obligations start 11 Dec 2027 | 11 Dec 2027 Full application | Connected machines and their software are products with digital elements; security by design, SBOM, vulnerability handling, 24 h / 72 h reporting. |
 | 🔴 | [Machinery Reg. 2023/1230](http://data.europa.eu/eli/reg/2023/1230/oj) | act | obligations start 20 Jan 2027 | 20 Jan 2027 Applies | Replaces the Machinery Directive; safety of software and AI, protection against corruption, digital instructions. |
 | 🔴 | [PLD – Dir. 2024/2853](http://data.europa.eu/eli/dir/2024/2853/oj) | act | obligations start 09 Dec 2026 | 09 Dec 2026 Transposition | Software is a product; liability for defects including missing security updates, for products placed from 9 Dec 2026. |
 | 🟠 | [AI Act – Reg. 2024/1689](http://data.europa.eu/eli/reg/2024/1689/oj) | prepare | obligations start 02 Aug 2028 | 02 Dec 2027 High-risk Annex III | AI safety components in machines are high-risk (Annex I); rules apply from 2 Aug 2028 after the Omnibus. |
@@ -47,6 +50,6 @@ Editable in draw.io: [`machinery-builder.drawio`](machinery-builder.drawio) · I
 | 🔵 | [Digitalisation & common specs](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504) | monitor | proposal or legislative procedure | – | Agreed 9 Jun 2026, applies 30 months after entry into force. Digital declaration of conformity and instructions; common specifications; amends the Machinery Regulation. |
 | 🔵 | [EPA (NLF revision)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242) | monitor | proposal or legislative procedure | 06 Oct 2026 Proposal expected | New horizontal product framework replacing the NLF acts; CE marking, conformity assessment, digital product information. |
 | 🔵 | [Industrial Accelerator Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) | monitor | proposal or legislative procedure | – | "Made in Europe" criteria for public support in strategic sectors; amends the NZIA. |
-| 🔵 | [Public Procurement Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | monitor | proposal or legislative procedure | 09 Sep 2026 Proposal | Public buyers of machinery; EU preference and cyber criteria in tenders; amends the CRA. |
+| 🔵 | [Public Procurement Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | monitor | proposal or legislative procedure | – | Public buyers of machinery; EU preference and cyber criteria in tenders; amends the CRA. |
 | 🔵 | Standardisation Regulation (revision) | monitor | proposal or legislative procedure | 06 Oct 2026 Proposal expected (with EPA) | Update of the rules on standardisation (Reg. 1025/2012) announced with the European Product Act (Commission Work Programme 2026); basis of harmonised standards and presumption of conformity. |
 | ⚪ | [IMERA – Reg. 2024/2747](http://data.europa.eu/eli/reg/2024/2747/oj) | low | low relevance for this profile | – | Only in an internal market emergency; priority orders, fast-track conformity assessment. |
