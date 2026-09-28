@@ -48,6 +48,12 @@ h1 { font-size: clamp(20px, 2.4vw, 28px); line-height: 1.2; margin: 0 0 4px; let
 .btn { cursor: pointer; }
 .btn:hover { border-color: var(--muted); }
 input[type="search"] { width: min(260px, 70vw); }
+a.ext::after { content: " \2197"; font-size: .85em; }
+.open-page { display: inline-block; margin: 6px 0 10px; padding: 7px 12px; border-radius: 8px; background: var(--focus);
+  color: #fff; text-decoration: none; font-weight: 600; }
+.open-page:hover { filter: brightness(1.08); }
+.back-top { display: none; font-size: 14px; margin-bottom: 6px; }
+@media (max-width: 900px) { .back-top { display: inline-block; } }
 kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; color: var(--muted); }
 
 /* Alert strip: always part of the layout, never covers content */
@@ -339,32 +345,44 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "nis2",
        "title": "NIS 2 Directive",
-       "url": "http://data.europa.eu/eli/dir/2022/2555/oj"
+       "url": "http://data.europa.eu/eli/dir/2022/2555/oj",
+       "row": "nis2",
+       "page": null
       },
       {
        "id": "machinery-regulation",
        "title": "Machinery Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "row": "machinery",
+       "page": null
       },
       {
        "id": "epa",
        "title": "European Product Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "row": "epa",
+       "page": null
       },
       {
        "id": "pld",
        "title": "Product Liability Directive",
-       "url": "http://data.europa.eu/eli/dir/2024/2853/oj"
+       "url": "http://data.europa.eu/eli/dir/2024/2853/oj",
+       "row": "pld",
+       "page": null
       },
       {
        "id": "csa",
        "title": "Cybersecurity Act",
-       "url": "http://data.europa.eu/eli/reg/2019/881/oj"
+       "url": "http://data.europa.eu/eli/reg/2019/881/oj",
+       "row": "csa",
+       "page": null
       },
       {
        "id": "public-procurement-act",
        "title": "Public Procurement Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
+       "row": "ppa",
+       "page": null
       }
      ],
      "procedures": [
@@ -374,7 +392,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "completed",
        "url": "procedures/cra.html"
       }
-     ]
+     ],
+     "page": "acts/cra.html"
     },
     {
      "id": "red-cyber",
@@ -429,20 +448,27 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "red-cybersecurity-postponement",
        "title": "Postponement of the RED cybersecurity delegated act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2444"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2444",
+       "row": null,
+       "page": null
       },
       {
        "id": "red-cybersecurity-repeal",
        "title": "Repeal of the RED cybersecurity delegated act",
-       "url": "http://data.europa.eu/eli/reg_del/2026/339/oj"
+       "url": "http://data.europa.eu/eli/reg_del/2026/339/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       }
      ],
-     "procedures": []
+     "procedures": [],
+     "page": null
     },
     {
      "id": "nis2",
@@ -509,27 +535,37 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       },
       {
        "id": "csa",
        "title": "Cybersecurity Act",
-       "url": "http://data.europa.eu/eli/reg/2019/881/oj"
+       "url": "http://data.europa.eu/eli/reg/2019/881/oj",
+       "row": "csa",
+       "page": null
       },
       {
        "id": "csa2",
        "title": "Cybersecurity Act 2",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011",
+       "row": null,
+       "page": null
       },
       {
        "id": "nis2-amendment",
        "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013",
+       "row": null,
+       "page": null
       },
       {
        "id": "digital-omnibus",
        "title": "Digital Omnibus",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
+       "row": null,
+       "page": null
       }
      ],
      "procedures": [
@@ -551,7 +587,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "ongoing",
        "url": "procedures/digital-omnibus.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "csa",
@@ -599,17 +636,23 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "csa2",
        "title": "Cybersecurity Act 2",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011",
+       "row": null,
+       "page": null
       },
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       },
       {
        "id": "nis2",
        "title": "NIS 2 Directive",
-       "url": "http://data.europa.eu/eli/dir/2022/2555/oj"
+       "url": "http://data.europa.eu/eli/dir/2022/2555/oj",
+       "row": "nis2",
+       "page": null
       }
      ],
      "procedures": [
@@ -625,7 +668,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "ongoing",
        "url": "procedures/csa2.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "ai-act",
@@ -701,22 +745,30 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "digital-omnibus-ai",
        "title": "Digital Omnibus on AI",
-       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "machinery-regulation",
        "title": "Machinery Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "row": "machinery",
+       "page": null
       },
       {
        "id": "pld",
        "title": "Product Liability Directive",
-       "url": "http://data.europa.eu/eli/dir/2024/2853/oj"
+       "url": "http://data.europa.eu/eli/dir/2024/2853/oj",
+       "row": "pld",
+       "page": null
       },
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       }
      ],
      "procedures": [
@@ -732,7 +784,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "completed",
        "url": "procedures/digital-omnibus-ai.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "machinery",
@@ -787,27 +840,37 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "digital-omnibus-ai",
        "title": "Digital Omnibus on AI",
-       "url": "http://data.europa.eu/eli/reg/2026/1744/oj"
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       },
       {
        "id": "epa",
        "title": "European Product Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "row": "epa",
+       "page": null
       },
       {
        "id": "gpsr",
        "title": "General Product Safety Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj",
+       "row": "gpsr",
+       "page": null
       },
       {
        "id": "ai-act",
        "title": "Artificial Intelligence Act",
-       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj",
+       "row": "ai-act",
+       "page": null
       }
      ],
      "procedures": [
@@ -823,7 +886,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "completed",
        "url": "procedures/digital-omnibus-ai.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "pld",
@@ -871,17 +935,23 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       },
       {
        "id": "epa",
        "title": "European Product Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "row": "epa",
+       "page": null
       },
       {
        "id": "ai-act",
        "title": "Artificial Intelligence Act",
-       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj",
+       "row": "ai-act",
+       "page": null
       }
      ],
      "procedures": [
@@ -891,7 +961,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "completed",
        "url": "procedures/pld.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "gpsr",
@@ -939,12 +1010,16 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "epa",
        "title": "European Product Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "row": "epa",
+       "page": null
       },
       {
        "id": "market-surveillance",
        "title": "Market Surveillance Regulation",
-       "url": "http://data.europa.eu/eli/reg/2019/1020/oj"
+       "url": "http://data.europa.eu/eli/reg/2019/1020/oj",
+       "row": null,
+       "page": null
       }
      ],
      "procedures": [
@@ -954,7 +1029,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "completed",
        "url": "procedures/gpsr.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "imera",
@@ -1002,22 +1078,30 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "internal-market-emergency-omnibus",
        "title": "Internal market emergency omnibus",
-       "url": "http://data.europa.eu/eli/reg/2024/2748/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2748/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "gpsr",
        "title": "General Product Safety Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj",
+       "row": "gpsr",
+       "page": null
       },
       {
        "id": "machinery-regulation",
        "title": "Machinery Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "row": "machinery",
+       "page": null
       },
       {
        "id": "market-surveillance",
        "title": "Market Surveillance Regulation",
-       "url": "http://data.europa.eu/eli/reg/2019/1020/oj"
+       "url": "http://data.europa.eu/eli/reg/2019/1020/oj",
+       "row": null,
+       "page": null
       }
      ],
      "procedures": [
@@ -1027,7 +1111,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "completed",
        "url": "procedures/imera.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "epa",
@@ -1077,35 +1162,48 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "nlf-decision",
        "title": "New Legislative Framework Decision",
-       "url": "http://data.europa.eu/eli/dec/2008/768(1)/oj"
+       "url": "http://data.europa.eu/eli/dec/2008/768(1)/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "accreditation-regulation",
        "title": "Accreditation and CE marking Regulation",
-       "url": "http://data.europa.eu/eli/reg/2008/765/oj"
+       "url": "http://data.europa.eu/eli/reg/2008/765/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "market-surveillance",
        "title": "Market Surveillance Regulation",
-       "url": "http://data.europa.eu/eli/reg/2019/1020/oj"
+       "url": "http://data.europa.eu/eli/reg/2019/1020/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "gpsr",
        "title": "General Product Safety Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/988/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj",
+       "row": "gpsr",
+       "page": null
       },
       {
        "id": "machinery-regulation",
        "title": "Machinery Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "row": "machinery",
+       "page": null
       },
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       }
      ],
-     "procedures": []
+     "procedures": [],
+     "page": null
     },
     {
      "id": "standardisation",
@@ -1137,40 +1235,55 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "standardisation-regulation",
        "title": "Regulation on European standardisation",
-       "url": "http://data.europa.eu/eli/reg/2012/1025/oj"
+       "url": "http://data.europa.eu/eli/reg/2012/1025/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "standardisation-amendment-2022",
        "title": "Amendment of the Standardisation Regulation (decisions of the ESOs)",
-       "url": "http://data.europa.eu/eli/reg/2022/2480/oj"
+       "url": "http://data.europa.eu/eli/reg/2022/2480/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "epa",
        "title": "European Product Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "row": "epa",
+       "page": null
       },
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       },
       {
        "id": "machinery-regulation",
        "title": "Machinery Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "row": "machinery",
+       "page": null
       },
       {
        "id": "ai-act",
        "title": "Artificial Intelligence Act",
-       "url": "http://data.europa.eu/eli/reg/2024/1689/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/1689/oj",
+       "row": "ai-act",
+       "page": null
       },
       {
        "id": "product-digitalisation-regulation",
        "title": "Digitalisation and common specifications in product legislation (Regulation)",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504",
+       "row": "digitalisation",
+       "page": null
       }
      ],
-     "procedures": []
+     "procedures": [],
+     "page": null
     },
     {
      "id": "digitalisation",
@@ -1234,27 +1347,37 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "accreditation-regulation",
        "title": "Accreditation and CE marking Regulation",
-       "url": "http://data.europa.eu/eli/reg/2008/765/oj"
+       "url": "http://data.europa.eu/eli/reg/2008/765/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "machinery-regulation",
        "title": "Machinery Regulation",
-       "url": "http://data.europa.eu/eli/reg/2023/1230/oj"
+       "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "row": "machinery",
+       "page": null
       },
       {
        "id": "product-digitalisation-directive",
        "title": "Digitalisation and common specifications in product legislation (Directive)",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0503"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0503",
+       "row": null,
+       "page": null
       },
       {
        "id": "epa",
        "title": "European Product Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "row": "epa",
+       "page": null
       },
       {
        "id": "nlf-decision",
        "title": "New Legislative Framework Decision",
-       "url": "http://data.europa.eu/eli/dec/2008/768(1)/oj"
+       "url": "http://data.europa.eu/eli/dec/2008/768(1)/oj",
+       "row": null,
+       "page": null
       }
      ],
      "procedures": [
@@ -1270,7 +1393,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "ongoing",
        "url": "procedures/product-digitalisation-directive.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "ppa",
@@ -1308,17 +1432,23 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "cra",
        "title": "Cyber Resilience Act",
-       "url": "http://data.europa.eu/eli/reg/2024/2847/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "row": "cra",
+       "page": "acts/cra.html"
       },
       {
        "id": "nzia",
        "title": "Net Zero Industry Act",
-       "url": "http://data.europa.eu/eli/reg/2024/1735/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/1735/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "industrial-accelerator-act",
        "title": "Industrial Accelerator Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100",
+       "row": "iaa",
+       "page": null
       }
      ],
      "procedures": [
@@ -1328,7 +1458,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "ongoing",
        "url": "procedures/public-procurement-act.html"
       }
-     ]
+     ],
+     "page": null
     },
     {
      "id": "iaa",
@@ -1371,12 +1502,16 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       {
        "id": "nzia",
        "title": "Net Zero Industry Act",
-       "url": "http://data.europa.eu/eli/reg/2024/1735/oj"
+       "url": "http://data.europa.eu/eli/reg/2024/1735/oj",
+       "row": null,
+       "page": null
       },
       {
        "id": "public-procurement-act",
        "title": "Public Procurement Act",
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590"
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
+       "row": "ppa",
+       "page": null
       }
      ],
      "procedures": [
@@ -1386,7 +1521,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "state": "ongoing",
        "url": "procedures/industrial-accelerator-act.html"
       }
-     ]
+     ],
+     "page": null
     }
    ]
   }
@@ -1601,7 +1737,9 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     history.replaceState(null, "", "#profile=" + profileKey + (id ? "&act=" + id : ""));
     markSelected();
     renderDetail();
-    if (scroll && id) document.querySelector(`.row[data-id="${id}"]`)?.scrollIntoView({ block: "nearest", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+    const behavior = matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+    if (id && matchMedia("(max-width: 900px)").matches && scroll !== "row") $("#detail").scrollIntoView({ block: "start", behavior });
+    else if (scroll && id) document.querySelector(`.row[data-id="${id}"]`)?.scrollIntoView({ block: "nearest", behavior });
   }
   function markSelected() {
     document.querySelectorAll(".row").forEach(r => r.setAttribute("aria-current", String(r.dataset.id === selected)));
@@ -1625,12 +1763,17 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     }
     const st = stateOn(r, scrubDate);
     box.replaceChildren(
+      el("a", { href: "#", class: "back-top", onclick: e => { e.preventDefault();
+        document.querySelector(`.row[data-id="${r.id}"]`)?.scrollIntoView({ block: "center" }); } }, "↑ Back to the timeline"),
       el("button", { type: "button", class: "btn close", "aria-label": "Close details", onclick: () => select(null) }, "✕"),
-      el("h3", {}, r.act_url ? el("a", { href: r.act_url, target: "_blank", rel: "noopener" }, r.label) : r.label),
+      el("h3", {}, r.page ? el("a", { href: r.page }, r.label) : r.label),
       el("p", { class: "meta" }, r.act_title),
-      (r.act_md || []).length ? el("p", { class: "meta" }, "Text as Markdown: ",
-        ...r.act_md.flatMap((x, i) => [i ? " · " : "", el("a", { href: x.url }, x.lang)]),
-        " · ", el("a", { href: r.act_md[0].view, target: "_blank", rel: "noopener" }, "read on GitHub")) : null,
+      r.page ? el("a", { href: r.page, class: "open-page" }, "Open the " + r.label.split(" – ")[0] + " page →") : null,
+      el("p", { class: "meta" },
+        r.act_url ? el("a", { href: r.act_url, target: "_blank", rel: "noopener", class: "ext" }, "EUR-Lex") : null,
+        ...((r.act_md || []).length ? [r.act_url ? " · Text: " : "Text: ",
+          ...r.act_md.flatMap((x, i) => [i ? " · " : "", el("a", { href: x.view, target: "_blank", rel: "noopener", class: "ext" }, x.lang.toUpperCase())]),
+          " (", ...r.act_md.flatMap((x, i) => [i ? " " : "", el("a", { href: x.url, download: "" }, x.lang + ".md")]), ")"] : [])),
       el("span", { class: "badge", style: cvars(r.criticality) }, el("span", { class: "dot", "aria-hidden": "true" }), CRIT[r.criticality].label),
       el("p", { style: "margin-top:8px" }, el("strong", {}, "Why: "), r.reason + "."),
       el("h4", {}, "What it means for us"),
@@ -1640,16 +1783,19 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       el("h4", {}, "Milestones"),
       el("ul", { class: "ms-list" }, r.milestones.map(m => el("li", { class: day(m.date) < TODAY ? "past" : "" },
         el("time", { datetime: m.date }, fmt(m.date)),
-        el("span", {}, m.url ? el("a", { href: m.url, target: "_blank", rel: "noopener" }, m.label) : m.label,
-          m.md ? el("a", { href: m.md, target: "_blank", rel: "noopener", class: "md-link", title: "The provision in the Markdown text" }, " §") : null,
+        el("span", {}, m.url ? el("a", { href: m.url, target: "_blank", rel: "noopener", class: "ext" }, m.label) : m.label,
+          m.md ? el("a", { href: m.md, target: "_blank", rel: "noopener", class: "md-link", title: "The provision in the text", "aria-label": "The provision in the text" }, " §") : null,
           m.obligation ? el("span", { class: "ob-tag" }, "obligation") : null),
         el("span", { class: "rel" }, rel(m.date))))),
       (r.procedures || []).length ? el("h4", {}, "Legislative procedure") : null,
       (r.procedures || []).length ? el("ul", { class: "ms-list" }, r.procedures.map(p => el("li", { style: "grid-template-columns: 1fr" },
-        el("span", {}, el("a", { href: p.url, target: "_blank", rel: "noopener" }, p.title + " →"),
+        el("span", {}, el("a", { href: p.url }, p.title + " →"),
           " ", el("span", { class: "rel" }, [p.procedure, p.state].filter(Boolean).join(", ")))))) : null,
       r.related.length ? el("h4", {}, "Related acts") : null,
-      r.related.length ? el("p", {}, r.related.flatMap((a, i) => [i ? ", " : "", a.url ? el("a", { href: a.url, target: "_blank", rel: "noopener" }, a.title) : a.title])) : null,
+      r.related.length ? el("p", {}, r.related.flatMap((a, i) => [i ? ", " : "",
+        a.row ? el("a", { href: "#act=" + a.row, onclick: e => { e.preventDefault(); select(a.row, "row"); } }, a.title)
+          : a.page ? el("a", { href: a.page }, a.title)
+          : a.url ? el("a", { href: a.url, target: "_blank", rel: "noopener", class: "ext" }, a.title) : a.title])) : null,
     );
   }
 
