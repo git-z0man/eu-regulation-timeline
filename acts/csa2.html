@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSA2 – EU regulation timeline</title>
+<meta name="description" content="Proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881: dates, texts, implementing acts, standardisation and committees.">
+<style>
+:root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e;
+  --chip: #eef1f6; --act: #d94841; --prepare: #e8a33d; --operate: #4f9a6a; --monitor: #4a78c2; --low: #9aa0a6; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --accent: #7aa7ff; --chip: #232a31; } }
+:root[data-theme="dark"] { --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136;
+  --accent: #7aa7ff; --chip: #232a31; }
+* { box-sizing: border-box; }
+html { scroll-padding-top: 64px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 16px 16px 48px; }
+a { color: var(--accent); }
+a.ext::after { content: " ↗"; font-size: 0.85em; }
+.crumbs { font-size: 14px; color: var(--muted); margin: 4px 0 10px; }
+.crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
+h1 { font-size: 28px; line-height: 1.2; margin: 0 0 4px; } h2 { font-size: 20px; margin: 0 0 10px; }
+h3 { font-size: 16px; margin: 18px 0 6px; }
+.muted { color: var(--muted); } .small { font-size: 13px; }
+.head { display: grid; grid-template-columns: 1fr auto; gap: 12px 24px; align-items: start; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 4px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.official { font-size: 14px; }
+nav.sections { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line);
+  margin: 14px -16px 0; padding: 8px 16px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); background: var(--chip); border-radius: 999px;
+  padding: 5px 12px; font-size: 14px; }
+nav.sections a[aria-current="true"] { background: var(--accent); color: #fff; }
+section { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; margin-top: 16px; }
+.sec-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.sec-head a.more { font-size: 14px; white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; vertical-align: top; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
+.table { overflow-x: auto; }
+.next { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+.next li { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.next .date { font-weight: 600; } .next .rel { color: var(--muted); font-size: 13px; margin-left: 6px; }
+.next .kind { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+.next a { text-decoration: none; color: inherit; display: block; }
+.next a:hover .what { text-decoration: underline; }
+.tag { font-size: 12px; color: #a4302a; font-weight: 600; }
+.note { background: var(--chip); border-radius: 8px; padding: 8px 12px; font-size: 14px; margin: 8px 0; }
+details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 14px; }
+.stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
+.past { color: var(--muted); }
+.fig { margin: 18px 0 8px; } .fig img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  border-radius: 8px; padding: 6px; margin: 8px 0; }
+.legend { list-style: none; padding: 0; margin: 6px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; }
+.legend .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--line);
+  vertical-align: -2px; margin-right: 6px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+.top { position: fixed; right: 16px; bottom: 16px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
+  padding: 6px 12px; font-size: 13px; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+@media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
+  th, td { padding: 6px 8px; } }
+</style></head><body><div class="wrap">
+<p class="crumbs"><a href="../index.html#act=csa">← Regulation timeline</a> › Cybersecurity › <strong>CSA2</strong></p>
+<div class="head"><div>
+<h1>Cybersecurity Act 2</h1>
+<p class="muted">Proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881</p>
+<div class="facts">
+<a class="chip" href="../index.html#profile=machinery-builder&amp;act=csa" style="text-decoration:none;color:inherit"><span class="dot" style="background:var(--monitor)"></span>Machinery builder: <strong>Monitor</strong></a>
+</div></div>
+<div class="official"><a class="ext" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011" target="_blank" rel="noopener">EUR-Lex</a></div></div>
+<nav class="sections" aria-label="Sections"><a href="#next">Next up</a><a href="#dates">Dates</a><a href="#texts">Texts</a><a href="#implementing">Implementing acts</a><a href="#standardisation">Standardisation</a><a href="#committees">Committees</a><a href="#history">History</a><a href="#related">Related</a></nav>
+<section id="next"><div class="sec-head"><h2>Next up</h2><span class="small muted">the next dates across law, standards and committees</span></div><ul class="next" id="next-list">
+<li data-date="2026-01-20"><a href="#dates"><div class="kind">Law</div><div><time data-rel datetime="2026-01-20" class="date">20 Jan 2026</time><span class="rel"></span></div><div class="what">CSA2 proposal</div></a></li>
+</ul><p id="next-none" class="muted" hidden>No future dates known.</p></section>
+<section id="dates"><div class="sec-head"><h2>Dates and obligations</h2><a class="more" href="../index.html#act=csa">Show on the timeline</a></div>
+<div class="note"><strong>What it means for a machinery builder:</strong> EUCC certification; CSA2 proposes ICT supply-chain rules and may shape CRA conformity.</div>
+<div class="table"><table><thead><tr><th>Date</th><th></th><th>Milestone</th><th>Provision</th></tr></thead><tbody>
+<tr data-date="2026-01-20"><td class="nowrap"><time data-rel datetime="2026-01-20">20 Jan 2026</time></td><td class="rel small muted nowrap"></td><td>CSA2 proposal</td><td>–</td></tr>
+</tbody></table></div>
+</section>
+<section id="texts"><div class="sec-head"><h2>Texts and corrigenda</h2><a class="more" href="../texts/index.html">All texts</a></div>
+<div class="note"><strong>Drafts are not law.</strong> A proposal, a Parliament report or a Council text is one institution's (or one rapporteur's, one Presidency's) position in the legislative procedure and can still change; only the text published in the Official Journal is binding.</div>
+<div class="table"><table><thead><tr><th>Date</th><th>Version</th><th>Official</th><th>Read (rendered)</th></tr></thead><tbody>
+<tr><td class="nowrap">2026-01-20</td><td>Commission proposal</td><td><a class="ext" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011" target="_blank" rel="noopener">CELEX 52026PC0011</a></td><td><a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-01-20_com-proposal.en.md" target="_blank" rel="noopener">EN</a> · <a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-01-20_com-proposal.de.md" target="_blank" rel="noopener">DE</a> <span class="small muted">(<a href="../texts/csa2/2026-01-20_com-proposal.en.md" download>en.md</a> <a href="../texts/csa2/2026-01-20_com-proposal.de.md" download>de.md</a>)</span></td></tr>
+<tr><td class="nowrap">2026-05-22</td><td>Council: progress report</td><td><a class="ext" href="https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf" target="_blank" rel="noopener">ST 9399/26</a></td><td><a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md" target="_blank" rel="noopener">EN</a> · <a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md" target="_blank" rel="noopener">DE</a> <span class="small muted">(<a href="../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md" download>en.md</a> <a href="../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md" download>de.md</a>)</span></td></tr>
+<tr><td class="nowrap">2026-05-27</td><td>Council: Presidency compromise text</td><td><a class="ext" href="https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf" target="_blank" rel="noopener">WK 7571/26</a></td><td><a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md" target="_blank" rel="noopener">EN</a> <span class="small muted">(<a href="../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md" download>en.md</a>)</span></td></tr>
+<tr><td class="nowrap">2026-09-18</td><td>EP draft report (rapporteur)</td><td><a class="ext" href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx" target="_blank" rel="noopener">PE792.222</a></td><td><a class="ext" href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md" target="_blank" rel="noopener">EN</a> <span class="small muted">(<a href="../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md" download>en.md</a>)</span></td></tr>
+</tbody></table></div></section>
+<section id="implementing"><div class="sec-head"><h2>Implementing and delegated acts</h2></div>
+<p class="muted">None adopted yet.</p>
+<h3>In preparation</h3>
+<p class="muted">The Commission's Register of delegated acts lists none in preparation.</p>
+</section>
+<section id="standardisation"><div class="sec-head"><h2>Standardisation</h2><a class="more" href="../procedures/standardisation.html">All requests</a></div>
+<p class="muted">No standardisation request linked.</p>
+</section>
+<section id="committees"><div class="sec-head"><h2>Committees and expert groups</h2><a class="more" href="../procedures/committees.html">All committees</a></div>
+<p class="muted">No committee or expert group linked yet.</p>
+</section>
+<section id="history"><div class="sec-head"><h2>Legislative history</h2></div>
+<p>Procedure 2026/0011(COD): proposal, Parliament and Council positions, trilogues and adoption, drawn as the ordinary legislative procedure (Art. 294 TFEU) and over time, with every document.</p><p><a href="../procedures/csa2.html">Open the legislative procedure</a></p>
+</section>
+<section id="related"><div class="sec-head"><h2>Related acts</h2></div><div class="facts">
+<a class="chip" href="../index.html#act=csa">CSA</a>
+<span class="chip">NIS-2 amendment</span>
+<a class="chip" href="nis2.html">NIS-2</a>
+<a class="chip" href="cra.html">CRA</a>
+</div><p class="small muted">Acts on the timeline open there with the act selected.</p></section>
+<footer>Built from public sources only: EUR-Lex and Cellar, the Register of Commission documents, eNorm, the Comitology Register, the Register of Commission expert groups and the public work programmes of CEN-CENELEC and ETSI. Our own compilation, an orientation for planning, not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer></div>
+<a class="top" href="#">↑ Top</a>
+<script>
+(function () {
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const rel = d => { const days = Math.round((new Date(d) - today) / 864e5);
+    if (days === 0) return "today"; const a = Math.abs(days);
+    const s = a < 45 ? a + " d" : a < 700 ? Math.round(a / 30.4) + " mo" : (a / 365.25).toFixed(1) + " y";
+    return days > 0 ? "in " + s : s + " ago"; };
+  document.querySelectorAll("time[data-rel]").forEach(t => { const r = t.closest("tr, li")?.querySelector(".rel"); if (r) r.textContent = rel(t.dateTime); });
+  // "Next up": the next dated items from today on (the page is not rebuilt every day)
+  const list = document.getElementById("next-list");
+  if (list) { const items = [...list.children]; let shown = 0;
+    items.forEach(li => { const future = new Date(li.dataset.date) >= today; li.hidden = !future || shown >= 8; if (future) shown++; });
+    const none = document.getElementById("next-none"); if (none) none.hidden = shown > 0; }
+  document.querySelectorAll("tr[data-date]").forEach(tr => { if (new Date(tr.dataset.date) < today) tr.classList.add("past"); });
+  // highlight the section in view
+  const links = [...document.querySelectorAll("nav.sections a")];
+  const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) links.forEach(a =>
+    a.setAttribute("aria-current", String(a.hash === "#" + e.target.id))); }), { rootMargin: "-40% 0px -55% 0px" });
+  document.querySelectorAll("section[id]").forEach(s => io.observe(s));
+})();
+</script></body></html>
