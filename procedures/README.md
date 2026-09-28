@@ -24,6 +24,8 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 04 Jan 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13849-2 | CEN-CENELEC work programme |
 | 19 Jan 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN XXX (Cybersecurity requirements for products with digital element) | CEN-CENELEC work programme |
 | 31 Jan 2027 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 16–41) | Draft amending decision (Comitology Register) |
+| 08 Feb 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: EN IEC 62443-3-3:2019/prAA, EN IEC 62443-4-2:2019/prAA:2026 | CEN-CENELEC work programme |
+| 23 Feb 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: EN IEC 62443-4-1:2018/prAA:2026 | CEN-CENELEC work programme |
 | 03 Mar 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18283 | CEN-CENELEC work programme |
 | 07 Mar 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-2 | CEN-CENELEC work programme |
 | 18 Mar 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18284 | CEN-CENELEC work programme |
@@ -33,6 +35,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 01 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-3 | CEN-CENELEC work programme |
 | 21 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-4, prEN 18229-5 | CEN-CENELEC work programme |
 | 26 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN ISO/IEC 23282 | CEN-CENELEC work programme |
+| 03 Aug 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN 50770-1, prEN 50770-2, prEN 50770-3, prEN 50770-4, prEN 50770-5, prEN 50770-6 | CEN-CENELEC work programme |
 | 11 Oct 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 60204-1 | CEN-CENELEC work programme |
 | 30 Oct 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 10–14, 2–9) | Standardisation request, Annex (deadlines) |
 | 21 Mar 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: EN IEC 60204-32:2025/prAA | CEN-CENELEC work programme |
