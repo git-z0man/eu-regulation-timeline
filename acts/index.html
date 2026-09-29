@@ -13,7 +13,9 @@
 * { box-sizing: border-box; }
 html { scroll-padding-top: 64px; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
-.wrap { max-width: 1180px; margin: 0 auto; padding: 16px 16px 48px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px 48px; }
+/* the site navigation at the same place as on every other page (1440px wide, 20px from the top) */
+.navwrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 0; }
 a { color: var(--accent); }
 a.ext::after { content: " ↗"; font-size: 0.85em; }
 .crumbs { font-size: 14px; color: var(--muted); margin: 4px 0 10px; }
@@ -93,8 +95,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 @media (max-width: 800px) { .now-grid { grid-template-columns: 1fr; } }
 @media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
   th, td { padding: 6px 8px; } }
-</style></head><body><div class="wrap">
-<style>
+</style></head><body><div class="navwrap"><style>
 .sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
   border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
 .sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
@@ -103,7 +104,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 .sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
 @media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
   .sitenav .brand { display: none; } }
-</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a></nav>
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a></nav></div><div class="wrap">
 <h1>Regulations</h1>
 <p class="muted">One page per act with everything about it: the next dates, pending changes, the texts, implementing and delegated acts, standardisation, committees and expert groups, and the legislative history. More acts on the <a href="../index.html">timeline</a> and in the <a href="../procedures/index.html">legislative procedures</a>.</p>
 <div class="cards">
