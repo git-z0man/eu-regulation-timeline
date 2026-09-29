@@ -78,10 +78,10 @@ adopted 2022-10-24; expires 2026-10-25; ESOs: CEN, CENELEC. [eNorm](https://ec.e
 
 ### Planned (annual Union work programmes)
 
-| Year | Action | Planned |
-| --- | --- | --- |
-| 2025 | [75. Safety of toys](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) | Development of new standards to cover the technical specifications of LED lights in toys as covered by the Directive 2009/48/EC. Development of new harmonised standards in support of the proposed Regulation. |
-| 2026 | [31. Safety of toys](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) | Amendment to the current standardisation request for toys, i.e. amendment of Commission Implementing Decision C(2022) 7410 (M/589), by extending the deadlines for delivery of the standards and extending the scope of the current standardisation request in order to include the technical specifications of LED lights in toys in the revised version of EN 62115 (standard for electric toys). Adoption of a new standardisation request to support the new requirements of the forthcoming new Regulation on toy safety (COM/2023/462) and development of new/revised standards to be requested under the new standardisation request. |
+| Year | Action | Planned | Text |
+| --- | --- | --- | --- |
+| 2025 | 75. Safety of toys | Development of new standards to cover the technical specifications of LED lights in toys as covered by the Directive 2009/48/EC. Development of new harmonised standards in support of the proposed Regulation. | [en.md](../texts/guidance/commission/uwp-2025/2025-03-27_final.en.md) · [de.md](../texts/guidance/commission/uwp-2025/2025-03-27_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) |
+| 2026 | 31. Safety of toys | Amendment to the current standardisation request for toys, i.e. amendment of Commission Implementing Decision C(2022) 7410 (M/589), by extending the deadlines for delivery of the standards and extending the scope of the current standardisation request in order to include the technical specifications of LED lights in toys in the revised version of EN 62115 (standard for electric toys). Adoption of a new standardisation request to support the new requirements of the forthcoming new Regulation on toy safety (COM/2023/462) and development of new/revised standards to be requested under the new standardisation request. | [en.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.en.md) · [de.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) |
 
 ## Work at the standardisation organisations
 
