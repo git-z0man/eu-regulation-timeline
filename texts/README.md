@@ -484,6 +484,26 @@ All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2015-11-25_commission-decision | commission-decision | – | [en](gpsr/sreq-m538/2015-11-25_commission-decision.en.md) | [de](gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=de) |
 
+## Communication C(2023) 4049
+
+`guidance/commission/c-2023-4049` – Communication from the Commission – Implementation of the 5G cybersecurity Toolbox, C(2023) 4049 final of 15 June 2023
+
+All texts of this act as one file: [guidance-commission-c-2023-4049.zip](downloads/guidance-commission-c-2023-4049.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023-06-15_final | final | – | [en](guidance/commission/c-2023-4049/2023-06-15_final.en.md) | [de](guidance/commission/c-2023-4049/2023-06-15_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2023-4049/2023-06-15_final.de.md) | [source](https://digital-strategy.ec.europa.eu/en/library/communication-commission-implementation-5g-cybersecurity-toolbox) |
+
+## Recommendation (EU) 2019/534
+
+`guidance/commission/recommendation-2019-534` – Commission Recommendation (EU) 2019/534 of 26 March 2019 – Cybersecurity of 5G networks
+
+All texts of this act as one file: [guidance-commission-recommendation-2019-534.zip](downloads/guidance-commission-recommendation-2019-534.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2019-03-26_final | final | 32019H0534 | [en](guidance/commission/recommendation-2019-534/2019-03-26_final.en.md) | [de](guidance/commission/recommendation-2019-534/2019-03-26_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/recommendation-2019-534/2019-03-26_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019H0534) |
+
 ## Annual Union work programme for European standardisation 2024
 
 `guidance/commission/uwp-2024` – Commission Notice – The 2024 annual Union work programme for European standardisation
@@ -524,6 +544,16 @@ All texts of this act as one file: [guidance-commission-work-programme-2026.zip]
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-10-21_final | final | 52025DC0870 | [en](guidance/commission/work-programme-2026/2025-10-21_final.en.md) | [de](guidance/commission/work-programme-2026/2025-10-21_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/work-programme-2026/2025-10-21_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025DC0870) |
+
+## EU 5G Toolbox
+
+`guidance/nis-cg/5g-toolbox` – Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures (NIS Cooperation Group publication 01/2020)
+
+All texts of this act as one file: [guidance-nis-cg-5g-toolbox.zip](downloads/guidance-nis-cg-5g-toolbox.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2020-01-29_final | final | – | [en](guidance/nis-cg/5g-toolbox/2020-01-29_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/nis-cg/5g-toolbox/2020-01-29_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=64468) |
 
 ## IMERA
 

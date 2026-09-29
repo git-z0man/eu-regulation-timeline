@@ -7,6 +7,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | Date | Act | Step | Source |
 | --- | --- | --- | --- |
 | Q4 2025 | [GPSR](gpsr.md) | Implementing act adopted, publication pending: Implementing Decision on European standards for products in the scope of the General Product Safety Regulation | Commission Register of delegated acts (RegDel) |
+| Q1 2026 | [NZIA](nzia.md) | Implementing act adopted, publication pending: Minimum requirements on environmental sustainability for NZIA public procurement procedures | Commission Register of delegated acts (RegDel) |
 | Q2 2026 | [AI Act](ai-act.md) | Implementing act adopted, publication pending: Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | Commission Register of delegated acts (RegDel) |
 | 30 Sep 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18228 | CEN-CENELEC work programme |
 | Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
@@ -21,6 +22,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 30 Nov 2026 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 1, 15) | Draft amending decision (Comitology Register) |
 | 30 Nov 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-1 | CEN-CENELEC work programme |
 | 14 Dec 2026 | [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2026/0068(COD) (forecasts) |
+| Q1 2027 | [NZIA](nzia.md) | Implementing act planned: Implementing Regulation on a standardised reporting template for Member States’ monitoring of the NZIA | Commission Register of delegated acts (RegDel) |
 | 04 Jan 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13849-2 | CEN-CENELEC work programme |
 | 19 Jan 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN XXX (Cybersecurity requirements for products with digital element) | CEN-CENELEC work programme |
 | 31 Jan 2027 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 16–41) | Draft amending decision (Comitology Register) |
