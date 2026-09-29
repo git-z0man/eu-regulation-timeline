@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "date": "2026-09-29",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 626",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 625",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 620",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 617 – Cybersecurity requirements for browsers: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 617",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "AI Act",
+   "actor": "Artificial Intelligence Committee",
+   "label": "Summary record published: AI Committee meeting (2026-05-21)",
+   "doc": "summary record",
+   "page": "ai-act.html"
+  },
+  {
    "date": "2026-09-24",
    "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
    "actor": "European Parliament",
@@ -23,46 +63,6 @@
    "label": "Voting sheet published: Written procedure - Draft amendment on a standardisation request as regards toys in support of Directive 2009/48/EC (2026-08-18)",
    "doc": "voting sheet",
    "page": "standardisation-regulation.html"
-  },
-  {
-   "date": "2026-09-23",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 634",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-09-22",
-   "title": "Standardisation Regulation",
-   "actor": "Committee on Standards",
-   "label": "Draft implementing act published: Written procedure - Draft Commission Implementing Decision amending Implementing Decision C(2025)618 on a standardisation request as regards products with digital elements (2026-09-16)",
-   "doc": "draft implementing act",
-   "page": "standardisation-regulation.html"
-  },
-  {
-   "date": "2026-09-22",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 618 – Cybersecurity requirements for password managers: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 618",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
-   "actor": "European Parliament",
-   "label": "ITRE draft report",
-   "doc": "PE792.222",
-   "page": "csa2.html"
-  },
-  {
-   "date": "2026-09-18",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Drafting Stage – Stable draft",
-   "doc": "EN 304 619",
-   "page": "cra.html"
   }
  ]
 }
