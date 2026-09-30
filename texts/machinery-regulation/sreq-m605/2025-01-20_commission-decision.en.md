@@ -238,7 +238,7 @@ Table 1: List of domains covering new harmonised standards and European standard
 
 2. S tandards and deliverables covering various or unique 20 January 2026 20 January 2034 product categories introducing specific provisions for machinery products:
 
-- - with fully or partially self-evolving behaviour or logic that are designed to operate with varying levels of autonomy; or - whose safety functions are governed by safety components or systems with fully or partially selfevolving behaviour using machine learning approaches
+- - with fully or partially self-evolving behaviour or logic that are designed to operate with varying levels of autonomy; or - whose safety functions are governed by safety components or systems with fully or partially self-evolving behaviour using machine learning approaches
 
 3. S tandards and deliverables covering various or unique 20 January 2026 20 January 2034 product categories introducing specific provisions ensuring that safety functions based on inter alia external connections, software or data are protected against corruption in case of accidental and intentional events, over the product lifetime
 
@@ -286,7 +286,7 @@ Phase 1 ^(3) Phase 2 ^(4)
 
 14. S tandards and deliverables on safety requirements of 20 January 2026 20 January 2034 equipment for making and shaping of metals
 
-15. S tandards and deliverables on robotics, including robots 20 January 2026 20 January 2034 for collaborative applications, service robots and wearable exoskeletons robots, including provisions for safety functions governed by fully or partially selfevolving behaviour using machine learning approaches
+15. S tandards and deliverables on robotics, including robots 20 January 2026 20 January 2034 for collaborative applications, service robots and wearable exoskeletons robots, including provisions for safety functions governed by fully or partially self-evolving behaviour using machine learning approaches
 
 16. S tandards and deliverables on safety aspects of non-road 20 January 2026 20 January 2034 mobile machinery, including automated and remote operation, as well as the methodology for measuring nominal power delivery and European standardisation deliverables, covering various and CENELEC or unique product categories and technological fields
 
@@ -302,7 +302,7 @@ Phase 1 ^(3) Phase 2 ^(4)
 
 - - mixing plants for asphalt, asphalt recyclates and concrete;
 
-- - machines to process building materials (portable, hand-guided, support-mounted, on rails or selfpropelled);
+- - machines to process building materials (portable, hand-guided, support-mounted, on rails or self-propelled);
 
 - - road operation machines; and - snow-grooming machines,
 
@@ -489,7 +489,7 @@ Harmonised standards shall not provide any interpretation of the essential healt
 
 When harmonised standards are drafted or revised, the iterative process of risk assessment, risk elimination and risk reduction shall be applied by following the design principles set out in Regulation (EU) 2023/1230, Annex III, Part B, General principles, point 1, and by considering the operations of the machine for a wide range of users.
 
-It shall include hazards that might arise during the lifecycle of the machinery product, when used as intended but also addressing reasonably foreseeable misuse. Moreover, it shall also address risk elimination or reduction through application of cognitive ergonomics principles, evaluating machinery properties and how they interact with humans and their cognitive abilities. Where appropriate, is shall also cover the evolution of its fully or partially selfevolving behaviour or logic as a result of the machinery product designed to operate with varying levels of autonomy, and covering its continuous protection against corruption of safety functions that rely on inter alia external connections, software or data. Moreover, the risk assessment and risk reduction shall include risks resulting from interactions between machinery products in order to achieve the same end, that are arranged and controlled so that they function as an integral whole.
+It shall include hazards that might arise during the lifecycle of the machinery product, when used as intended but also addressing reasonably foreseeable misuse. Moreover, it shall also address risk elimination or reduction through application of cognitive ergonomics principles, evaluating machinery properties and how they interact with humans and their cognitive abilities. Where appropriate, is shall also cover the evolution of its fully or partially self-evolving behaviour or logic as a result of the machinery product designed to operate with varying levels of autonomy, and covering its continuous protection against corruption of safety functions that rely on inter alia external connections, software or data. Moreover, the risk assessment and risk reduction shall include risks resulting from interactions between machinery products in order to achieve the same end, that are arranged and controlled so that they function as an integral whole.
 
 4. Normative references
 

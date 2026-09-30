@@ -432,7 +432,7 @@ Manufacturers shall indicate on the fitting their name, registered trade name or
 
 7. Manufacturers shall ensure that the appliance is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned. The instructions and safety information may be provided in an electronic form. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
 
-Manufacturers shall take into account the intended use and the foreseeable enduser of the product when deciding the specific format for the instructions and safety information.
+Manufacturers shall take into account the intended use and the foreseeable end-user of the product when deciding the specific format for the instructions and safety information.
 
 In the case of appliance or fitting intended for consumers or that can, under reasonably foreseeable conditions, be used by consumers, even if not intended for them, the manufacturer shall provide, in paper format, or mark on the equipment, the safety information. Such safety information shall be easily visible and legible for consumers.
 
@@ -484,7 +484,7 @@ Importers shall indicate on the fitting their name, registered trade name or reg
 
   - (a) in paragraph 2, the second subparagraph is replaced by the following:
 
-‘Before making a fitting available on the market, distributors shall verify that the fitting bears the CE marking and that it is accompanied by the internet address or machinereadable code through which the EU declaration of conformity can be accessed **directly**, and by, inter alia, the instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned, and that the manufacturer and the importer have complied with the requirements set out in Article 7(5) and (6) and Article 9(3) respectively.;’
+‘Before making a fitting available on the market, distributors shall verify that the fitting bears the CE marking and that it is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be accessed **directly**, and by, inter alia, the instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned, and that the manufacturer and the importer have complied with the requirements set out in Article 7(5) and (6) and Article 9(3) respectively.;’
 
 - (6) in paragraph 5, the first sentence is replaced by the following:
 
@@ -1101,7 +1101,7 @@ ANNEX IV GIP.B **LIMITE EN** ‘2. Name, postal address and digital contact of t
 
   - (c) in point 7.6., point (a) is replaced by the following:
 
-‘(a) its name, postal address and digital contact and data identifying the EU typeexamination certificate concerned;;’
+‘(a) its name, postal address and digital contact and data identifying the EU type-examination certificate concerned;;’
 
 - (4) in Annex IX, point 3.1., point (a) is replaced by the following:
 

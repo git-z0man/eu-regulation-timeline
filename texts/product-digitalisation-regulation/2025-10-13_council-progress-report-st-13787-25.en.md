@@ -94,7 +94,7 @@ Omnibus IV
 
 Omnibus V
 
-28. The Omnibus V package focusing on Defence Readiness was presented by the Commission on 17 June 2025. It comprises simplification proposals in defence-specific as well as non-defencespecific legislation and programmes. In particular, it includes proposals for two Regulations and one Directive as well as drafts of Delegated Regulations aiming to facilitate defence investments and conditions for defence industry and simplify security and defence procurement.
+28. The Omnibus V package focusing on Defence Readiness was presented by the Commission on 17 June 2025. It comprises simplification proposals in defence-specific as well as non-defence-specific legislation and programmes. In particular, it includes proposals for two Regulations and one Directive as well as drafts of Delegated Regulations aiming to facilitate defence investments and conditions for defence industry and simplify security and defence procurement.
 
 29. The Omnibus mostly clarifies existing EU legislation, introduces several “quick fixes” and proposes an acceleration on permit granting related to defence readiness projects. The objective is to create the necessary conditions to frontload investments in defence capabilities, providing necessary predictability to industry and reducing red tape. The package covers measures in the areas highlighted in the European Council conclusions of 6 March 2025, which called for a defence-specific simplification omnibus: mobilising private financing for the defence industry, public procurement, industry cooperation, and permitting and reporting requirements.
 

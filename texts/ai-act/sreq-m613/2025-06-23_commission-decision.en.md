@@ -3,7 +3,7 @@ act: ai-act/sreq-m613
 version: 2025-06-23_commission-decision
 stage: commission-decision
 language: en
-title: COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AIsystems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
+title: COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,13 +17,13 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AIsystems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
+# COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
 
 COMMISSION IMPLEMENTING DECISION
 
 of 23.6.2025
 
-on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AIsystems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
+on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
 
 (Text with EEA relevance)
 
@@ -58,7 +58,7 @@ Whereas:
 (6) Following the adoption of Regulation (EU) 2024/1689, the request should concern the development of harmonised standards and the content of the request, in particular the requirements set out in Annex II to Implementing Decision C(2023) 3215, should reflect the final text of that Regulation. In addition, CEN and Cenelec have, in their joint semestrial report of September 2024, informed the Commission about significant delays in the standardisation activities under the request made by Implementing Decision C(2023)3215. Since the matters that need to be addressed by the harmonised standards and European standardisation deliverables are technically complex and novel, a new deadline should be set for the completion of the standardisation work. In order to take into account the new deadline, it is also necessary to extend the expiration date of the request set out in Implementing Decision C(2023)3215 and to extend the deadline for CEN and Cenelec to provide the Commission with the final report. Even though the scope of the standards, the deliverables requested and the technical content of the standards should be the same as indicated in Annex I to Implementing Decision C(2023)3215, that Implementing Decision should be repealed and replaced having regard to the extent of the amendments required and in the interest of clarity.
 
 <a id="rec-7"></a>
-(7) Harmonised standards help to ensure a high level of protection of health, safety and the environment throughout the Union and thus contribute to free movement of highrisk AI-systems in the Union. Given that such standards are technology-neutral and performance-based, they also contribute to ensuring equal conditions of competition among relevant economic operators dealing with high-risk AI systems, in particular small and medium-sized enterprises. Indirectly those standards also contribute to lower costs benefitting consumers in particular.
+(7) Harmonised standards help to ensure a high level of protection of health, safety and the environment throughout the Union and thus contribute to free movement of high-risk AI-systems in the Union. Given that such standards are technology-neutral and performance-based, they also contribute to ensuring equal conditions of competition among relevant economic operators dealing with high-risk AI systems, in particular small and medium-sized enterprises. Indirectly those standards also contribute to lower costs benefitting consumers in particular.
 
 <a id="rec-8"></a>
 (8) In accordance with Article 8 of Regulation (EU) 2024/1689, the essential requirements are to be applied in such a way as to take into account their intended purpose as well as the generally acknowledged state of the art on AI and AI-related technologies.
@@ -333,7 +333,7 @@ The harmonised standards and standardisation deliverables in this area shall set
 
 The harmonised standards and standardisation deliverables shall take due account of the essential requirements for products with digital elements listed in Annex I of Regulation (EU) 2024/2847 of the European Parliament and the Council ^(5).
 
-2.9. Quality management system for providers of high-risk AI systems, including postmarket monitoring process
+2.9. Quality management system for providers of high-risk AI systems, including post-market monitoring process
 
 The harmonised standards and standardisation deliverables in this area shall set up specifications for quality management systems. Those specifications shall comprehensively cover all elements referred to in Article 17 of Regulation (EU) 2024/1689.
 

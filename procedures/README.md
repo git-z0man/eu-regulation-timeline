@@ -9,7 +9,6 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | Q4 2025 | [GPSR](gpsr.md) | Implementing act adopted, publication pending: Implementing Decision on European standards for products in the scope of the General Product Safety Regulation | Commission Register of delegated acts (RegDel) |
 | Q1 2026 | [NZIA](nzia.md) | Implementing act adopted, publication pending: Minimum requirements on environmental sustainability for NZIA public procurement procedures | Commission Register of delegated acts (RegDel) |
 | Q2 2026 | [AI Act](ai-act.md) | Implementing act adopted, publication pending: Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | Commission Register of delegated acts (RegDel) |
-| 30 Sep 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18228 | CEN-CENELEC work programme |
 | Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
 | 06 Oct 2026 | EPA | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5 (Q3 2026); date announced by the Commission |
 | 06 Oct 2026 | Standardisation Regulation (new) | Commission proposal expected | Commission Work Programme 2026 (COM(2025) 870), Annex I item 5, with the European Product Act (Q3 2026) |

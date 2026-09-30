@@ -11,7 +11,7 @@ counts:
   recitals: 178
   articles: 98
   annexes: 0
-  rows: 1353
+  rows: 1110
 official_source: https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
 notice: Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
@@ -89,13 +89,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 1/243 Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, | Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, |
+| Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, | Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, |
 
 ### Citation 2
 
@@ -138,13 +132,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (1) Since the adoption of Regulation (EU) 2019/881 of the European Parliament and of the Council1, the geopolitical, technological and policy landscapes have undergone significant transformations. Cybersecurity incidents, whether caused by system failures, human error, malicious acts or natural phenomena, have surged and cyberattacks have become more sophisticated, affecting essential entities, businesses, and the general public. The cybercrime | (1) Since the adoption of Regulation (EU) 2019/881 of the European Parliament and of the Council1, the geopolitical, technological and policy landscapes have undergone significant transformations. Cybersecurity incidents, whether caused by system failures, human error, malicious acts or natural phenomena, have surged and cyberattacks have become more sophisticated, affecting essential entities, businesses, and the general public. The cybercrime |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 2/243 ecosystem has proliferated, with ransomware activity at its core. Supply chain incidents, whether caused by criminals for financial gain or by State actors for disruption, espionage, disinformation or warfare have intensified. As part of a wider hybrid strategy, incidents resulting from malicious cyber activities and system failures ripple outward, disrupting essential services, undermining trust in institutions, and affecting the Union’s societal and defence readiness. Such incidents have proved their potential to impact economic activity, financial stability and people’s lives. At the same time, vulnerability of critical civilian infrastructure and systems pose a risk to defence capabilities where they rely on them. _________<br>1. Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15, ELI: http://data.europa.eu/eli/reg/2019/881/oj). | ecosystem has proliferated, with ransomware activity at its core. Supply chain incidents, whether caused by criminals for financial gain or by State actors for disruption, espionage, disinformation or warfare have intensified. As part of a wider hybrid strategy, incidents resulting from malicious cyber activities and system failures ripple outward, disrupting essential services, undermining trust in institutions, and affecting the Union’s societal and defence readiness. Such incidents have proved their potential to impact economic activity, financial stability and people’s lives. At the same time, vulnerability of critical civilian infrastructure and systems pose a risk to defence capabilities where they rely on them. _________<br>1. Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15, ELI: http://data.europa.eu/eli/reg/2019/881/oj). |
+| (1) Since the adoption of Regulation (EU) 2019/881 of the European Parliament and of the Council1, the geopolitical, technological and policy landscapes have undergone significant transformations. Cybersecurity incidents, whether caused by system failures, human error, malicious acts or natural phenomena, have surged and cyberattacks have become more sophisticated, affecting essential entities, businesses, and the general public. The cybercrime ecosystem has proliferated, with ransomware activity at its core. Supply chain incidents, whether caused by criminals for financial gain or by State actors for disruption, espionage, disinformation or warfare have intensified. As part of a wider hybrid strategy, incidents resulting from malicious cyber activities and system failures ripple outward, disrupting essential services, undermining trust in institutions, and affecting the Union’s societal and defence readiness. Such incidents have proved their potential to impact economic activity, financial stability and people’s lives. At the same time, vulnerability of critical civilian infrastructure and systems pose a risk to defence capabilities where they rely on them. _________<br>1. Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15, ELI: http://data.europa.eu/eli/reg/2019/881/oj). | (1) Since the adoption of Regulation (EU) 2019/881 of the European Parliament and of the Council1, the geopolitical, technological and policy landscapes have undergone significant transformations. Cybersecurity incidents, whether caused by system failures, human error, malicious acts or natural phenomena, have surged and cyberattacks have become more sophisticated, affecting essential entities, businesses, and the general public. The cybercrime ecosystem has proliferated, with ransomware activity at its core. Supply chain incidents, whether caused by criminals for financial gain or by State actors for disruption, espionage, disinformation or warfare have intensified. As part of a wider hybrid strategy, incidents resulting from malicious cyber activities and system failures ripple outward, disrupting essential services, undermining trust in institutions, and affecting the Union’s societal and defence readiness. Such incidents have proved their potential to impact economic activity, financial stability and people’s lives. At the same time, vulnerability of critical civilian infrastructure and systems pose a risk to defence capabilities where they rely on them. _________<br>1. Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15, ELI: http://data.europa.eu/eli/reg/2019/881/oj). |
 
 <a id="rec-2"></a>
 ### Recital 2
@@ -158,38 +146,14 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (3) To address those developments, the Union has enhanced its legal and policy tools. Directive (EU) 2022/2555 of the European Parliament and of the Council1 strengthens cybersecurity for critical infrastructure, complemented by Directive (EU) 2022/2557 of the European Parliament and of the Council2 for | (3) To address those developments, the Union has enhanced its legal and policy tools. Directive (EU) 2022/2555 of the European Parliament and of the Council1 strengthens cybersecurity for critical infrastructure, complemented by Directive (EU) 2022/2557 of the European Parliament and of the Council2 for |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 3/243 physical security. Regulation (EU) 2024/2847 of the European Parliament and of the Council3 enhances the cybersecurity of products with digital elements. Regulation (EU) 2025/38 of the European Parliament and of the Council4 builds Union-wide response capabilities, and the Council Recommendation of 6 June 2025 on an EU blueprint for cyber crisis management5 (‘Recommendation on the Cyber Blueprint’) supports Union-level crisis management cooperation. The 5G Cybersecurity Toolbox6 constitutes a first step towards a coordinated approach at Union level to secure 5G networks. The Commission communication on the Cybersecurity Skills Academy7 addresses the growing challenge of the cybersecurity talent gap. Additionally, the cybersecurity framework has been enhanced by sector-specific legislation, in particular Regulation (EU) 2022/2554 of the European Parliament and of the Council8 for the financial sector, Commission Delegated Regulation (EU) 2024/13669 for the electricity subsector, Commission Delegated Regulation (EU) 2022/164510 and Commission Implementing Regulation (EU) 2023/20311(PART-IS) as well as relevant aviation security rules set out in Commission Regulation (EU) 2019/158312 for the air transport sub-sector, and other policy documents such as the Commission communication on an EU action plan on the cybersecurity of hospitals and healthcare providers13. Union entities are also strengthened with Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council14, which lays down measures that aim to achieve a high common level of cybersecurity within Union institutions, bodies, offices and agencies. This enhanced legal framework for cybersecurity has further specified ENISA’s tasks. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).<br>2. Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj). | physical security. Regulation (EU) 2024/2847 of the European Parliament and of the Council3 enhances the cybersecurity of products with digital elements. Regulation (EU) 2025/38 of the European Parliament and of the Council4 builds Union-wide response capabilities, and the Council Recommendation of 6 June 2025 on an EU blueprint for cyber crisis management5 (‘Recommendation on the Cyber Blueprint’) supports Union-level crisis management cooperation. The 5G Cybersecurity Toolbox6 constitutes a first step towards a coordinated approach at Union level to secure 5G networks. The Commission communication on the Cybersecurity Skills Academy7 addresses the growing challenge of the cybersecurity talent gap. Additionally, the cybersecurity framework has been enhanced by sector-specific legislation, in particular Regulation (EU) 2022/2554 of the European Parliament and of the Council8 for the financial sector, Commission Delegated Regulation (EU) 2024/13669 for the electricity subsector, Commission Delegated Regulation (EU) 2022/164510 and Commission Implementing Regulation (EU) 2023/20311(PART-IS) as well as relevant aviation security rules set out in Commission Regulation (EU) 2019/158312 for the air transport sub-sector, and other policy documents such as the Commission communication on an EU action plan on the cybersecurity of hospitals and healthcare providers13. Union entities are also strengthened with Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council14, which lays down measures that aim to achieve a high common level of cybersecurity within Union institutions, bodies, offices and agencies. This enhanced legal framework for cybersecurity has further specified ENISA’s tasks. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).<br>2. Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj). |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 4/243<br>3. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2847/oj).<br>4. Regulation (EU) 2025/38 of the European Parliament and of the Council of 19 December 2024 laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) (OJ L, 2025/38, 15.01.2025, ELI: http://data.europa.eu/eli/reg/2025/38/oj).<br>5. OJ C, C/2025/3445, 20.6.2025, ELI: http://data.europa.eu/eli/C/2025/3445/oj.<br>6. Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures, NIS Cooperation Group, 1/2020, available at: https://digital-strategy.ec.europa.eu/en/library/cybersecurity-5gnetworks-eu-toolbox-risk-mitigating-measures.<br>7. Communication from the Commission to the European Parliament and the Council, Closing the cybersecurity talent gap to boost the EU’s competitiveness, growth and resilience (‘The Cybersecurity Skills Academy’), COM(2023)207 final, 18 April 2023.<br>8. Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2554/oj).<br>9. Commission Delegated Regulation (EU) 2024/1366 of 11 March 2024 supplementing Regulation (EU) 2019/943 of the European Parliament and of the Council by establishing a network code on sector-specific rules for cybersecurity aspects of cross-border electricity flows (OJ L, 2024/1366, 24.05.2024, ELI: http://data.europa.eu/eli/reg_del/2024/1366/oj).<br>10. Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, pp. 18–31, 26.9.2022, ELI: http://data.europa.eu/eli/reg_del/2022/1645/oj).<br>11. Commission Implementing Regulation (EU) 2023/203 of 27 October 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011, (EU) 2015/340, Commission Implementing Regulations<br>(EU) 2017/373 and (EU) 2021/664, and for competent authorities covered by Commission | 3. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2847/oj).<br>4. Regulation (EU) 2025/38 of the European Parliament and of the Council of 19 December 2024 laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) (OJ L, 2025/38, 15.01.2025, ELI: http://data.europa.eu/eli/reg/2025/38/oj).<br>5. OJ C, C/2025/3445, 20.6.2025, ELI: http://data.europa.eu/eli/C/2025/3445/oj.<br>6. Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures, NIS Cooperation Group, 1/2020, available at: https://digital-strategy.ec.europa.eu/en/library/cybersecurity-5gnetworks-eu-toolbox-risk-mitigating-measures.<br>7. Communication from the Commission to the European Parliament and the Council, Closing the cybersecurity talent gap to boost the EU’s competitiveness, growth and resilience (‘The Cybersecurity Skills Academy’), COM(2023)207 final, 18 April 2023.<br>8. Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2554/oj).<br>9. Commission Delegated Regulation (EU) 2024/1366 of 11 March 2024 supplementing Regulation (EU) 2019/943 of the European Parliament and of the Council by establishing a network code on sector-specific rules for cybersecurity aspects of cross-border electricity flows (OJ L, 2024/1366, 24.05.2024, ELI: http://data.europa.eu/eli/reg_del/2024/1366/oj).<br>10. Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, pp. 18–31, 26.9.2022, ELI: http://data.europa.eu/eli/reg_del/2022/1645/oj).<br>11. Commission Implementing Regulation (EU) 2023/203 of 27 October 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011, (EU) 2015/340, Commission Implementing Regulations<br>(EU) 2017/373 and (EU) 2021/664, and for competent authorities covered by Commission |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 5/243 Regulations (EU) No 748/2012, (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011,<br>(EU) 2015/340 and (EU) No 139/2014, Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 and amending Commission Regulations (EU) No 1178/2011, (EU) No 748/2012, (EU) No 965/2012, (EU) No 139/2014, (EU) No 1321/2014, (EU) 2015/340, and Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 (OJ L 31, 2.2.2023, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2023/203/oj).<br>12. Commission Implementing Regulation (EU) 2019/1583 of 25 September 2019 amending Implementing Regulation (EU) 2015/1998 laying down detailed measures for the implementation of the common basic standards on aviation security, as regards cybersecurity measures (OJ L 246, 26.9.2019, pp. 15–18, ELI: http://data.europa.eu/eli/reg_impl/2019/1583/oj).<br>13. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, European action plan on the cybersecurity of hospitals and healthcare providers, COM(2025) 10 final, 15 January 2025.<br>14. Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council of 13 December 2023 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union (OJ L, 2023/2841, 18.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2841/oj). | Regulations (EU) No 748/2012, (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011,<br>(EU) 2015/340 and (EU) No 139/2014, Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 and amending Commission Regulations (EU) No 1178/2011, (EU) No 748/2012, (EU) No 965/2012, (EU) No 139/2014, (EU) No 1321/2014, (EU) 2015/340, and Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 (OJ L 31, 2.2.2023, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2023/203/oj).<br>12. Commission Implementing Regulation (EU) 2019/1583 of 25 September 2019 amending Implementing Regulation (EU) 2015/1998 laying down detailed measures for the implementation of the common basic standards on aviation security, as regards cybersecurity measures (OJ L 246, 26.9.2019, pp. 15–18, ELI: http://data.europa.eu/eli/reg_impl/2019/1583/oj).<br>13. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, European action plan on the cybersecurity of hospitals and healthcare providers, COM(2025) 10 final, 15 January 2025.<br>14. Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council of 13 December 2023 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union (OJ L, 2023/2841, 18.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2841/oj). |
+| (3) To address those developments, the Union has enhanced its legal and policy tools. Directive (EU) 2022/2555 of the European Parliament and of the Council1 strengthens cybersecurity for critical infrastructure, complemented by Directive (EU) 2022/2557 of the European Parliament and of the Council2 for physical security. Regulation (EU) 2024/2847 of the European Parliament and of the Council3 enhances the cybersecurity of products with digital elements. Regulation (EU) 2025/38 of the European Parliament and of the Council4 builds Union-wide response capabilities, and the Council Recommendation of 6 June 2025 on an EU blueprint for cyber crisis management5 (‘Recommendation on the Cyber Blueprint’) supports Union-level crisis management cooperation. The 5G Cybersecurity Toolbox6 constitutes a first step towards a coordinated approach at Union level to secure 5G networks. The Commission communication on the Cybersecurity Skills Academy7 addresses the growing challenge of the cybersecurity talent gap. Additionally, the cybersecurity framework has been enhanced by sector-specific legislation, in particular Regulation (EU) 2022/2554 of the European Parliament and of the Council8 for the financial sector, Commission Delegated Regulation (EU) 2024/13669 for the electricity subsector, Commission Delegated Regulation (EU) 2022/164510 and Commission Implementing Regulation (EU) 2023/20311(PART-IS) as well as relevant aviation security rules set out in Commission Regulation (EU) 2019/158312 for the air transport sub-sector, and other policy documents such as the Commission communication on an EU action plan on the cybersecurity of hospitals and healthcare providers13. Union entities are also strengthened with Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council14, which lays down measures that aim to achieve a high common level of cybersecurity within Union institutions, bodies, offices and agencies. This enhanced legal framework for cybersecurity has further specified ENISA’s tasks. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).<br>2. Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).<br>3. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2847/oj).<br>4. Regulation (EU) 2025/38 of the European Parliament and of the Council of 19 December 2024 laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) (OJ L, 2025/38, 15.01.2025, ELI: http://data.europa.eu/eli/reg/2025/38/oj).<br>5. OJ C, C/2025/3445, 20.6.2025, ELI: http://data.europa.eu/eli/C/2025/3445/oj.<br>6. Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures, NIS Cooperation Group, 1/2020, available at: https://digital-strategy.ec.europa.eu/en/library/cybersecurity-5gnetworks-eu-toolbox-risk-mitigating-measures.<br>7. Communication from the Commission to the European Parliament and the Council, Closing the cybersecurity talent gap to boost the EU’s competitiveness, growth and resilience (‘The Cybersecurity Skills Academy’), COM(2023)207 final, 18 April 2023.<br>8. Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2554/oj).<br>9. Commission Delegated Regulation (EU) 2024/1366 of 11 March 2024 supplementing Regulation (EU) 2019/943 of the European Parliament and of the Council by establishing a network code on sector-specific rules for cybersecurity aspects of cross-border electricity flows (OJ L, 2024/1366, 24.05.2024, ELI: http://data.europa.eu/eli/reg_del/2024/1366/oj).<br>10. Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, pp. 18–31, 26.9.2022, ELI: http://data.europa.eu/eli/reg_del/2022/1645/oj).<br>11. Commission Implementing Regulation (EU) 2023/203 of 27 October 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011, (EU) 2015/340, Commission Implementing Regulations<br>(EU) 2017/373 and (EU) 2021/664, and for competent authorities covered by Commission Regulations (EU) No 748/2012, (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011,<br>(EU) 2015/340 and (EU) No 139/2014, Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 and amending Commission Regulations (EU) No 1178/2011, (EU) No 748/2012, (EU) No 965/2012, (EU) No 139/2014, (EU) No 1321/2014, (EU) 2015/340, and Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 (OJ L 31, 2.2.2023, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2023/203/oj).<br>12. Commission Implementing Regulation (EU) 2019/1583 of 25 September 2019 amending Implementing Regulation (EU) 2015/1998 laying down detailed measures for the implementation of the common basic standards on aviation security, as regards cybersecurity measures (OJ L 246, 26.9.2019, pp. 15–18, ELI: http://data.europa.eu/eli/reg_impl/2019/1583/oj).<br>13. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, European action plan on the cybersecurity of hospitals and healthcare providers, COM(2025) 10 final, 15 January 2025.<br>14. Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council of 13 December 2023 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union (OJ L, 2023/2841, 18.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2841/oj). | (3) To address those developments, the Union has enhanced its legal and policy tools. Directive (EU) 2022/2555 of the European Parliament and of the Council1 strengthens cybersecurity for critical infrastructure, complemented by Directive (EU) 2022/2557 of the European Parliament and of the Council2 for physical security. Regulation (EU) 2024/2847 of the European Parliament and of the Council3 enhances the cybersecurity of products with digital elements. Regulation (EU) 2025/38 of the European Parliament and of the Council4 builds Union-wide response capabilities, and the Council Recommendation of 6 June 2025 on an EU blueprint for cyber crisis management5 (‘Recommendation on the Cyber Blueprint’) supports Union-level crisis management cooperation. The 5G Cybersecurity Toolbox6 constitutes a first step towards a coordinated approach at Union level to secure 5G networks. The Commission communication on the Cybersecurity Skills Academy7 addresses the growing challenge of the cybersecurity talent gap. Additionally, the cybersecurity framework has been enhanced by sector-specific legislation, in particular Regulation (EU) 2022/2554 of the European Parliament and of the Council8 for the financial sector, Commission Delegated Regulation (EU) 2024/13669 for the electricity subsector, Commission Delegated Regulation (EU) 2022/164510 and Commission Implementing Regulation (EU) 2023/20311(PART-IS) as well as relevant aviation security rules set out in Commission Regulation (EU) 2019/158312 for the air transport sub-sector, and other policy documents such as the Commission communication on an EU action plan on the cybersecurity of hospitals and healthcare providers13. Union entities are also strengthened with Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council14, which lays down measures that aim to achieve a high common level of cybersecurity within Union institutions, bodies, offices and agencies. This enhanced legal framework for cybersecurity has further specified ENISA’s tasks. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).<br>2. Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).<br>3. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2847/oj).<br>4. Regulation (EU) 2025/38 of the European Parliament and of the Council of 19 December 2024 laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and respond to cyber threats and incidents and amending Regulation (EU) 2021/694 (Cyber Solidarity Act) (OJ L, 2025/38, 15.01.2025, ELI: http://data.europa.eu/eli/reg/2025/38/oj).<br>5. OJ C, C/2025/3445, 20.6.2025, ELI: http://data.europa.eu/eli/C/2025/3445/oj.<br>6. Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures, NIS Cooperation Group, 1/2020, available at: https://digital-strategy.ec.europa.eu/en/library/cybersecurity-5gnetworks-eu-toolbox-risk-mitigating-measures.<br>7. Communication from the Commission to the European Parliament and the Council, Closing the cybersecurity talent gap to boost the EU’s competitiveness, growth and resilience (‘The Cybersecurity Skills Academy’), COM(2023)207 final, 18 April 2023.<br>8. Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2554/oj).<br>9. Commission Delegated Regulation (EU) 2024/1366 of 11 March 2024 supplementing Regulation (EU) 2019/943 of the European Parliament and of the Council by establishing a network code on sector-specific rules for cybersecurity aspects of cross-border electricity flows (OJ L, 2024/1366, 24.05.2024, ELI: http://data.europa.eu/eli/reg_del/2024/1366/oj).<br>10. Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, pp. 18–31, 26.9.2022, ELI: http://data.europa.eu/eli/reg_del/2022/1645/oj).<br>11. Commission Implementing Regulation (EU) 2023/203 of 27 October 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011, (EU) 2015/340, Commission Implementing Regulations<br>(EU) 2017/373 and (EU) 2021/664, and for competent authorities covered by Commission Regulations (EU) No 748/2012, (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011,<br>(EU) 2015/340 and (EU) No 139/2014, Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 and amending Commission Regulations (EU) No 1178/2011, (EU) No 748/2012, (EU) No 965/2012, (EU) No 139/2014, (EU) No 1321/2014, (EU) 2015/340, and Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 (OJ L 31, 2.2.2023, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2023/203/oj).<br>12. Commission Implementing Regulation (EU) 2019/1583 of 25 September 2019 amending Implementing Regulation (EU) 2015/1998 laying down detailed measures for the implementation of the common basic standards on aviation security, as regards cybersecurity measures (OJ L 246, 26.9.2019, pp. 15–18, ELI: http://data.europa.eu/eli/reg_impl/2019/1583/oj).<br>13. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, European action plan on the cybersecurity of hospitals and healthcare providers, COM(2025) 10 final, 15 January 2025.<br>14. Regulation (EU, Euratom) 2023/2841 of the European Parliament and of the Council of 13 December 2023 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union (OJ L, 2023/2841, 18.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2841/oj). |
 
 <a id="rec-4"></a>
 ### Recital 4
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (4) In this context, and as stated in the ProtectEU: European Internal Security Strategy1, Preparedness Union Strategy2, ensuring the preparedness, security and resilience of the Union’s society and economy requires strong European coordination, trust and information sharing between stakeholders, robust frameworks to ensure the security of ICT products, services, processes and managed security services, as well as growing and strengthening the cybersecurity workforce. It further calls for bolstering ICT supply chains by ensuring European technological sovereignty over key assets, which would increase the Union’s resilience and could benefit cyber defence efforts. In addition, the Communication on Strengthening EU economic security3 identifies as priority objectives the needs to prevent access to sensitive information and data that could undermine the EU’s economic security and to prevent and mitigate disruptions to EU critical infrastructure affecting the EU economy. It acknowledges the essential role effective cybersecurity measures play in this regard. | (4) In this context, and as stated in the ProtectEU: European Internal Security Strategy1, Preparedness Union Strategy2, ensuring the preparedness, security and resilience of the Union’s society and economy requires strong European coordination, trust and information sharing between stakeholders, robust frameworks to ensure the security of ICT products, services, processes and managed security services, as well as growing and strengthening the cybersecurity workforce. It further calls for bolstering ICT supply chains by ensuring European technological sovereignty over key assets, which would increase the Union’s resilience and could benefit cyber defence efforts. In addition, the Communication on Strengthening EU economic security3 identifies as priority objectives the needs to prevent access to sensitive information and data that could undermine the EU’s economic security and to prevent and mitigate disruptions to EU critical infrastructure affecting the EU economy. It acknowledges the essential role effective cybersecurity measures play in this regard. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 6/243 _________<br>1. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on Protect EU: a European Internal Security Strategy, COM(2025)148 final, 1 April 2025.<br>2. Joint Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on the European Preparedness Union Strategy, JOIN(2025) 130 final.<br>3. Joint Communication from the Commission to the European Parliament and the Council, Strengthening EU economic security, JOIN(2025) 977 final. | _________<br>1. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on Protect EU: a European Internal Security Strategy, COM(2025)148 final, 1 April 2025.<br>2. Joint Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on the European Preparedness Union Strategy, JOIN(2025) 130 final.<br>3. Joint Communication from the Commission to the European Parliament and the Council, Strengthening EU economic security, JOIN(2025) 977 final. |
+| (4) In this context, and as stated in the ProtectEU: European Internal Security Strategy1, Preparedness Union Strategy2, ensuring the preparedness, security and resilience of the Union’s society and economy requires strong European coordination, trust and information sharing between stakeholders, robust frameworks to ensure the security of ICT products, services, processes and managed security services, as well as growing and strengthening the cybersecurity workforce. It further calls for bolstering ICT supply chains by ensuring European technological sovereignty over key assets, which would increase the Union’s resilience and could benefit cyber defence efforts. In addition, the Communication on Strengthening EU economic security3 identifies as priority objectives the needs to prevent access to sensitive information and data that could undermine the EU’s economic security and to prevent and mitigate disruptions to EU critical infrastructure affecting the EU economy. It acknowledges the essential role effective cybersecurity measures play in this regard. _________<br>1. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on Protect EU: a European Internal Security Strategy, COM(2025)148 final, 1 April 2025.<br>2. Joint Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on the European Preparedness Union Strategy, JOIN(2025) 130 final.<br>3. Joint Communication from the Commission to the European Parliament and the Council, Strengthening EU economic security, JOIN(2025) 977 final. | (4) In this context, and as stated in the ProtectEU: European Internal Security Strategy1, Preparedness Union Strategy2, ensuring the preparedness, security and resilience of the Union’s society and economy requires strong European coordination, trust and information sharing between stakeholders, robust frameworks to ensure the security of ICT products, services, processes and managed security services, as well as growing and strengthening the cybersecurity workforce. It further calls for bolstering ICT supply chains by ensuring European technological sovereignty over key assets, which would increase the Union’s resilience and could benefit cyber defence efforts. In addition, the Communication on Strengthening EU economic security3 identifies as priority objectives the needs to prevent access to sensitive information and data that could undermine the EU’s economic security and to prevent and mitigate disruptions to EU critical infrastructure affecting the EU economy. It acknowledges the essential role effective cybersecurity measures play in this regard. _________<br>1. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on Protect EU: a European Internal Security Strategy, COM(2025)148 final, 1 April 2025.<br>2. Joint Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on the European Preparedness Union Strategy, JOIN(2025) 130 final.<br>3. Joint Communication from the Commission to the European Parliament and the Council, Strengthening EU economic security, JOIN(2025) 977 final. |
 
 <a id="rec-5"></a>
 ### Recital 5
@@ -204,12 +168,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | (6) This proposal is consistent with and complemented by the [Proposal for a Directive complementing [the revision of Regulation (EU) 2019/881] and amending Directive (EU) 2022/2555 as regards the simplification of the implementation of measures for a high common level of cybersecurity across the Union], as well as with the [Proposal for Regulation on simplification of the digital legislation (Digital Omnibus)1 which provides the obligation on ENISA to develop a single entry-point for incident reporting through which entities can simultaneously fulfil their incident reporting obligations under multiple legal acts. _________<br>1. COM/2025/837 final | (6) This proposal is consistent with and complemented by the [Proposal for a Directive complementing [the revision of Regulation (EU) 2019/881] and amending Directive (EU) 2022/2555 as regards the simplification of the implementation of measures for a high common level of cybersecurity across the Union], as well as with the [Proposal for Regulation on simplification of the digital legislation (Digital Omnibus)1 which provides the obligation on ENISA to develop a single entry-point for incident reporting through which entities can simultaneously fulfil their incident reporting obligations under multiple legal acts. _________<br>1. COM/2025/837 final |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 7/243 |  |
 
 <a id="rec-6a"></a>
 ### Recital 6a
@@ -230,26 +188,14 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (7) Regulation (EC) No 460/2004 of the European Parliament and of the Council1 established ENISA with the aim of contributing to ensuring a high and effective level of network and information security within the Union, and developing a culture of network and information security for the benefit of | (7) Regulation (EC) No 460/2004 of the European Parliament and of the Council1 established ENISA with the aim of contributing to ensuring a high and effective level of network and information security within the Union, and developing a culture of network and information security for the benefit of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 8/243 citizens, consumers, enterprises and public administrations. ENISA’s mandate was extended three times before Regulation (EU) 2019/881 granted it a permanent mandate. In order to better address the needs created by the evolving threat and technological landscapes, in particular with regards to operational cooperation and the increased need for cybersecurity professionals, ENISA’s mandate should be further reinforced. In the interest of legal certainty, Regulation (EU) 2019/881 should be replaced. _________<br>1. Regulation (EC) No 460/2004 of the European Parliament and of the Council of 10 March 2004 establishing the European Network and Information Security Agency (OJ L 77, 13.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/460/oj). | citizens, consumers, enterprises and public administrations. ENISA’s mandate was extended three times before Regulation (EU) 2019/881 granted it a permanent mandate. In order to better address the needs created by the evolving threat and technological landscapes, in particular with regards to operational cooperation and the increased need for cybersecurity professionals, ENISA’s mandate should be further reinforced. In the interest of legal certainty, Regulation (EU) 2019/881 should be replaced. _________<br>1. Regulation (EC) No 460/2004 of the European Parliament and of the Council of 10 March 2004 establishing the European Network and Information Security Agency (OJ L 77, 13.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/460/oj). |
+| (7) Regulation (EC) No 460/2004 of the European Parliament and of the Council1 established ENISA with the aim of contributing to ensuring a high and effective level of network and information security within the Union, and developing a culture of network and information security for the benefit of citizens, consumers, enterprises and public administrations. ENISA’s mandate was extended three times before Regulation (EU) 2019/881 granted it a permanent mandate. In order to better address the needs created by the evolving threat and technological landscapes, in particular with regards to operational cooperation and the increased need for cybersecurity professionals, ENISA’s mandate should be further reinforced. In the interest of legal certainty, Regulation (EU) 2019/881 should be replaced. _________<br>1. Regulation (EC) No 460/2004 of the European Parliament and of the Council of 10 March 2004 establishing the European Network and Information Security Agency (OJ L 77, 13.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/460/oj). | (7) Regulation (EC) No 460/2004 of the European Parliament and of the Council1 established ENISA with the aim of contributing to ensuring a high and effective level of network and information security within the Union, and developing a culture of network and information security for the benefit of citizens, consumers, enterprises and public administrations. ENISA’s mandate was extended three times before Regulation (EU) 2019/881 granted it a permanent mandate. In order to better address the needs created by the evolving threat and technological landscapes, in particular with regards to operational cooperation and the increased need for cybersecurity professionals, ENISA’s mandate should be further reinforced. In the interest of legal certainty, Regulation (EU) 2019/881 should be replaced. _________<br>1. Regulation (EC) No 460/2004 of the European Parliament and of the Council of 10 March 2004 establishing the European Network and Information Security Agency (OJ L 77, 13.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/460/oj). |
 
 <a id="rec-8"></a>
 ### Recital 8
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (8) In an evolving threat landscape where cybersecurity incidents become increasingly more significant, delivering trust for individuals, public authorities and businesses in their daily use of technologies is even more important than ever. An increase in trust can be facilitated by a reinforced Union-wide certification of the ECCF providing for common cybersecurity requirements and evaluation criteria across national markets and sectors. The new framework should lay down the main horizontal requirements for European cybersecurity certification schemes and allow for European cybersecurity certificates and EU statements of conformity to be recognised and used in all Member States. In doing so, it should establish a procedure and governance framework that allows for the timely and predictable development and maintenance of European cybersecurity certification schemes. The European cybersecurity certification schemes should be applied uniformly in all Member States to ensure a harmonised implementation of cybersecurity requirements, level the playing field and prevent ‘certification shopping’ based on different levels of stringency in different Member States. ENISA should have a key role in providing for the development of the schemes through technical specifications and ensuring that such schemes remain technically up to date. Furthermore, to meet the market | (8) In an evolving threat landscape where cybersecurity incidents become increasingly more significant, delivering trust for individuals, public authorities and businesses in their daily use of technologies is even more important than ever. An increase in trust can be facilitated by a reinforced Union-wide certification of the ECCF providing for common cybersecurity requirements and evaluation criteria across national markets and sectors. The new framework should lay down the main horizontal requirements for European cybersecurity certification schemes and allow for European cybersecurity certificates and EU statements of conformity to be recognised and used in all Member States. In doing so, it should establish a procedure and governance framework that allows for the timely and predictable development **in fast innovation cycles, particularly in software and AI-driven environments,** and maintenance of European cybersecurity certification schemes. The European cybersecurity certification schemes should be applied uniformly in all Member States to ensure a harmonised implementation of cybersecurity requirements, level the playing field and prevent ‘certification shopping’ based on different levels of stringency in different Member States. ENISA should have a key role in providing for the development of the schemes through technical specifications and ensuring that |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 9/243 needs effectively, the framework should provide for the possibility for certification of cybersecurity risk management measures addressed to entities and facilitate compliance with other applicable Union legislation in the field of cybersecurity. Alignment with existing Union law, such as Regulation (EU) 2024/2847 and Directive (EU) 2022/2555, is essential for European cybersecurity certification schemes to contribute to reducing compliance burden on businesses, increase their attractiveness and strengthen the cyber resilience of the Union. | such schemes remain technically up to date. Furthermore, to meet the market needs effectively, the framework should provide for the possibility for certification of cybersecurity risk management measures addressed to entities and facilitate compliance with other applicable Union legislation in the field of cybersecurity. Alignment with existing Union law, such as Regulation (EU) 2024/2847 and Directive (EU) 2022/2555, is essential for European cybersecurity certification schemes to contribute to reducing compliance burden on businesses, increase their attractiveness and strengthen the cyber resilience of the Union. |
+| (8) In an evolving threat landscape where cybersecurity incidents become increasingly more significant, delivering trust for individuals, public authorities and businesses in their daily use of technologies is even more important than ever. An increase in trust can be facilitated by a reinforced Union-wide certification of the ECCF providing for common cybersecurity requirements and evaluation criteria across national markets and sectors. The new framework should lay down the main horizontal requirements for European cybersecurity certification schemes and allow for European cybersecurity certificates and EU statements of conformity to be recognised and used in all Member States. In doing so, it should establish a procedure and governance framework that allows for the timely and predictable development and maintenance of European cybersecurity certification schemes. The European cybersecurity certification schemes should be applied uniformly in all Member States to ensure a harmonised implementation of cybersecurity requirements, level the playing field and prevent ‘certification shopping’ based on different levels of stringency in different Member States. ENISA should have a key role in providing for the development of the schemes through technical specifications and ensuring that such schemes remain technically up to date. Furthermore, to meet the market needs effectively, the framework should provide for the possibility for certification of cybersecurity risk management measures addressed to entities and facilitate compliance with other applicable Union legislation in the field of cybersecurity. Alignment with existing Union law, such as Regulation (EU) 2024/2847 and Directive (EU) 2022/2555, is essential for European cybersecurity certification schemes to contribute to reducing compliance burden on businesses, increase their attractiveness and strengthen the cyber resilience of the Union. | (8) In an evolving threat landscape where cybersecurity incidents become increasingly more significant, delivering trust for individuals, public authorities and businesses in their daily use of technologies is even more important than ever. An increase in trust can be facilitated by a reinforced Union-wide certification of the ECCF providing for common cybersecurity requirements and evaluation criteria across national markets and sectors. The new framework should lay down the main horizontal requirements for European cybersecurity certification schemes and allow for European cybersecurity certificates and EU statements of conformity to be recognised and used in all Member States. In doing so, it should establish a procedure and governance framework that allows for the timely and predictable development **in fast innovation cycles, particularly in software and AI-driven environments,** and maintenance of European cybersecurity certification schemes. The European cybersecurity certification schemes should be applied uniformly in all Member States to ensure a harmonised implementation of cybersecurity requirements, level the playing field and prevent ‘certification shopping’ based on different levels of stringency in different Member States. ENISA should have a key role in providing for the development of the schemes through technical specifications and ensuring that such schemes remain technically up to date. Furthermore, to meet the market needs effectively, the framework should provide for the possibility for certification of cybersecurity risk management measures addressed to entities and facilitate compliance with other applicable Union legislation in the field of cybersecurity. Alignment with existing Union law, such as Regulation (EU) 2024/2847 and Directive (EU) 2022/2555, is essential for European cybersecurity certification schemes to contribute to reducing compliance burden on businesses, increase their attractiveness and strengthen the cyber resilience of the Union. |
 
 <a id="rec-9"></a>
 ### Recital 9
@@ -263,13 +209,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (10) Regulation (EU, Euratom) 2023/2841 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union and provides for the mandate of CERT-EU, establishing it as the | (10) Regulation (EU, Euratom) 2023/2841 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union and provides for the mandate of CERT-EU, establishing it as the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 10/243 Cybersecurity Service for Union institutions, bodies, offices and agencies to contribute to the security of the unclassified ICT environment of Union entities by advising them on cybersecurity, supporting them to prevent, detect, handle, mitigate, respond to and recover from incidents and acting as their cybersecurity information exchange and incident response coordination hub. Furthermore, CERT-EU is tasked with offering relevant cybersecurity services to Union entities. As part of its mission, ENISA should support also Union entities. In particular, it should do so by engaging through structured cooperation with CERT-EU on capacity building, operational cooperation and long-term strategic analyses of cyber threats. When relevant, ENISA may leverage the structured cooperation with CERT-EU for ENISA cybersecurity services or support that can be of added value to Union entities, in a coordinated manner to ensure synergies of efforts of CERT-EU. | Cybersecurity Service for Union institutions, bodies, offices and agencies to contribute to the security of the unclassified ICT environment of Union entities by advising them on cybersecurity, supporting them to prevent, detect, handle, mitigate, respond to and recover from incidents and acting as their cybersecurity information exchange and incident response coordination hub. Furthermore, CERT-EU is tasked with offering relevant cybersecurity services to Union entities. As part of its mission, ENISA should support also Union entities. In particular, it should do so by engaging through structured cooperation with CERT-EU on capacity building, operational cooperation and long-term strategic analyses of cyber threats. When relevant, ENISA may leverage the structured cooperation with CERT-EU for ENISA cybersecurity services or support that can be of added value to Union entities, in a coordinated manner to ensure synergies of efforts of CERT-EU. |
+| (10) Regulation (EU, Euratom) 2023/2841 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union and provides for the mandate of CERT-EU, establishing it as the Cybersecurity Service for Union institutions, bodies, offices and agencies to contribute to the security of the unclassified ICT environment of Union entities by advising them on cybersecurity, supporting them to prevent, detect, handle, mitigate, respond to and recover from incidents and acting as their cybersecurity information exchange and incident response coordination hub. Furthermore, CERT-EU is tasked with offering relevant cybersecurity services to Union entities. As part of its mission, ENISA should support also Union entities. In particular, it should do so by engaging through structured cooperation with CERT-EU on capacity building, operational cooperation and long-term strategic analyses of cyber threats. When relevant, ENISA may leverage the structured cooperation with CERT-EU for ENISA cybersecurity services or support that can be of added value to Union entities, in a coordinated manner to ensure synergies of efforts of CERT-EU. | (10) Regulation (EU, Euratom) 2023/2841 laying down measures for a high common level of cybersecurity at the institutions, bodies, offices and agencies of the Union and provides for the mandate of CERT-EU, establishing it as the Cybersecurity Service for Union institutions, bodies, offices and agencies to contribute to the security of the unclassified ICT environment of Union entities by advising them on cybersecurity, supporting them to prevent, detect, handle, mitigate, respond to and recover from incidents and acting as their cybersecurity information exchange and incident response coordination hub. Furthermore, CERT-EU is tasked with offering relevant cybersecurity services to Union entities. As part of its mission, ENISA should support also Union entities. In particular, it should do so by engaging through structured cooperation with CERT-EU on capacity building, operational cooperation and long-term strategic analyses of cyber threats. When relevant, ENISA may leverage the structured cooperation with CERT-EU for ENISA cybersecurity services or support that can be of added value to Union entities, in a coordinated manner to ensure synergies of efforts of CERT-EU. |
 
 <a id="rec-11"></a>
 ### Recital 11
@@ -283,33 +223,21 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (12) With a view to stimulating cooperation between the public and private sectors and within the private sector, in particular to support the protection of | (12) With a view to stimulating cooperation between the public and private sectors and within the private sector, in particular to support the protection of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 11/243 critical infrastructure, ENISA should support information sharing within and among sectors, in particular the sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555, and information regarding products with digital elements falling within the scope of Regulation (EU) 2024/2847. Such support may take the form of providing best practices and guidance on available tools and procedures, as well as providing guidance on how to address regulatory issues related to information sharing, for example through facilitating the establishment of sectoral Information Sharing and Analysis Centres (ISACs). | critical infrastructure, ENISA should support information sharing within and among sectors, in particular the sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555, and information regarding products with digital elements falling within the scope of Regulation (EU) 2024/2847. Such support may take the form of providing best practices and guidance on available tools and procedures, as well as providing guidance on how to address regulatory issues related to information sharing, for example through facilitating the establishment of sectoral Information Sharing and Analysis Centres (ISACs). |
+| (12) With a view to stimulating cooperation between the public and private sectors and within the private sector, in particular to support the protection of critical infrastructure, ENISA should support information sharing within and among sectors, in particular the sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555, and information regarding products with digital elements falling within the scope of Regulation (EU) 2024/2847. Such support may take the form of providing best practices and guidance on available tools and procedures, as well as providing guidance on how to address regulatory issues related to information sharing, for example through facilitating the establishment of sectoral Information Sharing and Analysis Centres (ISACs). | (12) With a view to stimulating cooperation between the public and private sectors and within the private sector, in particular to support the protection of critical infrastructure, ENISA should support information sharing within and among sectors, in particular the sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555, and information regarding products with digital elements falling within the scope of Regulation (EU) 2024/2847. Such support may take the form of providing best practices and guidance on available tools and procedures, as well as providing guidance on how to address regulatory issues related to information sharing, for example through facilitating the establishment of sectoral Information Sharing and Analysis Centres (ISACs). |
 
 <a id="rec-13"></a>
 ### Recital 13
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (13) In view of supporting and facilitating the strategic cooperation and the exchange of information, ENISA should contribute to the work of the Cooperation Group established by Directive (EU) 2022/2555 (‘NIS Cooperation Group’), in particular by providing expertise, advice and by facilitating the exchange of best practices, among others, in relation to crossborder dependencies, regarding risks and incidents. ENISA should also contribute to the work of the European Digital Identity Cooperation Group established by Regulation (EU) No 910/2014 of the European Parliament and of the Council1, the European Cybersecurity Certification Group, and the administrative cooperation group (ADCO) established by Regulation (EU) 2024/2847. _________<br>1. Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj). | (13) In view of supporting and facilitating the strategic cooperation and the exchange of information, ENISA should contribute to the work of the Cooperation Group established by Directive (EU) 2022/2555 (‘NIS Cooperation Group’), in particular by providing expertise, advice and by facilitating the exchange of best practices, among others, in relation to crossborder dependencies, regarding risks and incidents. ENISA should also contribute to the work of the European Digital Identity Cooperation Group established by Regulation (EU) No 910/2014 of the European Parliament and of the Council1, the European Cybersecurity Certification Group, and the administrative cooperation group (ADCO) established by Regulation (EU) 2024/2847. _________<br>1. Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj). |
+| (13) In view of supporting and facilitating the strategic cooperation and the exchange of information, ENISA should contribute to the work of the Cooperation Group established by Directive (EU) 2022/2555 (‘NIS Cooperation Group’), in particular by providing expertise, advice and by facilitating the exchange of best practices, among others, in relation to cross-border dependencies, regarding risks and incidents. ENISA should also contribute to the work of the European Digital Identity Cooperation Group established by Regulation (EU) No 910/2014 of the European Parliament and of the Council1, the European Cybersecurity Certification Group, and the administrative cooperation group (ADCO) established by Regulation (EU) 2024/2847. _________<br>1. Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj). | (13) In view of supporting and facilitating the strategic cooperation and the exchange of information, ENISA should contribute to the work of the Cooperation Group established by Directive (EU) 2022/2555 (‘NIS Cooperation Group’), in particular by providing expertise, advice and by facilitating the exchange of best practices, among others, in relation to cross-border dependencies, regarding risks and incidents. ENISA should also contribute to the work of the European Digital Identity Cooperation Group established by Regulation (EU) No 910/2014 of the European Parliament and of the Council1, the European Cybersecurity Certification Group, and the administrative cooperation group (ADCO) established by Regulation (EU) 2024/2847. _________<br>1. Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj). |
 
 <a id="rec-14"></a>
 ### Recital 14
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (14) The public core of the open internet, namely its main protocols and infrastructure, which are a global public good, provides the essential functionality of the internet as a whole and underpins its normal operation. Within its | (14) The public core of the open internet, namely its main protocols and infrastructure, which are a global public good, provides the essential functionality of the internet as a whole and underpins its normal operation. Within its |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 12/243 mandate, ENISA should support the security and resilience of the public core of the open internet and the stability of its functioning, including, but not limited to, the secure deployment and operation of key protocols (in particular Domain Name System, Border Gateway Protocol, and Internet Protocol version 6) and the operation of the domain name system (such as the operation of all top-level domains), by promoting best practices, guidance, and cooperation, in accordance with established global, multistakeholder Internet governance arrangements and the respective roles and responsibilities of relevant international technical and operational bodies. | mandate, ENISA should support the security and resilience of the public core of the open internet and the stability of its functioning, including, but not limited to, the secure deployment and operation of key protocols (in particular Domain Name System, Border Gateway Protocol, and Internet Protocol version 6) and the operation of the domain name system (such as the operation of all top-level domains), by promoting best practices, guidance, and cooperation, in accordance with established global, multistakeholder Internet governance arrangements and the respective roles and responsibilities of relevant international technical and operational bodies. |
+| (14) The public core of the open internet, namely its main protocols and infrastructure, which are a global public good, provides the essential functionality of the internet as a whole and underpins its normal operation. Within its mandate, ENISA should support the security and resilience of the public core of the open internet and the stability of its functioning, including, but not limited to, the secure deployment and operation of key protocols (in particular Domain Name System, Border Gateway Protocol, and Internet Protocol version 6) and the operation of the domain name system (such as the operation of all top-level domains), by promoting best practices, guidance, and cooperation, in accordance with established global, multistakeholder Internet governance arrangements and the respective roles and responsibilities of relevant international technical and operational bodies. | (14) The public core of the open internet, namely its main protocols and infrastructure, which are a global public good, provides the essential functionality of the internet as a whole and underpins its normal operation. Within its mandate, ENISA should support the security and resilience of the public core of the open internet and the stability of its functioning, including, but not limited to, the secure deployment and operation of key protocols (in particular Domain Name System, Border Gateway Protocol, and Internet Protocol version 6) and the operation of the domain name system (such as the operation of all top-level domains), by promoting best practices, guidance, and cooperation, in accordance with established global, multistakeholder Internet governance arrangements and the respective roles and responsibilities of relevant international technical and operational bodies. |
 
 <a id="rec-15"></a>
 ### Recital 15
@@ -330,13 +258,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (17) ENISA has supported and should continue supporting Member States in developing and implementing guidelines for their national cybersecurity | (17) ENISA has supported and should continue supporting Member States in developing and implementing guidelines for their national cybersecurity |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 13/243 strategies contributing to the adoption and implementation of cybersecurity strategies by all Member States ENISA should promote the dissemination of such strategies through the National Cybersecurity Strategies (NCSS) Interactive Map and should further follow the progress of their implementation, including by providing support in the development of key performance indicators in this context. | strategies contributing to the adoption and implementation of cybersecurity strategies by all Member States ENISA should promote the dissemination of such strategies through the National Cybersecurity Strategies (NCSS) Interactive Map and should further follow the progress of their implementation, including by providing support in the development of key performance indicators in this context. |
+| (17) ENISA has supported and should continue supporting Member States in developing and implementing guidelines for their national cybersecurity strategies contributing to the adoption and implementation of cybersecurity strategies by all Member States ENISA should promote the dissemination of such strategies through the National Cybersecurity Strategies (NCSS) Interactive Map and should further follow the progress of their implementation, including by providing support in the development of key performance indicators in this context. | (17) ENISA has supported and should continue supporting Member States in developing and implementing guidelines for their national cybersecurity strategies contributing to the adoption and implementation of cybersecurity strategies by all Member States ENISA should promote the dissemination of such strategies through the National Cybersecurity Strategies (NCSS) Interactive Map and should further follow the progress of their implementation, including by providing support in the development of key performance indicators in this context. |
 
 <a id="rec-18"></a>
 ### Recital 18
@@ -350,33 +272,21 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (19) Based on ENISA’s expertise and to complement the capabilities of national and Union public authorities, ENISA should deliver training using the European Cybersecurity Skills Framework (ECSF) as a basis, in particular to support effective policy implementation, operational cooperation, and awarenessraising. | (19) Based on ENISA’s expertise and to complement the capabilities of national and Union public authorities, ENISA should deliver training using the European Cybersecurity Skills Framework (ECSF) as a basis, in particular to support effective policy implementation, operational cooperation, and awarenessraising. |
+| (19) Based on ENISA’s expertise and to complement the capabilities of national and Union public authorities, ENISA should deliver training using the European Cybersecurity Skills Framework (ECSF) as a basis, in particular to support effective policy implementation, operational cooperation, and awareness-raising. | (19) Based on ENISA’s expertise and to complement the capabilities of national and Union public authorities, ENISA should deliver training using the European Cybersecurity Skills Framework (ECSF) as a basis, in particular to support effective policy implementation, operational cooperation, and awareness-raising. |
 
 <a id="rec-20"></a>
 ### Recital 20
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (20) To ensure synergies with the European Cybersecurity Industrial, Technology and Research Competence Centre (ECCC) and the Network of National Coordination Centres established pursuant to Regulation (EU) 2021/887 of the European Parliament and of the Council1, ENISA should support them by sharing information about current and emerging risks and cyber | (20) To ensure synergies with the European Cybersecurity Industrial, Technology and Research Competence Centre (ECCC) and the Network of National Coordination Centres established pursuant to Regulation (EU) 2021/887 of the European Parliament and of the Council1, ENISA should support them by sharing information about current and emerging risks and cyber |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 14/243 threats, including risks and threats regarding information and communications technologies. _________<br>1. Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/887/oj). | threats, including risks and threats regarding information and communications technologies. _________<br>1. Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/887/oj). |
+| (20) To ensure synergies with the European Cybersecurity Industrial, Technology and Research Competence Centre (ECCC) and the Network of National Coordination Centres established pursuant to Regulation (EU) 2021/887 of the European Parliament and of the Council1, ENISA should support them by sharing information about current and emerging risks and cyber threats, including risks and threats regarding information and communications technologies. _________<br>1. Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/887/oj). | (20) To ensure synergies with the European Cybersecurity Industrial, Technology and Research Competence Centre (ECCC) and the Network of National Coordination Centres established pursuant to Regulation (EU) 2021/887 of the European Parliament and of the Council1, ENISA should support them by sharing information about current and emerging risks and cyber threats, including risks and threats regarding information and communications technologies. _________<br>1. Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/887/oj). |
 
 <a id="rec-21"></a>
 ### Recital 21
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (21) The Preparedness Strategy highlights that digital literacy, which relies on acquiring basic digital skills, is essential to empower more resilient citizens in the face of potential crises. However, as highlighted in the Commission Communication on the Union of Skills1, almost half the adult population does not have basic digital skills despite more than 90% of jobs requiring them. In order to ensure that the current and potential future workforce have the required skills in a rapidly evolving digital environment, and to contribute to the development of the European cybersecurity talent pipeline, ENISA should support cybersecurity awareness-raising activities that aim to attract talent and help informing about the education and skills needed in the area of cybersecurity, such as the European Cybersecurity Challenge. In this regard, ENISA should coordinate cybersecurity competitions, capture-the-flag events and similar practical exercises, as a means of developing cybersecurity skills and fostering capacity building across the Union. When carrying out awareness-raising activities, ENISA should ensure that these address the needs of national public authorities and Union entities, as well as the needs of businesses, in particular SMEs, and education and training institutions, by maintaining practical frameworks and trainings such as awareness-raising-in-a-box. ENISA should further develop practical and actionable guidance to support the implementation of Union cybersecurity policy and legislation. ENISA should also strive to provide relevant information on applicable certification schemes, for example by providing guidelines and recommendations. | (21) The Preparedness Strategy highlights that digital literacy, which relies on acquiring basic digital skills, is essential to empower more resilient citizens in the face of potential crises. However, as highlighted in the Commission Communication on the Union of Skills1, almost half the adult population does not have basic digital skills despite more than 90% of jobs requiring them. In order to ensure that the current and potential future workforce have the required skills in a rapidly evolving digital environment, and to contribute to the development of the European cybersecurity talent pipeline, ENISA should support cybersecurity awareness-raising activities that aim to attract talent and help informing about the education and skills needed in the area of cybersecurity, such as the European Cybersecurity Challenge. In this regard, ENISA should coordinate cybersecurity competitions, capture-the-flag events and similar practical exercises, as a means of developing cybersecurity skills and fostering capacity building across the Union. When carrying out awareness-raising activities, ENISA should ensure that these address the needs of national public authorities and Union entities, as well as the needs of businesses, in particular SMEs, and education and training institutions, by maintaining practical frameworks and trainings such as awareness-raising-in-a-box. ENISA should further develop practical and actionable guidance to support the implementation of Union cybersecurity policy and legislation. ENISA should also strive to provide relevant information on applicable certification schemes, for example by providing guidelines and recommendations. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 15/243 _________<br>1. Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions, The Union of Skills, COM(2025) 90 final, 5 March 2025. | _________<br>1. Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions, The Union of Skills, COM(2025) 90 final, 5 March 2025. |
+| (21) The Preparedness Strategy highlights that digital literacy, which relies on acquiring basic digital skills, is essential to empower more resilient citizens in the face of potential crises. However, as highlighted in the Commission Communication on the Union of Skills1, almost half the adult population does not have basic digital skills despite more than 90% of jobs requiring them. In order to ensure that the current and potential future workforce have the required skills in a rapidly evolving digital environment, and to contribute to the development of the European cybersecurity talent pipeline, ENISA should support cybersecurity awareness-raising activities that aim to attract talent and help informing about the education and skills needed in the area of cybersecurity, such as the European Cybersecurity Challenge. In this regard, ENISA should coordinate cybersecurity competitions, capture-the-flag events and similar practical exercises, as a means of developing cybersecurity skills and fostering capacity building across the Union. When carrying out awareness-raising activities, ENISA should ensure that these address the needs of national public authorities and Union entities, as well as the needs of businesses, in particular SMEs, and education and training institutions, by maintaining practical frameworks and trainings such as awareness-raising-in-a-box. ENISA should further develop practical and actionable guidance to support the implementation of Union cybersecurity policy and legislation. ENISA should also strive to provide relevant information on applicable certification schemes, for example by providing guidelines and recommendations. _________<br>1. Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions, The Union of Skills, COM(2025) 90 final, 5 March 2025. | (21) The Preparedness Strategy highlights that digital literacy, which relies on acquiring basic digital skills, is essential to empower more resilient citizens in the face of potential crises. However, as highlighted in the Commission Communication on the Union of Skills1, almost half the adult population does not have basic digital skills despite more than 90% of jobs requiring them. In order to ensure that the current and potential future workforce have the required skills in a rapidly evolving digital environment, and to contribute to the development of the European cybersecurity talent pipeline, ENISA should support cybersecurity awareness-raising activities that aim to attract talent and help informing about the education and skills needed in the area of cybersecurity, such as the European Cybersecurity Challenge. In this regard, ENISA should coordinate cybersecurity competitions, capture-the-flag events and similar practical exercises, as a means of developing cybersecurity skills and fostering capacity building across the Union. When carrying out awareness-raising activities, ENISA should ensure that these address the needs of national public authorities and Union entities, as well as the needs of businesses, in particular SMEs, and education and training institutions, by maintaining practical frameworks and trainings such as awareness-raising-in-a-box. ENISA should further develop practical and actionable guidance to support the implementation of Union cybersecurity policy and legislation. ENISA should also strive to provide relevant information on applicable certification schemes, for example by providing guidelines and recommendations. _________<br>1. Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions, The Union of Skills, COM(2025) 90 final, 5 March 2025. |
 
 <a id="rec-22"></a>
 ### Recital 22
@@ -397,13 +307,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (24) To help achieve a high level of cybersecurity in the Union, ENISA should support operational cooperation among Member States, in cooperation with CERT-EU, among Union entities, and between stakeholders. To that end, ENISA’s role should be strengthened. ENISA should become a member of the CSIRTs network, contributing to the network information exchange and | (24) To help achieve a high level of cybersecurity in the Union, ENISA should support operational cooperation among Member States, in cooperation with CERT-EU, among Union entities, and between stakeholders. To that end, ENISA’s role should be strengthened. ENISA should become a member of the CSIRTs network, contributing to the network information exchange and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 16/243 analysis. ENISA should further promote and support cooperation between the relevant CSIRTs in the event of incidents, attacks or disruptions of networks or infrastructure managed or protected by the CSIRTs. ENISA’s active support for the work of the CSIRTs network and the European cyber crisis liaison organisation network (EU-CyCLONe) should enable those networks to continue strengthening their maturity level. ENISA’s role in supporting such cooperation includes combating threats to the security and integrity of democratic institutions, elections and other processes, and the critical infrastructure on which they depend, in line with the European Democracy Shield: Empowering Strong and Resilient Democracies1. _________<br>1. JOIN(2025) 791 final. | analysis. ENISA should further promote and support cooperation between the relevant CSIRTs in the event of incidents, attacks or disruptions of networks or infrastructure managed or protected by the CSIRTs. ENISA’s active support for the work of the CSIRTs network and the European cyber crisis liaison organisation network (EU-CyCLONe) should enable those networks to continue strengthening their maturity level. ENISA’s role in supporting such cooperation includes combating threats to the security and integrity of democratic institutions, elections and other processes, and the critical infrastructure on which they depend, in line with the European Democracy Shield: Empowering Strong and Resilient Democracies1. _________<br>1. JOIN(2025) 791 final. |
+| (24) To help achieve a high level of cybersecurity in the Union, ENISA should support operational cooperation among Member States, in cooperation with CERT-EU, among Union entities, and between stakeholders. To that end, ENISA’s role should be strengthened. ENISA should become a member of the CSIRTs network, contributing to the network information exchange and analysis. ENISA should further promote and support cooperation between the relevant CSIRTs in the event of incidents, attacks or disruptions of networks or infrastructure managed or protected by the CSIRTs. ENISA’s active support for the work of the CSIRTs network and the European cyber crisis liaison organisation network (EU-CyCLONe) should enable those networks to continue strengthening their maturity level. ENISA’s role in supporting such cooperation includes combating threats to the security and integrity of democratic institutions, elections and other processes, and the critical infrastructure on which they depend, in line with the European Democracy Shield: Empowering Strong and Resilient Democracies1. _________<br>1. JOIN(2025) 791 final. | (24) To help achieve a high level of cybersecurity in the Union, ENISA should support operational cooperation among Member States, in cooperation with CERT-EU, among Union entities, and between stakeholders. To that end, ENISA’s role should be strengthened. ENISA should become a member of the CSIRTs network, contributing to the network information exchange and analysis. ENISA should further promote and support cooperation between the relevant CSIRTs in the event of incidents, attacks or disruptions of networks or infrastructure managed or protected by the CSIRTs. ENISA’s active support for the work of the CSIRTs network and the European cyber crisis liaison organisation network (EU-CyCLONe) should enable those networks to continue strengthening their maturity level. ENISA’s role in supporting such cooperation includes combating threats to the security and integrity of democratic institutions, elections and other processes, and the critical infrastructure on which they depend, in line with the European Democracy Shield: Empowering Strong and Resilient Democracies1. _________<br>1. JOIN(2025) 791 final. |
 
 <a id="rec-25"></a>
 ### Recital 25
@@ -424,13 +328,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 17/243<br>(27) To reduce exposure to foreign interference, supply-chain manipulation, and strategic data exfiltration, ENISA should use within the CSIRTs network and EU-CyCLONe secure communications tools. Building on the Recommendation on the Cyber Blueprint, such tools should be provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. | (27) To reduce exposure to foreign interference, supply-chain manipulation, and strategic data exfiltration, ENISA should use within the CSIRTs network and EU-CyCLONe secure communications tools. Building on the Recommendation on the Cyber Blueprint, such tools should be provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. |
+| (27) To reduce exposure to foreign interference, supply-chain manipulation, and strategic data exfiltration, ENISA should use within the CSIRTs network and EU-CyCLONe secure communications tools. Building on the Recommendation on the Cyber Blueprint, such tools should be provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. | (27) To reduce exposure to foreign interference, supply-chain manipulation, and strategic data exfiltration, ENISA should use within the CSIRTs network and EU-CyCLONe secure communications tools. Building on the Recommendation on the Cyber Blueprint, such tools should be provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. |
 
 <a id="rec-28"></a>
 ### Recital 28
@@ -451,13 +349,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (30) In order to contribute to a timely and coordinated response, ENISA should be able to issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature to the CSIRT or CSIRTs concerned, and, where appropriate, to the CSIRTs network and EU- | (30) In order to contribute to a timely and coordinated response, ENISA should be able to issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature to the CSIRT or CSIRTs concerned, and, where appropriate, to the CSIRTs network and EU- |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 18/243 CyCLONe, in particular in relation to entities listed in Annexes I and II to Directive (EU) 2022/2555. Information in such early alerts may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) 2024/2847, as well as techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information and recommendations on mitigation measures. | CyCLONe, in particular in relation to entities listed in Annexes I and II to Directive (EU) 2022/2555. Information in such early alerts may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) 2024/2847, as well as techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information and recommendations on mitigation measures. |
+| (30) In order to contribute to a timely and coordinated response, ENISA should be able to issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature to the CSIRT or CSIRTs concerned, and, where appropriate, to the CSIRTs network and EU-CyCLONe, in particular in relation to entities listed in Annexes I and II to Directive (EU) 2022/2555. Information in such early alerts may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) 2024/2847, as well as techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information and recommendations on mitigation measures. | (30) In order to contribute to a timely and coordinated response, ENISA should be able to issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature to the CSIRT or CSIRTs concerned, and, where appropriate, to the CSIRTs network and EU-CyCLONe, in particular in relation to entities listed in Annexes I and II to Directive (EU) 2022/2555. Information in such early alerts may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) 2024/2847, as well as techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information and recommendations on mitigation measures. |
 
 <a id="rec-31"></a>
 ### Recital 31
@@ -478,13 +370,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (33) To support Union shared cybersecurity situational awareness, ENISA, in close cooperation with the Member States, should prepare a regular in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, based on publicly available information, its own analysis and reports shared with it by Member States’ CSIRTs or the national single points of contact on the security of | (33) To support Union shared cybersecurity situational awareness, ENISA, in close cooperation with the Member States, should prepare a regular in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, based on publicly available information, its own analysis and reports shared with it by Member States’ CSIRTs or the national single points of contact on the security of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 19/243 network and information systems (‘single points of contact’) provided for in Directive (EU) 2022/2555, both on a voluntary basis, Europol and CERT-EU. That report should be made available to the Council, the European External Action Service, EU-CyCLONe, the CSIRTs network, the Commission and Europol. | network and information systems (‘single points of contact’) provided for in Directive (EU) 2022/2555, both on a voluntary basis, Europol and CERT-EU. That report should be made available to the Council, the European External Action Service, EU-CyCLONe, the CSIRTs network, the Commission and Europol. |
+| (33) To support Union shared cybersecurity situational awareness, ENISA, in close cooperation with the Member States, should prepare a regular in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, based on publicly available information, its own analysis and reports shared with it by Member States’ CSIRTs or the national single points of contact on the security of network and information systems (‘single points of contact’) provided for in Directive (EU) 2022/2555, both on a voluntary basis, Europol and CERT-EU. That report should be made available to the Council, the European External Action Service, EU-CyCLONe, the CSIRTs network, the Commission and Europol. | (33) To support Union shared cybersecurity situational awareness, ENISA, in close cooperation with the Member States, should prepare a regular in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, based on publicly available information, its own analysis and reports shared with it by Member States’ CSIRTs or the national single points of contact on the security of network and information systems (‘single points of contact’) provided for in Directive (EU) 2022/2555, both on a voluntary basis, Europol and CERT-EU. That report should be made available to the Council, the European External Action Service, EU-CyCLONe, the CSIRTs network, the Commission and Europol. |
 
 <a id="rec-34"></a>
 ### Recital 34
@@ -505,13 +391,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 20/243<br>(36) ENISA’s strengthened role in fostering situational awareness, analysing threats and providing technical advice will contribute to enhance collective cybersecurity efforts concerning products with digital elements and support the implementation of Regulation (EU) 2024/2847. In accordance with Regulation<br>(EU) 2024/2847, ENISA may propose joint activities to market surveillance authorities for checking compliance of products with digital elements and identify categories of products with digital elements for which sweeps may be organised. Information stemming from cyber threat analysis and early alerts should strengthen the support that ENISA provides to those authorities and contribute to an effective enforcement of Regulation (EU) 2024/2847 to prevent supply chain effects of cyber attacks across the internal market and enhance the overall Union’s preparedness. | (36) ENISA’s strengthened role in fostering situational awareness, analysing threats and providing technical advice will contribute to enhance collective cybersecurity efforts concerning products with digital elements and support the implementation of Regulation (EU) 2024/2847. In accordance with Regulation<br>(EU) 2024/2847, ENISA may propose joint activities to market surveillance authorities for checking compliance of products with digital elements and identify categories of products with digital elements for which sweeps may be organised. Information stemming from cyber threat analysis and early alerts should strengthen the support that ENISA provides to those authorities and contribute to an effective enforcement of Regulation (EU) 2024/2847 to prevent supply chain effects of cyber attacks across the internal market and enhance the overall Union’s preparedness. |
+| (36) ENISA’s strengthened role in fostering situational awareness, analysing threats and providing technical advice will contribute to enhance collective cybersecurity efforts concerning products with digital elements and support the implementation of Regulation (EU) 2024/2847. In accordance with Regulation<br>(EU) 2024/2847, ENISA may propose joint activities to market surveillance authorities for checking compliance of products with digital elements and identify categories of products with digital elements for which sweeps may be organised. Information stemming from cyber threat analysis and early alerts should strengthen the support that ENISA provides to those authorities and contribute to an effective enforcement of Regulation (EU) 2024/2847 to prevent supply chain effects of cyber attacks across the internal market and enhance the overall Union’s preparedness. | (36) ENISA’s strengthened role in fostering situational awareness, analysing threats and providing technical advice will contribute to enhance collective cybersecurity efforts concerning products with digital elements and support the implementation of Regulation (EU) 2024/2847. In accordance with Regulation<br>(EU) 2024/2847, ENISA may propose joint activities to market surveillance authorities for checking compliance of products with digital elements and identify categories of products with digital elements for which sweeps may be organised. Information stemming from cyber threat analysis and early alerts should strengthen the support that ENISA provides to those authorities and contribute to an effective enforcement of Regulation (EU) 2024/2847 to prevent supply chain effects of cyber attacks across the internal market and enhance the overall Union’s preparedness. |
 
 <a id="rec-37"></a>
 ### Recital 37
@@ -525,13 +405,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (38) ENISA should provide technical expertise and support to the Commission in preparing an annual rolling programme of Union-level cybersecurity exercises | (38) ENISA should provide technical expertise and support to the Commission in preparing an annual rolling programme of Union-level cybersecurity exercises |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 21/243 in accordance with the Recommendation on the Cyber Blueprint to prepare for cyber crises, to test the level of cybersecurity of entities participating in such exercises, and to minimise duplication of effort. ENISA should, for example, advise on the appropriate types of exercise, such as tabletop, hybrid or full live, as well as objectives, scenarios and participation. | in accordance with the Recommendation on the Cyber Blueprint to prepare for cyber crises, to test the level of cybersecurity of entities participating in such exercises, and to minimise duplication of effort. ENISA should, for example, advise on the appropriate types of exercise, such as tabletop, hybrid or full live, as well as objectives, scenarios and participation. |
+| (38) ENISA should provide technical expertise and support to the Commission in preparing an annual rolling programme of Union-level cybersecurity exercises in accordance with the Recommendation on the Cyber Blueprint to prepare for cyber crises, to test the level of cybersecurity of entities participating in such exercises, and to minimise duplication of effort. ENISA should, for example, advise on the appropriate types of exercise, such as tabletop, hybrid or full live, as well as objectives, scenarios and participation. | (38) ENISA should provide technical expertise and support to the Commission in preparing an annual rolling programme of Union-level cybersecurity exercises in accordance with the Recommendation on the Cyber Blueprint to prepare for cyber crises, to test the level of cybersecurity of entities participating in such exercises, and to minimise duplication of effort. ENISA should, for example, advise on the appropriate types of exercise, such as tabletop, hybrid or full live, as well as objectives, scenarios and participation. |
 
 <a id="rec-39"></a>
 ### Recital 39
@@ -545,13 +419,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (40) The role of ENISA in the development of the ECCF should be a key aspect of its mandate. ENISA should provide its technical expertise throughout the lifecycle of European cybersecurity certification schemes. In view of a future scheme, ENISA should identify existing standards or technical specifications that can underlie such as a scheme and, where relevant, draft technical specifications itself that can be referenced in a scheme. ENISA should be in charge of preparing candidate scheme following a Commission request. For schemes already in place, ENISA should be responsible for their maintenance. In | (40) The role of ENISA in the development of the ECCF should be a key aspect of its mandate. ENISA should provide its technical expertise throughout the lifecycle of European cybersecurity certification schemes. In view of a future scheme, ENISA should identify existing standards or technical specifications that can underlie such as a scheme and, where relevant, draft technical specifications itself that can be referenced in a scheme. ENISA should be in charge of preparing candidate scheme following a Commission request. For schemes already in place, ENISA should be responsible for their maintenance. In |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 22/243 doing so, ENISA should contribute to building and developing a certification ecosystem where the feedback of Member States and private stakeholders is sought and their certification capacities are reinforced. This should also include operating a dedicated certification website where relevant information related to adopted schemes, including certificates and statements of conformity, is freely and publicly accessible. | doing so, ENISA should contribute to building and developing a certification ecosystem where the feedback of Member States and private stakeholders is sought and their certification capacities are reinforced. This should also include operating a dedicated certification website where relevant information related to adopted schemes, including certificates and statements of conformity, is freely and publicly accessible. |
+| (40) The role of ENISA in the development of the ECCF should be a key aspect of its mandate. ENISA should provide its technical expertise throughout the lifecycle of European cybersecurity certification schemes. In view of a future scheme, ENISA should identify existing standards or technical specifications that can underlie such as a scheme and, where relevant, draft technical specifications itself that can be referenced in a scheme. ENISA should be in charge of preparing candidate scheme following a Commission request. For schemes already in place, ENISA should be responsible for their maintenance. In doing so, ENISA should contribute to building and developing a certification ecosystem where the feedback of Member States and private stakeholders is sought and their certification capacities are reinforced. This should also include operating a dedicated certification website where relevant information related to adopted schemes, including certificates and statements of conformity, is freely and publicly accessible. | (40) The role of ENISA in the development of the ECCF should be a key aspect of its mandate. ENISA should provide its technical expertise throughout the lifecycle of European cybersecurity certification schemes. In view of a future scheme, ENISA should identify existing standards or technical specifications that can underlie such as a scheme and, where relevant, draft technical specifications itself that can be referenced in a scheme. ENISA should be in charge of preparing candidate scheme following a Commission request. For schemes already in place, ENISA should be responsible for their maintenance. In doing so, ENISA should contribute to building and developing a certification ecosystem where the feedback of Member States and private stakeholders is sought and their certification capacities are reinforced. This should also include operating a dedicated certification website where relevant information related to adopted schemes, including certificates and statements of conformity, is freely and publicly accessible. |
 
 <a id="rec-41"></a>
 ### Recital 41
@@ -565,13 +433,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (42) To support the implementation of Union policies and preparation of potential standardisation activities, ENISA should contribute to the development and evaluation of cryptographic algorithms, in particular in the area of postquantum cryptography. In that context, upon request by the Commission and subject to a contribution agreement as defined in Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council1, ENISA may establish a process to solicit and evaluate algorithms for cryptographic algorithms | (42) To support the implementation of Union policies and preparation of potential standardisation activities, ENISA should contribute to the development and evaluation of cryptographic algorithms, in particular in the area of postquantum cryptography. In that context, upon request by the Commission and subject to a contribution agreement as defined in Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council1, ENISA may establish a process to solicit and evaluate algorithms for cryptographic algorithms |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 23/243 by relevant stakeholders, in particular the cryptographic, academic and research communities, as well as manufacturers, CSIRTs, national cybersecurity certification authorities and competent authorities pursuant to Directive (EU) 2022/2555. Where ENISA contributes to establishing such processes, it should promote collaboration between the relevant stakeholders and implement the organisational aspects. The process should be formal, open, transparent and inclusive, including consultation of relevant stakeholders on draft minimum requirements and the evaluation process and evaluation criteria, notably for security and performance of evaluations. _________<br>1. Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.09.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj). | by relevant stakeholders, in particular the cryptographic, academic and research communities, as well as manufacturers, CSIRTs, national cybersecurity certification authorities and competent authorities pursuant to Directive (EU) 2022/2555. Where ENISA contributes to establishing such processes, it should promote collaboration between the relevant stakeholders and implement the organisational aspects. The process should be formal, open, transparent and inclusive, including consultation of relevant stakeholders on draft minimum requirements and the evaluation process and evaluation criteria, notably for security and performance of evaluations. _________<br>1. Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.09.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj). |
+| (42) To support the implementation of Union policies and preparation of potential standardisation activities, ENISA should contribute to the development and evaluation of cryptographic algorithms, in particular in the area of postquantum cryptography. In that context, upon request by the Commission and subject to a contribution agreement as defined in Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council1, ENISA may establish a process to solicit and evaluate algorithms for cryptographic algorithms by relevant stakeholders, in particular the cryptographic, academic and research communities, as well as manufacturers, CSIRTs, national cybersecurity certification authorities and competent authorities pursuant to Directive (EU) 2022/2555. Where ENISA contributes to establishing such processes, it should promote collaboration between the relevant stakeholders and implement the organisational aspects. The process should be formal, open, transparent and inclusive, including consultation of relevant stakeholders on draft minimum requirements and the evaluation process and evaluation criteria, notably for security and performance of evaluations. _________<br>1. Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.09.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj). | (42) To support the implementation of Union policies and preparation of potential standardisation activities, ENISA should contribute to the development and evaluation of cryptographic algorithms, in particular in the area of postquantum cryptography. In that context, upon request by the Commission and subject to a contribution agreement as defined in Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council1, ENISA may establish a process to solicit and evaluate algorithms for cryptographic algorithms by relevant stakeholders, in particular the cryptographic, academic and research communities, as well as manufacturers, CSIRTs, national cybersecurity certification authorities and competent authorities pursuant to Directive (EU) 2022/2555. Where ENISA contributes to establishing such processes, it should promote collaboration between the relevant stakeholders and implement the organisational aspects. The process should be formal, open, transparent and inclusive, including consultation of relevant stakeholders on draft minimum requirements and the evaluation process and evaluation criteria, notably for security and performance of evaluations. _________<br>1. Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.09.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj). |
 
 <a id="rec-43"></a>
 ### Recital 43
@@ -585,26 +447,14 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (44) To support Member States in their efforts to address the shortage of cybersecurity professionals and the growing need for a skilled, diverse, including | (44) To support Member States in their efforts to address the shortage of cybersecurity professionals and the growing need for a skilled, diverse, including |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 24/243 with regards to gender balance, and agile workforce, and to enable labour mobility and preparedness across Member States, ENISA should build on the principles and work initiated under the Cybersecurity Skills Academy. In particular, ENISA should establish the European Cybersecurity Skills Framework (‘ECSF’) as a common framework on cybersecurity professional role profiles. ENISA should further support Member States in addressing gender disparities in cybersecurity roles. This approach is consistent with the vision outlined in the Commission Communication on the Union of Skills and would contribute to its objectives. A quality label for European individual cybersecurity skills attestations should further be explored. | with regards to gender balance, and agile workforce, and to enable labour mobility and preparedness across Member States, ENISA should build on the principles and work initiated under the Cybersecurity Skills Academy. In particular, ENISA should establish the European Cybersecurity Skills Framework (‘ECSF’) as a common framework on cybersecurity professional role profiles. ENISA should further support Member States in addressing gender disparities in cybersecurity roles. This approach is consistent with the vision outlined in the Commission Communication on the Union of Skills and would contribute to its objectives. A quality label for European individual cybersecurity skills attestations should further be explored. |
+| (44) To support Member States in their efforts to address the shortage of cybersecurity professionals and the growing need for a skilled, diverse, including with regards to gender balance, and agile workforce, and to enable labour mobility and preparedness across Member States, ENISA should build on the principles and work initiated under the Cybersecurity Skills Academy. In particular, ENISA should establish the European Cybersecurity Skills Framework (‘ECSF’) as a common framework on cybersecurity professional role profiles. ENISA should further support Member States in addressing gender disparities in cybersecurity roles. This approach is consistent with the vision outlined in the Commission Communication on the Union of Skills and would contribute to its objectives. A quality label for European individual cybersecurity skills attestations should further be explored. | (44) To support Member States in their efforts to address the shortage of cybersecurity professionals and the growing need for a skilled, diverse, including with regards to gender balance, and agile workforce, and to enable labour mobility and preparedness across Member States, ENISA should build on the principles and work initiated under the Cybersecurity Skills Academy. In particular, ENISA should establish the European Cybersecurity Skills Framework (‘ECSF’) as a common framework on cybersecurity professional role profiles. ENISA should further support Member States in addressing gender disparities in cybersecurity roles. This approach is consistent with the vision outlined in the Commission Communication on the Union of Skills and would contribute to its objectives. A quality label for European individual cybersecurity skills attestations should further be explored. |
 
 <a id="rec-45"></a>
 ### Recital 45
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (45) The ECSF should be a practical and flexible tool to be used on a voluntary basis that provides a common understanding and terminology of the relevant roles and associated tasks, skills and knowledge mostly required in cybersecurity roles, with a view to supporting the identification of critical skill sets, including transversal skills, required for the workforce, and enabling learning providers, including companies, higher education institutions or vocational education and training providers, to design programmes, and help policymakers to develop initiatives to address skills gaps. Having the potential to be used as a reference framework for skills recognition, it should also be interoperable with the European classification of skills and occupations (ESCO) in order to support human resources departments to understand the requirements for resource planning, recruitment, and career development in support of cybersecurity needs. Whereas DigComp 3.0 describes knowledge, skills and attitudes that are needed to be digitally competent for daily life, participation in society, working and learning, and can be used by both adults and children, the ECSF offer a simple framework identifying cybersecurity roles and associated tasks, knowledge, skills needed to perform them. In this regard, it addresses a specialised audience in cybersecurity, ranging from actually or potential | (45) The ECSF should be a practical and flexible tool to be used on a voluntary basis that provides a common understanding and terminology of the relevant roles and associated tasks, skills and knowledge mostly required in cybersecurity roles, with a view to supporting the identification of critical skill sets, including transversal skills, required for the workforce, and enabling learning providers, including companies, higher education institutions or vocational education and training providers, to design programmes, and help policymakers to develop initiatives to address skills gaps. Having the potential to be used as a reference framework for skills recognition, it should also be interoperable with the European classification of skills and occupations (ESCO) in order to support human resources departments to understand the requirements for resource planning, recruitment, and career development in support of cybersecurity needs. Whereas DigComp 3.0 describes knowledge, skills and attitudes that are needed to be digitally competent for daily life, participation in society, working and learning, and can be used by both adults and children, the ECSF offer a simple framework identifying cybersecurity roles and associated tasks, knowledge, skills needed to perform them. In this regard, it addresses a specialised audience in cybersecurity, ranging from actually or potential |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 25/243 cybersecurity professionals, education institutions to employers. The ECSF should also support the development of European individual cybersecurity skills attestations by being the key instrument used to develop the schemes, allowing the emergence of new market players and supporting market competition within a common framework. The ECSF should be evaluated and updated on a regular basis to ensure that it adequately reflects the cybersecurity labour market’s needs, technological and policy developments. ENISA should support the uptake of the ECSF by and within Member States and Union entities, and provide adequate support where such assistance is required. | cybersecurity professionals, education institutions to employers. The ECSF should also support the development of European individual cybersecurity skills attestations by being the key instrument used to develop the schemes, allowing the emergence of new market players and supporting market competition within a common framework. The ECSF should be evaluated and updated on a regular basis to ensure that it adequately reflects the cybersecurity labour market’s needs, technological and policy developments. ENISA should support the uptake of the ECSF by and within Member States and Union entities, and provide adequate support where such assistance is required. |
+| (45) The ECSF should be a practical and flexible tool to be used on a voluntary basis that provides a common understanding and terminology of the relevant roles and associated tasks, skills and knowledge mostly required in cybersecurity roles, with a view to supporting the identification of critical skill sets, including transversal skills, required for the workforce, and enabling learning providers, including companies, higher education institutions or vocational education and training providers, to design programmes, and help policymakers to develop initiatives to address skills gaps. Having the potential to be used as a reference framework for skills recognition, it should also be interoperable with the European classification of skills and occupations (ESCO) in order to support human resources departments to understand the requirements for resource planning, recruitment, and career development in support of cybersecurity needs. Whereas DigComp 3.0 describes knowledge, skills and attitudes that are needed to be digitally competent for daily life, participation in society, working and learning, and can be used by both adults and children, the ECSF offer a simple framework identifying cybersecurity roles and associated tasks, knowledge, skills needed to perform them. In this regard, it addresses a specialised audience in cybersecurity, ranging from actually or potential cybersecurity professionals, education institutions to employers. The ECSF should also support the development of European individual cybersecurity skills attestations by being the key instrument used to develop the schemes, allowing the emergence of new market players and supporting market competition within a common framework. The ECSF should be evaluated and updated on a regular basis to ensure that it adequately reflects the cybersecurity labour market’s needs, technological and policy developments. ENISA should support the uptake of the ECSF by and within Member States and Union entities, and provide adequate support where such assistance is required. | (45) The ECSF should be a practical and flexible tool to be used on a voluntary basis that provides a common understanding and terminology of the relevant roles and associated tasks, skills and knowledge mostly required in cybersecurity roles, with a view to supporting the identification of critical skill sets, including transversal skills, required for the workforce, and enabling learning providers, including companies, higher education institutions or vocational education and training providers, to design programmes, and help policymakers to develop initiatives to address skills gaps. Having the potential to be used as a reference framework for skills recognition, it should also be interoperable with the European classification of skills and occupations (ESCO) in order to support human resources departments to understand the requirements for resource planning, recruitment, and career development in support of cybersecurity needs. Whereas DigComp 3.0 describes knowledge, skills and attitudes that are needed to be digitally competent for daily life, participation in society, working and learning, and can be used by both adults and children, the ECSF offer a simple framework identifying cybersecurity roles and associated tasks, knowledge, skills needed to perform them. In this regard, it addresses a specialised audience in cybersecurity, ranging from actually or potential cybersecurity professionals, education institutions to employers. The ECSF should also support the development of European individual cybersecurity skills attestations by being the key instrument used to develop the schemes, allowing the emergence of new market players and supporting market competition within a common framework. The ECSF should be evaluated and updated on a regular basis to ensure that it adequately reflects the cybersecurity labour market’s needs, technological and policy developments. ENISA should support the uptake of the ECSF by and within Member States and Union entities, and provide adequate support where such assistance is required. |
 
 <a id="rec-46"></a>
 ### Recital 46
@@ -618,13 +468,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (47) The development of European individual cybersecurity skills attestation | (47) The development of European individual cybersecurity skills attestation |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 26/243 schemes should aim to supplement Member States’ actions by offering the possibility to public authorities and economic actors to make use of a European attestation mechanism, in line with the supporting competence of the Union in the area of education and vocational training, as referred to in Article 6, point (e) and Articles 165(1) and 166(1) TFEU. The schemes, together with the work of the Cybersecurity Skills Academy, can also represent the basis for the higher education programmes, such as sectoral European degrees and for the development of micro-credentials. Therefore, the European individual cybersecurity attestation schemes should not aim to harmonise law and regulations in Member States, but rather be considered as an enabler and an opportunity which Member States and economic actors may wish to take up and promote. | schemes should aim to supplement Member States’ actions by offering the possibility to public authorities and economic actors to make use of a European attestation mechanism, in line with the supporting competence of the Union in the area of education and vocational training, as referred to in Article 6, point (e) and Articles 165(1) and 166(1) TFEU. The schemes, together with the work of the Cybersecurity Skills Academy, can also represent the basis for the higher education programmes, such as sectoral European degrees and for the development of micro-credentials. Therefore, the European individual cybersecurity attestation schemes should not aim to harmonise law and regulations in Member States, but rather be considered as an enabler and an opportunity which Member States and economic actors may wish to take up and promote. |
+| (47) The development of European individual cybersecurity skills attestation schemes should aim to supplement Member States’ actions by offering the possibility to public authorities and economic actors to make use of a European attestation mechanism, in line with the supporting competence of the Union in the area of education and vocational training, as referred to in Article 6, point (e) and Articles 165(1) and 166(1) TFEU. The schemes, together with the work of the Cybersecurity Skills Academy, can also represent the basis for the higher education programmes, such as sectoral European degrees and for the development of micro-credentials. Therefore, the European individual cybersecurity attestation schemes should not aim to harmonise law and regulations in Member States, but rather be considered as an enabler and an opportunity which Member States and economic actors may wish to take up and promote. | (47) The development of European individual cybersecurity skills attestation schemes should aim to supplement Member States’ actions by offering the possibility to public authorities and economic actors to make use of a European attestation mechanism, in line with the supporting competence of the Union in the area of education and vocational training, as referred to in Article 6, point (e) and Articles 165(1) and 166(1) TFEU. The schemes, together with the work of the Cybersecurity Skills Academy, can also represent the basis for the higher education programmes, such as sectoral European degrees and for the development of micro-credentials. Therefore, the European individual cybersecurity attestation schemes should not aim to harmonise law and regulations in Member States, but rather be considered as an enabler and an opportunity which Member States and economic actors may wish to take up and promote. |
 
 <a id="rec-48"></a>
 ### Recital 48
@@ -645,13 +489,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (50) Taking into consideration the diversity of cybersecurity role profiles and associated tasks, skills and knowledge, the assessment of individuals and | (50) Taking into consideration the diversity of cybersecurity role profiles and associated tasks, skills and knowledge, the assessment of individuals and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 27/243 assessment methods may have to be adapted in each European individual cybersecurity skills attestation scheme. Each scheme should ensure that the assessment of an individual’s required skills in terms of learning outcomes, including, where relevant, the evaluation of the level of proficiency, is systematically evaluated against an ECSF role profile or subset thereof. Assessment methods may include elements such as testing theoretical knowledge, practical examination, prerequisites and peer assessment. Experience of individuals should be duly taken into consideration. | assessment methods may have to be adapted in each European individual cybersecurity skills attestation scheme. Each scheme should ensure that the assessment of an individual’s required skills in terms of learning outcomes, including, where relevant, the evaluation of the level of proficiency, is systematically evaluated against an ECSF role profile or subset thereof. Assessment methods may include elements such as testing theoretical knowledge, practical examination, prerequisites and peer assessment. Experience of individuals should be duly taken into consideration. |
+| (50) Taking into consideration the diversity of cybersecurity role profiles and associated tasks, skills and knowledge, the assessment of individuals and assessment methods may have to be adapted in each European individual cybersecurity skills attestation scheme. Each scheme should ensure that the assessment of an individual’s required skills in terms of learning outcomes, including, where relevant, the evaluation of the level of proficiency, is systematically evaluated against an ECSF role profile or subset thereof. Assessment methods may include elements such as testing theoretical knowledge, practical examination, prerequisites and peer assessment. Experience of individuals should be duly taken into consideration. | (50) Taking into consideration the diversity of cybersecurity role profiles and associated tasks, skills and knowledge, the assessment of individuals and assessment methods may have to be adapted in each European individual cybersecurity skills attestation scheme. Each scheme should ensure that the assessment of an individual’s required skills in terms of learning outcomes, including, where relevant, the evaluation of the level of proficiency, is systematically evaluated against an ECSF role profile or subset thereof. Assessment methods may include elements such as testing theoretical knowledge, practical examination, prerequisites and peer assessment. Experience of individuals should be duly taken into consideration. |
 
 <a id="rec-51"></a>
 ### Recital 51
@@ -665,13 +503,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (52) The role of the authorised attestation providers is to attest the knowledge and competences of an individual to be able to perform one of the ECSF roles and to give assurance to the employers across the Union. As also employers operating Unions critical infrastructure would look at the assurance of the quality of skills and competences of individuals acquiring European individual cybersecurity skills attestation, the authorised providers attesting the level of skills and competences should be trustworthy from the cybersecurity point of view and should not be subject of the undue influence by a third country that may pose cybersecurity concerns. Therefore, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation or controlled by such third country, by an entity established in such | (52) The role of the authorised attestation providers is to attest the knowledge and competences of an individual to be able to perform one of the ECSF roles and to give assurance to the employers across the Union. As also employers operating Unions critical infrastructure would look at the assurance of the quality of skills and competences of individuals acquiring European individual cybersecurity skills attestation, the authorised providers attesting the level of skills and competences should be trustworthy from the cybersecurity point of view and should not be subject of the undue influence by a third country that may pose cybersecurity concerns. Therefore, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation or controlled by such third country, by an entity established in such |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 28/243 third country, or by a national of such third country (high-risk suppliers) in accordance with this Regulation should not be eligible to become authorised attestation providers of any European individual cybersecurity skills attestations pursuant to Title II, Section 4. | third country, or by a national of such third country (high-risk suppliers) in accordance with this Regulation should not be eligible to become authorised attestation providers of any European individual cybersecurity skills attestations pursuant to Title II, Section 4. |
+| (52) The role of the authorised attestation providers is to attest the knowledge and competences of an individual to be able to perform one of the ECSF roles and to give assurance to the employers across the Union. As also employers operating Unions critical infrastructure would look at the assurance of the quality of skills and competences of individuals acquiring European individual cybersecurity skills attestation, the authorised providers attesting the level of skills and competences should be trustworthy from the cybersecurity point of view and should not be subject of the undue influence by a third country that may pose cybersecurity concerns. Therefore, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation or controlled by such third country, by an entity established in such third country, or by a national of such third country (high-risk suppliers) in accordance with this Regulation should not be eligible to become authorised attestation providers of any European individual cybersecurity skills attestations pursuant to Title II, Section 4. | (52) The role of the authorised attestation providers is to attest the knowledge and competences of an individual to be able to perform one of the ECSF roles and to give assurance to the employers across the Union. As also employers operating Unions critical infrastructure would look at the assurance of the quality of skills and competences of individuals acquiring European individual cybersecurity skills attestation, the authorised providers attesting the level of skills and competences should be trustworthy from the cybersecurity point of view and should not be subject of the undue influence by a third country that may pose cybersecurity concerns. Therefore, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation or controlled by such third country, by an entity established in such third country, or by a national of such third country (high-risk suppliers) in accordance with this Regulation should not be eligible to become authorised attestation providers of any European individual cybersecurity skills attestations pursuant to Title II, Section 4. |
 
 <a id="rec-53"></a>
 ### Recital 53
@@ -692,13 +524,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (55) ENISA should be governed and operated taking into account the principles of the Common Approach on Union decentralised agencies adopted on 19 July 2012 by the European Parliament, the Council and the Commission1. | (55) ENISA should be governed and operated taking into account the principles of the Common Approach on Union decentralised agencies adopted on 19 July 2012 by the European Parliament, the Council and the Commission1. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 29/243 The recommendations in the Common Approach should also be reflected, as appropriate, in ENISA’s work programmes, evaluations of ENISA, and ENISA’s reporting and administrative practice. _________<br>1. Common Approach, annexed to the Joint Statement of the European Parliament, the Council of the EU and the European Commission on decentralised agencies, adopted on 19 July 2012 and available at: https://european-union.europa.eu/document/download/d4199ff4-1e3d-45e6-af7e90cf1a7b10bc_en?filename=joint_statement_on_decentralised_agencies_en.pdf. | The recommendations in the Common Approach should also be reflected, as appropriate, in ENISA’s work programmes, evaluations of ENISA, and ENISA’s reporting and administrative practice. _________<br>1. Common Approach, annexed to the Joint Statement of the European Parliament, the Council of the EU and the European Commission on decentralised agencies, adopted on 19 July 2012 and available at: https://european-union.europa.eu/document/download/d4199ff4-1e3d-45e6-af7e90cf1a7b10bc_en?filename=joint_statement_on_decentralised_agencies_en.pdf. |
+| (55) ENISA should be governed and operated taking into account the principles of the Common Approach on Union decentralised agencies adopted on 19 July 2012 by the European Parliament, the Council and the Commission1. The recommendations in the Common Approach should also be reflected, as appropriate, in ENISA’s work programmes, evaluations of ENISA, and ENISA’s reporting and administrative practice. _________<br>1. Common Approach, annexed to the Joint Statement of the European Parliament, the Council of the EU and the European Commission on decentralised agencies, adopted on 19 July 2012 and available at: https://european-union.europa.eu/document/download/d4199ff4-1e3d-45e6-af7e-90cf1a7b10bc_en?filename=joint_statement_on_decentralised_agencies_en.pdf. | (55) ENISA should be governed and operated taking into account the principles of the Common Approach on Union decentralised agencies adopted on 19 July 2012 by the European Parliament, the Council and the Commission1. The recommendations in the Common Approach should also be reflected, as appropriate, in ENISA’s work programmes, evaluations of ENISA, and ENISA’s reporting and administrative practice. _________<br>1. Common Approach, annexed to the Joint Statement of the European Parliament, the Council of the EU and the European Commission on decentralised agencies, adopted on 19 July 2012 and available at: https://european-union.europa.eu/document/download/d4199ff4-1e3d-45e6-af7e-90cf1a7b10bc_en?filename=joint_statement_on_decentralised_agencies_en.pdf. |
 
 <a id="rec-56"></a>
 ### Recital 56
@@ -719,13 +545,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (58) To enable ENISA to fulfil its mission effectively, the Management Board, composed of the representatives of the Member States and of the Commission, should establish the general direction of ENISA’s operations, including its strategic priorities, and ensure that it carries out its tasks in accordance with this Regulation. The Management Board should be entrusted with the powers | (58) To enable ENISA to fulfil its mission effectively, the Management Board, composed of the representatives of the Member States and of the Commission, should establish the general direction of ENISA’s operations, including its strategic priorities, and ensure that it carries out its tasks in accordance with this Regulation. The Management Board should be entrusted with the powers |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 30/243 necessary to establish and verify the execution of the budget, adopt appropriate financial rules, establish transparent working procedures for decision making by ENISA, adopt ENISA’s single programming document, adopt its own rules of procedure, appoint the Executive Director, decide on the extension and termination of the Executive Director’s term of office, and decide whether to create a function of Deputy Executive Director and, if such a function is created, on their appointment, and the extension and termination of their term of office. Any person exercising an executive function within ENISA should therefore be appointed by the Management Board. The Management Board should also be responsible for appointing or dismissing members of the Board of Appeal, as well as establishing rules to prevent or manage conflicts of interest in this respect. | necessary to establish and verify the execution of the budget, adopt appropriate financial rules, establish transparent working procedures for decision making by ENISA, adopt ENISA’s single programming document, adopt its own rules of procedure, appoint the Executive Director, decide on the extension and termination of the Executive Director’s term of office, and decide whether to create a function of Deputy Executive Director and, if such a function is created, on their appointment, and the extension and termination of their term of office. Any person exercising an executive function within ENISA should therefore be appointed by the Management Board. The Management Board should also be responsible for appointing or dismissing members of the Board of Appeal, as well as establishing rules to prevent or manage conflicts of interest in this respect. |
+| (58) To enable ENISA to fulfil its mission effectively, the Management Board, composed of the representatives of the Member States and of the Commission, should establish the general direction of ENISA’s operations, including its strategic priorities, and ensure that it carries out its tasks in accordance with this Regulation. The Management Board should be entrusted with the powers necessary to establish and verify the execution of the budget, adopt appropriate financial rules, establish transparent working procedures for decision making by ENISA, adopt ENISA’s single programming document, adopt its own rules of procedure, appoint the Executive Director, decide on the extension and termination of the Executive Director’s term of office, and decide whether to create a function of Deputy Executive Director and, if such a function is created, on their appointment, and the extension and termination of their term of office. Any person exercising an executive function within ENISA should therefore be appointed by the Management Board. The Management Board should also be responsible for appointing or dismissing members of the Board of Appeal, as well as establishing rules to prevent or manage conflicts of interest in this respect. | (58) To enable ENISA to fulfil its mission effectively, the Management Board, composed of the representatives of the Member States and of the Commission, should establish the general direction of ENISA’s operations, including its strategic priorities, and ensure that it carries out its tasks in accordance with this Regulation. The Management Board should be entrusted with the powers necessary to establish and verify the execution of the budget, adopt appropriate financial rules, establish transparent working procedures for decision making by ENISA, adopt ENISA’s single programming document, adopt its own rules of procedure, appoint the Executive Director, decide on the extension and termination of the Executive Director’s term of office, and decide whether to create a function of Deputy Executive Director and, if such a function is created, on their appointment, and the extension and termination of their term of office. Any person exercising an executive function within ENISA should therefore be appointed by the Management Board. The Management Board should also be responsible for appointing or dismissing members of the Board of Appeal, as well as establishing rules to prevent or manage conflicts of interest in this respect. |
 
 <a id="rec-59"></a>
 ### Recital 59
@@ -739,13 +559,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (60) The Management Board should adopt decisions by an absolute majority of its members with voting rights, unless otherwise provided for in this Regulation. Due to the importance of budgetary and human resources matters, in particular matters on the annual budget, annual activity report, the anti-fraud strategy, implementing rules giving effect to Staff Regulations, the appointment of the Executive Director, the Deputy Executive Director and the accounting officer, follow-up to findings of the European Anti-Fraud Office (OLAF) and of the European Public Prosecutor’s Office (EPPO), and the adoption of the financial rules of ENISA, the Management Board should adopt such decisions only if the | (60) The Management Board should adopt decisions by an absolute majority of its members with voting rights, unless otherwise provided for in this Regulation. Due to the importance of budgetary and human resources matters, in particular matters on the annual budget, annual activity report, the anti-fraud strategy, implementing rules giving effect to Staff Regulations, the appointment of the Executive Director, the Deputy Executive Director and the accounting officer, follow-up to findings of the European Anti-Fraud Office (OLAF) and of the European Public Prosecutor’s Office (EPPO), and the adoption of the financial rules of ENISA, the Management Board should adopt such decisions only if the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 31/243 representative of the Commission casts a positive vote. For the purposes of taking a decision on adopting a final single programming document after taking into account Commission’s opinion, a positive vote of the representative of the Commission should only be required on the elements of the decision not related to the annual and multiannual work programme of ENISA. | representative of the Commission casts a positive vote. For the purposes of taking a decision on adopting a final single programming document after taking into account Commission’s opinion, a positive vote of the representative of the Commission should only be required on the elements of the decision not related to the annual and multiannual work programme of ENISA. |
+| (60) The Management Board should adopt decisions by an absolute majority of its members with voting rights, unless otherwise provided for in this Regulation. Due to the importance of budgetary and human resources matters, in particular matters on the annual budget, annual activity report, the anti-fraud strategy, implementing rules giving effect to Staff Regulations, the appointment of the Executive Director, the Deputy Executive Director and the accounting officer, follow-up to findings of the European Anti-Fraud Office (OLAF) and of the European Public Prosecutor’s Office (EPPO), and the adoption of the financial rules of ENISA, the Management Board should adopt such decisions only if the representative of the Commission casts a positive vote. For the purposes of taking a decision on adopting a final single programming document after taking into account Commission’s opinion, a positive vote of the representative of the Commission should only be required on the elements of the decision not related to the annual and multiannual work programme of ENISA. | (60) The Management Board should adopt decisions by an absolute majority of its members with voting rights, unless otherwise provided for in this Regulation. Due to the importance of budgetary and human resources matters, in particular matters on the annual budget, annual activity report, the anti-fraud strategy, implementing rules giving effect to Staff Regulations, the appointment of the Executive Director, the Deputy Executive Director and the accounting officer, follow-up to findings of the European Anti-Fraud Office (OLAF) and of the European Public Prosecutor’s Office (EPPO), and the adoption of the financial rules of ENISA, the Management Board should adopt such decisions only if the representative of the Commission casts a positive vote. For the purposes of taking a decision on adopting a final single programming document after taking into account Commission’s opinion, a positive vote of the representative of the Commission should only be required on the elements of the decision not related to the annual and multiannual work programme of ENISA. |
 
 <a id="rec-61"></a>
 ### Recital 61
@@ -766,13 +580,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (63) The Executive Director should prepare a proposal for ENISA’s single programming document, after prior consultation with the Commission, and should take all steps necessary to ensure the proper implementation of that single programming document. The Executive Director should prepare an annual report to be submitted to the Management Board, covering the implementation of ENISA’s annual work programme, draw up a draft statement of estimates of revenue and expenditure for ENISA, and implement the budget. Furthermore, | (63) The Executive Director should prepare a proposal for ENISA’s single programming document, after prior consultation with the Commission, and should take all steps necessary to ensure the proper implementation of that single programming document. The Executive Director should prepare an annual report to be submitted to the Management Board, covering the implementation of ENISA’s annual work programme, draw up a draft statement of estimates of revenue and expenditure for ENISA, and implement the budget. Furthermore, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 32/243 the Executive Director should have the option of setting up ad hoc working groups to address specific matters, in particular matters of a scientific, technical, legal or socio-economic nature. In particular, in relation to the preparation of a specific candidate European cybersecurity certification scheme (‘candidate scheme’), the setting up of an ad hoc working group is considered to be necessary. Setting up of an ad hoc working group might also be necessary for maintenance activities in relation to specific adopted European cybersecurity certification schemes. Ad hoc working groups should also be set up to develop and maintain European individual cybersecurity skills attestation schemes and assist the Agency in the governance, implementation and evolution of the ECSF. The Executive Director should ensure that the members of ad hoc working groups are selected according to the highest standards of expertise, aiming to ensure gender balance and an appropriate balance, according to the specific issues in question, between the public administrations of the Member States, the Union entities and the private sector, including industry, users, and academic experts in network and information security, as well as academic experts in products with digital elements. | the Executive Director should have the option of setting up ad hoc working groups to address specific matters, in particular matters of a scientific, technical, legal or socio-economic nature. In particular, in relation to the preparation of a specific candidate European cybersecurity certification scheme (‘candidate scheme’), the setting up of an ad hoc working group is considered to be necessary. Setting up of an ad hoc working group might also be necessary for maintenance activities in relation to specific adopted European cybersecurity certification schemes. Ad hoc working groups should also be set up to develop and maintain European individual cybersecurity skills attestation schemes and assist the Agency in the governance, implementation and evolution of the ECSF. The Executive Director should ensure that the members of ad hoc working groups are selected according to the highest standards of expertise, aiming to ensure gender balance and an appropriate balance, according to the specific issues in question, between the public administrations of the Member States, the Union entities and the private sector, including industry, users, and academic experts in network and information security, as well as academic experts in products with digital elements. |
+| (63) The Executive Director should prepare a proposal for ENISA’s single programming document, after prior consultation with the Commission, and should take all steps necessary to ensure the proper implementation of that single programming document. The Executive Director should prepare an annual report to be submitted to the Management Board, covering the implementation of ENISA’s annual work programme, draw up a draft statement of estimates of revenue and expenditure for ENISA, and implement the budget. Furthermore, the Executive Director should have the option of setting up ad hoc working groups to address specific matters, in particular matters of a scientific, technical, legal or socio-economic nature. In particular, in relation to the preparation of a specific candidate European cybersecurity certification scheme (‘candidate scheme’), the setting up of an ad hoc working group is considered to be necessary. Setting up of an ad hoc working group might also be necessary for maintenance activities in relation to specific adopted European cybersecurity certification schemes. Ad hoc working groups should also be set up to develop and maintain European individual cybersecurity skills attestation schemes and assist the Agency in the governance, implementation and evolution of the ECSF. The Executive Director should ensure that the members of ad hoc working groups are selected according to the highest standards of expertise, aiming to ensure gender balance and an appropriate balance, according to the specific issues in question, between the public administrations of the Member States, the Union entities and the private sector, including industry, users, and academic experts in network and information security, as well as academic experts in products with digital elements. | (63) The Executive Director should prepare a proposal for ENISA’s single programming document, after prior consultation with the Commission, and should take all steps necessary to ensure the proper implementation of that single programming document. The Executive Director should prepare an annual report to be submitted to the Management Board, covering the implementation of ENISA’s annual work programme, draw up a draft statement of estimates of revenue and expenditure for ENISA, and implement the budget. Furthermore, the Executive Director should have the option of setting up ad hoc working groups to address specific matters, in particular matters of a scientific, technical, legal or socio-economic nature. In particular, in relation to the preparation of a specific candidate European cybersecurity certification scheme (‘candidate scheme’), the setting up of an ad hoc working group is considered to be necessary. Setting up of an ad hoc working group might also be necessary for maintenance activities in relation to specific adopted European cybersecurity certification schemes. Ad hoc working groups should also be set up to develop and maintain European individual cybersecurity skills attestation schemes and assist the Agency in the governance, implementation and evolution of the ECSF. The Executive Director should ensure that the members of ad hoc working groups are selected according to the highest standards of expertise, aiming to ensure gender balance and an appropriate balance, according to the specific issues in question, between the public administrations of the Member States, the Union entities and the private sector, including industry, users, and academic experts in network and information security, as well as academic experts in products with digital elements. |
 
 <a id="rec-64"></a>
 ### Recital 64
@@ -786,13 +594,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (65) ENISA should have an Advisory Group to ensure regular dialogue with the private sector, consumers’ organisations and other relevant stakeholders. The ENISA Advisory Group, established by the Management Board on a proposal from the Executive Director, should focus on issues relevant to stakeholders and | (65) ENISA should have an Advisory Group to ensure regular dialogue with the private sector, consumers’ organisations and other relevant stakeholders. The ENISA Advisory Group, established by the Management Board on a proposal from the Executive Director, should focus on issues relevant to stakeholders and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 33/243 should bring them to the attention of ENISA. The ENISA Advisory Group should be consulted in particular with regard to ENISA’s draft annual work programme. The composition of the ENISA Advisory Group and the tasks assigned to it should ensure sufficient representation of stakeholders in the work of ENISA. Representatives of national and Union law enforcement, data protection and market surveillance authorities should be eligible to be represented in the ENISA Advisory Group. | should bring them to the attention of ENISA. The ENISA Advisory Group should be consulted in particular with regard to ENISA’s draft annual work programme. The composition of the ENISA Advisory Group and the tasks assigned to it should ensure sufficient representation of stakeholders in the work of ENISA. Representatives of national and Union law enforcement, data protection and market surveillance authorities should be eligible to be represented in the ENISA Advisory Group. |
+| (65) ENISA should have an Advisory Group to ensure regular dialogue with the private sector, consumers’ organisations and other relevant stakeholders. The ENISA Advisory Group, established by the Management Board on a proposal from the Executive Director, should focus on issues relevant to stakeholders and should bring them to the attention of ENISA. The ENISA Advisory Group should be consulted in particular with regard to ENISA’s draft annual work programme. The composition of the ENISA Advisory Group and the tasks assigned to it should ensure sufficient representation of stakeholders in the work of ENISA. Representatives of national and Union law enforcement, data protection and market surveillance authorities should be eligible to be represented in the ENISA Advisory Group. | (65) ENISA should have an Advisory Group to ensure regular dialogue with the private sector, consumers’ organisations and other relevant stakeholders. The ENISA Advisory Group, established by the Management Board on a proposal from the Executive Director, should focus on issues relevant to stakeholders and should bring them to the attention of ENISA. The ENISA Advisory Group should be consulted in particular with regard to ENISA’s draft annual work programme. The composition of the ENISA Advisory Group and the tasks assigned to it should ensure sufficient representation of stakeholders in the work of ENISA. Representatives of national and Union law enforcement, data protection and market surveillance authorities should be eligible to be represented in the ENISA Advisory Group. |
 
 <a id="rec-66"></a>
 ### Recital 66
@@ -806,13 +608,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (67) In order to guarantee the full autonomy and independence of ENISA and to enable it to perform its tasks, ENISA should be granted a sufficient and autonomous budget primarily funded from a contribution from the Union, but also from contributions from third countries participating in ENISA’s work, and from fees paid by authorised attestation providers and by conformity assessment bodies participating in schemes and issuing European cybersecurity certificates and EU statements of conformity. The host Member State, and any other Member State, should be allowed to make voluntary contributions to ENISA’s budget. No contribution, whether financial or in kind, received by ENISA from Member States, third countries, or other entities or persons should compromise | (67) In order to guarantee the full autonomy and independence of ENISA and to enable it to perform its tasks, ENISA should be granted a sufficient and autonomous budget primarily funded from a contribution from the Union, but also from contributions from third countries participating in ENISA’s work, and from fees paid by authorised attestation providers and by conformity assessment bodies participating in schemes and issuing European cybersecurity certificates and EU statements of conformity. The host Member State, and any other Member State, should be allowed to make voluntary contributions to ENISA’s budget. No contribution, whether financial or in kind, received by ENISA from Member States, third countries, or other entities or persons should compromise |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 34/243 its independence and impartiality. The Union budgetary procedure should be applicable as far as the Union contribution and any other subsidies chargeable to the general budget of the Union are concerned. The Court of Auditors should audit ENISA’s accounts to ensure transparency and accountability. In order to enable the Agency to participate in all relevant future projects, it should be given the possibility to receive grants. | its independence and impartiality. The Union budgetary procedure should be applicable as far as the Union contribution and any other subsidies chargeable to the general budget of the Union are concerned. The Court of Auditors should audit ENISA’s accounts to ensure transparency and accountability. In order to enable the Agency to participate in all relevant future projects, it should be given the possibility to receive grants. |
+| (67) In order to guarantee the full autonomy and independence of ENISA and to enable it to perform its tasks, ENISA should be granted a sufficient and autonomous budget primarily funded from a contribution from the Union, but also from contributions from third countries participating in ENISA’s work, and from fees paid by authorised attestation providers and by conformity assessment bodies participating in schemes and issuing European cybersecurity certificates and EU statements of conformity. The host Member State, and any other Member State, should be allowed to make voluntary contributions to ENISA’s budget. No contribution, whether financial or in kind, received by ENISA from Member States, third countries, or other entities or persons should compromise its independence and impartiality. The Union budgetary procedure should be applicable as far as the Union contribution and any other subsidies chargeable to the general budget of the Union are concerned. The Court of Auditors should audit ENISA’s accounts to ensure transparency and accountability. In order to enable the Agency to participate in all relevant future projects, it should be given the possibility to receive grants. | (67) In order to guarantee the full autonomy and independence of ENISA and to enable it to perform its tasks, ENISA should be granted a sufficient and autonomous budget primarily funded from a contribution from the Union, but also from contributions from third countries participating in ENISA’s work, and from fees paid by authorised attestation providers and by conformity assessment bodies participating in schemes and issuing European cybersecurity certificates and EU statements of conformity. The host Member State, and any other Member State, should be allowed to make voluntary contributions to ENISA’s budget. No contribution, whether financial or in kind, received by ENISA from Member States, third countries, or other entities or persons should compromise its independence and impartiality. The Union budgetary procedure should be applicable as far as the Union contribution and any other subsidies chargeable to the general budget of the Union are concerned. The Court of Auditors should audit ENISA’s accounts to ensure transparency and accountability. In order to enable the Agency to participate in all relevant future projects, it should be given the possibility to receive grants. |
 
 <a id="rec-68"></a>
 ### Recital 68
@@ -826,13 +622,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 35/243<br>(69) To ensure proportionality, transparency and legal certainty, fees should be set in a transparent and fair manner. All expenditure of ENISA attributed to staff involved in activities subject to fees, in particular the employer's pro-rata contribution to the pension scheme, and costs related to the Board of Appeal, should be reflected in that cost. Fees must not lead to the imposition of unnecessary financial or administrative burdens on applicants. Reasonable deadlines should be set for the payment of fees. | (69) To ensure proportionality, transparency and legal certainty, fees should be set in a transparent and fair manner. All expenditure of ENISA attributed to staff involved in activities subject to fees, in particular the employer's pro-rata contribution to the pension scheme, and costs related to the Board of Appeal, should be reflected in that cost. Fees must not lead to the imposition of unnecessary financial or administrative burdens on applicants. Reasonable deadlines should be set for the payment of fees. |
+| (69) To ensure proportionality, transparency and legal certainty, fees should be set in a transparent and fair manner. All expenditure of ENISA attributed to staff involved in activities subject to fees, in particular the employer's pro-rata contribution to the pension scheme, and costs related to the Board of Appeal, should be reflected in that cost. Fees must not lead to the imposition of unnecessary financial or administrative burdens on applicants. Reasonable deadlines should be set for the payment of fees. | (69) To ensure proportionality, transparency and legal certainty, fees should be set in a transparent and fair manner. All expenditure of ENISA attributed to staff involved in activities subject to fees, in particular the employer's pro-rata contribution to the pension scheme, and costs related to the Board of Appeal, should be reflected in that cost. Fees must not lead to the imposition of unnecessary financial or administrative burdens on applicants. Reasonable deadlines should be set for the payment of fees. |
 
 <a id="rec-70"></a>
 ### Recital 70
@@ -846,13 +636,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (71) To identify and correctly manage the risk of actual or perceived conflict of interests, ENISA should have rules in place regarding the prevention and the management of conflicts of interest. ENISA should also apply the rules on access to documents set out in Regulation (EC) No 1049/2001 of the European Parliament and of the Council1. The processing of personal data by ENISA should be subject to Regulation (EU) 2018/1725 of the European Parliament and of the Council2. ENISA should comply with the provisions applicable to the Union entities, and with national legislation regarding the handling of information, in particular sensitive non-classified information and European Union classified information (EUCI). _________<br>1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).<br>2. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union | (71) To identify and correctly manage the risk of actual or perceived conflict of interests, ENISA should have rules in place regarding the prevention and the management of conflicts of interest. ENISA should also apply the rules on access to documents set out in Regulation (EC) No 1049/2001 of the European Parliament and of the Council1. The processing of personal data by ENISA should be subject to Regulation (EU) 2018/1725 of the European Parliament and of the Council2. ENISA should comply with the provisions applicable to the Union entities, and with national legislation regarding the handling of information, in particular sensitive non-classified information and European Union classified information (EUCI). _________<br>1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).<br>2. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 36/243 institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). | institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). |
+| (71) To identify and correctly manage the risk of actual or perceived conflict of interests, ENISA should have rules in place regarding the prevention and the management of conflicts of interest. ENISA should also apply the rules on access to documents set out in Regulation (EC) No 1049/2001 of the European Parliament and of the Council1. The processing of personal data by ENISA should be subject to Regulation (EU) 2018/1725 of the European Parliament and of the Council2. ENISA should comply with the provisions applicable to the Union entities, and with national legislation regarding the handling of information, in particular sensitive non-classified information and European Union classified information (EUCI). _________<br>1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).<br>2. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). | (71) To identify and correctly manage the risk of actual or perceived conflict of interests, ENISA should have rules in place regarding the prevention and the management of conflicts of interest. ENISA should also apply the rules on access to documents set out in Regulation (EC) No 1049/2001 of the European Parliament and of the Council1. The processing of personal data by ENISA should be subject to Regulation (EU) 2018/1725 of the European Parliament and of the Council2. ENISA should comply with the provisions applicable to the Union entities, and with national legislation regarding the handling of information, in particular sensitive non-classified information and European Union classified information (EUCI). _________<br>1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).<br>2. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). |
 
 <a id="rec-72"></a>
 ### Recital 72
@@ -873,13 +657,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 37/243<br>(74) Europol has an important role in preventing and combating cybercrime, including cybercrime related to network and information security incidents. To create synergies between the respective tasks of each Agency, ENISA should cooperate with Europol, in particular by sharing information regarding trends in techniques, demands and impacts of ransomware attacks. Such cooperation may also consist in identifying the most common ransomware strains targeting entities listed in Annexes I and II to Directive (EU) 2022/2555 to support essential and important entities in incident response and recovery. | (74) Europol has an important role in preventing and combating cybercrime, including cybercrime related to network and information security incidents. To create synergies between the respective tasks of each Agency, ENISA should cooperate with Europol, in particular by sharing information regarding trends in techniques, demands and impacts of ransomware attacks. Such cooperation may also consist in identifying the most common ransomware strains targeting entities listed in Annexes I and II to Directive (EU) 2022/2555 to support essential and important entities in incident response and recovery. |
+| (74) Europol has an important role in preventing and combating cybercrime, including cybercrime related to network and information security incidents. To create synergies between the respective tasks of each Agency, ENISA should cooperate with Europol, in particular by sharing information regarding trends in techniques, demands and impacts of ransomware attacks. Such cooperation may also consist in identifying the most common ransomware strains targeting entities listed in Annexes I and II to Directive (EU) 2022/2555 to support essential and important entities in incident response and recovery. | (74) Europol has an important role in preventing and combating cybercrime, including cybercrime related to network and information security incidents. To create synergies between the respective tasks of each Agency, ENISA should cooperate with Europol, in particular by sharing information regarding trends in techniques, demands and impacts of ransomware attacks. Such cooperation may also consist in identifying the most common ransomware strains targeting entities listed in Annexes I and II to Directive (EU) 2022/2555 to support essential and important entities in incident response and recovery. |
 
 <a id="rec-75"></a>
 ### Recital 75
@@ -900,13 +678,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (77) Given the borderless nature of cyber threats and incidents, the level of cybersecurity and preparedness of third countries may impact entities in the Union. Therefore, ENISA should be able to provide capacity-building activities, including training, capacity-building, twinning activities in third countries, and in particular tailored capacity-building activities for countries that are candidates for accession to the Union or other partner countries in accordance with the Union priorities. Such activities should be conducted following a specific request to provide adequate support, taking into account the priorities of the Union, and be implemented through special arrangements, including through contribution | (77) Given the borderless nature of cyber threats and incidents, the level of cybersecurity and preparedness of third countries may impact entities in the Union. Therefore, ENISA should be able to provide capacity-building activities, including training, capacity-building, twinning activities in third countries, and in particular tailored capacity-building activities for countries that are candidates for accession to the Union or other partner countries in accordance with the Union priorities. Such activities should be conducted following a specific request to provide adequate support, taking into account the priorities of the Union, and be implemented through special arrangements, including through contribution |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 38/243 agreements as referred to in Regulation (EU, Euratom) 2024/2509. The European cybersecurity certification framework aims to protect against cyber threats such as maliciously exploited cybersecurity vulnerabilities or cybersecurity incidents affecting the functionality (design and operation) of ICT products, ICT services, ICT processes, managed security services, or cyber posture of entities. By focusing on technical risks related to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, the ECCF should complement the security of ICT supply chains framework, which aims to ensure a harmonised approach at Union level to address nontechnical risks in sectors of high criticality and other critical sectors. | agreements as referred to in Regulation (EU, Euratom) 2024/2509. The European cybersecurity certification framework aims to protect against cyber threats such as maliciously exploited cybersecurity vulnerabilities or cybersecurity incidents affecting the functionality (design and operation) of ICT products, ICT services, ICT processes, managed security services, or cyber posture of entities. By focusing on technical risks related to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, the ECCF should complement the security of ICT supply chains framework, which aims to ensure a harmonised approach at Union level to address nontechnical risks in sectors of high criticality and other critical sectors. |
+| (77) Given the borderless nature of cyber threats and incidents, the level of cybersecurity and preparedness of third countries may impact entities in the Union. Therefore, ENISA should be able to provide capacity-building activities, including training, capacity-building, twinning activities in third countries, and in particular tailored capacity-building activities for countries that are candidates for accession to the Union or other partner countries in accordance with the Union priorities. Such activities should be conducted following a specific request to provide adequate support, taking into account the priorities of the Union, and be implemented through special arrangements, including through contribution agreements as referred to in Regulation (EU, Euratom) 2024/2509. The European cybersecurity certification framework aims to protect against cyber threats such as maliciously exploited cybersecurity vulnerabilities or cybersecurity incidents affecting the functionality (design and operation) of ICT products, ICT services, ICT processes, managed security services, or cyber posture of entities. By focusing on technical risks related to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, the ECCF should complement the security of ICT supply chains framework, which aims to ensure a harmonised approach at Union level to address non-technical risks in sectors of high criticality and other critical sectors. | (77) Given the borderless nature of cyber threats and incidents, the level of cybersecurity and preparedness of third countries may impact entities in the Union. Therefore, ENISA should be able to provide capacity-building activities, including training, capacity-building, twinning activities in third countries, and in particular tailored capacity-building activities for countries that are candidates for accession to the Union or other partner countries in accordance with the Union priorities. Such activities should be conducted following a specific request to provide adequate support, taking into account the priorities of the Union, and be implemented through special arrangements, including through contribution agreements as referred to in Regulation (EU, Euratom) 2024/2509. The European cybersecurity certification framework aims to protect against cyber threats such as maliciously exploited cybersecurity vulnerabilities or cybersecurity incidents affecting the functionality (design and operation) of ICT products, ICT services, ICT processes, managed security services, or cyber posture of entities. By focusing on technical risks related to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, the ECCF should complement the security of ICT supply chains framework, which aims to ensure a harmonised approach at Union level to address non-technical risks in sectors of high criticality and other critical sectors. |
 
 <a id="rec-78"></a>
 ### Recital 78
@@ -920,13 +692,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (79) To facilitate simplification of compliance for entities, the ECCF should provide for the possibility to certify their cyber posture. Entities, notably those providing multiple types of services across several Member States, may face different cybersecurity and data security-related obligations under horizontal instruments, such as Regulation (EU) 2016/679 of the European Parliament and of the Council1 and Directive (EU) 2022/2555 of the European Parliament and of the Council2, as well as sector-specific instruments. In order to streamline the implementation of the overall cybersecurity regulatory framework and facilitate compliance therewith, it should be possible for Union legislation to provide for the possibility of entities to demonstrate their compliance with cybersecurity risk- | (79) To facilitate simplification of compliance for entities, the ECCF should provide for the possibility to certify their cyber posture. Entities, notably those providing multiple types of services across several Member States, may face different cybersecurity and data security-related obligations under horizontal instruments, such as Regulation (EU) 2016/679 of the European Parliament and of the Council1 and Directive (EU) 2022/2555 of the European Parliament and of the Council2, as well as sector-specific instruments. In order to streamline the implementation of the overall cybersecurity regulatory framework and facilitate compliance therewith, it should be possible for Union legislation to provide for the possibility of entities to demonstrate their compliance with cybersecurity risk- |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 39/243 management requirements through a European cybersecurity certification certificate. A relevant scheme could contribute to streamlining compliance requirements arising from different regulatory instruments, without prejudice to their specific certification requirements. Such simplification measures have the potential to reduce administrative burden, unlocking resources to strengthen the operational cybersecurity preparedness of entities in critical sectors of the Union. _________<br>1. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).<br>2. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj). | management requirements through a European cybersecurity certification certificate. A relevant scheme could contribute to streamlining compliance requirements arising from different regulatory instruments, without prejudice to their specific certification requirements. Such simplification measures have the potential to reduce administrative burden, unlocking resources to strengthen the operational cybersecurity preparedness of entities in critical sectors of the Union. _________<br>1. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).<br>2. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj). |
+| (79) To facilitate simplification of compliance for entities, the ECCF should provide for the possibility to certify their cyber posture. Entities, notably those providing multiple types of services across several Member States, may face different cybersecurity and data security-related obligations under horizontal instruments, such as Regulation (EU) 2016/679 of the European Parliament and of the Council1 and Directive (EU) 2022/2555 of the European Parliament and of the Council2, as well as sector-specific instruments. In order to streamline the implementation of the overall cybersecurity regulatory framework and facilitate compliance therewith, it should be possible for Union legislation to provide for the possibility of entities to demonstrate their compliance with cybersecurity risk-management requirements through a European cybersecurity certification certificate. A relevant scheme could contribute to streamlining compliance requirements arising from different regulatory instruments, without prejudice to their specific certification requirements. Such simplification measures have the potential to reduce administrative burden, unlocking resources to strengthen the operational cybersecurity preparedness of entities in critical sectors of the Union. _________<br>1. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).<br>2. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj). | (79) To facilitate simplification of compliance for entities, the ECCF should provide for the possibility to certify their cyber posture. Entities, notably those providing multiple types of services across several Member States, may face different cybersecurity and data security-related obligations under horizontal instruments, such as Regulation (EU) 2016/679 of the European Parliament and of the Council1 and Directive (EU) 2022/2555 of the European Parliament and of the Council2, as well as sector-specific instruments. In order to streamline the implementation of the overall cybersecurity regulatory framework and facilitate compliance therewith, it should be possible for Union legislation to provide for the possibility of entities to demonstrate their compliance with cybersecurity risk-management requirements through a European cybersecurity certification certificate. A relevant scheme could contribute to streamlining compliance requirements arising from different regulatory instruments, without prejudice to their specific certification requirements. Such simplification measures have the potential to reduce administrative burden, unlocking resources to strengthen the operational cybersecurity preparedness of entities in critical sectors of the Union. _________<br>1. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).<br>2. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj). |
 
 <a id="rec-80"></a>
 ### Recital 80
@@ -940,13 +706,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (81) The European cybersecurity certification framework should provide for the possibility to certify ICT processes, defined as a set of activities performed to design, develop, deliver or maintain an ICT product or ICT service. A protection profile is an example of an ICT process, as specified under Commission Implementing Regulation (EU) 2024/4821. Another example of an ICT process | (81) The European cybersecurity certification framework should provide for the possibility to certify ICT processes, defined as a set of activities performed to design, develop, deliver or maintain an ICT product or ICT service. A protection profile is an example of an ICT process, as specified under Commission Implementing Regulation (EU) 2024/4821. Another example of an ICT process |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 40/243 is the set of activities undertaken by a manufacturer to securely design and develop an ICT product, including the physical, logical, procedural, personnel, and other security measures that are necessary to protect the confidentiality and integrity of the design and implementation of an ICT product in its development environment. The certification of such activities is often referred to as ‘site certification’ in the context of a certification process under Commission Implementing Regulation (EU) 2024/482. _________<br>1. Commission Implementing Regulation (EU) 2024/482 of 31 January 2024 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the adoption of the European Common Criteria-based cybersecurity certification scheme<br>(EUCC) (OJ L, 2024/482, 7.2.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/482/oj). | is the set of activities undertaken by a manufacturer to securely design and develop an ICT product, including the physical, logical, procedural, personnel, and other security measures that are necessary to protect the confidentiality and integrity of the design and implementation of an ICT product in its development environment. The certification of such activities is often referred to as ‘site certification’ in the context of a certification process under Commission Implementing Regulation (EU) 2024/482. _________<br>1. Commission Implementing Regulation (EU) 2024/482 of 31 January 2024 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the adoption of the European Common Criteria-based cybersecurity certification scheme<br>(EUCC) (OJ L, 2024/482, 7.2.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/482/oj). |
+| (81) The European cybersecurity certification framework should provide for the possibility to certify ICT processes, defined as a set of activities performed to design, develop, deliver or maintain an ICT product or ICT service. A protection profile is an example of an ICT process, as specified under Commission Implementing Regulation (EU) 2024/4821. Another example of an ICT process is the set of activities undertaken by a manufacturer to securely design and develop an ICT product, including the physical, logical, procedural, personnel, and other security measures that are necessary to protect the confidentiality and integrity of the design and implementation of an ICT product in its development environment. The certification of such activities is often referred to as ‘site certification’ in the context of a certification process under Commission Implementing Regulation (EU) 2024/482. _________<br>1. Commission Implementing Regulation (EU) 2024/482 of 31 January 2024 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the adoption of the European Common Criteria-based cybersecurity certification scheme<br>(EUCC) (OJ L, 2024/482, 7.2.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/482/oj). | (81) The European cybersecurity certification framework should provide for the possibility to certify ICT processes, defined as a set of activities performed to design, develop, deliver or maintain an ICT product or ICT service. A protection profile is an example of an ICT process, as specified under Commission Implementing Regulation (EU) 2024/4821. Another example of an ICT process is the set of activities undertaken by a manufacturer to securely design and develop an ICT product, including the physical, logical, procedural, personnel, and other security measures that are necessary to protect the confidentiality and integrity of the design and implementation of an ICT product in its development environment. The certification of such activities is often referred to as ‘site certification’ in the context of a certification process under Commission Implementing Regulation (EU) 2024/482. _________<br>1. Commission Implementing Regulation (EU) 2024/482 of 31 January 2024 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the adoption of the European Common Criteria-based cybersecurity certification scheme<br>(EUCC) (OJ L, 2024/482, 7.2.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/482/oj). |
 
 <a id="rec-82"></a>
 ### Recital 82
@@ -960,13 +720,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 41/243<br>(83) European cybersecurity certification schemes are relevant to a wide community of stakeholders, such as providers of ICT solutions, conformity assessment bodies and users. To promote wide stakeholder engagement, the European Cybersecurity Certification Assembly (“the Assembly”) should be organised at least once a year with the aim to foster collaboration between the Commission, ENISA, Member States and relevant stakeholders. It will play a pivotal role in identifying and addressing new cybersecurity challenges and strategic priorities for certification, and ensuring that certification schemes facilitate the secure integration of digital technologies and are fit for users’ needs. The Assembly should foster Union leadership in certification activities and uphold the certification framework’s ability to deliver trust for businesses, public authorities, and the public. | (83) European cybersecurity certification schemes are relevant to a wide community of stakeholders, such as providers of ICT solutions, conformity assessment bodies and users. To promote wide stakeholder engagement, the European Cybersecurity Certification Assembly (“the Assembly”) should be organised at least once a year with the aim to foster collaboration between the Commission, ENISA, Member States and relevant stakeholders. It will play a pivotal role in identifying and addressing new cybersecurity challenges and strategic priorities for certification, and ensuring that certification schemes facilitate the secure integration of digital technologies and are fit for users’ needs. The Assembly should foster Union leadership in certification activities and uphold the certification framework’s ability to deliver trust for businesses, public authorities, and the public. |
+| (83) European cybersecurity certification schemes are relevant to a wide community of stakeholders, such as providers of ICT solutions, conformity assessment bodies and users. To promote wide stakeholder engagement, the European Cybersecurity Certification Assembly (“the Assembly”) should be organised at least once a year with the aim to foster collaboration between the Commission, ENISA, Member States and relevant stakeholders. It will play a pivotal role in identifying and addressing new cybersecurity challenges and strategic priorities for certification, and ensuring that certification schemes facilitate the secure integration of digital technologies and are fit for users’ needs. The Assembly should foster Union leadership in certification activities and uphold the certification framework’s ability to deliver trust for businesses, public authorities, and the public. | (83) European cybersecurity certification schemes are relevant to a wide community of stakeholders, such as providers of ICT solutions, conformity assessment bodies and users. To promote wide stakeholder engagement, the European Cybersecurity Certification Assembly (“the Assembly”) should be organised at least once a year with the aim to foster collaboration between the Commission, ENISA, Member States and relevant stakeholders. It will play a pivotal role in identifying and addressing new cybersecurity challenges and strategic priorities for certification, and ensuring that certification schemes facilitate the secure integration of digital technologies and are fit for users’ needs. The Assembly should foster Union leadership in certification activities and uphold the certification framework’s ability to deliver trust for businesses, public authorities, and the public. |
 
 <a id="rec-84"></a>
 ### Recital 84
@@ -980,13 +734,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (85) In order to enhance the dialogue between the Union institutions and to contribute to a formal, open, transparent and inclusive consultation process, the Commission should take into account elements arising from the views expressed | (85) In order to enhance the dialogue between the Union institutions and to contribute to a formal, open, transparent and inclusive consultation process, the Commission should take into account elements arising from the views expressed |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 42/243 by the European Parliament and by the Council and the European Cybersecurity Certification Assembly when evaluating this Regulation. | by the European Parliament and by the Council and the European Cybersecurity Certification Assembly when evaluating this Regulation. |
+| (85) In order to enhance the dialogue between the Union institutions and to contribute to a formal, open, transparent and inclusive consultation process, the Commission should take into account elements arising from the views expressed by the European Parliament and by the Council and the European Cybersecurity Certification Assembly when evaluating this Regulation. | (85) In order to enhance the dialogue between the Union institutions and to contribute to a formal, open, transparent and inclusive consultation process, the Commission should take into account elements arising from the views expressed by the European Parliament and by the Council and the European Cybersecurity Certification Assembly when evaluating this Regulation. |
 
 <a id="rec-86"></a>
 ### Recital 86
@@ -1002,12 +750,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 |  | **(86a)The main tasks of the ECCG should be to advise and assist the Commission in its work towards ensuring the consistent implementation and application of the European cybersecurity certification framework, to assist and closely cooperate with ENISA in the preparation of candidate cybersecurity certification schemes, to adopt opinions addressed to ENISA and the Commission. The opinions on candidate schemes may also be adopted jointly between the ECCG members. The ECCG should facilitate the exchange of good practices and expertise between the various national cybersecurity certification authorities that are responsible for the authorisation of conformity** |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 43/243 |  |
-
 <a id="rec-87"></a>
 ### Recital 87
 
@@ -1020,13 +762,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (88) In order to ensure that European cybersecurity certification schemes are implemented in a harmonised manner across Member States, it is necessary to provide for rules on the maintenance of the schemes. Maintenance activities are also necessary to ensure that the schemes and their supporting documentation remain up-to-date, especially in a cybersecurity field where the threat landscape and technologies constantly evolve. Certification schemes should therefore be designed and maintained in a way that avoids the risk that they are quickly outdated. Maintenance activities should typically involve drafting and updating supporting documentation, including technical specifications and guidelines, as well as identifying standards or technical specifications that are relevant to the scheme. The analysis of the functioning of the scheme, its potential shortcomings and necessary improvement, should also be part of the maintenance activities. In addition, maintenance activities should include information sharing between | (88) In order to ensure that European cybersecurity certification schemes are implemented in a harmonised manner across Member States, it is necessary to provide for rules on the maintenance of the schemes. Maintenance activities are also necessary to ensure that the schemes and their supporting documentation remain up-to-date, especially in a cybersecurity field where the threat landscape and technologies constantly evolve. Certification schemes should therefore be designed and maintained in a way that avoids the risk that they are quickly outdated. Maintenance activities should typically involve drafting and updating supporting documentation, including technical specifications and guidelines, as well as identifying standards or technical specifications that are relevant to the scheme. The analysis of the functioning of the scheme, its potential shortcomings and necessary improvement, should also be part of the maintenance activities. In addition, maintenance activities should include information sharing between |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 44/243 Member States with regard to on the implementation of the schemes and contributions to peer review and peer assessment mechanisms. | Member States with regard to on the implementation of the schemes and contributions to peer review and peer assessment mechanisms. |
+| (88) In order to ensure that European cybersecurity certification schemes are implemented in a harmonised manner across Member States, it is necessary to provide for rules on the maintenance of the schemes. Maintenance activities are also necessary to ensure that the schemes and their supporting documentation remain up-to-date, especially in a cybersecurity field where the threat landscape and technologies constantly evolve. Certification schemes should therefore be designed and maintained in a way that avoids the risk that they are quickly outdated. Maintenance activities should typically involve drafting and updating supporting documentation, including technical specifications and guidelines, as well as identifying standards or technical specifications that are relevant to the scheme. The analysis of the functioning of the scheme, its potential shortcomings and necessary improvement, should also be part of the maintenance activities. In addition, maintenance activities should include information sharing between Member States with regard to on the implementation of the schemes and contributions to peer review and peer assessment mechanisms. | (88) In order to ensure that European cybersecurity certification schemes are implemented in a harmonised manner across Member States, it is necessary to provide for rules on the maintenance of the schemes. Maintenance activities are also necessary to ensure that the schemes and their supporting documentation remain up-to-date, especially in a cybersecurity field where the threat landscape and technologies constantly evolve. Certification schemes should therefore be designed and maintained in a way that avoids the risk that they are quickly outdated. Maintenance activities should typically involve drafting and updating supporting documentation, including technical specifications and guidelines, as well as identifying standards or technical specifications that are relevant to the scheme. The analysis of the functioning of the scheme, its potential shortcomings and necessary improvement, should also be part of the maintenance activities. In addition, maintenance activities should include information sharing between Member States with regard to on the implementation of the schemes and contributions to peer review and peer assessment mechanisms. |
 
 <a id="rec-89"></a>
 ### Recital 89
@@ -1047,13 +783,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (90) Maintenance activities should entail interactions with relevant stakeholder groups to ensure that schemes remain market-relevant and up to date, including by sharing and receiving technical contributions. Such stakeholder groups can be standardisation organisations, conformity assessment bodies, vendors, users, public authorities, or trade associations. The specificities of each scheme, | (90) Maintenance activities should entail interactions with relevant stakeholder groups to ensure that schemes remain market-relevant and up to date, including by sharing and receiving technical contributions. Such stakeholder groups can be standardisation organisations, conformity assessment bodies, vendors, users, public authorities, or trade associations. The specificities of each scheme, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 45/243 including their corresponding technical forums and industries, imply that it should be possible for technical contributions to be gathered in different ways from one scheme to the other. For some schemes, ENISA should be able to rely on an ad hoc working group that gathers experts from the public administrations of the Member States, Union entities, and the private sector. Technical contributions could also come from ISACs or standardisation organisations. ENISA should analyse which format is most suitable for each scheme and include a maintenance strategy in each candidate scheme. | including their corresponding technical forums and industries, imply that it should be possible for technical contributions to be gathered in different ways from one scheme to the other. For some schemes, ENISA should be able to rely on an ad hoc working group that gathers experts from the public administrations of the Member States, Union entities, and the private sector. Technical contributions could also come from ISACs or standardisation organisations. ENISA should analyse which format is most suitable for each scheme and include a maintenance strategy in each candidate scheme. |
+| (90) Maintenance activities should entail interactions with relevant stakeholder groups to ensure that schemes remain market-relevant and up to date, including by sharing and receiving technical contributions. Such stakeholder groups can be standardisation organisations, conformity assessment bodies, vendors, users, public authorities, or trade associations. The specificities of each scheme, including their corresponding technical forums and industries, imply that it should be possible for technical contributions to be gathered in different ways from one scheme to the other. For some schemes, ENISA should be able to rely on an ad hoc working group that gathers experts from the public administrations of the Member States, Union entities, and the private sector. Technical contributions could also come from ISACs or standardisation organisations. ENISA should analyse which format is most suitable for each scheme and include a maintenance strategy in each candidate scheme. | (90) Maintenance activities should entail interactions with relevant stakeholder groups to ensure that schemes remain market-relevant and up to date, including by sharing and receiving technical contributions. Such stakeholder groups can be standardisation organisations, conformity assessment bodies, vendors, users, public authorities, or trade associations. The specificities of each scheme, including their corresponding technical forums and industries, imply that it should be possible for technical contributions to be gathered in different ways from one scheme to the other. For some schemes, ENISA should be able to rely on an ad hoc working group that gathers experts from the public administrations of the Member States, Union entities, and the private sector. Technical contributions could also come from ISACs or standardisation organisations. ENISA should analyse which format is most suitable for each scheme and include a maintenance strategy in each candidate scheme. |
 
 <a id="rec-90a"></a>
 ### Recital 90a
@@ -1067,13 +797,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (91) European cybersecurity certification schemes should rely on standards or technical specifications, notably for the definition of security requirements and evaluation methodologies. ENISA should be given the possibility to draft technical specifications to support the preparation and maintenance of schemes, in particular where deliverables from standardisation organisations are missing or not suitable to fulfil the objectives of the scheme. As part of the drafting process, | (91) European cybersecurity certification schemes should rely on standards or technical specifications, notably for the definition of security requirements and evaluation methodologies. ENISA should be given the possibility to draft technical specifications to support the preparation and maintenance of schemes, in particular where deliverables from standardisation organisations are missing or not suitable to fulfil the objectives of the scheme. As part of the drafting process, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 46/243 ENISA should be supported by the ECCG and, where applicable, the ad hoc working group set up for the relevant scheme. ENISA should also seek contributions from stakeholder groups. Additionally, ENISA should consider market acceptance, as well as European and international standards. Taking into account the quality of the technical specifications and the objectives of the scheme, it should be possible for the Commission to reference technical specifications drafted by ENISA in a European cybersecurity certification scheme. | ENISA should be supported by the ECCG and, where applicable, the ad hoc working group set up for the relevant scheme. ENISA should also seek contributions from stakeholder groups. Additionally, ENISA should consider market acceptance, as well as European and international standards. Taking into account the quality of the technical specifications and the objectives of the scheme, it should be possible for the Commission to reference technical specifications drafted by ENISA in a European cybersecurity certification scheme. |
+| (91) European cybersecurity certification schemes should rely on standards or technical specifications, notably for the definition of security requirements and evaluation methodologies. ENISA should be given the possibility to draft technical specifications to support the preparation and maintenance of schemes, in particular where deliverables from standardisation organisations are missing or not suitable to fulfil the objectives of the scheme. As part of the drafting process, ENISA should be supported by the ECCG and, where applicable, the ad hoc working group set up for the relevant scheme. ENISA should also seek contributions from stakeholder groups. Additionally, ENISA should consider market acceptance, as well as European and international standards. Taking into account the quality of the technical specifications and the objectives of the scheme, it should be possible for the Commission to reference technical specifications drafted by ENISA in a European cybersecurity certification scheme. | (91) European cybersecurity certification schemes should rely on standards or technical specifications, notably for the definition of security requirements and evaluation methodologies. ENISA should be given the possibility to draft technical specifications to support the preparation and maintenance of schemes, in particular where deliverables from standardisation organisations are missing or not suitable to fulfil the objectives of the scheme. As part of the drafting process, ENISA should be supported by the ECCG and, where applicable, the ad hoc working group set up for the relevant scheme. ENISA should also seek contributions from stakeholder groups. Additionally, ENISA should consider market acceptance, as well as European and international standards. Taking into account the quality of the technical specifications and the objectives of the scheme, it should be possible for the Commission to reference technical specifications drafted by ENISA in a European cybersecurity certification scheme. |
 
 <a id="rec-92"></a>
 ### Recital 92
@@ -1087,33 +811,21 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (93) The cyber posture certification schemes should be designed in a modular way, with a view to allowing demonstration of compliance and the presumption of conformity with relevant cybersecurity requirements set out in other Union legislation, where that legislation provides for that possibility. The presumption of conformity with the requirements of these legal acts will therefore only take | (93) The cyber posture certification schemes should be designed in a modular way, with a view to allowing demonstration of compliance and the presumption of conformity with relevant cybersecurity requirements set out in other Union legislation, where that legislation provides for that possibility. The presumption of conformity with the requirements of these legal acts will therefore only take |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 47/243 effect as a possible avenue to demonstrate compliance if the respective legal acts enable such presumption of conformity. The details of such a scheme, namely purpose, objectives or elements will therefore likely differ from those of other schemes. In particular, schemes for the certification of cyber posture of entities should be developed to provide for assessment of continuous conformity of an entity with Union legislation. It is therefore not necessary that cyber posture certification schemes cover all elements of the European cybersecurity certification schemes, such as assurance levels, and this should be reflected in the rules for the schemes. | effect as a possible avenue to demonstrate compliance if the respective legal acts enable such presumption of conformity**, without prejudice to supervisory activities of the competent authorities**. The details of such a scheme, namely purpose, objectives or elements will therefore likely differ from those of other schemes. In particular, schemes for the certification of cyber posture of entities should be developed to provide for assessment of continuous conformity of an entity with Union legislation. It is therefore not necessary that cyber posture certification schemes cover all elements of the European cybersecurity certification schemes, such as assurance levels, and this should be reflected in the rules for the schemes. |
+| (93) The cyber posture certification schemes should be designed in a modular way, with a view to allowing demonstration of compliance and the presumption of conformity with relevant cybersecurity requirements set out in other Union legislation, where that legislation provides for that possibility. The presumption of conformity with the requirements of these legal acts will therefore only take effect as a possible avenue to demonstrate compliance if the respective legal acts enable such presumption of conformity. The details of such a scheme, namely purpose, objectives or elements will therefore likely differ from those of other schemes. In particular, schemes for the certification of cyber posture of entities should be developed to provide for assessment of continuous conformity of an entity with Union legislation. It is therefore not necessary that cyber posture certification schemes cover all elements of the European cybersecurity certification schemes, such as assurance levels, and this should be reflected in the rules for the schemes. | (93) The cyber posture certification schemes should be designed in a modular way, with a view to allowing demonstration of compliance and the presumption of conformity with relevant cybersecurity requirements set out in other Union legislation, where that legislation provides for that possibility. The presumption of conformity with the requirements of these legal acts will therefore only take effect as a possible avenue to demonstrate compliance if the respective legal acts enable such presumption of conformity**, without prejudice to supervisory activities of the competent authorities**. The details of such a scheme, namely purpose, objectives or elements will therefore likely differ from those of other schemes. In particular, schemes for the certification of cyber posture of entities should be developed to provide for assessment of continuous conformity of an entity with Union legislation. It is therefore not necessary that cyber posture certification schemes cover all elements of the European cybersecurity certification schemes, such as assurance levels, and this should be reflected in the rules for the schemes. |
 
 <a id="rec-94"></a>
 ### Recital 94
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (94) A framework for cyber posture certification in the ECCF, allows for developing a scheme that enables entities providing services across several Member States to demonstrate compliance with the cybersecurity riskmanagement obligations laid down in Directive 2022/2555 of the European Parliament and of the Council. On that basis, with the ability to demonstrate compliance, entities can benefit from more coherent and less burdensome supervisory approaches across the internal market. The development of such a certification scheme should be facilitated by the adoption of implementing acts under Directive (EU) 2022/2555. Through extension profiles, a cyber posture certification scheme may demonstrate compliance with requirements where a Member State adopted or maintained provisions ensuring a higher level of cybersecurity in line with Directive (EU) 2022/2555. On this basis, an entity providing services across several Member States can demonstrate compliance with all relevant extension profiles through a single European cybersecurity certificate. | (94) A framework for cyber posture certification in the ECCF, allows for developing a scheme that enables entities providing services**, including managed security services,** across several Member States to demonstrate compliance with the cybersecurity risk-management obligations laid down in Directive 2022/2555 of the European Parliament and of the Council. On that basis, with the ability to demonstrate compliance, entities can benefit from more coherent and less burdensome supervisory approaches across the internal market. The development of such a certification scheme should be facilitated by the adoption of implementing acts under Directive (EU) 2022/2555. Through extension profiles, a cyber posture certification scheme may demonstrate compliance with requirements where a Member State adopted or maintained provisions ensuring a higher level of cybersecurity in line with Directive (EU) 2022/2555. On this basis, an entity providing services across several Member States can demonstrate compliance with all relevant extension profiles through a single European cybersecurity certificate. |
+| (94) A framework for cyber posture certification in the ECCF, allows for developing a scheme that enables entities providing services across several Member States to demonstrate compliance with the cybersecurity risk-management obligations laid down in Directive 2022/2555 of the European Parliament and of the Council. On that basis, with the ability to demonstrate compliance, entities can benefit from more coherent and less burdensome supervisory approaches across the internal market. The development of such a certification scheme should be facilitated by the adoption of implementing acts under Directive (EU) 2022/2555. Through extension profiles, a cyber posture certification scheme may demonstrate compliance with requirements where a Member State adopted or maintained provisions ensuring a higher level of cybersecurity in line with Directive (EU) 2022/2555. On this basis, an entity providing services across several Member States can demonstrate compliance with all relevant extension profiles through a single European cybersecurity certificate. | (94) A framework for cyber posture certification in the ECCF, allows for developing a scheme that enables entities providing services**, including managed security services,** across several Member States to demonstrate compliance with the cybersecurity risk-management obligations laid down in Directive 2022/2555 of the European Parliament and of the Council. On that basis, with the ability to demonstrate compliance, entities can benefit from more coherent and less burdensome supervisory approaches across the internal market. The development of such a certification scheme should be facilitated by the adoption of implementing acts under Directive (EU) 2022/2555. Through extension profiles, a cyber posture certification scheme may demonstrate compliance with requirements where a Member State adopted or maintained provisions ensuring a higher level of cybersecurity in line with Directive (EU) 2022/2555. On this basis, an entity providing services across several Member States can demonstrate compliance with all relevant extension profiles through a single European cybersecurity certificate. |
 
 <a id="rec-95"></a>
 ### Recital 95
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (95) The security objectives and the security requirements set out in European cybersecurity certification schemes for what pertains to product security should | (95) The security objectives and the security requirements set out in European cybersecurity certification schemes for what pertains to product security should |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 48/243 be consistent with the essential cybersecurity requirements set out in Annex I to Regulation (EU) 2024/2847. This coherence is necessary to ensure that manufacturers whose products fall within the scope of Regulation (EU) 2024/2847 do not face contradictory requirements when certifying their products under a European cybersecurity certification scheme. Furthermore, consistency of requirements facilitates the presumption of conformity by Article 27 of Regulation (EU) 2024/2847 whereby manufacturers of products with digital elements that have been certified under a European cybersecurity certification scheme can benefit under certain conditions from presumption of conformity with the essential cybersecurity requirements set out in Annex I to that Regulation. | be consistent with the essential cybersecurity requirements set out in Annex I to Regulation (EU) 2024/2847. This coherence is necessary to ensure that manufacturers whose products fall within the scope of Regulation (EU) 2024/2847 do not face contradictory requirements when certifying their products under a European cybersecurity certification scheme. Furthermore, consistency of requirements facilitates the presumption of conformity by Article 27 of Regulation (EU) 2024/2847 whereby manufacturers of products with digital elements that have been certified under a European cybersecurity certification scheme can benefit under certain conditions from presumption of conformity with the essential cybersecurity requirements set out in Annex I to that Regulation. |
+| (95) The security objectives and the security requirements set out in European cybersecurity certification schemes for what pertains to product security should be consistent with the essential cybersecurity requirements set out in Annex I to Regulation (EU) 2024/2847. This coherence is necessary to ensure that manufacturers whose products fall within the scope of Regulation (EU) 2024/2847 do not face contradictory requirements when certifying their products under a European cybersecurity certification scheme. Furthermore, consistency of requirements facilitates the presumption of conformity by Article 27 of Regulation (EU) 2024/2847 whereby manufacturers of products with digital elements that have been certified under a European cybersecurity certification scheme can benefit under certain conditions from presumption of conformity with the essential cybersecurity requirements set out in Annex I to that Regulation. | (95) The security objectives and the security requirements set out in European cybersecurity certification schemes for what pertains to product security should be consistent with the essential cybersecurity requirements set out in Annex I to Regulation (EU) 2024/2847. This coherence is necessary to ensure that manufacturers whose products fall within the scope of Regulation (EU) 2024/2847 do not face contradictory requirements when certifying their products under a European cybersecurity certification scheme. Furthermore, consistency of requirements facilitates the presumption of conformity by Article 27 of Regulation (EU) 2024/2847 whereby manufacturers of products with digital elements that have been certified under a European cybersecurity certification scheme can benefit under certain conditions from presumption of conformity with the essential cybersecurity requirements set out in Annex I to that Regulation. |
 
 <a id="rec-96"></a>
 ### Recital 96
@@ -1127,13 +839,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (97) Without prejudice to the general peer review system to be put in place across all national cybersecurity certification authorities within the ECCF, it should be possible to include in the European cybersecurity certification schemes a peer-assessment mechanism for the bodies that issue European cybersecurity certificates for ICT products, ICT services, ICT processes, managed security | (97) Without prejudice to the general peer review system to be put in place across all national cybersecurity certification authorities within the ECCF, it should be possible to include in the European cybersecurity certification schemes a peer-assessment mechanism for the bodies that issue European cybersecurity certificates for ICT products, ICT services, ICT processes, managed security |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 49/243 services and cyber posture of entities, in particular for those bodies that issue certificates with an assurance level ‘high’ under such schemes. Such bodies should also include certification bodies of the national cybersecurity certification authorities issuing certificates at assurance level ‘high’. The ECCG should support the implementation of such peer-assessment mechanisms. The peer assessments should assess in particular whether the bodies concerned carry out their tasks in a harmonised way and may include appeal mechanisms. | services and cyber posture of entities, in particular for those bodies that issue certificates with an assurance level ‘high’ under such schemes. Such bodies should also include certification bodies of the national cybersecurity certification authorities issuing certificates at assurance level ‘high’. The ECCG should support the implementation of such peer-assessment mechanisms. The peer assessments should assess in particular whether the bodies concerned carry out their tasks in a harmonised way and may include appeal mechanisms. |
+| (97) Without prejudice to the general peer review system to be put in place across all national cybersecurity certification authorities within the ECCF, it should be possible to include in the European cybersecurity certification schemes a peer-assessment mechanism for the bodies that issue European cybersecurity certificates for ICT products, ICT services, ICT processes, managed security services and cyber posture of entities, in particular for those bodies that issue certificates with an assurance level ‘high’ under such schemes. Such bodies should also include certification bodies of the national cybersecurity certification authorities issuing certificates at assurance level ‘high’. The ECCG should support the implementation of such peer-assessment mechanisms. The peer assessments should assess in particular whether the bodies concerned carry out their tasks in a harmonised way and may include appeal mechanisms. | (97) Without prejudice to the general peer review system to be put in place across all national cybersecurity certification authorities within the ECCF, it should be possible to include in the European cybersecurity certification schemes a peer-assessment mechanism for the bodies that issue European cybersecurity certificates for ICT products, ICT services, ICT processes, managed security services and cyber posture of entities, in particular for those bodies that issue certificates with an assurance level ‘high’ under such schemes. Such bodies should also include certification bodies of the national cybersecurity certification authorities issuing certificates at assurance level ‘high’. The ECCG should support the implementation of such peer-assessment mechanisms. The peer assessments should assess in particular whether the bodies concerned carry out their tasks in a harmonised way and may include appeal mechanisms. |
 
 <a id="rec-98"></a>
 ### Recital 98
@@ -1154,13 +860,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (100) In order to ensure the consistency of the European cybersecurity certification framework, it should be possible within a European cybersecurity certification scheme to specify assurance levels for European cybersecurity | (100) In order to ensure the consistency of the European cybersecurity certification framework, it should be possible within a European cybersecurity certification scheme to specify assurance levels for European cybersecurity |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 50/243 certificates and EU statements of conformity issued under that scheme. A European cybersecurity certificate should refer to one of the assurance levels: ‘basic’, ‘substantial’ or ‘high’, while the EU statement of conformity should only refer to the assurance level ‘basic’. The assurance levels should provide the corresponding rigour and depth of the evaluation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity and should be characterised by reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to mitigate or prevent incidents. Each assurance level should be consistent among the different sectorial domains where certification is applied. | certificates and EU statements of conformity issued under that scheme. A European cybersecurity certificate should refer to one of the assurance levels: ‘basic’, ‘substantial’ or ‘high’, while the EU statement of conformity should only refer to the assurance level ‘basic’. The assurance levels should provide the corresponding rigour and depth of the evaluation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity and should be characterised by reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to mitigate or prevent incidents. Each assurance level should be consistent among the different sectorial domains where certification is applied. |
+| (100) In order to ensure the consistency of the European cybersecurity certification framework, it should be possible within a European cybersecurity certification scheme to specify assurance levels for European cybersecurity certificates and EU statements of conformity issued under that scheme. A European cybersecurity certificate should refer to one of the assurance levels: ‘basic’, ‘substantial’ or ‘high’, while the EU statement of conformity should only refer to the assurance level ‘basic’. The assurance levels should provide the corresponding rigour and depth of the evaluation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity and should be characterised by reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to mitigate or prevent incidents. Each assurance level should be consistent among the different sectorial domains where certification is applied. | (100) In order to ensure the consistency of the European cybersecurity certification framework, it should be possible within a European cybersecurity certification scheme to specify assurance levels for European cybersecurity certificates and EU statements of conformity issued under that scheme. A European cybersecurity certificate should refer to one of the assurance levels: ‘basic’, ‘substantial’ or ‘high’, while the EU statement of conformity should only refer to the assurance level ‘basic’. The assurance levels should provide the corresponding rigour and depth of the evaluation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity and should be characterised by reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to mitigate or prevent incidents. Each assurance level should be consistent among the different sectorial domains where certification is applied. |
 
 <a id="rec-101"></a>
 ### Recital 101
@@ -1174,13 +874,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (102) For assurance level ‘basic’, the evaluation should be guided at least by the following assurance components: the evaluation should at least include a review of the technical documentation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity by the conformity assessment body. Where the certification includes ICT processes, the process used to design, develop and maintain an ICT product, ICT service, managed security service or cyber posture of an entity should also be subject to the technical review. Where a European cybersecurity certification scheme provides | (102) For assurance level ‘basic’, the evaluation should be guided at least by the following assurance components: the evaluation should at least include a review of the technical documentation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity by the conformity assessment body. Where the certification includes ICT processes, the process used to design, develop and maintain an ICT product, ICT service, managed security service or cyber posture of an entity should also be subject to the technical review. Where a European cybersecurity certification scheme provides |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 51/243 for a conformity self-assessment, it should be sufficient that the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity whose cyber posture of which is subject to certification, has carried out a self-assessment of the compliance of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with the certification scheme. | for a conformity self-assessment, it should be sufficient that the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity whose cyber posture of which is subject to certification, has carried out a self-assessment of the compliance of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with the certification scheme. |
+| (102) For assurance level ‘basic’, the evaluation should be guided at least by the following assurance components: the evaluation should at least include a review of the technical documentation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity by the conformity assessment body. Where the certification includes ICT processes, the process used to design, develop and maintain an ICT product, ICT service, managed security service or cyber posture of an entity should also be subject to the technical review. Where a European cybersecurity certification scheme provides for a conformity self-assessment, it should be sufficient that the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity whose cyber posture of which is subject to certification, has carried out a self-assessment of the compliance of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with the certification scheme. | (102) For assurance level ‘basic’, the evaluation should be guided at least by the following assurance components: the evaluation should at least include a review of the technical documentation of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity by the conformity assessment body. Where the certification includes ICT processes, the process used to design, develop and maintain an ICT product, ICT service, managed security service or cyber posture of an entity should also be subject to the technical review. Where a European cybersecurity certification scheme provides for a conformity self-assessment, it should be sufficient that the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity whose cyber posture of which is subject to certification, has carried out a self-assessment of the compliance of the ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with the certification scheme. |
 
 <a id="rec-103"></a>
 ### Recital 103
@@ -1194,13 +888,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (104) For assurance level ‘high’, the evaluation, in addition to the requirements for assurance level ‘substantial’, should be guided at least by an efficiency testing which assesses the resistance of the security functionalities against elaborate cyberattacks performed by persons who have significant skills and resources. Conformity assessment activities should be performed in the European Economic Area for assurance level ‘high’ or where a scheme is designed to demonstrate compliance and provide for presumption of conformity with other Union legislation. This requirement is justified by the fact that assessment activities taking place outside the European Economic Area give rise to additional threats to cybersecurity, in particular the intellectual property of the evaluated ICT products, ICT services, ICT processes, managed security services or entities. For instance, the source code of an ICT product could be scrutinised when crossing the border of a third country, which constitutes a risk to intellectual property. Additionally, testing laboratories established in third countries do not operate in an environment that is concerned by the cybersecurity measures mandated by EU legislation, such as Directive (EU) | (104) For assurance level ‘high’, the evaluation, in addition to the requirements for assurance level ‘substantial’, should be guided at least by an efficiency testing which assesses the resistance of the security functionalities against elaborate cyberattacks performed by persons who have significant skills and resources. Conformity assessment activities should be performed in the European Economic Area for assurance level ‘high’ or where a scheme is designed to demonstrate compliance and provide for presumption of conformity with other Union legislation. This requirement is justified by the fact that assessment activities taking place outside the European Economic Area give rise to additional threats to cybersecurity, in particular the intellectual property of the evaluated ICT products, ICT services, ICT processes, managed security services or entities. For instance, the source code of an ICT product could be scrutinised when crossing the border of a third country, which constitutes a risk to intellectual property. Additionally, testing laboratories established in third countries do not operate in an environment that is concerned by the cybersecurity measures mandated by EU legislation, such as Directive (EU) |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 52/243 2022/2555 or Regulation (EU) 2024/2847. For instance, a testing laboratory may rely on a third-party cloud service provider which do not abide to the cybersecurity requirements of Directive (EU) 2022/2555. Nevertheless, a certification scheme should be allowed to provide for derogation mechanisms for instance related to site certification or in other instances where conformity assessment activities cannot be reasonably performed in the European Economic Area. | 2022/2555 or Regulation (EU) 2024/2847. For instance, a testing laboratory may rely on a third-party cloud service provider which do not abide to the cybersecurity requirements of Directive (EU) 2022/2555. Nevertheless, a certification scheme should be allowed to provide for derogation mechanisms for instance related to site certification or in other instances where conformity assessment activities cannot be reasonably performed in the European Economic Area. |
+| (104) For assurance level ‘high’, the evaluation, in addition to the requirements for assurance level ‘substantial’, should be guided at least by an efficiency testing which assesses the resistance of the security functionalities against elaborate cyberattacks performed by persons who have significant skills and resources. Conformity assessment activities should be performed in the European Economic Area for assurance level ‘high’ or where a scheme is designed to demonstrate compliance and provide for presumption of conformity with other Union legislation. This requirement is justified by the fact that assessment activities taking place outside the European Economic Area give rise to additional threats to cybersecurity, in particular the intellectual property of the evaluated ICT products, ICT services, ICT processes, managed security services or entities. For instance, the source code of an ICT product could be scrutinised when crossing the border of a third country, which constitutes a risk to intellectual property. Additionally, testing laboratories established in third countries do not operate in an environment that is concerned by the cybersecurity measures mandated by EU legislation, such as Directive (EU) 2022/2555 or Regulation (EU) 2024/2847. For instance, a testing laboratory may rely on a third-party cloud service provider which do not abide to the cybersecurity requirements of Directive (EU) 2022/2555. Nevertheless, a certification scheme should be allowed to provide for derogation mechanisms for instance related to site certification or in other instances where conformity assessment activities cannot be reasonably performed in the European Economic Area. | (104) For assurance level ‘high’, the evaluation, in addition to the requirements for assurance level ‘substantial’, should be guided at least by an efficiency testing which assesses the resistance of the security functionalities against elaborate cyberattacks performed by persons who have significant skills and resources. Conformity assessment activities should be performed in the European Economic Area for assurance level ‘high’ or where a scheme is designed to demonstrate compliance and provide for presumption of conformity with other Union legislation. This requirement is justified by the fact that assessment activities taking place outside the European Economic Area give rise to additional threats to cybersecurity, in particular the intellectual property of the evaluated ICT products, ICT services, ICT processes, managed security services or entities. For instance, the source code of an ICT product could be scrutinised when crossing the border of a third country, which constitutes a risk to intellectual property. Additionally, testing laboratories established in third countries do not operate in an environment that is concerned by the cybersecurity measures mandated by EU legislation, such as Directive (EU) 2022/2555 or Regulation (EU) 2024/2847. For instance, a testing laboratory may rely on a third-party cloud service provider which do not abide to the cybersecurity requirements of Directive (EU) 2022/2555. Nevertheless, a certification scheme should be allowed to provide for derogation mechanisms for instance related to site certification or in other instances where conformity assessment activities cannot be reasonably performed in the European Economic Area. |
 
 <a id="rec-105"></a>
 ### Recital 105
@@ -1214,13 +902,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (106) European cybersecurity certification schemes should be allowed to provide for a conformity assessment to be carried out under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity the cyber posture of which is certified (‘conformity self-assessment’). In such cases, it should be sufficient that the manufacturer, provider or entity the cyber posture of which is certified, carries out all of the checks itself to ensure that the ICT products, ICT services, ICT processes, managed security service or cyber posture of an entity conform with | (106) European cybersecurity certification schemes should be allowed to provide for a conformity assessment to be carried out under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity the cyber posture of which is certified (‘conformity self-assessment’). In such cases, it should be sufficient that the manufacturer, provider or entity the cyber posture of which is certified, carries out all of the checks itself to ensure that the ICT products, ICT services, ICT processes, managed security service or cyber posture of an entity conform with |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 53/243 the European cybersecurity certification scheme. Conformity self-assessment should be considered to be appropriate for ICT products, ICT services, ICT processes, managed security service or cyber posture of entity that are of low complexity, that present a low risk to the public and that have a simple design or simple production mechanisms. | the European cybersecurity certification scheme. Conformity self-assessment should be considered to be appropriate for ICT products, ICT services, ICT processes, managed security service or cyber posture of entity that are of low complexity, that present a low risk to the public and that have a simple design or simple production mechanisms. |
+| (106) European cybersecurity certification schemes should be allowed to provide for a conformity assessment to be carried out under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity the cyber posture of which is certified (‘conformity self-assessment’). In such cases, it should be sufficient that the manufacturer, provider or entity the cyber posture of which is certified, carries out all of the checks itself to ensure that the ICT products, ICT services, ICT processes, managed security service or cyber posture of an entity conform with the European cybersecurity certification scheme. Conformity self-assessment should be considered to be appropriate for ICT products, ICT services, ICT processes, managed security service or cyber posture of entity that are of low complexity, that present a low risk to the public and that have a simple design or simple production mechanisms. | (106) European cybersecurity certification schemes should be allowed to provide for a conformity assessment to be carried out under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity the cyber posture of which is certified (‘conformity self-assessment’). In such cases, it should be sufficient that the manufacturer, provider or entity the cyber posture of which is certified, carries out all of the checks itself to ensure that the ICT products, ICT services, ICT processes, managed security service or cyber posture of an entity conform with the European cybersecurity certification scheme. Conformity self-assessment should be considered to be appropriate for ICT products, ICT services, ICT processes, managed security service or cyber posture of entity that are of low complexity, that present a low risk to the public and that have a simple design or simple production mechanisms. |
 
 <a id="rec-107"></a>
 ### Recital 107
@@ -1236,18 +918,12 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | (108) The manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entities the cyber posture of which is certified, should be able to issue and sign the EU statement of conformity as part of the conformity assessment procedure. An EU statement of conformity is a document that states that a specific ICT product, ICT service, ICT process, managed security service or the cyber posture of an entity complies with the requirements of the European cybersecurity certification scheme. By issuing and signing the EU statement of conformity, the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity the cyber posture of which is certified, assumes responsibility for the compliance of the ICT product, ICT service, ICT process, managed security service or the cyber posture of the entity with the security requirements of the European cybersecurity certification scheme. A copy of the EU statement of conformity should be submitted to the national cybersecurity certification authority and to ENISA. | (108) The manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entities the cyber posture of which is certified, should be able to issue and sign the EU statement of conformity as part of the conformity assessment procedure. An EU statement of conformity is a document that states that a specific ICT product, ICT service, ICT process, managed security service or the cyber posture of an entity complies with the requirements of the European cybersecurity certification scheme. By issuing and signing the EU statement of conformity, the manufacturer or provider of ICT products, ICT services, ICT processes or managed security services, or the entity the cyber posture of which is certified, assumes responsibility for the compliance of the ICT product, ICT service, ICT process, managed security service or the cyber posture of the entity with the security requirements of the European cybersecurity certification scheme. A copy of the EU statement of conformity should be submitted to the national cybersecurity certification authority and to ENISA. |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 54/243 |  |
-
 <a id="rec-109"></a>
 ### Recital 109
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (109) Manufacturers or providers of ICT products, ICT services, ICT processes or managed security services, or entities the cyber posture of which is certified, should make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity with a European cybersecurity certification scheme available to the competent national cybersecurity certification authority for a period provided for in the relevant European cybersecurity certification scheme and in line with applicable Union legislation. The technical documentation should specify the requirements applicable under the scheme to the extent relevant to the conformity selfassessment. The technical documentation should be so compiled as to enable the assessment of whether an ICT product, ICT service, ICT process or managed security service, or cyber posture of the entity complies with the requirements applicable under the scheme. | (109) Manufacturers or providers of ICT products, ICT services, ICT processes or managed security services, or entities the cyber posture of which is certified, should make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity with a European cybersecurity certification scheme available to the competent national cybersecurity certification authority for a period provided for in the relevant European cybersecurity certification scheme and in line with applicable Union legislation. The technical documentation should specify the requirements applicable under the scheme to the extent relevant to the conformity selfassessment. The technical documentation should be so compiled as to enable the assessment of whether an ICT product, ICT service, ICT process or managed security service, or cyber posture of the entity complies with the requirements applicable under the scheme. |
+| (109) Manufacturers or providers of ICT products, ICT services, ICT processes or managed security services, or entities the cyber posture of which is certified, should make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity with a European cybersecurity certification scheme available to the competent national cybersecurity certification authority for a period provided for in the relevant European cybersecurity certification scheme and in line with applicable Union legislation. The technical documentation should specify the requirements applicable under the scheme to the extent relevant to the conformity self-assessment. The technical documentation should be so compiled as to enable the assessment of whether an ICT product, ICT service, ICT process or managed security service, or cyber posture of the entity complies with the requirements applicable under the scheme. | (109) Manufacturers or providers of ICT products, ICT services, ICT processes or managed security services, or entities the cyber posture of which is certified, should make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity with a European cybersecurity certification scheme available to the competent national cybersecurity certification authority for a period provided for in the relevant European cybersecurity certification scheme and in line with applicable Union legislation. The technical documentation should specify the requirements applicable under the scheme to the extent relevant to the conformity self-assessment. The technical documentation should be so compiled as to enable the assessment of whether an ICT product, ICT service, ICT process or managed security service, or cyber posture of the entity complies with the requirements applicable under the scheme. |
 
 <a id="rec-110"></a>
 ### Recital 110
@@ -1255,12 +931,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | (110) European cybersecurity certificates and EU statements of conformity should help users make informed choices. Therefore, relevant information should be published on a website maintained by ENISA. Furthermore, ICT products, ICT services, and ICT processes that have been certified or for which an EU statement of conformity has been issued should be accompanied by structured information that is adapted to the expected technical level of the intended user. All users should have access to information regarding the reference number of the certification scheme, the issuing authority or body, and, where applicable, the assurance level, or should be able to obtain a copy of the European cybersecurity certificate. That information should be regularly updated and made available on a dedicated website on European cybersecurity certification schemes. Furthermore, in order to ensure continuous accessibility, manufacturers and providers should be required to notify the relevant certification body if the location of the online or, where relevant, physical information changes. | (110) European cybersecurity certificates and EU statements of conformity should help users make informed choices. Therefore, relevant information should be published on a website maintained by ENISA. Furthermore, ICT products, ICT services, and ICT processes that have been certified or for which an EU statement of conformity has been issued should be accompanied by structured information that is adapted to the expected technical level of the intended user. All users should have access to information regarding the reference number of the certification scheme, the issuing authority or body, and, where applicable, the assurance level, or should be able to obtain a copy of the European cybersecurity certificate. That information should be regularly updated and made available on a dedicated website on European cybersecurity certification schemes. Furthermore, in order to ensure continuous accessibility, manufacturers and providers should be required to notify the relevant certification body if the location of the online or, where relevant, physical information changes. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 55/243 |  |
 
 <a id="rec-111"></a>
 ### Recital 111
@@ -1281,13 +951,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (113) European cybersecurity certification schemes should specify the conditions under which ICT products, ICT services, ICT processes, managed security services or cyber posture of an entity may need to be recertified or under which the scope of a specific European cybersecurity certificate may need to be | (113) European cybersecurity certification schemes should specify the conditions under which ICT products, ICT services, ICT processes, managed security services or cyber posture of an entity may need to be recertified or under which the scope of a specific European cybersecurity certificate may need to be |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 56/243 reduced. Furthermore, European cybersecurity certification schemes should take into account any possible adverse effects of any subsequently detected vulnerabilities or nonconformities concerning the certified ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with regard to conformity with the security requirements of that certificate. | reduced. Furthermore, European cybersecurity certification schemes should take into account any possible adverse effects of any subsequently detected vulnerabilities or nonconformities concerning the certified ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with regard to conformity with the security requirements of that certificate. |
+| (113) European cybersecurity certification schemes should specify the conditions under which ICT products, ICT services, ICT processes, managed security services or cyber posture of an entity may need to be recertified or under which the scope of a specific European cybersecurity certificate may need to be reduced. Furthermore, European cybersecurity certification schemes should take into account any possible adverse effects of any subsequently detected vulnerabilities or nonconformities concerning the certified ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with regard to conformity with the security requirements of that certificate. | (113) European cybersecurity certification schemes should specify the conditions under which ICT products, ICT services, ICT processes, managed security services or cyber posture of an entity may need to be recertified or under which the scope of a specific European cybersecurity certificate may need to be reduced. Furthermore, European cybersecurity certification schemes should take into account any possible adverse effects of any subsequently detected vulnerabilities or nonconformities concerning the certified ICT product, ICT service, ICT process, managed security service or cyber posture of an entity with regard to conformity with the security requirements of that certificate. |
 
 <a id="rec-114"></a>
 ### Recital 114
@@ -1308,13 +972,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (116) References in national legislation to national standards which have ceased to be effective due to the entry into force of a European cybersecurity | (116) References in national legislation to national standards which have ceased to be effective due to the entry into force of a European cybersecurity |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 57/243 certification scheme can be a source of confusion. Therefore, where relevant, Member States should reflect the adoption of a European cybersecurity certification scheme in their national legislation. | certification scheme can be a source of confusion. Therefore, where relevant, Member States should reflect the adoption of a European cybersecurity certification scheme in their national legislation. |
+| (116) References in national legislation to national standards which have ceased to be effective due to the entry into force of a European cybersecurity certification scheme can be a source of confusion. Therefore, where relevant, Member States should reflect the adoption of a European cybersecurity certification scheme in their national legislation. | (116) References in national legislation to national standards which have ceased to be effective due to the entry into force of a European cybersecurity certification scheme can be a source of confusion. Therefore, where relevant, Member States should reflect the adoption of a European cybersecurity certification scheme in their national legislation. |
 
 <a id="rec-117"></a>
 ### Recital 117
@@ -1335,26 +993,14 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (119) In order to achieve equivalent implementation of the framework throughout the Union, to facilitate mutual recognition and to promote the overall acceptance of European cybersecurity certificates and EU statements of conformity, it is necessary to put in place a system of peer review between national cybersecurity certification authorities. Peer review should cover procedures for supervising the compliance of ICT products, ICT services, ICT processes, managed security services and cyber posture of entities with European cybersecurity certificates, for monitoring the obligations of manufacturers or providers of ICT products, ICT services, ICT processes, managed security services and certified entities who carry out the conformity self-assessment, for | (119) In order to achieve equivalent implementation of the framework throughout the Union, to facilitate mutual recognition and to promote the overall acceptance of European cybersecurity certificates and EU statements of conformity, it is necessary to put in place a system of peer review between national cybersecurity certification authorities. Peer review should cover procedures for supervising the compliance of ICT products, ICT services, ICT processes, managed security services and cyber posture of entities with European cybersecurity certificates, for monitoring the obligations of manufacturers or providers of ICT products, ICT services, ICT processes, managed security services and certified entities who carry out the conformity self-assessment, for |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 58/243 monitoring conformity assessment bodies, as well as the appropriateness of the expertise of the staff of bodies issuing certificates for assurance level ‘high’. ENISA should participate in the peer reviews as observer and support the organisation of the peer review mechanism and peer reviews, including by developing relevant guidance documents and templates, in cooperation with the Commission and the ECCG. ENISA should also make publicly available on their website on European cybersecurity certification schemes the information on the schedule of peer reviews and the list of peer-reviewed national cybersecurity certification authorities that are to carry out the schedule. Commission Implementing Regulation (EU) 2025/25401, adopted under Regulation (EU) 2019/881 establishes the plan for peer reviews which is being utilised by the adopted European cybersecurity certification schemes. It is necessary to ensure the continuation of the peer reviews. Nevertheless, the Commission should be able, by means of implementing acts, where needed, to establish a new plan for peer reviews of at least five years, as well as to lay down criteria and methodologies for the operation of the peer review system. _________<br>1. Commission Implementing Regulation (EU) 2025/2540 of 9 December 2025 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the establishment of the plan for peer review (OJ L 2540, 12.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/2540/oj). | monitoring conformity assessment bodies, as well as the appropriateness of the expertise of the staff of bodies issuing certificates for assurance level ‘high’. ENISA should participate in the peer reviews as observer and support the organisation of the peer review mechanism and peer reviews, including by developing relevant guidance documents and templates, in cooperation with the Commission and the ECCG. ENISA should also make publicly available on their website on European cybersecurity certification schemes the information on the schedule of peer reviews and the list of peer-reviewed national cybersecurity certification authorities that are to carry out the schedule. Commission Implementing Regulation (EU) 2025/25401, adopted under Regulation (EU) 2019/881 establishes the plan for peer reviews which is being utilised by the adopted European cybersecurity certification schemes. It is necessary to ensure the continuation of the peer reviews. Nevertheless, the Commission should be able, by means of implementing acts, where needed, to establish a new plan for peer reviews of at least five years, as well as to lay down criteria and methodologies for the operation of the peer review system. _________<br>1. Commission Implementing Regulation (EU) 2025/2540 of 9 December 2025 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the establishment of the plan for peer review (OJ L 2540, 12.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/2540/oj). |
+| (119) In order to achieve equivalent implementation of the framework throughout the Union, to facilitate mutual recognition and to promote the overall acceptance of European cybersecurity certificates and EU statements of conformity, it is necessary to put in place a system of peer review between national cybersecurity certification authorities. Peer review should cover procedures for supervising the compliance of ICT products, ICT services, ICT processes, managed security services and cyber posture of entities with European cybersecurity certificates, for monitoring the obligations of manufacturers or providers of ICT products, ICT services, ICT processes, managed security services and certified entities who carry out the conformity self-assessment, for monitoring conformity assessment bodies, as well as the appropriateness of the expertise of the staff of bodies issuing certificates for assurance level ‘high’. ENISA should participate in the peer reviews as observer and support the organisation of the peer review mechanism and peer reviews, including by developing relevant guidance documents and templates, in cooperation with the Commission and the ECCG. ENISA should also make publicly available on their website on European cybersecurity certification schemes the information on the schedule of peer reviews and the list of peer-reviewed national cybersecurity certification authorities that are to carry out the schedule. Commission Implementing Regulation (EU) 2025/25401, adopted under Regulation (EU) 2019/881 establishes the plan for peer reviews which is being utilised by the adopted European cybersecurity certification schemes. It is necessary to ensure the continuation of the peer reviews. Nevertheless, the Commission should be able, by means of implementing acts, where needed, to establish a new plan for peer reviews of at least five years, as well as to lay down criteria and methodologies for the operation of the peer review system. _________<br>1. Commission Implementing Regulation (EU) 2025/2540 of 9 December 2025 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the establishment of the plan for peer review (OJ L 2540, 12.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/2540/oj). | (119) In order to achieve equivalent implementation of the framework throughout the Union, to facilitate mutual recognition and to promote the overall acceptance of European cybersecurity certificates and EU statements of conformity, it is necessary to put in place a system of peer review between national cybersecurity certification authorities. Peer review should cover procedures for supervising the compliance of ICT products, ICT services, ICT processes, managed security services and cyber posture of entities with European cybersecurity certificates, for monitoring the obligations of manufacturers or providers of ICT products, ICT services, ICT processes, managed security services and certified entities who carry out the conformity self-assessment, for monitoring conformity assessment bodies, as well as the appropriateness of the expertise of the staff of bodies issuing certificates for assurance level ‘high’. ENISA should participate in the peer reviews as observer and support the organisation of the peer review mechanism and peer reviews, including by developing relevant guidance documents and templates, in cooperation with the Commission and the ECCG. ENISA should also make publicly available on their website on European cybersecurity certification schemes the information on the schedule of peer reviews and the list of peer-reviewed national cybersecurity certification authorities that are to carry out the schedule. Commission Implementing Regulation (EU) 2025/25401, adopted under Regulation (EU) 2019/881 establishes the plan for peer reviews which is being utilised by the adopted European cybersecurity certification schemes. It is necessary to ensure the continuation of the peer reviews. Nevertheless, the Commission should be able, by means of implementing acts, where needed, to establish a new plan for peer reviews of at least five years, as well as to lay down criteria and methodologies for the operation of the peer review system. _________<br>1. Commission Implementing Regulation (EU) 2025/2540 of 9 December 2025 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the establishment of the plan for peer review (OJ L 2540, 12.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/2540/oj). |
 
 <a id="rec-120"></a>
 ### Recital 120
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (120) Once a European cybersecurity certification scheme is adopted, manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or the entities the cyber posture of which is the subject of certification, should be able to submit applications for certification of their ICT products, ICT services, ICT processes, managed security services or cyber posture to the conformity assessment body of their choice anywhere in the Union. Conformity assessment bodies should be accredited by a national accreditation body if they comply with the requirements set out in this | (120) Once a European cybersecurity certification scheme is adopted, manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or the entities the cyber posture of which is the subject of certification, should be able to submit applications for certification of their ICT products, ICT services, ICT processes, managed security services or cyber posture to the conformity assessment body of their choice anywhere in the Union. Conformity assessment bodies should be accredited by a national accreditation body if they comply with the requirements set out in this |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 59/243 Regulation, and, where applicable, with the requirements specified by the Commission in accordance with this Regulation. The system set out in this Regulation should be complemented by the accreditation system provided for in Regulation (EC) No 765/2008 of the European Parliament and of the Council1. _________<br>1. Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, ELI: http://data.europa.eu/eli/reg/2008/765/oj). | Regulation, and, where applicable, with the requirements specified by the Commission in accordance with this Regulation. The system set out in this Regulation should be complemented by the accreditation system provided for in Regulation (EC) No 765/2008 of the European Parliament and of the Council1. _________<br>1. Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, ELI: http://data.europa.eu/eli/reg/2008/765/oj). |
+| (120) Once a European cybersecurity certification scheme is adopted, manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or the entities the cyber posture of which is the subject of certification, should be able to submit applications for certification of their ICT products, ICT services, ICT processes, managed security services or cyber posture to the conformity assessment body of their choice anywhere in the Union. Conformity assessment bodies should be accredited by a national accreditation body if they comply with the requirements set out in this Regulation, and, where applicable, with the requirements specified by the Commission in accordance with this Regulation. The system set out in this Regulation should be complemented by the accreditation system provided for in Regulation (EC) No 765/2008 of the European Parliament and of the Council1. _________<br>1. Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, ELI: http://data.europa.eu/eli/reg/2008/765/oj). | (120) Once a European cybersecurity certification scheme is adopted, manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or the entities the cyber posture of which is the subject of certification, should be able to submit applications for certification of their ICT products, ICT services, ICT processes, managed security services or cyber posture to the conformity assessment body of their choice anywhere in the Union. Conformity assessment bodies should be accredited by a national accreditation body if they comply with the requirements set out in this Regulation, and, where applicable, with the requirements specified by the Commission in accordance with this Regulation. The system set out in this Regulation should be complemented by the accreditation system provided for in Regulation (EC) No 765/2008 of the European Parliament and of the Council1. _________<br>1. Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, ELI: http://data.europa.eu/eli/reg/2008/765/oj). |
 
 <a id="rec-121"></a>
 ### Recital 121
@@ -1368,13 +1014,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (122) With a view to facilitating harmonised conformity assessment services across the Union, it should be possible to set out in a European cybersecurity certification scheme additional or specific requirements for conformity assessment bodies. In the context of certification, an authorisation should be | (122) With a view to facilitating harmonised conformity assessment services across the Union, it should be possible to set out in a European cybersecurity certification scheme additional or specific requirements for conformity assessment bodies. In the context of certification, an authorisation should be |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 60/243 understood as a decision by a national cybersecurity certification authority that a conformity assessment body meets the specific or additional requirements set out in a European cybersecurity certification scheme, to carry out a specific conformity assessment activity. | understood as a decision by a national cybersecurity certification authority that a conformity assessment body meets the specific or additional requirements set out in a European cybersecurity certification scheme, to carry out a specific conformity assessment activity. |
+| (122) With a view to facilitating harmonised conformity assessment services across the Union, it should be possible to set out in a European cybersecurity certification scheme additional or specific requirements for conformity assessment bodies. In the context of certification, an authorisation should be understood as a decision by a national cybersecurity certification authority that a conformity assessment body meets the specific or additional requirements set out in a European cybersecurity certification scheme, to carry out a specific conformity assessment activity. | (122) With a view to facilitating harmonised conformity assessment services across the Union, it should be possible to set out in a European cybersecurity certification scheme additional or specific requirements for conformity assessment bodies. In the context of certification, an authorisation should be understood as a decision by a national cybersecurity certification authority that a conformity assessment body meets the specific or additional requirements set out in a European cybersecurity certification scheme, to carry out a specific conformity assessment activity. |
 
 <a id="rec-123"></a>
 ### Recital 123
@@ -1388,13 +1028,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (124) In order to safeguard the level of protection required for an ICT product, ICT service, ICT process, managed security service or cyber posture of an entity, it is essential that conformity assessment subcontractors and subsidiaries are required to meet the same requirements as the notified conformity assessment bodies in relation to the performance of conformity assessment tasks. Accordingly, a conformity assessment body should have the appropriate | (124) In order to safeguard the level of protection required for an ICT product, ICT service, ICT process, managed security service or cyber posture of an entity, it is essential that conformity assessment subcontractors and subsidiaries are required to meet the same requirements as the notified conformity assessment bodies in relation to the performance of conformity assessment tasks. Accordingly, a conformity assessment body should have the appropriate |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 61/243 competence and be able to verify that the applicable requirements are met by its subcontractors. | competence and be able to verify that the applicable requirements are met by its subcontractors. |
+| (124) In order to safeguard the level of protection required for an ICT product, ICT service, ICT process, managed security service or cyber posture of an entity, it is essential that conformity assessment subcontractors and subsidiaries are required to meet the same requirements as the notified conformity assessment bodies in relation to the performance of conformity assessment tasks. Accordingly, a conformity assessment body should have the appropriate competence and be able to verify that the applicable requirements are met by its subcontractors. | (124) In order to safeguard the level of protection required for an ICT product, ICT service, ICT process, managed security service or cyber posture of an entity, it is essential that conformity assessment subcontractors and subsidiaries are required to meet the same requirements as the notified conformity assessment bodies in relation to the performance of conformity assessment tasks. Accordingly, a conformity assessment body should have the appropriate competence and be able to verify that the applicable requirements are met by its subcontractors. |
 
 <a id="rec-125"></a>
 ### Recital 125
@@ -1415,26 +1049,14 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (127) Commission Implementing Regulation (EU) 2024/31431 adopted under Regulation (EU) 2019/881 establishes the circumstances, formats and procedures for notifications of conformity assessment bodies which are being utilised by the adopted European cybersecurity certification schemes. It is | (127) Commission Implementing Regulation (EU) 2024/31431 adopted under Regulation (EU) 2019/881 establishes the circumstances, formats and procedures for notifications of conformity assessment bodies which are being utilised by the adopted European cybersecurity certification schemes. It is |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 62/243 therefore necessary to ensure the continuation of the notification activities. Nevertheless, the Commission should be empowered to adopt implementing acts to adjust those circumstances, procedures and formats for the notification of conformity assessment bodies. In this context, the Commission should draw on the experience gained in the context of existing schemes, and seek alignment with other relevant Union legislation and frameworks, in particular Regulation<br>(EU) 2024/2847 and the new legislative framework, in view of reducing compliance burden for conformity assessment bodies active under different legal instruments. _________<br>1. Commission Implementing Regulation (EU) 2024/3143 of 18 December 2024 establishing the circumstances, formats and procedures for notifications pursuant to Article 61(5) of Regulation<br>(EU) 2019/881 of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification (OJ L 3143, 19.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2024/3143/oj). | therefore necessary to ensure the continuation of the notification activities. Nevertheless, the Commission should be empowered to adopt implementing acts to adjust those circumstances, procedures and formats for the notification of conformity assessment bodies. In this context, the Commission should draw on the experience gained in the context of existing schemes, and seek alignment with other relevant Union legislation and frameworks, in particular Regulation<br>(EU) 2024/2847 and the new legislative framework, in view of reducing compliance burden for conformity assessment bodies active under different legal instruments. _________<br>1. Commission Implementing Regulation (EU) 2024/3143 of 18 December 2024 establishing the circumstances, formats and procedures for notifications pursuant to Article 61(5) of Regulation<br>(EU) 2019/881 of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification (OJ L 3143, 19.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2024/3143/oj). |
+| (127) Commission Implementing Regulation (EU) 2024/31431 adopted under Regulation (EU) 2019/881 establishes the circumstances, formats and procedures for notifications of conformity assessment bodies which are being utilised by the adopted European cybersecurity certification schemes. It is therefore necessary to ensure the continuation of the notification activities. Nevertheless, the Commission should be empowered to adopt implementing acts to adjust those circumstances, procedures and formats for the notification of conformity assessment bodies. In this context, the Commission should draw on the experience gained in the context of existing schemes, and seek alignment with other relevant Union legislation and frameworks, in particular Regulation<br>(EU) 2024/2847 and the new legislative framework, in view of reducing compliance burden for conformity assessment bodies active under different legal instruments. _________<br>1. Commission Implementing Regulation (EU) 2024/3143 of 18 December 2024 establishing the circumstances, formats and procedures for notifications pursuant to Article 61(5) of Regulation<br>(EU) 2019/881 of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification (OJ L 3143, 19.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2024/3143/oj). | (127) Commission Implementing Regulation (EU) 2024/31431 adopted under Regulation (EU) 2019/881 establishes the circumstances, formats and procedures for notifications of conformity assessment bodies which are being utilised by the adopted European cybersecurity certification schemes. It is therefore necessary to ensure the continuation of the notification activities. Nevertheless, the Commission should be empowered to adopt implementing acts to adjust those circumstances, procedures and formats for the notification of conformity assessment bodies. In this context, the Commission should draw on the experience gained in the context of existing schemes, and seek alignment with other relevant Union legislation and frameworks, in particular Regulation<br>(EU) 2024/2847 and the new legislative framework, in view of reducing compliance burden for conformity assessment bodies active under different legal instruments. _________<br>1. Commission Implementing Regulation (EU) 2024/3143 of 18 December 2024 establishing the circumstances, formats and procedures for notifications pursuant to Article 61(5) of Regulation<br>(EU) 2019/881 of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification (OJ L 3143, 19.12.2025, ELI: http://data.europa.eu/eli/reg_impl/2024/3143/oj). |
 
 <a id="rec-127a"></a>
 ### Recital 127a
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(127a) The Commission and the Member States should act when doubt arises about the competence of a notified conformity assessment body, either at the moment of notification or thereafter. Should the Commission consider, on its own initiative or after complaint, that a notified conformity assessment body does not comply with the requirements or fulfil its responsibilities, it should inform the national cybersecurity certification authority and ask for appropriate documented evidence concerning the basis for the notification of the competence of the body. Where a national cybersecurity certification authority has ascertained or has been informed that a notified conformity assessment body no longer meets the requirements laid down in this Regulation, or that it is failing to fulfil its obligations, the national cybersecurity certification authority should, depending on the seriousness of the failure, suspend or withdraw the notification after immediately contacting the body in question and inform the Commission and the other Member States accordingly. The body in question should have the** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 63/243 | **notified body from the NANDO list on its own initiative only when the Court of Justice of the European Union declares a Member State to be in infringement of this Regulation and, consequently, declares a notification to be invalid.** |
+|  | **(127a) The Commission and the Member States should act when doubt arises about the competence of a notified conformity assessment body, either at the moment of notification or thereafter. Should the Commission consider, on its own initiative or after complaint, that a notified conformity assessment body does not comply with the requirements or fulfil its responsibilities, it should inform the national cybersecurity certification authority and ask for appropriate documented evidence concerning the basis for the notification of the competence of the body. Where a national cybersecurity certification authority has ascertained or has been informed that a notified conformity assessment body no longer meets the requirements laid down in this Regulation, or that it is failing to fulfil its obligations, the national cybersecurity certification authority should, depending on the seriousness of the failure, suspend or withdraw the notification after immediately contacting the body in question and inform the Commission and the other Member States accordingly. The body in question should have the notified body from the NANDO list on its own initiative only when the Court of Justice of the European Union declares a Member State to be in infringement of this Regulation and, consequently, declares a notification to be invalid.** |
 
 <a id="rec-128"></a>
 ### Recital 128
@@ -1448,46 +1070,28 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 64/243<br>(129) Beyond technical risks which are addressed by Directive (EU) 2022/55 of the European Parliament and of the Council1, Regulation (EU) 2024/2847 of the European Parliament and of the Council2 and the European cybersecurity certification Framework established by Regulation (EU) 2019/881, ICT supply chains are increasingly exposed to risks of a non-technical nature. Such nontechnical risks may be linked, but not limited, to the jurisdiction to which a supplier of certain components is subject, in particular where a third country or threat actors controlled from that country engage in economic espionage, carry out malicious cyber activities or campaigns against the Union or its Member States, or engages in irresponsible State behaviour in cyberspace. Non-technical risks can also be linked to concealed vulnerabilities or backdoors or potential systemic supply disruptions, in particular in the case of technological lock-in or supplier dependency. For instance, kill switches could be used to negatively impact the availability of communication networks and electricity grids. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333 du 27.12.2022, p. 80-152, ELI: https://eurlex.europa.eu/eli/dir/2022/2555/oj).<br>2. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: https://eurlex.europa.eu/eli/reg/2024/2847/oj/eng). | (129) Beyond technical risks which are addressed by Directive (EU) 2022/55 of the European Parliament and of the Council1, Regulation (EU) 2024/2847 of the European Parliament and of the Council2 and the European cybersecurity certification Framework established by Regulation (EU) 2019/881, ICT supply chains are increasingly exposed to risks of a non-technical nature. Such nontechnical risks may be linked, but not limited, to the jurisdiction to which a supplier of certain components is subject, in particular where a third country or threat actors controlled from that country engage in economic espionage, carry out malicious cyber activities or campaigns against the Union or its Member States, or engages in irresponsible State behaviour in cyberspace. Non-technical risks can also be linked to concealed vulnerabilities or backdoors or potential systemic supply disruptions, in particular in the case of technological lock-in or supplier dependency. For instance, kill switches could be used to negatively impact the availability of communication networks and electricity grids. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333 du 27.12.2022, p. 80-152, ELI: https://eurlex.europa.eu/eli/dir/2022/2555/oj).<br>2. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: https://eurlex.europa.eu/eli/reg/2024/2847/oj/eng). |
+| (129) Beyond technical risks which are addressed by Directive (EU) 2022/55 of the European Parliament and of the Council1, Regulation (EU) 2024/2847 of the European Parliament and of the Council2 and the European cybersecurity certification Framework established by Regulation (EU) 2019/881, ICT supply chains are increasingly exposed to risks of a non-technical nature. Such non-technical risks may be linked, but not limited, to the jurisdiction to which a supplier of certain components is subject, in particular where a third country or threat actors controlled from that country engage in economic espionage, carry out malicious cyber activities or campaigns against the Union or its Member States, or engages in irresponsible State behaviour in cyberspace. Non-technical risks can also be linked to concealed vulnerabilities or backdoors or potential systemic supply disruptions, in particular in the case of technological lock-in or supplier dependency. For instance, kill switches could be used to negatively impact the availability of communication networks and electricity grids. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333 du 27.12.2022, p. 80-152, ELI: https://eur-lex.europa.eu/eli/dir/2022/2555/oj).<br>2. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng). | (129) Beyond technical risks which are addressed by Directive (EU) 2022/55 of the European Parliament and of the Council1, Regulation (EU) 2024/2847 of the European Parliament and of the Council2 and the European cybersecurity certification Framework established by Regulation (EU) 2019/881, ICT supply chains are increasingly exposed to risks of a non-technical nature. Such non-technical risks may be linked, but not limited, to the jurisdiction to which a supplier of certain components is subject, in particular where a third country or threat actors controlled from that country engage in economic espionage, carry out malicious cyber activities or campaigns against the Union or its Member States, or engages in irresponsible State behaviour in cyberspace. Non-technical risks can also be linked to concealed vulnerabilities or backdoors or potential systemic supply disruptions, in particular in the case of technological lock-in or supplier dependency. For instance, kill switches could be used to negatively impact the availability of communication networks and electricity grids. _________<br>1. Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation<br>(EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333 du 27.12.2022, p. 80-152, ELI: https://eur-lex.europa.eu/eli/dir/2022/2555/oj).<br>2. Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng). |
 
 <a id="rec-130"></a>
 ### Recital 130
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (130) The Joint Communication on Strengthening EU economic security1 underlined the risk of third countries gaining access to sensitive information and data in the Union or its Member States, either as a result of industrial espionage, their supply of hardware or software used in certain products or due to their ownership and control of certain businesses possessing sensitive information and | (130) The Joint Communication on Strengthening EU economic security1 underlined the risk of third countries gaining access to sensitive information and data in the Union or its Member States, either as a result of industrial espionage, their supply of hardware or software used in certain products or due to their ownership and control of certain businesses possessing sensitive information and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 65/243 data. It also underlined the risk of the Union’s critical infrastructure - including critical transport, space systems, energy and communications infrastructure, in particular those that are identified as strategic to military mobility - being disrupted by foreign actors, which could lead to cascade effects on the Union economy. Disruptions could occur through physical, cyber or hybrid attacks, including the sabotage of entire facilities or their parts or subcomponents. They could also be linked to ICT supply chains, which underly critical components or services to critical infrastructures. _________<br>1. Joint Communication to the European Parliament and the Council, Strengthening EU economic security, 3 December 2025, JOIN(2025) 977 final. | data. It also underlined the risk of the Union’s critical infrastructure - including critical transport, space systems, energy and communications infrastructure, in particular those that are identified as strategic to military mobility - being disrupted by foreign actors, which could lead to cascade effects on the Union economy. Disruptions could occur through physical, cyber or hybrid attacks, including the sabotage of entire facilities or their parts or subcomponents. They could also be linked to ICT supply chains, which underly critical components or services to critical infrastructures. _________<br>1. Joint Communication to the European Parliament and the Council, Strengthening EU economic security, 3 December 2025, JOIN(2025) 977 final. |
+| (130) The Joint Communication on Strengthening EU economic security1 underlined the risk of third countries gaining access to sensitive information and data in the Union or its Member States, either as a result of industrial espionage, their supply of hardware or software used in certain products or due to their ownership and control of certain businesses possessing sensitive information and data. It also underlined the risk of the Union’s critical infrastructure - including critical transport, space systems, energy and communications infrastructure, in particular those that are identified as strategic to military mobility - being disrupted by foreign actors, which could lead to cascade effects on the Union economy. Disruptions could occur through physical, cyber or hybrid attacks, including the sabotage of entire facilities or their parts or subcomponents. They could also be linked to ICT supply chains, which underly critical components or services to critical infrastructures. _________<br>1. Joint Communication to the European Parliament and the Council, Strengthening EU economic security, 3 December 2025, JOIN(2025) 977 final. | (130) The Joint Communication on Strengthening EU economic security1 underlined the risk of third countries gaining access to sensitive information and data in the Union or its Member States, either as a result of industrial espionage, their supply of hardware or software used in certain products or due to their ownership and control of certain businesses possessing sensitive information and data. It also underlined the risk of the Union’s critical infrastructure - including critical transport, space systems, energy and communications infrastructure, in particular those that are identified as strategic to military mobility - being disrupted by foreign actors, which could lead to cascade effects on the Union economy. Disruptions could occur through physical, cyber or hybrid attacks, including the sabotage of entire facilities or their parts or subcomponents. They could also be linked to ICT supply chains, which underly critical components or services to critical infrastructures. _________<br>1. Joint Communication to the European Parliament and the Council, Strengthening EU economic security, 3 December 2025, JOIN(2025) 977 final. |
 
 <a id="rec-131"></a>
 ### Recital 131
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (131) In response to challenges to ICT supply chain security posed by nontechnical risks, some Member States have taken regulatory measures, including designation of high-risk suppliers, whilst other Member States are likely to do so. This could lead to further divergence in national approaches, and ultimately to higher vulnerability of some Member States, with potential spill-over effects across the Union. Therefore, it is necessary to harmonise certain aspects related to the non-technical cybersecurity risks to the ICT supply chain. Such intervention at Union level is also justified in view of the need to ensure a high level of cybersecurity across the Union. The provisions on the ICT supply chain security aim to remove such wide divergences among Member States, in particular by setting out rules for risk assessment mechanisms of ICT supply chain security risks at Union level and minimum standards of protection from ICT supply chain risks. | (131) In response to challenges to ICT supply chain security posed by nontechnical risks, some Member States have taken regulatory measures, including designation of high-risk suppliers, whilst other Member States are likely to do so. This could lead to further divergence in national approaches, and ultimately to higher vulnerability of some Member States, with potential spill-over effects across the Union. Therefore, it is necessary to harmonise certain aspects related to the non-technical cybersecurity risks to the ICT supply chain. Such intervention at Union level is also justified in view of the need to ensure a high level of cybersecurity across the Union. The provisions on the ICT supply chain security aim to remove such wide divergences among Member States, in particular by setting out rules for risk assessment mechanisms of ICT supply chain security risks at Union level and minimum standards of protection from ICT supply chain risks. |
+| (131) In response to challenges to ICT supply chain security posed by non-technical risks, some Member States have taken regulatory measures, including designation of high-risk suppliers, whilst other Member States are likely to do so. This could lead to further divergence in national approaches, and ultimately to higher vulnerability of some Member States, with potential spill-over effects across the Union. Therefore, it is necessary to harmonise certain aspects related to the non-technical cybersecurity risks to the ICT supply chain. Such intervention at Union level is also justified in view of the need to ensure a high level of cybersecurity across the Union. The provisions on the ICT supply chain security aim to remove such wide divergences among Member States, in particular by setting out rules for risk assessment mechanisms of ICT supply chain security risks at Union level and minimum standards of protection from ICT supply chain risks. | (131) In response to challenges to ICT supply chain security posed by non-technical risks, some Member States have taken regulatory measures, including designation of high-risk suppliers, whilst other Member States are likely to do so. This could lead to further divergence in national approaches, and ultimately to higher vulnerability of some Member States, with potential spill-over effects across the Union. Therefore, it is necessary to harmonise certain aspects related to the non-technical cybersecurity risks to the ICT supply chain. Such intervention at Union level is also justified in view of the need to ensure a high level of cybersecurity across the Union. The provisions on the ICT supply chain security aim to remove such wide divergences among Member States, in particular by setting out rules for risk assessment mechanisms of ICT supply chain security risks at Union level and minimum standards of protection from ICT supply chain risks. |
 
 <a id="rec-132"></a>
 ### Recital 132
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (132) To reduce critical dependencies and vulnerabilities, it is necessary to establish a trusted ICT supply chain framework which should address nontechnical risks related to high-risk suppliers and dependencies in sectors of high | (132) To reduce critical dependencies and vulnerabilities, it is necessary to establish a trusted ICT supply chain framework which should address nontechnical risks related to high-risk suppliers and dependencies in sectors of high |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 66/243 criticality and other critical sectors. Therefore, it is necessary to provide an objective, risk-based, future-proof and technology-neutral framework at Union level, to identify key ICT assets and provide for a set of proportionate mitigating measures to address the risks. | criticality and other critical sectors. Therefore, it is necessary to provide an objective, risk-based, future-proof and technology-neutral framework at Union level, to identify key ICT assets and provide for a set of proportionate mitigating measures to address the risks. |
+| (132) To reduce critical dependencies and vulnerabilities, it is necessary to establish a trusted ICT supply chain framework which should address non-technical risks related to high-risk suppliers and dependencies in sectors of high criticality and other critical sectors. Therefore, it is necessary to provide an objective, risk-based, future-proof and technology-neutral framework at Union level, to identify key ICT assets and provide for a set of proportionate mitigating measures to address the risks. | (132) To reduce critical dependencies and vulnerabilities, it is necessary to establish a trusted ICT supply chain framework which should address non-technical risks related to high-risk suppliers and dependencies in sectors of high criticality and other critical sectors. Therefore, it is necessary to provide an objective, risk-based, future-proof and technology-neutral framework at Union level, to identify key ICT assets and provide for a set of proportionate mitigating measures to address the risks. |
 
 <a id="rec-133"></a>
 ### Recital 133
@@ -1508,13 +1112,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (135) In order to identify potential cybersecurity risks affecting specific ICT supply chains, the Cooperation Group established by Article 14 of Directive<br>(EU) 2022/2555 (‘NIS Cooperation Group’) may assess specific ICT supply chains by means of Union-level coordinated security risk assessments. The Union-level coordinated security risk assessments should look, among others, at | (135) In order to identify potential cybersecurity risks affecting specific ICT supply chains, the Cooperation Group established by Article 14 of Directive<br>(EU) 2022/2555 (‘NIS Cooperation Group’) may assess specific ICT supply chains by means of Union-level coordinated security risk assessments. The Union-level coordinated security risk assessments should look, among others, at |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 67/243 the main threat actors, the main threats and vulnerabilities affecting the key ICT assets. The Union-level coordinated security risk assessments should develop a list of risk scenarios and a list of measures to mitigate the risks. Union-level coordinated security risk assessments should be completed within six months. In case of specific urgency, it should be possible to shorten the deadlines. | the main threat actors, the main threats and vulnerabilities affecting the key ICT assets. The Union-level coordinated security risk assessments should develop a list of risk scenarios and a list of measures to mitigate the risks. Union-level coordinated security risk assessments should be completed within six months. In case of specific urgency, it should be possible to shorten the deadlines. |
+| (135) In order to identify potential cybersecurity risks affecting specific ICT supply chains, the Cooperation Group established by Article 14 of Directive<br>(EU) 2022/2555 (‘NIS Cooperation Group’) may assess specific ICT supply chains by means of Union-level coordinated security risk assessments. The Union-level coordinated security risk assessments should look, among others, at the main threat actors, the main threats and vulnerabilities affecting the key ICT assets. The Union-level coordinated security risk assessments should develop a list of risk scenarios and a list of measures to mitigate the risks. Union-level coordinated security risk assessments should be completed within six months. In case of specific urgency, it should be possible to shorten the deadlines. | (135) In order to identify potential cybersecurity risks affecting specific ICT supply chains, the Cooperation Group established by Article 14 of Directive<br>(EU) 2022/2555 (‘NIS Cooperation Group’) may assess specific ICT supply chains by means of Union-level coordinated security risk assessments. The Union-level coordinated security risk assessments should look, among others, at the main threat actors, the main threats and vulnerabilities affecting the key ICT assets. The Union-level coordinated security risk assessments should develop a list of risk scenarios and a list of measures to mitigate the risks. Union-level coordinated security risk assessments should be completed within six months. In case of specific urgency, it should be possible to shorten the deadlines. |
 
 <a id="rec-136"></a>
 ### Recital 136
@@ -1528,13 +1126,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (137) Where, as a result of a security risk assessment conducted by the NIS Cooperation Group or the Commission, it appears that a specific third country poses serious and structural non-technical cybersecurity risks to ICT supply chains, the Commission should verify the threat posed by that country. The Commission may initiate such verification also on the basis of other sources such as a public statement on behalf of the Union or a Member States in response to, instances of irresponsible state behaviour in cyberspace that has led to a cybersecurity incident. In order to assess the level of threat, the Commission should take into account elements such as the existence of laws or practices in the third country which require entities under their jurisdiction to report information on software or hardware vulnerabilities to authorities of that third country prior to those vulnerabilities being known to have been exploited. Another relevant element is the absence of effective judicial remedies, and independent and democratic control mechanisms, that can correct security concerns, including about existing practices, the substantiated information about incidents of threat actors operating out of the territory of that country carrying out malicious cyber | (137) Where, as a result of a security risk assessment conducted by the NIS Cooperation Group or the Commission, it appears that a specific third country poses serious and structural non-technical cybersecurity risks to ICT supply chains, the Commission should verify the threat posed by that country. The Commission may initiate such verification also on the basis of other sources such as a public statement on behalf of the Union or a Member States in response to, instances of irresponsible state behaviour in cyberspace that has led to a cybersecurity incident. In order to assess the level of threat, the Commission should take into account elements such as the existence of laws or practices in the third country which require entities under their jurisdiction to report information on software or hardware vulnerabilities to authorities of that third country prior to those vulnerabilities being known to have been exploited. Another relevant element is the absence of effective judicial remedies, and independent and democratic control mechanisms, that can correct security concerns, including about existing practices, the substantiated information about incidents of threat actors operating out of the territory of that country carrying out malicious cyber |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 68/243 activities or campaigns, and the lack of ability or willingness of the third country to cooperate with the Commission or Member States to address the risk stemming from the operation of such threat actors. The Commission should also take into account information stemming from Union-level coordinated security risk assessments or reports issued by Member States or international organisations such as NATO. | activities or campaigns, and the lack of ability or willingness of the third country to cooperate with the Commission or Member States to address the risk stemming from the operation of such threat actors. The Commission should also take into account information stemming from Union-level coordinated security risk assessments or reports issued by Member States or international organisations such as NATO. |
+| (137) Where, as a result of a security risk assessment conducted by the NIS Cooperation Group or the Commission, it appears that a specific third country poses serious and structural non-technical cybersecurity risks to ICT supply chains, the Commission should verify the threat posed by that country. The Commission may initiate such verification also on the basis of other sources such as a public statement on behalf of the Union or a Member States in response to, instances of irresponsible state behaviour in cyberspace that has led to a cybersecurity incident. In order to assess the level of threat, the Commission should take into account elements such as the existence of laws or practices in the third country which require entities under their jurisdiction to report information on software or hardware vulnerabilities to authorities of that third country prior to those vulnerabilities being known to have been exploited. Another relevant element is the absence of effective judicial remedies, and independent and democratic control mechanisms, that can correct security concerns, including about existing practices, the substantiated information about incidents of threat actors operating out of the territory of that country carrying out malicious cyber activities or campaigns, and the lack of ability or willingness of the third country to cooperate with the Commission or Member States to address the risk stemming from the operation of such threat actors. The Commission should also take into account information stemming from Union-level coordinated security risk assessments or reports issued by Member States or international organisations such as NATO. | (137) Where, as a result of a security risk assessment conducted by the NIS Cooperation Group or the Commission, it appears that a specific third country poses serious and structural non-technical cybersecurity risks to ICT supply chains, the Commission should verify the threat posed by that country. The Commission may initiate such verification also on the basis of other sources such as a public statement on behalf of the Union or a Member States in response to, instances of irresponsible state behaviour in cyberspace that has led to a cybersecurity incident. In order to assess the level of threat, the Commission should take into account elements such as the existence of laws or practices in the third country which require entities under their jurisdiction to report information on software or hardware vulnerabilities to authorities of that third country prior to those vulnerabilities being known to have been exploited. Another relevant element is the absence of effective judicial remedies, and independent and democratic control mechanisms, that can correct security concerns, including about existing practices, the substantiated information about incidents of threat actors operating out of the territory of that country carrying out malicious cyber activities or campaigns, and the lack of ability or willingness of the third country to cooperate with the Commission or Member States to address the risk stemming from the operation of such threat actors. The Commission should also take into account information stemming from Union-level coordinated security risk assessments or reports issued by Member States or international organisations such as NATO. |
 
 <a id="rec-138"></a>
 ### Recital 138
@@ -1555,13 +1147,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 69/243<br>(140) Public procurement can be a strong tool for public authorities to contribute to a more innovative, sustainable and competitive economy and for spending public money in a strategic manner. Public procurement related to ICT supply chains should not be used to benefit suppliers that threaten the security of the Union’s critical infrastructure. High-risk suppliers identified under this Regulation should therefore not be entitled to participate in public procurement concerning the provision of ICT components or components that include ICT components to be used in identified key ICT assets. | (140) Public procurement can be a strong tool for public authorities to contribute to a more innovative, sustainable and competitive economy and for spending public money in a strategic manner. Public procurement related to ICT supply chains should not be used to benefit suppliers that threaten the security of the Union’s critical infrastructure. High-risk suppliers identified under this Regulation should therefore not be entitled to participate in public procurement concerning the provision of ICT components or components that include ICT components to be used in identified key ICT assets. |
+| (140) Public procurement can be a strong tool for public authorities to contribute to a more innovative, sustainable and competitive economy and for spending public money in a strategic manner. Public procurement related to ICT supply chains should not be used to benefit suppliers that threaten the security of the Union’s critical infrastructure. High-risk suppliers identified under this Regulation should therefore not be entitled to participate in public procurement concerning the provision of ICT components or components that include ICT components to be used in identified key ICT assets. | (140) Public procurement can be a strong tool for public authorities to contribute to a more innovative, sustainable and competitive economy and for spending public money in a strategic manner. Public procurement related to ICT supply chains should not be used to benefit suppliers that threaten the security of the Union’s critical infrastructure. High-risk suppliers identified under this Regulation should therefore not be entitled to participate in public procurement concerning the provision of ICT components or components that include ICT components to be used in identified key ICT assets. |
 
 <a id="rec-141"></a>
 ### Recital 141
@@ -1582,13 +1168,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (143) Based on the results of the security risk assessments, the Commission may identify, by means of implementing acts, which ICT assets should be regarded as | (143) Based on the results of the security risk assessments, the Commission may identify, by means of implementing acts, which ICT assets should be regarded as |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 70/243 key ICT assets due to their criticality and subject to specific mitigating measures. The mere existence of the possibility of connectivity of the asset should be sufficient to consider their cybersecurity risk. | key ICT assets due to their criticality and subject to specific mitigating measures. The mere existence of the possibility of connectivity of the asset should be sufficient to consider their cybersecurity risk. |
+| (143) Based on the results of the security risk assessments, the Commission may identify, by means of implementing acts, which ICT assets should be regarded as key ICT assets due to their criticality and subject to specific mitigating measures. The mere existence of the possibility of connectivity of the asset should be sufficient to consider their cybersecurity risk. | (143) Based on the results of the security risk assessments, the Commission may identify, by means of implementing acts, which ICT assets should be regarded as key ICT assets due to their criticality and subject to specific mitigating measures. The mere existence of the possibility of connectivity of the asset should be sufficient to consider their cybersecurity risk. |
 
 <a id="rec-144"></a>
 ### Recital 144
@@ -1609,13 +1189,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (146) Use, installation or any other kind of integration of components provided by high-risk suppliers in the operation of key ICT assets may be related to risks of subsequent transfers of data to a third country. In particular, risks may be posed by an insufficient level of protection offered to the data in the third country, such as for the protection of fundamental rights, intellectual property or trade secrets, | (146) Use, installation or any other kind of integration of components provided by high-risk suppliers in the operation of key ICT assets may be related to risks of subsequent transfers of data to a third country. In particular, risks may be posed by an insufficient level of protection offered to the data in the third country, such as for the protection of fundamental rights, intellectual property or trade secrets, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 71/243 or unlawful access and exploitation of that data for possible future supply chain disruptions and espionage purposes. To mitigate such risks, restrictions in relation to transfer of specific types of data to third countries may be applied. | or unlawful access and exploitation of that data for possible future supply chain disruptions and espionage purposes. To mitigate such risks, restrictions in relation to transfer of specific types of data to third countries may be applied. |
+| (146) Use, installation or any other kind of integration of components provided by high-risk suppliers in the operation of key ICT assets may be related to risks of subsequent transfers of data to a third country. In particular, risks may be posed by an insufficient level of protection offered to the data in the third country, such as for the protection of fundamental rights, intellectual property or trade secrets, or unlawful access and exploitation of that data for possible future supply chain disruptions and espionage purposes. To mitigate such risks, restrictions in relation to transfer of specific types of data to third countries may be applied. | (146) Use, installation or any other kind of integration of components provided by high-risk suppliers in the operation of key ICT assets may be related to risks of subsequent transfers of data to a third country. In particular, risks may be posed by an insufficient level of protection offered to the data in the third country, such as for the protection of fundamental rights, intellectual property or trade secrets, or unlawful access and exploitation of that data for possible future supply chain disruptions and espionage purposes. To mitigate such risks, restrictions in relation to transfer of specific types of data to third countries may be applied. |
 
 <a id="rec-147"></a>
 ### Recital 147
@@ -1636,33 +1210,21 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (149) In exceptional circumstances justifying an immediate intervention to preserve the proper functioning of the internal market and where there is a clear evidence giving the Commission sufficient reason to consider that the use of ICT components or components that include ICT components from a specific supplier represents a significant cybersecurity threat for the economic or societal activities of at least three Member States, the Commission may propose, in close consultation with Member States, to prohibit the use, installation or integration | (149) In exceptional circumstances justifying an immediate intervention to preserve the proper functioning of the internal market and where there is a clear evidence giving the Commission sufficient reason to consider that the use of ICT components or components that include ICT components from a specific supplier represents a significant cybersecurity threat for the economic or societal activities of at least three Member States, the Commission may propose, in close consultation with Member States, to prohibit the use, installation or integration |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 72/243 of such components from this supplier by type of entities referred to in Annexes I and II to Directive (EU) 2022/2555. | of such components from this supplier by type of entities referred to in Annexes I and II to Directive (EU) 2022/2555. |
+| (149) In exceptional circumstances justifying an immediate intervention to preserve the proper functioning of the internal market and where there is a clear evidence giving the Commission sufficient reason to consider that the use of ICT components or components that include ICT components from a specific supplier represents a significant cybersecurity threat for the economic or societal activities of at least three Member States, the Commission may propose, in close consultation with Member States, to prohibit the use, installation or integration of such components from this supplier by type of entities referred to in Annexes I and II to Directive (EU) 2022/2555. | (149) In exceptional circumstances justifying an immediate intervention to preserve the proper functioning of the internal market and where there is a clear evidence giving the Commission sufficient reason to consider that the use of ICT components or components that include ICT components from a specific supplier represents a significant cybersecurity threat for the economic or societal activities of at least three Member States, the Commission may propose, in close consultation with Member States, to prohibit the use, installation or integration of such components from this supplier by type of entities referred to in Annexes I and II to Directive (EU) 2022/2555. |
 
 <a id="rec-150"></a>
 ### Recital 150
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (150) In order to ensure proportionality of measures applied, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation, or controlled by such third country, by an entity established in such third country, or by a national of such third country can apply to be exempted from the prohibition to provide to entities of a type referred to in Annexes I and II to Directive (EU) 2022/2555 ICT components or components that include ICT components for their use, installation or integration in key ICT assets of that entity and participate in public procurement procedures organised in accordance with legislation transposing Directives 2014/24/EU1 and 2014/25/EU of the European Parliament and of the Council2 procedures in relation to the provision of ICT components or components that include ICT components to be used in identified key ICT assets. For that purpose, the entity should demonstrate with clear evidence that it applies effective measures addressing the non-technical risks and ensuring the absence of any possible undue interference by a third country posing cybersecurity concerns. _________<br>1. Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, pp. 65–242, ELI: https://eur-lex.europa.eu/eli/dir/2014/24/oj/eng).<br>2. Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94 du 28.3.2014, p. 243-374, ELI: https://eurlex.europa.eu/eli/dir/2014/25/oj?locale=fr). | (150) In order to ensure proportionality of measures applied, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation, or controlled by such third country, by an entity established in such third country, or by a national of such third country can apply to be exempted from the prohibition to provide to entities of a type referred to in Annexes I and II to Directive (EU) 2022/2555 ICT components or components that include ICT components for their use, installation or integration in key ICT assets of that entity and participate in public procurement procedures organised in accordance with legislation transposing Directives 2014/24/EU1 and 2014/25/EU of the European Parliament and of the Council2 procedures in relation to the provision of ICT components or components that include ICT components to be used in identified key ICT assets. For that purpose, the entity should demonstrate with clear evidence that it applies effective measures addressing the non-technical risks and ensuring the absence of any possible undue interference by a third country posing cybersecurity concerns. _________<br>1. Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, pp. 65–242, ELI: https://eur-lex.europa.eu/eli/dir/2014/24/oj/eng).<br>2. Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94 du 28.3.2014, p. 243-374, ELI: https://eurlex.europa.eu/eli/dir/2014/25/oj?locale=fr). |
+| (150) In order to ensure proportionality of measures applied, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation, or controlled by such third country, by an entity established in such third country, or by a national of such third country can apply to be exempted from the prohibition to provide to entities of a type referred to in Annexes I and II to Directive (EU) 2022/2555 ICT components or components that include ICT components for their use, installation or integration in key ICT assets of that entity and participate in public procurement procedures organised in accordance with legislation transposing Directives 2014/24/EU1 and 2014/25/EU of the European Parliament and of the Council2 procedures in relation to the provision of ICT components or components that include ICT components to be used in identified key ICT assets. For that purpose, the entity should demonstrate with clear evidence that it applies effective measures addressing the non-technical risks and ensuring the absence of any possible undue interference by a third country posing cybersecurity concerns. _________<br>1. Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, pp. 65–242, ELI: https://eur-lex.europa.eu/eli/dir/2014/24/oj/eng).<br>2. Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94 du 28.3.2014, p. 243-374, ELI: https://eur-lex.europa.eu/eli/dir/2014/25/oj?locale=fr). | (150) In order to ensure proportionality of measures applied, entities established in a third country posing cybersecurity concerns designated in accordance with this Regulation, or controlled by such third country, by an entity established in such third country, or by a national of such third country can apply to be exempted from the prohibition to provide to entities of a type referred to in Annexes I and II to Directive (EU) 2022/2555 ICT components or components that include ICT components for their use, installation or integration in key ICT assets of that entity and participate in public procurement procedures organised in accordance with legislation transposing Directives 2014/24/EU1 and 2014/25/EU of the European Parliament and of the Council2 procedures in relation to the provision of ICT components or components that include ICT components to be used in identified key ICT assets. For that purpose, the entity should demonstrate with clear evidence that it applies effective measures addressing the non-technical risks and ensuring the absence of any possible undue interference by a third country posing cybersecurity concerns. _________<br>1. Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, pp. 65–242, ELI: https://eur-lex.europa.eu/eli/dir/2014/24/oj/eng).<br>2. Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94 du 28.3.2014, p. 243-374, ELI: https://eur-lex.europa.eu/eli/dir/2014/25/oj?locale=fr). |
 
 <a id="rec-151"></a>
 ### Recital 151
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (151) Electronic communications networks form the backbone for a wide range of services that are essential for the functioning of the internal market and the maintenance and operation of vital societal and economic functions – such as | (151) Electronic communications networks form the backbone for a wide range of services that are essential for the functioning of the internal market and the maintenance and operation of vital societal and economic functions – such as |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 73/243 energy, transport, banking, health, defence, as well as industrial control systems. Therefore, those highly critical networks are attractive targets for all types of cyberattacks and hybrid threats, for disruptions, espionage, intelligence gathering, as well as for fraud and financial crime. The risk assessment of the NIS Cooperation Group on the cybersecurity and resiliency of Europe’s communications infrastructures and networks identified a number of risks and threats of strategic importance from a Union perspective, such as wiper/ransomware, attacks, supply chain attacks, network intrusions, and Distributed denial-of-service (DDoS) attacks. | energy, transport, banking, health, defence, as well as industrial control systems. Therefore, those highly critical networks are attractive targets for all types of cyberattacks and hybrid threats, for disruptions, espionage, intelligence gathering, as well as for fraud and financial crime. The risk assessment of the NIS Cooperation Group on the cybersecurity and resiliency of Europe’s communications infrastructures and networks identified a number of risks and threats of strategic importance from a Union perspective, such as wiper/ransomware, attacks, supply chain attacks, network intrusions, and Distributed denial-of-service (DDoS) attacks. |
+| (151) Electronic communications networks form the backbone for a wide range of services that are essential for the functioning of the internal market and the maintenance and operation of vital societal and economic functions – such as energy, transport, banking, health, defence, as well as industrial control systems. Therefore, those highly critical networks are attractive targets for all types of cyberattacks and hybrid threats, for disruptions, espionage, intelligence gathering, as well as for fraud and financial crime. The risk assessment of the NIS Cooperation Group on the cybersecurity and resiliency of Europe’s communications infrastructures and networks identified a number of risks and threats of strategic importance from a Union perspective, such as wiper/ransomware, attacks, supply chain attacks, network intrusions, and Distributed denial-of-service (DDoS) attacks. | (151) Electronic communications networks form the backbone for a wide range of services that are essential for the functioning of the internal market and the maintenance and operation of vital societal and economic functions – such as energy, transport, banking, health, defence, as well as industrial control systems. Therefore, those highly critical networks are attractive targets for all types of cyberattacks and hybrid threats, for disruptions, espionage, intelligence gathering, as well as for fraud and financial crime. The risk assessment of the NIS Cooperation Group on the cybersecurity and resiliency of Europe’s communications infrastructures and networks identified a number of risks and threats of strategic importance from a Union perspective, such as wiper/ransomware, attacks, supply chain attacks, network intrusions, and Distributed denial-of-service (DDoS) attacks. |
 
 <a id="rec-152"></a>
 ### Recital 152
@@ -1683,13 +1245,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (154) 5G deployment consists primarily in non-standalone networks, where only the radio access network is upgraded to 5G technology, while the rest of the network still relies on an existing 4G core network. 5G non-standalone networks | (154) 5G deployment consists primarily in non-standalone networks, where only the radio access network is upgraded to 5G technology, while the rest of the network still relies on an existing 4G core network. 5G non-standalone networks |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 74/243 builds primarily on infrastructure already in place, meaning that the security of future 5G networks is, to a certain extent, determined by network equipment already in place and the configuration of such equipment. Therefore, mitigating measures should also cover 4G networks on which the 5G deployment relies. | builds primarily on infrastructure already in place, meaning that the security of future 5G networks is, to a certain extent, determined by network equipment already in place and the configuration of such equipment. Therefore, mitigating measures should also cover 4G networks on which the 5G deployment relies. |
+| (154) 5G deployment consists primarily in non-standalone networks, where only the radio access network is upgraded to 5G technology, while the rest of the network still relies on an existing 4G core network. 5G non-standalone networks builds primarily on infrastructure already in place, meaning that the security of future 5G networks is, to a certain extent, determined by network equipment already in place and the configuration of such equipment. Therefore, mitigating measures should also cover 4G networks on which the 5G deployment relies. | (154) 5G deployment consists primarily in non-standalone networks, where only the radio access network is upgraded to 5G technology, while the rest of the network still relies on an existing 4G core network. 5G non-standalone networks builds primarily on infrastructure already in place, meaning that the security of future 5G networks is, to a certain extent, determined by network equipment already in place and the configuration of such equipment. Therefore, mitigating measures should also cover 4G networks on which the 5G deployment relies. |
 
 <a id="rec-155"></a>
 ### Recital 155
@@ -1703,13 +1259,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (156) To mitigate the risks identified in the Union-level coordinated security risk assessment of 5G networks, the NIS Cooperation Group adopted the EU Toolbox on 5G cybersecurity, setting out strategic and technical measures. Even though a majority of the Member States have legal frameworks that allow for restrictions or exclusions of high-risk suppliers as recommended in the 5G Toolbox, the implementation of those frameworks has not been uniform. This results in an important number of 5G sites across the Union being supplied by high-risk suppliers as referred to in the Commission’s communication on the implementation of the 5G Toolbox1. This situation creates vulnerabilities, including strategic dependency and potential exposure to third-country interference, which could also affect future 6G infrastructure built on existing 5G networks. The fragmented implementation of the 5G Toolbox recommended measures, particularly regarding the scope of restrictions on high-risk suppliers, has led to divergences between Member States, which results in an unlevelled playing field that divides the internal market and weakens overall network | (156) To mitigate the risks identified in the Union-level coordinated security risk assessment of 5G networks, the NIS Cooperation Group adopted the EU Toolbox on 5G cybersecurity, setting out strategic and technical measures. Even though a majority of the Member States have legal frameworks that allow for restrictions or exclusions of high-risk suppliers as recommended in the 5G Toolbox, the implementation of those frameworks has not been uniform. This results in an important number of 5G sites across the Union being supplied by high-risk suppliers as referred to in the Commission’s communication on the implementation of the 5G Toolbox1. This situation creates vulnerabilities, including strategic dependency and potential exposure to third-country interference, which could also affect future 6G infrastructure built on existing 5G networks. The fragmented implementation of the 5G Toolbox recommended measures, particularly regarding the scope of restrictions on high-risk suppliers, has led to divergences between Member States, which results in an unlevelled playing field that divides the internal market and weakens overall network |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 75/243 security. The European Court of Auditors has highlighted these disparities, warning that the absence of a coordinated approach undermines the functioning of the internal market. Persistent dependency on high-risk suppliers poses serious risks to the security of critical infrastructure in the Union and could erode trust in the internal market, as inconsistent security levels may discourage consumers and businesses from relying on 5G-based products and services across the Union. It is therefore essential to have Union-level measures to ensure a harmonised approach to the security of 5G networks. _________<br>1. Communication from the Commission on the implementation of the 5G cybersecurity Toolbox, 15 June 2023, C(2023) 4049 final. | security. The European Court of Auditors has highlighted these disparities, warning that the absence of a coordinated approach undermines the functioning of the internal market. Persistent dependency on high-risk suppliers poses serious risks to the security of critical infrastructure in the Union and could erode trust in the internal market, as inconsistent security levels may discourage consumers and businesses from relying on 5G-based products and services across the Union. It is therefore essential to have Union-level measures to ensure a harmonised approach to the security of 5G networks. _________<br>1. Communication from the Commission on the implementation of the 5G cybersecurity Toolbox, 15 June 2023, C(2023) 4049 final. |
+| (156) To mitigate the risks identified in the Union-level coordinated security risk assessment of 5G networks, the NIS Cooperation Group adopted the EU Toolbox on 5G cybersecurity, setting out strategic and technical measures. Even though a majority of the Member States have legal frameworks that allow for restrictions or exclusions of high-risk suppliers as recommended in the 5G Toolbox, the implementation of those frameworks has not been uniform. This results in an important number of 5G sites across the Union being supplied by high-risk suppliers as referred to in the Commission’s communication on the implementation of the 5G Toolbox1. This situation creates vulnerabilities, including strategic dependency and potential exposure to third-country interference, which could also affect future 6G infrastructure built on existing 5G networks. The fragmented implementation of the 5G Toolbox recommended measures, particularly regarding the scope of restrictions on high-risk suppliers, has led to divergences between Member States, which results in an unlevelled playing field that divides the internal market and weakens overall network security. The European Court of Auditors has highlighted these disparities, warning that the absence of a coordinated approach undermines the functioning of the internal market. Persistent dependency on high-risk suppliers poses serious risks to the security of critical infrastructure in the Union and could erode trust in the internal market, as inconsistent security levels may discourage consumers and businesses from relying on 5G-based products and services across the Union. It is therefore essential to have Union-level measures to ensure a harmonised approach to the security of 5G networks. _________<br>1. Communication from the Commission on the implementation of the 5G cybersecurity Toolbox, 15 June 2023, C(2023) 4049 final. | (156) To mitigate the risks identified in the Union-level coordinated security risk assessment of 5G networks, the NIS Cooperation Group adopted the EU Toolbox on 5G cybersecurity, setting out strategic and technical measures. Even though a majority of the Member States have legal frameworks that allow for restrictions or exclusions of high-risk suppliers as recommended in the 5G Toolbox, the implementation of those frameworks has not been uniform. This results in an important number of 5G sites across the Union being supplied by high-risk suppliers as referred to in the Commission’s communication on the implementation of the 5G Toolbox1. This situation creates vulnerabilities, including strategic dependency and potential exposure to third-country interference, which could also affect future 6G infrastructure built on existing 5G networks. The fragmented implementation of the 5G Toolbox recommended measures, particularly regarding the scope of restrictions on high-risk suppliers, has led to divergences between Member States, which results in an unlevelled playing field that divides the internal market and weakens overall network security. The European Court of Auditors has highlighted these disparities, warning that the absence of a coordinated approach undermines the functioning of the internal market. Persistent dependency on high-risk suppliers poses serious risks to the security of critical infrastructure in the Union and could erode trust in the internal market, as inconsistent security levels may discourage consumers and businesses from relying on 5G-based products and services across the Union. It is therefore essential to have Union-level measures to ensure a harmonised approach to the security of 5G networks. _________<br>1. Communication from the Commission on the implementation of the 5G cybersecurity Toolbox, 15 June 2023, C(2023) 4049 final. |
 
 <a id="rec-157"></a>
 ### Recital 157
@@ -1723,13 +1273,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (158) For the purposes of effective supervision and enforcement of obligations concerning the providers of mobile, fixed and satellite electronic communication networks, the relevant competent authorities under this Regulation should ensure close cooperation with the competent authorities under the [DNA proposal]. Upon request from a competent authority designated under this Regulation, national regulatory authorities or other competent authorities for radio spectrum, where appropriate, should withdraw the rights referred to in Article 9 and Article 20 [DNA Proposal] if the provider of public electronic | (158) For the purposes of effective supervision and enforcement of obligations concerning the providers of mobile, fixed and satellite electronic communication networks, the relevant competent authorities under this Regulation should ensure close cooperation with the competent authorities under the [DNA proposal]. Upon request from a competent authority designated under this Regulation, national regulatory authorities or other competent authorities for radio spectrum, where appropriate, should withdraw the rights referred to in Article 9 and Article 20 [DNA Proposal] if the provider of public electronic |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 76/243 communications networks is not complying with the obligations under this Regulation, including if the provider does not phase out ICT components or components that include ICT components from high-risk suppliers in the operation of key ICT assets within the period specified in accordance with this Regulation. | communications networks is not complying with the obligations under this Regulation, including if the provider does not phase out ICT components or components that include ICT components from high-risk suppliers in the operation of key ICT assets within the period specified in accordance with this Regulation. |
+| (158) For the purposes of effective supervision and enforcement of obligations concerning the providers of mobile, fixed and satellite electronic communication networks, the relevant competent authorities under this Regulation should ensure close cooperation with the competent authorities under the [DNA proposal]. Upon request from a competent authority designated under this Regulation, national regulatory authorities or other competent authorities for radio spectrum, where appropriate, should withdraw the rights referred to in Article 9 and Article 20 [DNA Proposal] if the provider of public electronic communications networks is not complying with the obligations under this Regulation, including if the provider does not phase out ICT components or components that include ICT components from high-risk suppliers in the operation of key ICT assets within the period specified in accordance with this Regulation. | (158) For the purposes of effective supervision and enforcement of obligations concerning the providers of mobile, fixed and satellite electronic communication networks, the relevant competent authorities under this Regulation should ensure close cooperation with the competent authorities under the [DNA proposal]. Upon request from a competent authority designated under this Regulation, national regulatory authorities or other competent authorities for radio spectrum, where appropriate, should withdraw the rights referred to in Article 9 and Article 20 [DNA Proposal] if the provider of public electronic communications networks is not complying with the obligations under this Regulation, including if the provider does not phase out ICT components or components that include ICT components from high-risk suppliers in the operation of key ICT assets within the period specified in accordance with this Regulation. |
 
 <a id="rec-159"></a>
 ### Recital 159
@@ -1750,13 +1294,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (161) In order to ensure effective compliance, this Regulation should provide for supervisory and enforcement measures through which the competent authorities | (161) In order to ensure effective compliance, this Regulation should provide for supervisory and enforcement measures through which the competent authorities |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 77/243 can supervise entities of the type referred to in Annexes I and II to Directive<br>(EU) 2022/2555. Where the competent authorities execute their supervisory and enforcement tasks in relation to those entities, they should not go beyond what is necessary and be proportionate to the identified risks. | can supervise entities of the type referred to in Annexes I and II to Directive<br>(EU) 2022/2555. Where the competent authorities execute their supervisory and enforcement tasks in relation to those entities, they should not go beyond what is necessary and be proportionate to the identified risks. |
+| (161) In order to ensure effective compliance, this Regulation should provide for supervisory and enforcement measures through which the competent authorities can supervise entities of the type referred to in Annexes I and II to Directive<br>(EU) 2022/2555. Where the competent authorities execute their supervisory and enforcement tasks in relation to those entities, they should not go beyond what is necessary and be proportionate to the identified risks. | (161) In order to ensure effective compliance, this Regulation should provide for supervisory and enforcement measures through which the competent authorities can supervise entities of the type referred to in Annexes I and II to Directive<br>(EU) 2022/2555. Where the competent authorities execute their supervisory and enforcement tasks in relation to those entities, they should not go beyond what is necessary and be proportionate to the identified risks. |
 
 <a id="rec-162"></a>
 ### Recital 162
@@ -1777,13 +1315,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (164) In order to ensure effective enforcement of the obligations laid down in this Regulation, each competent authority should have the power to impose or | (164) In order to ensure effective enforcement of the obligations laid down in this Regulation, each competent authority should have the power to impose or |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 78/243 request the imposition of penalties. | request the imposition of penalties. |
+| (164) In order to ensure effective enforcement of the obligations laid down in this Regulation, each competent authority should have the power to impose or request the imposition of penalties. | (164) In order to ensure effective enforcement of the obligations laid down in this Regulation, each competent authority should have the power to impose or request the imposition of penalties. |
 
 <a id="rec-165"></a>
 ### Recital 165
@@ -1797,26 +1329,14 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (166) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission in respect of the adoption of implementing acts laying down detailed rules relating to fees levied by ENISA, implementing acts providing for a European cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, implementing acts laying down common principles and reference provisions intended to provide for elements across European cybersecurity certification schemes, implementing acts specifying procedures for prior approval or general delegation models, implementing acts on recognising a third country or international organisation cybersecurity certificates as equivalent to European cybersecurity certificates, implementing acts establishing a plan for peer review, implementing acts to establish the procedures, including on cross-border cooperation, for authorisation of the conformity assessment bodies, implementing acts to establish the circumstances, formats and procedures for notifications of conformity assessment bodies, implementing acts designating a third country as a country | (166) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission in respect of the adoption of implementing acts laying down detailed rules relating to fees levied by ENISA, implementing acts providing for a European cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, implementing acts laying down common principles and reference provisions intended to provide for elements across European cybersecurity certification schemes, implementing acts specifying procedures for prior approval or general delegation models, implementing acts on recognising a third country or international organisation cybersecurity certificates as equivalent to European cybersecurity certificates, implementing acts establishing a plan for peer review, implementing acts to establish the procedures, including on cross-border cooperation, for authorisation of the conformity assessment bodies, implementing acts to establish the circumstances, formats and procedures for notifications of conformity assessment bodies, implementing acts designating a third country as a country |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 79/243 posing cybersecurity concerns to ICT supply chains, implementing acts identifying key ICT assets used for the manufacturing of products or the provision of services by entities of the type referred to Annexes I and II to Directive (EU) 2022/2555, implementing acts establishing that entities operating in sectors of high criticality and other critical sectors are subject to specific mitigating measures and specifying the time periods for the phasing out of ICT components or components that include ICT components provided by high-risk suppliers, implementing acts further specifying conditions regarding the exemption for entities established in or controlled by entities from a third country posing cybersecurity concerns, as well as the adoption of implementing acts laying down detailed rules relating to fees levied by the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council, and the examination procedure should be used. In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should also be conferred on the Commission in respect of establishing a list of high-risk suppliers relevant for certain measures provided for in this Regulation. | posing cybersecurity concerns to ICT supply chains, implementing acts identifying key ICT assets used for the manufacturing of products or the provision of services by entities of the type referred to Annexes I and II to Directive (EU) 2022/2555, implementing acts establishing that entities operating in sectors of high criticality and other critical sectors are subject to specific mitigating measures and specifying the time periods for the phasing out of ICT components or components that include ICT components provided by high-risk suppliers, implementing acts further specifying conditions regarding the exemption for entities established in or controlled by entities from a third country posing cybersecurity concerns, as well as the adoption of implementing acts laying down detailed rules relating to fees levied by the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council, and the examination procedure should be used. In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should also be conferred on the Commission in respect of establishing a list of high-risk suppliers relevant for certain measures provided for in this Regulation. |
+| (166) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission in respect of the adoption of implementing acts laying down detailed rules relating to fees levied by ENISA, implementing acts providing for a European cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, implementing acts laying down common principles and reference provisions intended to provide for elements across European cybersecurity certification schemes, implementing acts specifying procedures for prior approval or general delegation models, implementing acts on recognising a third country or international organisation cybersecurity certificates as equivalent to European cybersecurity certificates, implementing acts establishing a plan for peer review, implementing acts to establish the procedures, including on cross-border cooperation, for authorisation of the conformity assessment bodies, implementing acts to establish the circumstances, formats and procedures for notifications of conformity assessment bodies, implementing acts designating a third country as a country posing cybersecurity concerns to ICT supply chains, implementing acts identifying key ICT assets used for the manufacturing of products or the provision of services by entities of the type referred to Annexes I and II to Directive (EU) 2022/2555, implementing acts establishing that entities operating in sectors of high criticality and other critical sectors are subject to specific mitigating measures and specifying the time periods for the phasing out of ICT components or components that include ICT components provided by high-risk suppliers, implementing acts further specifying conditions regarding the exemption for entities established in or controlled by entities from a third country posing cybersecurity concerns, as well as the adoption of implementing acts laying down detailed rules relating to fees levied by the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council, and the examination procedure should be used. In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should also be conferred on the Commission in respect of establishing a list of high-risk suppliers relevant for certain measures provided for in this Regulation. | (166) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission in respect of the adoption of implementing acts laying down detailed rules relating to fees levied by ENISA, implementing acts providing for a European cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, implementing acts laying down common principles and reference provisions intended to provide for elements across European cybersecurity certification schemes, implementing acts specifying procedures for prior approval or general delegation models, implementing acts on recognising a third country or international organisation cybersecurity certificates as equivalent to European cybersecurity certificates, implementing acts establishing a plan for peer review, implementing acts to establish the procedures, including on cross-border cooperation, for authorisation of the conformity assessment bodies, implementing acts to establish the circumstances, formats and procedures for notifications of conformity assessment bodies, implementing acts designating a third country as a country posing cybersecurity concerns to ICT supply chains, implementing acts identifying key ICT assets used for the manufacturing of products or the provision of services by entities of the type referred to Annexes I and II to Directive (EU) 2022/2555, implementing acts establishing that entities operating in sectors of high criticality and other critical sectors are subject to specific mitigating measures and specifying the time periods for the phasing out of ICT components or components that include ICT components provided by high-risk suppliers, implementing acts further specifying conditions regarding the exemption for entities established in or controlled by entities from a third country posing cybersecurity concerns, as well as the adoption of implementing acts laying down detailed rules relating to fees levied by the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council, and the examination procedure should be used. In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should also be conferred on the Commission in respect of establishing a list of high-risk suppliers relevant for certain measures provided for in this Regulation. |
 
 <a id="rec-167"></a>
 ### Recital 167
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (167) It is necessary that European cybersecurity certification schemes reflect the latest technological developments, new related threats, and the adoption of new Union legislation setting out the demonstration of compliance and the presumption of conformity through European cybersecurity certification with relevant cybersecurity requirements of that legislation. For these reasons, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in order to add or modify the security objectives that European cybersecurity certification schemes pursue. Similarly, in the interests of a trusted ICT supply chain framework, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to amend Annex II to this Regulation in order to adapt it to technological developments. It is of particular | (167) It is necessary that European cybersecurity certification schemes reflect the latest technological developments, new related threats, and the adoption of new Union legislation setting out the demonstration of compliance and the presumption of conformity through European cybersecurity certification with relevant cybersecurity requirements of that legislation. For these reasons, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in order to add or modify the security objectives that European cybersecurity certification schemes pursue. Similarly, in the interests of a trusted ICT supply chain framework, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to amend Annex II to this Regulation in order to adapt it to technological developments. It is of particular |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 80/243 importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council should receive all documents at the same time as Member States’ experts, and their experts should systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. | importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council should receive all documents at the same time as Member States’ experts, and their experts should systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. |
+| (167) It is necessary that European cybersecurity certification schemes reflect the latest technological developments, new related threats, and the adoption of new Union legislation setting out the demonstration of compliance and the presumption of conformity through European cybersecurity certification with relevant cybersecurity requirements of that legislation. For these reasons, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in order to add or modify the security objectives that European cybersecurity certification schemes pursue. Similarly, in the interests of a trusted ICT supply chain framework, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to amend Annex II to this Regulation in order to adapt it to technological developments. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council should receive all documents at the same time as Member States’ experts, and their experts should systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. | (167) It is necessary that European cybersecurity certification schemes reflect the latest technological developments, new related threats, and the adoption of new Union legislation setting out the demonstration of compliance and the presumption of conformity through European cybersecurity certification with relevant cybersecurity requirements of that legislation. For these reasons, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in order to add or modify the security objectives that European cybersecurity certification schemes pursue. Similarly, in the interests of a trusted ICT supply chain framework, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to amend Annex II to this Regulation in order to adapt it to technological developments. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council should receive all documents at the same time as Member States’ experts, and their experts should systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. |
 
 <a id="rec-168"></a>
 ### Recital 168
@@ -1837,13 +1357,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (170) The European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(2) of Regulation<br>(EU) 2018/17251 and delivered a joint opinion [date]. | (170) The European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(2) of Regulation<br>(EU) 2018/17251 and delivered a joint opinion [date]. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 81/243 _________<br>1. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). | _________<br>1. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). |
+| (170) The European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(2) of Regulation<br>(EU) 2018/17251 and delivered a joint opinion [date]. _________<br>1. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). | (170) The European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(2) of Regulation<br>(EU) 2018/17251 and delivered a joint opinion [date]. _________<br>1. Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). |
 
 <a id="rec-171"></a>
 ### Recital 171
@@ -1882,13 +1396,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 82/243 1.This Regulation lays down: | 1.This Regulation lays down: |
+| 1.This Regulation lays down: | 1.This Regulation lays down: |
 
 ### Article 1(1), point (a)
 
@@ -1924,13 +1432,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.This Regulation is without prejudice to the Member States’ essential State functions, including ensuring the territorial integrity of the State, maintaining law and order and safeguarding national security. In particular, national security | 4.This Regulation is without prejudice to the Member States’ essential State functions, including ensuring the territorial integrity of the State, maintaining law and order and safeguarding national security. In particular, national security |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 83/243 remains the sole responsibility of each Member State. | remains the sole responsibility of each Member State. |
+| 4.This Regulation is without prejudice to the Member States’ essential State functions, including ensuring the territorial integrity of the State, maintaining law and order and safeguarding national security. In particular, national security remains the sole responsibility of each Member State. | 4.This Regulation is without prejudice to the Member States’ essential State functions, including ensuring the territorial integrity of the State, maintaining law and order and safeguarding national security. In particular, national security remains the sole responsibility of each Member State. |
 
 <a id="art-2"></a>
 ### Article 2
@@ -1949,13 +1451,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (1) ‘cybersecurity’ means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats; | (1) ‘cybersecurity’ means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats; Definition of 'cybersecurity' to be revisited? To take into consideration the impact on other legislations that refer to this definition. Drafting suggestion from the Presidency in order to make the definition more current and updated with the continuously evolving cyber environment: 'Cybersecurity' is the safeguarding of people, society, organizations and nations from cyber risks. It’s the preservation of confidentiality, availability and integrity of Information in the Cyberspace. 'Cyberspace' is a complex (virtual) environment resulting from the interaction of people, software, services on the Internet, enabled by technology devices and networks connected to it and are considered part of it. It should be explained in a recital that the terms safeguarding/preservation refer to the actions/measures/activities taken to keep cyber risk at a tolerable level. Also, in the recital it should be added that cybersecurity is, among others, a collection of tools, policies, guidelines, risk management approaches, actions, training, best practices, assurance, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 84/243 | technologies that can be used to protect the cyber environment and organization, and its key assets. |
+| (1) ‘cybersecurity’ means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats; | (1) ‘cybersecurity’ means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats; Definition of 'cybersecurity' to be revisited? To take into consideration the impact on other legislations that refer to this definition. Drafting suggestion from the Presidency in order to make the definition more current and updated with the continuously evolving cyber environment: 'Cybersecurity' is the safeguarding of people, society, organizations and nations from cyber risks. It’s the preservation of confidentiality, availability and integrity of Information in the Cyberspace. 'Cyberspace' is a complex (virtual) environment resulting from the interaction of people, software, services on the Internet, enabled by technology devices and networks connected to it and are considered part of it. It should be explained in a recital that the terms safeguarding/preservation refer to the actions/measures/activities taken to keep cyber risk at a tolerable level. Also, in the recital it should be added that cybersecurity is, among others, a collection of tools, policies, guidelines, risk management approaches, actions, training, best practices, assurance, technologies that can be used to protect the cyber environment and organization, and its key assets. |
 
 ### Article 2, first paragraph, point (2)
 
@@ -1991,13 +1487,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (7) ‘national cybersecurity strategy’ means a national cybersecurity strategy as | (7) ‘national cybersecurity strategy’ means a national cybersecurity strategy as |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 85/243 defined in Article 6, point (4), of Directive (EU) 2022/2555; | defined in Article 6, point (4), of Directive (EU) 2022/2555; |
+| (7) ‘national cybersecurity strategy’ means a national cybersecurity strategy as defined in Article 6, point (4), of Directive (EU) 2022/2555; | (7) ‘national cybersecurity strategy’ means a national cybersecurity strategy as defined in Article 6, point (4), of Directive (EU) 2022/2555; |
 
 ### Article 2, first paragraph, point (8)
 
@@ -2035,12 +1525,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | (13) ‘national cybersecurity certification scheme’ means a comprehensive set of rules, technical requirements, standards and procedures developed and adopted by a national public authority and that apply to the certification or conformity assessment of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities falling under the scope of the specific scheme; | (13) ‘national cybersecurity certification scheme’ means a comprehensive set of rules, technical requirements, standards and procedures developed and adopted by a national public authority and that apply to the certification or conformity assessment of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities falling under the scope of the specific scheme; |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 86/243 |  |
-
 ### Article 2, first paragraph, point (14)
 
 | Commission Proposal | Council Mandate |
@@ -2075,13 +1559,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (19) ‘managed security service’ means a service provided to a third party consisting of carrying out, or providing assistance for, activities relating to cybersecurity risk management, such as incident handling, penetration testing, | (19) ‘managed security service’ means a service provided to a third party consisting of carrying out, or providing assistance for, activities relating to cybersecurity risk management, such as incident handling, penetration testing, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 87/243 security audits and consulting, including expert advice related to technical support; | security audits and consulting, including expert advice related to technical support; |
+| (19) ‘managed security service’ means a service provided to a third party consisting of carrying out, or providing assistance for, activities relating to cybersecurity risk management, such as incident handling, penetration testing, security audits and consulting, including expert advice related to technical support; | (19) ‘managed security service’ means a service provided to a third party consisting of carrying out, or providing assistance for, activities relating to cybersecurity risk management, such as incident handling, penetration testing, security audits and consulting, including expert advice related to technical support; |
 
 ### Article 2, first paragraph, point (20)
 
@@ -2117,13 +1595,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (25) ‘technical specification’ means a technical specification as defined in | (25) ‘technical specification’ means a technical specification as defined in |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 88/243 Article 2, point (4), of Regulation (EU) No 1025/2012; | Article 2, point (4), of Regulation (EU) No 1025/2012; |
+| (25) ‘technical specification’ means a technical specification as defined in Article 2, point (4), of Regulation (EU) No 1025/2012; | (25) ‘technical specification’ means a technical specification as defined in Article 2, point (4), of Regulation (EU) No 1025/2012; |
 
 ### Article 2, first paragraph, point (26)
 
@@ -2153,13 +1625,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (28) ‘conformity self-assessment’ means an action carried out by a manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification, which evaluates whether those ICT products, ICT services, ICT processes, managed | (28) ‘conformity self-assessment’ means an action carried out by a manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification, which evaluates whether those ICT products, ICT services, ICT processes, managed |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 89/243 security services or cyber posture of entities meet the requirements of a specific European cybersecurity certification scheme; | security services or cyber posture of entities meet the requirements of a specific European cybersecurity certification scheme; |
+| (28) ‘conformity self-assessment’ means an action carried out by a manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification, which evaluates whether those ICT products, ICT services, ICT processes, managed security services or cyber posture of entities meet the requirements of a specific European cybersecurity certification scheme; | (28) ‘conformity self-assessment’ means an action carried out by a manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification, which evaluates whether those ICT products, ICT services, ICT processes, managed security services or cyber posture of entities meet the requirements of a specific European cybersecurity certification scheme; |
 
 ### Article 2, first paragraph, point (29)
 
@@ -2201,13 +1667,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 90/243 (35) ‘key ICT assets’ means ICT assets identified in accordance with Article 102; | (35) ‘key ICT assets’ means ICT assets identified in accordance with Article 102; |
+| (35) ‘key ICT assets’ means ICT assets identified in accordance with Article 102; | (35) ‘key ICT assets’ means ICT assets identified in accordance with Article 102; |
 
 ### Article 2, first paragraph, point (36)
 
@@ -2249,13 +1709,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (40) ‘ICT supply chain’ means a sum of ICT services, ICT products and ICT | (40) ‘ICT supply chain’ means a sum of ICT services, ICT products and ICT |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 91/243 processes that encompass activities and actors involved at all stages upstream of a product being made available or a service being delivered on the market; | processes that encompass activities and actors involved at all stages upstream of a product being made available or a service being delivered on the market; |
+| (40) ‘ICT supply chain’ means a sum of ICT services, ICT products and ICT processes that encompass activities and actors involved at all stages upstream of a product being made available or a service being delivered on the market; | (40) ‘ICT supply chain’ means a sum of ICT services, ICT products and ICT processes that encompass activities and actors involved at all stages upstream of a product being made available or a service being delivered on the market; |
 
 ### Article 2, first paragraph, point (41)
 
@@ -2279,13 +1733,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (44) ‘core network functions of mobile electronic communications networks’ means the central architectural element of the mobile electronic communications networks connecting major network nodes to the Internet and managing essential system functions that includes user equipment authentication, lawful interception (LI) functions, security gateways (SeGW) at the network edge, signalling security functions, roaming and session management, user and control plane data transport, access policy management, registration and authorisation of | (44) ‘core network functions of mobile electronic communications networks’ means the central architectural element of the mobile electronic communications networks connecting major network nodes to the Internet and managing essential system functions that includes user equipment authentication, lawful interception (LI) functions, security gateways (SeGW) at the network edge, signalling security functions, roaming and session management, user and control plane data transport, access policy management, registration and authorisation of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 92/243 network services, storage of end-user and network data, critical network services including domain name system (DNS), interconnection with third-party mobile networks, exposure of core network functions to external applications, and the selection and management of network slices; | network services, storage of end-user and network data, critical network services including domain name system (DNS), interconnection with third-party mobile networks, exposure of core network functions to external applications, and the selection and management of network slices; |
+| (44) ‘core network functions of mobile electronic communications networks’ means the central architectural element of the mobile electronic communications networks connecting major network nodes to the Internet and managing essential system functions that includes user equipment authentication, lawful interception (LI) functions, security gateways (SeGW) at the network edge, signalling security functions, roaming and session management, user and control plane data transport, access policy management, registration and authorisation of network services, storage of end-user and network data, critical network services including domain name system (DNS), interconnection with third-party mobile networks, exposure of core network functions to external applications, and the selection and management of network slices; | (44) ‘core network functions of mobile electronic communications networks’ means the central architectural element of the mobile electronic communications networks connecting major network nodes to the Internet and managing essential system functions that includes user equipment authentication, lawful interception (LI) functions, security gateways (SeGW) at the network edge, signalling security functions, roaming and session management, user and control plane data transport, access policy management, registration and authorisation of network services, storage of end-user and network data, critical network services including domain name system (DNS), interconnection with third-party mobile networks, exposure of core network functions to external applications, and the selection and management of network slices; |
 
 ### Article 2, first paragraph, point (45)
 
@@ -2309,13 +1757,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 93/243 (48) ‘network management system of fixed electronic communications networks’ means all centralised platforms and software components necessary for the operation, administration, maintenance and provisioning (OAM&P) of the network and the monitoring of network-related information; | (48) ‘network management system of fixed electronic communications networks’ means all centralised platforms and software components necessary for the operation, administration, maintenance and provisioning (OAM&P) of the network and the monitoring of network-related information; |
+| (48) ‘network management system of fixed electronic communications networks’ means all centralised platforms and software components necessary for the operation, administration, maintenance and provisioning (OAM&P) of the network and the monitoring of network-related information; | (48) ‘network management system of fixed electronic communications networks’ means all centralised platforms and software components necessary for the operation, administration, maintenance and provisioning (OAM&P) of the network and the monitoring of network-related information; |
 
 ### Article 2, first paragraph, point (49)
 
@@ -2347,12 +1789,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | Article 3 Mission of ENISA | Article 3 Mission of ENISA |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 94/243 |  |
 
 ### Article 3(1)
 
@@ -2391,12 +1827,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | Article 4 Objectives of ENISA | Article 4 Objectives of ENISA |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 95/243 |  |
-
 ### Article 4(1)
 
 | Commission Proposal | Council Mandate |
@@ -2419,13 +1849,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.ENISA shall support capacity-building and preparedness across the Union by assisting Member States, Union entities, through the Cybersecurity Service for the Union institutions, bodies, offices and agencies (CERT-EU) referred to in Chapter IV of Regulation (EU, Euratom) 2023/2841, and public and private stakeholders to increase the protection of their network and information systems, to develop and improve cyber resilience and response capacities. | 4.ENISA shall support capacity-building and preparedness across the Union by assisting Member States, Union entities, through the Cybersecurity Service for the Union institutions, bodies, offices and agencies (CERT-EU) referred to in Chapter IV of Regulation (EU, Euratom) 2023/2841, and **relevant** public and private stakeholders to increase the protection of their network and information systems, to develop and improve cyber resilience and response capacities. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 96/243 | Alignment with the wording of para 6. |
+| 4.ENISA shall support capacity-building and preparedness across the Union by assisting Member States, Union entities, through the Cybersecurity Service for the Union institutions, bodies, offices and agencies (CERT-EU) referred to in Chapter IV of Regulation (EU, Euratom) 2023/2841, and public and private stakeholders to increase the protection of their network and information systems, to develop and improve cyber resilience and response capacities. | 4.ENISA shall support capacity-building and preparedness across the Union by assisting Member States, Union entities, through the Cybersecurity Service for the Union institutions, bodies, offices and agencies (CERT-EU) referred to in Chapter IV of Regulation (EU, Euratom) 2023/2841, and **relevant** public and private stakeholders to increase the protection of their network and information systems, to develop and improve cyber resilience and response capacities. Alignment with the wording of para 6. |
 
 ### Article 4(5)
 
@@ -2449,13 +1873,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 8.ENISA shall support operational cooperation at Union level, including by contributing to shared situational awareness of the cyber threat and incident landscape among Member States and, in cooperation with CERT-EU, among | 8.ENISA shall support **and facilitate** operational cooperation at Union level, including by contributing to shared situational awareness of the cyber threat and incident landscape among Member States**,** and, in cooperation with CERT-EU, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 97/243 Union entities. | among Union entities. The issue of handling of information included in Article 67. |
+| 8.ENISA shall support operational cooperation at Union level, including by contributing to shared situational awareness of the cyber threat and incident landscape among Member States and, in cooperation with CERT-EU, among Union entities. | 8.ENISA shall support **and facilitate** operational cooperation at Union level, including by contributing to shared situational awareness of the cyber threat and incident landscape among Member States**,** and, in cooperation with CERT-EU, among Union entities. The issue of handling of information included in Article 67. |
 
 ### Article 4(9)
 
@@ -2479,13 +1897,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 11. ENISA shall contribute to the harmonisation of the digital single market by engaging in standardisation work relevant for Union policies related to cybersecurity and by developing technical specifications. | 11. ENISA shall contribute to the harmonisation of the digital single market by ~~engaging~~**supporting Member States and the Commission** in standardisation work relevant for Union policies related to cybersecurity and by developing technical |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 98/243 | specifications. |
+| 11. ENISA shall contribute to the harmonisation of the digital single market by engaging in standardisation work relevant for Union policies related to cybersecurity and by developing technical specifications. | 11. ENISA shall contribute to the harmonisation of the digital single market by ~~engaging~~**supporting Member States and the Commission** in standardisation work relevant for Union policies related to cybersecurity and by developing technical specifications. |
 
 ### Article 4(12)
 
@@ -2528,13 +1940,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (b) supporting information sharing within and between sectors, in particular | (b) supporting information sharing within and between sectors, in particular |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 99/243 regarding the sectors listed in Annexes I and II to Directive (EU) 2022/2555 and products with digital elements falling within the scope of Regulation (EU) 2024/2847, by providing best practices and guidance on available tools and procedures; | regarding the sectors listed in Annexes I and II to Directive (EU) 2022/2555 and **regarding** products with digital elements falling within the scope of Regulation<br>(EU) 2024/2847, by providing best practices and guidance on available tools and procedures; |
+| (b) supporting information sharing within and between sectors, in particular regarding the sectors listed in Annexes I and II to Directive (EU) 2022/2555 and products with digital elements falling within the scope of Regulation (EU) 2024/2847, by providing best practices and guidance on available tools and procedures; | (b) supporting information sharing within and between sectors, in particular regarding the sectors listed in Annexes I and II to Directive (EU) 2022/2555 and **regarding** products with digital elements falling within the scope of Regulation<br>(EU) 2024/2847, by providing best practices and guidance on available tools and procedures; |
 
 ### Article 5(1), point (c)
 
@@ -2558,13 +1964,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 100/243 (f) in accordance with Regulation (EU) 2024/2847, providing technical advice and support to Member States and the Commission on matters related to the implementation of that Regulation; | (f) in accordance with Regulation (EU) 2024/2847, providing technical advice and support to Member States and the Commission on matters related to the implementation of that Regulation; |
+| (f) in accordance with Regulation (EU) 2024/2847, providing technical advice and support to Member States and the Commission on matters related to the implementation of that Regulation; | (f) in accordance with Regulation (EU) 2024/2847, providing technical advice and support to Member States and the Commission on matters related to the implementation of that Regulation; |
 
 ### Article 5(1), point (g)
 
@@ -2588,7 +1988,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.ENISA shall issue guidelines regarding the interoperability of network and information systems used for information-sharing, including with regard to CrossBorder Cyber Hubs as referred to in Article 6(3) of Regulation (EU) 2025/38. | 3.ENISA shall issue guidelines regarding the interoperability of network and information systems used for information-sharing, including with regard to CrossBorder Cyber Hubs as referred to in Article 6(3) of Regulation (EU) 2025/38. |
+| 3.ENISA shall issue guidelines regarding the interoperability of network and information systems used for information-sharing, including with regard to Cross-Border Cyber Hubs as referred to in Article 6(3) of Regulation (EU) 2025/38. | 3.ENISA shall issue guidelines regarding the interoperability of network and information systems used for information-sharing, including with regard to Cross-Border Cyber Hubs as referred to in Article 6(3) of Regulation (EU) 2025/38. |
 
 ### Article 5(4)
 
@@ -2600,13 +2000,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 101/243 5.At the Commission’s request, ENISA shall provide expertise, technical advice, information or analysis or carry out preparatory work on specific cybersecurity matters with a view to informing the Commission’s policymaking and monitoring of the implementation of Union legislation. | 5.At the Commission’s request, ENISA shall provide expertise, technical advice, information or analysis or carry out preparatory work on specific cybersecurity matters with a view to informing the Commission’s policymaking and monitoring of the implementation of Union legislation. Further details to be provided in the recital. |
+| 5.At the Commission’s request, ENISA shall provide expertise, technical advice, information or analysis or carry out preparatory work on specific cybersecurity matters with a view to informing the Commission’s policymaking and monitoring of the implementation of Union legislation. | 5.At the Commission’s request, ENISA shall provide expertise, technical advice, information or analysis or carry out preparatory work on specific cybersecurity matters with a view to informing the Commission’s policymaking and monitoring of the implementation of Union legislation. Further details to be provided in the recital. |
 
 <a id="art-6"></a>
 ### Article 6
@@ -2643,13 +2037,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (4) Member States in developing national CSIRTs, where requested pursuant to | (4) Member States in developing ~~national~~**their** CSIRTs, where requested |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 102/243 Article 10(10) of Directive (EU) 2022/2555; | pursuant to Article 10(10) of Directive (EU) 2022/2555 **and in raising the level of CSIRTs capabilities, including by promoting dialogue and exchanges of information, with a view to ensuring that, with regard to the state of the art, each CSIRT possesses a common set of minimum capabilities and operates according to best practices**; Merged with point 7. |
+| (4) Member States in developing national CSIRTs, where requested pursuant to Article 10(10) of Directive (EU) 2022/2555; | (4) Member States in developing ~~national~~**their** CSIRTs, where requested pursuant to Article 10(10) of Directive (EU) 2022/2555 **and in raising the level of CSIRTs capabilities, including by promoting dialogue and exchanges of information, with a view to ensuring that, with regard to the state of the art, each CSIRT possesses a common set of minimum capabilities and operates according to best practices**; Merged with point 7. |
 
 ### Article 6, first paragraph, point (5)
 
@@ -2673,13 +2061,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (8) Member States, Union entities and public and private stakeholders in their efforts to assess, grow and enhance the cybersecurity workforce, including by | (8) Member States, Union entities and public and private stakeholders in their efforts to assess, grow and enhance the cybersecurity workforce, including by |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 103/243 developing, maintaining and promoting the uptake of relevant tools, such as the ECSF and European individual cybersecurity skills attestation schemes in accordance with Section 4 of this Chapter; | developing, maintaining and promoting the uptake of relevant tools, such as the ECSF and European individual cybersecurity skills attestation schemes in accordance with Section 4 of this Chapter; |
+| (8) Member States, Union entities and public and private stakeholders in their efforts to assess, grow and enhance the cybersecurity workforce, including by developing, maintaining and promoting the uptake of relevant tools, such as the ECSF and European individual cybersecurity skills attestation schemes in accordance with Section 4 of this Chapter; | (8) Member States, Union entities and public and private stakeholders in their efforts to assess, grow and enhance the cybersecurity workforce, including by developing, maintaining and promoting the uptake of relevant tools, such as the ECSF and European individual cybersecurity skills attestation schemes in accordance with Section 4 of this Chapter; |
 
 ### Article 6, first paragraph, point (9)
 
@@ -2709,13 +2091,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (13) public authorities and private stakeholders in relation to conformity assessment and evaluation activities, including conformity assessment bodies and small and medium-sized enterprises, to support a robust, competitive, inclusive and harmonised conformity assessment ecosystem supporting the implementation Regulation (EU) 2024/2847 and the European cybersecurity | (13) public authorities and private stakeholders in relation to conformity assessment and evaluation activities, including conformity assessment bodies and small and medium-sized enterprises, to support a robust, competitive, inclusive and harmonised conformity assessment ecosystem supporting the implementation Regulation (EU) 2024/2847 and the European cybersecurity |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 104/243 certification framework; | certification framework; |
+| (13) public authorities and private stakeholders in relation to conformity assessment and evaluation activities, including conformity assessment bodies and small and medium-sized enterprises, to support a robust, competitive, inclusive and harmonised conformity assessment ecosystem supporting the implementation Regulation (EU) 2024/2847 and the European cybersecurity certification framework; | (13) public authorities and private stakeholders in relation to conformity assessment and evaluation activities, including conformity assessment bodies and small and medium-sized enterprises, to support a robust, competitive, inclusive and harmonised conformity assessment ecosystem supporting the implementation Regulation (EU) 2024/2847 and the European cybersecurity certification framework; |
 
 ### Article 6, first paragraph, point (14)
 
@@ -2753,13 +2129,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 105/243 1.ENISA shall carry out and disseminate analyses of the main market trends in the cybersecurity market on both the demand and supply sides, in particular related to the areas where European cybersecurity certification schemes exist or are planned, sectors listed in Annexes I and II to Directive (EU) 2022/2555, and product categories covered by Regulation (EU) 2024/2847, including Annexes III and IV to that Regulation. | 1.ENISA shall**, where appropriate in cooperation with the ECCC,** carry out and disseminate analyses of the main market trends in the cybersecurity market on both the demand and supply sides, in particular related to the areas where European cybersecurity certification schemes exist or are planned, sectors listed in Annexes I and II to Directive (EU) 2022/2555, and product categories covered by Regulation (EU) 2024/2847, including Annexes III and IV to that Regulation. |
+| 1.ENISA shall carry out and disseminate analyses of the main market trends in the cybersecurity market on both the demand and supply sides, in particular related to the areas where European cybersecurity certification schemes exist or are planned, sectors listed in Annexes I and II to Directive (EU) 2022/2555, and product categories covered by Regulation (EU) 2024/2847, including Annexes III and IV to that Regulation. | 1.ENISA shall**, where appropriate in cooperation with the ECCC,** carry out and disseminate analyses of the main market trends in the cybersecurity market on both the demand and supply sides, in particular related to the areas where European cybersecurity certification schemes exist or are planned, sectors listed in Annexes I and II to Directive (EU) 2022/2555, and product categories covered by Regulation (EU) 2024/2847, including Annexes III and IV to that Regulation. |
 
 ### Article 8(2)
 
@@ -2791,12 +2161,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | (a) where appropriate, engaging as an observer in the organisation of international exercises, and analysing and reporting to the Management Board on the outcome of such exercises; | (a) where appropriate **and after informing the Management Board**, engaging as an observer in the organisation of international exercises, and analysing and reporting to the Management Board on the outcome of such exercises; |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 106/243 |  |
 
 ### Article 9, first paragraph, point (b)
 
@@ -2839,13 +2203,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 107/243 Article 10 Operational cooperation at Union level | Article 10 Operational cooperation at Union level |
+| Article 10 Operational cooperation at Union level | Article 10 Operational cooperation at Union level |
 
 ### Article 10(1)
 
@@ -2881,13 +2239,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 108/243<br>(b) at the request of one or more Member States, providing advice and assessments in relation to a specific potential or ongoing incident or cyber threat, including through the provision of expertise and facilitating the technical handling of such incidents, and through supporting the voluntary sharing of relevant information and technical solutions between Member States; | (b) at the request of one or more Member States **concerned**, providing advice and **assistance in the** assessments in relation to a specific potential or ongoing incident or cyber threat, including through the provision of expertise and facilitating the technical handling of such incidents, ~~and through~~ **including by** supporting the voluntary sharing of relevant information and technical solutions between Member States; |
+| (b) at the request of one or more Member States, providing advice and assessments in relation to a specific potential or ongoing incident or cyber threat, including through the provision of expertise and facilitating the technical handling of such incidents, and through supporting the voluntary sharing of relevant information and technical solutions between Member States; | (b) at the request of one or more Member States **concerned**, providing advice and **assistance in the** assessments in relation to a specific potential or ongoing incident or cyber threat, including through the provision of expertise and facilitating the technical handling of such incidents, ~~and through~~ **including by** supporting the voluntary sharing of relevant information and technical solutions between Member States; |
 
 ### Article 10(4), point (c)
 
@@ -2917,19 +2269,13 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.At the request of a Member State or a Union entity in cooperation with CERTEU, ENISA shall support consistent public communication relating to an incident or cyber threat. | 5.At the request of ~~a~~**one or more** Member ~~State~~**States concerned,** or a Union entity in cooperation with CERT-EU, ENISA shall support **their** consistent public communication relating to an incident or cyber threat. |
+| 5.At the request of a Member State or a Union entity in cooperation with CERT-EU, ENISA shall support consistent public communication relating to an incident or cyber threat. | 5.At the request of ~~a~~**one or more** Member ~~State~~**States concerned,** or a Union entity in cooperation with CERT-EU, ENISA shall support **their** consistent public communication relating to an incident or cyber threat. |
 
 ### Article 10(6)
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 6.ENISA shall support cooperation among Member States and through CERT- | 6.ENISA shall support cooperation ~~among~~**between Member States, between** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 109/243 EU among Union entities with regard to the deployment of secure communications tools. ENISA shall use within the CSIRTs network and EUCyCLONe secure communications tools which are provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. | Member States and ~~through CERT-EU among~~**Union entities, and between** Union entities **through CERT-EU,** with regard to the deployment of secure communications tools**, where applicable in accordance with relevant Union law on secure communications**. ENISA shall use within the CSIRTs network and EU-CyCLONe secure communications tools which are provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. |
+| 6.ENISA shall support cooperation among Member States and through CERT-EU among Union entities with regard to the deployment of secure communications tools. ENISA shall use within the CSIRTs network and EU-CyCLONe secure communications tools which are provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. | 6.ENISA shall support cooperation ~~among~~**between Member States, between** Member States and ~~through CERT-EU among~~**Union entities, and between** Union entities **through CERT-EU,** with regard to the deployment of secure communications tools**, where applicable in accordance with relevant Union law on secure communications**. ENISA shall use within the CSIRTs network and EU-CyCLONe secure communications tools which are provided by legal entities established or deemed to be established in the Union and controlled by Member States or by nationals of Member States. |
 
 <a id="art-11"></a>
 ### Article 11
@@ -2960,13 +2306,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (b) in accordance with Article 12, issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border | (b) ~~in accordance with Article 12,~~ issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 110/243 nature, in particular in relation to sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555; | nature, in particular in relation to sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555**, to CSIRTs and, where relevant, EU-CyCLONe**; |
+| (b) in accordance with Article 12, issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature, in particular in relation to sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555; | (b) ~~in accordance with Article 12,~~ issue early alerts of a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature, in particular in relation to sectors listed in Annexes I and II to Directive<br>(EU) 2022/2555**, to CSIRTs and, where relevant, EU-CyCLONe**; |
 
 ### Article 11(1a), point (c)
 
@@ -2990,7 +2330,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (f) prepare a regular in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, and make the report available to the Council, EUCyCLONe, the CSIRTs network, the Commission, the European External Action Service and Europol; | (f) prepare ~~a regular~~**at least every three months an** in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, and make the report available to the Council, EU-CyCLONe, the CSIRTs network, the Commission, the European External Action Service and Europol; |
+| (f) prepare a regular in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, and make the report available to the Council, EU-CyCLONe, the CSIRTs network, the Commission, the European External Action Service and Europol; | (f) prepare ~~a regular~~**at least every three months an** in-depth EU Cybersecurity Technical Situation Report on incidents and cyber threats, and make the report available to the Council, EU-CyCLONe, the CSIRTs network, the Commission, the European External Action Service and Europol; |
 
 ### Article 11(1a), point (g)
 
@@ -3002,13 +2342,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(ga)consolidate and analyse information about incidents, near misses, cyber** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 111/243 | **and the Commission.** |
+|  | **(ga)consolidate and analyse information about incidents, near misses, cyber and the Commission.** |
 
 ### Article 11(2)
 
@@ -3038,13 +2372,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **2a.Early alerts referred to in paragraph 1, first subparagraph, point (b), of this Regulation shall contain relevant information concerning a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature, in relation to sectors listed in Annexes I and II to Directive (EU) 2022/2555. That information may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU)** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 112/243 | **tactics, threat actor-specific information and recommendations on mitigation measures. Such alerts shall be issued as soon as possible.** |
+|  | **2a.Early alerts referred to in paragraph 1, first subparagraph, point (b), of this Regulation shall contain relevant information concerning a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature, in relation to sectors listed in Annexes I and II to Directive (EU) 2022/2555. That information may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) tactics, threat actor-specific information and recommendations on mitigation measures. Such alerts shall be issued as soon as possible.** |
 
 ### Article 11(3)
 
@@ -3074,13 +2402,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.ENISA shall cooperate closely with the Member States in the preparation of the EU Cybersecurity Technical Situation Report referred to in paragraph 1, | 5.ENISA shall cooperate closely with the Member States in the preparation of the EU Cybersecurity Technical Situation Report referred to in paragraph 1, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 113/243 point (e). The Report shall be based on publicly available information, ENISA’s own analysis, and reports shared by, among others, the Member States’ CSIRTs or the single points of contact established by Directive (EU) 2022/2555, both on a voluntary basis, EC3 and CERT-EU. In agreement with the contributing entities, ENISA may make an aggregated version of the Report publicly available. | point ~~(e)~~**(f)**. The Report shall be based on publicly available information, ENISA’s own analysis, and reports shared by, among others, the Member States’ CSIRTs or the single points of contact established by Directive (EU) 2022/2555, both on a voluntary basis, EC3 and CERT-EU. ~~In~~ **ENISA shall make the report available to the Council, EU-CyCLONe, the CSIRTs network, the Commission, the European External Action Service and Europol. Subject to the** agreement ~~with~~ **of** the contributing entities, ENISA may make an aggregated version of the Report publicly available. MSs suggestion "ENISA shall encourage Member States to share information needed for the report to reflect the situation in all Member States." to be reflected in a new recital. |
+| 5.ENISA shall cooperate closely with the Member States in the preparation of the EU Cybersecurity Technical Situation Report referred to in paragraph 1, point (e). The Report shall be based on publicly available information, ENISA’s own analysis, and reports shared by, among others, the Member States’ CSIRTs or the single points of contact established by Directive (EU) 2022/2555, both on a voluntary basis, EC3 and CERT-EU. In agreement with the contributing entities, ENISA may make an aggregated version of the Report publicly available. | 5.ENISA shall cooperate closely with the Member States in the preparation of the EU Cybersecurity Technical Situation Report referred to in paragraph 1, point ~~(e)~~**(f)**. The Report shall be based on publicly available information, ENISA’s own analysis, and reports shared by, among others, the Member States’ CSIRTs or the single points of contact established by Directive (EU) 2022/2555, both on a voluntary basis, EC3 and CERT-EU. ~~In~~ **ENISA shall make the report available to the Council, EU-CyCLONe, the CSIRTs network, the Commission, the European External Action Service and Europol. Subject to the** agreement ~~with~~ **of** the contributing entities, ENISA may make an aggregated version of the Report publicly available. MSs suggestion "ENISA shall encourage Member States to share information needed for the report to reflect the situation in all Member States." to be reflected in a new recital. |
 
 <a id="art-12"></a>
 ### Article 12
@@ -3100,12 +2422,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 2.Early alerts referred to in Article 11(1), first subparagraph, point (b), shall be issued as soon as possible to the CSIRT or CSIRTs concerned, and, where appropriate, to the CSIRTs network and EU-CyCLONe. | 2.~~Early alerts referred to in Article 11(1), first subparagraph, point (b), shall be issued as soon as possible to the CSIRT or CSIRTs concerned, and, where appropriate, to the CSIRTs network and EU-CyCLONe.~~ |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 114/243 |  |
 
 ### Article 12(3)
 
@@ -3142,19 +2458,13 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.At the request of the Commission or EU-CyCLONe, ENISA, with the support of the CSIRTs network and with the approval of the Member State concerned, shall review and assess significant cybersecurity incidents or largescale cybersecurity incidents in accordance with Article 21 of Regulation (EU) 2025/38. | 2.At the request of the Commission or EU-CyCLONe, ENISA, with the support of the CSIRTs network and with the approval of the Member State concerned, shall review and assess significant cybersecurity incidents or largescale cybersecurity incidents in accordance with Article 21 of Regulation (EU) 2025/38. |
+| 2.At the request of the Commission or EU-CyCLONe, ENISA, with the support of the CSIRTs network and with the approval of the Member State concerned, shall review and assess significant cybersecurity incidents or large-scale cybersecurity incidents in accordance with Article 21 of Regulation (EU) 2025/38. | 2.At the request of the Commission or EU-CyCLONe, ENISA, with the support of the CSIRTs network and with the approval of the Member State concerned, shall review and assess significant cybersecurity incidents or large-scale cybersecurity incidents in accordance with Article 21 of Regulation (EU) 2025/38. |
 
 ### Article 13(3)
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.ENISA shall assist, in cooperation with Europol and CSIRTs or other competent authorities as applicable, individual essential and important entities | 3.ENISA shall assist, in cooperation with Europol and CSIRTs or other competent authorities**,** as applicable, individual essential and important entities |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 115/243 listed in Annexes I and II to Directive (EU) 2022/2555 in preparing, responding to and recovering from a ransomware incident. For that purpose, ENISA shall establish a helpdesk and in particular make use of the enhanced shared situational awareness of the cyber threat and incident landscape pursuant to Article 11(1), first subparagraph, points (a) and (g) of this Regulation. | listed in Annexes I and II to Directive (EU) 2022/2555 in preparing **for**, responding to and recovering from ~~a ransomware incident~~**incidents**. For that purpose, ENISA shall ~~establish a helpdesk and in particular~~ make use of the enhanced shared situational awareness of the cyber threat and incident landscape pursuant to Article 11(1), first subparagraph, points (a) and (g) of this Regulation. |
+| 3.ENISA shall assist, in cooperation with Europol and CSIRTs or other competent authorities as applicable, individual essential and important entities listed in Annexes I and II to Directive (EU) 2022/2555 in preparing, responding to and recovering from a ransomware incident. For that purpose, ENISA shall establish a helpdesk and in particular make use of the enhanced shared situational awareness of the cyber threat and incident landscape pursuant to Article 11(1), first subparagraph, points (a) and (g) of this Regulation. | 3.ENISA shall assist, in cooperation with Europol and CSIRTs or other competent authorities**,** as applicable, individual essential and important entities listed in Annexes I and II to Directive (EU) 2022/2555 in preparing **for**, responding to and recovering from ~~a ransomware incident~~**incidents**. For that purpose, ENISA shall ~~establish a helpdesk and in particular~~ make use of the enhanced shared situational awareness of the cyber threat and incident landscape pursuant to Article 11(1), first subparagraph, points (a) and (g) of this Regulation. |
 
 <a id="art-14"></a>
 ### Article 14
@@ -3179,13 +2489,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.At the request of EU-CyCLONe, the Commission, ENISA shall organise, or contribute to the organisation of, cybersecurity exercises at Union level, including testing preparedness to respond to large-scale cybersecurity incidents | 3.At the request of EU-CyCLONe, the Commission **or the CSIRTs network**, ENISA shall **regularly** organise, or contribute to the organisation of, cybersecurity exercises at Union level, including testing preparedness to respond |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 116/243 and crises at Union level. | to large-scale cybersecurity incidents and crises at Union level. **ENISA shall, for that purpose, closely cooperate with EU-CyCLONe, CSIRTs Network, and the Commission, as applicable.** |
+| 3.At the request of EU-CyCLONe, the Commission, ENISA shall organise, or contribute to the organisation of, cybersecurity exercises at Union level, including testing preparedness to respond to large-scale cybersecurity incidents and crises at Union level. | 3.At the request of EU-CyCLONe, the Commission **or the CSIRTs network**, ENISA shall **regularly** organise, or contribute to the organisation of, cybersecurity exercises at Union level, including testing preparedness to respond to large-scale cybersecurity incidents and crises at Union level. **ENISA shall, for that purpose, closely cooperate with EU-CyCLONe, CSIRTs Network, and the Commission, as applicable.** |
 
 ### Article 14(4)
 
@@ -3216,13 +2520,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 117/243 | **provide, operate, maintain, and update as necessary testing tools to support the implementation of conformity assessment procedures in accordance with the relevant Union legislation.** |
+|  | **provide, operate, maintain, and update as necessary testing tools to support the implementation of conformity assessment procedures in accordance with the relevant Union legislation.** |
 
 ### Article 15(2)
 
@@ -3265,13 +2563,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 118/243<br>(c) where appropriate, entering into structured cooperation with organisations providing programmes, registries or databases similar to the European vulnerability database; | (c) where appropriate, entering into structured cooperation with organisations providing programmes, registries or databases similar to the European vulnerability database; |
+| (c) where appropriate, entering into structured cooperation with organisations providing programmes, registries or databases similar to the European vulnerability database; | (c) where appropriate, entering into structured cooperation with organisations providing programmes, registries or databases similar to the European vulnerability database; |
 
 ### Article 16, first paragraph, point (d)
 
@@ -3302,13 +2594,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 119/243 Article 17 Cybersecurity certification | Article 17 Cybersecurity certification |
+| Article 17 Cybersecurity certification | Article 17 Cybersecurity certification |
 
 ### Article 17(1)
 
@@ -3344,13 +2630,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 120/243 2.ENISA shall support the Commission in the following activities: | 2.ENISA shall support the Commission in the following activities: |
+| 2.ENISA shall support the Commission in the following activities: | 2.ENISA shall support the Commission in the following activities: |
 
 ### Article 17(2), point (a)
 
@@ -3395,12 +2675,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | 1.ENISA shall draft technical specifications and guidance to support the implementation of Union legislation in the field of cybersecurity. When drafting those technical specifications, ENISA shall consider existing European and international standards as well as other relevant technical specifications. ENISA shall ensure the consistency of its technical specifications and guidance. | 1.ENISA shall draft technical specifications and guidance**, in consultation with Member States and other relevant stakeholders,** to support the implementation of Union legislation in the field of cybersecurity. When drafting those technical specifications, ENISA shall consider existing European ~~and~~ **,** international **or national** standards as well as other relevant technical specifications. ENISA shall ensure the consistency of its technical specifications and guidance. |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 121/243 |  |
-
 ### Article 18(2)
 
 | Commission Proposal | Council Mandate |
@@ -3424,12 +2698,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 5.ENISA shall assist the Commission in the assessment of draft harmonised standards to support the implementation of Union harmonisation legislation in the field of cybersecurity. | 5.ENISA shall assist the Commission in the assessment of draft harmonised standards to support the implementation of Union harmonisation legislation in the field of cybersecurity. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 122/243 |  |
 
 ### Article 18(6)
 
@@ -3478,13 +2746,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 123/243 4.ENISA shall assess the need to update the ECSF on a regular basis and, where relevant, update it. | 4.ENISA shall assess the need to update the ECSF on a regular basis and, where relevant, update it. |
+| 4.ENISA shall assess the need to update the ECSF on a regular basis and, where relevant, update it. | 4.ENISA shall assess the need to update the ECSF on a regular basis and, where relevant, update it. |
 
 <a id="art-20"></a>
 ### Article 20
@@ -3521,13 +2783,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 124/243<br>(b) requirements applicable to individuals trained to perform assessments (‘assessors’) in accordance with Article 21, the necessary skills, knowledge and experience as well as training methods; | (b) requirements applicable to individuals trained to perform assessments (‘assessors’) in accordance with Article 21, the necessary skills, knowledge and experience as well as training methods; |
+| (b) requirements applicable to individuals trained to perform assessments (‘assessors’) in accordance with Article 21, the necessary skills, knowledge and experience as well as training methods; | (b) requirements applicable to individuals trained to perform assessments (‘assessors’) in accordance with Article 21, the necessary skills, knowledge and experience as well as training methods; |
 
 ### Article 20(3), point (c)
 
@@ -3575,13 +2831,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(hb) conditions under which alternative qualifications, including certification** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 125/243 | **including with regards to proficiency levels, and their effects on the assessments.** |
+|  | **(hb) conditions under which alternative qualifications, including certification including with regards to proficiency levels, and their effects on the assessments.** |
 
 ### Article 20(4)
 
@@ -3613,12 +2863,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 1.Authorised attestation providers shall assess whether individuals meet the requirements of a European individual cybersecurity skills attestation scheme and, where those requirements are met, issue European individual cybersecurity skills attestations. Attestation providers may hold several authorisations, each granted for one European individual cybersecurity skills attestation scheme. | 1.Authorised attestation providers shall assess whether individuals meet the requirements of a European individual cybersecurity skills attestation scheme and, where those requirements are met, issue European individual cybersecurity skills attestations. Attestation providers may hold several authorisations, each granted for one European individual cybersecurity skills attestation scheme. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 126/243 |  |
 
 ### Article 21(2)
 
@@ -3655,12 +2899,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | For the purposes of the first subparagraph, point (b), any subcontracting to, or consultation of, external staff shall be properly documented, shall not involve any intermediaries and shall be subject to a written agreement covering, among other things, confidentiality and conflicts of interest. | For the purposes of the first subparagraph, point (b), any subcontracting to, or consultation of, external staff shall be properly documented, shall not involve any intermediaries and shall be subject to a written agreement covering, among other things, confidentiality and conflicts of interest. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 127/243 |  |
 
 ### Article 21(4)
 
@@ -3710,12 +2948,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | (c) ensure, where relevant by putting in place appropriate safeguards, that their assessors can perform their work independently, in particular where such individuals belong to their own structure or are employees or learners of such a structure; | (c) ensure, where relevant by putting in place appropriate safeguards, that their assessors can perform their work independently, in particular where such individuals belong to their own structure or are employees or learners of such a structure; |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 128/243 |  |
-
 ### Article 21(5), point (d)
 
 | Commission Proposal | Council Mandate |
@@ -3751,13 +2983,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| Article 22 | Article 22 |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 129/243 Examination of applications to become an authorised attestation provider and maintenance of authorisations | Examination of applications to become an authorised attestation provider and maintenance of authorisations |
+| Article 22 Examination of applications to become an authorised attestation provider and maintenance of authorisations | Article 22 Examination of applications to become an authorised attestation provider and maintenance of authorisations |
 
 ### Article 22(1)
 
@@ -3801,12 +3027,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | ENISA may amend, suspend or revoke such decisions based on its evaluation pursuant to Article 22(2) or in the case referred to in Article 21(6). | ENISA may amend, suspend or revoke such decisions based on its evaluation pursuant to Article 22(2) or in the case referred to in Article 21(6). |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 130/243 |  |
-
 ### Article 22(4)
 
 | Commission Proposal | Council Mandate |
@@ -3848,13 +3068,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (b) the European individual cybersecurity skills attestation schemes, their | (b) the European individual cybersecurity skills attestation schemes, their |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 131/243 progress and timelines for their development; | progress and timelines for their development; |
+| (b) the European individual cybersecurity skills attestation schemes, their progress and timelines for their development; | (b) the European individual cybersecurity skills attestation schemes, their progress and timelines for their development; |
 
 ### Article 23, first paragraph, point (c)
 
@@ -3911,12 +3125,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | (c) an Executive Director who shall exercise the responsibilities set out in Article 32; | (c) an Executive Director who shall exercise the responsibilities set out in Article 32; |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 132/243 |  |
-
 ### Article 24, first paragraph, point (d)
 
 | Commission Proposal | Council Mandate |
@@ -3964,13 +3172,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.Each Member State shall appoint the head of a national competent authority designated pursuant to Article 8(1) of Directive (EU) 2022/2555 as the member of the Management Board. Where this proves not to be feasible, Member States | 3.Each Member State shall appoint **a representative with strategic decision- making power in the field of cybersecurity in the Member State as the member of the Management Board. Where possible this representative shall be** the head of a |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 133/243 shall appoint a high-level representative of a national competent authority designated pursuant to Article 8(1) of Directive (EU) 2022/2555 as the member of the Management Board. | ~~national~~ competent authority designated pursuant to Article 8(1) of Directive<br>(EU) 2022/2555 as the member of the Management Board. ~~Where this proves not to be feasible, Member States shall appoint a high-level representative of a national competent authority designated pursuant to Article 8(1) of Directive~~<br>~~(EU) 2022/2555 as the member of the Management Board.~~ |
+| 3.Each Member State shall appoint the head of a national competent authority designated pursuant to Article 8(1) of Directive (EU) 2022/2555 as the member of the Management Board. Where this proves not to be feasible, Member States shall appoint a high-level representative of a national competent authority designated pursuant to Article 8(1) of Directive (EU) 2022/2555 as the member of the Management Board. | 3.Each Member State shall appoint **a representative with strategic decision- making power in the field of cybersecurity in the Member State as the member of the Management Board. Where possible this representative shall be** the head of a ~~national~~ competent authority designated pursuant to Article 8(1) of Directive<br>(EU) 2022/2555 as the member of the Management Board. ~~Where this proves not to be feasible, Member States shall appoint a high-level representative of a national competent authority designated pursuant to Article 8(1) of Directive~~<br>~~(EU) 2022/2555 as the member of the Management Board.~~ |
 
 ### Article 25(4)
 
@@ -4002,12 +3204,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 1.The Management Board shall elect a Chairperson and a Deputy Chairperson from among its members with voting rights. The Chairperson and the Deputy Chairperson shall be elected by a majority of two thirds of the members of the Management Board with voting rights. | 1.The Management Board shall elect a Chairperson and a Deputy Chairperson from among its members ~~with voting rights~~. The Chairperson and the Deputy Chairperson shall be elected by a majority of two thirds of the members of the Management Board ~~with voting rights~~. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 134/243 |  |
 
 ### Article 26(2)
 
@@ -4056,13 +3252,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 135/243 5.The Management Board may invite any person whose opinion may be of interest to attend a meeting, or part of a meeting, as an ad hoc observer, without voting rights and subject to the rules of procedure of the Management Board. | 5.The Management Board may invite any person whose opinion may be of interest to attend a meeting, or part of a meeting, as an ad hoc observer, without voting rights and subject to the rules of procedure of the Management Board. |
+| 5.The Management Board may invite any person whose opinion may be of interest to attend a meeting, or part of a meeting, as an ad hoc observer, without voting rights and subject to the rules of procedure of the Management Board. | 5.The Management Board may invite any person whose opinion may be of interest to attend a meeting, or part of a meeting, as an ad hoc observer, without voting rights and subject to the rules of procedure of the Management Board. |
 
 ### Article 27(6)
 
@@ -4105,13 +3295,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) taking into account the opinion of the Commission, adopt ENISA’s single programming document in accordance with Article 29(2), point (a); | (c) ~~taking into account the opinion of the Commission,~~ adopt ENISA’s single programming document in accordance with Article 29(2), point (a)**, taking into** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 136/243 | **account the opinion of the Commission**; |
+| (c) taking into account the opinion of the Commission, adopt ENISA’s single programming document in accordance with Article 29(2), point (a); | (c) ~~taking into account the opinion of the Commission,~~ adopt ENISA’s single programming document in accordance with Article 29(2), point (a)**, taking into account the opinion of the Commission**; |
 
 ### Article 28(1), point (d)
 
@@ -4153,13 +3337,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 137/243 | **organisations pursuant to Article 70(2);** |
+|  | **organisations pursuant to Article 70(2);** |
 
 ### Article 28(1), point (i)
 
@@ -4189,13 +3367,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (m) appoint the Executive Director and, if it decides to create the function of a Deputy Executive Director, the Deputy Executive Director, and where relevant | (m) appoint the Executive Director and, if it decides to create the function of a Deputy Executive Director, the Deputy Executive Director, and where relevant |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 138/243 extend their term of office or remove them from office in accordance with Article 31; | extend their term of office or remove them from office in accordance with Article 31; |
+| (m) appoint the Executive Director and, if it decides to create the function of a Deputy Executive Director, the Deputy Executive Director, and where relevant extend their term of office or remove them from office in accordance with Article 31; | (m) appoint the Executive Director and, if it decides to create the function of a Deputy Executive Director, the Deputy Executive Director, and where relevant extend their term of office or remove them from office in accordance with Article 31; |
 
 ### Article 28(1), point (n)
 
@@ -4239,12 +3411,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 |  |  |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 139/243 |  |
-
 ### Article 28(2)
 
 | Commission Proposal | Council Mandate |
@@ -4280,13 +3446,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (a) the adoption of the single programming document referred to in Article | (a) the adoption of the single programming document referred to in Article |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 140/243 28(1)(c); | 28(1)(c); |
+| (a) the adoption of the single programming document referred to in Article 28(1)(c); | (a) the adoption of the single programming document referred to in Article 28(1)(c); |
 
 ### Article 29(2), point (b)
 
@@ -4328,13 +3488,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 141/243 6.The Executive Director shall not take part in the voting. | 6.The Executive Director shall not take part in the voting. |
+| 6.The Executive Director shall not take part in the voting. | 6.The Executive Director shall not take part in the voting. |
 
 ### Article 29(7)
 
@@ -4383,13 +3537,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) without prejudice to the responsibilities of the Executive Director set out in Article 32, assist and advise the Executive Director in implementing the decisions of the Management Board, with a view to reinforcing supervision of | (c) without prejudice to the responsibilities of the Executive Director set out in Article 32, assist and advise the Executive Director in implementing the decisions of the Management Board, with a view to reinforcing supervision of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 142/243 administrative and budgetary management. | administrative and budgetary management. |
+| (c) without prejudice to the responsibilities of the Executive Director set out in Article 32, assist and advise the Executive Director in implementing the decisions of the Management Board, with a view to reinforcing supervision of administrative and budgetary management. | (c) without prejudice to the responsibilities of the Executive Director set out in Article 32, assist and advise the Executive Director in implementing the decisions of the Management Board, with a view to reinforcing supervision of administrative and budgetary management. |
 
 ### Article 30(3)
 
@@ -4419,13 +3567,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 7.When necessary due to urgency, the Executive Board may take certain | 7.When necessary due to urgency, the Executive Board may take certain |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 143/243 provisional decisions on behalf of the Management Board, in particular on administrative management matters, including the suspension of the delegation of the appointing authority powers and budgetary matters. Any such provisional decisions shall be notified to the Management Board without undue delay. The Management Board shall then decide whether to approve or reject the provisional decision no later than three months after that decision was taken. The Executive Board shall not take decisions on behalf of the Management Board that require the approval of a majority of two thirds of the members of the Management Board with voting rights. | provisional decisions on behalf of the Management Board, in particular on administrative management matters, including the suspension of the delegation of the appointing authority powers and budgetary matters. Any such provisional decisions shall be notified to the Management Board without undue delay. The Management Board shall then decide whether to approve or reject the provisional decision no later than three months after that decision was taken. The Executive Board shall not take decisions on behalf of the Management Board that require the approval of a majority of two thirds of the members of the Management Board ~~with voting rights~~. |
+| 7.When necessary due to urgency, the Executive Board may take certain provisional decisions on behalf of the Management Board, in particular on administrative management matters, including the suspension of the delegation of the appointing authority powers and budgetary matters. Any such provisional decisions shall be notified to the Management Board without undue delay. The Management Board shall then decide whether to approve or reject the provisional decision no later than three months after that decision was taken. The Executive Board shall not take decisions on behalf of the Management Board that require the approval of a majority of two thirds of the members of the Management Board with voting rights. | 7.When necessary due to urgency, the Executive Board may take certain provisional decisions on behalf of the Management Board, in particular on administrative management matters, including the suspension of the delegation of the appointing authority powers and budgetary matters. Any such provisional decisions shall be notified to the Management Board without undue delay. The Management Board shall then decide whether to approve or reject the provisional decision no later than three months after that decision was taken. The Executive Board shall not take decisions on behalf of the Management Board that require the approval of a majority of two thirds of the members of the Management Board ~~with voting rights~~. |
 
 ### Section 3
 
@@ -4462,13 +3604,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 144/243 4.For the purpose of concluding the contract with the Executive Director, ENISA shall be represented by the Chairperson of the Management Board. | 4.For the purpose of concluding the contract with the Executive Director, ENISA shall be represented by the Chairperson of the Management Board. |
+| 4.For the purpose of concluding the contract with the Executive Director, ENISA shall be represented by the Chairperson of the Management Board. | 4.For the purpose of concluding the contract with the Executive Director, ENISA shall be represented by the Chairperson of the Management Board. |
 
 ### Article 31(5)
 
@@ -4505,13 +3641,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 145/243 Article 32 Tasks and responsibilities of the Executive Director | Article 32 Tasks and responsibilities of the Executive Director |
+| Article 32 Tasks and responsibilities of the Executive Director | Article 32 Tasks and responsibilities of the Executive Director |
 
 ### Article 32(1)
 
@@ -4559,13 +3689,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 146/243<br>(c) ensure compliance with the financial rules of ENISA; | (c) ensure compliance with the financial rules of ENISA; |
+| (c) ensure compliance with the financial rules of ENISA; | (c) ensure compliance with the financial rules of ENISA; |
 
 ### Article 32(5), point (d)
 
@@ -4607,13 +3731,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 147/243<br>(j) prepare ENISA’s draft statement of estimates of revenue and expenditure and implement its budget; | (j) prepare ENISA’s draft statement of estimates of revenue and expenditure and implement its budget; |
+| (j) prepare ENISA’s draft statement of estimates of revenue and expenditure and implement its budget; | (j) prepare ENISA’s draft statement of estimates of revenue and expenditure and implement its budget; |
 
 ### Article 32(5), point (k)
 
@@ -4651,12 +3769,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | (p) adopt European individual cybersecurity skills attestation schemes, as referred to in Article 20(1); | (p) adopt European individual cybersecurity skills attestation schemes, as referred to in Article 20(1); |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 148/243 |  |
-
 ### Article 32(5), point (q)
 
 | Commission Proposal | Council Mandate |
@@ -4680,12 +3792,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 7.Where necessary for the purpose of carrying out ENISA’s tasks in an efficient and effective manner and based on an appropriate cost-benefit analysis, the Executive Director may decide to establish one or more local offices in one or more Member States. Before deciding to establish a local office, the Executive Director shall seek the opinion of the Member States concerned, including the Member State in which the seat of ENISA is located, and shall obtain the prior consent of the Commission and the Management Board. In cases of disagreement during the consultation process between the Executive Director and the Member States concerned, the issue shall be brought to the Council for discussion. The aggregate number of staff in all local offices shall be kept to a minimum and shall not exceed 40% of the total number of ENISA’s staff located in the Member State in which the seat of ENISA is located. The number of the staff in each local office shall not exceed 10% of the total number of ENISA’s staff located in the Member State in which the seat of ENISA is located. | 7.Where necessary for the purpose of carrying out ENISA’s tasks in an efficient and effective manner and based on an appropriate cost-benefit analysis, the Executive Director may decide to establish one or more local offices in one or more Member States. Before deciding to establish a local office, the Executive Director shall seek the opinion of the Member States concerned, including the Member State in which the seat of ENISA is located, and shall obtain the prior consent of the Commission and the Management Board. In cases of disagreement during the consultation process between the Executive Director and the Member States concerned, the issue shall be brought to the Council for discussion. The aggregate number of staff in all local offices shall be kept to a minimum and shall not exceed 40% of the total number of ENISA’s staff located in the Member State in which the seat of ENISA is located. The number of the staff in each local office shall not exceed 10% of the total number of ENISA’s staff located in the Member State in which the seat of ENISA is located. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 149/243 |  |
 
 ### Article 32(8)
 
@@ -4729,13 +3835,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| The Deputy Executive Director shall assist the Executive Director in managing ENISA and in carrying out the tasks referred to in Article 32. If the Executive Director is absent or indisposed, or the post is vacant, the Deputy Executive Director shall take their place during the time of absence or until the post is filled. | The Deputy Executive Director shall assist the Executive Director in managing ENISA and in carrying out the tasks referred to in Article 32**. The Executive Director shall set out the tasks and responsibilities of the Deputy Executive Director**. If the Executive Director is absent or indisposed, or the post is vacant, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 150/243 | the Deputy Executive Director shall take their place during the time of absence or until the post is filled. |
+| The Deputy Executive Director shall assist the Executive Director in managing ENISA and in carrying out the tasks referred to in Article 32. If the Executive Director is absent or indisposed, or the post is vacant, the Deputy Executive Director shall take their place during the time of absence or until the post is filled. | The Deputy Executive Director shall assist the Executive Director in managing ENISA and in carrying out the tasks referred to in Article 32**. The Executive Director shall set out the tasks and responsibilities of the Deputy Executive Director**. If the Executive Director is absent or indisposed, or the post is vacant, the Deputy Executive Director shall take their place during the time of absence or until the post is filled. |
 
 ### Section 5
 
@@ -4760,13 +3860,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.Procedures for the ENISA Advisory Group, in particular regarding its composition, the proposal by the Executive Director referred to in paragraph 1, the number and appointment of its members and the operation of the ENISA | 2.Procedures for the ENISA Advisory Group, in particular regarding its composition, the proposal by the Executive Director referred to in paragraph 1, the number and appointment of its members and the operation of the ENISA |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 151/243 Advisory Group, shall be specified in ENISA’s internal rules of operation and shall be made public. | Advisory Group, shall be specified in ENISA’s internal rules of operation and shall be made public. |
+| 2.Procedures for the ENISA Advisory Group, in particular regarding its composition, the proposal by the Executive Director referred to in paragraph 1, the number and appointment of its members and the operation of the ENISA Advisory Group, shall be specified in ENISA’s internal rules of operation and shall be made public. | 2.Procedures for the ENISA Advisory Group, in particular regarding its composition, the proposal by the Executive Director referred to in paragraph 1, the number and appointment of its members and the operation of the ENISA Advisory Group, shall be specified in ENISA’s internal rules of operation and shall be made public. |
 
 ### Article 35(3)
 
@@ -4797,12 +3891,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 7.ENISA shall provide the logistical support necessary for the ENISA Advisory Group and provide a secretariat for its meetings. | 7.ENISA shall provide the logistical support necessary for the ENISA Advisory Group and provide a secretariat for its meetings. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 152/243 |  |
 
 ### Section 6
 
@@ -4845,13 +3933,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.Where the Board of Appeal considers that the nature of the appeal so requires, it may request the Management Board to appoint two additional members and | 4.Where the Board of Appeal considers that the nature of the appeal so requires, it may request the Management Board to appoint two additional members and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 153/243 their alternates from the list referred to in paragraph 3. | their alternates from the list referred to in paragraph 3. |
+| 4.Where the Board of Appeal considers that the nature of the appeal so requires, it may request the Management Board to appoint two additional members and their alternates from the list referred to in paragraph 3. | 4.Where the Board of Appeal considers that the nature of the appeal so requires, it may request the Management Board to appoint two additional members and their alternates from the list referred to in paragraph 3. |
 
 ### Article 36(5)
 
@@ -4895,13 +3977,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.The members of the Board of Appeal shall not take part in any appeal | 1.The members of the Board of Appeal shall not take part in any appeal |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 154/243 proceedings if they have any personal interest in the proceedings, if they have previously been involved as representatives of one of the parties to the proceedings, or if they participated in the adoption of the decision under appeal. | proceedings if they have any personal interest in the proceedings, if they have previously been involved as representatives of one of the parties to the proceedings, or if they participated in the adoption of the decision under appeal. |
+| 1.The members of the Board of Appeal shall not take part in any appeal proceedings if they have any personal interest in the proceedings, if they have previously been involved as representatives of one of the parties to the proceedings, or if they participated in the adoption of the decision under appeal. | 1.The members of the Board of Appeal shall not take part in any appeal proceedings if they have any personal interest in the proceedings, if they have previously been involved as representatives of one of the parties to the proceedings, or if they participated in the adoption of the decision under appeal. |
 
 ### Article 38(2)
 
@@ -4939,12 +4015,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | (a) decisions adopted by ENISA pursuant to Article 22(3); | (a) decisions adopted by ENISA pursuant to Article 22(3); |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 155/243 |  |
 
 ### Article 39(1), point (b)
 
@@ -4995,12 +4065,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | 2.In the case referred to in paragraph 1, point (a), the appeal, together with the statement of grounds thereof, shall be filed in writing in accordance with the rules of procedure referred to in Article 36(5) within two months of notification of the decision to the applicant concerned, or, in the absence thereof, of the day on which the decision came to the knowledge of the applicant. | 2.In the case referred to in paragraph 1, point (a), the appeal, together with the statement of grounds thereof, shall be filed in writing in accordance with the rules of procedure referred to in Article 36(5) within two months of notification of the decision to the applicant concerned, or, in the absence thereof, of the day on which the decision came to the knowledge of the applicant. |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 156/243 |  |
-
 ### Article 40(3)
 
 | Commission Proposal | Council Mandate |
@@ -5038,12 +4102,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 1.The Board of Appeal shall decide within three months of the appeal being filed whether to grant or refuse that appeal. When examining an appeal, the Board of Appeal shall act within the deadlines laid down in its rules of procedure. It shall, as often as necessary, invite the parties to the appeal proceedings to file, within specified time limits, observations on its notifications or on communications from other parties to the appeal proceedings. Parties to the appeal proceedings shall be entitled to make oral representations. | 1.The Board of Appeal shall decide within three months of the appeal being filed whether to grant or refuse that appeal. When examining an appeal, the Board of Appeal shall act within the deadlines laid down in its rules of procedure. It shall, as often as necessary, invite the parties to the appeal proceedings to file, within specified time limits, observations on its notifications or on communications from other parties to the appeal proceedings. Parties to the appeal proceedings shall be entitled to make oral representations. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 157/243 |  |
 
 ### Article 42(2)
 
@@ -5087,13 +4145,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.ENISA shall operate in accordance with a single programming document | 1.ENISA shall operate in accordance with a single programming document |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 158/243 containing its annual and multiannual work programme, which shall include all of its planned activities. | containing its annual and multiannual work programme, which shall include all of its planned activities. |
+| 1.ENISA shall operate in accordance with a single programming document containing its annual and multiannual work programme, which shall include all of its planned activities. | 1.ENISA shall operate in accordance with a single programming document containing its annual and multiannual work programme, which shall include all of its planned activities. |
 
 ### Article 44(2)
 
@@ -5111,13 +4163,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.The single programming document shall become final after the definitive | 4.The single programming document shall become final after the definitive |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 159/243 adoption of the general budget of the Union and shall be adjusted as necessary. | adoption of the general budget of the Union and shall be adjusted **by the Management Board** as necessary. |
+| 4.The single programming document shall become final after the definitive adoption of the general budget of the Union and shall be adjusted as necessary. | 4.The single programming document shall become final after the definitive adoption of the general budget of the Union and shall be adjusted **by the Management Board** as necessary. |
 
 ### Article 44(5)
 
@@ -5142,12 +4188,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 8.The resource programming shall be updated annually. The strategic programming shall be updated where appropriate and in particular where necessary to address the outcome of the evaluation referred to in Article 120. | 8.The resource programming shall be updated annually. The strategic programming shall be updated where appropriate and in particular where necessary to address the outcome of the evaluation referred to in Article 120. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 160/243 |  |
 
 ### CHAPTER IV
 
@@ -5190,13 +4230,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.On the basis of the draft estimate, the Commission shall enter in the draft general budget of the Union the estimates it considers to be necessary for the | 5.On the basis of the draft estimate, the Commission shall enter in the draft general budget of the Union the estimates it considers to be necessary for the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 161/243 establishment plan and the amount of the contribution to be charged to the general budget of the Union, which it shall submit to the budgetary authority in accordance with Articles 313 and 314 TFEU. | establishment plan and the amount of the contribution to be charged to the general budget of the Union, which it shall submit to the budgetary authority in accordance with Articles 313 and 314 TFEU. |
+| 5.On the basis of the draft estimate, the Commission shall enter in the draft general budget of the Union the estimates it considers to be necessary for the establishment plan and the amount of the contribution to be charged to the general budget of the Union, which it shall submit to the budgetary authority in accordance with Articles 313 and 314 TFEU. | 5.On the basis of the draft estimate, the Commission shall enter in the draft general budget of the Union the estimates it considers to be necessary for the establishment plan and the amount of the contribution to be charged to the general budget of the Union, which it shall submit to the budgetary authority in accordance with Articles 313 and 314 TFEU. |
 
 ### Article 45(6)
 
@@ -5245,13 +4279,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 162/243 3.Without prejudice to other resources, ENISA’s revenue shall be composed of: | 3.Without prejudice to other resources, ENISA’s revenue shall be composed of: |
+| 3.Without prejudice to other resources, ENISA’s revenue shall be composed of: | 3.Without prejudice to other resources, ENISA’s revenue shall be composed of: |
 
 ### Article 46(3), point (a)
 
@@ -5299,13 +4327,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 163/243<br>(h) any voluntary contributions from Member States in money or in kind. | (h) any voluntary contributions from Member States in money or in kind. |
+| (h) any voluntary contributions from Member States in money or in kind. | (h) any voluntary contributions from Member States in money or in kind. |
 
 ### Article 46(4)
 
@@ -5354,13 +4376,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 164/243 2.In relation to certification, the following fees shall be levied on the conformity assessment bodies for the maintenance of European cybersecurity certification schemes under which European cybersecurity certificates are issued, in particular: | 2.In relation to certification, the following fees shall be levied on the conformity assessment bodies for the maintenance of European cybersecurity certification schemes under which European cybersecurity certificates are issued, in particular: |
+| 2.In relation to certification, the following fees shall be levied on the conformity assessment bodies for the maintenance of European cybersecurity certification schemes under which European cybersecurity certificates are issued, in particular: | 2.In relation to certification, the following fees shall be levied on the conformity assessment bodies for the maintenance of European cybersecurity certification schemes under which European cybersecurity certificates are issued, in particular: |
 
 ### Article 47(2), first subparagraph, point (a)
 
@@ -5390,13 +4406,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 165/243 4.Fees shall be expressed and payable in euro. | 4.Fees shall be expressed and payable in euro. |
+| 4.Fees shall be expressed and payable in euro. | 4.Fees shall be expressed and payable in euro. |
 
 ### Article 47(5)
 
@@ -5414,13 +4424,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 166/243 The amount of the fees for the tasks referred to in paragraph 1 shall be fixed at such a level as to ensure that the revenue in respect thereof sufficiently contributes to cover the costs of the activities related to the development and maintenance of European individual attestation schemes, the processing of applications and the delivery and renewal of authorisations and the necessary for those oversight activities by ENISA. | The amount of the fees for the tasks referred to in paragraph 1 shall be fixed at such a level as to ensure that the revenue in respect thereof sufficiently contributes to cover the costs of the activities related to the development and maintenance of European individual attestation schemes, the processing of applications and the delivery and renewal of authorisations and the necessary for those oversight activities by ENISA. |
+| The amount of the fees for the tasks referred to in paragraph 1 shall be fixed at such a level as to ensure that the revenue in respect thereof sufficiently contributes to cover the costs of the activities related to the development and maintenance of European individual attestation schemes, the processing of applications and the delivery and renewal of authorisations and the necessary for those oversight activities by ENISA. | The amount of the fees for the tasks referred to in paragraph 1 shall be fixed at such a level as to ensure that the revenue in respect thereof sufficiently contributes to cover the costs of the activities related to the development and maintenance of European individual attestation schemes, the processing of applications and the delivery and renewal of authorisations and the necessary for those oversight activities by ENISA. |
 
 ### Article 47(6), third subparagraph
 
@@ -5445,12 +4449,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 8.ENISA shall put in place a set of indicators to measure the workload, effectiveness and efficiency in relation to activities financed through fees. ENISA shall adapt its staff planning and management of resources related to fees accordingly to be able to adequately respond to such demand and to any fluctuations in revenue from fees. ENISA shall share the report with the Commission, which the Commission may use for the purpose of the evaluation referred to in Article 120(1). | 8.ENISA shall put in place a set of indicators to measure the workload, effectiveness and efficiency in relation to activities financed through fees. ENISA shall adapt its staff planning and management of resources related to fees accordingly to be able to adequately respond to such demand and to any fluctuations in revenue from fees. ENISA shall share the report with the Commission, which the Commission may use for the purpose of the evaluation referred to in Article 120(1). |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 167/243 |  |
 
 <a id="art-48"></a>
 ### Article 48
@@ -5500,13 +4498,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.ENISA shall send the report on the budgetary and financial management for | 3.ENISA shall send the report on the budgetary and financial management for |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 168/243 year N to the European Parliament, the Council, the Commission and the Court of Auditors by 31 March of year N + 1. | year N to the European Parliament, the Council, the Commission and the Court of Auditors by 31 March of year N + 1. |
+| 3.ENISA shall send the report on the budgetary and financial management for year N to the European Parliament, the Council, the Commission and the Court of Auditors by 31 March of year N + 1. | 3.ENISA shall send the report on the budgetary and financial management for year N to the European Parliament, the Council, the Commission and the Court of Auditors by 31 March of year N + 1. |
 
 ### Article 49(4)
 
@@ -5542,13 +4534,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 9.The Executive Director shall submit to the European Parliament, at the latter’s request, any information required for the smooth application of the discharge procedure for year N, in accordance with Article 267(3) of Regulation (EU, | 9.The Executive Director shall submit to the European Parliament, at the latter’s request, any information required for the smooth application of the discharge procedure for year N, in accordance with Article 267(3) of Regulation (EU, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 169/243 Euratom) 2024/2509 of the European Parliament and of the Council. | Euratom) 2024/2509 of the European Parliament and of the Council. |
+| 9.The Executive Director shall submit to the European Parliament, at the latter’s request, any information required for the smooth application of the discharge procedure for year N, in accordance with Article 267(3) of Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council. | 9.The Executive Director shall submit to the European Parliament, at the latter’s request, any information required for the smooth application of the discharge procedure for year N, in accordance with Article 267(3) of Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council. |
 
 ### Article 49(10)
 
@@ -5586,13 +4572,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.In order to combat fraud, corruption and other unlawful activities, the provisions of Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council 1 shall apply without restriction to the activities of ENISA. _________<br>1. Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 | 1.In order to combat fraud, corruption and other unlawful activities, the provisions of Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council 1 shall apply without restriction to the activities of ENISA. _________<br>1. Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 170/243 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj). | September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj). |
+| 1.In order to combat fraud, corruption and other unlawful activities, the provisions of Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council 1 shall apply without restriction to the activities of ENISA. _________<br>1. Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj). | 1.In order to combat fraud, corruption and other unlawful activities, the provisions of Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council 1 shall apply without restriction to the activities of ENISA. _________<br>1. Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj). |
 
 ### Article 51(2)
 
@@ -5611,12 +4591,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 4.OLAF may carry out investigations, including on-the-spot checks and inspections with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant or a contract funded by ENISA, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/961. _________<br>1. Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2, ELI: http://data.europa.eu/eli/reg/1996/2185/oj). | 4.OLAF may carry out investigations, including on-the-spot checks and inspections with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant or a contract funded by ENISA, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/961. _________<br>1. Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2, ELI: http://data.europa.eu/eli/reg/1996/2185/oj). |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 171/243 |  |
 
 ### Article 51(5)
 
@@ -5647,13 +4621,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.Members of the Management Board, the Executive Director, the Deputy | 2.Members of the Management Board, the Executive Director, the Deputy |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 172/243 Executive Director, external experts participating in ad hoc working groups, shall each accurately and completely declare, at the latest at the start of each meeting, any interest which might be considered to be prejudicial to their independence in relation to the items on the agenda, and shall abstain from participating in the discussion of and voting on such items. | Executive Director, external experts participating in ad hoc working groups, shall each accurately and completely declare, at the latest at the start of each meeting, any interest which might be considered to be prejudicial to their independence in relation to the items on the agenda, and shall abstain from participating in the discussion of and voting on such items. |
+| 2.Members of the Management Board, the Executive Director, the Deputy Executive Director, external experts participating in ad hoc working groups, shall each accurately and completely declare, at the latest at the start of each meeting, any interest which might be considered to be prejudicial to their independence in relation to the items on the agenda, and shall abstain from participating in the discussion of and voting on such items. | 2.Members of the Management Board, the Executive Director, the Deputy Executive Director, external experts participating in ad hoc working groups, shall each accurately and completely declare, at the latest at the start of each meeting, any interest which might be considered to be prejudicial to their independence in relation to the items on the agenda, and shall abstain from participating in the discussion of and voting on such items. |
 
 ### Article 52(3)
 
@@ -5690,13 +4658,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.ENISA shall lay down, in its internal rules of operation, the practical | 4.ENISA shall lay down, in its internal rules of operation, the practical |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 173/243 arrangements for implementing the transparency rules referred to in paragraphs 1 and 2. | arrangements for implementing the transparency rules referred to in paragraphs 1 and 2. |
+| 4.ENISA shall lay down, in its internal rules of operation, the practical arrangements for implementing the transparency rules referred to in paragraphs 1 and 2. | 4.ENISA shall lay down, in its internal rules of operation, the practical arrangements for implementing the transparency rules referred to in paragraphs 1 and 2. |
 
 <a id="art-54"></a>
 ### Article 54
@@ -5740,13 +4702,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 174/243 2.The Management Board shall adopt arrangements for implementing Regulation (EC) No 1049/2001. | 2.The Management Board shall adopt arrangements for implementing Regulation (EC) No 1049/2001. Decision 2019/17 of the ENISA Management Board. |
+| 2.The Management Board shall adopt arrangements for implementing Regulation (EC) No 1049/2001. | 2.The Management Board shall adopt arrangements for implementing Regulation (EC) No 1049/2001. Decision 2019/17 of the ENISA Management Board. |
 
 ### Article 55(3)
 
@@ -5786,12 +4742,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | Article 57 Privileges and immunities | Article 57 Privileges and immunities |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 175/243 |  |
-
 ### Article 57, first paragraph
 
 | Commission Proposal | Council Mandate |
@@ -5828,13 +4778,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 176/243 Article 59 Seconded national experts and other staff | Article 59 Seconded national experts and other staff |
+| Article 59 Seconded national experts and other staff | Article 59 Seconded national experts and other staff |
 
 ### Article 59(1)
 
@@ -5884,13 +4828,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 177/243 Article 61 Seat | Article 61 Seat |
+| Article 61 Seat | Article 61 Seat |
 
 ### Article 61, first paragraph
 
@@ -5928,13 +4866,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| The operations of ENISA shall be supervised by the European Ombudsman in | The operations of ENISA shall be supervised by the European Ombudsman in |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 178/243 accordance with Article 228 TFEU. | accordance with Article 228 TFEU. |
+| The operations of ENISA shall be supervised by the European Ombudsman in accordance with Article 228 TFEU. | The operations of ENISA shall be supervised by the European Ombudsman in accordance with Article 228 TFEU. |
 
 <a id="art-64"></a>
 ### Article 64
@@ -5980,12 +4912,6 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | Article 65 Language arrangements | Article 65 Language arrangements |
 
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 179/243 |  |
-
 ### Article 65(1)
 
 | Commission Proposal | Council Mandate |
@@ -6022,13 +4948,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| Article 67 Security rules on the protection of sensitive non-classified information and | Article 67 Security rules on the protection of sensitive non-classified information and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 180/243 classified information | classified information**, and the use of information sharing protocols** |
+| Article 67 Security rules on the protection of sensitive non-classified information and classified information | Article 67 Security rules on the protection of sensitive non-classified information and classified information**, and the use of information sharing protocols** |
 
 ### Article 67, first paragraph
 
@@ -6053,13 +4973,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.To ensure consistency, create synergies and address issues of common concern, ENISA shall cooperate on matters related to cybersecurity with CERT-EU and relevant Union entities, including Europol, the European Cybersecurity Industrial, Technology and Research Competence Centre established pursuant to Regulation (EU) 2021/887, and the European Data Protection Board established pursuant to Article 68(1) of Regulation (EU) 2016/679. | 1.To ensure consistency, create synergies and address issues of common concern, ENISA shall cooperate on matters related to cybersecurity with CERT-EU and relevant Union entities, including Europol, the European Cybersecurity Industrial, Technology and Research Competence Centre **as well as the network of national coordination centres** established pursuant to Regulation (EU) 2021/887, ~~and~~ the European Data Protection Board established pursuant to |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 181/243 | Article 68(1) of Regulation (EU) 2016/679 **and the European Data Protection Supervisor**. |
+| 1.To ensure consistency, create synergies and address issues of common concern, ENISA shall cooperate on matters related to cybersecurity with CERT-EU and relevant Union entities, including Europol, the European Cybersecurity Industrial, Technology and Research Competence Centre established pursuant to Regulation (EU) 2021/887, and the European Data Protection Board established pursuant to Article 68(1) of Regulation (EU) 2016/679. | 1.To ensure consistency, create synergies and address issues of common concern, ENISA shall cooperate on matters related to cybersecurity with CERT-EU and relevant Union entities, including Europol, the European Cybersecurity Industrial, Technology and Research Competence Centre **as well as the network of national coordination centres** established pursuant to Regulation (EU) 2021/887, ~~and~~ the European Data Protection Board established pursuant to Article 68(1) of Regulation (EU) 2016/679 **and the European Data Protection Supervisor**. |
 
 ### Article 68(2)
 
@@ -6108,13 +5022,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 182/243 1.Where necessary to achieve the objectives of this Regulation, ENISA shall cooperate with relevant stakeholders, such as the cybersecurity industry, the ICT industry, SMEs, entities operating in sectors listed in Annexes I and II to Directive (EU) 2022/2555, manufacturers, importers or distributors of products with digital elements within the meaning of Regulation (EU) 2024/2847, conformity assessment bodies notified under the European cybersecurity certification framework and Regulation (EU) 2024/2847, entities operating in the area of electronic identification means, consumer groups, and academic experts in the field of cybersecurity. To that end, ENISA may establish publicprivate partnerships. | 1.Where necessary to achieve the objectives of this Regulation, ENISA shall cooperate with relevant stakeholders, such as the cybersecurity industry, the ICT industry, SMEs, entities operating in sectors listed in Annexes I and II to Directive (EU) 2022/2555, manufacturers, importers or distributors of products with digital elements within the meaning of Regulation (EU) 2024/2847, conformity assessment bodies notified under the European cybersecurity certification framework and Regulation (EU) 2024/2847, entities operating in the area of electronic identification means, consumer groups, and academic experts in the field of cybersecurity. To that end, ENISA may establish publicprivate partnerships. |
+| 1.Where necessary to achieve the objectives of this Regulation, ENISA shall cooperate with relevant stakeholders, such as the cybersecurity industry, the ICT industry, SMEs, entities operating in sectors listed in Annexes I and II to Directive (EU) 2022/2555, manufacturers, importers or distributors of products with digital elements within the meaning of Regulation (EU) 2024/2847, conformity assessment bodies notified under the European cybersecurity certification framework and Regulation (EU) 2024/2847, entities operating in the area of electronic identification means, consumer groups, and academic experts in the field of cybersecurity. To that end, ENISA may establish public-private partnerships. | 1.Where necessary to achieve the objectives of this Regulation, ENISA shall cooperate with relevant stakeholders, such as the cybersecurity industry, the ICT industry, SMEs, entities operating in sectors listed in Annexes I and II to Directive (EU) 2022/2555, manufacturers, importers or distributors of products with digital elements within the meaning of Regulation (EU) 2024/2847, conformity assessment bodies notified under the European cybersecurity certification framework and Regulation (EU) 2024/2847, entities operating in the area of electronic identification means, consumer groups, and academic experts in the field of cybersecurity. To that end, ENISA may establish public-private partnerships. |
 
 ### Article 69(1a)
 
@@ -6139,13 +5047,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.To the extent necessary to achieve the objectives of this Regulation, ENISA may cooperate with the competent authorities of third countries or with international organisations or both, in line with the priorities of the Union. To that end, ENISA may establish working arrangements with the authorities of | 1.To the extent necessary to achieve the objectives of this Regulation, ENISA may cooperate with the competent authorities of third countries or with international organisations or both, in line with the priorities of the Union. To that end, ENISA may establish working arrangements with the authorities of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 183/243 third countries and international organisations, subject to the prior approval of the Commission. Those working arrangements shall not create legal obligations incumbent on the Union and its Member States. | third countries and international organisations, subject to the prior approval of the Commission **and the Management Board**. Those working arrangements shall not create legal obligations incumbent on the Union and its Member States. Alignment with Article 28(1)(q). |
+| 1.To the extent necessary to achieve the objectives of this Regulation, ENISA may cooperate with the competent authorities of third countries or with international organisations or both, in line with the priorities of the Union. To that end, ENISA may establish working arrangements with the authorities of third countries and international organisations, subject to the prior approval of the Commission. Those working arrangements shall not create legal obligations incumbent on the Union and its Member States. | 1.To the extent necessary to achieve the objectives of this Regulation, ENISA may cooperate with the competent authorities of third countries or with international organisations or both, in line with the priorities of the Union. To that end, ENISA may establish working arrangements with the authorities of third countries and international organisations, subject to the prior approval of the Commission **and the Management Board**. Those working arrangements shall not create legal obligations incumbent on the Union and its Member States. Alignment with Article 28(1)(q). |
 
 ### Article 70(2)
 
@@ -6181,13 +5083,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 184/243 4.ENISA shall be open to the participation of third countries in ENISA’s work that have concluded agreements with the Union to that effect. Under the relevant provisions of agreements concluded between third countries and the Union, working arrangements shall be established, subject to prior approval of the Commission, specifying in particular the nature, extent and manner in which those third countries are to participate in ENISA’s work, and shall include provisions relating to participation in the initiatives undertaken by ENISA, to financial contributions and to staff. As regards staff matters, those working arrangements shall comply with the Staff Regulations and Conditions of Employment in any event. | 4.ENISA shall be open to the participation of third countries in ENISA’s work that have concluded agreements with the Union to that effect. Under the relevant provisions of agreements concluded between third countries and the Union, working arrangements shall be established, subject to prior approval of the Commission, specifying in particular the nature, extent and manner in which those third countries are to participate in ENISA’s work, and shall include provisions relating to participation in the initiatives undertaken by ENISA, to financial contributions and to staff. As regards staff matters, those working arrangements shall comply with the Staff Regulations and Conditions of Employment in any event. |
+| 4.ENISA shall be open to the participation of third countries in ENISA’s work that have concluded agreements with the Union to that effect. Under the relevant provisions of agreements concluded between third countries and the Union, working arrangements shall be established, subject to prior approval of the Commission, specifying in particular the nature, extent and manner in which those third countries are to participate in ENISA’s work, and shall include provisions relating to participation in the initiatives undertaken by ENISA, to financial contributions and to staff. As regards staff matters, those working arrangements shall comply with the Staff Regulations and Conditions of Employment in any event. | 4.ENISA shall be open to the participation of third countries in ENISA’s work that have concluded agreements with the Union to that effect. Under the relevant provisions of agreements concluded between third countries and the Union, working arrangements shall be established, subject to prior approval of the Commission, specifying in particular the nature, extent and manner in which those third countries are to participate in ENISA’s work, and shall include provisions relating to participation in the initiatives undertaken by ENISA, to financial contributions and to staff. As regards staff matters, those working arrangements shall comply with the Staff Regulations and Conditions of Employment in any event. |
 
 ### Article 70(5)
 
@@ -6218,13 +5114,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.The European cybersecurity certification framework shall be established with a view of creating a digital single market for ICT products, ICT services, ICT | 1.The European cybersecurity certification framework shall be established with a view of creating a digital single market for ICT products, ICT services, ICT |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 185/243 processes, managed security services and entities. To that end, it shall increase the level of cybersecurity within the Union and enable a harmonised approach to European cybersecurity certification schemes as well as leverage certification to facilitate compliance with applicable Union legislation. | processes, managed security services and entities. To that end, it shall increase the level of cybersecurity within the Union and enable a harmonised approach to European cybersecurity certification schemes as well as leverage certification to facilitate compliance with applicable Union legislation. |
+| 1.The European cybersecurity certification framework shall be established with a view of creating a digital single market for ICT products, ICT services, ICT processes, managed security services and entities. To that end, it shall increase the level of cybersecurity within the Union and enable a harmonised approach to European cybersecurity certification schemes as well as leverage certification to facilitate compliance with applicable Union legislation. | 1.The European cybersecurity certification framework shall be established with a view of creating a digital single market for ICT products, ICT services, ICT processes, managed security services and entities. To that end, it shall increase the level of cybersecurity within the Union and enable a harmonised approach to European cybersecurity certification schemes as well as leverage certification to facilitate compliance with applicable Union legislation. |
 
 ### Article 71(2)
 
@@ -6249,12 +5139,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | (c) that the cyber posture of an entity that has been evaluated in accordance with such schemes complies with specified cybersecurity requirements. | (c) that the cyber posture of an entity that has been evaluated in accordance with such schemes **continuously** complies with specified cybersecurity requirements. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 186/243 |  |
 
 ### Article 71(3)
 
@@ -6291,13 +5175,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 187/243<br>(a) European cybersecurity certification schemes requested for development pursuant to Article 73; | (a) European cybersecurity certification schemes requested for development pursuant to Article 73**, including the development plan and current status of the schemes**; |
+| (a) European cybersecurity certification schemes requested for development pursuant to Article 73; | (a) European cybersecurity certification schemes requested for development pursuant to Article 73**, including the development plan and current status of the schemes**; |
 
 ### Article 72(2), point (b)
 
@@ -6321,13 +5199,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.During the preparation of a candidate scheme by ENISA pursuant to Article 74, the European Parliament and the Council may request the Commission, in its capacity as chair of the ECCG, and ENISA to present relevant information on the draft candidate scheme. Upon the request of the European Parliament or the | 4.During the preparation of a candidate scheme by ENISA pursuant to Article 74, the European Parliament and the Council may request the Commission, in its capacity as chair of the ECCG, and ENISA to present relevant information on the draft candidate scheme. Upon the request of the European Parliament or the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 188/243 Council, ENISA, in agreement with the Commission and without prejudice to Article 54, may make available to the European Parliament and to the Council relevant parts of a draft candidate scheme in a manner appropriate to the confidentiality level required, and where appropriate in a restricted manner. | Council, ENISA, in agreement with the Commission and without prejudice to Article 54, may make available to the European Parliament and to the Council relevant parts of a draft candidate scheme in a manner appropriate to the confidentiality level required, and where appropriate in a restricted manner. |
+| 4.During the preparation of a candidate scheme by ENISA pursuant to Article 74, the European Parliament and the Council may request the Commission, in its capacity as chair of the ECCG, and ENISA to present relevant information on the draft candidate scheme. Upon the request of the European Parliament or the Council, ENISA, in agreement with the Commission and without prejudice to Article 54, may make available to the European Parliament and to the Council relevant parts of a draft candidate scheme in a manner appropriate to the confidentiality level required, and where appropriate in a restricted manner. | 4.During the preparation of a candidate scheme by ENISA pursuant to Article 74, the European Parliament and the Council may request the Commission, in its capacity as chair of the ECCG, and ENISA to present relevant information on the draft candidate scheme. Upon the request of the European Parliament or the Council, ENISA, in agreement with the Commission and without prejudice to Article 54, may make available to the European Parliament and to the Council relevant parts of a draft candidate scheme in a manner appropriate to the confidentiality level required, and where appropriate in a restricted manner. |
 
 ### Article 72(5)
 
@@ -6358,13 +5230,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.The request referred to in paragraph 1 shall detail the purpose, scope and modalities of meeting relevant security objectives and elements set out in Articles 80 and 81. The request shall also specify the development plan of the candidate | 3.The request referred to in paragraph 1 shall detail the purpose, scope**, development timeframe** and modalities of meeting relevant security objectives and elements set out in Articles 80 and 81. The request shall also specify the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 189/243 European cybersecurity certification scheme and relevant technical specifications to be referenced or defined in the scheme. | development plan of the candidate European cybersecurity certification scheme and relevant technical specifications to be referenced or defined in the scheme. **The Commission shall update the request where necessary.** |
+| 3.The request referred to in paragraph 1 shall detail the purpose, scope and modalities of meeting relevant security objectives and elements set out in Articles 80 and 81. The request shall also specify the development plan of the candidate European cybersecurity certification scheme and relevant technical specifications to be referenced or defined in the scheme. | 3.The request referred to in paragraph 1 shall detail the purpose, scope**, development timeframe** and modalities of meeting relevant security objectives and elements set out in Articles 80 and 81. The request shall also specify the development plan of the candidate European cybersecurity certification scheme and relevant technical specifications to be referenced or defined in the scheme. **The Commission shall update the request where necessary.** |
 
 ### Article 73(4)
 
@@ -6389,13 +5255,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.For the preparation of each candidate scheme, ENISA shall establish an ad hoc 2.For the preparation of each candidate scheme, ENISA shall**, as soon as** |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 190/243 working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. | **possible,** establish an ad hoc working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. |
+| 2.For the preparation of each candidate scheme, ENISA shall establish an ad hoc 2.For the preparation of each candidate scheme, ENISA shall**, as soon as** working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. | **possible,** establish an ad hoc working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. |
 
 ### Article 74(3)
 
@@ -6413,13 +5273,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than 30 days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members. The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. | 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than ~~30~~**60** days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members~~.~~ **and the ECCG accordingly.** The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. **The opinions of the** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 191/243 | See also Recital 86a on joint opinions. |
+| 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than 30 days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members. The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. | 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than ~~30~~**60** days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members~~.~~ **and the ECCG accordingly.** The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. **The opinions of the** See also Recital 86a on joint opinions. |
 
 ### Article 74(6)
 
@@ -6455,13 +5309,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) discontinue the candidate scheme. | (c) **in duly justified cases** discontinue the candidate scheme **by withdrawing the** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 192/243 | **request issued pursuant to Article 73**. **The Commission shall inform all relevant parties, including the ECCG, and provide the reasons therefore.** |
+| (c) discontinue the candidate scheme. | (c) **in duly justified cases** discontinue the candidate scheme **by withdrawing the request issued pursuant to Article 73**. **The Commission shall inform all relevant parties, including the ECCG, and provide the reasons therefore.** |
 
 ### Article 74(8)
 
@@ -6491,13 +5339,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 11. The Commission may specify the conditions for the international recognition of European cybersecurity certificates, in the implementing acts referred to in | 11. The Commission may specify the conditions for the international recognition of European cybersecurity certificates, in the implementing acts referred to in |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 193/243 paragraph 9 of this Article, in accordance with Article 87. | paragraph 9 of this Article, in accordance with Article 87. |
+| 11. The Commission may specify the conditions for the international recognition of European cybersecurity certificates, in the implementing acts referred to in paragraph 9 of this Article, in accordance with Article 87. | 11. The Commission may specify the conditions for the international recognition of European cybersecurity certificates, in the implementing acts referred to in paragraph 9 of this Article, in accordance with Article 87. |
 
 <a id="art-75"></a>
 ### Article 75
@@ -6528,13 +5370,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 194/243 4.The maintenance activities of European cybersecurity certification schemes shall include the following: | 4.The maintenance activities of European cybersecurity certification schemes shall include the following: |
+| 4.The maintenance activities of European cybersecurity certification schemes shall include the following: | 4.The maintenance activities of European cybersecurity certification schemes shall include the following: |
 
 ### Article 75(4), point (a)
 
@@ -6576,13 +5412,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 195/243 5.The ECCG may issue an opinion on the maintenance of European cybersecurity certification schemes. | 5.The ECCG may issue an opinion on the maintenance of European cybersecurity certification schemes. **The Commission and ENISA shall take due account of it.** |
+| 5.The ECCG may issue an opinion on the maintenance of European cybersecurity certification schemes. | 5.The ECCG may issue an opinion on the maintenance of European cybersecurity certification schemes. **The Commission and ENISA shall take due account of it.** |
 
 <a id="art-76"></a>
 ### Article 76
@@ -6595,7 +5425,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.At least every four years following the entry into application of a European cybersecurity certification scheme, ENISA shall evaluate the impact and effectiveness of that scheme, in cooperation with the relevant maintenance subgroup of the ECCG, and by taking into account the feedback received from stakeholders. ENISA shall conduct the evaluation by carrying out the market analysis in accordance with Article 8(1). | 1.At least every four years following the entry into application of a European cybersecurity certification scheme, ENISA shall evaluate the impact and effectiveness of that scheme, in cooperation with the relevant maintenance subgroup of the ECCG, and by taking into account the feedback received from stakeholders. ENISA shall conduct the evaluation by carrying out the market analysis in accordance with Article 8(1). |
+| 1.At least every four years following the entry into application of a European cybersecurity certification scheme, ENISA shall evaluate the impact and effectiveness of that scheme, in cooperation with the relevant maintenance sub-group of the ECCG, and by taking into account the feedback received from stakeholders. ENISA shall conduct the evaluation by carrying out the market analysis in accordance with Article 8(1). | 1.At least every four years following the entry into application of a European cybersecurity certification scheme, ENISA shall evaluate the impact and effectiveness of that scheme, in cooperation with the relevant maintenance sub-group of the ECCG, and by taking into account the feedback received from stakeholders. ENISA shall conduct the evaluation by carrying out the market analysis in accordance with Article 8(1). |
 
 ### Article 76(1a)
 
@@ -6608,12 +5438,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 2.Following the evaluation referred to in paragraph 1, the Commission may review or withdraw implementing acts providing for a European cybersecurity certification scheme pursuant to Article 74(9). | 2.Following the evaluation referred to in paragraph 1 **and recommendations issued pursuant to Article 75(4)(d)**, the Commission may review or withdraw implementing acts providing for a European cybersecurity certification scheme pursuant to Article 74(9). |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 196/243 |  |
 
 ### Article 76(3)
 
@@ -6644,13 +5468,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.The technical specifications referred to in paragraph 1 of this Article shall be developed in a timely manner, with the support of the ECCG and its | 2.The technical specifications referred to in paragraph 1 of this Article shall be developed **in accordance with Article 18,** in a timely manner, with the support of |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 197/243 maintenance sub-groups and, where applicable, the corresponding ad hoc working group as referred to in Article 75(3). For this purpose, ENISA shall also seek contributions from relevant stakeholder groups taking into account the maintenance strategy referred to in Article 75(1). | the ECCG and its maintenance sub-groups and, where applicable, ~~the corresponding ad hoc working group as referred to in Article 75(3). For this purpose, ENISA shall also seek contributions from~~ relevant stakeholder groups ~~taking into account~~ **mentioned in** the maintenance strategy referred to in Article 75(1) **and (3)**. Commission to check internally on DK suggestion to refer to standardisation bodies. |
+| 2.The technical specifications referred to in paragraph 1 of this Article shall be developed in a timely manner, with the support of the ECCG and its maintenance sub-groups and, where applicable, the corresponding ad hoc working group as referred to in Article 75(3). For this purpose, ENISA shall also seek contributions from relevant stakeholder groups taking into account the maintenance strategy referred to in Article 75(1). | 2.The technical specifications referred to in paragraph 1 of this Article shall be developed **in accordance with Article 18,** in a timely manner, with the support of the ECCG and its maintenance sub-groups and, where applicable, ~~the corresponding ad hoc working group as referred to in Article 75(3). For this purpose, ENISA shall also seek contributions from~~ relevant stakeholder groups ~~taking into account~~ **mentioned in** the maintenance strategy referred to in Article 75(1) **and (3)**. Commission to check internally on DK suggestion to refer to standardisation bodies. |
 
 ### Article 77(3)
 
@@ -6675,13 +5493,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.Where a specific Union legal act so provides, a certificate issued under a European cybersecurity certification scheme shall demonstrate compliance and | 1.Where a specific Union legal act so provides, a certificate issued under a European cybersecurity certification scheme shall demonstrate compliance and |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 198/243 confer a presumption of conformity with corresponding requirements set out in that legal act. | confer a presumption of conformity with corresponding requirements set out in that legal act. See also Recital (105). |
+| 1.Where a specific Union legal act so provides, a certificate issued under a European cybersecurity certification scheme shall demonstrate compliance and confer a presumption of conformity with corresponding requirements set out in that legal act. | 1.Where a specific Union legal act so provides, a certificate issued under a European cybersecurity certification scheme shall demonstrate compliance and confer a presumption of conformity with corresponding requirements set out in that legal act. See also Recital (105). |
 
 ### Article 78(2)
 
@@ -6712,13 +5524,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 199/243 2.ENISA shall maintain and regularly update a dedicated website providing public information on the following: | 2.ENISA shall maintain and regularly update a dedicated website providing public information on the following: |
+| 2.ENISA shall maintain and regularly update a dedicated website providing public information on the following: | 2.ENISA shall maintain and regularly update a dedicated website providing public information on the following: |
 
 ### Article 79(2), point (a)
 
@@ -6760,13 +5566,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 200/243<br>(g) technical specifications referenced in a European cybersecurity certification scheme pursuant to Article 74(10). | (g) ~~technical specifications referenced in a European cybersecurity certification scheme pursuant to Article 74(10).~~ |
+| (g) technical specifications referenced in a European cybersecurity certification scheme pursuant to Article 74(10). | (g) ~~technical specifications referenced in a European cybersecurity certification scheme pursuant to Article 74(10).~~ |
 
 ### Article 79(2), point (ga)
 
@@ -6809,13 +5609,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 201/243<br>(b) to protect stored, transmitted or otherwise processed data against accidental or unauthorised storage, processing, access or disclosure using appropriate technical means, taking into account the entire lifecycle of the ICT products, ICT services or ICT processes; | (b) to protect **the confidentiality of** stored, transmitted or otherwise processed data against accidental or unauthorised storage, processing, access or disclosure using appropriate technical means, taking into account the entire lifecycle of the ICT products, ICT services or ICT processes **and report detected breaches thereof**; |
+| (b) to protect stored, transmitted or otherwise processed data against accidental or unauthorised storage, processing, access or disclosure using appropriate technical means, taking into account the entire lifecycle of the ICT products, ICT services or ICT processes; | (b) to protect **the confidentiality of** stored, transmitted or otherwise processed data against accidental or unauthorised storage, processing, access or disclosure using appropriate technical means, taking into account the entire lifecycle of the ICT products, ICT services or ICT processes **and report detected breaches thereof**; |
 
 ### Article 80(1), point (c)
 
@@ -6851,13 +5645,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 202/243<br>(h) to protect the availability of essential and basic functions, including after an incident, including through resilience and mitigation measures against denial-ofservice attacks; | (h) to protect the availability of essential and basic functions, ~~including~~**also** after an incident, including through resilience and mitigation measures against denialof-service attacks; |
+| (h) to protect the availability of essential and basic functions, including after an incident, including through resilience and mitigation measures against denial-of-service attacks; | (h) to protect the availability of essential and basic functions, ~~including~~**also** after an incident, including through resilience and mitigation measures against denial-of-service attacks; |
 
 ### Article 80(1), point (i)
 
@@ -6899,13 +5687,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (o) to ensure that the managed security services are provided with the requisite competence, expertise and experience, including that the staff tasked with | (o) to ensure that the managed security services are provided with the requisite competence, expertise and experience, including that the staff tasked with |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 203/243 providing those services have a sufficient and appropriate level of technical knowledge and competence in the specific field, sufficient and appropriate experience, and the highest degree of professional integrity; | providing those services have a sufficient and appropriate level of technical knowledge and competence in the specific field, sufficient and appropriate experience, and the highest degree of professional integrity; |
+| (o) to ensure that the managed security services are provided with the requisite competence, expertise and experience, including that the staff tasked with providing those services have a sufficient and appropriate level of technical knowledge and competence in the specific field, sufficient and appropriate experience, and the highest degree of professional integrity; | (o) to ensure that the managed security services are provided with the requisite competence, expertise and experience, including that the staff tasked with providing those services have a sufficient and appropriate level of technical knowledge and competence in the specific field, sufficient and appropriate experience, and the highest degree of professional integrity; |
 
 ### Article 80(1), point (p)
 
@@ -6935,13 +5717,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (t) to ensure that the certified entity is able to build, assure and review its operational integrity and reliability by ensuring, either directly or indirectly through the use of services provided by ICT third-party service providers, that it has in place the full range of ICT-related capabilities needed to address the security of the network and information systems that are used by the entity, and that support the continued provision of services and their quality, including | (t) to ensure that the ~~certified~~ entity is able to build, assure and review its operational integrity and reliability by ensuring, either directly or indirectly through the use of services provided by ICT third-party service providers, that it has in place the full range of ICT-related capabilities needed to address the security of the network and information systems that are used by the entity, and that support the continued provision of services and their quality, including |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 204/243 throughout disruptions; | throughout disruptions; |
+| (t) to ensure that the certified entity is able to build, assure and review its operational integrity and reliability by ensuring, either directly or indirectly through the use of services provided by ICT third-party service providers, that it has in place the full range of ICT-related capabilities needed to address the security of the network and information systems that are used by the entity, and that support the continued provision of services and their quality, including throughout disruptions; | (t) to ensure that the ~~certified~~ entity is able to build, assure and review its operational integrity and reliability by ensuring, either directly or indirectly through the use of services provided by ICT third-party service providers, that it has in place the full range of ICT-related capabilities needed to address the security of the network and information systems that are used by the entity, and that support the continued provision of services and their quality, including throughout disruptions; |
 
 ### Article 80(1), point (u)
 
@@ -6971,13 +5747,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.A European cybersecurity certification scheme addressing products with | 3.~~A European cybersecurity certification scheme addressing products with~~ |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 205/243 digital elements as defined in Article 3, point (1), of Regulation (EU) 2024/2847 shall be designed in alignment with the essential cybersecurity requirements set out in Annex I that Regulation and take into account available harmonised standards. | ~~digital elements as defined in Article 3, point (1), of Regulation (EU) 2024/2847 shall be designed in alignment with the essential cybersecurity requirements set out in Annex I that Regulation and take into account available harmonised standards.~~ See also Recital 95. |
+| 3.A European cybersecurity certification scheme addressing products with digital elements as defined in Article 3, point (1), of Regulation (EU) 2024/2847 shall be designed in alignment with the essential cybersecurity requirements set out in Annex I that Regulation and take into account available harmonised standards. | 3.~~A European cybersecurity certification scheme addressing products with digital elements as defined in Article 3, point (1), of Regulation (EU) 2024/2847 shall be designed in alignment with the essential cybersecurity requirements set out in Annex I that Regulation and take into account available harmonised standards.~~ See also Recital 95. |
 
 <a id="art-81"></a>
 ### Article 81
@@ -7014,13 +5784,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 206/243<br>(d) the specific cybersecurity requirements, evaluation criteria and methods to be used for evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, and references to the international, European or national standards applied in the evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities or, where such standards are not available or appropriate, to technical specifications drawn up by ENISA pursuant to Article 77 or, if such specifications are not available, to other technical specifications; | (d) the specific cybersecurity requirements, evaluation criteria and methods to be used for evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, and references to the international, European or national standards applied in the evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities or, where such standards are not available or appropriate, to technical specifications drawn up by ENISA pursuant to Article 77 or, if such specifications are not available, to other technical specifications; |
+| (d) the specific cybersecurity requirements, evaluation criteria and methods to be used for evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, and references to the international, European or national standards applied in the evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities or, where such standards are not available or appropriate, to technical specifications drawn up by ENISA pursuant to Article 77 or, if such specifications are not available, to other technical specifications; | (d) the specific cybersecurity requirements, evaluation criteria and methods to be used for evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, and references to the international, European or national standards applied in the evaluation of ICT products, ICT services, ICT processes, managed security services or cyber posture of entities or, where such standards are not available or appropriate, to technical specifications drawn up by ENISA pursuant to Article 77 or, if such specifications are not available, to other technical specifications; |
 
 ### Article 81(1), point (e)
 
@@ -7050,13 +5814,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) the consequences for ICT products, ICT services, ICT processes, managed security services or entities that have been certified or for which an EU statement | (c) the consequences for ICT products, ICT services, ICT processes, managed security services or entities that have been certified or for which an EU statement |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 207/243 of conformity has been issued, but which do not comply with the requirements of the scheme; | of conformity has been issued, but which do not comply with the requirements of the scheme; |
+| (c) the consequences for ICT products, ICT services, ICT processes, managed security services or entities that have been certified or for which an EU statement of conformity has been issued, but which do not comply with the requirements of the scheme; | (c) the consequences for ICT products, ICT services, ICT processes, managed security services or entities that have been certified or for which an EU statement of conformity has been issued, but which do not comply with the requirements of the scheme; |
 
 ### Article 81(2), point (d)
 
@@ -7092,13 +5850,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (i) the format and procedures to be followed by manufacturers or providers of ICT products, ICT services or ICT processes in supplying and updating the | (i) the format and procedures to be followed by manufacturers or providers of ICT products, ICT services or ICT processes in supplying and updating the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 208/243 supplementary cybersecurity information in accordance with Article 84; and | supplementary cybersecurity information in accordance with Article 84; and |
+| (i) the format and procedures to be followed by manufacturers or providers of ICT products, ICT services or ICT processes in supplying and updating the supplementary cybersecurity information in accordance with Article 84; and | (i) the format and procedures to be followed by manufacturers or providers of ICT products, ICT services or ICT processes in supplying and updating the supplementary cybersecurity information in accordance with Article 84; and |
 
 ### Article 81(2), point (j)
 
@@ -7140,13 +5892,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 209/243<br>(d) clarification on which conformity assessment activities, including calibration, testing, certification and inspection, for assurance level ‘high’, or for the purpose of demonstrating compliance and granting presumption of conformity, are permitted outside the European Economic Area (EEA); | (d) clarification on which conformity assessment activities, including **evaluation,** calibration, testing, certification and inspection, for assurance level ‘high’, or for the purpose of demonstrating compliance and granting presumption of conformity, are permitted outside the European Economic Area (EEA) **and under what conditions**; |
+| (d) clarification on which conformity assessment activities, including calibration, testing, certification and inspection, for assurance level ‘high’, or for the purpose of demonstrating compliance and granting presumption of conformity, are permitted outside the European Economic Area (EEA); | (d) clarification on which conformity assessment activities, including **evaluation,** calibration, testing, certification and inspection, for assurance level ‘high’, or for the purpose of demonstrating compliance and granting presumption of conformity, are permitted outside the European Economic Area (EEA) **and under what conditions**; |
 
 ### Article 81(3), point (e)
 
@@ -7188,13 +5934,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 210/243 4.The specified requirements of the European cybersecurity certification scheme shall be consistent with the requirements of Union legislation. | 4.The specified requirements of the European cybersecurity certification scheme shall be consistent with the requirements of Union legislation. |
+| 4.The specified requirements of the European cybersecurity certification scheme shall be consistent with the requirements of Union legislation. | 4.The specified requirements of the European cybersecurity certification scheme shall be consistent with the requirements of Union legislation. |
 
 ### Article 81(5)
 
@@ -7220,12 +5960,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 1.A European cybersecurity certification scheme may specify one or more of the following assurance levels for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities: “basic”, “substantial” or “high”. Those assurance levels shall be commensurate with the level of the risk associated with the intended use of the ICT product, ICT service, ICT process, managed security service, or with the nature of entities, the cyber posture of which is subject to certification, and their operational environment, in terms of the probability and impact of an incident. | 1.A European cybersecurity certification scheme may specify one or more of the following assurance levels for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities: “basic”, “substantial” or “high”. Those assurance levels shall be commensurate with the level of the risk associated with the intended use of the ICT product, ICT service, ICT process, managed security service, or with the nature of entities, the cyber posture of which is subject to certification, and their operational environment, in terms of the probability and impact of an incident. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 211/243 |  |
 
 ### Article 82(2)
 
@@ -7255,13 +5989,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 212/243 6.A European cybersecurity certificate that refers to assurance level “substantial” shall provide assurance that the ICT products, ICT services, ICT processes, managed security services or cyber posture of entities for which that certificate is issued meet the corresponding security requirements, including security controls, and that they have been evaluated at a level intended to minimise known risks of incidents and cyberattacks and the risk of cyberattacks carried out by actors with limited skills and resources. The evaluation activities to be undertaken shall include at least a review to demonstrate the absence of publicly known vulnerabilities and testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security controls. Where any such evaluation activities are not appropriate, substitute evaluation activities with equivalent effect shall be undertaken. | 6.A European cybersecurity certificate that refers to assurance level “substantial” shall provide assurance that the ICT products, ICT services, ICT processes, managed security services or cyber posture of entities for which that certificate is issued meet the corresponding security requirements, including security controls, and that they have been evaluated at a level intended to minimise known risks of incidents and cyberattacks and the risk of cyberattacks carried out by actors with limited skills and resources. The evaluation activities to be undertaken shall include at least a review to demonstrate the absence of ~~publicly~~ known **exploitable** vulnerabilities and testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security controls. Where any such evaluation activities are not appropriate, substitute evaluation activities with equivalent effect shall be undertaken. |
+| 6.A European cybersecurity certificate that refers to assurance level “substantial” shall provide assurance that the ICT products, ICT services, ICT processes, managed security services or cyber posture of entities for which that certificate is issued meet the corresponding security requirements, including security controls, and that they have been evaluated at a level intended to minimise known risks of incidents and cyberattacks and the risk of cyberattacks carried out by actors with limited skills and resources. The evaluation activities to be undertaken shall include at least a review to demonstrate the absence of publicly known vulnerabilities and testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security controls. Where any such evaluation activities are not appropriate, substitute evaluation activities with equivalent effect shall be undertaken. | 6.A European cybersecurity certificate that refers to assurance level “substantial” shall provide assurance that the ICT products, ICT services, ICT processes, managed security services or cyber posture of entities for which that certificate is issued meet the corresponding security requirements, including security controls, and that they have been evaluated at a level intended to minimise known risks of incidents and cyberattacks and the risk of cyberattacks carried out by actors with limited skills and resources. The evaluation activities to be undertaken shall include at least a review to demonstrate the absence of ~~publicly~~ known **exploitable** vulnerabilities and testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security controls. Where any such evaluation activities are not appropriate, substitute evaluation activities with equivalent effect shall be undertaken. |
 
 ### Article 82(7), first subparagraph
 
@@ -7279,13 +6007,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (b) testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security | (b) testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 213/243 controls at the state of the art; | controls at the state of the art; |
+| (b) testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security controls at the state of the art; | (b) testing to demonstrate that the ICT products, ICT services, ICT processes, managed security services or entities correctly implement the necessary security controls at the state of the art; |
 
 ### Article 82(7), first subparagraph, point (c)
 
@@ -7316,19 +6038,13 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| Article 83 | Article 83 |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 214/243 Conformity self-assessment | Conformity self-assessment |
+| Article 83 Conformity self-assessment | Article 83 Conformity self-assessment |
 
 ### Article 83(1)
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.A European cybersecurity certification scheme may allow for conformity selfassessment under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification. Conformity self-assessment shall be permitted only in relation to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities that present a low risk corresponding to assurance level “basic”. | 1.A European cybersecurity certification scheme may allow for conformity selfassessment under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification. Conformity self-assessment shall be permitted only in relation to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities that present a low risk corresponding to assurance level “basic”. |
+| 1.A European cybersecurity certification scheme may allow for conformity self-assessment under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification. Conformity self-assessment shall be permitted only in relation to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities that present a low risk corresponding to assurance level “basic”. | 1.A European cybersecurity certification scheme may allow for conformity self-assessment under the sole responsibility of the manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification. Conformity self-assessment shall be permitted only in relation to ICT products, ICT services, ICT processes, managed security services or cyber posture of entities that present a low risk corresponding to assurance level “basic”. |
 
 ### Article 83(2)
 
@@ -7340,13 +6056,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.The manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification shall make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity of the ICT products, ICT services, ICT processes, managed security services or cyber posture with the European cybersecurity certification scheme available to the national cybersecurity certification authority designated pursuant to Article 89 for the period provided for in that scheme. A copy of the EU statement of conformity shall be submitted without undue delay to the national cybersecurity | 3.The manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification shall make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity of the ICT products, ICT services, ICT processes, managed security services or cyber posture with the European cybersecurity certification scheme available **in electronic form** to the national cybersecurity certification authority designated pursuant to Article ~~89~~**88** for the period provided for in that scheme. A copy of the EU statement of conformity shall be submitted without undue delay to the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 215/243 certification authority and to ENISA. | national cybersecurity certification authority and to ENISA. |
+| 3.The manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification shall make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity of the ICT products, ICT services, ICT processes, managed security services or cyber posture with the European cybersecurity certification scheme available to the national cybersecurity certification authority designated pursuant to Article 89 for the period provided for in that scheme. A copy of the EU statement of conformity shall be submitted without undue delay to the national cybersecurity certification authority and to ENISA. | 3.The manufacturer or provider of ICT products, ICT services, ICT processes, managed security services or the entity the cyber posture of which is subject to certification shall make the EU statement of conformity, technical documentation, and all other relevant information relating to the conformity of the ICT products, ICT services, ICT processes, managed security services or cyber posture with the European cybersecurity certification scheme available **in electronic form** to the national cybersecurity certification authority designated pursuant to Article ~~89~~**88** for the period provided for in that scheme. A copy of the EU statement of conformity shall be submitted without undue delay to the national cybersecurity certification authority and to ENISA. |
 
 <a id="art-84"></a>
 ### Article 84
@@ -7389,13 +6099,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 216/243 2.The manufacturer or provider of ICT products, ICT services or ICT processes for which an EU statement of conformity or European cybersecurity certificate has been issued shall make publicly available the following supplementary cybersecurity information: | 2.The manufacturer or provider of ICT products, ICT services or ICT processes for which an EU statement of conformity or European cybersecurity certificate has been issued shall make publicly available the following supplementary cybersecurity information: |
+| 2.The manufacturer or provider of ICT products, ICT services or ICT processes for which an EU statement of conformity or European cybersecurity certificate has been issued shall make publicly available the following supplementary cybersecurity information: | 2.The manufacturer or provider of ICT products, ICT services or ICT processes for which an EU statement of conformity or European cybersecurity certificate has been issued shall make publicly available the following supplementary cybersecurity information: |
 
 ### Article 84(2), point (a)
 
@@ -7425,13 +6129,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 217/243 CHAPTER III Governance for the European Cybersecurity Certification Framework | CHAPTER III Governance for the European Cybersecurity Certification Framework |
+| CHAPTER III Governance for the European Cybersecurity Certification Framework | CHAPTER III Governance for the European Cybersecurity Certification Framework |
 
 ### Section 1
 
@@ -7474,13 +6172,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 218/243<br>(b) a public body that is accredited as a conformity assessment body pursuant to Article 91(1). | (b) a public body that is accredited as a conformity assessment body pursuant to Article 91(1). |
+| (b) a public body that is accredited as a conformity assessment body pursuant to Article 91(1). | (b) a public body that is accredited as a conformity assessment body pursuant to Article 91(1). |
 
 ### Article 85(3), point (ba)
 
@@ -7516,13 +6208,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 6.The natural or legal person who submits ICT products, ICT services, ICT | 6.The natural or legal person who submits ICT products, ICT services, ICT |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 219/243 processes or managed security services for certification, or the entity which applies for certification of its cyber posture, shall make available all information necessary to conduct the certification to the national cybersecurity certification authority designated pursuant to Article 89, where that authority is the body issuing the European cybersecurity certificate, or to the conformity assessment body referred to in Article 91. | processes or managed security services for certification, or the entity which applies for certification of its cyber posture, shall make available all information necessary to conduct the certification to the national cybersecurity certification authority designated pursuant to Article 89, where that authority is the body issuing the European cybersecurity certificate, or to the conformity assessment body referred to in Article 91. |
+| 6.The natural or legal person who submits ICT products, ICT services, ICT processes or managed security services for certification, or the entity which applies for certification of its cyber posture, shall make available all information necessary to conduct the certification to the national cybersecurity certification authority designated pursuant to Article 89, where that authority is the body issuing the European cybersecurity certificate, or to the conformity assessment body referred to in Article 91. | 6.The natural or legal person who submits ICT products, ICT services, ICT processes or managed security services for certification, or the entity which applies for certification of its cyber posture, shall make available all information necessary to conduct the certification to the national cybersecurity certification authority designated pursuant to Article 89, where that authority is the body issuing the European cybersecurity certificate, or to the conformity assessment body referred to in Article 91. |
 
 ### Article 85(7)
 
@@ -7540,13 +6226,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 9.For their certified ICT products, ICT services, ICT processes or managed security services identified, for their entirety or parts thereof, as key assets pursuant to Article 102, the holders of a European cybersecurity certificate shall not use, install or otherwise integrate ICT components or components that include ICT components from high-risk suppliers in certified ICT products, | 9.For their certified ICT products, ICT services, ICT processes or managed security services identified, for their entirety or parts thereof, as key assets pursuant to Article 102, the holders of a European cybersecurity certificate shall not use, install or otherwise integrate ICT components or components that include ICT components from high-risk suppliers in certified ICT products, |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 220/243 ICT services, ICT processes or managed security services. | ICT services, ICT processes or managed security services. |
+| 9.For their certified ICT products, ICT services, ICT processes or managed security services identified, for their entirety or parts thereof, as key assets pursuant to Article 102, the holders of a European cybersecurity certificate shall not use, install or otherwise integrate ICT components or components that include ICT components from high-risk suppliers in certified ICT products, ICT services, ICT processes or managed security services. | 9.For their certified ICT products, ICT services, ICT processes or managed security services identified, for their entirety or parts thereof, as key assets pursuant to Article 102, the holders of a European cybersecurity certificate shall not use, install or otherwise integrate ICT components or components that include ICT components from high-risk suppliers in certified ICT products, ICT services, ICT processes or managed security services. |
 
 ### Article 85(10)
 
@@ -7571,13 +6251,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.National cybersecurity certification schemes, and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are covered by the subject matter and scope of a European cybersecurity certification scheme shall cease to produce effects from the date established in the implementing act adopted pursuant to Article 74(9). National cybersecurity certification schemes and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are not covered by the subject matter and scope of a | 1.National cybersecurity certification schemes, and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are covered by the subject matter and scope of a European cybersecurity certification scheme shall cease to produce effects from the date established in the implementing act adopted pursuant to Article 74(9). National cybersecurity certification schemes and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are not covered by the subject matter and scope of a |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 221/243 European cybersecurity certification scheme may continue to exist. | European cybersecurity certification scheme may continue to exist. |
+| 1.National cybersecurity certification schemes, and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are covered by the subject matter and scope of a European cybersecurity certification scheme shall cease to produce effects from the date established in the implementing act adopted pursuant to Article 74(9). National cybersecurity certification schemes and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are not covered by the subject matter and scope of a European cybersecurity certification scheme may continue to exist. | 1.National cybersecurity certification schemes, and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are covered by the subject matter and scope of a European cybersecurity certification scheme shall cease to produce effects from the date established in the implementing act adopted pursuant to Article 74(9). National cybersecurity certification schemes and the related procedures for the ICT products, ICT services, ICT processes, managed security services and cyber posture of entities that are not covered by the subject matter and scope of a European cybersecurity certification scheme may continue to exist. |
 
 ### Article 86(2)
 
@@ -7602,12 +6276,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 5.The Commission may suggest to a Member State to withdraw a national cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, where the development of a European cybersecurity certification scheme covering such products, services, processes or cyber posture has already been requested in accordance with Article 73, taking into account the development plan of such scheme. | 5.The Commission may suggest to a Member State to withdraw a national cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, where the development of a European cybersecurity certification scheme covering such products, services, processes or cyber posture has already been requested in accordance with Article 73, taking into account the development plan of such scheme. See also Recital 115. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 222/243 |  |
 
 <a id="art-87"></a>
 ### Article 87
@@ -7639,13 +6307,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| Article 88 | Article 88 |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 223/243 National cybersecurity certification authorities | National cybersecurity certification authorities |
+| Article 88 National cybersecurity certification authorities | Article 88 National cybersecurity certification authorities |
 
 ### Article 88(1)
 
@@ -7675,13 +6337,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.Member States shall ensure that national cybersecurity certification authorities have adequate resources to exercise their powers and to carry out their tasks in an effective and efficient manner. | 5.Member States shall ensure that national cybersecurity certification authorities ~~have adequate resources to exercise their powers and to~~ carry out their tasks in an effective and efficient manner **and have adequate resources, including staffing, expertise and stable financial means proportionate to the scope of the** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 224/243 | **tasks assigned under this Article**. |
+| 5.Member States shall ensure that national cybersecurity certification authorities have adequate resources to exercise their powers and to carry out their tasks in an effective and efficient manner. | 5.Member States shall ensure that national cybersecurity certification authorities ~~have adequate resources to exercise their powers and to~~ carry out their tasks in an effective and efficient manner **and have adequate resources, including staffing, expertise and stable financial means proportionate to the scope of the tasks assigned under this Article**. |
 
 ### Article 88(6)
 
@@ -7705,13 +6361,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) monitor, in cooperation with relevant market surveillance authorities, compliance with and enforce the obligations of the manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or entities the cyber posture of which is certified set out in this Regulation that are established in their respective territories and that carry out conformity selfassessment in the corresponding European cybersecurity certification scheme; | (c) monitor, in cooperation with relevant market surveillance **authorities or other supervisory** authorities, compliance with and enforce the obligations of the manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or entities the cyber posture of which is certified**,** set out in this Regulation that are established in their respective territories and that carry out conformity self-assessment in the corresponding European cybersecurity certification scheme; |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 225/243 |  |
+| (c) monitor, in cooperation with relevant market surveillance authorities, compliance with and enforce the obligations of the manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or entities the cyber posture of which is certified set out in this Regulation that are established in their respective territories and that carry out conformity self-assessment in the corresponding European cybersecurity certification scheme; | (c) monitor, in cooperation with relevant market surveillance **authorities or other supervisory** authorities, compliance with and enforce the obligations of the manufacturers or providers of ICT products, ICT services, ICT processes, managed security services or entities the cyber posture of which is certified**,** set out in this Regulation that are established in their respective territories and that carry out conformity self-assessment in the corresponding European cybersecurity certification scheme; |
 
 ### Article 88(6), point (d)
 
@@ -7747,13 +6397,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 226/243<br>(i) provide an annual report on its main activities to the Commission, ENISA and the ECCG by 31 March [year of entry into force + 12 months] each year, and make these reports available to the peer review team where the national cybersecurity certification authority is subject to peer review in accordance with Article 89; | (i) provide an annual report on its main activities to the Commission, ENISA and the ECCG by 31 March **each year, from** [year of entry into force + 12 months] ~~each year~~, and make these reports available to the peer review team where the national cybersecurity certification authority is subject to peer review in accordance with Article 89; |
+| (i) provide an annual report on its main activities to the Commission, ENISA and the ECCG by 31 March [year of entry into force + 12 months] each year, and make these reports available to the peer review team where the national cybersecurity certification authority is subject to peer review in accordance with Article 89; | (i) provide an annual report on its main activities to the Commission, ENISA and the ECCG by 31 March **each year, from** [year of entry into force + 12 months] ~~each year~~, and make these reports available to the peer review team where the national cybersecurity certification authority is subject to peer review in accordance with Article 89; |
 
 ### Article 88(6), point (j)
 
@@ -7789,13 +6433,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 227/243<br>(c) to take appropriate measures, in accordance with national law, to ensure that conformity assessment bodies, European cybersecurity certificates’ holders and issuers of EU statements of conformity comply with this Regulation or with a European cybersecurity certification scheme; | (c) to take appropriate measures, in accordance with national law, to ensure that conformity assessment bodies, European cybersecurity certificates’ holders and issuers of EU statements of conformity comply with this Regulation or with a European cybersecurity certification scheme; |
+| (c) to take appropriate measures, in accordance with national law, to ensure that conformity assessment bodies, European cybersecurity certificates’ holders and issuers of EU statements of conformity comply with this Regulation or with a European cybersecurity certification scheme; | (c) to take appropriate measures, in accordance with national law, to ensure that conformity assessment bodies, European cybersecurity certificates’ holders and issuers of EU statements of conformity comply with this Regulation or with a European cybersecurity certification scheme; |
 
 ### Article 88(7), point (d)
 
@@ -7825,13 +6463,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 9.By [entry into force + 6 months], ENISA shall develop a template for the report referred to in paragraph 6, point (i), of this Article, in cooperation with the | 9.By [entry into force + 6 months], ENISA shall develop a template for the report referred to in paragraph 6, point (i), of this Article, in cooperation with the |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 228/243 Commission and the ECCG. | Commission and the ECCG. |
+| 9.By [entry into force + 6 months], ENISA shall develop a template for the report referred to in paragraph 6, point (i), of this Article, in cooperation with the Commission and the ECCG. | 9.By [entry into force + 6 months], ENISA shall develop a template for the report referred to in paragraph 6, point (i), of this Article, in cooperation with the Commission and the ECCG. |
 
 <a id="art-89"></a>
 ### Article 89
@@ -7874,13 +6506,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) the procedures for monitoring and enforcing the obligations of manufacturers | (c) the procedures for monitoring and enforcing the obligations of manufacturers |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 229/243 or providers of ICT products, ICT services, ICT processes or managed security services or entities the cyber posture of which is certified, pursuant to Article 88(7), point (b); | or providers of ICT products, ICT services, ICT processes or managed security services or entities the cyber posture of which is certified, pursuant to Article 88(7), point (b); |
+| (c) the procedures for monitoring and enforcing the obligations of manufacturers or providers of ICT products, ICT services, ICT processes or managed security services or entities the cyber posture of which is certified, pursuant to Article 88(7), point (b); | (c) the procedures for monitoring and enforcing the obligations of manufacturers or providers of ICT products, ICT services, ICT processes or managed security services or entities the cyber posture of which is certified, pursuant to Article 88(7), point (b); |
 
 ### Article 89(3), point (d)
 
@@ -7911,12 +6537,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 6.The Commission is empowered to adopt implementing acts establishing a plan for peer review which covers a period of at least five years, laying down the criteria concerning the composition of the peer review team, the methodology to be used in peer review, and the schedule, the frequency and other tasks related to peer review. In the preparation of those implementing acts, the Commission shall consult the ECCG and ENISA. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 118(2). | 6.The Commission is empowered to adopt implementing acts establishing a plan for peer review which covers a period of at least five years, laying down the criteria concerning the composition of the peer review team, the methodology to be used in peer review, and the schedule, the frequency and other tasks related to peer review. In the preparation of those implementing acts, the Commission shall consult the ECCG and ENISA. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 118(2). |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 230/243 |  |
 
 ### Article 89(7)
 
@@ -7959,13 +6579,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (a) to advise and assist the Commission in its work to ensure the consistent | (a) to advise and assist the Commission in its work to ensure the consistent |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 231/243 implementation and application the rules set out in this Title, cybersecurity certification policy issues, and the coordination of policy approaches; | implementation and application **of** the rules set out in this Title, cybersecurity certification policy issues, and the coordination of policy approaches; |
+| (a) to advise and assist the Commission in its work to ensure the consistent implementation and application the rules set out in this Title, cybersecurity certification policy issues, and the coordination of policy approaches; | (a) to advise and assist the Commission in its work to ensure the consistent implementation and application **of** the rules set out in this Title, cybersecurity certification policy issues, and the coordination of policy approaches; |
 
 ### Article 90(3), point (b)
 
@@ -8007,13 +6621,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 232/243<br>(h) to examine relevant developments in the field of cybersecurity certification, including at national level pursuant to Article 86, and to exchange information and good practices on cybersecurity certification schemes; | (h) to examine relevant developments in the field of cybersecurity certification, including at national level pursuant to Article 86, and to exchange information and good practices on cybersecurity certification schemes; |
+| (h) to examine relevant developments in the field of cybersecurity certification, including at national level pursuant to Article 86, and to exchange information and good practices on cybersecurity certification schemes; | (h) to examine relevant developments in the field of cybersecurity certification, including at national level pursuant to Article 86, and to exchange information and good practices on cybersecurity certification schemes; |
 
 ### Article 90(3), point (i)
 
@@ -8043,13 +6651,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.With the assistance of ENISA, the Commission shall chair the ECCG and provide the ECCG with a secretariat. | 4.With the assistance of ENISA, the Commission shall chair the ECCG and provide the ECCG with a secretariat**, in accordance with the rules of procedure** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 233/243 | **adopted pursuant to Article 90(8)**. |
+| 4.With the assistance of ENISA, the Commission shall chair the ECCG and provide the ECCG with a secretariat. | 4.With the assistance of ENISA, the Commission shall chair the ECCG and provide the ECCG with a secretariat**, in accordance with the rules of procedure adopted pursuant to Article 90(8)**. |
 
 ### Article 90(5)
 
@@ -8098,13 +6700,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 234/243 Article 91 Competence of conformity assessment bodies | Article 91 Competence of conformity assessment bodies |
+| Article 91 Competence of conformity assessment bodies | Article 91 Competence of conformity assessment bodies |
 
 ### Article 91(1)
 
@@ -8128,13 +6724,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 4.When establishing additional or specific accreditation requirements for a European cybersecurity certification scheme covering ICT products, pursuant to Article 92, synergies shall be sought, where appropriate, with the requirements relating to notified bodies under Regulation (EU) 2024/2847 and the accreditation requirements under the cybersecurity certification schemes which | 4.When establishing additional or specific accreditation requirements for a European cybersecurity certification scheme covering ICT products, pursuant to Article 92, synergies shall be sought, where appropriate, with the requirements relating to notified bodies under Regulation (EU) 2024/2847 and the accreditation requirements under the cybersecurity certification schemes which |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 235/243 have already been adopted. | have already been adopted. |
+| 4.When establishing additional or specific accreditation requirements for a European cybersecurity certification scheme covering ICT products, pursuant to Article 92, synergies shall be sought, where appropriate, with the requirements relating to notified bodies under Regulation (EU) 2024/2847 and the accreditation requirements under the cybersecurity certification schemes which have already been adopted. | 4.When establishing additional or specific accreditation requirements for a European cybersecurity certification scheme covering ICT products, pursuant to Article 92, synergies shall be sought, where appropriate, with the requirements relating to notified bodies under Regulation (EU) 2024/2847 and the accreditation requirements under the cybersecurity certification schemes which have already been adopted. |
 
 ### Article 91(5)
 
@@ -8165,13 +6755,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 in | 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 **if** |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 236/243 | **not perform authorisation in respect**~~in any one~~ of the ~~following situations~~**conformity assessment activities for which authorisation is sought**: |
+| 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 in | 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 **if not perform authorisation in respect**~~in any one~~ of the ~~following situations~~**conformity assessment activities for which authorisation is sought**: |
 
 ### Article 92(3), point (a)
 
@@ -8201,13 +6785,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 6.The authorisation referred to in paragraph 1 shall be valid for a period no longer than the period of validity of the accreditation, and may be renewed provided that the conformity assessment body meets the requirements set out in | 6.The authorisation referred to in paragraph 1 shall be valid for a period no longer than the period of validity of the accreditation, and may be renewed provided that the conformity assessment body meets the requirements set out in |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 237/243 paragraph 1 and its accreditation has also been renewed. | paragraph 1 and its accreditation has also been renewed. |
+| 6.The authorisation referred to in paragraph 1 shall be valid for a period no longer than the period of validity of the accreditation, and may be renewed provided that the conformity assessment body meets the requirements set out in paragraph 1 and its accreditation has also been renewed. | 6.The authorisation referred to in paragraph 1 shall be valid for a period no longer than the period of validity of the accreditation, and may be renewed provided that the conformity assessment body meets the requirements set out in paragraph 1 and its accreditation has also been renewed. |
 
 ### Article 92(7)
 
@@ -8238,13 +6816,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.The national cybersecurity certification authorities shall carry out the notification as referred to in paragraph 1 using the electronic notification tool | 2.The national cybersecurity certification authorities shall carry out the notification as referred to in paragraph 1 using the electronic notification tool |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 238/243 developed and managed by the Commission. | developed and managed by the Commission. |
+| 2.The national cybersecurity certification authorities shall carry out the notification as referred to in paragraph 1 using the electronic notification tool developed and managed by the Commission. | 2.The national cybersecurity certification authorities shall carry out the notification as referred to in paragraph 1 using the electronic notification tool developed and managed by the Commission. |
 
 ### Article 93(3)
 
@@ -8281,13 +6853,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 239/243 4.Where the Commission ascertains that a conformity assessment body does not meet or no longer meets the requirements for its notification, it shall inform the national cybersecurity certification authority accordingly and request it to take the necessary corrective measures, including de-notification if necessary. | 4.Where the Commission ascertains that a conformity assessment body does not meet or no longer meets the requirements for its notification, it shall inform the national cybersecurity certification authority accordingly and request it to take the necessary corrective measures, including de-notification if necessary. |
+| 4.Where the Commission ascertains that a conformity assessment body does not meet or no longer meets the requirements for its notification, it shall inform the national cybersecurity certification authority accordingly and request it to take the necessary corrective measures, including de-notification if necessary. | 4.Where the Commission ascertains that a conformity assessment body does not meet or no longer meets the requirements for its notification, it shall inform the national cybersecurity certification authority accordingly and request it to take the necessary corrective measures, including de-notification if necessary. |
 
 ### Article 94(5)
 
@@ -8325,13 +6891,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (b) any circumstances affecting the scope of and conditions for the notification | (b) any circumstances affecting the scope of and conditions for the notification |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 240/243 referred to in Article 93(1); | referred to in Article 93(1); |
+| (b) any circumstances affecting the scope of and conditions for the notification referred to in Article 93(1); | (b) any circumstances affecting the scope of and conditions for the notification referred to in Article 93(1); |
 
 ### Article 95(1), point (c)
 
@@ -8362,12 +6922,6 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | 4.Conformity assessment bodies shall maintain a record system, containing all the documents and evidence produced or received in connection with each evaluation and certification that they perform. The record shall be stored in a secure and accessible manner for the period necessary for the purposes of certification and for at least five years after the expiry or withdrawal of a relevant European cybersecurity certificate. | 4.Conformity assessment bodies shall maintain a record system, containing all the documents and evidence produced or received in connection with each evaluation and certification that they perform. The record shall be stored in a secure and accessible manner for the period necessary for the purposes of certification and for at least five years after the expiry or withdrawal of a relevant European cybersecurity certificate. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 241/243 |  |
 
 ### Section 3
 
@@ -8410,13 +6964,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (b) a failure to act on a complaint lodged with the authority or body referred to in | (b) a failure to act on a complaint lodged with the authority or body referred to in |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 242/243 paragraph 1. | paragraph 1. |
+| (b) a failure to act on a complaint lodged with the authority or body referred to in paragraph 1. | (b) a failure to act on a complaint lodged with the authority or body referred to in paragraph 1. |
 
 ### Article 96(4)
 
@@ -8436,9 +6984,3 @@ WK 7571/2026 INIT LIMITE EN
 | Commission Proposal | Council Mandate |
 | --- | --- |
 | Member States shall lay down the rules on penalties applicable to infringements of this Title and to infringements of European cybersecurity certification schemes, and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall without delay notify the Commission of those rules and of those measures and shall notify it of any subsequent amendment affecting them. | Member States shall lay down the rules on penalties applicable to infringements of this Title and to infringements of European cybersecurity certification schemes, and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall without delay notify the Commission of those rules and of those measures and shall notify it of any subsequent amendment affecting them. |
-
-### Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework,
-
-| Commission Proposal | Council Mandate |
-| --- | --- |
-| and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) (Text with EEA relevance) 2026/0011(COD) 27-05-2026 at 12h39 243/243 |  |

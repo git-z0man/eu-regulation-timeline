@@ -286,7 +286,7 @@ The penalties imposed by the Commission shall not exceed the 5% average daily tu
 
 The penalty payments ~~established by the Investment Authority~~ shall be effective and proportionate to the violations laid down in paragraph 3**, or in the case of the Commission** **the violations laid down in this paragraph**.
 
-The Investment Authority shall inform the Commission without undue delay of any noncompliance referred to in paragraph 3 and of the consequential penalties imposed.
+The Investment Authority shall inform the Commission without undue delay of any non-compliance referred to in paragraph 3 and of the consequential penalties imposed.
 
 <a id="art-23"></a>
 ### Article 23 – Monitoring of global manufacturing capacity by the Commission

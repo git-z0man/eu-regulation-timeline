@@ -907,7 +907,7 @@ Directive 2014/32/EU is amended as follows:
 
   - (d) in paragraph 7, the first sentence is replaced by the following:
 
-‘7. Manufacturers shall ensure that the measuring instrument which they have placed on the market is accompanied by the internet address or machinereadable code through which the EU declaration of conformity can be **directly** accessed, and by instructions and information in accordance with point 9.3 of Annex I in a language which can be easily understood by end-users, as determined by the Member State concerned. The instructions and information may be provided in electronic form. Such instructions and information, as well as any labelling, shall be clear, understandable and intelligible.
+‘7. Manufacturers shall ensure that the measuring instrument which they have placed on the market is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed, and by instructions and information in accordance with point 9.3 of Annex I in a language which can be easily understood by end-users, as determined by the Member State concerned. The instructions and information may be provided in electronic form. Such instructions and information, as well as any labelling, shall be clear, understandable and intelligible.
 
 The manufacturer shall take into account the intended use and the foreseeable end-user of the **measuring instrument** when deciding the specific format for the instructions and information in accordance with point 9.3 of Annex I.
 
@@ -1029,7 +1029,7 @@ Those implementing acts shall be adopted in accordance with the **examination** 
 
 - (12) in Article 45(1), point (d) is replaced by the following:
 
-‘(d) the measuring instrument is not accompanied by the internet address or machinereadable code through which the EU declaration of conformity can be **directly** accessed; ▌
+‘(d) the measuring instrument is not accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed; ▌
 
 - (13) Annexes II and XIII are amended in accordance with Annex VII to this Directive.
 
@@ -1060,7 +1060,7 @@ Directive 2014/33/EU is amended as follows:
 
   - (c) paragraph 7 is replaced by the following:
 
-‘7. Installers shall ensure that the lift is accompanied by the instructions referred to in point 6.2 of Annex I, in a language which can be easily understood by endusers, as determined by the Member State in which the lift is placed on the market. The instructions may be provided in electronic form. Such instructions, as well as any labelling, shall be clear, understandable and intelligible.
+‘7. Installers shall ensure that the lift is accompanied by the instructions referred to in point 6.2 of Annex I, in a language which can be easily understood by end-users, as determined by the Member State in which the lift is placed on the market. The instructions may be provided in electronic form. Such instructions, as well as any labelling, shall be clear, understandable and intelligible.
 
 When the instructions are provided in electronic form, the installer shall:
 
@@ -1517,7 +1517,7 @@ The following information shall also be included in the instructions in the case
 
     - (b) maximum radio-frequency power transmitted in the frequency band(s) in which the radio equipment operates.
 
-In the case of radio equipment referred to in Article 3(4), the instructions shall contain information on the specifications relating to the radio equipment’s charging capabilities and the compatible charging devices, as set out in Part II of Annex Ia. In addition to being included in the instructions, when the manufacturers make such radio equipment available to consumers and other endusers, the information shall be also displayed on a label, as set out in Part IV of Annex Ia. The label shall be included in the instructions and printed on the packaging or affixed to the packaging as a sticker. In the absence of packaging, the sticker with the label shall be affixed to the radio equipment. When the radio equipment is made available to consumers and other end-users, the label shall be displayed in a visible and legible manner and, in the case of distance selling, close to the price indication. Where the size or nature of the radio equipment does not allow otherwise, the label may be printed as a separate document accompanying the radio equipment.
+In the case of radio equipment referred to in Article 3(4), the instructions shall contain information on the specifications relating to the radio equipment’s charging capabilities and the compatible charging devices, as set out in Part II of Annex Ia. In addition to being included in the instructions, when the manufacturers make such radio equipment available to consumers and other end-users, the information shall be also displayed on a label, as set out in Part IV of Annex Ia. The label shall be included in the instructions and printed on the packaging or affixed to the packaging as a sticker. In the absence of packaging, the sticker with the label shall be affixed to the radio equipment. When the radio equipment is made available to consumers and other end-users, the label shall be displayed in a visible and legible manner and, in the case of distance selling, close to the price indication. Where the size or nature of the radio equipment does not allow otherwise, the label may be printed as a separate document accompanying the radio equipment.
 
 The instructions and safety information referred to in the first, second and third subparagraphs of this paragraph shall be in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.
 
@@ -2223,7 +2223,7 @@ Annexes II and IV to Directive 2014/31/EU are amended as follows:
 
   - (i) point 4.4.1. is replaced by the following:
 
-‘4.4.1. All instruments shall be individually examined and appropriate tests set out in the relevant harmonised standard(s), and/or in the relevant common specifications and/or other relevant technical specifications, shall be carried out in order to verify conformity with the approved type described in the EUtype examination certificate and with the appropriate requirements of this Directive.
+‘4.4.1. All instruments shall be individually examined and appropriate tests set out in the relevant harmonised standard(s), and/or in the relevant common specifications and/or other relevant technical specifications, shall be carried out in order to verify conformity with the approved type described in the EU-type examination certificate and with the appropriate requirements of this Directive.
 
 In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
@@ -2290,7 +2290,7 @@ Annexes II and XIII to Directive 2014/32/EU are amended as follows:
 
 - (c) in Module C2: CONFORMITY TO TYPE BASED ON INTERNAL PRODUCTION CONTROL PLUS SUPERVISED INSTRUMENT CHECKS AT RANDOM INTERVALS, point 3, first subparagraph, the second sentence is replaced by the following:
 
-‘An adequate sample of the final measuring instrument, taken on site by the accredited inhouse body or by the notified body before the placing on the market, shall be examined and appropriate tests, as identified by the relevant parts of the harmonised standards, and/or normative documents, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to verify the conformity of the instrument with the type described in the EU-type examination certificate and with the relevant requirements of this Directive.;’
+‘An adequate sample of the final measuring instrument, taken on site by the accredited in-house body or by the notified body before the placing on the market, shall be examined and appropriate tests, as identified by the relevant parts of the harmonised standards, and/or normative documents, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to verify the conformity of the instrument with the type described in the EU-type examination certificate and with the relevant requirements of this Directive.;’
 
 - (d) Module D: CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS is amended as follows:
 
@@ -2407,7 +2407,7 @@ Annexes **II and** VI to XII to Directive 2014/33/EU are amended as follows:
 
     - (iii) points (i) to (k) are replaced by the following:
 
-‘(i) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the EUtype examination of safety components for lifts set out in Annex IV, Part A and Annex VI, and the reference of the EU-type examination certificate issued by that notified body;
+‘(i) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the EU-type examination of safety components for lifts set out in Annex IV, Part A and Annex VI, and the reference of the EU-type examination certificate issued by that notified body;
 
       - (j) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the conformity to type with random checking for safety components for lifts set out in Annex IX;
 
@@ -2427,7 +2427,7 @@ Annexes **II and** VI to XII to Directive 2014/33/EU are amended as follows:
 
     - (iii) points (h) to (k) are replaced by the following:
 
-‘(h) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the EUtype examination of lifts set out in Annex IV, Part B and the reference of the EU-type examination certificate issued by that notified body;
+‘(h) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the EU-type examination of lifts set out in Annex IV, Part B and the reference of the EU-type examination certificate issued by that notified body;
 
       - (i) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the unit verification for lifts set out in Annex VIII;
 
@@ -2843,7 +2843,7 @@ Annexes I, III and IV to Directive 2014/68/EU are amended as follows:
 
 - (i) in Part 9: MODULE F: CONFORMITY TO TYPE BASED ON PRESSURE EQUIPMENT VERIFICATION, point 4.1., the first subparagraph is replaced by the following:
 
-‘All pressure equipment shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) or common specifications or equivalent tests shall be carried out in order to verify conformity with the approved type and described in the EUtype examination certificate and with the appropriate requirements of this Directive. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
+‘All pressure equipment shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) or common specifications or equivalent tests shall be carried out in order to verify conformity with the approved type and described in the EU-type examination certificate and with the appropriate requirements of this Directive. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
 - (j) Part 10: MODULE G: CONFORMITY BASED ON UNIT VERIFICATION is amended as follows:
 

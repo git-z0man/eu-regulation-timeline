@@ -458,13 +458,13 @@ Regulation (EU) No 2016/426 is amended as follows:
 
   - (c) paragraphs 6 and 7 are replaced by the following:
 
-‘6. Manufacturers shall indicate on the appliance their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the appliance. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted**. The contact details shall be in a language easily understood by consumers and other endusers and the market surveillance authorities.
+‘6. Manufacturers shall indicate on the appliance their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the appliance. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted**. The contact details shall be in a language easily understood by consumers and other end-users and the market surveillance authorities.
 
 Manufacturers shall indicate on the fitting their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the fitting. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted**. The contact details shall be in a language easily understood by appliance manufacturers and the market surveillance authorities.
 
 7. Manufacturers shall ensure that the appliance is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned. The instructions and safety information may be provided in an electronic form. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
 
-Manufacturers shall take into account the intended use and the foreseeable enduser of the ~~product~~**appliance** when deciding the specific format for the instructions and safety information.
+Manufacturers shall take into account the intended use and the foreseeable end-user of the ~~product~~**appliance** when deciding the specific format for the instructions and safety information.
 
 In the case of **an** appliance ~~or fitting~~ intended for consumers or that can, under reasonably foreseeable conditions, be used by consumers, even if not intended for them, the manufacturer shall provide, in paper format, or mark on the ~~equipment~~**appliance**, the safety information. Such safety information shall be easily visible and legible for consumers.
 
@@ -1135,7 +1135,7 @@ Annexes III, V, VII, IX, and X to Regulation (EU) 2023/1230 are amended as follo
 
   - (c) in point 7.6., point (a) is replaced by the following:
 
-‘(a) its name, postal address and digital contact and data identifying the EU typeexamination certificate concerned;;’
+‘(a) its name, postal address and digital contact and data identifying the EU type-examination certificate concerned;;’
 
 - – (4) in Annex IX, point 3.1., point (a) is replaced by the following:
 
@@ -1210,7 +1210,7 @@ Such legal acts include Directives 2000/14/EC ^(2), 2011/65/EU ^(3), 2013/53/EU 
 
 - (6) In accordance with the Directives concerned, manufacturers are to draw up an EU declaration of conformity stating that the fulfilment of essential requirements set out in the applicable Directives has been demonstrated. In order to enable seamless electronic processes, the EU declaration of conformity should be drawn up only in electronic form.
 
-- (7) Moreover, Directives 2000/14/EC, 2013/53/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU and 2014/53/EU require that a copy of the EU declaration of conformity accompanies the product. Considering the evolution of digitalisation, it is essential to modernise this obligation by requiring that such EU declaration of conformity accompany the product in electronic form. The manufacturer should therefore ~~make sure~~**ensure** that the EU declaration of conformity is **directly** accessible through an internet address or a machinereadable code**, free of charge, without the need for providing any personal data,** **downloading or using additional applications specific to the economic operator or the** **obligation to register solely to access the EU declaration of conformity**.
+- (7) Moreover, Directives 2000/14/EC, 2013/53/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU and 2014/53/EU require that a copy of the EU declaration of conformity accompanies the product. Considering the evolution of digitalisation, it is essential to modernise this obligation by requiring that such EU declaration of conformity accompany the product in electronic form. The manufacturer should therefore ~~make sure~~**ensure** that the EU declaration of conformity is **directly** accessible through an internet address or a machine-readable code**, free of charge, without the need for providing any personal data,** **downloading or using additional applications specific to the economic operator or the** **obligation to register solely to access the EU declaration of conformity**.
 
 - (8) Taking into account that in 2024 no less than 94% of EU households had access to internet, the paper format of the instructions for use accompanying the products under the scope of the Directives concerned is ~~outdated~~**becoming less important** and is not aligned with ~~the~~ current technologies, the ~~practice~~**practices** of consumers ~~nor with~~**or** green objectives. Consequently, the possibility for a digital format of the instructions should be introduced in the Directives. This will allow manufacturers to **provide** instructions in digital format, if they wish to do so. Where manufacturers choose to provide instructions in digital format, ~~in order to still protect the safety of~~**specific safeguards for** consumers **should ensure that** **they**, **as non-professional users, are still able to access and understand the** **information, in contrast to professional users, who are expected to possess the** **expertise and knowledge necessary for the correct use and handling of products.** ~~the~~ Safety information, including instructions having **an** impact on ~~product safety, should~~**the** **safe use of the products, might** be provided **in digital format where a product is used** **solely by professional users, namely persons acquiring the product as professional** **end users in the course of their industrial or professional activities. However, where it** **is reasonably foreseeable that a product, even if primarily intended for professional** **use, could also be used by consumers, manufacturers should provide the safety** **information** in paper format or ~~marked~~**mark it directly** on the product**. The definition of** **‘consumer’ forms part of the notion of ‘end user’ as laid down in Regulation (EU)** **2019/1020 of the European Parliament and of the Council ^(16), which applies to the** **Directives concerned, and refers to any natural person acting for purposes outside** **their trade, business, craft or profession. This requirement ensures that all** **consumers, including vulnerable consumers such as elderly persons, persons with** **disabilities or those with limited digital literacy, are able to access and understand the** **safety information. Such information should therefore be easily visible and legible,** **thereby guaranteeing a high level of consumer protection and safeguarding public** **safety. Instructions and safety information provided in digital format should be** **directly accessible in particular by taking into account the requirements set out in** **Annex I of Directive (EU) 2019/882 of the European Parliament and of the Council ^(17),** **insofar as the products fall within the scope of that Directive, so as to ensure usability** **by all end-users, including persons with disabilities. Instructions and safety** **information should be directly accessible through an internet address or a machine-** **readable code, free of charge, without the need for providing any personal data,** **downloading or using additional applications specific to the economic operator or the** **obligation to register solely to access the instructions and safety information**. Moreover, end-users should be able to obtain a paper copy of the instructions for use or safety information, upon request – at the time of ~~the~~ purchase and for a certain period of time after their purchase.
 
@@ -1978,7 +1978,7 @@ Directive 2014/32/EU is amended as follows:
 
   - (d) in paragraph 7, the first sentence is replaced by the following:
 
-‘7. Manufacturers shall ensure that the measuring instrument which they have placed on the market is accompanied by the internet address or machinereadable code through which the EU declaration of conformity can be **directly** accessed, and by instructions and information in accordance with point 9.3 of Annex I in a language which can be easily understood by end-users, as determined by the Member State concerned. The instructions and information may be provided in electronic form. Such instructions and information, as well as any labelling, shall be clear, understandable and intelligible.
+‘7. Manufacturers shall ensure that the measuring instrument which they have placed on the market is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed, and by instructions and information in accordance with point 9.3 of Annex I in a language which can be easily understood by end-users, as determined by the Member State concerned. The instructions and information may be provided in electronic form. Such instructions and information, as well as any labelling, shall be clear, understandable and intelligible.
 
 The manufacturer shall take into account the intended use and the foreseeable end-user of the ~~product~~**measuring instrument** when deciding the specific format for the instructions and information in accordance with point 9.3 of Annex I.
 
@@ -2092,7 +2092,7 @@ Those implementing acts shall be adopted in accordance with the ~~advisory~~**ex
 
 - (12) in Article 45(1), point (d) is replaced by the following:
 
-‘(d) the measuring instrument is not accompanied by the internet address or machinereadable code through which the EU declaration of conformity can be **directly** accessed;;’
+‘(d) the measuring instrument is not accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed;;’
 
 - (13) Annexes II and XIII are amended in accordance with Annex VII to this Directive.
 
@@ -2124,7 +2124,7 @@ Directive 2014/33/EU is amended as follows:
 
   - (c) paragraph 7 is replaced by the following:
 
-‘7. Installers shall ensure that the lift is accompanied by the instructions referred to in point 6.2 of Annex I, in a language which can be easily understood by endusers, as determined by the Member State in which the lift is placed on the market. The instructions may be provided in electronic form. Such instructions, as well as any labelling, shall be clear, understandable and intelligible.
+‘7. Installers shall ensure that the lift is accompanied by the instructions referred to in point 6.2 of Annex I, in a language which can be easily understood by end-users, as determined by the Member State in which the lift is placed on the market. The instructions may be provided in electronic form. Such instructions, as well as any labelling, shall be clear, understandable and intelligible.
 
 When the instructions are provided in electronic form, the installer shall:
 
@@ -2134,7 +2134,7 @@ When the instructions are provided in electronic form, the installer shall:
 
     - (c) make them accessible online during the expected lifetime of the lift and for at least 10 years after the placing on the market of the lift.
 
-However, the end-user may, at time of the purchase of the lift, or up to six months after that purchase, request the instructions in paper format. Where the end-user requests those instructions, the installer shall provide them to the enduser, free of charge, within one month of receiving the request.;’
+However, the end-user may, at time of the purchase of the lift, or up to six months after that purchase, request the instructions in paper format. Where the end-user requests those instructions, the installer shall provide them to the end-user, free of charge, within one month of receiving the request.;’
 
   - (d) in paragraph 9, the first subparagraph is replaced by the following:
 
@@ -3340,7 +3340,7 @@ Annexes II and XIII to Directive 2014/32/EU are amended as follows:
 
 - – (c) in Module C2: CONFORMITY TO TYPE BASED ON INTERNAL PRODUCTION CONTROL PLUS SUPERVISED INSTRUMENT CHECKS AT RANDOM INTERVALS, point 3, first subparagraph, the second sentence is replaced by the following:
 
-‘An adequate sample of the final measuring instrument, taken on site by the accredited inhouse body or by the notified body before the placing on the market, shall be examined and appropriate tests, as identified by the relevant parts of the harmonised standards, and/or normative documents, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to verify the conformity of the instrument with the type described in the EU-type examination certificate and with the relevant requirements of this Directive.;’
+‘An adequate sample of the final measuring instrument, taken on site by the accredited in-house body or by the notified body before the placing on the market, shall be examined and appropriate tests, as identified by the relevant parts of the harmonised standards, and/or normative documents, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to verify the conformity of the instrument with the type described in the EU-type examination certificate and with the relevant requirements of this Directive.;’
 
 - – (d) Module D: CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS is amended as follows:
 
@@ -3973,7 +3973,7 @@ Annexes I, III and IV to Directive 2014/68/EU are amended as follows:
 
 - – (i) in Part 9: MODULE F: CONFORMITY TO TYPE BASED ON PRESSURE EQUIPMENT VERIFICATION, point 4.1., the first subparagraph is replaced by the following:
 
-‘All pressure equipment shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) or common specifications or equivalent tests shall be carried out in order to verify conformity with the approved type and described in the EUtype examination certificate and with the appropriate requirements of this Directive. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
+‘All pressure equipment shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) or common specifications or equivalent tests shall be carried out in order to verify conformity with the approved type and described in the EU-type examination certificate and with the appropriate requirements of this Directive. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
 - – (j) Part 10: MODULE G: CONFORMITY BASED ON UNIT VERIFICATION is amended as follows:
 

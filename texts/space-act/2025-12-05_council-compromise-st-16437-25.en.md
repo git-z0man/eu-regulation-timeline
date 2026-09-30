@@ -110,7 +110,7 @@ Whereas:
 <a id="rec-17"></a>
 (17) By laying down technology neutral key requirements, innovation should be stimulated by offering to the space services providers access to current and potential new markets, resulting in an increased choice for end users.
 
-(17a) In order to create equal conditions for operating in the internal market, the rules for all space services providers within scope of this Regulation should apply to the extent spacebased data and space services are provided in the Union, thereby demonstrating a substantial connection to the internal market, preventing the risk of circumvention of rules to the disadvantage of Union consumers and businesses, and safeguarding the efficiency of the objectives pursued by this Regulation. Therefore, this Regulation should apply to Union space operators as well as to third-country space services providers where they provide space-based data and space services to the Union.
+(17a) In order to create equal conditions for operating in the internal market, the rules for all space services providers within scope of this Regulation should apply to the extent space-based data and space services are provided in the Union, thereby demonstrating a substantial connection to the internal market, preventing the risk of circumvention of rules to the disadvantage of Union consumers and businesses, and safeguarding the efficiency of the objectives pursued by this Regulation. Therefore, this Regulation should apply to Union space operators as well as to third-country space services providers where they provide space-based data and space services to the Union.
 
 (17b) In order to preserve the competences of the Member States, this Regulation should not apply to space objects that are exclusively used to enable defence or national security objectives, irrespective of the entity carrying out such space activities. Space objects that are only partially used for defence purposes should be excluded from the scope of this Regulation when they need to be placed under a Member State operation and control, for defence purposes, only for the duration of the respective space mission carried out by the military forces. In such cases, it is for each Member State to determine, owing to the circumstances of the case, whether such space object would fall under that exclusion.
 
@@ -141,7 +141,7 @@ Whereas:
 
 (43a) In order to match increased customer demand for satellite offerings, reap the benefits of technological advances and associated cost reductions, and secure better access to capital, the authorisation processes for the launch of satellite constellations should be streamlined. Under certain conditions, and subject to a set of safeguards, a simplified authorisation procedure should be available, leading to the issuing of a single authorisation valid for the entire satellite constellation.
 
-(43b) Primary providers of space-based data play a key role as intermediaries between the upstream and downstream sectors as they channel space-based data from space operators towards the various subsequent uses of such space-based data, for the benefit of the entire economy and citizens. In that respect, although the substantive rules which apply to space operators should not apply to them, they still play an important role in the space sector, by ascertaining that the space-based data which they pass down in the value chain originates from space operators that are compliant with this Regulation. Primary providers of spacebased data should take all necessary steps to ensure that the data they provide in the Union comply with the requirements of this Regulation, including registration in URSA and obtaining an e-certificate.
+(43b) Primary providers of space-based data play a key role as intermediaries between the upstream and downstream sectors as they channel space-based data from space operators towards the various subsequent uses of such space-based data, for the benefit of the entire economy and citizens. In that respect, although the substantive rules which apply to space operators should not apply to them, they still play an important role in the space sector, by ascertaining that the space-based data which they pass down in the value chain originates from space operators that are compliant with this Regulation. Primary providers of space-based data should take all necessary steps to ensure that the data they provide in the Union comply with the requirements of this Regulation, including registration in URSA and obtaining an e-certificate.
 
 (43c) Space services providers established in a third country should be required to undergo checks to establish compliance with the requirements laid down in this Regulation. To promote convergence of supervisory approaches, the Agency should carry out the technical assessments needed for the Commission to establish compliance and allowing the Commission to decide, based on technical assessments, on the registration of space activities in the Union and on any supervisory measures. The Commission should provide the decision of registration no later than 12 months after having received the application from a third country space operator, considering the complexity of the space activity involved, with a view to enable the applicant to get the response quickly. For this purpose, a register should be set-up at Union level.
 
@@ -160,7 +160,7 @@ Whereas:
 (47) Consolidated lists of all space activities registered in URSA, established in the Union and in third countries, should be made accessible to the public, through the URSA website, thereby ensuring transparency on all space activities registered in the Union. Any person could verify the source of the space-based data with a view to ascertain, at any given moment, that the space services provided in the Union make use of data that has been generated by space objects compliant with the requirements of Union law.
 
 <a id="rec-48"></a>
-(48) A specific standard for the e-certificate should be developed, at the request of the Commission, and should be in place by the date of application of this Regulation. The ecertificate would establish the link between a given space object and the space-based data that has been generated through its use, guaranteeing the integrity of such space-based data. The e-certificate should be embedded in the meta-data of the space-based data.
+(48) A specific standard for the e-certificate should be developed, at the request of the Commission, and should be in place by the date of application of this Regulation. The e-certificate would establish the link between a given space object and the space-based data that has been generated through its use, guaranteeing the integrity of such space-based data. The e-certificate should be embedded in the meta-data of the space-based data.
 
 (52a) Member States play a key role in the enforcement of this Regulation. To take into account the inherent differences among institutional structures at national level, and to safeguard existing arrangements, Member States should designate or establish one or more national competent authorities which shall be responsible at national level for controlling the application of this Regulation. Where Member States have in place more than one national competent authority, only one such authority should, for the purposes of this Regulation, act as a single point of contact for that Member State, to facilitate communication with the Commission.
 
@@ -188,7 +188,7 @@ Whereas:
 
 (52m) To leverage the specific competences, technical skills and expertise of the national competent authorities and the qualified technical bodies for space activities, the Compliance Board should draw on national supervisory and technical capabilities in the form of setting-up configurations on matters of safety, resilience and environmental sustainability.
 
-(52n) For the purposes of detecting infringements of this Regulation, as regards the Unionowned assets and the space operators established in third countries, it is necessary for the Commission and the Agency to have effective powers, tools and resources that guarantee full supervisory effectiveness. Therefore, the Commission and the Agency should have the power to request information and carry on investigations and on-site inspections. The Commission should acquire supervisory powers and require Union space operators of Union-owned assets and space operators established in third countries to bring infringements to an end and to impose fines and penalty payments.
+(52n) For the purposes of detecting infringements of this Regulation, as regards the Union-owned assets and the space operators established in third countries, it is necessary for the Commission and the Agency to have effective powers, tools and resources that guarantee full supervisory effectiveness. Therefore, the Commission and the Agency should have the power to request information and carry on investigations and on-site inspections. The Commission should acquire supervisory powers and require Union space operators of Union-owned assets and space operators established in third countries to bring infringements to an end and to impose fines and penalty payments.
 
 (52o) In relation to the powers of investigation and inspection, access to the premises of Union space operators of Union-owned assets and of space operators established in third countries may be necessary where space operators to whom a request for information has been made fail to comply with it, or where documents which the request for information relates to, would be removed, tampered with, or destroyed. Such access should be based on the agreement of the third country entity and the relevant third country authority.
 
@@ -258,7 +258,7 @@ Whereas:
 (70) The current imbalance is not only caused by the fact that space programmes have been developed under parallel tracks (Union and Member State levels). It is also linked to the absence of a common baseline for cybersecurity and risk management tailored to the specific needs of space infrastructure. While only some Member States adopted a normative approach, the level or depth of such requirements varies across the internal market. The resilience of the space infrastructure depends in many cases on the financial capabilities and ultimately on the willingness of companies to adhere to good risk management practices and integrate cybersecurity into their design and operation of space missions.
 
 <a id="rec-71"></a>
-(71) To address such gaps and imbalances, a bespoke resilience baseline should be laid down for all the space sector. These rules should apply to the entirety of space infrastructure across the Union, covering Union-owned assets as well as national governmental and nongovernmental assets. All ground, space and links segments of space infrastructure should be coherently covered, as well as the digital and physical, both space and ground-based systems and subsystems, with a view to cover all relevant risks, such as cyber and electronic interferences risks as well as physical risks.
+(71) To address such gaps and imbalances, a bespoke resilience baseline should be laid down for all the space sector. These rules should apply to the entirety of space infrastructure across the Union, covering Union-owned assets as well as national governmental and non-governmental assets. All ground, space and links segments of space infrastructure should be coherently covered, as well as the digital and physical, both space and ground-based systems and subsystems, with a view to cover all relevant risks, such as cyber and electronic interferences risks as well as physical risks.
 
 (71a) Cybersecurity requirements under NIS2 and this Regulation should be synchronised and coordinated, to ensure the requirements are identical for all types of entities, hereby fostering legal certainty for operators and avoiding unnecessary administrative burden.
 
@@ -342,7 +342,7 @@ Whereas:
 <a id="rec-131"></a>
 (131) With a view to facilitating and accompany the implementation of the requirements laid down by this Regulation, a set of supportive measures should be in place until, and throughout, its implementation. These measures would consist in the provision of guidance and assistance to space operators in the preparation of technical dossiers for authorisation or registration on matters covered by this Regulation, as well as of a set of measures for capacity building and funding.
 
-(131a) This Regulation should rely on the current European standardisation framework, based on the New Approach principles, set out in Council Resolution of 7 May 1985 on approach to technical harmonization and standards and on Regulation (EU) No 1025/2012 of the European Parliament and of the Council ^(12). Since this Regulation is the first regulatory approach at Union level in the area, a balanced and gradual approach should be taken also as regards standardisation. The technical requirements needed for the deployment of the ecertificate by the Agency, as well as for the dark and quiet skies, should be developed through the standardisation process. The Commission should consequently request the European standardisation organisations to develop standards in relation to such essential requirement. The Commission should be empowered to adopt implementing acts establishing common specifications for these essential requirements in limited circumstances taking into account the role and functions of standardisation organisations.
+(131a) This Regulation should rely on the current European standardisation framework, based on the New Approach principles, set out in Council Resolution of 7 May 1985 on approach to technical harmonization and standards and on Regulation (EU) No 1025/2012 of the European Parliament and of the Council ^(12). Since this Regulation is the first regulatory approach at Union level in the area, a balanced and gradual approach should be taken also as regards standardisation. The technical requirements needed for the deployment of the e-certificate by the Agency, as well as for the dark and quiet skies, should be developed through the standardisation process. The Commission should consequently request the European standardisation organisations to develop standards in relation to such essential requirement. The Commission should be empowered to adopt implementing acts establishing common specifications for these essential requirements in limited circumstances taking into account the role and functions of standardisation organisations.
 
 <a id="rec-134"></a>
 (134) In order to ensure that the regulatory framework duly reflects evolutions in the technical progress or new commitments of the Union under international conventions, and can thus be adapted as necessary, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to amend the order of preference for the removal of spacecraft in LEO, acknowledge the technological progress as regards in-space operations and services. The power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to supplement this Regulation by specifying for ISOS the operational mode and the requirements needed for active debris removal, by specifying the amount of fees charged by the Agency and the way in which they are to be paid, by specifying the imposition of fines and periodic penalty payments, by specifying the criteria for the composition and the expertise of staff composing the technical boards, and by specifying the areas benefiting from co-funding. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States’ experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
@@ -480,7 +480,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 - (1i) ‘Graveyard orbit’ means an orbit which is about 300 km or more above a GEO or Geo Synchronous Orbit (GSO) into which spent upper stages or satellites are injected to reduce the creation of debris in GEO or GSO;
 
-- (2) ‘spacecraft’ means a space object designed to perform a specific function or space mission, such as providing services of communications, navigation or observation, or providing inspace operations and services, including a satellite, the launch vehicle upper stages, or the re-entry vehicle;
+- (2) ‘spacecraft’ means a space object designed to perform a specific function or space mission, such as providing services of communications, navigation or observation, or providing in-space operations and services, including a satellite, the launch vehicle upper stages, or the re-entry vehicle;
 
 - (3) ‘constellation’ means a group of space objects consisting of two or more operational spacecraft working together for a common space mission, subject to an orbital deployment plan;
 
@@ -595,7 +595,7 @@ For the purposes of this Regulation, “authorising authorities” means the ent
 
 1d. Member States may enter into agreements in order to allocate the authorisation and supervision responsibilities attached to a space activity. Such agreements shall be notified to the Commission.
 
-6. Where a space activity has been authorised and that activity subsequently requires the use of ISOS space services provided by a third country space operator or an international organisation, then that ISOS provision may only take place once the authorising authority of the space activity receiving ISOS has updated its authorisation to include the ecertificate of that third country or international organisation ISOS provider.
+6. Where a space activity has been authorised and that activity subsequently requires the use of ISOS space services provided by a third country space operator or an international organisation, then that ISOS provision may only take place once the authorising authority of the space activity receiving ISOS has updated its authorisation to include the e-certificate of that third country or international organisation ISOS provider.
 
 <a id="art-7"></a>
 ### Article 7 – Authorisation process
@@ -842,7 +842,7 @@ That decision shall be adopted as an implementing act in accordance with the exa
 
 - (a) the e-certificate shall determine that a given space-based data is generated through the use of a clearly identified space mission and space object;
 
-- (b) for observation data, the e-certificate shall allow the tracking of the flow of spacebased data, from its generation by a given space object, to incorporation into the first space service making use of that space-based data;
+- (b) for observation data, the e-certificate shall allow the tracking of the flow of space-based data, from its generation by a given space object, to incorporation into the first space service making use of that space-based data;
 
 - (c) the e-certificate shall be based on algorithms to ascertain the integrity of space-based data across its incorporation into subsequent services.
 
@@ -906,7 +906,7 @@ The supervisory tasks pursuant to Directive 2022/2555 referred to in the first a
 
 - (c) to take appropriate action to bring an instance of non-compliance to an end;
 
-- (d) to take appropriate measures where a Union space operator fails to bring noncompliance to an end;
+- (d) to take appropriate measures where a Union space operator fails to bring non-compliance to an end;
 
 - (da) to impose, or request a relevant administrative or judicial body to impose, an administrative fine or sanction against a Union space operator;
 
@@ -1152,7 +1152,7 @@ Within a reasonable time before the date of the investigation, the Commission sh
 <a id="art-51"></a>
 ### Article 51 – On-site inspections in the Union
 
-1. In order to carry out their duties under this Regulation, the Commission may carry out all necessary on-site inspections at any of the business premises, land or property of the space operators referred to in Article 48(1) located in the Union. Where the proper conduct and efficiency of the inspection so require, the Commission or Agency may carry out the onsite inspection without prior notice.
+1. In order to carry out their duties under this Regulation, the Commission may carry out all necessary on-site inspections at any of the business premises, land or property of the space operators referred to in Article 48(1) located in the Union. Where the proper conduct and efficiency of the inspection so require, the Commission or Agency may carry out the on-site inspection without prior notice.
 
 1a. The officials of the Commission and other persons authorised to conduct an on-site inspection may enter any of the business premises, land or property located in the Union of the space operators referred to in Article 48(1) which are subject to an investigation decision adopted under Article 50. They shall have all the powers set out in Article 50(4) and the powers to seal any business premises, books or records for the period of, and to the extent necessary for, that inspection.
 
@@ -1437,7 +1437,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 <a id="art-65"></a>
 ### Article 65 – Re-entry services
 
-1. At the time of re-entry, Union spacecraft operators shall send the necessary data and information, such as positioning, state of the spacecraft and ability to communicate to the entity in charge of re-entry service in the Space Surveillance and Tracking (SST) subcomponent referred to in Article 58(2) of Regulation (EU) 2021/696.
+1. At the time of re-entry, Union spacecraft operators shall send the necessary data and information, such as positioning, state of the spacecraft and ability to communicate to the entity in charge of re-entry service in the Space Surveillance and Tracking (SST) sub-component referred to in Article 58(2) of Regulation (EU) 2021/696.
 
 2. The entity in charge of re-entry service referred to in paragraph 1 shall ensure the necessary coordination with the national competent authorities and air traffic services providers to minimise the impact of the re-entry on other traffic services.
 
@@ -1722,7 +1722,7 @@ The implementing act referred to in the first paragraph shall be adopted in acco
 
 5c. By derogation to paragraph 7, Union space operators of Union-owned assets shall report significant incidents affecting the Union-owned assets to the structure referred to in Article 34(4) of Regulation (EU) 2021/696. In addition, they shall:
 
-- (a) send the early warning within 12 hours, indicating whether the significant incident may have been caused by unlawful or malicious acts, or if it could have a crossborder impact;
+- (a) send the early warning within 12 hours, indicating whether the significant incident may have been caused by unlawful or malicious acts, or if it could have a cross-border impact;
 
 - (b) send an intermediate report with relevant status updates upon request of the Agency.
 
@@ -1916,7 +1916,7 @@ In its request, a Member State shall:
 
 2a. The Commission shall assess whether the request is made for a third country public entity.
 
-4. Following a positive assessment of the third country public entity, the Commission shall adopt a decision allowing the third country public entity to provide space services or spacebased data in the Union.
+4. Following a positive assessment of the third country public entity, the Commission shall adopt a decision allowing the third country public entity to provide space services or space-based data in the Union.
 
 The Agency shall register without delay in URSA the space activity of the third country public entity concerned on the basis of the Commission decision.
 
@@ -1963,7 +1963,7 @@ The agreement referred to in paragraph 1 shall set out the conditions for ESA to
 <a id="art-109"></a>
 ### Article 109 – Capacity building
 
-1. The Commission shall support space operators, notably SMEs and small midcap enterprises, national competent authorities and national QTBs in the implementation of this Regulation, in particular by developing, in close cooperation with the Agency, ENISA and international organisations, as appropriate, guidance materials, methodologies and best practices on the following:
+1. The Commission shall support space operators, notably SMEs and small mid-cap enterprises, national competent authorities and national QTBs in the implementation of this Regulation, in particular by developing, in close cooperation with the Agency, ENISA and international organisations, as appropriate, guidance materials, methodologies and best practices on the following:
 
 - (a) the use, in the context of public procurement procedures carried out at national level, of Union Space Labels issued in accordance to Article 112(4);
 
@@ -2350,7 +2350,7 @@ The disposal of launch vehicles in LEO shall be performed by one of the followin
 
 The design shall allow for the demise (‘design for demise’) or deliberate destruction of the launch vehicle orbital stage.
 
-- (b) If a controlled re-entry is not possible, and the casualty risk for an uncontrolled reentry is low, the launch vehicle may instead be placed in a decay orbit, for the orbital lifetime specified in the implementing act referred to in Article 61(3), point (a). In that case:
+- (b) If a controlled re-entry is not possible, and the casualty risk for an uncontrolled re-entry is low, the launch vehicle may instead be placed in a decay orbit, for the orbital lifetime specified in the implementing act referred to in Article 61(3), point (a). In that case:
 
   - (i) the casualty risk shall be computed, by using a standardised method with a limited risk on ground, in accordance with the provisions of point 1.3, point (a), of Annex I;
 
@@ -2468,7 +2468,7 @@ Third country space operators shall ensure that the CA provider they subscribe t
 
 - (a) The technical means to assess collision – a CA system – and compliance with the requirements of Section 1 of this Annex.
 
-The CA system shall be either external or in-house, provided that in the case of an inhouse system, adequate mechanisms are in place to ensure the independence of the respective CA provider.
+The CA system shall be either external or in-house, provided that in the case of an in-house system, adequate mechanisms are in place to ensure the independence of the respective CA provider.
 
 - (b) The CA provider shall provide to its users a decision with sufficient time to enable manoeuvres on quality conjunction assessment results on an operational timeframe.
 
@@ -2990,9 +2990,9 @@ Annex VIII COMPET. ^(2). **EN**
 
 1.2. A national QTB shall be independent from:
 
-- (a) a space services provider referred to in Article 2(1), where that national QTB carries out a technical assessment in relation to a product, process, service, including riskmanagement, regarding matters covered by this Regulation;
+- (a) a space services provider referred to in Article 2(1), where that national QTB carries out a technical assessment in relation to a product, process, service, including risk-management, regarding matters covered by this Regulation;
 
-- (b) a competitor of a space services provider referred to in Article 2(1), as regards the carrying out of the technical assessment of a product, process, service, including riskmanagement, regarding matters covered by this Regulation;
+- (b) a competitor of a space services provider referred to in Article 2(1), as regards the carrying out of the technical assessment of a product, process, service, including risk-management, regarding matters covered by this Regulation;
 
 - (c) an undertaking, other than space services providers referred to in point (a), or competitors referred to in point (b), of this paragraph, that has an economic interest in a product, process, service, including risk-management, regarding matters covered by this Regulation.
 

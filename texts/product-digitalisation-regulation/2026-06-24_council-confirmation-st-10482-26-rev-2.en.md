@@ -36,7 +36,7 @@ Council of the European Union Brussels, 24 June 2026 (OR. en)
 
 6. At its meeting on 24 September 2025, the Permanent Representatives Committee granted the Danish Presidency mandates ^(6) to enter negotiations for the four files with the European Parliament. On 3 June 2026, the Permanent Representatives Committee granted revised negotiating mandates ^(7).
 
-7. On 3 June 2026, a provisional agreement on SMC Directive was reached between colegislators, resulting in the final compromise text as set out in addendum 4.
+7. On 3 June 2026, a provisional agreement on SMC Directive was reached between co-legislators, resulting in the final compromise text as set out in addendum 4.
 
 8. On 9 June 2026, further provisional agreements were reached between co-legislators, resulting in the final compromise texts as set out in addenda: ADD 1 REV 1, ADD 2 REV 1 and ADD 3.
 
