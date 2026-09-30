@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="1004" viewBox="0 0 1800 1004" font-family="Helvetica, Arial, sans-serif">
 <rect width="1800" height="1004" fill="#ffffff"/>
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)</tspan></text>
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0360(COD). Upper part: the ordinary legislative procedure (Art. 294 TFEU); steps done (blue) and in progress (orange) as of 29 Sep 2026. Lower part: the act&#x27;s procedure over time. Every event cites its source (see digital-omnibus.html).</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0360(COD). Upper part: the ordinary legislative procedure (Art. 294 TFEU); steps done (blue) and in progress (orange) as of 30 Sep 2026. Lower part: the act&#x27;s procedure over time. Every event cites its source (see digital-omnibus.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="20.0" y="150.0" width="190.0" height="58.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="2.5"/>
 <text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="167.8">Commission proposal</tspan></text>
@@ -14,7 +14,7 @@
 <rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
 <text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
 <text font-size="9" fill="#555555" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
-<text font-size="9" fill="#b07520" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Working party; no Council mandate in the register</tspan></text>
+<text font-size="9" fill="#b07520" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Council mandate 22 Jun 2026</tspan></text>
 <rect x="740.0" y="150.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="161.0">Act adopted in the wording of the EP</tspan><tspan x="855.0" y="174.7">position</tspan></text>
 <text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="855.0" y="199.2">Art. 294(4)</tspan></text>
@@ -88,8 +88,8 @@
 <rect x="20.0" y="850.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="858.0" width="6.0" height="70.0" fill="#444444" stroke="none"/>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
-<line x1="1529.6" y1="420.0" x2="1529.6" y2="936.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="1529.6" y="946.1">as of 29 Sep 2026</tspan></text>
+<line x1="1533.6" y1="420.0" x2="1533.6" y2="936.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="1533.6" y="946.1">as of 30 Sep 2026</tspan></text>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837" target="_blank"><title>19 Nov 2025: Commission proposal – COM(2025) 837</title><polygon points="281.5443037974684,457.0 287.5443037974684,463.0 281.5443037974684,469.0 275.5443037974684,463.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="277.5" y="427.0" width="238.3" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="281.5" y="436.1">19 Nov 2025 · Commission proposal (COM(2025) 837)</tspan></text></a>
@@ -114,18 +114,21 @@
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929" target="_blank"><title>18 Mar 2026: EESC opinion – CELEX 52025AE3929</title><polygon points="754.5316455696203,543.0 760.5316455696203,549.0 754.5316455696203,555.0 748.5316455696203,549.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="750.5" y="525.0" width="224.2" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="754.5" y="534.1">18 Mar 2026 · EESC opinion (CELEX 52025AE3929)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8261-2026-INIT/en/pdf" target="_blank"><title>15 Apr 2026: Presidency revised compromise text – ST 8261/26</title><polygon points="865.8227848101266,801.0 871.8227848101266,807.0 865.8227848101266,813.0 859.8227848101266,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<rect x="861.8" y="823.0" width="294.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8261-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="865.8" y="832.1">15 Apr 2026 · Presidency revised compromise text (ST 8261/26)</tspan></text></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8261-2026-REV-1/en/pdf" target="_blank"><title>17 Apr 2026: Presidency revised compromise text – ST 8261/26 REV 1</title><polygon points="873.7721518987341,801.0 879.7721518987341,807.0 873.7721518987341,813.0 867.7721518987341,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="869.8" y="823.0" width="322.9" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8261-2026-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="873.8" y="832.1">17 Apr 2026 · Presidency revised compromise text (ST 8261/26 REV 1)</tspan></text></a>
+<rect x="869.8" y="835.0" width="322.9" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8261-2026-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="873.8" y="844.1">17 Apr 2026 · Presidency revised compromise text (ST 8261/26 REV 1)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240" target="_blank"><title>07 May 2026: Committee of the Regions opinion – CELEX 52025AR4240</title><polygon points="953.2658227848102,543.0 959.2658227848102,549.0 953.2658227848102,555.0 947.2658227848102,549.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="949.3" y="513.0" width="318.2" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="953.3" y="522.1">07 May 2026 · Committee of the Regions opinion (CELEX 52025AR4240)</tspan></text></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9547-2026-INIT/en/pdf" target="_blank"><title>21 May 2026: Digital Omnibus - Presidency compromise text (GDPR, e-privacy, cookies, P2B, cyber … – ST 9547/26</title><polygon points="1008.9113924050633,801.0 1014.9113924050633,807.0 1008.9113924050633,813.0 1002.9113924050633,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1004.9" y="835.0" width="529.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9547-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1008.9" y="844.1">21 May 2026 · Digital Omnibus - Presidency compromise text (GDPR, e-privacy, cookies, P2B, cyber … (ST 9547/26)</tspan></text></a>
+<rect x="1004.9" y="759.0" width="529.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9547-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1008.9" y="768.1">21 May 2026 · Digital Omnibus - Presidency compromise text (GDPR, e-privacy, cookies, P2B, cyber … (ST 9547/26)</tspan></text></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9845-2026-INIT/en/pdf" target="_blank"><title>29 May 2026: Digital Omnibus – Presidency revised compromise text (Data) – ST 9845/26</title><polygon points="1040.7088607594937,801.0 1046.7088607594937,807.0 1040.7088607594937,813.0 1034.7088607594937,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1036.7" y="759.0" width="412.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9845-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1040.7" y="768.1">29 May 2026 · Digital Omnibus – Presidency revised compromise text (Data) (ST 9845/26)</tspan></text></a>
+<rect x="1036.7" y="847.0" width="412.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9845-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1040.7" y="856.1">29 May 2026 · Digital Omnibus – Presidency revised compromise text (Data) (ST 9845/26)</tspan></text></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf" target="_blank"><title>05 Jun 2026: Omnibus simplification legislative packages - Progress report – ST 9834/26</title><polygon points="1068.5316455696202,801.0 1074.5316455696202,807.0 1068.5316455696202,813.0 1062.5316455696202,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="1064.5" y="847.0" width="421.6" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1068.5" y="856.1">05 Jun 2026 · Omnibus simplification legislative packages - Progress report (ST 9834/26)</tspan></text></a>
@@ -135,6 +138,12 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf" target="_blank"><title>12 Jun 2026: Omnibus simplification legislative packages - Progress report – ST 9834/26 REV 1</title><polygon points="1096.3544303797469,801.0 1102.3544303797469,807.0 1096.3544303797469,813.0 1090.3544303797469,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="1092.4" y="783.0" width="449.8" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1096.4" y="792.1">12 Jun 2026 · Omnibus simplification legislative packages - Progress report (ST 9834/26 REV 1)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10677-2026-INIT/en/pdf" target="_blank"><title>18 Jun 2026: Presidency revised compromise text – ST 10677/26</title><polygon points="1120.2025316455697,801.0 1126.2025316455697,807.0 1120.2025316455697,813.0 1114.2025316455697,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<rect x="1116.2" y="847.0" width="299.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10677-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1120.2" y="856.1">18 Jun 2026 · Presidency revised compromise text (ST 10677/26)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf" target="_blank"><title>22 Jun 2026: Mandate for negotiations with the European Parliament – ST 10729/26</title><polygon points="1136.1012658227849,801.0 1142.1012658227849,807.0 1136.1012658227849,813.0 1130.1012658227849,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<rect x="1132.1" y="847.0" width="388.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1136.1" y="856.1">22 Jun 2026 · Mandate for negotiations with the European Parliament (ST 10729/26)</tspan></text></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.pdf" target="_blank"><title>22 Jun 2026: CJ72 draft report – PE786.818</title><polygon points="1136.1012658227849,629.0 1142.1012658227849,635.0 1136.1012658227849,641.0 1130.1012658227849,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="1132.1" y="599.0" width="210.1" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1136.1" y="608.1">22 Jun 2026 · CJ72 draft report (PE786.818)</tspan></text></a>

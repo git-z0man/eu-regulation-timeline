@@ -1,6 +1,6 @@
 # Legislative procedure – PPA – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 26 Sep 2026.
+Procedure 2026/0265(COD), as of 30 Sep 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
 - **Council:** working party, latest document 10 Sep 2026
-- **Latest activity:** 10 Sep 2026 · Council: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public … (ST 12969/26)
+- **Latest activity:** 18 Sep 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Public Procurement Act: Proposal for a … (CM 4104/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -16,6 +16,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
 | 2026-09-09 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) · [en.md](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) | Cellar (CELEX 52026PC0590) |
+| 2026-09-18 | Council | Working Party on Competitiveness and Growth (Public Procurement): Public Procurement Act: Proposal for a … | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) | Council register, CM 4104/26 (notice of meeting and provisional agenda) |
 
 ## Public documents
 

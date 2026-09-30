@@ -1,14 +1,14 @@
 # Legislative procedure – CADA – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 26 Sep 2026.
+Procedure 2026/0138(COD), as of 30 Sep 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 17 Sep 2026
-- **Council:** working party, latest document 09 Sep 2026
-- **Latest activity:** 17 Sep 2026 · European Parliament: Referral to committee announced in plenary
+- **Council:** working party, latest document 28 Sep 2026
+- **Latest activity:** 28 Sep 2026 · Council: Opinion of the European Economic and Social Committee (EESC) (ST 13682/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -33,6 +33,7 @@ Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai
 | 2026-07-07 | [WK 10169/26](https://data.consilium.europa.eu/doc/document/WK-10169-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | – |
 | 2026-08-24 | [WK 13042/26](https://data.consilium.europa.eu/doc/document/WK-13042-2026-INIT/en/pdf) | council-note | EDPS Opinion on the Proposal for a Regulation establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development … | – |
 | 2026-09-09 | [WK 13788/26](https://data.consilium.europa.eu/doc/document/WK-13788-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | – |
+| 2026-09-28 | [ST 13682/26](https://data.consilium.europa.eu/doc/document/ST-13682-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | – |
 
 ## Texts as Markdown
 

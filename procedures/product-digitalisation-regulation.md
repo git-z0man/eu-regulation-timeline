@@ -1,13 +1,13 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)
 
-Procedure 2025/0134(COD), as of 26 Sep 2026.
+Procedure 2025/0134(COD), as of 30 Sep 2026.
 Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulation.svg), [product-digitalisation-regulation.pdf](product-digitalisation-regulation.pdf) · Web page: [product-digitalisation-regulation.html](product-digitalisation-regulation.html)
 
 ## Status and next steps
 
 - **Stage:** Provisional agreement (last trilogue 09 Jun 2026)
 - **Parliament:** mandate 11 Mar 2026
-- **Council:** mandate (ST 13018/25 of 19 Sep 2025)
+- **Council:** mandate (ST 13232/25 of 26 Sep 2025)
 - **Latest activity:** 14 Jul 2026 · European Parliament: Committee approves provisional agreement (PE790.900)
 - **Next steps:** 23 Nov 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP plenary vote on the agreed text (Art. 294(3) TFEU), then Council adoption (Art. 294(4) TFEU), with legal-linguistic revision before or after the vote
 
@@ -21,6 +21,7 @@ Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulati
 | 2025-09-05 | Council | Revised Presidency compromise text | [ST 12523/25](https://data.consilium.europa.eu/doc/document/ST-12523-2025-INIT/en/pdf) · [en.md](../texts/product-digitalisation-regulation/2025-09-05_council-compromise-st-12523-25.en.md) | Cellar procedure file 2025/134 (Council register) |
 | 2025-09-18 | Consultative bodies | EESC opinion | [CELEX 52025AE1910](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE1910) | Cellar procedure file 2025/134 |
 | 2025-09-19 | Council | Mandate for negotiations with the European Parliament | [ST 13018/25](https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf) · [en.md](../texts/product-digitalisation-regulation/2025-09-19_council-position-st-13018-25.en.md) | Cellar procedure file 2025/134 (Council register) |
+| 2025-09-26 | Council | Mandate for negotiations with the European Parliament | [ST 13232/25](https://data.consilium.europa.eu/doc/document/ST-13232-2025-INIT/en/pdf) | Parliament of Austria, EU database (interinstitutional file 2025/0134(COD)) |
 | 2025-10-02 | European Parliament | IMCO rapporteur appointed (Reinier Van Lanschot, VERTS-ALE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0134%28COD%29) | EP Open Data API, procedure 2025-0134 (participation RAPPORTEUR) |
 | 2025-10-13 | Council | Omnibus simplification legislative packages - Progress report | [ST 13787/25](https://data.consilium.europa.eu/doc/document/ST-13787-2025-INIT/en/pdf) · [en.md](../texts/product-digitalisation-regulation/2025-10-13_council-progress-report-st-13787-25.en.md) [de.md](../texts/product-digitalisation-regulation/2025-10-13_council-progress-report-st-13787-25.de.md) | Cellar procedure file 2025/134 (Council register) |
 | 2025-12-03 | European Parliament | ENVI opinion adopted | [PE778.344](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-778344/ENVI-AD-778344_en.pdf) | EP Open Data API, procedure 2025-0134 (COMMITTEE_ADOPTING_OPINION) |
@@ -34,6 +35,9 @@ Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulati
 | 2026-06-05 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) · [en.md](../texts/product-digitalisation-regulation/2026-06-05_council-progress-report-st-9834-26.en.md) | Cellar procedure file 2025/134 (Council register) |
 | 2026-06-09 | Trilogues (informal) | Trilogue | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0134%28COD%29) | EP Open Data API, procedure 2025-0134 (INTERINSTITUTIONAL_NEGOTIATION) |
 | 2026-06-12 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) · [en.md](../texts/product-digitalisation-regulation/2026-06-12_council-progress-report-st-9834-26-rev-1.en.md) [de.md](../texts/product-digitalisation-regulation/2026-06-12_council-progress-report-st-9834-26-rev-1.de.md) | Cellar procedure file 2025/134 (Council register) |
+| 2026-06-18 | Council | Confirmation of the final compromise text with a view to agreement | [ST 10482/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-1/en/pdf) | Council register document ST 10482/26 REV 1 (interinstitutional files 2025/0130(COD), 2025/0131(COD), 2025/0133(COD), 2025/0134(COD)); Cellar links it to procedure 2025/0133(COD) only |
+| 2026-06-19 | Council | Analysis of the final compromise text with a view to agreement | [ST 10482/26](https://data.consilium.europa.eu/doc/document/ST-10482-2026-INIT/en/pdf) | Council register document ST 10482/26 (interinstitutional files 2025/0130(COD), 2025/0131(COD), 2025/0133(COD), 2025/0134(COD)); Cellar links it to procedure 2025/0133(COD) only |
+| 2026-06-23 | Council | Final compromise text | [ST 10482/26 ADD 2 REV 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf) | Parliament of Austria, EU database (interinstitutional file 2025/0134(COD)) |
 | 2026-06-24 | Council | Confirmation of the final compromise text with a view to agreement | [ST 10482/26 REV 2](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) · [en.md](../texts/product-digitalisation-regulation/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | Council register document ST 10482/26 REV 2 (interinstitutional files 2025/0130(COD), 2025/0131(COD), 2025/0133(COD), 2025/0134(COD)); Cellar links it to procedure 2025/0133(COD) only |
 | 2026-07-14 | European Parliament | Committee approves provisional agreement | [PE790.900](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790900/IMCO-AG-790900_en.pdf) · [en.md](../texts/product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) | EP Open Data API, procedure 2025-0134 (COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT) |
 
@@ -59,6 +63,7 @@ Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulati
 | 2025-09-09 | [WK 11239/25](https://data.consilium.europa.eu/doc/document/WK-11239-2025-INIT/en/pdf) | council-note | Digitalisation & common specifications + SMC - MS compiled comments | – |
 | 2025-09-18 | [CELEX 52025AE1910](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE1910) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) … | – |
 | 2025-09-19 | [ST 13018/25](https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | [en](../texts/product-digitalisation-regulation/2025-09-19_council-position-st-13018-25.en.md) |
+| 2025-09-26 | [ST 13232/25](https://data.consilium.europa.eu/doc/document/ST-13232-2025-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
 | 2025-10-13 | [ST 13787/25](https://data.consilium.europa.eu/doc/document/ST-13787-2025-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | [en](../texts/product-digitalisation-regulation/2025-10-13_council-progress-report-st-13787-25.en.md) [de](../texts/product-digitalisation-regulation/2025-10-13_council-progress-report-st-13787-25.de.md) |
 | 2025-12-04 | [ST 16131/25 REV 1](https://data.consilium.europa.eu/doc/document/ST-16131-2025-REV-1/en/pdf) | council-note | Simplification a) 2025 Annual Overview Report b) Annual Progress Reports - Presentation by the Commission - Exchange of views | – |
 | 2025-12-16 | [PE778.344](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-778344/ENVI-AD-778344_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, … | – |
@@ -66,12 +71,23 @@ Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulati
 | 2026-02-17 | [A10-0024/2026](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0024/A-10-2026-0024_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) … | [en](../texts/product-digitalisation-regulation/2026-02-17_ep-report-a10-0024-2026.en.md) [de](../texts/product-digitalisation-regulation/2026-02-17_ep-report-a10-0024-2026.de.md) |
 | 2026-03-12 | [ST 7242/26](https://data.consilium.europa.eu/doc/document/ST-7242-2026-INIT/en/pdf) | trilogue | 4-column table | [en](../texts/product-digitalisation-regulation/2026-03-12_trilogue-st-7242-26.en.md) |
 | 2026-03-27 | [WK 4718/26](https://data.consilium.europa.eu/doc/document/WK-4718-2026-INIT/en/pdf) | council-note | Digitalisation and common specifications | – |
+| 2026-04-10 | [WK 5088/26](https://data.consilium.europa.eu/doc/document/WK-5088-2026-INIT/en/pdf) | council-note | Compilation of Member States comments | – |
 | 2026-04-23 | [WK 5778/26](https://data.consilium.europa.eu/doc/document/WK-5778-2026-INIT/en/pdf) | council-compromise | Presidency compromise - AGS on 27 April 2026 | [en](../texts/product-digitalisation-regulation/2026-04-23_council-compromise-wk-5778-26.en.md) |
 | 2026-05-26 | [WK 7383/26](https://data.consilium.europa.eu/doc/document/WK-7383-2026-INIT/en/pdf) | agreed-text | Presidency provisional agreement on Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 765/2008, (EU) … | [en](../texts/product-digitalisation-regulation/2026-05-26_agreed-text-wk-7383-26.en.md) |
+| 2026-05-29 | [ST 9863/26](https://data.consilium.europa.eu/doc/document/ST-9863-2026-INIT/en/pdf) | council-note | Preparation for the trilogue | – |
 | 2026-06-05 | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | [en](../texts/product-digitalisation-regulation/2026-06-05_council-progress-report-st-9834-26.en.md) |
 | 2026-06-12 | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | [en](../texts/product-digitalisation-regulation/2026-06-12_council-progress-report-st-9834-26-rev-1.en.md) [de](../texts/product-digitalisation-regulation/2026-06-12_council-progress-report-st-9834-26-rev-1.de.md) |
+| 2026-06-18 | [ST 10482/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-1/en/pdf) | agreed-text | Final compromise text | – |
+| 2026-06-18 | [ST 10482/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2/en/pdf) | agreed-text | Final compromise text | – |
+| 2026-06-18 | [ST 10482/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-3/en/pdf) | agreed-text | Final compromise text | – |
+| 2026-06-18 | [ST 10482/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-4/en/pdf) | agreed-text | Final compromise text | – |
+| 2026-06-18 | [ST 10482/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-5/en/pdf) | agreed-text | Draft Council statement | – |
+| 2026-06-18 | [ST 10482/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-1/en/pdf) | agreed-text | Confirmation of the final compromise text with a view to agreement | – |
+| 2026-06-19 | [ST 10482/26](https://data.consilium.europa.eu/doc/document/ST-10482-2026-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | – |
+| 2026-06-23 | [ST 10482/26 ADD 2 REV 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf) | agreed-text | Final compromise text | – |
 | 2026-06-24 | [ST 10482/26 REV 2](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | [en](../texts/product-digitalisation-regulation/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) |
 | 2026-06-26 | [PE790.900](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790900/IMCO-AG-790900_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council amending … | [en](../texts/product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) |
+| 2026-06-26 | [ST 10980/26](https://data.consilium.europa.eu/doc/document/ST-10980-2026-INIT/en/pdf) | council-note | Offer letter to the European Parliament | – |
 
 ## Texts as Markdown
 

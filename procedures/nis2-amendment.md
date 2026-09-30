@@ -1,6 +1,6 @@
 # Legislative procedure – NIS-2 amendment – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 26 Sep 2026.
+Procedure 2026/0012(COD), as of 30 Sep 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -34,7 +34,9 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 | 2026-01-22 | [ST 5627/26](https://data.consilium.europa.eu/doc/document/ST-5627-2026-INIT/en/pdf) | council-transmission | Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive (EU) 2022/2555 as regards simplification measures and alignment with … | – |
 | 2026-01-22 | [ST 5627/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-5627-2026-ADD-1/en/pdf) | council-transmission | ANNEX to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive (EU) 2022/2555 as regards simplification measures and … | – |
 | 2026-02-17 | [ST 5611/26 ADD 3 REV 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3-REV-1/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review | – |
+| 2026-03-19 | [ST 7519/26](https://data.consilium.europa.eu/doc/document/ST-7519-2026-INIT/en/pdf) | council-note | Joint opinion of the European Data Protection Board and European Data Protection Supervisor | – |
 | 2026-04-29 | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency … | – |
+| 2026-05-06 | [ST 8980/26](https://data.consilium.europa.eu/doc/document/ST-8980-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee | – |
 | 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report | [en](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) |
 | 2026-09-24 | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures … | [en](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) |
 

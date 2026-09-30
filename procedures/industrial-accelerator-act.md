@@ -1,6 +1,6 @@
 # Legislative procedure – IAA – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 26 Sep 2026.
+Procedure 2026/0068(COD), as of 30 Sep 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -16,6 +16,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
 | 2026-03-04 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 100](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) · [en.md](../texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) [de.md](../texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | Cellar (CELEX 52026PC0100) |
+| 2026-03-27 | Council | Working Party on Competitiveness and Growth (Public Procurement): 6. Industrial Accelerator Act (IAA): … | [CM 2064/26](https://data.consilium.europa.eu/doc/document/CM-2064-2026-INIT/en/pdf) | Council register, CM 2064/26 (notice of meeting and provisional agenda) |
 | 2026-04-29 | European Parliament | IMCO rapporteur appointed (Pierre Jouvet, S-D) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
 | 2026-04-29 | European Parliament | INTA rapporteur appointed (Anna Cavazzini, VERTS-ALE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
 | 2026-04-29 | European Parliament | ITRE rapporteur appointed (Christophe Grudler, RENEW) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (participation RAPPORTEUR) |
@@ -41,7 +42,11 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | 2026-03-24 | [WK 4405/26](https://data.consilium.europa.eu/doc/document/WK-4405-2026-INIT/en/pdf) | council-note | Presentation by the European Commission : Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework of measures for the … | – |
 | 2026-03-30 | [WK 4861/26](https://data.consilium.europa.eu/doc/document/WK-4861-2026-INIT/en/pdf) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 16 April 2026 | – |
 | 2026-04-24 | [WK 5907/26](https://data.consilium.europa.eu/doc/document/WK-5907-2026-INIT/en/pdf) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 27 and 28 April 2026 | – |
+| 2026-04-28 | [WK 5952/26](https://data.consilium.europa.eu/doc/document/WK-5952-2026-INIT/en/pdf) | council-note | Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of industrial capacity and … | – |
+| 2026-04-30 | [ST 8704/26](https://data.consilium.europa.eu/doc/document/ST-8704-2026-INIT/en/pdf) | council-note | Optional consultation of the Committee of the Regions | – |
+| 2026-05-08 | [ST 9116/26](https://data.consilium.europa.eu/doc/document/ST-9116-2026-INIT/en/pdf) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 28 May 2026 Industrial Accelerator Act: how best to leverage … | – |
 | 2026-05-11 | [WK 6637/26](https://data.consilium.europa.eu/doc/document/WK-6637-2026-INIT/en/pdf) | council-note | Presentations by the European Commission : New European Bauhaus: from vision to implementation (agenda item 2) Working Party on Competitiveness and Growth … | – |
+| 2026-05-11 | [WK 6649/26](https://data.consilium.europa.eu/doc/document/WK-6649-2026-INIT/en/pdf) | council-note | Correlation table | – |
 | 2026-05-13 | [ST 9116/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9116-2026-REV-1/en/pdf) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 28 May 2026 Industrial Accelerator Act: how best to leverage … | – |
 | 2026-05-19 | [WK 6968/26](https://data.consilium.europa.eu/doc/document/WK-6968-2026-INIT/en/pdf) | council-note | Regulation for Industrial Accelerator Act - European Commission replies to MS questions : Chapters I, II | – |
 | 2026-05-19 | [WK 6969/26](https://data.consilium.europa.eu/doc/document/WK-6969-2026-INIT/en/pdf) | council-note | Regulation for Industrial Accelerator Act - European Commission replies to MS questions : Chapter V | – |
