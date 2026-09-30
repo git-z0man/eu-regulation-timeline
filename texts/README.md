@@ -297,6 +297,7 @@ All texts of this act as one file: [digital-omnibus-ai.zip](downloads/digital-om
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-11-19_com-proposal | com-proposal | 52025PC0836 | [en](digital-omnibus-ai/2025-11-19_com-proposal.en.md) | [de](digital-omnibus-ai/2025-11-19_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2025-11-19_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025PC0836) |
 | 2026-07-24_oj | oj | 32026R1744 | [en](digital-omnibus-ai/2026-07-24_oj.en.md) | [de](digital-omnibus-ai/2026-07-24_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744) |
+| 2026-09-29_corrigendum-01 | corrigendum | 32026R1744R(01) | – | [de](digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)) |
 
 ## EHDS
 

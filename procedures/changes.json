@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "date": "2026-09-30",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18283 – Artificial Intelligence - Concepts, measures and requirements for managing bias in AI syst: Under Approval",
+   "doc": "prEN 18283",
+   "page": "ai-act.html"
+  },
+  {
    "date": "2026-09-29",
    "title": "CRA",
    "actor": "CYBER EUSR",
@@ -47,14 +55,6 @@
    "label": "ITRE draft report",
    "doc": "PE792.221",
    "page": "nis2-amendment.html"
-  },
-  {
-   "date": "2026-09-24",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18283 – Artificial Intelligence - Concepts, measures and requirements for managing bias in AI syst: Under Approval",
-   "doc": "prEN 18283",
-   "page": "ai-act.html"
   },
   {
    "date": "2026-09-23",
