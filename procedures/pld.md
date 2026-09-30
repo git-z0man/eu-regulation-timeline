@@ -28,18 +28,35 @@ Drawing: [pld.svg](pld.svg), [pld.pdf](pld.pdf) · Web page: [pld.html](pld.html
 | 2024-10-23 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0302%28COD%29) | EP Open Data API, procedure 2022-0302 (SIGNATURE) |
 | 2024-11-18 | Signature and publication | Published in the Official Journal | [CELEX 32024L2853](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853) · [en.md](../texts/pld/2024-11-18_oj.en.md) [de.md](../texts/pld/2024-11-18_oj.de.md) | EP Open Data API, procedure 2022-0302 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2023-01-24 | [CELEX 52022AE4922](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4922) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a directive of the European Parliament and of the Council on liability for defective … | – |
-| 2023-04-05 | [PE745.537](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ24-PR-745537/CJ24-PR-745537_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council on Liability for defective products | – |
-| 2023-06-15 | [ST 10694/23](https://data.consilium.europa.eu/doc/document/ST-10694-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
-| 2023-10-12 | [A9-0291/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0291/A-9-2023-0291_en.pdf) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on liability for defective products | – |
-| 2024-01-18 | [ST 5551/24](https://data.consilium.europa.eu/doc/document/ST-5551-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | – |
-| 2024-01-18 | [ST 5553/24](https://data.consilium.europa.eu/doc/document/ST-5553-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | – |
-| 2024-01-24 | [PE758.731](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ24-AG-758731/CJ24-AG-758731_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a directive of the European Parliament and of the Council on Liability for … | – |
-| 2024-03-12 | [P9_TA(2024)0132](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0132_en.pdf) | ep-position | Liability for defective products | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2022-10-04 | ST 13134/22 | council-transmission | Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on liability for defective products | public status unknown | – |
+| 2022-10-04 | ST 13134/22 ADD 1 | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document Proposal for a Directive of the European Parliament and of the Council on … | public status unknown | – |
+| 2022-10-04 | ST 13134/22 ADD 2 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Directive of the European Parliament and of the Council on … | public status unknown | – |
+| 2022-10-04 | ST 13134/22 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Directive of the European … | public status unknown | – |
+| 2022-10-04 | ST 13134/22 ADD 4 | council-transmission | REGULATORY SCRUTINY BOARD OPINION Impact assessment / Product Liability Directive | public status unknown | – |
+| 2023-01-24 | [CELEX 52022AE4922](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4922) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a directive of the European Parliament and of the Council on liability for defective … | public | – |
+| 2023-02-01 | ST 5905/23 | council-transmission | Opinion of the European Economic and Social Committee | public status unknown | – |
+| 2023-03-27 | ST 13134/22 ADD 5 | council-transmission | ANNEX to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on liability for defective products | public status unknown | – |
+| 2023-04-05 | [PE745.537](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ24-PR-745537/CJ24-PR-745537_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council on Liability for defective products | public | – |
+| 2023-06-15 | [ST 10694/23](https://data.consilium.europa.eu/doc/document/ST-10694-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – |
+| 2023-10-12 | [A9-0291/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0291/A-9-2023-0291_en.pdf) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on liability for defective products | public | – |
+| 2023-11-14 | ST 14178/23 COR 1 | council-note | Opinion of the EDPS | public status unknown | – |
+| 2024-01-18 | [ST 5551/24](https://data.consilium.europa.eu/doc/document/ST-5551-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | public | – |
+| 2024-01-18 | [ST 5553/24](https://data.consilium.europa.eu/doc/document/ST-5553-2024-INIT/en/pdf) | council-confirmation | Confirmation of the final compromise text with a view to agreement | public | – |
+| 2024-01-24 | [PE758.731](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ24-AG-758731/CJ24-AG-758731_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a directive of the European Parliament and of the Council on Liability for … | public | – |
+| 2024-01-24 | ST 5809/24 | council-note | Letter sent to the European Parliament | public status unknown | – |
+| 2024-03-12 | [P9_TA(2024)0132](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0132_en.pdf) | ep-position | Liability for defective products | public | – |
+| 2024-04-18 | PE 7/24 | council-note | DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on liability for defective products and repealing Council Directive 85/374/EEC | public status unknown | – |
+| 2024-06-18 | ST 10078/24 | council-note | Proposals under the ordinary legislative procedure expected to undergo the Corrigendum Procedure in the European Parliament (part I) | public status unknown | – |
+| 2024-09-27 | ST 13760/24 | council-note | Draft DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on liability for defective products and repealing Council Directive 85/374/EEC (first reading) - … | public status unknown | – |
+| 2024-09-27 | ST 13760/24 ADD 1 | council-note | Draft DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on liability for defective products and repealing Council Directive 85/374/EEC (first reading) - … | public status unknown | – |
+| 2024-10-10 | ST 14358/24 | council-note | Voting result DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on liability for defective products and repealing Council Directive 85/374/EEC Adoption … | public status unknown | – |
+| 2024-10-24 | PE 7/24 REV 1 | council-note | DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON LIABILITY FOR DEFECTIVE PRODUCTS AND REPEALING COUNCIL DIRECTIVE 85/374/EEC | public status unknown | – |
 
 ## Texts as Markdown
 
@@ -60,4 +77,4 @@ Expert group E03995, GROW.
 
 No meetings listed.
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

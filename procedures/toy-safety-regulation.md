@@ -38,24 +38,45 @@ Drawing: [toy-safety-regulation.svg](toy-safety-regulation.svg), [toy-safety-reg
 | 2025-11-26 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0290%28COD%29) | EP Open Data API, procedure 2023-0290 (SIGNATURE) |
 | 2025-12-12 | Signature and publication | Published in the Official Journal | [CELEX 32025R2509](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509) · [en.md](../texts/toy-safety-regulation/2025-12-12_oj.en.md) [de.md](../texts/toy-safety-regulation/2025-12-12_oj.de.md) | EP Open Data API, procedure 2023-0290 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2023-11-08 | [PE754.649](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/IMCO-PR-754649/IMCO-PR-754649_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the safety of toys and repealing Directive 2009/48/EC | – |
-| 2023-12-13 | [CELEX 52023AE3708](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023AE3708) | opinion | Opinion of the European Economic and Social Committee on the ‘Proposal for a regulation of the European Parliament and of the Council on the safety of toys and … | – |
-| 2024-02-12 | [PE758.211](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-758211/ENVI-AD-758211_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council Safety of toys and repealing Directive 2009/48/EC | – |
-| 2024-02-20 | [A9-0044/2024](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2024-0044/A-9-2024-0044_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on the safety of toys and repealing Directive 2009/48/EC | – |
-| 2024-03-13 | [P9_TA(2024)0144](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0144_en.pdf) | ep-position | Safety of toys and repealing Directive 2009/48/EC | – |
-| 2024-05-08 | [ST 9740/24](https://data.consilium.europa.eu/doc/document/ST-9740-2024-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
-| 2024-05-15 | [ST 9740/24 REV 1](https://data.consilium.europa.eu/doc/document/ST-9740-2024-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
-| 2025-05-16 | [WK 5658/25 REV 1](https://data.consilium.europa.eu/doc/document/WK-5658-2025-REV-1/en/pdf) | council-text | Proposal for a Regulation on the safety of toys: 4-column document | – |
-| 2025-06-04 | [ST 9290/25](https://data.consilium.europa.eu/doc/document/ST-9290-2025-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | – |
-| 2025-06-11 | [PE774.604](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-774604/IMCO-AG-774604_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council on the safety of … | – |
-| 2025-06-11 | [ST 10091/25](https://data.consilium.europa.eu/doc/document/ST-10091-2025-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | – |
-| 2025-11-03 | [PE779.456](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/IMCO-PR-779456/IMCO-PR-779456_en.pdf) | ep-draft-report | DRAFT RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of … | – |
-| 2025-11-12 | [A10-0227/2025](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2025-0227/A-10-2025-0227_en.pdf) | ep-report | RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the … | – |
-| 2025-11-25 | [P10_TA(2025)0279](https://data.europarl.europa.eu/distribution/doc/TA-10-2025-0279_en.pdf) | ep-position | Safety of toys and repealing Directive 2009/48/EC | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2023-07-28 | ST 12234/23 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and repealing Directive 2009/48/EC | public status unknown | – |
+| 2023-07-28 | ST 12234/23 ADD 1 | council-transmission | ANNEXES to the PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and repealing Directive 2009/48/EC | public status unknown | – |
+| 2023-07-28 | ST 12234/23 ADD 2 | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the … | public status unknown | – |
+| 2023-07-28 | ST 12234/23 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public status unknown | – |
+| 2023-07-28 | ST 12234/23 ADD 4 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN … | public status unknown | – |
+| 2023-07-28 | ST 12234/23 ADD 5 | council-transmission | REGULATORY SCRUTINY BOARD OPINION on the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and repealing Directive … | public status unknown | – |
+| 2023-11-08 | [PE754.649](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/IMCO-PR-754649/IMCO-PR-754649_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the safety of toys and repealing Directive 2009/48/EC | public | – |
+| 2023-12-01 | ST 16319/23 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2023-12-08 | ST 16578/23 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2023-12-13 | [CELEX 52023AE3708](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023AE3708) | opinion | Opinion of the European Economic and Social Committee on the ‘Proposal for a regulation of the European Parliament and of the Council on the safety of toys and … | public | – |
+| 2023-12-21 | ST 17090/23 | council-transmission | Opinion of the European Economic and Social Committee on the Proposal for a regulation of the European Parliament and of the Council on the safety of toys and … | public status unknown | – |
+| 2024-02-12 | [PE758.211](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-758211/ENVI-AD-758211_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council Safety of toys and repealing Directive 2009/48/EC | public | – |
+| 2024-02-20 | [A9-0044/2024](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2024-0044/A-9-2024-0044_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on the safety of toys and repealing Directive 2009/48/EC | public | – |
+| 2024-03-13 | [P9_TA(2024)0144](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0144_en.pdf) | ep-position | Safety of toys and repealing Directive 2009/48/EC | public | – |
+| 2024-05-08 | [ST 9740/24](https://data.consilium.europa.eu/doc/document/ST-9740-2024-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – |
+| 2024-05-15 | [ST 9740/24 REV 1](https://data.consilium.europa.eu/doc/document/ST-9740-2024-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – |
+| 2024-07-03 | ST 10599/24 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 11 to 14 March 2024) | public status unknown | – |
+| 2025-03-10 | ST 6755/25 | council-note | Preparation for the trilogue | public status unknown | – |
+| 2025-03-28 | ST 7481/25 | council-note | Preparation for the trilogue | public status unknown | – |
+| 2025-04-03 | ST 7481/25 COR 1 | council-note | Preparation for the trilogue | public status unknown | – |
+| 2025-05-13 | WK 6266/25 | council-note | Presidency flash : Working Party on Technical Harmonisation (Dangerous Substances/Chemicals - Safety of Toys) on 20 May 2025 | public status unknown | – |
+| 2025-05-16 | [WK 5658/25 REV 1](https://data.consilium.europa.eu/doc/document/WK-5658-2025-REV-1/en/pdf) | council-text | Proposal for a Regulation on the safety of toys: 4-column document | public | – |
+| 2025-06-04 | [ST 9290/25](https://data.consilium.europa.eu/doc/document/ST-9290-2025-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – |
+| 2025-06-11 | [PE774.604](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-774604/IMCO-AG-774604_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council on the safety of … | public | – |
+| 2025-06-11 | [ST 10091/25](https://data.consilium.europa.eu/doc/document/ST-10091-2025-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – |
+| 2025-09-29 | ST 9663/25 | council-note | Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and … | public status unknown | – |
+| 2025-10-01 | ST 9663/25 ADD 1 | council-note | Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and … | public status unknown | – |
+| 2025-10-03 | ST 9663/25 ADD 1 COR 1 | council-note | Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and … | public status unknown | – |
+| 2025-10-13 | ST 9663/25 REV 1 | council-note | Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and … | public status unknown | – |
+| 2025-10-15 | ST 9663/25 REV 1 ADD 1 | council-note | Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the safety of toys and … | public status unknown | – |
+| 2025-11-03 | [PE779.456](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/IMCO-PR-779456/IMCO-PR-779456_en.pdf) | ep-draft-report | DRAFT RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of … | public | – |
+| 2025-11-12 | [A10-0227/2025](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2025-0227/A-10-2025-0227_en.pdf) | ep-report | RECOMMENDATION FOR SECOND READING on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the … | public | – |
+| 2025-11-25 | [P10_TA(2025)0279](https://data.europarl.europa.eu/distribution/doc/TA-10-2025-0279_en.pdf) | ep-position | Safety of toys and repealing Directive 2009/48/EC | public | – |
 
 ## Texts as Markdown
 
@@ -125,4 +146,4 @@ Expert group E01360, GROW.
 | 2025-10-07 | Expert group on Toys Safety | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122090/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122091/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127516/download) |
 | 2024-10-01 | Expert Group on Toys Safety | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115281/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115263/download) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

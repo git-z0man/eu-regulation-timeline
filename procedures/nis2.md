@@ -22,15 +22,38 @@ Drawing: [nis2.svg](nis2.svg), [nis2.pdf](nis2.pdf) · Web page: [nis2.html](nis
 | 2022-12-14 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0359%28COD%29) | EP Open Data API, procedure 2020-0359 (SIGNATURE) |
 | 2022-12-27 | Signature and publication | Published in the Official Journal | [CELEX 32022L2555](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555) · [en.md](../texts/nis2/2022-12-27_oj.en.md) [de.md](../texts/nis2/2022-12-27_oj.de.md) | EP Open Data API, procedure 2020-0359 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2021-01-11 | [ST 14150/20 ADD 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14150-2020-ADD-1-COR-1/en/pdf) | council-text | ANNEXES to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, … | – |
-| 2021-04-27 | [CELEX 52020AE5749](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020AE5749) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Directive of the European Parliament and of the Council on measures for a high common … | – |
-| 2021-11-04 | [A9-0313/2021](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2021-0313/A-9-2021-0313_en.pdf) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on measures for a high common level of cybersecurity across the Union, … | – |
-| 2021-11-26 | [ST 14337/21](https://data.consilium.europa.eu/doc/document/ST-14337-2021-INIT/en/pdf) | council-position | General Approach | – |
-| 2022-01-11 | [ST 5163/22](https://data.consilium.europa.eu/doc/document/ST-5163-2022-INIT/en/pdf) | trilogue | Four-column document | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2020-12-17 | ST 14150/20 | council-transmission | Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, repealing … | public status unknown | – |
+| 2020-12-17 | ST 14150/20 ADD 1 | council-transmission | ANNEXES to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, … | public status unknown | – |
+| 2020-12-18 | ST 14150/20 ADD 2 | council-transmission | REGULATORY SCRUTINY BOARD OPINION: Proposal for a Directive of the European Parliament and of the Council on measures for a high common level of cybersecurity … | public status unknown | – |
+| 2020-12-18 | ST 14150/20 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT: EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Directive of the European … | public status unknown | – |
+| 2020-12-18 | ST 14150/20 ADD 4 | council-transmission | COMMISSION STAFF WORKING DOCUMENT: IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Directive of the European Parliament and of the Council on … | public status unknown | – |
+| 2020-12-18 | ST 14150/20 ADD 5 | council-transmission | COMMISSION STAFF WORKING DOCUMENT: IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Directive of the European Parliament and of the Council on … | public status unknown | – |
+| 2020-12-18 | ST 14150/20 ADD 6 | council-transmission | COMMISSION STAFF WORKING DOCUMENT: IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Directive of the European Parliament and of the Council on … | public status unknown | – |
+| 2021-01-11 | [ST 14150/20 ADD 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14150-2020-ADD-1-COR-1/en/pdf) | council-text | ANNEXES to the Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, … | public | – |
+| 2021-02-01 | ST 5573/21 | council-note | Optional consultation of the Committee of the Regions | public status unknown | – |
+| 2021-03-19 | ST 7183/21 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2021-03-22 | ST 7183/21 COR 1 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2021-03-25 | ST 7278/21 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2021-04-27 | [CELEX 52020AE5749](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020AE5749) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Directive of the European Parliament and of the Council on measures for a high common … | public | – |
+| 2021-06-28 | ST 10236/21 | council-transmission | Summary of the feedback received on the adopted proposal | public status unknown | – |
+| 2021-11-04 | [A9-0313/2021](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2021-0313/A-9-2021-0313_en.pdf) | ep-report | REPORT on the proposal for a directive of the European Parliament and of the Council on measures for a high common level of cybersecurity across the Union, … | public | – |
+| 2021-11-26 | [ST 14337/21](https://data.consilium.europa.eu/doc/document/ST-14337-2021-INIT/en/pdf) | council-position | General Approach | public | – |
+| 2022-01-11 | [ST 5163/22](https://data.consilium.europa.eu/doc/document/ST-5163-2022-INIT/en/pdf) | trilogue | Four-column document | public | – |
+| 2022-04-20 | ST 8240/22 | council-transmission | Opinion of the European Central Bank of 11 April 2022 | public status unknown | – |
+| 2022-11-11 | ST 14617/22 | council-note | Outcome of the European Parliament's first reading (Brussels, 9 to 10 November 2022) | public status unknown | – |
+| 2022-11-17 | PE 32/22 | council-note | DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No … | public status unknown | – |
+| 2022-11-18 | ST 14828/22 | council-note | Draft DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) … | public status unknown | – |
+| 2022-11-22 | PE 32/22 REV 1 | council-note | – | public status unknown | – |
+| 2022-11-22 | ST 14828/22 REV 1 | council-note | Draft DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) … | public status unknown | – |
+| 2022-11-22 | ST 14828/22 REV 1 ADD 1 | council-note | Draft DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) … | public status unknown | – |
+| 2022-11-29 | ST 15412/22 | council-note | Voting result DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on measures for a high common level of cybersecurity across the Union, amending … | public status unknown | – |
+| 2022-12-15 | PE 32/22 REV 2 | council-note | DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON MEASURES FOR A HIGH COMMON LEVEL OF CYBERSECURITY ACROSS THE UNION, AMENDING REGULATION (EU) NO … | public status unknown | – |
 
 ## Texts as Markdown
 
@@ -55,4 +78,4 @@ Comitology committee C127400, CNECT; examination procedure (Art. 5, 6 and 7 of R
 | 2024-09-09 | [2nd Cybersecurity Commitology](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1540/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/099646/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/100864/1/consult) |
 | 2024-07-11 | [1st Cybersecurity Commitee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1186/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/098443/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/099645/1/consult) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

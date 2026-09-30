@@ -47,4 +47,112 @@ Expert group E03587, GROW.
 | 2024-11-28 | COM Expert Group on Radio Equipment | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/110069/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/118765/download) |
 | 2024-06-20 | COM Expert Group on Radio Equipment | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/105560/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/112860/download) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+## Council working parties
+
+Council working parties examine the Commission's proposals in the ordinary legislative procedure and prepare the Council's position (Coreper, Council). Meetings on acts under negotiation, as announced in the Council's public agendas (notice of meeting and provisional agenda, CM documents, read by tools/negotiations.py); the documents discussed there are often not public.
+
+### Horizontal Working Party on Cyber Issues
+
+22 meetings on acts in this repository.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-09-28 | [CSA2](csa2.md) | Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) |
+| 2026-09-21 | [CSA2](csa2.md) | Title II (ENISA) – Presentation and discussion (WK 13671/26) | [CM 4178/26](https://data.consilium.europa.eu/doc/document/CM-4178-2026-INIT/en/pdf) |
+| 2026-09-14 | [CSA2](csa2.md) | Title III (Certification) – Presentation and discussion (WK 11263/26) | [CM 3971/26](https://data.consilium.europa.eu/doc/document/CM-3971-2026-INIT/en/pdf) |
+| 2026-09-10 | [CSA2](csa2.md) | Cyber posture – Presentation by the Commission and discussion | [CM 3845/26](https://data.consilium.europa.eu/doc/document/CM-3845-2026-INIT/en/pdf) |
+| 2026-09-07 | [CSA2](csa2.md) | Interplay between CADA and CSA21 – Presentation by the Commission and discussion | [CM 3831/26](https://data.consilium.europa.eu/doc/document/CM-3831-2026-INIT/en/pdf) |
+| 2026-09-07 | [CSA2](csa2.md) | Title IV Security of ICT Supply Chains – Discussion on Presidency guiding questions | [CM 3831/26](https://data.consilium.europa.eu/doc/document/CM-3831-2026-INIT/en/pdf) |
+| 2026-07-20 | [CSA2](csa2.md) | Presentation of the Presidency plans regarding Title IV (Security of ICT Supply Chains) | [CM 3558/26](https://data.consilium.europa.eu/doc/document/CM-3558-2026-INIT/en/pdf) |
+| 2026-07-13 | [CSA2](csa2.md) | Discussion of the Presidency compromise text regarding Title III (“European Cybersecurity Certification Framework”, Article 71-97) (WK 7571/26) | [CM 3553/26](https://data.consilium.europa.eu/doc/document/CM-3553-2026-INIT/en/pdf) |
+| 2026-07-06 | [CSA2](csa2.md) | Discussion of the Presidency compromise text regarding Title II (“The European Agency for Cybersecurity”, Articles 3-70) WK 7571/2026 | [CM 3480/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3480-2026-REV-1/en/pdf) |
+| 2026-06-01 | [CSA2](csa2.md) | Presentation and discussion of the compromise text (doc. to be issued) | [CM 2973/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-2973-2026-REV-1/en/pdf) |
+| 2026-05-28 (attachés) | [NIS-2 amendment](nis2-amendment.md) | Examination of the Proposal (5627/26 + ADD 1) | [CM 2950/26](https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf) |
+| 2026-05-18 | [CSA2](csa2.md) | Examination of the proposal: remaining Articles and Annexes – Draft Progress report: Presentation by the Presidency (to be issued) (5611/26 + ADD 1, 9121/26) | [CM 2801/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-2801-2026-REV-1/en/pdf) |
+| 2026-05-11 | [CSA2](csa2.md) | Discussion on Articles 46 and 47 Examination of the proposal (Articles 110 – 122) 1 doc. (5611/26) | [CM 2746/26](https://data.consilium.europa.eu/doc/document/CM-2746-2026-INIT/en/pdf) |
+| 2026-05-04 | [CSA2](csa2.md) | Examination of the proposal (Articles 98 – 117) doc. (5611/26) | [CM 2630/26](https://data.consilium.europa.eu/doc/document/CM-2630-2026-INIT/en/pdf) |
+| 2026-04-27 | [CSA2](csa2.md) | Examination of the proposal (Articles 98 – 117) doc. (5611/26) | [CM 2546/26](https://data.consilium.europa.eu/doc/document/CM-2546-2026-INIT/en/pdf) |
+| 2026-04-20 | [CSA2](csa2.md) | Examination of the proposal (Articles 98 – 117) doc. (5611/26) | [CM 2430/26](https://data.consilium.europa.eu/doc/document/CM-2430-2026-INIT/en/pdf) |
+| 2026-03-30 | [CSA2](csa2.md) | Examination of the proposal (Articles 82 – 97) doc. (5611/26) | [CM 2210/26](https://data.consilium.europa.eu/doc/document/CM-2210-2026-INIT/en/pdf) |
+| 2026-03-16 | [CSA2](csa2.md) | Examination of the proposal (Articles 70 – 97) | [CM 1933/26](https://data.consilium.europa.eu/doc/document/CM-1933-2026-INIT/en/pdf) |
+| 2026-03-09 | [CSA2](csa2.md) | Examination of the proposal (Articles 44 – 70 and Articles 71 – 84) | [CM 1932/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1932-2026-REV-1/en/pdf) |
+| 2026-03-02 | [CSA2](csa2.md) | Examination of the proposal (Articles 17 to 44) | [CM 1817/26](https://data.consilium.europa.eu/doc/document/CM-1817-2026-INIT/en/pdf) |
+| 2026-02-23 | [CSA2](csa2.md) | Examination of the proposal (Article 1 to 23) | [CM 1647/26](https://data.consilium.europa.eu/doc/document/CM-1647-2026-INIT/en/pdf) |
+| 2026-02-09 | [CSA2](csa2.md) | Presentation by the Commission of Title IV (Security of ICT supply chains), followed by Q&A (5611/26 + ADD 1) | [CM 1519/26](https://data.consilium.europa.eu/doc/document/CM-1519-2026-INIT/en/pdf) |
+| 2026-02-09 | [CSA2](csa2.md) | Readthrough Titles I (General provisions) and II (ENISA) (5611/26 + ADD 1) | [CM 1519/26](https://data.consilium.europa.eu/doc/document/CM-1519-2026-INIT/en/pdf) |
+| 2026-02-02 | [CSA2](csa2.md) | New Cybersecurity package: a) Evaluation report: – Presentation by the Commission followed by Q&A CM 1440/1/26 REV 1 1 EN b) Impact assessment: – Presentation by the Commission followed by Q&A ADD 2, 3 and 4 (5565/26 + ADD 1, 5611/26) | [CM 1440/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1440-2026-REV-1/en/pdf) |
+| 2026-02-02 | [CSA2](csa2.md) | Presentation by the Commission of Title I (General provisions) followed by Q&A – Presentation by the Commission of Title II (ENISA) followed by Q&A – Presentation by the Commission of Title III (European Cybersecurity Certification Framework) followed by Q&A (5611/26 + ADD 1) | [CM 1440/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1440-2026-REV-1/en/pdf) |
+| 2026-02-02 | [NIS-2 amendment](nis2-amendment.md) | New Cybersecurity package: a) Evaluation report: – Presentation by the Commission followed by Q&A CM 1440/1/26 REV 1 1 EN b) Impact assessment: – Presentation by the Commission followed by Q&A ADD 2, 3 and 4 (5565/26 + ADD 1, 5611/26) | [CM 1440/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1440-2026-REV-1/en/pdf) |
+| 2026-02-02 | [NIS-2 amendment](nis2-amendment.md) | Presentation by the Commission of Title I (General provisions) followed by Q&A – Presentation by the Commission of Title II (ENISA) followed by Q&A – Presentation by the Commission of Title III (European Cybersecurity Certification Framework) followed by Q&A (5611/26 + ADD 1) | [CM 1440/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1440-2026-REV-1/en/pdf) |
+
+### Meeting of the Working Party on Public Health and of the Working Party
+
+1 meetings on acts in this repository.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-07-02 | [MDR/IVDR simplification](medical-devices-simplification.md) | 2. Presentation of the Presidency programme Regulation to simplify rules on medical and in vitro diagnostic devices – clusters 1 and 2 – Exchange of views (document to be distributed) (10284/26, 10506/26) | [CM 3277/26](https://data.consilium.europa.eu/doc/document/CM-3277-2026-INIT/en/pdf) |
+
+### Space Working Party
+
+23 meetings on acts in this repository.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-09-11 | [EU Space Act](space-act.md) | Exchange of views (7806/26) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) |
+| 2026-09-01 | [EU Space Act](space-act.md) | Exchange of views (7806/26) | [CM 3875/26](https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf) |
+| 2026-07-10 (attachés) | [EU Space Act](space-act.md) | Exchange of views (7806/26) | [CM 3526/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf) |
+| 2026-05-05 | [EU Space Act](space-act.md) | Presentation by the Commission Exchange of views (7806/26) | [CM 2635/26](https://data.consilium.europa.eu/doc/document/CM-2635-2026-INIT/en/pdf) |
+| 2026-04-29 | [EU Space Act](space-act.md) | Presentation by the Commission Exchange of views (7806/26) | [CM 2542/26](https://data.consilium.europa.eu/doc/document/CM-2542-2026-INIT/en/pdf) |
+| 2026-04-21 (attachés) | [EU Space Act](space-act.md) | Exchange of views (7806/26) | [CM 2402/26](https://data.consilium.europa.eu/doc/document/CM-2402-2026-INIT/en/pdf) |
+| 2026-03-03 | [EU Space Act](space-act.md) | Examination and exchange of views (16437/25) | [CM 1763/26](https://data.consilium.europa.eu/doc/document/CM-1763-2026-INIT/en/pdf) |
+| 2026-02-24 | [EU Space Act](space-act.md) | Examination Exchange of views (16437/25) | [CM 1687/26](https://data.consilium.europa.eu/doc/document/CM-1687-2026-INIT/en/pdf) |
+| 2026-02-13 | [EU Space Act](space-act.md) | Examination Exchange of views (16437/25) | [CM 1542/26](https://data.consilium.europa.eu/doc/document/CM-1542-2026-INIT/en/pdf) |
+| 2026-02-03 | [EU Space Act](space-act.md) | Exchange of views Examination (16437/25) | [CM 1393/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1393-2026-REV-1/en/pdf) |
+| 2026-01-20 | [EU Space Act](space-act.md) | Examination (doc. ) (16437/25) | [CM 1161/26](https://data.consilium.europa.eu/doc/document/CM-1161-2026-INIT/en/pdf) |
+| 2026-01-13 | [EU Space Act](space-act.md) | EU Space Act – Public consultation (doc. ) – Presentation by the Commission (16944/25) | [CM 1072/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1072-2026-REV-1/en/pdf) |
+| 2026-01-13 | [EU Space Act](space-act.md) | Exchange of views CM 1072/1/26 REV 1 1 EN (16435/25, 16437/25) | [CM 1072/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1072-2026-REV-1/en/pdf) |
+| 2025-12-16 | [EU Space Act](space-act.md) | Information from the Presidency (16435/25, 16437/25) | [CM 5418/25](https://data.consilium.europa.eu/doc/document/CM-5418-2025-INIT/en/pdf) |
+| 2025-11-07 (attachés) | [EU Space Act](space-act.md) | Examination (doc. ) (10935/25+ADD 1) | [CM 4792/25](https://data.consilium.europa.eu/doc/document/CM-4792-2025-INIT/en/pdf) |
+| 2025-11-04 | [EU Space Act](space-act.md) | Examination (doc. ) (10935/25+ADD 1) | [CM 4791/25](https://data.consilium.europa.eu/doc/document/CM-4791-2025-INIT/en/pdf) |
+| 2025-10-14 | [EU Space Act](space-act.md) | Examination (doc. ) (10935/25+ADD 1) | [CM 4496/25](https://data.consilium.europa.eu/doc/document/CM-4496-2025-INIT/en/pdf) |
+| 2025-10-07 (attachés) | [EU Space Act](space-act.md) | Presentation by the Commission (10935/25+ADD 1) | [CM 4300/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4300-2025-REV-1/en/pdf) |
+| 2025-09-24 | [EU Space Act](space-act.md) | Impact assessment – Presentation by the Commission (doc.  ADD 2-5) (10935/25) | [CM 4118/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4118-2025-REV-1/en/pdf) |
+| 2025-09-24 | [EU Space Act](space-act.md) | Examination (doc. ) (10935/25+ADD 1) | [CM 4118/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4118-2025-REV-1/en/pdf) |
+| 2025-09-19 (attachés) | [EU Space Act](space-act.md) | Presentation by the Commission Examination (doc. ) (10935/25+ADD 1) | [CM 4053/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4053-2025-REV-1/en/pdf) |
+| 2025-09-10 (attachés) | [EU Space Act](space-act.md) | Presentation by the Commission Examination (doc. ) (10935/25+ADD 1) | [CM 3896/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3896-2025-REV-1/en/pdf) |
+| 2025-09-03 | [EU Space Act](space-act.md) | Exchange of views (doc. ) (10935/25+ADD 1) | [CM 3839/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3839-2025-REV-1/en/pdf) |
+| 2025-07-14 | [EU Space Act](space-act.md) | Presentation by the Commission (doc. ) (10935/25+ADD 1) | [CM 3597/25](https://data.consilium.europa.eu/doc/document/CM-3597-2025-INIT/en/pdf) |
+| 2025-07-14 | [EU Space Act](space-act.md) | Impact assessment* – Exchange of views (doc.  ADD 2-5) (10935/25) | [CM 3597/25](https://data.consilium.europa.eu/doc/document/CM-3597-2025-INIT/en/pdf) |
+| 2025-07-01 (attachés) | [EU Space Act](space-act.md) | Presentation by the Commission (doc. ) (10935/25+ADD 1) | [CM 3393/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf) |
+| 2025-07-01 (attachés) | [EU Space Act](space-act.md) | Impact assessment – Presentation by the Commission (doc.  ADD 2-5) (10935/25) | [CM 3393/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf) |
+
+### Working Party on Competitiveness and Growth (Public Procurement)
+
+2 meetings on acts in this repository.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-09-18 | [PPA](public-procurement-act.md) | Presentation by the Commission Exchange of views [DAY 1: 17 September 2026, p.m. – with interpretation] Impact assessment report accompanying the proposal for the Public Procurement Act (Docs: ST 12696/2026 ADD3, ADD4, ADD5) Presentation by the Commission – Exchange of views – Public Procurement Act: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU, and amending Regulations (EC) No 1370/2007, (EU) 2023/1542, (EU) 2024/1157, (EU) 2024/1252, (EU) 2024/1735, (EU) 2024/1781, (EU) 2024/2847, (EU) 2024/3110 and (EU) 2025/40, and Directives 2008/98/EC, (EU) 2019/882, (EU) 2022/2381, (EU) 2023/1791 and (EU) 2024/1760 (Docs: ST 12969/2026, ADD1, ADD2, ADD3, ADD4, ADD5) Analysis of the proposal – presentation by the Commission – [DAY 2: 18 September 2026, 09:30 – with interpretation] | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) |
+| 2026-09-18 | [PPA](public-procurement-act.md) | Analysis of the proposal – continuation of the presentation by the Commission | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) |
+| 2026-03-27 | [IAA](industrial-accelerator-act.md) | Presentation by the Commission, followed by a discussion on the public procurement implications Doc. -5 Exchange of views in relation to the following: – Merging the Public Procurement Directives – Practical Challenges and substance aspects Public contracts between entities within the public sector – Simplification and clarity of rules for implementation and verification Clarification of tenders – How can the legal framework ensure the preservation and safeguarding of high-quality tenders? – See the Presidency Flash for an introduction to the above topics and the relevant questions. (ST 7009/26 + ADD 1) | [CM 2064/26](https://data.consilium.europa.eu/doc/document/CM-2064-2026-INIT/en/pdf) |
+
+### Working Party on Pharmaceuticals and Medical Devices
+
+11 meetings on acts in this repository.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-09-25 | [MDR/IVDR simplification](medical-devices-simplification.md) | Exchange of views on the second Presidency compromise text – part 1 (special pathways, derogations, regulatory sandboxes & clinical)  Exchange of views on the second Presidency compromise text – part 2 (document to be distributed) = – = (12287/26, 12698/26) | [CM 4059/26](https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf) |
+| 2026-09-11 | [MDR/IVDR simplification](medical-devices-simplification.md) | Exchange of views on the first Presidency compromise text = Qualification, classification and market surveillance =  = Cluster 6 – Interplay with AI Act, dedicated IVD-specific discussion and transitional provisions for orphan devices =  = – Exchange of views on the second Presidency compromise text = Part 1 – Clusters 1, 3 and 4 =  CM 3836/1/26 REV 1 1 EN (12272/26, 12273/26, WK 13494/26, 12287/26) | [CM 3836/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3836-2026-REV-1/en/pdf) |
+| 2026-07-28 | [MDR/IVDR simplification](medical-devices-simplification.md) | Exchange of views = Clusters 3 and 4, Block 3 – Notified Bodies / Conformity Assessment (elements relating to sampling / certificate validity) =  = Clusters 3 and 4, Block 4 – PMS, PSUR, vigilance reporting, reporting of actively exploited vulnerabilities and severe cybersecurity incidents, analysis of vigilance reports, trend reporting =  = Cluster 5 (with the exception of Article 4, Article 51 and Market Surveillance) =  (document to be distributed) (11546/26, 11549/26, 11961/26) | [CM 3725/26](https://data.consilium.europa.eu/doc/document/CM-3725-2026-INIT/en/pdf) |
+| 2026-07-16 | [MDR/IVDR simplification](medical-devices-simplification.md) | cluster 3 and 4 – Exchange of views = Block 1 – Classification of Devices, Notified Bodies and conformity Assessment (excluding elements relating to sampling and certificate validity) =  (document to be distributed) = Block 2 – Clinical evidence, clinical evaluation, clinical investigations, non-clinical data, -clinical data, SS(C)P, PMCF, combined studies and technical documentation =  (document to be distributed) = (poss.) Block 3 – Notified Bodies / Conformity Assessment (elements relating to sampling / certificate validity) =  (document to be distributed)   = (poss.) Block 4 – PMS, PSUR, vigilance reporting, reporting of actively exploited vulnerabilities and severe cybersecurity incidents, analysis of vigilance reports, trend reporting =  (document to be distributed) (11243/26, 11244/26, 11546/26, 11549/26) | [CM 3481/26](https://data.consilium.europa.eu/doc/document/CM-3481-2026-INIT/en/pdf) |
+| 2026-07-03 | [MDR/IVDR simplification](medical-devices-simplification.md) | cluster 2 – Exchange of views (document to be distributed) (10506/26) | [CM 3278/26](https://data.consilium.europa.eu/doc/document/CM-3278-2026-INIT/en/pdf) |
+| 2026-06-03 | [MDR/IVDR simplification](medical-devices-simplification.md) | Examination of cluster 6 of the proposal – Interplay with the AI Act, dedicated IVD- specific discussion, final and transitional provisions (7256/26) | [CM 3008/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3008-2026-REV-1/en/pdf) |
+| 2026-05-28 | [MDR/IVDR simplification](medical-devices-simplification.md) | Examination of cluster 5 of the proposal – Placing on the market, economic operators’ obligations and market surveillance (document to be distributed) (7255/26) | [CM 2909/26](https://data.consilium.europa.eu/doc/document/CM-2909-2026-INIT/en/pdf) |
+| 2026-05-21 | [MDR/IVDR simplification](medical-devices-simplification.md) | Examination of cluster 4 of the proposal – Post-market surveillance and vigilance, generation and documentation of evidence (7254/26) | [CM 2822/26](https://data.consilium.europa.eu/doc/document/CM-2822-2026-INIT/en/pdf) |
+| 2026-05-07 | [MDR/IVDR simplification](medical-devices-simplification.md) | Examination of cluster 3 of the proposal – notified bodies and classification and conformity assessment (7253/26) | [CM 2622/26](https://data.consilium.europa.eu/doc/document/CM-2622-2026-INIT/en/pdf) |
+| 2026-04-21 | [MDR/IVDR simplification](medical-devices-simplification.md) | Examination of cluster 2 of the proposal – Support to the regulatory system Commission delegated Regulations (EU) of 20.3.2026 amending Regulation (EU) 2017/745 as regards the list of implantable devices and class III devices exempted from the obligation to perform clinical investigations and as regards the list of class IIb implantable devices exempted from the obligation to perform an assessment of the technical documentation for every device – Information from the Presidency on the outcome of the consultations (7252/26, 7571/26, 7573/26) | [CM 2298/26](https://data.consilium.europa.eu/doc/document/CM-2298-2026-INIT/en/pdf) |
+| 2026-03-23 | [MDR/IVDR simplification](medical-devices-simplification.md) | Examination of cluster 1 of the proposal – scope, UDI and EUDAMED, international cooperation (7161/26) | [CM 2027/26](https://data.consilium.europa.eu/doc/document/CM-2027-2026-INIT/en/pdf) |
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

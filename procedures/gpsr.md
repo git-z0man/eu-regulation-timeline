@@ -22,16 +22,50 @@ Drawing: [gpsr.svg](gpsr.svg), [gpsr.pdf](gpsr.pdf) · Web page: [gpsr.html](gps
 | 2023-05-10 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0170%28COD%29) | EP Open Data API, procedure 2021-0170 (SIGNATURE) |
 | 2023-05-23 | Signature and publication | Published in the Official Journal | [CELEX 32023R0988](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0988) · [en.md](../texts/gpsr/2023-05-23_oj.en.md) [de.md](../texts/gpsr/2023-05-23_oj.de.md) | EP Open Data API, procedure 2021-0170 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2021-10-20 | [CELEX 52021AE3583](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE3583) | opinion | Opinion of the European Economic and Social Committee on the proposal for a Regulation of the European Parliament and of the Council on general product safety, … | – |
-| 2021-11-19 | [ST 13576/21](https://data.consilium.europa.eu/doc/document/ST-13576-2021-INIT/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European … | – |
-| 2022-06-24 | [A9-0191/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0191/A-9-2022-0191_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | – |
-| 2022-07-20 | [ST 11469/22](https://data.consilium.europa.eu/doc/document/ST-11469-2022-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | – |
-| 2022-09-02 | [ST 12074/22](https://data.consilium.europa.eu/doc/document/ST-12074-2022-INIT/en/pdf) | trilogue | 4 column table | – |
-| 2023-03-30 | [P9_TA(2023)0090](https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0090_en.pdf) | ep-position | General Product Safety Regulation | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2021-07-01 | ST 10381/21 ADD 1 | council-transmission | ANNEX to the Proposal for a Regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | public status unknown | – |
+| 2021-07-01 | ST 10381/21 ADD 1 COR 1 | council-transmission | ANNEX to the Proposal for a Regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | public status unknown | – |
+| 2021-07-01 | ST 10381/21 ADD 2 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on … | public status unknown | – |
+| 2021-07-01 | ST 10381/21 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Regulation of the European … | public status unknown | – |
+| 2021-07-01 | ST 10381/21 COR 1 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European … | public status unknown | – |
+| 2021-07-05 | ST 10381/21 ADD 4 | council-transmission | Regulatory Scrutiny Board Opinion: Impact assesment/Revision of the General Product Safety (Directive 2001/95/EC) | public status unknown | – |
+| 2021-08-25 | ST 11384/21 | council-transmission | Formal comments of the European Data Protection Supervisor on the Proposal for a Regulation on general product safety, amending Regulation (EU) No 1025/2012 of … | public status unknown | – |
+| 2021-09-06 | ST 11580/21 | council-transmission | Formal comments of the European Data Protection Supervisor on the Proposal for a Regulation on general product safety, amending Regulation (EU) No 1025/2012 of … | public status unknown | – |
+| 2021-10-04 | ST 12475/21 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the third quarter of 2021 | public status unknown | – |
+| 2021-10-04 | ST 12477/21 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information (Attachés) in the third quarter of 2021 | public status unknown | – |
+| 2021-10-04 | ST 12480/21 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information (Consumer Credits) in the third quarter of 2021 | public status unknown | – |
+| 2021-10-20 | [CELEX 52021AE3583](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE3583) | opinion | Opinion of the European Economic and Social Committee on the proposal for a Regulation of the European Parliament and of the Council on general product safety, … | public | – |
+| 2021-11-19 | [ST 13576/21](https://data.consilium.europa.eu/doc/document/ST-13576-2021-INIT/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European … | public | – |
+| 2021-11-19 | ST 14144/21 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2021-11-19 | ST 14144/21 REV 1 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
+| 2022-01-11 | ST 5184/22 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the fourth quarter of 2021 | public status unknown | – |
+| 2022-02-03 | ST 5720/22 | council-transmission | General Product Safety Regulation (GPSR) proposal: summary of the public feedback received after the adoption of the proposal | public status unknown | – |
+| 2022-04-04 | ST 10381/21 REV 1 | council-transmission | – | public status unknown | – |
+| 2022-04-08 | ST 8086/22 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the first quarter of 2022 | public status unknown | – |
+| 2022-04-08 | ST 8086/22 COR 1 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the first quarter of 2022 | public status unknown | – |
+| 2022-06-24 | [A9-0191/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0191/A-9-2022-0191_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | public | – |
+| 2022-07-05 | ST 10381/21 REV 2 | council-transmission | – | public status unknown | – |
+| 2022-07-20 | [ST 11469/22](https://data.consilium.europa.eu/doc/document/ST-11469-2022-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – |
+| 2022-09-02 | [ST 12074/22](https://data.consilium.europa.eu/doc/document/ST-12074-2022-INIT/en/pdf) | trilogue | 4 column table | public | – |
+| 2022-10-04 | ST 12353/22 REV 1 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the second quarter of 2022 | public status unknown | – |
+| 2022-10-04 | ST 12356/22 REV 1 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information (Attachés) in the second quarter of 2022 | public status unknown | – |
+| 2022-10-04 | ST 13123/22 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information (Attachés) in the third quarter of 2022 | public status unknown | – |
+| 2022-12-21 | ST 16312/22 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – |
+| 2023-02-15 | ST 6455/23 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the fourth quarter of 2022 | public status unknown | – |
+| 2023-03-30 | [P9_TA(2023)0090](https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0090_en.pdf) | ep-position | General Product Safety Regulation | public | – |
+| 2023-04-05 | ST 7800/23 | council-note | Outcome of the European Parliament's first reading (Brussels, 29 to 30 March 2023) | public status unknown | – |
+| 2023-04-12 | PE 79/22 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the … | public status unknown | – |
+| 2023-04-14 | ST 7846/23 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and … | public status unknown | – |
+| 2023-04-14 | ST 7846/23 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and … | public status unknown | – |
+| 2023-04-18 | ST 7846/23 ADD 1 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and … | public status unknown | – |
+| 2023-04-19 | ST 7846/23 ADD 1 REV 2 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and … | public status unknown | – |
+| 2023-04-26 | ST 8682/23 | council-note | Voting result Regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the European … | public status unknown | – |
+| 2023-05-10 | PE 79/22 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON GENERAL PRODUCT SAFETY, AMENDING REGULATION (EU) No 1025/2012 OF THE EUROPEAN PARLIAMENT AND OF THE … | public status unknown | – |
 
 ## Texts as Markdown
 
@@ -88,4 +122,4 @@ Expert group E00935, JUST.
 | 2024-06-27 | CSN meeting | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130490/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132418/download) |
 | 2024-04-17 | CSN meeting - GPSR Workshop | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130498/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132417/download) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

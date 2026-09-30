@@ -17,11 +17,13 @@ Drawing: [standardisation-regulation.svg](standardisation-regulation.svg), [stan
 | 2012-10-25 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2011/0150%28COD%29) | EP Open Data API, procedure 2011-0150 (SIGNATURE) |
 | 2012-11-14 | Signature and publication | Published in the Official Journal | [CELEX 32012R1025](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) · [en.md](../texts/standardisation-regulation/2012-11-14_oj.en.md) [de.md](../texts/standardisation-regulation/2012-11-14_oj.de.md) | EP Open Data API, procedure 2011-0150 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-7-2012-0069/A-7-2012-0069_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-7-2012-0069/A-7-2012-0069_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | public | – |
 
 ## Texts as Markdown
 
@@ -75,4 +77,4 @@ Expert group E02758, CNECT.
 | 2024-09-12 | 41st Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/111346/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/116390/download) |
 | 2024-03-21 | 40th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/104028/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/111345/download) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

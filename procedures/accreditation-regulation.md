@@ -17,11 +17,13 @@ Drawing: [accreditation-regulation.svg](accreditation-regulation.svg), [accredit
 | 2008-07-09 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0029%28COD%29) | EP Open Data API, procedure 2007-0029 (SIGNATURE) |
 | 2008-08-13 | Signature and publication | Published in the Official Journal | [CELEX 32008R0765](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) · [en.md](../texts/accreditation-regulation/2008-08-13_oj.en.md) [de.md](../texts/accreditation-regulation/2008-08-13_oj.de.md) | EP Open Data API, procedure 2007-0029 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – |
 
 ## Texts as Markdown
 
@@ -41,4 +43,4 @@ COMMISSION IMPLEMENTING DECISION of 17.12.2021 on a standardisation request to t
 
 adopted 2021-12-17; expires 2030-12-31; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/580_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)9277&lang=en) · [en.md](../texts/accreditation-regulation/sreq-m580/2021-12-17_commission-decision.en.md) · [de.md](../texts/accreditation-regulation/sreq-m580/2021-12-17_commission-decision.de.md)
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

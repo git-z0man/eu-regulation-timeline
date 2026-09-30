@@ -17,11 +17,13 @@ Drawing: [nlf-decision.svg](nlf-decision.svg), [nlf-decision.pdf](nlf-decision.p
 | 2008-07-09 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29) | EP Open Data API, procedure 2007-0030 (SIGNATURE) |
 | 2008-08-13 | Signature and publication | Published in the Official Journal | [CELEX 32008D0768](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768) · [en.md](../texts/nlf-decision/2008-08-13_oj.en.md) [de.md](../texts/nlf-decision/2008-08-13_oj.de.md) | EP Open Data API, procedure 2007-0030 (PUBLICATION_OFFICIAL_JOURNAL) |
 
-## Public documents
+## Documents
 
-| Date | Document | Kind | Subject | Text |
-| --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | – |
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+
+| Date | Document | Kind | Subject | Status | Text |
+| --- | --- | --- | --- | --- | --- |
+| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | public | – |
 
 ## Texts as Markdown
 
@@ -32,4 +34,4 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2008-08-13 | oj | [CELEX 32008D0768](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768) | [en](../texts/nlf-decision/2008-08-13_oj.en.md) [de](../texts/nlf-decision/2008-08-13_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nlf-decision/2008-08-13_oj.en.md) |
 | 2025-10-22 | corrigendum | [CELEX 32008D0768R(04)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768R(04)) | [de](../texts/nlf-decision/2025-10-22_corrigendum-04.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nlf-decision/2025-10-22_corrigendum-04.de.md) |
 
-Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are left out. Our own compilation, not an official record and not legal advice.
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.
