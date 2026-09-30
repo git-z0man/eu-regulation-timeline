@@ -709,7 +709,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "url": "procedures/csa2.html"
       }
      ],
-     "page": null
+     "page": "acts/csa2.html"
     },
     {
      "id": "ai-act",
@@ -1720,6 +1720,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     for (const k of kids.flat()) if (k != null && k !== false) n.append(k.nodeType ? k : document.createTextNode(k));
     return n;
   };
+  // replaceChildren() would print a missing child (null) as the text "null"
+  const fill = (node, ...kids) => node.replaceChildren(...kids.flat().filter(k => k != null && k !== false));
   const day = s => new Date(s + "T00:00:00Z");
   const T0 = day(D.horizon.start), T1 = day(D.horizon.end);
   const ASOF = day(D.as_of);                       // basis of the criticality
@@ -1776,7 +1778,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   // ---------- header, profile, chips
   function renderHeader() {
     const sel = $("#profile");
-    sel.replaceChildren(...Object.entries(D.profiles).map(([k, p]) => el("option", { value: k, selected: k === profileKey }, p.title)));
+    fill(sel, ...Object.entries(D.profiles).map(([k, p]) => el("option", { value: k, selected: k === profileKey }, p.title)));
     sel.disabled = Object.keys(D.profiles).length < 2;
     $("#title").textContent = "EU digital and product regulation – " + P().title;
     $("#subtitle").textContent = `${P().description} Criticality as of ${fmt(D.as_of)}, an orientation for planning, not a legal assessment.`;
@@ -1785,7 +1787,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   function renderChips() {
     const counts = Object.fromEntries(ORDER.map(k => [k, 0]));
     rowsOf().forEach(r => counts[r.criticality]++);
-    $("#chips").replaceChildren(...ORDER.map(k => el("li", {},
+    fill($("#chips"), ...ORDER.map(k => el("li", {},
       el("button", { type: "button", class: "chip", style: cvars(k), "aria-pressed": String(active.has(k)), title: CRIT[k].legend,
         onclick: () => { active.has(k) ? active.delete(k) : active.add(k); renderChips(); applyFilter(); } },
         el("span", { class: "dot", "aria-hidden": "true" }), CRIT[k].label, el("span", { class: "n" }, String(counts[k]))))));
@@ -1800,7 +1802,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       el("span", { class: "days" }, rel(m.date)),
       el("a", { href: "#act=" + r.id, onclick: e => { e.preventDefault(); select(r.id, true); } }, r.label.split(" – ")[0]),
       ": " + m.label + " (" + fmt(m.date) + ")"));
-    $("#deadlines").replaceChildren(...(list.length ? list : [el("li", { class: "empty" }, "No dated obligations ahead.")]));
+    fill($("#deadlines"), ...(list.length ? list : [el("li", { class: "empty" }, "No dated obligations ahead.")]));
   }
 
   // ---------- timeline
@@ -1811,7 +1813,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       const a = pct(y + "-01-01"), b = pct((y + 1) + "-01-01");
       out.push(el("div", { class: "yr", style: `left:${a}%;width:${b - a}%` }, String(y)));
     }
-    years.replaceChildren(...out);
+    fill(years, ...out);
   }
   function renderRows() {
     const box = $("#rows");
@@ -1852,7 +1854,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
         kids.push(btn);
       });
     }
-    box.replaceChildren(...kids);
+    fill(box, ...kids);
     applyFilter();
     markSelected();
   }
@@ -1876,7 +1878,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     const ov = $("#overlay");
     const next = new Date(TODAY); next.setUTCFullYear(next.getUTCFullYear() + 1);
     const a = pct(todayIso), b = pct(next.toISOString().slice(0, 10));
-    ov.replaceChildren(
+    fill(ov,
       el("div", { class: "band", style: `left:${a}%;width:${b - a}%`, title: "next 12 months" }),
       el("div", { class: "cursor", style: `left:${a}%` }, el("span", {}, "today " + fmt(todayIso))),
       el("div", { class: "cursor scrub", id: "scrub-line", style: `left:${a}%;display:none` }, el("span", {})));
@@ -1923,7 +1925,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     if (!r) {
       const on = rowsOf().map(x => ({ x, s: stateOn(x, scrubDate) }));
       const dateLabel = fmt(scrubDate);
-      box.replaceChildren(
+      fill(box,
         el("h3", {}, "Status on " + dateLabel),
         el("p", { class: "meta" }, "Move the date slider below the timeline, or select an act for details."),
         ...["applicable", "in-force", "procedure"].map(s => {
@@ -1935,7 +1937,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       return;
     }
     const st = stateOn(r, scrubDate);
-    box.replaceChildren(
+    fill(box,
       el("a", { href: "#", class: "back-top", onclick: e => { e.preventDefault();
         document.querySelector(`.row[data-id="${r.id}"]`)?.scrollIntoView({ block: "center" }); } }, "↑ Back to the timeline"),
       el("button", { type: "button", class: "btn close", "aria-label": "Close details", onclick: () => select(null) }, "✕"),
@@ -1975,7 +1977,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   // ---------- table view
   function renderTable() {
     const rows = [...rowsOf()].sort((a, b) => ORDER.indexOf(a.criticality) - ORDER.indexOf(b.criticality) || a.label.localeCompare(b.label));
-    $("#table").replaceChildren(
+    fill($("#table"),
       el("thead", {}, el("tr", {}, ["Act", "Criticality", "Why", "Next milestone", "What it means for us"].map(h => el("th", { scope: "col" }, h)))),
       el("tbody", {}, rows.map(r => {
         const nx = r.milestones.filter(m => day(m.date) >= TODAY).sort((a, b) => day(a.date) - day(b.date))[0];
@@ -1990,7 +1992,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 
   function renderAll() {
     renderHeader(); renderChips(); renderDeadlines(); renderAxis(); renderRows(); renderOverlay(); onScrub(); renderTable();
-    $("#footer").replaceChildren(
+    fill($("#footer"),
       D.source.before,
       el("a", { href: D.source.url }, D.source.label),
       D.source.after,
