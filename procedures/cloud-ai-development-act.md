@@ -1,14 +1,14 @@
 # Legislative procedure – CADA – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 30 Sep 2026.
+Procedure 2026/0138(COD), as of 01 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 17 Sep 2026
-- **Council:** working party, latest document 28 Sep 2026
-- **Latest activity:** 28 Sep 2026 · Council: Optional consultation of the Committee of the Regions (ST 13557/26)
+- **Council:** working party, latest document 29 Sep 2026
+- **Latest activity:** 29 Sep 2026 · Council: Cloud and AI Development Act: Presentation (WK 15040/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -40,6 +40,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-22 | WK 14527/26 | council-note | Cloud and AI Development Act: Presentation | not public; Council register checked daily since 2026-09-25 | – |
 | 2026-09-28 | [ST 13557/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93992) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
 | 2026-09-28 | [ST 13682/26](https://data.consilium.europa.eu/doc/document/ST-13682-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | public | – |
+| 2026-09-29 | WK 15040/26 | council-note | Cloud and AI Development Act: Presentation | not public; Council register checked daily since 2026-10-01 | – |
 
 ## Texts as Markdown
 

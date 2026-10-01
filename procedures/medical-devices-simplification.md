@@ -1,6 +1,6 @@
 # Legislative procedure – MDR/IVDR simplification – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 30 Sep 2026.
+Procedure 2025/0404(COD), as of 01 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
@@ -9,7 +9,7 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 - **Parliament:** draft report 30 Jun 2026
 - **Council:** working party, latest document 17 Sep 2026
 - **Latest activity:** 25 Sep 2026 · Council: Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise … (CM 4059/26)
-- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
 

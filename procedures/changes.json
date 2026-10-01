@@ -1,10 +1,42 @@
 {
  "items": [
   {
-   "date": "2026-09-30",
+   "date": "2026-10-01",
+   "title": "MR",
+   "actor": "CEN/TC 114",
+   "label": "prEN ISO 14159 – Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026): Under Approval",
+   "doc": "prEN ISO 14159",
+   "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "FprEN 40000-1-2 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Under Approval",
+   "doc": "FprEN 40000-1-2",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "FprEN 40000-1-1 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Under Approval",
+   "doc": "FprEN 40000-1-1",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 627 – Cybersecurity requirements for routers, modems intended for the connection to the internet: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 627",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-01",
    "title": "AI Act",
    "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18283 – Artificial Intelligence - Concepts, measures and requirements for managing bias in AI syst: Under Approval",
+   "label": "prEN 18283 – Artificial Intelligence - Concepts, measures and requirements for managing bias in AI syst: Under Enquiry",
    "doc": "prEN 18283",
    "page": "ai-act.html"
   },
@@ -31,38 +63,6 @@
    "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Drafting Stage – 7 VR – EC assessment before EV received",
    "doc": "EN 304 620",
    "page": "cra.html"
-  },
-  {
-   "date": "2026-09-29",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 617 – Cybersecurity requirements for browsers: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 617",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-09-29",
-   "title": "AI Act",
-   "actor": "Artificial Intelligence Committee",
-   "label": "Summary record published: AI Committee meeting (2026-05-21)",
-   "doc": "summary record",
-   "page": "ai-act.html"
-  },
-  {
-   "date": "2026-09-28",
-   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
-   "actor": "Council",
-   "label": "Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1)",
-   "doc": "CM 4269/26",
-   "page": "csa2.html"
-  },
-  {
-   "date": "2026-09-25",
-   "title": "MDR/IVDR simplification – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise …",
-   "doc": "CM 4059/26",
-   "page": "medical-devices-simplification.html"
   }
  ]
 }
