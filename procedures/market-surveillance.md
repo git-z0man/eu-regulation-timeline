@@ -52,19 +52,19 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Committee on market surveillance and compliance of products](https://ec.europa.eu/transparency/comitology-register/screen/committees/C52400/consult)
+### [Committee on market surveillance and compliance of products](committee-c52400.md)
 
-Comitology committee C52400, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C52400, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C52400/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
 | 2024-06-27 | [Sixteenth meeting of the Committee on market surveillance and compliance of products](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)965/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097700/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/091448/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/098410/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/098416/1/consult) |
 
-### [Expert Group on the Internal Market for Products (IMP-EG)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2798)
+### [Expert Group on the Internal Market for Products (IMP-EG)](committee-e02798.md)
 
-Expert group E02798, GROW.
+Expert group E02798, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2798).
 
 No meetings listed.
 

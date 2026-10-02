@@ -105,14 +105,15 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Committee on the European Health Data Space](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131500/consult)
+### [Committee on the European Health Data Space](committee-c131500.md)
 
-Comitology committee C131500, SANTE; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C131500, SANTE; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131500/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
+| 2026-10-22 | [11th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1615/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult) |
 | 2026-06-23 | [9th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)93/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/116505/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/116698/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/116759/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/116761/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/116899/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/116900/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/116908/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117154/1/consult) |
 | 2026-05-28 | [8th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)92/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/116503/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/116504/1/consult) |
 | 2026-03-23 | [7th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)91/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/113943/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/114545/1/consult) |

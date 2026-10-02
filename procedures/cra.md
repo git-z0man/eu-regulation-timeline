@@ -199,11 +199,11 @@ Sources: [CEN/CLC/JTC 13](https://standards.cencenelec.eu/ords/f?p=205:7:::::FSP
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Product Security Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130100/consult)
+### [Product Security Committee](committee-c130100.md)
 
-Comitology committee C130100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C130100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130100/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -211,9 +211,9 @@ Comitology committee C130100, CNECT; examination procedure (Art. 5, 6 and 7 of R
 | 2025-10-10 | [2nd Product Security Committee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1750/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/110055/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/110068/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/110696/1/consult) |
 | 2025-09-10 | [1st Product Security Committee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1522/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/109453/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/109454/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/110069/1/consult) |
 
-### [Expert Group on Cybersecurity of Products with Digital Elements (CRA Expert Group)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967)
+### [Expert Group on Cybersecurity of Products with Digital Elements (CRA Expert Group)](committee-e03967.md)
 
-Expert group E03967, CNECT.
+Expert group E03967, CNECT. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -221,7 +221,7 @@ Expert group E03967, CNECT.
 | 2026-06-10 | 5th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133174/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download) |
 | 2026-03-04 | 4th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/126784/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/129854/download) |
 | 2025-10-22 | 3rd meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/121846/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124083/download) |
-| 2025-06-04 | 2nd meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117450/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/119798/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117406/download) |
-| 2025-02-12 | 1st meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/112919/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115550/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/114789/download) |
+| 2025-06-04 | 2nd meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117450/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/119798/download) · [draft delegated act](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117406/download) |
+| 2025-02-12 | 1st meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/112919/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115550/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/114789/download) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

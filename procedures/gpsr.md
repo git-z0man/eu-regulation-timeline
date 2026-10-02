@@ -95,11 +95,11 @@ adopted 2015-11-25; expires 2021-06-08; ESOs: CEN. [eNorm](https://ec.europa.eu/
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [General Product Safety Regulation Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C127600/consult)
+### [General Product Safety Regulation Committee](committee-c127600.md)
 
-Comitology committee C127600, JUST; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011).
+Comitology committee C127600, JUST; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C127600/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -111,9 +111,9 @@ Comitology committee C127600, JUST; examination procedure (Art. 5, 6 and 7 of Re
 | 2024-05-22 | [Meeting of the General Product Safety Regulation Committee on 22 May 2024 concerning the draft implementing act on modalities for consumers to inform the Commission of products that might present a risk to the health and safety of consumers](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)786/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097145/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/097146/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/097146/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/104658/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/097956/1/consult) |
 | 2024-03-26 | [First meeting of the GPSR Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)443/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/095885/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/095909/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/095910/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/095910/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/096597/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/097025/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/096742/1/consult) |
 
-### [Consumer Safety Network (CSN)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=935)
+### [Consumer Safety Network (CSN)](committee-e00935.md)
 
-Expert group E00935, JUST.
+Expert group E00935, JUST. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=935).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |

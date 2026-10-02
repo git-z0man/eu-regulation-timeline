@@ -118,11 +118,11 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Energy Union Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C51000/consult)
+### [Energy Union Committee](committee-c51000.md)
 
-Comitology committee C51000, ENER; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C51000, ENER; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C51000/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -132,9 +132,9 @@ Comitology committee C51000, ENER; examination procedure (Art. 5, 6 and 7 of Reg
 | 2025-02-10 | [VIII. Meeting of the Energy Union Committee - 10 and 11 February 2025](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)259/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/104598/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/104599/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/105547/1/consult) |
 | 2024-10-10 | [VII. Meeting of the Energy Union Committee - 10 October 2024](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1750/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/101046/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/103118/1/consult) |
 
-### [Net-zero technologies committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C129000/consult)
+### [Net-zero technologies committee](committee-c129000.md)
 
-Comitology committee C129000, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C129000, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C129000/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -143,9 +143,9 @@ Comitology committee C129000, GROW; examination procedure (Art. 5, 6 and 7 of Re
 | 2025-02-12 | [2nd meeting Net-zero technologies Comitology Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)275/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/104947/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/104948/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/104949/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112849/1/consult) |
 | 2024-09-30 | [First meeting of the Net-zero technologies comitology committe](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1669/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/101348/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/102452/1/consult) |
 
-### [Advisory Committee for Public Contracts](https://ec.europa.eu/transparency/comitology-register/screen/committees/C16300/consult)
+### [Advisory Committee for Public Contracts](committee-c16300.md)
 
-Comitology committee C16300, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C16300, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C16300/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -159,16 +159,16 @@ Comitology committee C16300, GROW; examination procedure (Art. 5, 6 and 7 of Reg
 | 2024-10-07 | [Invitation to the hybrid Advisory Committee for Public Contracts committee meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1701/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/105334/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/105335/1/consult) |
 | 2024-06-14 | [Written procedure concerning a Draft Commission Implementing Decision on the applicability of Article 34 of Directive 2014/25/EU of the European Parliament and of the Council to the award of contracts for the provision of commercially operated railway passenger services in Sweden](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1042/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/098199/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/098679/1/consult) |
 
-### [EXPERT GROUP ON NET-ZERO TECHNOLOGIES AND SUPPLY CHAINS](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3968)
+### [EXPERT GROUP ON NET-ZERO TECHNOLOGIES AND SUPPLY CHAINS](committee-e03968.md)
 
-Expert group E03968, ENER, GROW.
+Expert group E03968, ENER, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3968).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
 | 2025-04-09 | Expert Group on Net-zero Technologies and Supply Chains | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117756/download) |
-| 2025-04-09 | Invitation to the meeting of the Expert Group on net-zero technologies and supply chains | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117820/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117269/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117271/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117268/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117267/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117272/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117270/download) |
+| 2025-04-09 | Invitation to the meeting of the Expert Group on net-zero technologies and supply chains | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117820/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117269/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117271/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117268/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117267/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117272/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117270/download) |
 | 2025-02-12 | Expert Group on Net-Zero Technologies and Supply Chains | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117758/download) |
-| 2025-02-12 | Meeting of the Expert Group on net-zero technologies and supply chains - 12 February 2025 | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117274/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117818/download) · [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117276/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117275/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117273/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117277/download) |
+| 2025-02-12 | Meeting of the Expert Group on net-zero technologies and supply chains - 12 February 2025 | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117274/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117818/download) · [draft delegated act](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117275/download) · [draft delegated act](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117273/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117277/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117276/download) |
 | 2024-09-30 | 1st Meeting NZIA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/110104/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/111271/download) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

@@ -132,11 +132,11 @@ Sources: [CEN/TC 52](https://standards.cencenelec.eu/ords/f?p=205:7:::::FSP_ORG_
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Expert Group on Toys Safety](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=1360)
+### [Expert Group on Toys Safety](committee-e01360.md)
 
-Expert group E01360, GROW.
+Expert group E01360, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=1360).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |

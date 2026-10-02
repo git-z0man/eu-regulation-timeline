@@ -189,19 +189,19 @@ Sources: [CEN/TC 114](https://standards.cencenelec.eu/ords/f?p=205:7:::::FSP_ORG
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Machinery Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C128700/consult)
+### [Machinery Committee](committee-c128700.md)
 
-Comitology committee C128700, GROW; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C128700, GROW; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C128700/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
 | 2024-06-27 | [Machinery Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1066/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/098168/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/098169/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/105921/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/105767/1/consult) · [other document](https://ec.europa.eu/transparency/comitology-register/screen/documents/098172/1/consult) |
 
-### [Commission Expert Group on Machinery](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3676)
+### [Commission Expert Group on Machinery](committee-e03676.md)
 
-Expert group E03676, GROW.
+Expert group E03676, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3676).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |

@@ -1,0 +1,30 @@
+# Ecodesign for Sustainable Products Committee
+
+Comitology committee C130300, ENV; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [ESPR](espr.md).
+
+Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130300/consult). Back to [all committees](committees.md).
+
+## At a glance
+
+- Next meeting: none announced
+- Last meeting: 2026-06-30 – 4th Meeting of the Ecodesign for Sustainable Products Committee – Draft Implementing Regulation on the Digital Product Passport Registry – 30th June 2026 meeting on Digital Product Passport ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117014/1/consult) · [draft implementing act v4](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/4/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/117289/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117013/1/consult))
+- Meetings since 2024: 5
+- Latest summary record: [4th Meeting of the Ecodesign for Sustainable Products Committee – Draft Implementing Regulation on the Digital Product Passport Registry – 30th June 2026 meeting on Digital Product Passport (2026-06-30)](https://ec.europa.eu/transparency/comitology-register/screen/documents/117013/1/consult)
+
+## About
+
+- Procedures: advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011)
+
+## Meetings
+
+| Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-30 | [4th Meeting of the Ecodesign for Sustainable Products Committee – Draft Implementing Regulation on the Digital Product Passport Registry – 30th June 2026 meeting on Digital Product Passport](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1112/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117014/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117013/1/consult) | [draft implementing act v4](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/4/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/117289/1/consult) |
+| 2026-06-22 | [3rd Meeting of the Ecodesign for Sustainable Products Committee – Draft Implementing Regulation on the Digital Product Passport Registry – 22nd June 2026 meeting on Digital Product Passport](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)875/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117011/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117012/1/consult) | [draft implementing act v3](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/3/consult) |
+| 2026-06-08 | [2nd Ecodesign for sustainable products committee meeting on Digital Product Passport – 8th June 2026](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)876/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/115926/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117010/1/consult) | [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/2/consult) |
+| 2026-05-12 | [Ecodesign for sustainable products committee meeting on Digital Product Passport](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)713/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/117003/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/115823/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/117002/1/consult) |
+| 2025-09-16 | [1st meeting of the Ecodesign for Sustainable Products Committee​](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1470/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/109300/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/111587/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/109301/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/109991/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/109997/1/consult) |
+
+Source: Comitology Register, meetings from 2024 on. Generated by `tools/committees.py`; do not edit by hand.
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

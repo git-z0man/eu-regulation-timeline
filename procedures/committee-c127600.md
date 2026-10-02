@@ -1,0 +1,32 @@
+# General Product Safety Regulation Committee
+
+Comitology committee C127600, JUST; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: [GPSR](gpsr.md).
+
+Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C127600/consult). Back to [all committees](committees.md).
+
+## At a glance
+
+- Next meeting: none announced
+- Last meeting: 2024-10-22 – Request for the formal opinion of the GPSR Committee by written procedure on the revised draft Commission Implementing Regulation on the output indicators ([draft implementing act v3](https://ec.europa.eu/transparency/comitology-register/screen/documents/097844/3/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/102037/1/consult))
+- Meetings since 2024: 7
+- Latest summary record: [Fourth meeting of the GPSR Committee (2024-07-03)](https://ec.europa.eu/transparency/comitology-register/screen/documents/099217/1/consult)
+
+## About
+
+- Procedures: examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011)
+
+## Meetings
+
+| Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
+| --- | --- | --- | --- | --- | --- |
+| 2024-10-22 | [Request for the formal opinion of the GPSR Committee by written procedure on the revised draft Commission Implementing Regulation on the output indicators](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)2104/consult) | – | – | – | [draft implementing act v3](https://ec.europa.eu/transparency/comitology-register/screen/documents/097844/3/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/102037/1/consult) |
+| 2024-07-25 | [Written consultation - Request for the formal opinion of the GPSR Committee by written procedure on the draft Commission Implementing Regulation on the roles and tasks of the Safety Gate contact points](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1372/consult) | – | – | – | [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/098237/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/099407/1/consult) |
+| 2024-07-19 | [Request for formal opinion of the GPSR Committee by written procedure on the draft Commission Implementing Regulation on the output indicators](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1350/consult) | – | – | – | [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/097844/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/099405/1/consult) |
+| 2024-07-03 | [Fourth meeting of the GPSR Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1115/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/098236/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/099217/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/098237/1/consult) |
+| 2024-06-13 | [Meeting of the General Product Safety Regulation Committee on 13 June 2024 concerning the draft implementing act on output indicators](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1008/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097845/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/098671/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/097844/1/consult) |
+| 2024-05-22 | [Meeting of the General Product Safety Regulation Committee on 22 May 2024 concerning the draft implementing act on modalities for consumers to inform the Commission of products that might present a risk to the health and safety of consumers](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)786/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097145/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/097956/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/097146/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/097146/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/104658/1/consult) |
+| 2024-03-26 | [First meeting of the GPSR Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)443/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/095885/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/096742/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/095909/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/095910/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/095910/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/096597/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/097025/1/consult) |
+
+Source: Comitology Register, meetings from 2024 on. Generated by `tools/committees.py`; do not edit by hand.
+
+Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

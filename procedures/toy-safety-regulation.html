@@ -25,6 +25,14 @@ h1 { font-size: 24px; margin: 0 0 4px; } h2 { font-size: 18px; margin: 28px 0 8p
 table { border-collapse: collapse; width: 100%; font-size: 14px; }
 th, td { text-align: left; vertical-align: top; padding: 6px 10px; border-bottom: 1px solid var(--line); }
 th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
+table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; }
+table.fixed th { white-space: normal; }
+.small { font-size: 13px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; margin: 16px 0; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.card .label { color: var(--muted); font-size: 13px; } .card .value { font-size: 17px; font-weight: 600; }
+.card .value .small { font-weight: 400; }
+details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
 footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 </style>
 </head>
@@ -153,9 +161,9 @@ details.action dd { margin: 2px 0 0; }
 </tbody></table></div>
 <p class="muted">Sources: <a href="https://standards.cencenelec.eu/ords/f?p=205:7:::::FSP_ORG_ID,FSP_LANG_ID:6036,25&amp;cs=15418DC6765F172ECB103EA5243FBD855">CEN/TC 52</a>; <a href="https://standards.cencenelec.eu/ords/f?p=305:7:::::FSP_ORG_ID,FSP_LANG_ID:1257159,25&amp;cs=1F4DF0A6E23DCDDEAB16021437F97F151">CLC/TC 61</a>.</p>
 <h2 id="committees">Committees and expert groups</h2>
-<p class="muted">Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.</p>
-<h3><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=1360">Expert Group on Toys Safety</a></h3>
-<p class="muted">Expert group E01360, GROW.</p>
+<p class="muted">Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission&#x27;s pages of these groups, from 2024 on.</p>
+<h3><a href="committee-e01360.html">Expert Group on Toys Safety</a></h3>
+<p class="muted">Expert group E01360, GROW. Official source: <a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=1360" target="_blank" rel="noopener">Register of Commission expert groups ↗</a></p>
 <div class="table"><table><thead><tr><th>Date</th><th>Meeting</th><th>Documents</th></tr></thead><tbody>
 <tr><td class="nowrap">2026-09-10</td><td>Working group on Chemicals - Expert Group on the Safety of Toys</td><td>–</td></tr>
 <tr><td class="nowrap">2026-05-18</td><td>Ad hoc subgroup Chemicals on asbestos in toy sands</td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133893/download">agenda</a> · <a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133873/download">minutes</a></td></tr>

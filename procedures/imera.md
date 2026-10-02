@@ -99,11 +99,11 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Internal Market Emergency and Resilience Committee](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131800/consult)
+### [Internal Market Emergency and Resilience Committee](committee-c131800.md)
 
-Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).
+Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131800/consult).
 
 No meetings listed.
 

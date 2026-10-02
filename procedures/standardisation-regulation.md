@@ -35,11 +35,11 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 
 ## Committees and expert groups
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
 
-### [Committee on Standards](https://ec.europa.eu/transparency/comitology-register/screen/committees/C41700/consult)
+### [Committee on Standards](committee-c41700.md)
 
-Comitology committee C41700, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011).
+Comitology committee C41700, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C41700/consult).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
@@ -56,18 +56,18 @@ Comitology committee C41700, GROW; examination procedure (Art. 5, 6 and 7 of Reg
 | 2024-11-15 | [29th meeting of the Committee on standards](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1862/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/102527/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/102528/1/consult) |
 | 2024-04-18 | [28th meeting of the Committee on standards](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)431/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097450/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/097451/1/consult) |
 
-### [HIGH-LEVEL FORUM ON EUROPEAN STANDARDISATION (HLFS)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3874)
+### [HIGH-LEVEL FORUM ON EUROPEAN STANDARDISATION (HLFS)](committee-e03874.md)
 
-Expert group E03874, GROW.
+Expert group E03874, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3874).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
 | 2026-03-19 | 4th High-Level Forum on European Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130939/download) |
 | 2025-01-29 | 3rd High-Level Forum on European Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117682/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117683/download) |
 
-### [European Multi-Stakeholder Platform on ICT Standardisation (MSP)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2758)
+### [European Multi-Stakeholder Platform on ICT Standardisation (MSP)](committee-e02758.md)
 
-Expert group E02758, CNECT.
+Expert group E02758, CNECT. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2758).
 
 | Date | Meeting | Documents |
 | --- | --- | --- |

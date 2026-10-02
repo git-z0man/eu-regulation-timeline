@@ -25,6 +25,14 @@ h1 { font-size: 24px; margin: 0 0 4px; } h2 { font-size: 18px; margin: 28px 0 8p
 table { border-collapse: collapse; width: 100%; font-size: 14px; }
 th, td { text-align: left; vertical-align: top; padding: 6px 10px; border-bottom: 1px solid var(--line); }
 th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
+table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; }
+table.fixed th { white-space: normal; }
+.small { font-size: 13px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; margin: 16px 0; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.card .label { color: var(--muted); font-size: 13px; } .card .value { font-size: 17px; font-weight: 600; }
+.card .value .small { font-weight: 400; }
+details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
 footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 </style>
 </head>
@@ -127,8 +135,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 <tr><td class="nowrap">2024-11-08</td><td>oj</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2747">CELEX 32024R2747</a></td><td><a href="../texts/imera/2024-11-08_oj.en.md">en</a> <a href="../texts/imera/2024-11-08_oj.de.md">de</a></td><td><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/imera/2024-11-08_oj.en.md">GitHub</a></td></tr>
 </tbody></table></div>
 <h2 id="committees">Committees and expert groups</h2>
-<p class="muted">Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation. Meetings and documents as published in the Comitology Register and the Register of Commission expert groups, from 2024 on.</p>
-<h3><a href="https://ec.europa.eu/transparency/comitology-register/screen/committees/C131800/consult">Internal Market Emergency and Resilience Committee</a></h3>
-<p class="muted">Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011).</p>
+<p class="muted">Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission&#x27;s pages of these groups, from 2024 on.</p>
+<h3><a href="committee-c131800.html">Internal Market Emergency and Resilience Committee</a></h3>
+<p class="muted">Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: <a href="https://ec.europa.eu/transparency/comitology-register/screen/committees/C131800/consult" target="_blank" rel="noopener">Comitology Register ↗</a></p>
 <p>No meetings listed.</p>
 <footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer></div></body></html>
