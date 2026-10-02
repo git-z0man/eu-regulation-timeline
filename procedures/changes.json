@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "date": "2026-10-02",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 627 – Cybersecurity requirements for routers, modems intended for the connection to the internet: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 627",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Drafting Stage – Stable draft",
+   "doc": "EN 304 619",
+   "page": "cra.html"
+  },
+  {
    "date": "2026-10-01",
    "title": "MR",
    "actor": "CEN/TC 114",
@@ -26,14 +42,6 @@
   },
   {
    "date": "2026-10-01",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 627 – Cybersecurity requirements for routers, modems intended for the connection to the internet: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 627",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-01",
    "title": "AI Act",
    "actor": "CEN/CLC/JTC 21",
    "label": "prEN 18283 – Artificial Intelligence - Concepts, measures and requirements for managing bias in AI syst: Under Enquiry",
@@ -54,14 +62,6 @@
    "actor": "CYBER EUSR",
    "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Drafting Stage – 7 VR – EC assessment before EV received",
    "doc": "EN 304 625",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-09-29",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 620",
    "page": "cra.html"
   }
  ]

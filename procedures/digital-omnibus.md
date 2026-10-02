@@ -1,6 +1,6 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 01 Oct 2026.
+Procedure 2025/0360(COD), as of 02 Oct 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 - **Stage:** Council mandate adopted
 - **Parliament:** draft report 22 Jun 2026
 - **Council:** mandate (ST 10729/26 of 22 Jun 2026)
-- **Latest activity:** 22 Sep 2026 · Council: Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026 (WK 14017/26)
+- **Latest activity:** 01 Oct 2026 · Council: MS comments - follow-up to the AGS of 25 September 2026 (WK 15043/26)
 - **Next steps:** EP committee report and mandate; then trilogues
 
 ## Events
@@ -130,6 +130,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-21 | [ST 13112/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92638) | council-compromise | Presidency revised compromise text | not public (LIMITE); Council register checked daily since 2026-09-26 | – |
 | 2026-09-21 | [ST 13399/26](https://data.consilium.europa.eu/doc/document/ST-13399-2026-INIT/en/pdf) | council-note | AOB item for the meeting of the General Affairs Council of 22 September 2026 Simplification - Information from Austria | public | – |
 | 2026-09-22 | [WK 14017/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92901) | council-note | Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026 | not public (LIMITE); Council register checked daily since 2026-09-26 | – |
+| 2026-10-01 | [WK 15043/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94826) | council-note | MS comments - follow-up to the AGS of 25 September 2026 | not public (LIMITE); Council register checked daily since 2026-10-02 | – |
 
 ## Texts as Markdown
 

@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 01 Oct 2026.
+Procedure 2026/0011(COD), as of 02 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
 - **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 30 Sep 2026 · Council: Title IV (ICT Supply Chain) (WK 15065/26)
+- **Latest activity:** 30 Sep 2026 · Council: Title IV (ICT Supply Chain) - Presentation by the Presidency (WK 15065/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -116,7 +116,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-24 | [WK 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93429) | council-note | Template for the submission of drafting suggestions on the first Presidency compromise (Recitals and Title IV) | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
 | 2026-09-25 | [WK 14801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93813) | council-note | Consolidated comments from Austria and other Member States on Presidency second compromise text on Title III (Certification), Article 71-97 | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
 | 2026-09-29 | [WK 14896/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94268) | council-note | Comments from Austria and other Member States on Recitals 1-172 and Articles 1-70 of the second Presidency compromise text | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
-| 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Title IV (ICT Supply Chain) | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
+| 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Title IV (ICT Supply Chain) - Presentation by the Presidency | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
 
 ## Texts as Markdown
 
