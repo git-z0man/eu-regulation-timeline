@@ -59,76 +59,76 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-20 | ST 15698/25 ADD 2 | council-transmission | COMMISSION STAFF WORKING DOCUMENT Accompanying the documents Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Amending Regulations (EU) … | public status unknown | – |
-| 2025-11-20 | ST 15708/25 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the simplification of … | public status unknown | – |
-| 2025-11-29 | [WK 16524/25](https://data.consilium.europa.eu/doc/document/WK-16524-2025-INIT/en/pdf) | council-note | Digital Omnibus and Digital Omnibus on Artificial Intelligence (AI) - Comments from Austria and other Member States | public | – |
-| 2025-12-01 | [WK 16586/25](https://data.consilium.europa.eu/doc/document/WK-16586-2025-INIT/en/pdf) | council-note | Digital Omnibus – Presentation by the Commission (AGS on 1 December) | public | – |
-| 2025-12-04 | ST 16131/25 REV 1 | council-note | Simplification a) 2025 Annual Overview Report b) Annual Progress Reports - Presentation by the Commission - Exchange of views | public status unknown | – |
-| 2025-12-08 | [WK 17004/25](https://data.consilium.europa.eu/doc/document/WK-17004-2025-INIT/en/pdf) | council-note | Digital Omnibus and Digital Omnibus on AI - Comments from Austria and other Member States | public | – |
-| 2025-12-10 | WK 17059/25 | council-note | Presidency discussion note for the AGS on 15 December | public status unknown | – |
-| 2025-12-16 | WK 17396/25 | council-note | Digital Omnibus on AI – Presentation by the Commission (AGS on 15 December) | public status unknown | – |
-| 2025-12-19 | WK 17591/25 | council-note | Presidency discussion note for the AGS on 9 January 2026 | public status unknown | – |
-| 2026-01-09 | WK 251/26 | council-note | Digital Omnibus on AI – Presentation by the Commission (AGS on 9 January 2026 ) | public status unknown | – |
-| 2026-01-09 | WK 252/26 | council-note | Priorities and work programme of the Cyprus Presidency - Presentation by the Presidency (AGS on 9 January 2026) | public status unknown | – |
-| 2026-01-23 | [ST 5638/26](https://data.consilium.europa.eu/doc/document/ST-5638-2026-INIT/en/pdf) | council-compromise | Presidency compromise text | public | – |
-| 2026-01-23 | WK 1027/26 | council-note | Digital Omnibus on AI – Explanatory note | public status unknown | – |
-| 2026-02-05 | [PE782.530](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ40-PR-782530/CJ40-PR-782530_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards … | public | – |
-| 2026-02-06 | ST 6057/26 | council-note | Optional consultation of the Committee of the Regions1 | public status unknown | – |
-| 2026-02-12 | [ST 6245/26](https://data.consilium.europa.eu/doc/document/ST-6245-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text | public | – |
-| 2026-02-13 | WK 2384/26 | council-note | Explanatory note on the second Presidency compromise text – AGS on 18 February | public status unknown | – |
-| 2026-02-14 | PE784.274 | ep-amendments | – | public status unknown | – |
-| 2026-02-14 | PE784.275 | ep-amendments | – | public status unknown | – |
-| 2026-02-14 | PE784.309 | ep-amendments | – | public status unknown | – |
-| 2026-02-23 | WK 17679/25 ADD 1 COR 1 | council-note | compiled comments (ddl 18/12) -CORRIGENDUM | public status unknown | – |
-| 2026-02-23 | WK 17679/25 ADD 1 COR 2 | council-note | compiled comments (ddl 18/12) -CORRIGENDUM | public status unknown | – |
-| 2026-02-23 | WK 17679/25 ADD 1 REV 1 | council-note | compiled comments (ddl 18/12) | public status unknown | – |
-| 2026-02-26 | [PE784.179](https://data.europarl.europa.eu/distribution/reds_iCmOp/JURI-AD-784179/JURI-AD-784179_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – |
-| 2026-03-05 | [ST 6963/26](https://data.consilium.europa.eu/doc/document/ST-6963-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text | public | – |
-| 2026-03-05 | WK 3257/26 | council-note | (Digital Omnibus on AI) - MS comments on the second Presidency compromise text - deadline 26 Feb. 2026 | public status unknown | – |
-| 2026-03-05 | WK 3257/26 ADD 1 | council-note | (Digital Omnibus on AI) - MS comments on the second Presidency compromise text - deadline 26 Feb. 2026 - DE and IT (bis) | public status unknown | – |
-| 2026-03-06 | [PE784.261](https://data.europarl.europa.eu/distribution/reds_iCmOp/CULT-AD-784261/CULT-AD-784261_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – |
-| 2026-03-06 | [ST 6963/26 COR 1](https://data.consilium.europa.eu/doc/document/ST-6963-2026-COR-1/en/pdf) | council-compromise | Third Presidency compromise text | public | – |
-| 2026-03-06 | WK 3257/26 ADD 2 | council-note | (Digital Omnibus on AI) - MS comments on the second Presidency compromise text - deadline 26 Feb. 2026 - BG | public status unknown | – |
-| 2026-03-06 | WK 3432/26 REV 1 | council-note | Explanatory note on the third compromise text – AGS meeting on 9 March 2026 | public status unknown | – |
-| 2026-03-10 | [ST 6969/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-6969-2026-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – |
-| 2026-03-11 | WK 3803/26 | council-note | Digital Omnibus on AI - MS compiled comments on the third Presidency compromise text - AGS meeting of 9 March 2026 | public status unknown | – |
-| 2026-03-11 | WK 3803/26 ADD 1 | council-note | Digital Omnibus on AI - MS compiled comments on the third Presidency compromise text - AGS meeting of 9 March 2026 - additional comments FR & IT | public status unknown | – |
-| 2026-03-17 | ST 7384/26 | council-transmission | European Central Bank/ ECB Opinion | public status unknown | – |
-| 2026-03-18 | [CELEX 52025AE3929](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) … | public | – |
-| 2026-03-19 | [A10-0073/2026](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – |
-| 2026-03-20 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-26 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-03-26 | [P10_TA(2026)0098](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0098_en.pdf) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public | – |
-| 2026-03-27 | [WK 4547/26](https://data.consilium.europa.eu/doc/document/WK-4547-2026-INIT/en/pdf) | trilogue | 4 column document – AGS meeting on 1 April 2026 | public | – |
-| 2026-04-17 | [ST 8253/26](https://data.consilium.europa.eu/doc/document/ST-8253-2026-INIT/en/pdf) | trilogue | 4-column table | public | – |
-| 2026-04-17 | [ST 8260/26](https://data.consilium.europa.eu/doc/document/ST-8260-2026-INIT/en/pdf) | council-position | Revised mandate for negotiations with the European Parliament | public | – |
-| 2026-04-24 | WK 5890/26 | council-note | Follow-up to the AGS of 24 April 2026 - Presentation of the European Central Bank | public status unknown | – |
-| 2026-04-30 | ST 8689/26 | council-note | Preparation for the trilogue | public status unknown | – |
-| 2026-05-07 | [CELEX 52025AR4240](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240) | opinion | Opinion of the European Committee of the Regions – Digital simplification and Data Union Strategy | public | – |
-| 2026-05-08 | [ST 9034/26](https://data.consilium.europa.eu/doc/document/ST-9034-2026-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – |
-| 2026-05-12 | PE 30/26 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification … | public status unknown | – |
-| 2026-05-13 | [PE789.081](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ40-AG-789081/CJ40-AG-789081_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation Amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as … | public | – |
-| 2026-05-13 | ST 9247/26 | council-note | Letter sent to the European Parliament | public status unknown | – |
-| 2026-06-05 | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – |
-| 2026-06-12 | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – |
-| 2026-06-16 | [P10_TA(2026)0198](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public | – |
-| 2026-06-22 | ST 10752/26 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – |
-| 2026-06-22 | ST 10752/26 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – |
-| 2026-06-24 | ST 10752/26 ADD 2 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-20 | ST 15698/25 ADD 2 | council-transmission | COMMISSION STAFF WORKING DOCUMENT Accompanying the documents Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Amending Regulations (EU) … | public status unknown | – | – |
+| 2025-11-20 | ST 15708/25 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the simplification of … | public status unknown | – | – |
+| 2025-11-29 | [WK 16524/25](https://data.consilium.europa.eu/doc/document/WK-16524-2025-INIT/en/pdf) | council-note | Digital Omnibus and Digital Omnibus on Artificial Intelligence (AI) - Comments from Austria and other Member States | public | – | – |
+| 2025-12-01 | [WK 16586/25](https://data.consilium.europa.eu/doc/document/WK-16586-2025-INIT/en/pdf) | council-note | Digital Omnibus – Presentation by the Commission (AGS on 1 December) | public | – | – |
+| 2025-12-04 | ST 16131/25 REV 1 | council-note | Simplification a) 2025 Annual Overview Report b) Annual Progress Reports - Presentation by the Commission - Exchange of views | public status unknown | – | – |
+| 2025-12-08 | [WK 17004/25](https://data.consilium.europa.eu/doc/document/WK-17004-2025-INIT/en/pdf) | council-note | Digital Omnibus and Digital Omnibus on AI - Comments from Austria and other Member States | public | – | – |
+| 2025-12-10 | WK 17059/25 | council-note | Presidency discussion note for the AGS on 15 December | public status unknown | – | – |
+| 2025-12-16 | WK 17396/25 | council-note | Digital Omnibus on AI – Presentation by the Commission (AGS on 15 December) | public status unknown | – | – |
+| 2025-12-19 | WK 17591/25 | council-note | Presidency discussion note for the AGS on 9 January 2026 | public status unknown | – | – |
+| 2026-01-09 | WK 251/26 | council-note | Digital Omnibus on AI – Presentation by the Commission (AGS on 9 January 2026 ) | public status unknown | – | – |
+| 2026-01-09 | WK 252/26 | council-note | Priorities and work programme of the Cyprus Presidency - Presentation by the Presidency (AGS on 9 January 2026) | public status unknown | – | – |
+| 2026-01-23 | [ST 5638/26](https://data.consilium.europa.eu/doc/document/ST-5638-2026-INIT/en/pdf) | council-compromise | Presidency compromise text | public | – | – |
+| 2026-01-23 | WK 1027/26 | council-note | Digital Omnibus on AI – Explanatory note | public status unknown | – | – |
+| 2026-02-05 | [PE782.530](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ40-PR-782530/CJ40-PR-782530_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards … | public | – | – |
+| 2026-02-06 | ST 6057/26 | council-note | Optional consultation of the Committee of the Regions1 | public status unknown | – | – |
+| 2026-02-12 | [ST 6245/26](https://data.consilium.europa.eu/doc/document/ST-6245-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text | public | – | – |
+| 2026-02-13 | WK 2384/26 | council-note | Explanatory note on the second Presidency compromise text – AGS on 18 February | public status unknown | – | – |
+| 2026-02-14 | PE784.274 | ep-amendments | – | public status unknown | – | – |
+| 2026-02-14 | PE784.275 | ep-amendments | – | public status unknown | – | – |
+| 2026-02-14 | PE784.309 | ep-amendments | – | public status unknown | – | – |
+| 2026-02-23 | WK 17679/25 ADD 1 COR 1 | council-note | compiled comments (ddl 18/12) -CORRIGENDUM | public status unknown | – | – |
+| 2026-02-23 | WK 17679/25 ADD 1 COR 2 | council-note | compiled comments (ddl 18/12) -CORRIGENDUM | public status unknown | – | – |
+| 2026-02-23 | WK 17679/25 ADD 1 REV 1 | council-note | compiled comments (ddl 18/12) | public status unknown | – | – |
+| 2026-02-26 | [PE784.179](https://data.europarl.europa.eu/distribution/reds_iCmOp/JURI-AD-784179/JURI-AD-784179_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – | – |
+| 2026-03-05 | [ST 6963/26](https://data.consilium.europa.eu/doc/document/ST-6963-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text | public | – | – |
+| 2026-03-05 | WK 3257/26 | council-note | (Digital Omnibus on AI) - MS comments on the second Presidency compromise text - deadline 26 Feb. 2026 | public status unknown | – | – |
+| 2026-03-05 | WK 3257/26 ADD 1 | council-note | (Digital Omnibus on AI) - MS comments on the second Presidency compromise text - deadline 26 Feb. 2026 - DE and IT (bis) | public status unknown | – | – |
+| 2026-03-06 | [PE784.261](https://data.europarl.europa.eu/distribution/reds_iCmOp/CULT-AD-784261/CULT-AD-784261_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – | – |
+| 2026-03-06 | [ST 6963/26 COR 1](https://data.consilium.europa.eu/doc/document/ST-6963-2026-COR-1/en/pdf) | council-compromise | Third Presidency compromise text | public | – | – |
+| 2026-03-06 | WK 3257/26 ADD 2 | council-note | (Digital Omnibus on AI) - MS comments on the second Presidency compromise text - deadline 26 Feb. 2026 - BG | public status unknown | – | – |
+| 2026-03-06 | WK 3432/26 REV 1 | council-note | Explanatory note on the third compromise text – AGS meeting on 9 March 2026 | public status unknown | – | – |
+| 2026-03-10 | [ST 6969/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-6969-2026-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | – |
+| 2026-03-11 | WK 3803/26 | council-note | Digital Omnibus on AI - MS compiled comments on the third Presidency compromise text - AGS meeting of 9 March 2026 | public status unknown | – | – |
+| 2026-03-11 | WK 3803/26 ADD 1 | council-note | Digital Omnibus on AI - MS compiled comments on the third Presidency compromise text - AGS meeting of 9 March 2026 - additional comments FR & IT | public status unknown | – | – |
+| 2026-03-17 | ST 7384/26 | council-transmission | European Central Bank/ ECB Opinion | public status unknown | – | – |
+| 2026-03-18 | [CELEX 52025AE3929](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) … | public | – | – |
+| 2026-03-19 | [A10-0073/2026](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – | – |
+| 2026-03-20 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-26 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-26 | [P10_TA(2026)0098](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0098_en.pdf) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public | – | – |
+| 2026-03-27 | [WK 4547/26](https://data.consilium.europa.eu/doc/document/WK-4547-2026-INIT/en/pdf) | trilogue | 4 column document – AGS meeting on 1 April 2026 | public | – | – |
+| 2026-04-17 | [ST 8253/26](https://data.consilium.europa.eu/doc/document/ST-8253-2026-INIT/en/pdf) | trilogue | 4-column table | public | – | – |
+| 2026-04-17 | [ST 8260/26](https://data.consilium.europa.eu/doc/document/ST-8260-2026-INIT/en/pdf) | council-position | Revised mandate for negotiations with the European Parliament | public | – | – |
+| 2026-04-24 | WK 5890/26 | council-note | Follow-up to the AGS of 24 April 2026 - Presentation of the European Central Bank | public status unknown | – | – |
+| 2026-04-30 | ST 8689/26 | council-note | Preparation for the trilogue | public status unknown | – | – |
+| 2026-05-07 | [CELEX 52025AR4240](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240) | opinion | Opinion of the European Committee of the Regions – Digital simplification and Data Union Strategy | public | – | – |
+| 2026-05-08 | [ST 9034/26](https://data.consilium.europa.eu/doc/document/ST-9034-2026-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
+| 2026-05-12 | PE 30/26 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification … | public status unknown | – | – |
+| 2026-05-13 | [PE789.081](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ40-AG-789081/CJ40-AG-789081_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation Amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as … | public | – | – |
+| 2026-05-13 | ST 9247/26 | council-note | Letter sent to the European Parliament | public status unknown | – | – |
+| 2026-06-05 | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – | – |
+| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-06-12 | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – | – |
+| 2026-06-16 | [P10_TA(2026)0198](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public | – | – |
+| 2026-06-22 | ST 10752/26 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – | – |
+| 2026-06-22 | ST 10752/26 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – | – |
+| 2026-06-24 | ST 10752/26 ADD 2 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – | – |
 
 ## Texts as Markdown
 

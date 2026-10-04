@@ -22,34 +22,34 @@ Drawing: [machinery-regulation.svg](machinery-regulation.svg), [machinery-regula
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2021-04-23 | ST 8095/21 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery products | public status unknown | – |
-| 2021-04-23 | ST 8095/21 ADD 1 | council-transmission | ANNEXES to the Proposal for a Regulation of the European Parliament and of the Council on machinery products | public status unknown | – |
-| 2021-05-03 | ST 8095/21 ADD 2 | council-transmission | REGULATORY SCRUTINY BOARD OPINION Proposal for a Regulation of the European Parliament and of the Council on machinery products | public status unknown | – |
-| 2021-05-03 | ST 8095/21 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the Proposal for a Regulation of the European Parliament and of the Council on machinery … | public status unknown | – |
-| 2021-05-03 | ST 8095/21 ADD 4 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the Proposal for a Regulation of the European Parliament and … | public status unknown | – |
-| 2021-05-04 | [ST 8095/21 COR 1](https://data.consilium.europa.eu/doc/document/ST-8095-2021-COR-1/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery products | public | – |
-| 2021-06-15 | ST 9833/21 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
-| 2021-08-31 | ST 10525/21 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the second quarter of 2021 | public status unknown | – |
-| 2021-09-22 | [CELEX 52021AE2559](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE2559) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council on machinery products’ … | public | – |
-| 2021-11-12 | ST 13569/21 | council-note | Regulation on Machinery Products - Progress Report from the Presidency on the state of play | public status unknown | – |
-| 2021-11-18 | ST 13569/21 REV 1 | council-note | Regulation on Machinery Products - Progress Report from the Presidency on the state of play | public status unknown | – |
-| 2022-03-01 | ST 6724/22 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the fourth quarter of 2021 | public status unknown | – |
-| 2022-05-05 | [A9-0141/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0141/A-9-2022-0141_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on Machinery products | public | – |
-| 2022-06-24 | ST 9801/22 REV 1 COR 1 | council-text | – | not public\* | – |
-| 2022-07-29 | ST 11407/22 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the first and second quarter of 2022 | public status unknown | – |
-| 2023-01-26 | ST 5617/23 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – |
-| 2023-03-22 | ST 7740/23 | council-note | List of working papers (WK) distributed to the Working Party on Technical Harmonisation (Machinery) in the third and the fourth quarter of 2022 | public status unknown | – |
-| 2023-04-18 | [P9_TA(2023)0097](https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0097_en.pdf) | ep-position | Machinery | public | – |
-| 2023-04-21 | ST 8293/23 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 17 to 20 April 2023) | public status unknown | – |
-| 2023-05-10 | PE 6/23 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery | public status unknown | – |
-| 2023-05-15 | ST 8698/23 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery (first reading) - Adoption of the legislative act | public status unknown | – |
-| 2023-05-15 | ST 8698/23 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery (first reading) - Adoption of the legislative act = Statement | public status unknown | – |
-| 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the COUNCIL OF … | public status unknown | – |
-| 2023-06-14 | PE 6/23 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON MACHINERY AND REPEALING DIRECTIVE 2006/42/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AND … | public status unknown | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2021-04-23 | ST 8095/21 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery products | public status unknown | – | – |
+| 2021-04-23 | ST 8095/21 ADD 1 | council-transmission | ANNEXES to the Proposal for a Regulation of the European Parliament and of the Council on machinery products | public status unknown | – | – |
+| 2021-05-03 | ST 8095/21 ADD 2 | council-transmission | REGULATORY SCRUTINY BOARD OPINION Proposal for a Regulation of the European Parliament and of the Council on machinery products | public status unknown | – | – |
+| 2021-05-03 | ST 8095/21 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the Proposal for a Regulation of the European Parliament and of the Council on machinery … | public status unknown | – | – |
+| 2021-05-03 | ST 8095/21 ADD 4 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the Proposal for a Regulation of the European Parliament and … | public status unknown | – | – |
+| 2021-05-04 | [ST 8095/21 COR 1](https://data.consilium.europa.eu/doc/document/ST-8095-2021-COR-1/en/pdf) | council-text | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery products | public | – | – |
+| 2021-06-15 | ST 9833/21 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – | – |
+| 2021-08-31 | ST 10525/21 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the second quarter of 2021 | public status unknown | – | – |
+| 2021-09-22 | [CELEX 52021AE2559](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE2559) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council on machinery products’ … | public | – | – |
+| 2021-11-12 | ST 13569/21 | council-note | Regulation on Machinery Products - Progress Report from the Presidency on the state of play | public status unknown | – | – |
+| 2021-11-18 | ST 13569/21 REV 1 | council-note | Regulation on Machinery Products - Progress Report from the Presidency on the state of play | public status unknown | – | – |
+| 2022-03-01 | ST 6724/22 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the fourth quarter of 2021 | public status unknown | – | – |
+| 2022-05-05 | [A9-0141/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0141/A-9-2022-0141_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on Machinery products | public | – | – |
+| 2022-06-24 | ST 9801/22 REV 1 COR 1 | council-text | – | not public\* | – | – |
+| 2022-07-29 | ST 11407/22 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the first and second quarter of 2022 | public status unknown | – | – |
+| 2023-01-26 | ST 5617/23 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – | – |
+| 2023-03-22 | ST 7740/23 | council-note | List of working papers (WK) distributed to the Working Party on Technical Harmonisation (Machinery) in the third and the fourth quarter of 2022 | public status unknown | – | – |
+| 2023-04-18 | [P9_TA(2023)0097](https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0097_en.pdf) | ep-position | Machinery | public | – | – |
+| 2023-04-21 | ST 8293/23 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 17 to 20 April 2023) | public status unknown | – | – |
+| 2023-05-10 | PE 6/23 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery | public status unknown | – | – |
+| 2023-05-15 | ST 8698/23 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery (first reading) - Adoption of the legislative act | public status unknown | – | – |
+| 2023-05-15 | ST 8698/23 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery (first reading) - Adoption of the legislative act = Statement | public status unknown | – | – |
+| 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the COUNCIL OF … | public status unknown | – | – |
+| 2023-06-14 | PE 6/23 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON MACHINERY AND REPEALING DIRECTIVE 2006/42/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AND … | public status unknown | – | – |
 
 \* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
 

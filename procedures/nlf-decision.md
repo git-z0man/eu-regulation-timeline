@@ -19,11 +19,11 @@ Drawing: [nlf-decision.svg](nlf-decision.svg), [nlf-decision.pdf](nlf-decision.p
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | public | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | public | – | – |
 
 ## Texts as Markdown
 

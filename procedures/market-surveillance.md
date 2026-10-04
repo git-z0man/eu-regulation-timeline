@@ -22,25 +22,25 @@ Drawing: [market-surveillance.svg](market-surveillance.svg), [market-surveillanc
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2018-04-27 | ST 7484/18 | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
-| 2018-08-13 | ST 11613/18 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Goods Package) in the 1st quarter of 2018 | public status unknown | – |
-| 2018-08-13 | ST 11614/18 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Goods Package) in the 2nd quarter of 2018 | public status unknown | – |
-| 2018-09-06 | [A8-0277/2018](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-8-2018-0277/A-8-2018-0277_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council laying down rules and procedures for compliance with and enforcement of … | public | – |
-| 2018-11-23 | [ST 14313/18 REV 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14313-2018-REV-1-COR-1/en/pdf) | council-position | mandate for negotiations with the European Parliament | public | – |
-| 2019-02-05 | ST 5841/19 | council-note | Preparation for the trilogue | public status unknown | – |
-| 2019-02-14 | [ST 6155/19](https://data.consilium.europa.eu/doc/document/ST-6155-2019-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – |
-| 2019-04-01 | ST 8106/19 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Goods Package) in the 1st quarter of 2019 | public status unknown | – |
-| 2019-04-30 | ST 8438/19 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 15 to 18 April 2019) | public status unknown | – |
-| 2019-05-24 | PE 45/19 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations … | public status unknown | – |
-| 2019-05-29 | ST 9429/19 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – |
-| 2019-05-29 | ST 9429/19 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – |
-| 2019-06-07 | ST 9429/19 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – |
-| 2019-06-18 | ST 10075/19 | council-note | Voting result REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – |
-| 2019-06-20 | PE 45/19 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON MARKET SURVEILLANCE AND COMPLIANCE OF PRODUCTS AND AMENDING DIRECTIVE 2004/42/EC AND REGULATIONS … | public status unknown | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2018-04-27 | ST 7484/18 | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – | – |
+| 2018-08-13 | ST 11613/18 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Goods Package) in the 1st quarter of 2018 | public status unknown | – | – |
+| 2018-08-13 | ST 11614/18 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Goods Package) in the 2nd quarter of 2018 | public status unknown | – | – |
+| 2018-09-06 | [A8-0277/2018](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-8-2018-0277/A-8-2018-0277_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council laying down rules and procedures for compliance with and enforcement of … | public | – | – |
+| 2018-11-23 | [ST 14313/18 REV 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14313-2018-REV-1-COR-1/en/pdf) | council-position | mandate for negotiations with the European Parliament | public | – | – |
+| 2019-02-05 | ST 5841/19 | council-note | Preparation for the trilogue | public status unknown | – | – |
+| 2019-02-14 | [ST 6155/19](https://data.consilium.europa.eu/doc/document/ST-6155-2019-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
+| 2019-04-01 | ST 8106/19 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Goods Package) in the 1st quarter of 2019 | public status unknown | – | – |
+| 2019-04-30 | ST 8438/19 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 15 to 18 April 2019) | public status unknown | – | – |
+| 2019-05-24 | PE 45/19 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations … | public status unknown | – | – |
+| 2019-05-29 | ST 9429/19 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – | – |
+| 2019-05-29 | ST 9429/19 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – | – |
+| 2019-06-07 | ST 9429/19 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – | – |
+| 2019-06-18 | ST 10075/19 | council-note | Voting result REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on market surveillance and compliance of products and amending Directive 2004/42/EC and … | public status unknown | – | – |
+| 2019-06-20 | PE 45/19 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON MARKET SURVEILLANCE AND COMPLIANCE OF PRODUCTS AND AMENDING DIRECTIVE 2004/42/EC AND REGULATIONS … | public status unknown | – | – |
 
 ## Texts as Markdown
 

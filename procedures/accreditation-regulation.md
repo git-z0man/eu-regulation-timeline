@@ -19,11 +19,11 @@ Drawing: [accreditation-regulation.svg](accreditation-regulation.svg), [accredit
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – | – |
 
 ## Texts as Markdown
 

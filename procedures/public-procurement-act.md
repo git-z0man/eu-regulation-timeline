@@ -21,23 +21,23 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2026-09-10 | [ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | public | – |
-| 2026-09-10 | [ST 12969/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | public | – |
-| 2026-09-10 | [ST 12969/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-2/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public … | public | – |
-| 2026-09-10 | [ST 12969/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-3/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public | – |
-| 2026-09-10 | [ST 12969/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … | public | – |
-| 2026-09-10 | [ST 12969/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-5/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION Public Procurement Act | public | – |
-| 2026-09-10 | WK 13868/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 September 2026: Presidency Flash | not public\* | – |
-| 2026-09-11 | WK 13779/26 | council-note | Procedure regarding the Impact Assessment | not public\* | – |
-| 2026-09-21 | [WK 14274/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92746) | council-note | Impact Assessment - Presentation by the Commission | not public (LIMITE)\* | – |
-| 2026-09-21 | [WK 14276/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92738) | council-note | Presentation by the Commission | not public (LIMITE)\* | – |
-| 2026-09-25 | WK 14815/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026: Presidency Flash | not public\* | – |
-| 2026-10-02 | [WK 15255/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95107) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026 - Presentation by the Presidency | not public (LIMITE)\* | – |
-| 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public (LIMITE)\* | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-10 | [ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | public | – | – |
+| 2026-09-10 | [ST 12969/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | public | – | – |
+| 2026-09-10 | [ST 12969/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-2/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public … | public | – | – |
+| 2026-09-10 | [ST 12969/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-3/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public | – | – |
+| 2026-09-10 | [ST 12969/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … | public | – | – |
+| 2026-09-10 | [ST 12969/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-5/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION Public Procurement Act | public | – | – |
+| 2026-09-10 | WK 13868/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 September 2026: Presidency Flash | not public\* | – | – |
+| 2026-09-11 | WK 13779/26 | council-note | Procedure regarding the Impact Assessment | not public\* | – | – |
+| 2026-09-21 | [WK 14274/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92746) | council-note | Impact Assessment - Presentation by the Commission | not public\* | – | – |
+| 2026-09-21 | [WK 14276/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92738) | council-note | Presentation by the Commission | not public\* | – | – |
+| 2026-09-25 | WK 14815/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026: Presidency Flash | not public\* | – | – |
+| 2026-10-02 | [WK 15255/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95107) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026 - Presentation by the Presidency | not public\* | – | – |
+| 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 
 \* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
 

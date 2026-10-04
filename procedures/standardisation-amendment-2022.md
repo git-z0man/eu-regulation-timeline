@@ -20,21 +20,21 @@ Drawing: [standardisation-amendment-2022.svg](standardisation-amendment-2022.svg
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). "Unofficially leaked": a copy is known to circulate outside the institutions; it is not published here.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
 
-| Date | Document | Kind | Subject | Status | Text |
-| --- | --- | --- | --- | --- | --- |
-| 2022-02-03 | ST 5960/22 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) No 1025/2012 as regards the decisions of European … | public status unknown | – |
-| 2022-04-22 | ST 8291/22 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
-| 2022-04-29 | ST 8449/22 | council-note | Proposition de Règlement du Parlement Européen et du Conseil modifiant le Règlement (UE) No 1025/2012 en ce qui concerne les décisions des organisations … | public status unknown | – |
-| 2022-05-02 | ST 8449/22 REV 1 | council-note | Proposition de Règlement du Parlement Européen et du Conseil modifiant le Règlement (UE) No 1025/2012 en ce qui concerne les décisions des organisations … | public status unknown | – |
-| 2022-07-14 | [A9-0205/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0205/A-9-2022-0205_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 1025/2012 as regards the decisions of … | public | – |
-| 2022-11-24 | ST 15016/22 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 21 to 24 November 2022) | public status unknown | – |
-| 2022-11-30 | PE 58/22 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) No 1025/2012 as regards decisions of European standardisation organisations … | public status unknown | – |
-| 2022-12-02 | ST 15145/22 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) No 1025/2012 as regards decisions of European standardisation … | public status unknown | – |
-| 2022-12-09 | ST 15795/22 | council-note | Voting result Regulation of the European Parliament and of the Council amending Regulation (EU) No 1025/2012 as regards decisions of European standardisation … | public status unknown | – |
-| 2022-12-14 | PE 58/22 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AMENDING REGULATION (EU) NO 1025/2012 AS REGARDS DECISIONS OF EUROPEAN STANDARDISATION ORGANISATIONS … | public status unknown | – |
-| 2023-02-28 | ST 6953/23 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – |
+| Date | Document | Kind | Subject | Status | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-03 | ST 5960/22 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) No 1025/2012 as regards the decisions of European … | public status unknown | – | – |
+| 2022-04-22 | ST 8291/22 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – | – |
+| 2022-04-29 | ST 8449/22 | council-note | Proposition de Règlement du Parlement Européen et du Conseil modifiant le Règlement (UE) No 1025/2012 en ce qui concerne les décisions des organisations … | public status unknown | – | – |
+| 2022-05-02 | ST 8449/22 REV 1 | council-note | Proposition de Règlement du Parlement Européen et du Conseil modifiant le Règlement (UE) No 1025/2012 en ce qui concerne les décisions des organisations … | public status unknown | – | – |
+| 2022-07-14 | [A9-0205/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0205/A-9-2022-0205_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 1025/2012 as regards the decisions of … | public | – | – |
+| 2022-11-24 | ST 15016/22 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 21 to 24 November 2022) | public status unknown | – | – |
+| 2022-11-30 | PE 58/22 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) No 1025/2012 as regards decisions of European standardisation organisations … | public status unknown | – | – |
+| 2022-12-02 | ST 15145/22 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) No 1025/2012 as regards decisions of European standardisation … | public status unknown | – | – |
+| 2022-12-09 | ST 15795/22 | council-note | Voting result Regulation of the European Parliament and of the Council amending Regulation (EU) No 1025/2012 as regards decisions of European standardisation … | public status unknown | – | – |
+| 2022-12-14 | PE 58/22 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AMENDING REGULATION (EU) NO 1025/2012 AS REGARDS DECISIONS OF EUROPEAN STANDARDISATION ORGANISATIONS … | public status unknown | – | – |
+| 2023-02-28 | ST 6953/23 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – | – |
 
 ## Texts as Markdown
 
