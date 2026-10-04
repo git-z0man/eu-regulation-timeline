@@ -10,59 +10,59 @@
   },
   {
    "date": "2026-10-02",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 627 – Cybersecurity requirements for routers, modems intended for the connection to the internet: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 627",
-   "page": "cra.html"
+   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council progress report of 2026-05-13 (Progress report), listed as not public since 2026-09-30",
+   "doc": "ST 9121/26",
+   "page": "nis2-amendment.html"
   },
   {
    "date": "2026-10-02",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Drafting Stage – Stable draft",
-   "doc": "EN 304 619",
-   "page": "cra.html"
+   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-07-02 (Comments from Austria and other Member States), listed as not public since 2026-09-30",
+   "doc": "WK 9750/26",
+   "page": "nis2-amendment.html"
   },
   {
-   "date": "2026-10-01",
-   "title": "MR",
-   "actor": "CEN/TC 114",
-   "label": "prEN ISO 14159 – Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026): Under Approval",
-   "doc": "prEN ISO 14159",
-   "page": "machinery-regulation.html"
+   "date": "2026-10-02",
+   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-06-30 (Non-paper regarding an European Cyber Posture Framework Built on Existing National …), listed as not public since 2026-09-30",
+   "doc": "WK 9618/26",
+   "page": "nis2-amendment.html"
   },
   {
-   "date": "2026-10-01",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "FprEN 40000-1-2 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Under Approval",
-   "doc": "FprEN 40000-1-2",
-   "page": "cra.html"
+   "date": "2026-10-02",
+   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-06-01 (Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification …), listed as not public since 2026-09-30",
+   "doc": "WK 7789/26",
+   "page": "nis2-amendment.html"
   },
   {
-   "date": "2026-10-01",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "FprEN 40000-1-1 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Under Approval",
-   "doc": "FprEN 40000-1-1",
-   "page": "cra.html"
+   "date": "2026-10-02",
+   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-05-29 (Consolidated informal amendments), listed as not public since 2026-09-30",
+   "doc": "WK 7723/26",
+   "page": "nis2-amendment.html"
   },
   {
-   "date": "2026-10-01",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18283 – Artificial Intelligence - Concepts, measures and requirements for managing bias in AI syst: Under Enquiry",
-   "doc": "prEN 18283",
-   "page": "ai-act.html"
+   "date": "2026-10-02",
+   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-03-24 (Optional consultation of the Committee of the Regions), listed as not public since 2026-09-30",
+   "doc": "ST 7558/26",
+   "page": "nis2-amendment.html"
   },
   {
-   "date": "2026-09-29",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 626",
-   "page": "cra.html"
+   "date": "2026-10-02",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council progress report of 2026-05-13 (Progress report), listed as not public since 2026-09-25",
+   "doc": "ST 9121/26",
+   "page": "csa2.html"
   }
  ]
 }
