@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="1052" viewBox="0 0 1800 1052" font-family="Helvetica, Arial, sans-serif">
 <rect width="1800" height="1052" fill="#ffffff"/>
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)</tspan></text>
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0011(COD). Upper part: the ordinary legislative procedure (Art. 294 TFEU); steps done (blue) and in progress (orange) as of 02 Oct 2026. Lower part: the act&#x27;s procedure over time. Every event cites its source (see csa2.html).</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0011(COD). Upper part: the ordinary legislative procedure (Art. 294 TFEU); steps done (blue) and in progress (orange) as of 04 Oct 2026. Lower part: the act&#x27;s procedure over time. Every event cites its source (see csa2.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="20.0" y="150.0" width="190.0" height="58.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="2.5"/>
 <text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="167.8">Commission proposal</tspan></text>
@@ -88,8 +88,8 @@
 <rect x="20.0" y="850.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="858.0" width="6.0" height="70.0" fill="#444444" stroke="none"/>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
-<line x1="1388.6" y1="420.0" x2="1388.6" y2="936.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="1388.6" y="946.1">as of 02 Oct 2026</tspan></text>
+<line x1="1397.2" y1="420.0" x2="1397.2" y2="936.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="1397.2" y="946.1">as of 04 Oct 2026</tspan></text>
 <rect x="317.5" y="802.0" width="666.7" height="10.0" fill="#4a3aa7" stroke="none" opacity="0.25"/>
 <text font-size="8" fill="#52514e" text-anchor="start"><tspan x="321.5" y="822.3">Cyprus Presidency – Horizontal Working Party on Cyber Issues (15 meetings)</tspan></text>
 <rect x="988.5" y="802.0" width="369.9" height="10.0" fill="#4a3aa7" stroke="none" opacity="0.25"/>
@@ -147,6 +147,9 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2746-2026-INIT/en/pdf" target="_blank"><title>11 May 2026: Horizontal Working Party on Cyber Issues: Discussion on Articles 46 and 47 Examination of the proposal … – CM 2746/26</title><polygon points="769.1780821917808,801.0 775.1780821917808,807.0 769.1780821917808,813.0 763.1780821917808,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="765.2" y="759.0" width="623.7" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2746-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="769.2" y="768.1">11 May 2026 · Horizontal Working Party on Cyber Issues: Discussion on Articles 46 and 47 Examination of the proposal … (CM 2746/26)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><title>13 May 2026: Progress report – ST 9121/26</title><polygon points="777.7808219178082,801.0 783.7808219178082,807.0 777.7808219178082,813.0 771.7808219178082,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<rect x="773.8" y="847.0" width="205.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="777.8" y="856.1">13 May 2026 · Progress report (ST 9121/26)</tspan></text></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2801-2026-REV-1/en/pdf" target="_blank"><title>18 May 2026: Horizontal Working Party on Cyber Issues: Examination of the proposal: remaining Articles and Annexes – Draft … – CM 2801/26 REV 1</title><polygon points="799.2876712328767,801.0 805.2876712328767,807.0 799.2876712328767,813.0 793.2876712328767,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <rect x="795.3" y="847.0" width="684.8" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2801-2026-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="799.3" y="856.1">18 May 2026 · Horizontal Working Party on Cyber Issues: Examination of the proposal: remaining Articles and Annexes – Draft … (CM 2801/26 REV 1)</tspan></text></a>

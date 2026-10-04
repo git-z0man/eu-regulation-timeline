@@ -1,14 +1,14 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 02 Oct 2026.
+Procedure 2026/0011(COD), as of 04 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
-- **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 30 Sep 2026 · Council: Title IV (ICT Supply Chain) - Presentation by the Presidency (WK 15065/26)
+- **Council:** working party, latest document 02 Oct 2026
+- **Latest activity:** 02 Oct 2026 · Council: Proposal for a Regulation of the European Parliament and of the Council on the European … (WK 15236/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -32,6 +32,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-04-29 | Consultative bodies | EESC opinion | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | Cellar (CELEX 52026AE0075); ST 9399/26, point 6 |
 | 2026-05-04 | Council | Horizontal Working Party on Cyber Issues: Examination of the proposal (Articles 98 – 117) doc. (5611/26) | [CM 2630/26](https://data.consilium.europa.eu/doc/document/CM-2630-2026-INIT/en/pdf) | Council register, CM 2630/26 (notice of meeting and provisional agenda) |
 | 2026-05-11 | Council | Horizontal Working Party on Cyber Issues: Discussion on Articles 46 and 47 Examination of the proposal … | [CM 2746/26](https://data.consilium.europa.eu/doc/document/CM-2746-2026-INIT/en/pdf) | Council register, CM 2746/26 (notice of meeting and provisional agenda) |
+| 2026-05-13 | Council | Progress report | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-13_council-progress-report-st-9121-26.en.md) | Cellar procedure file 2026/11 (Council register) |
 | 2026-05-18 | Council | Horizontal Working Party on Cyber Issues: Examination of the proposal: remaining Articles and Annexes – Draft … | [CM 2801/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-2801-2026-REV-1/en/pdf) | Council register, CM 2801/26 REV 1 (notice of meeting and provisional agenda) |
 | 2026-05-22 | Council | Presidency progress report to Coreper and Council | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | Council progress report ST 9399/26 |
 | 2026-05-27 | Council | Presidency compromise text, Titles II (ENISA) and III (certification) | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) · [en.md](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | Council register (public document) |
@@ -65,38 +66,38 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-02-05 | WK 1942/26 | council-note | New cybersecurity package: correspondence tables of articles and recitals | not public\* | – |
 | 2026-02-10 | [WK 2167/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/58163) | council-note | Presentation by the Commission of Title IV (Security of ICT supply chains) CSA2 - Presentation by the Commission of the proposal for a Directive amending NIS 2 | not public (LIMITE)\* | – |
 | 2026-02-17 | [ST 5611/26 ADD 3 REV 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3-REV-1/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review | public | – |
-| 2026-03-10 | [WK 3703/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/63024) | council-note | Template for the submission of drafting suggestions on Articles 1-70 | not public (LIMITE)\* | – |
+| 2026-03-10 | [WK 3703/26](https://data.consilium.europa.eu/doc/document/WK-3703-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on Articles 1-70 | public | – |
 | 2026-03-19 | [ST 7519/26](https://data.consilium.europa.eu/doc/document/ST-7519-2026-INIT/en/pdf) | council-note | Joint opinion of the European Data Protection Board and European Data Protection Supervisor | public | – |
-| 2026-03-24 | [ST 7558/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/65232) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE)\* | – |
+| 2026-03-24 | [ST 7558/26](https://data.consilium.europa.eu/doc/document/ST-7558-2026-INIT/en/pdf) | council-note | Optional consultation of the Committee of the Regions | public | – |
 | 2026-04-01 | [WK 4947/26](https://data.consilium.europa.eu/doc/document/WK-4947-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on Articles 71-97 | public | – |
 | 2026-04-07 | [WK 4972/26](https://data.consilium.europa.eu/doc/document/WK-4972-2026-INIT/en/pdf) | council-note | Austria's and Member States' consolidated comments on Article 1-70 | public | – |
 | 2026-04-20 | [ST 8339/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/68338) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Spanish Parliament | not public\* | – |
-| 2026-04-22 | [WK 5353/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/68830) | council-note | Consolidated comments from Austria and other Member States on Articles 71-97 | not public (LIMITE)\* | – |
+| 2026-04-22 | [WK 5353/26](https://data.consilium.europa.eu/doc/document/WK-5353-2026-INIT/en/pdf) | council-note | Consolidated comments from Austria and other Member States on Articles 71-97 | public | – |
 | 2026-04-29 | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency … | public | – |
 | 2026-05-06 | [ST 8980/26](https://data.consilium.europa.eu/doc/document/ST-8980-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee | public | – |
 | 2026-05-08 | [WK 6627/26](https://data.consilium.europa.eu/doc/document/WK-6627-2026-INIT/en/pdf) | council-note | Presentation by the Commission | public | – |
 | 2026-05-12 | [WK 6725/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/71835) | council-note | Presentation by the Commission on Articles 46 (Structure of ENISA's budget) and 47 (Fees) | not public (LIMITE)\* | – |
 | 2026-05-12 | [WK 6727/26](https://data.consilium.europa.eu/doc/document/WK-6727-2026-INIT/en/pdf) | council-note | Presentation by the Commission on ICT supply chains in electronic communication networks (Articles 110 and 111) | public | – |
-| 2026-05-13 | [ST 9121/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72180) | council-progress-report | Progress report | not public (LIMITE)\* | – |
+| 2026-05-13 | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) | council-progress-report | Progress report | public | [en](../texts/csa2/2026-05-13_council-progress-report-st-9121-26.en.md) |
 | 2026-05-13 | [ST 9238/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72165) | council-note | [5611/26 - COM(2026) 11 final] - Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Parliament of … | not public\* | – |
 | 2026-05-13 | [ST 9257/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72148) | council-note | [5611/26 - COM(2026) 11 final] Proposal for a Directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards … | not public\* | – |
 | 2026-05-18 | [WK 6913/26](https://data.consilium.europa.eu/doc/document/WK-6913-2026-INIT/en/pdf) | council-note | EU cybersecurity certification of cyber posture - Presentation by the Commission | public | – |
 | 2026-05-19 | [ST 9358/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72729) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the French Senate | not public\* | – |
-| 2026-05-19 | [WK 7007/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72726) | council-note | Template for the submission of drafting suggestions for Articles 98-122 | not public (LIMITE)\* | – |
+| 2026-05-19 | [WK 7007/26](https://data.consilium.europa.eu/doc/document/WK-7007-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions for Articles 98-122 | public | – |
 | 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report | public | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) |
 | 2026-05-27 | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | council-compromise | Presidency compromise text Titles II and III | public | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
 | 2026-06-02 | [ST 9972/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/75111) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover Note from the Senate of the Parliament of the Czech Republic | not public\* | – |
 | 2026-07-02 | [WK 5879/26](https://data.consilium.europa.eu/doc/document/WK-5879-2026-INIT/en/pdf) | council-note | Member States' consolidated comments on Articles 98-122 | public | – |
-| 2026-07-02 | [WK 9878/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/81665) | council-note | Template for the submission of drafting suggestions on Articles 3-70 | not public (LIMITE)\* | – |
-| 2026-07-03 | [WK 9938/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/81860) | council-note | Template for the submission of drafting suggestions | not public (LIMITE)\* | – |
-| 2026-07-06 | [WK 10025/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/82169) | council-note | Priorities of the Irish Presidency for cybersecurity - Presentation by the Presidency | not public (LIMITE)\* | – |
-| 2026-07-17 | [WK 10695/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/84576) | council-note | Title IV: Security of ICT Supply Chains: Guiding questions | not public (LIMITE)\* | – |
+| 2026-07-02 | [WK 9878/26](https://data.consilium.europa.eu/doc/document/WK-9878-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on Articles 3-70 | public | – |
+| 2026-07-03 | [WK 9938/26](https://data.consilium.europa.eu/doc/document/WK-9938-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions | public | – |
+| 2026-07-06 | [WK 10025/26](https://data.consilium.europa.eu/doc/document/WK-10025-2026-INIT/en/pdf) | council-note | Priorities of the Irish Presidency for cybersecurity - Presentation by the Presidency | public | – |
+| 2026-07-17 | [WK 10695/26](https://data.consilium.europa.eu/doc/document/WK-10695-2026-INIT/en/pdf) | council-note | Title IV: Security of ICT Supply Chains: Guiding questions | public | – |
 | 2026-07-22 | [WK 10888/26](https://data.consilium.europa.eu/doc/document/WK-10888-2026-INIT/en/pdf) | council-note | German non-paper | public | – |
 | 2026-07-24 | [WK 10993/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/85591) | council-note | Proposal by the French authorities to strengthen Title IV of the Cybersecurity Act 2 (CSA2) and build a Union Cybersecurity trusted framework | not public (LIMITE)\* | – |
-| 2026-07-28 | [WK 11019/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/85780) | council-note | Comments from Austria and other Member States on Articles 3 - 70 | not public (LIMITE)\* | – |
-| 2026-07-29 | [WK 11064/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/85985) | council-note | Comments from Austria and other Member States on Articles 71-97 (certification) | not public (LIMITE)\* | – |
-| 2026-08-07 | [WK 11263/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86580) | council-compromise | Presidency second compromise text Title III | not public (LIMITE)\* | – |
-| 2026-08-07 | [WK 11265/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86588) | council-note | Template for the submission of drafting suggestions on the Presidency second compromise text on Title III (European Cybersecurity Certification Framework, … | not public (LIMITE)\* | – |
+| 2026-07-28 | [WK 11019/26](https://data.consilium.europa.eu/doc/document/WK-11019-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States on Articles 3 - 70 | public | – |
+| 2026-07-29 | [WK 11064/26](https://data.consilium.europa.eu/doc/document/WK-11064-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States on Articles 71-97 (certification) | public | – |
+| 2026-08-07 | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | council-compromise | Presidency second compromise text Title III | public | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
+| 2026-08-07 | [WK 11265/26](https://data.consilium.europa.eu/doc/document/WK-11265-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on the Presidency second compromise text on Title III (European Cybersecurity Certification Framework, … | public | – |
 | 2026-09-04 | [WK 13545/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89949) | council-note | Cybersecurity Act 2: explanatory note on Title III (European Cybersecurity Certification Framework) | not public (LIMITE)\* | – |
 | 2026-09-07 | WK 13637/26 | council-note | Interplay between CADA and CSA2 - Presentation | not public\* | – |
 | 2026-09-08 | [WK 13671/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90341) | council-compromise | Presidency second compromise text Title II (ENISA) | not public (LIMITE)\* | – |
@@ -117,8 +118,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-25 | [WK 14801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93813) | council-note | Consolidated comments from Austria and other Member States on Presidency second compromise text on Title III (Certification), Article 71-97 | not public (LIMITE)\* | – |
 | 2026-09-29 | [WK 14896/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94268) | council-note | Comments from Austria and other Member States on Recitals 1-172 and Articles 1-70 of the second Presidency compromise text | not public (LIMITE)\* | – |
 | 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Title IV (ICT Supply Chain) - Presentation by the Presidency | not public (LIMITE)\* | – |
+| 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-note | Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public (LIMITE)\* | – |
+| 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Proposal for a Regulation of European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public (LIMITE)\* | – |
 
-\* Not public: the registers are checked again daily until the document is released.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
 
 ## Texts as Markdown
 
@@ -127,8 +130,10 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | Date | Stage | Document | Markdown | Read |
 | --- | --- | --- | --- | --- |
 | 2026-01-20 | com-proposal | [CELEX 52026PC0011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011) | [en](../texts/csa2/2026-01-20_com-proposal.en.md) [de](../texts/csa2/2026-01-20_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-01-20_com-proposal.en.md) |
+| 2026-05-13 | council-progress-report | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-13_council-progress-report-st-9121-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-13_council-progress-report-st-9121-26.en.md) |
 | 2026-05-22 | council-progress-report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) |
 | 2026-05-27 | council-compromise | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
+| 2026-08-07 | council-compromise | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
 | 2026-09-18 | ep-draft-report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

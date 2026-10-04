@@ -1,6 +1,6 @@
 # Legislative procedure – NIS-2 amendment – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 30 Sep 2026.
+Procedure 2026/0012(COD), as of 04 Oct 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -20,6 +20,7 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 | 2026-02-26 | European Parliament | ITRE rapporteur appointed (Markéta Gregorová, VERTS-ALE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29) | EP Open Data API, procedure 2026-0012 (participation RAPPORTEUR) |
 | 2026-03-25 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29) | EP Open Data API, procedure 2026-0012 (REFERRAL) |
 | 2026-04-29 | Consultative bodies | EESC opinion | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | Cellar procedure file 2026/12 |
+| 2026-05-13 | Council | Progress report | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) · [en.md](../texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) | Council register document ST 9121/26 (interinstitutional files 2026/0011(COD), 2026/0012(COD)); Cellar links it to procedure 2026/0011(COD) only |
 | 2026-05-22 | Council | Progress report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | Council register document ST 9399/26 (interinstitutional files 2026/0011(COD), 2026/0012(COD)); Cellar links it to procedure 2026/0011(COD) only |
 | 2026-05-28 | Council | Horizontal Working Party on Cyber Issues - attachés: Examination of the Proposal (5627/26 + ADD 1) | [CM 2950/26](https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf) | Council register, CM 2950/26 (notice of meeting and provisional agenda) |
 | 2026-09-24 | European Parliament | ITRE draft report | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) · [en.md](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) | EP Open Data API, procedure 2026-0012 (COMMITTEE_TABLING_REPORT) |
@@ -40,22 +41,22 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-02-10 | [WK 2167/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/58163) | council-note | Presentation by the Commission | not public (LIMITE)\* | – |
 | 2026-02-17 | [ST 5611/26 ADD 3 REV 1](https://data.consilium.europa.eu/doc/document/ST-5611-2026-ADD-3-REV-1/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION - Cybersecurity Act Review | public | – |
 | 2026-03-19 | [ST 7519/26](https://data.consilium.europa.eu/doc/document/ST-7519-2026-INIT/en/pdf) | council-note | Joint opinion of the European Data Protection Board and European Data Protection Supervisor | public | – |
-| 2026-03-24 | [ST 7558/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/65232) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE)\* | – |
+| 2026-03-24 | [ST 7558/26](https://data.consilium.europa.eu/doc/document/ST-7558-2026-INIT/en/pdf) | council-note | Optional consultation of the Committee of the Regions | public | – |
 | 2026-04-20 | [ST 8340/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/68345) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Spanish Parliament | not public\* | – |
 | 2026-04-29 | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency … | public | – |
 | 2026-05-06 | [ST 8980/26](https://data.consilium.europa.eu/doc/document/ST-8980-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee | public | – |
-| 2026-05-13 | [ST 9121/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72180) | council-progress-report | Progress report | not public (LIMITE)\* | – |
+| 2026-05-13 | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) | council-progress-report | Progress report | public | [en](../texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) |
 | 2026-05-13 | [ST 9257/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72148) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian Chamber of Deputies | not public\* | – |
 | 2026-05-19 | [ST 9358/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72729) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the French Senate | not public\* | – |
 | 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report | public | [en](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) |
-| 2026-05-29 | [WK 7723/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/74712) | council-note | Consolidated informal amendments | not public (LIMITE)\* | – |
-| 2026-06-01 | [WK 7789/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/74991) | council-note | Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the Cybersecurity Act 2/Template for the … | not public (LIMITE)\* | – |
+| 2026-05-29 | [WK 7723/26](https://data.consilium.europa.eu/doc/document/WK-7723-2026-INIT/en/pdf) | council-note | Consolidated informal amendments | public | – |
+| 2026-06-01 | [WK 7789/26](https://data.consilium.europa.eu/doc/document/WK-7789-2026-INIT/en/pdf) | council-note | Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the Cybersecurity Act 2/Template for the … | public | – |
 | 2026-06-02 | [ST 9972/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/75111) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover Note from the Senate of the Parliament of the Czech Republic | not public\* | – |
-| 2026-06-30 | [WK 9618/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/80910) | council-note | Non-paper regarding an European Cyber Posture Framework Built on Existing National Experience, Mutual Recognition and Progressive Convergence | not public (LIMITE)\* | – |
-| 2026-07-02 | [WK 9750/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/81594) | council-note | Comments from Austria and other Member States | not public (LIMITE)\* | – |
+| 2026-06-30 | [WK 9618/26](https://data.consilium.europa.eu/doc/document/WK-9618-2026-INIT/en/pdf) | council-note | Non-paper regarding an European Cyber Posture Framework Built on Existing National Experience, Mutual Recognition and Progressive Convergence | public | – |
+| 2026-07-02 | [WK 9750/26](https://data.consilium.europa.eu/doc/document/WK-9750-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States | public | – |
 | 2026-09-24 | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures … | public | [en](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
 
 ## Texts as Markdown
 
@@ -64,6 +65,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | Date | Stage | Document | Markdown | Read |
 | --- | --- | --- | --- | --- |
 | 2026-01-20 | com-proposal | [CELEX 52026PC0013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013) | [en](../texts/nis2-amendment/2026-01-20_com-proposal.en.md) [de](../texts/nis2-amendment/2026-01-20_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-01-20_com-proposal.en.md) |
+| 2026-05-13 | council-progress-report | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) | [en](../texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) |
 | 2026-05-22 | council-progress-report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | [en](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) |
 | 2026-09-24 | ep-draft-report | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.docx) | [en](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) |
 

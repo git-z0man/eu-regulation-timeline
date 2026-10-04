@@ -1,6 +1,6 @@
 # Legislative procedure – IAA – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 30 Sep 2026.
+Procedure 2026/0068(COD), as of 04 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
 - **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 30 Sep 2026 · Council: Guidance for further work (ST 13708/26)
+- **Latest activity:** 30 Sep 2026 · Council: Regulation on accelerating industrial capacity and decarbonisation (Industrial … (ST 13708/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -102,9 +102,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-03 | [WK 13373/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89639) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 09 and 10 September 2026 | not public (LIMITE)\* | – |
 | 2026-09-11 | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of … | public | [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) |
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public (LIMITE)\* | – |
-| 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Guidance for further work | not public (LIMITE)\* | – |
+| 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public (LIMITE)\* | – |
 
-\* Not public: the registers are checked again daily until the document is released.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
 
 ## Texts as Markdown
 
