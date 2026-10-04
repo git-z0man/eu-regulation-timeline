@@ -69,7 +69,7 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 COMMISSION IMPLEMENTING DECISION of 20.1.2025 on a standardisation request to the European Committee for Standardization and to the European Committee for Electrotechnical Standardization as regards machinery and related products in support of Regulation (EU) 2023/1230 of the European Parliament and of the Council
 
-adopted 2025-01-20; expires 2035-01-20; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/605_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)129&lang=en) · [en.md](../texts/machinery-regulation/sreq-m605/2025-01-20_commission-decision.en.md) · [de.md](../texts/machinery-regulation/sreq-m605/2025-01-20_commission-decision.de.md)
+adopted 2025-01-20; expires 2035-01-20; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/605_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)129&lang=en) · [en.md](../texts/machinery-regulation/sreq-m605/2025-01-20_commission-decision.en.md) · [de.md](../texts/machinery-regulation/sreq-m605/2025-01-20_commission-decision.de.md)
 
 | Item | Standard(s) requested | Kind | Deadline | Phase 2 |
 | --- | --- | --- | --- | --- |

@@ -114,13 +114,13 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 COMMISSION IMPLEMENTING DECISION of 31.7.2024 on a standardisation request to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation, and the European Telecommunications Standards Institute as regards digital product passports in support of Union policy on ecodesign requirements for sustainable products and on batteries and waste batteries
 
-adopted 2024-07-31; expires 2028-03-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/604_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2024)5423&lang=en) · [en.md](../texts/espr/sreq-m604/2024-07-31_commission-decision.en.md) · [de.md](../texts/espr/sreq-m604/2024-07-31_commission-decision.de.md)
+adopted 2024-07-31; expires 2028-03-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/604_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2024)5423&lang=en) · [en.md](../texts/espr/sreq-m604/2024-07-31_commission-decision.en.md) · [de.md](../texts/espr/sreq-m604/2024-07-31_commission-decision.de.md)
 
 ### M/604 Amd 1 – C(2025)8024 (under execution)
 
 COMMISSION IMPLEMENTING DECISION of 28.11.2025 amending Implementing Decision C(2024)5423 as regards the legal basis and the deadlines for the adoption of the standards
 
-adopted 2025-11-28; expires 2028-03-30; ESOs: CEN, CENELEC, ETSI; amends M/604. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/604AMD1_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)8024&lang=en) · [en.md](../texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.en.md) · [de.md](../texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.de.md)
+adopted 2025-11-28; expires 2028-03-30; ESOs: CEN, CENELEC, ETSI; amends M/604. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/604AMD1_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)8024&lang=en) · [en.md](../texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.en.md) · [de.md](../texts/espr/sreq-m604-amd1/2025-11-28_commission-decision.de.md)
 
 ## Committees and expert groups
 

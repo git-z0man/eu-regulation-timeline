@@ -84,7 +84,7 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces
 
-adopted 2015-11-25; expires 2021-06-08; ESOs: CEN. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/538_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=en) · [en.md](../texts/gpsr/sreq-m538/2015-11-25_commission-decision.en.md) · [de.md](../texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md)
+adopted 2015-11-25; expires 2021-06-08; ESOs: CEN. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/538_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=en) · [en.md](../texts/gpsr/sreq-m538/2015-11-25_commission-decision.en.md) · [de.md](../texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md)
 
 ### Planned (annual Union work programmes)
 

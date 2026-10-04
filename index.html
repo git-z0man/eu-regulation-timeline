@@ -40,6 +40,7 @@ a:hover { text-decoration-color: currentColor; }
 header.top { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: flex-end; justify-content: space-between; margin-bottom: 16px; }
 h1 { font-size: clamp(20px, 2.4vw, 28px); line-height: 1.2; margin: 0 0 4px; letter-spacing: -.01em; }
 .sub { color: var(--muted); margin: 0; max-width: 70ch; }
+.sub.dl { margin-top: 4px; font-size: 13px; }
 .tools { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .btn, select, input[type="search"] {
   font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
@@ -107,6 +108,9 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
 .row:hover, .row[aria-current="true"] { background: color-mix(in srgb, var(--c) 7%, transparent); }
 .row[aria-current="true"] .name { font-weight: 650; }
 .tl.filtering .row:not(.match) { opacity: .28; filter: saturate(.2); }
+.tl.searching .row:not(.match), .tl.searching .grp.empty { display: none; }
+.tl .nohit { padding: 14px; color: var(--muted); }
+.q-n { flex-basis: 100%; text-align: right; font-size: 12px; color: var(--muted); min-height: 1em; }
 .tl.spot .row:not(.spotlit) { opacity: .45; }
 .bar { position: absolute; top: 50%; height: 14px; transform: translateY(-50%); border: 1px solid var(--c); border-radius: 3px; }
 .bar.in-force { background: var(--cp); }
@@ -180,13 +184,17 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 .sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
 .sitenav a.item:hover { background: var(--chip, #eef1f6); }
 .sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
+  text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.repo:hover { background: var(--chip, #eef1f6); }
 @media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
-  .sitenav .brand { display: none; } }
-</style><nav class="sitenav" aria-label="Site"><a class="brand" href="index.html">EU regulation timeline</a><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a></nav>
+  .sitenav .brand, .sitenav a.repo span { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="index.html">EU regulation timeline</a><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
   <header class="top">
     <div>
       <h1 id="title">EU digital and product regulation</h1>
       <p class="sub" id="subtitle"></p>
+      <p class="sub dl" id="downloads"></p>
     </div>
     <div class="tools">
       <label class="sr" for="profile">Company profile</label>
@@ -195,6 +203,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       <input id="q" type="search" placeholder="Search acts, e.g. CRA" autocomplete="off">
       <kbd aria-hidden="true">/</kbd>
       <button class="btn" type="button" id="theme" aria-label="Toggle dark mode">◐</button>
+      <output class="q-n" id="q-n" for="q" aria-live="polite"></output>
     </div>
   </header>
 
@@ -241,6 +250,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
         <div class="tl-inner" id="tl-inner">
           <div class="axis" aria-hidden="true"><div class="corner">Act</div><div class="years" id="years"></div></div>
           <div id="rows" role="list"></div>
+          <p class="nohit" id="nohit" hidden></p>
           <div class="overlay" id="overlay" aria-hidden="true"></div>
         </div>
       </div>
@@ -263,7 +273,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 </div>
 
 <script type="application/json" id="data">{
- "as_of": "2026-10-03",
+ "as_of": "2026-10-04",
  "horizon": {
   "start": "2024-01-01",
   "end": "2031-01-01"
@@ -330,6 +340,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "CRA – Reg. 2024/2847",
      "group": "Cybersecurity",
      "act_title": "Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements",
+     "names": "cra CRA Cyber Resilience Act 32024R2847",
      "act_url": "http://data.europa.eu/eli/reg/2024/2847/oj",
      "act_md": [
       {
@@ -440,6 +451,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "RED cyber DA 2022/30",
      "group": "Cybersecurity",
      "act_title": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f), of that Directive",
+     "names": "red-cybersecurity RED DA 2022/30 Radio Equipment Directive cybersecurity delegated act 32022R0030",
      "act_url": "http://data.europa.eu/eli/reg_del/2022/30/oj",
      "act_md": [
       {
@@ -515,6 +527,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "NIS-2 – Dir. 2022/2555",
      "group": "Cybersecurity",
      "act_title": "Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union",
+     "names": "nis2 NIS-2 NIS 2 Directive 32022L2555",
      "act_url": "http://data.europa.eu/eli/dir/2022/2555/oj",
      "act_md": [
       {
@@ -635,6 +648,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "CSA 2019/881 → CSA2",
      "group": "Cybersecurity",
      "act_title": "Regulation (EU) 2019/881 on ENISA and on information and communications technology cybersecurity certification",
+     "names": "csa CSA Cybersecurity Act 32019R0881",
      "act_url": "http://data.europa.eu/eli/reg/2019/881/oj",
      "act_md": [
       {
@@ -716,6 +730,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "AI Act – Reg. 2024/1689",
      "group": "AI and digital",
      "act_title": "Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence",
+     "names": "ai-act AI Act Artificial Intelligence Act 32024R1689",
      "act_url": "http://data.europa.eu/eli/reg/2024/1689/oj",
      "act_md": [
       {
@@ -832,6 +847,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "Machinery Reg. 2023/1230",
      "group": "Product framework",
      "act_title": "Regulation (EU) 2023/1230 on machinery",
+     "names": "machinery-regulation MR Machinery Regulation 32023R1230",
      "act_url": "http://data.europa.eu/eli/reg/2023/1230/oj",
      "act_md": [
       {
@@ -934,6 +950,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "PLD – Dir. 2024/2853",
      "group": "Product framework",
      "act_title": "Directive (EU) 2024/2853 on liability for defective products",
+     "names": "pld PLD Product Liability Directive 32024L2853",
      "act_url": "http://data.europa.eu/eli/dir/2024/2853/oj",
      "act_md": [
       {
@@ -1009,6 +1026,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "GPSR – Reg. 2023/988",
      "group": "Product framework",
      "act_title": "Regulation (EU) 2023/988 on general product safety",
+     "names": "gpsr GPSR General Product Safety Regulation 32023R0988",
      "act_url": "http://data.europa.eu/eli/reg/2023/988/oj",
      "act_md": [
       {
@@ -1077,6 +1095,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "IMERA – Reg. 2024/2747",
      "group": "Product framework",
      "act_title": "Regulation (EU) 2024/2747 establishing a framework of measures related to an internal market emergency and to the resilience of the internal market",
+     "names": "imera IMERA Internal Market Emergency and Resilience Act 32024R2747",
      "act_url": "http://data.europa.eu/eli/reg/2024/2747/oj",
      "act_md": [
       {
@@ -1159,6 +1178,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "EPA (NLF revision)",
      "group": "Product framework",
      "act_title": "European Product Act",
+     "names": "epa EPA European Product Act",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
      "act_md": [
       {
@@ -1250,6 +1270,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "Standardisation Regulation (revision)",
      "group": "Product framework",
      "act_title": "Regulation on European standardisation (revision of Regulation 1025/2012)",
+     "names": "standardisation-revision Standardisation Regulation (new) Regulation on European standardisation (revision of Regulation 1025/2012)",
      "act_url": null,
      "act_md": [],
      "criticality": "monitor",
@@ -1330,6 +1351,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "Digitalisation & common specs",
      "group": "Product framework",
      "act_title": "Proposal for a Regulation amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications",
+     "names": "product-digitalisation-regulation Omnibus IV – Digitalisation and common specifications (Regulation) Digitalisation and common specifications in product legislation (Regulation) 52025PC0504",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504",
      "act_md": [
       {
@@ -1441,6 +1463,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "Net Zero Industry Act",
      "group": "Industrial policy",
      "act_title": "Regulation (EU) 2024/1735 on establishing a framework of measures for strengthening Europe's net-zero technology manufacturing ecosystem",
+     "names": "nzia NZIA Net Zero Industry Act 32024R1735",
      "act_url": "http://data.europa.eu/eli/reg/2024/1735/oj",
      "act_md": [
       {
@@ -1539,6 +1562,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "Public Procurement Act",
      "group": "Industrial policy",
      "act_title": "Proposal for a Regulation on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU",
+     "names": "public-procurement-act PPA Public Procurement Act 52026PC0590",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
      "act_md": [
       {
@@ -1618,6 +1642,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "label": "Industrial Accelerator Act",
      "group": "Industrial policy",
      "act_title": "Proposal for a Regulation establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors",
+     "names": "industrial-accelerator-act IAA Industrial Accelerator Act 52026PC0100",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100",
      "act_md": [
       {
@@ -1783,6 +1808,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     $("#title").textContent = "EU digital and product regulation – " + P().title;
     $("#subtitle").textContent = `${P().description} Criticality as of ${fmt(D.as_of)}, an orientation for planning, not a legal assessment.`;
     document.title = "Regulation Timeline – " + P().title;
+    fill($("#downloads"), "This timeline as ", ...[["png", "image (PNG)"], ["pdf", "print (PDF, A3)"], ["svg", "SVG"], ["drawio", "draw.io"]]
+      .flatMap(([ext, label], i) => [i ? " · " : "", el("a", { href: profileKey + "." + ext, download: "" }, label)]));
   }
   function renderChips() {
     const counts = Object.fromEntries(ORDER.map(k => [k, 0]));
@@ -1823,7 +1850,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     for (const g of D.groups) {
       const rows = rowsOf().filter(r => r.group === g);
       if (!rows.length) continue;
-      kids.push(el("div", { class: "grp", role: "presentation" }, el("h2", {}, g)));
+      kids.push(el("div", { class: "grp", role: "presentation", "data-group": g }, el("h2", {}, g)));
       rows.forEach((r, i) => {
         const track = el("div", { class: "track" }, grid.map(x => el("span", { class: "gridline", style: `left:${x}%` })));
         const hasMain = r.phases.some(p => p.state !== "procedure");
@@ -1843,7 +1870,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
           onclick: () => select(r.id),
           onmouseenter: () => spot(r.id), onmouseleave: () => spot(null), onfocus: () => spot(r.id), onblur: () => spot(null),
           onkeydown: e => {
-            const all = [...box.querySelectorAll(".row")];
+            const all = [...box.querySelectorAll(".row")].filter(x => x.offsetParent);   // not the rows a search hides
             const k = all.indexOf(e.currentTarget);
             if (e.key === "ArrowDown" || e.key === "ArrowUp") {
               e.preventDefault();
@@ -1867,12 +1894,23 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     const tl = $("#tl");
     const on = active.size > 0 || query.length > 0;
     tl.classList.toggle("filtering", on);
+    tl.classList.toggle("searching", query.length > 0);   // a search hides what does not match, the chips only dim it
+    let hits = 0;
     tl.querySelectorAll(".row").forEach(b => {
       const r = rowsOf().find(x => x.id === b.dataset.id);
-      const hay = (r.label + " " + r.act_title + " " + r.note).toLowerCase();
-      const ok = (!active.size || active.has(r.criticality)) && (!query || hay.includes(query));
+      const ok = (!active.size || active.has(r.criticality)) && (!query || matches(r));
       b.classList.toggle("match", ok);
+      if (ok) hits++;
     });
+    tl.querySelectorAll(".grp").forEach(g =>
+      g.classList.toggle("empty", !rowsOf().some(r => r.group === g.dataset.group && tl.querySelector(`.row.match[data-id="${r.id}"]`))));
+    $("#q-n").textContent = query ? (hits ? `${hits} ${hits === 1 ? "act" : "acts"} – Enter opens ${hits === 1 ? "it" : "the first"}` : "") : "";
+    $("#nohit").hidden = !query || hits > 0;
+    $("#nohit").textContent = `No act matches “${$("#q").value.trim()}”. Esc clears the search.`;
+  }
+  function matches(r) {   // the act's names only: label, short and full title, official title, CELEX
+    const hay = [r.label, r.names, r.act_title].join(" ").toLowerCase();
+    return query.split(/\s+/).every(w => hay.includes(w));
   }
   function renderOverlay() {
     const ov = $("#overlay");
@@ -2002,6 +2040,12 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 
   $("#profile").addEventListener("change", e => { profileKey = e.target.value; store.set("profile", profileKey); selected = null; renderAll(); });
   $("#q").addEventListener("input", e => { query = e.target.value.trim().toLowerCase(); applyFilter(); });
+  $("#q").addEventListener("keydown", e => {
+    if (e.key !== "Enter" || !query) return;
+    e.preventDefault();
+    const first = $("#tl .row.match");
+    if (first) { select(first.dataset.id); first.scrollIntoView({ block: "center" }); first.focus({ preventScroll: true }); }
+  });
   document.addEventListener("keydown", e => {
     if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); }
     if (e.key === "Escape") {

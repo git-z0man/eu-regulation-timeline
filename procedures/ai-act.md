@@ -101,7 +101,7 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
 
-adopted 2025-06-23; expires 2027-02-28; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/613_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)3871&lang=en) · [en.md](../texts/ai-act/sreq-m613/2025-06-23_commission-decision.en.md) · [de.md](../texts/ai-act/sreq-m613/2025-06-23_commission-decision.de.md)
+adopted 2025-06-23; expires 2027-02-28; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/613_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)3871&lang=en) · [en.md](../texts/ai-act/sreq-m613/2025-06-23_commission-decision.en.md) · [de.md](../texts/ai-act/sreq-m613/2025-06-23_commission-decision.de.md)
 
 | Item | Standard(s) requested | Kind | Deadline |
 | --- | --- | --- | --- |

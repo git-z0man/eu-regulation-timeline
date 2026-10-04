@@ -95,7 +95,7 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 COMMISSION IMPLEMENTING DECISION of 24.10.2022 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards toys in support of Directive 2009/48/EC of the European Parliament and of the Council
 
-adopted 2022-10-24; expires 2026-10-25; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/589_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)7410&lang=en) · [en.md](../texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.en.md) · [de.md](../texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.de.md)
+adopted 2022-10-24; expires 2026-10-25; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/589_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)7410&lang=en) · [en.md](../texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.en.md) · [de.md](../texts/toy-safety-regulation/sreq-m589/2022-10-24_commission-decision.de.md)
 
 ### Planned (annual Union work programmes)
 

@@ -95,7 +95,7 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 
 COMMISSION IMPLEMENTING DECISION of 3.2.2025 on a standardisation request to the European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and the European Telecommunications Standards Institute (ETSI) as regards products with digital elements in support of Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act)
 
-adopted 2025-02-03; expires 2027-11-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/606_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)618&lang=en) · [en.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.en.md) · [de.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.de.md)
+adopted 2025-02-03; expires 2027-11-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/606_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)618&lang=en) · [en.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.en.md) · [de.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.de.md)
 
 | Item | Standard(s) requested | Kind | Deadline | Draft amendment |
 | --- | --- | --- | --- | --- |
