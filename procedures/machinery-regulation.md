@@ -39,7 +39,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2021-11-18 | ST 13569/21 REV 1 | council-note | Regulation on Machinery Products - Progress Report from the Presidency on the state of play | public status unknown | – |
 | 2022-03-01 | ST 6724/22 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the fourth quarter of 2021 | public status unknown | – |
 | 2022-05-05 | [A9-0141/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0141/A-9-2022-0141_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on Machinery products | public | – |
-| 2022-06-24 | ST 9801/22 REV 1 COR 1 | council-text | – | not public; Council register checked daily since 2026-09-25 | – |
+| 2022-06-24 | ST 9801/22 REV 1 COR 1 | council-text | – | not public\* | – |
 | 2022-07-29 | ST 11407/22 | council-note | List of working papers (WK) distributed in the Working Party on Technical Harmonisation (Machinery) in the first and second quarter of 2022 | public status unknown | – |
 | 2023-01-26 | ST 5617/23 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – |
 | 2023-03-22 | ST 7740/23 | council-note | List of working papers (WK) distributed to the Working Party on Technical Harmonisation (Machinery) in the third and the fourth quarter of 2022 | public status unknown | – |
@@ -50,6 +50,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-05-15 | ST 8698/23 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on machinery (first reading) - Adoption of the legislative act = Statement | public status unknown | – |
 | 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the COUNCIL OF … | public status unknown | – |
 | 2023-06-14 | PE 6/23 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON MACHINERY AND REPEALING DIRECTIVE 2006/42/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AND … | public status unknown | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 

@@ -53,7 +53,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2022-05-06 | ST 8751/22 ADD 8 | council-transmission | REGULATORY SCRUTINY BOARD OPINION Proposal for a Regulation of the European Parliament and of the Council on the European Health Data Space | public status unknown | – |
 | 2022-05-06 | ST 8828/22 | council-transmission | COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL A European Health Data Space: harnessing the power of health data for people, … | public status unknown | – |
 | 2022-05-30 | [ST 9461/22 REV 1](https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf) | council-text | Proposal for a Regulation on the European Health Data Space | public | – |
-| 2022-06-23 | ST 10566/22 | council-text | – | not public; Council register checked daily since 2026-09-25 | – |
+| 2022-06-23 | ST 10566/22 | council-text | – | not public\* | – |
 | 2022-07-14 | ST 11351/22 | council-transmission | Joint Opinion of the European Data Protection Board and the European Data Protection Supervisor on the Proposal for a regulation on the European Health Data … | public status unknown | – |
 | 2022-09-12 | ST 12223/22 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
 | 2022-09-22 | [CELEX 52022AE2531](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531) | opinion | Opinion of the European Economic and Social Committee on the Communication from the Commission to the European Parliament and the Council — A European Health … | public | – |
@@ -62,7 +62,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2022-10-20 | ST 13814/22 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
 | 2022-10-20 | ST 13836/22 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – |
 | 2022-12-02 | [ST 14768/22 COR 1](https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf) | council-progress-report | Progress report | public | – |
-| 2022-12-07 | ST 14768/22 COR 1 REV 1 | council-text | – | not public; Council register checked daily since 2026-09-25 | – |
+| 2022-12-07 | ST 14768/22 COR 1 REV 1 | council-text | – | not public\* | – |
 | 2023-02-08 | [CELEX 52022AR3754](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754) | opinion | Opinion of the European Committee of the Regions on the European Health Data Space | public | – |
 | 2023-02-08 | [PE740.773](https://data.europarl.europa.eu/distribution/reds_iCmOp-Dft/IMCO-PA-740773/IMCO-PA-740773_en.pdf) | ep-draft-opinion | DRAFT OPINION on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – |
 | 2023-02-10 | [PE742.387](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ43-PR-742387/CJ43-PR-742387_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – |
@@ -94,6 +94,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2025-01-10 | ST 5142/25 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – |
 | 2025-01-14 | ST 5142/25 ADD 1 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – |
 | 2025-01-21 | ST 5541/25 | council-note | Voting result REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 

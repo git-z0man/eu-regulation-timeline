@@ -32,15 +32,17 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-06-04 | [ST 10104/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … | public | – |
 | 2026-06-04 | [ST 10104/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-5/en/pdf) | council-transmission | Regulatory Scrutiny Board Opinion | public | – |
 | 2026-06-05 | [ST 10104/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-3/en/pdf) | council-transmission | PART 2/2 COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE … | public | – |
-| 2026-06-16 | WK 8754/26 | council-note | Cloud and AI Development Act (CADA) – Impact Assessment: Presentation | not public; Council register checked daily since 2026-09-25 | – |
-| 2026-06-16 | WK 8757/26 | council-note | Claud and AI Development Act (CADA): Presentation | not public; Council register checked daily since 2026-09-25 | – |
+| 2026-06-16 | WK 8754/26 | council-note | Cloud and AI Development Act (CADA) – Impact Assessment: Presentation | not public\* | – |
+| 2026-06-16 | WK 8757/26 | council-note | Claud and AI Development Act (CADA): Presentation | not public\* | – |
 | 2026-07-07 | [WK 10169/26](https://data.consilium.europa.eu/doc/document/WK-10169-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | public | – |
 | 2026-08-24 | [WK 13042/26](https://data.consilium.europa.eu/doc/document/WK-13042-2026-INIT/en/pdf) | council-note | EDPS Opinion on the Proposal for a Regulation establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development … | public | – |
 | 2026-09-09 | [WK 13788/26](https://data.consilium.europa.eu/doc/document/WK-13788-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | public | – |
-| 2026-09-22 | WK 14527/26 | council-note | Cloud and AI Development Act: Presentation | not public; Council register checked daily since 2026-09-25 | – |
-| 2026-09-28 | [ST 13557/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93992) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
+| 2026-09-22 | WK 14527/26 | council-note | Cloud and AI Development Act: Presentation | not public\* | – |
+| 2026-09-28 | [ST 13557/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93992) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE)\* | – |
 | 2026-09-28 | [ST 13682/26](https://data.consilium.europa.eu/doc/document/ST-13682-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | public | – |
-| 2026-09-29 | WK 15040/26 | council-note | Cloud and AI Development Act: Presentation | not public; Council register checked daily since 2026-10-01 | – |
+| 2026-09-29 | WK 15040/26 | council-note | Cloud and AI Development Act: Presentation | not public\* | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 

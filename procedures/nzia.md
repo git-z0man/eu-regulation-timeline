@@ -80,7 +80,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-01-15 | [ST 5334/24](https://data.consilium.europa.eu/doc/document/ST-5334-2024-INIT/en/pdf) | trilogue | 4-column document | public | – |
 | 2024-02-07 | [ST 6266/24](https://data.consilium.europa.eu/doc/document/ST-6266-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – |
 | 2024-02-15 | [ST 6266/24 COR 1](https://data.consilium.europa.eu/doc/document/ST-6266-2024-COR-1/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – |
-| 2024-02-16 | ST 6266/24 ADD 1 | agreed-text | Analysis of the final compromise text with a view to agreement - Statement by Austria | not public; Council register checked daily since 2026-09-25 | – |
+| 2024-02-16 | ST 6266/24 ADD 1 | agreed-text | Analysis of the final compromise text with a view to agreement - Statement by Austria | not public\* | – |
 | 2024-02-16 | ST 6269/24 | council-note | Letter to the Chair of the ITRE Committee of the European Parliament | public status unknown | – |
 | 2024-03-11 | PE 45/24 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of measures for strengthening Europe’s net-zero technology manufacturing … | public status unknown | – |
 | 2024-04-25 | [P9_TA(2024)0378](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0378_en.pdf) | ep-position | Framework of measures for strengthening Europe’s net-zero technology products manufacturing ecosystem | public | – |
@@ -92,6 +92,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-05-27 | ST 9275/24 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of measures for strengthening Europe’s net-zero technology … | public status unknown | – |
 | 2024-05-28 | ST 10388/24 | council-note | Voting result Regulation of the European Parliament and of the Council on establishing a framework of measures for strengthening Europe’s net-zero technology … | public status unknown | – |
 | 2024-06-14 | PE 45/24 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON ESTABLISHING A FRAMEWORK OF MEASURES FOR STRENGTHENING EUROPE’S NET-ZERO TECHNOLOGY MANUFACTURING … | public status unknown | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 

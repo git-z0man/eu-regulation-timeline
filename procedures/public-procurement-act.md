@@ -30,10 +30,12 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-10 | [ST 12969/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-3/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public | – |
 | 2026-09-10 | [ST 12969/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … | public | – |
 | 2026-09-10 | [ST 12969/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-5/en/pdf) | council-transmission | REGULATORY SCRUTINY BOARD OPINION Public Procurement Act | public | – |
-| 2026-09-10 | WK 13868/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 September 2026: Presidency Flash | not public; Council register checked daily since 2026-09-25 | – |
-| 2026-09-11 | WK 13779/26 | council-note | Procedure regarding the Impact Assessment | not public; Council register checked daily since 2026-09-25 | – |
-| 2026-09-21 | [WK 14274/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92746) | council-note | Impact Assessment - Presentation by the Commission | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
-| 2026-09-21 | [WK 14276/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92738) | council-note | Presentation by the Commission | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
+| 2026-09-10 | WK 13868/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 September 2026: Presidency Flash | not public\* | – |
+| 2026-09-11 | WK 13779/26 | council-note | Procedure regarding the Impact Assessment | not public\* | – |
+| 2026-09-21 | [WK 14274/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92746) | council-note | Impact Assessment - Presentation by the Commission | not public (LIMITE)\* | – |
+| 2026-09-21 | [WK 14276/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92738) | council-note | Presentation by the Commission | not public (LIMITE)\* | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 

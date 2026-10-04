@@ -59,7 +59,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2022-11-10 | [PE737.400](https://data.europarl.europa.eu/distribution/reds_iCmOp-Dft/IMCO-PA-737400/IMCO-PA-737400_en.pdf) | ep-draft-opinion | DRAFT OPINION on establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC | public | – |
 | 2022-11-14 | [ST 14540/22](https://data.consilium.europa.eu/doc/document/ST-14540-2022-INIT/en/pdf) | council-progress-report | Progress report | public | – |
 | 2022-11-21 | [ST 14540/22 COR 1](https://data.consilium.europa.eu/doc/document/ST-14540-2022-COR-1/en/pdf) | council-progress-report | Progress report | public | – |
-| 2022-11-23 | ST 14540/22 REV 1 | council-text | – | not public; Council register checked daily since 2026-09-25 | – |
+| 2022-11-23 | ST 14540/22 REV 1 | council-text | – | not public\* | – |
 | 2022-12-06 | [PE738.753](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ENVI-PR-738753/ENVI-PR-738753_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … | public | – |
 | 2022-12-22 | ST 16347/22 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market-Attachés) in the fourth quarter of 2022 | public status unknown | – |
 | 2022-12-22 | ST 16348/22 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market) in the fourth quarter of 2022 | public status unknown | – |
@@ -94,6 +94,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-05-24 | ST 9266/24 COR 1 | council-note | – | public status unknown | – |
 | 2024-05-28 | ST 10389/24 | council-note | Voting result Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable … | public status unknown | – |
 | 2024-06-14 | PE 106/23 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ESTABLISHING A FRAMEWORK FOR THE SETTING OF ECODESIGN REQUIREMENTS FOR SUSTAINABLE PRODUCTS, AMENDING … | public status unknown | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 

@@ -39,14 +39,16 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-09 | [WK 10387/26](https://data.consilium.europa.eu/doc/document/WK-10387-2026-INIT/en/pdf) | council-note | Presidency Flash for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 July 2026 | public | – |
 | 2026-07-15 | [WK 10618/26](https://data.consilium.europa.eu/doc/document/WK-10618-2026-INIT/en/pdf) | council-note | Presidency Flash for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 July 2026 | public | – |
 | 2026-07-20 | [WK 10792/26](https://data.consilium.europa.eu/doc/document/WK-10792-2026-INIT/en/pdf) | council-note | Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 24 July 2026 | public | – |
-| 2026-07-31 | WK 11082/26 | council-note | Presidency flash note for the month of September 2026 | not public; Council register checked daily since 2026-09-25 | – |
-| 2026-08-28 | [WK 13097/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89091) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 03 September 2026 | not public (LIMITE); Council register checked daily since 2026-09-25 | – |
-| 2026-09-02 | [ST 12586/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89464) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
-| 2026-09-08 | [WK 13713/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90358) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 September 2026 | not public (LIMITE); Council register checked daily since 2026-09-25 | – |
+| 2026-07-31 | WK 11082/26 | council-note | Presidency flash note for the month of September 2026 | not public\* | – |
+| 2026-08-28 | [WK 13097/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89091) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 03 September 2026 | not public (LIMITE)\* | – |
+| 2026-09-02 | [ST 12586/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89464) | council-note | Optional consultation of the Committee of the Regions | not public (LIMITE)\* | – |
+| 2026-09-08 | [WK 13713/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90358) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 September 2026 | not public (LIMITE)\* | – |
 | 2026-09-11 | [ST 12887/26](https://data.consilium.europa.eu/doc/document/ST-12887-2026-INIT/en/pdf) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 24 September 2026 Regulation on a European Chips Act 2.0 - Policy … | public | – |
-| 2026-09-29 | [ST 13545/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94343) | council-compromise | Presidency compromise text | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
-| 2026-09-29 | [WK 14830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94374) | council-note | Consolidated table with comments from Austria and other Member States | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
-| 2026-09-29 | [WK 14980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341) | council-note | Explanatory note on the first Presidency compromise text of the draft proposal for a Regulation on a framework of measures for strengthening the Union's … | not public (LIMITE); Council register checked daily since 2026-09-30 | – |
+| 2026-09-29 | [ST 13545/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94343) | council-compromise | Presidency compromise text | not public (LIMITE)\* | – |
+| 2026-09-29 | [WK 14830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94374) | council-note | Consolidated table with comments from Austria and other Member States | not public (LIMITE)\* | – |
+| 2026-09-29 | [WK 14980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341) | council-note | Explanatory note on the first Presidency compromise text of the draft proposal for a Regulation on a framework of measures for strengthening the Union's … | not public (LIMITE)\* | – |
+
+\* Not public: the registers are checked again daily until the document is released.
 
 ## Texts as Markdown
 
