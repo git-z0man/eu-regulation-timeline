@@ -93,7 +93,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-05-28 | ST 10388/24 | council-note | Voting result Regulation of the European Parliament and of the Council on establishing a framework of measures for strengthening Europe’s net-zero technology … | public status unknown | – | – |
 | 2024-06-14 | PE 45/24 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON ESTABLISHING A FRAMEWORK OF MEASURES FOR STRENGTHENING EUROPE’S NET-ZERO TECHNOLOGY MANUFACTURING … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
 
 ## Texts as Markdown
 

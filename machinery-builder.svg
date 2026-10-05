@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1820" height="1000" viewBox="0 0 1820 1000" font-family="Helvetica, Arial, sans-serif">
 <rect width="1820" height="1000" fill="#ffffff"/>
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">EU digital and product regulation – Machinery builder</tspan></text>
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 04 Oct 2026. Click a bar or milestone to open the act on EUR-Lex. An orientation, not legal advice.</tspan></text>
-<rect x="748.7" y="88.0" width="169.9" height="828.0" fill="#fff3c4" stroke="none" opacity="0.6"/>
-<text font-size="10" fill="#8a6d00" text-anchor="middle"><tspan x="833.6" y="81.5">next 12 months</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 05 Oct 2026. Click a bar or milestone to open the act on EUR-Lex. An orientation, not legal advice.</tspan></text>
+<rect x="749.2" y="88.0" width="169.9" height="828.0" fill="#fff3c4" stroke="none" opacity="0.6"/>
+<text font-size="10" fill="#8a6d00" text-anchor="middle"><tspan x="834.1" y="81.5">next 12 months</tspan></text>
 <line x1="280.0" y1="88.0" x2="280.0" y2="916.0" stroke="#d0d4d8" stroke-width="1"/>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="365.0" y="102.2">2024</tspan></text>
 <line x1="450.3" y1="88.0" x2="450.3" y2="916.0" stroke="#d0d4d8" stroke-width="1"/>
@@ -176,8 +176,8 @@
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="657.1" y="879.0">Proposal</tspan></text></a>
 <text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="886.0">&quot;Made in Europe&quot; criteria for public support; amends the</tspan><tspan x="1484.0" y="898.5">NZIA: no high-risk suppliers (CSA2) in control and SCADA</tspan><tspan x="1484.0" y="911.0">systems of energy auctions.</tspan></text>
 <line x1="20.0" y1="916.0" x2="1800.0" y2="916.0" stroke="#eceef0" stroke-width="1"/>
-<line x1="748.7" y1="88.0" x2="748.7" y2="916.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="10" fill="#c62828" text-anchor="start" font-weight="bold"><tspan x="754.7" y="928.5">as of 04 Oct 2026</tspan></text>
+<line x1="749.2" y1="88.0" x2="749.2" y2="916.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="10" fill="#c62828" text-anchor="start" font-weight="bold"><tspan x="755.2" y="928.5">as of 05 Oct 2026</tspan></text>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="954.9">Criticality</tspan></text>
 <rect x="110.0" y="945.0" width="12.0" height="12.0" fill="#d94841" stroke="none" rx="6.0"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="128.0" y="954.5">Act now: obligations start within 15 months or started recently</tspan></text>

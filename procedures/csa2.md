@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 04 Oct 2026.
+Procedure 2026/0011(COD), as of 05 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -121,7 +121,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-note | Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Proposal for a Regulation of European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
 
 ## Texts as Markdown
 

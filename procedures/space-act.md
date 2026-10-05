@@ -1,6 +1,6 @@
 # Legislative procedure – EU Space Act – COM(2025) 335 (proposal)
 
-Procedure 2025/0335(COD), as of 04 Oct 2026.
+Procedure 2025/0335(COD), as of 05 Oct 2026.
 Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web page: [space-act.html](space-act.html)
 
 ## Status and next steps
@@ -109,7 +109,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-01 | [WK 13262/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89351) | council-note | EU Space Act - Application to governmental assets - Presentation by the Commission | not public\* | – | – |
 | 2026-09-01 | [WK 13263/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89349) | council-note | EU Space Act - Space-based data - Presentation by the Commission | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-04.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
 
 ## Texts as Markdown
 
