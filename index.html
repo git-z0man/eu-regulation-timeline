@@ -215,6 +215,11 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 .start .views button { font: inherit; font-size: 12px; border: 1px solid var(--line); background: var(--chip);
   color: var(--ink); border-radius: 999px; padding: 1px 9px; cursor: pointer; }
 .start .views button[aria-pressed="true"] { background: var(--focus); border-color: var(--focus); color: #fff; }
+/* the timeline's downloads and next deadlines, moved into the cards by the page script */
+.start #slot-downloads .dl { margin: 12px 0 0; font-size: 13px; color: var(--muted); }
+.start .strip { display: block; background: none; border: 0; box-shadow: none; padding: 0; margin: 14px 0 0; }
+.start .strip .label { display: block; font-size: 13px; color: var(--muted); font-weight: 600; margin: 0 0 4px; }
+.start .deadlines { flex-direction: column; gap: 4px; } .start .deadlines li { white-space: normal; }
 .start h3 { font-size: 13px; margin: 2px 0 4px; color: var(--muted); font-weight: 600; }
 .start .sc { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
   box-shadow: var(--shadow); font-size: 14px; }
@@ -227,7 +232,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 .start ul.latest .d { color: var(--muted); font-size: 12px; }
 .start .more { display: flex; flex-wrap: wrap; gap: 4px 12px; } .start .more a { white-space: nowrap; }
 @media (max-width: 900px) { .start, .start .week { grid-template-columns: minmax(0, 1fr); } }
-</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a><a href="#deadlines">Next deadlines</a><a href="chart.html">Chart for slides (PNG)</a></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
+</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a></div><div id="slot-downloads"></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div><div id="slot-deadlines"></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
 (function () {
   var box = document.getElementById("week");
   if (!box || !window.fetch) return;
@@ -1862,6 +1867,11 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
         onclick: () => { active.has(k) ? active.delete(k) : active.add(k); renderChips(); applyFilter(); } },
         el("span", { class: "dot", "aria-hidden": "true" }), CRIT[k].label, el("span", { class: "n" }, String(counts[k]))))));
   }
+  // On the public start page the downloads line and the next deadlines sit in the cards above the timeline
+  // (slots written by start_html() in tools/timeline.py); the repository's own page has no slots.
+  [["#slot-downloads", "#downloads"], ["#slot-deadlines", ".strip"]].forEach(([slot, node]) => {
+    if ($(slot) && $(node)) $(slot).appendChild($(node));
+  });
   function renderDeadlines() {
     const items = [];
     rowsOf().forEach(r => r.milestones.forEach(m => {
