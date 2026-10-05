@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1700" height="816" viewBox="0 0 1700 816" font-family="Helvetica, Arial, sans-serif">
+<rect width="1700" height="816" fill="#ffffff"/>
+<text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Where the information comes from</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Sources (left) are read by the tools (middle), which write the files of the repository (right); the analysis and the public site are built from them. The routine runs the tools on weekdays at 05:15 UTC and opens a pull request; it is merged once the checks pass.</tspan></text>
+<rect x="20.0" y="80.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="96.2">Cellar / EUR-Lex</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="115.3">Publications Office: acts, proposals, corrigenda (SPARQL, XHTML), procedure files</tspan></text>
+<rect x="20.0" y="136.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="152.2">European Parliament</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="171.3">Open Data API (documents, committees, rapporteurs), Legislative Observatory</tspan></text>
+<rect x="20.0" y="192.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="208.2">Council register</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="227.3">documents and public PDFs, public agendas of the working parties</tspan></text>
+<rect x="20.0" y="248.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="264.2">EU database, Parliament of Austria</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="283.3">Council documents of a file not listed in Cellar (metadata)</tspan></text>
+<rect x="20.0" y="304.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="320.2">Register of delegated acts</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="339.3">delegated and implementing acts in preparation</tspan></text>
+<rect x="20.0" y="360.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="376.2">Comitology Register</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="395.3">committees: meetings, agendas, drafts, votes, summary records</tspan></text>
+<rect x="20.0" y="416.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="432.2">Register of expert groups</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="451.3">expert groups: meetings, minutes, members, publications</tspan></text>
+<rect x="20.0" y="472.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="488.2">Commission web pages</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="507.3">groups set up by an act (NIS Cooperation Group)</tspan></text>
+<rect x="20.0" y="528.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="544.2">eNorm and Register of Commission documents</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="563.3">standardisation requests and their annexes</tspan></text>
+<rect x="20.0" y="584.0" width="420.0" height="46.0" fill="#e7f4ec" stroke="#357150"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="600.2">CEN-CENELEC work programme</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="619.3">projects of the technical bodies (public pages)</tspan></text>
+<rect x="20.0" y="640.0" width="420.0" height="46.0" fill="#e7f4ec" stroke="#357150"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="656.2">ETSI work programme</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="675.3">work items by directive</tspan></text>
+<rect x="20.0" y="696.0" width="420.0" height="46.0" fill="#f0f0f0" stroke="#6f757b"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="712.2">gesetze-im-internet.de</tspan></text>
+<text font-size="9.5" fill="#444444" text-anchor="start"><tspan x="28.0" y="731.3">German federal law (e.g. BSIG)</tspan></text>
+<polyline points="440.0,103.0 490.0,103.0 510.0,103.0 560.0,103.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,103.0 551.0,107.5 551.0,98.5" fill="#8a96a3"/>
+<rect x="560.0" y="80.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="96.2">discover.py · scan.py · fetch.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="115.5">weekdays</tspan></text>
+<polyline points="830.0,103.0 950.0,103.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,103.0 941.0,107.5 941.0,98.5" fill="#44505c"/>
+<rect x="950.0" y="80.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="106.7">Acts, proposals, corrigenda, implementing acts and their texts</tspan></text>
+<polyline points="440.0,159.0 490.0,159.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
+<polyline points="440.0,215.0 490.0,215.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
+<polyline points="440.0,271.0 490.0,271.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
+<polyline points="440.0,103.0 490.0,103.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
+<rect x="560.0" y="182.7" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="198.9">negotiations.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="218.2">weekdays</tspan></text>
+<polyline points="830.0,205.7 950.0,205.7" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,205.7 941.0,210.2 941.0,201.2" fill="#44505c"/>
+<rect x="950.0" y="182.7" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="209.3">Procedure registers; EP and Council positions in full</tspan></text>
+<polyline points="440.0,327.0 490.0,327.0 510.0,308.3 560.0,308.3" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,308.3 551.0,312.8 551.0,303.8" fill="#8a96a3"/>
+<rect x="560.0" y="285.3" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="301.5">regdel.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="320.8">weekdays</tspan></text>
+<polyline points="830.0,308.3 950.0,308.3" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,308.3 941.0,312.8 941.0,303.8" fill="#44505c"/>
+<rect x="950.0" y="285.3" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="312.0">Delegated and implementing acts in preparation</tspan></text>
+<polyline points="440.0,383.0 490.0,383.0 510.0,411.0 560.0,411.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,411.0 551.0,415.5 551.0,406.5" fill="#8a96a3"/>
+<polyline points="440.0,439.0 490.0,439.0 510.0,411.0 560.0,411.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,411.0 551.0,415.5 551.0,406.5" fill="#8a96a3"/>
+<polyline points="440.0,495.0 490.0,495.0 510.0,411.0 560.0,411.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,411.0 551.0,415.5 551.0,406.5" fill="#8a96a3"/>
+<rect x="560.0" y="388.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="404.2">committees.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="423.5">weekdays</tspan></text>
+<polyline points="830.0,411.0 950.0,411.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,411.0 941.0,415.5 941.0,406.5" fill="#44505c"/>
+<rect x="950.0" y="388.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="414.7">Committees and expert groups: meetings and documents</tspan></text>
+<polyline points="440.0,551.0 490.0,551.0 510.0,513.7 560.0,513.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,513.7 551.0,518.2 551.0,509.2" fill="#8a96a3"/>
+<rect x="560.0" y="490.7" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="506.9">sreq.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="526.2">weekdays</tspan></text>
+<polyline points="830.0,513.7 950.0,513.7" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,513.7 941.0,518.2 941.0,509.2" fill="#44505c"/>
+<rect x="950.0" y="490.7" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="517.3">Standardisation requests and planned requests</tspan></text>
+<polyline points="440.0,607.0 490.0,607.0 510.0,616.3 560.0,616.3" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,616.3 551.0,620.8 551.0,611.8" fill="#8a96a3"/>
+<polyline points="440.0,663.0 490.0,663.0 510.0,616.3 560.0,616.3" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,616.3 551.0,620.8 551.0,611.8" fill="#8a96a3"/>
+<rect x="560.0" y="593.3" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="609.5">eso.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="628.8">weekdays</tspan></text>
+<polyline points="830.0,616.3 950.0,616.3" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,616.3 941.0,620.8 941.0,611.8" fill="#44505c"/>
+<rect x="950.0" y="593.3" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="620.0">Standardisation projects and their status</tspan></text>
+<polyline points="440.0,719.0 490.0,719.0 510.0,719.0 560.0,719.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,719.0 551.0,723.5 551.0,714.5" fill="#8a96a3"/>
+<rect x="560.0" y="696.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="712.2">fetch.py (gii2md.py)</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="731.5">on demand</tspan></text>
+<polyline points="830.0,719.0 950.0,719.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,719.0 941.0,723.5 941.0,714.5" fill="#44505c"/>
+<rect x="950.0" y="696.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="722.7">National law</tspan></text>
+<line x1="1330.0" y1="80.0" x2="1330.0" y2="742.0" stroke="#44505c" stroke-width="2"/>
+<polyline points="1330.0,411.0 1420.0,411.0" fill="none" stroke="#44505c" stroke-width="2"/><polygon points="1420.0,411.0 1411.0,415.5 1411.0,406.5" fill="#44505c"/>
+<rect x="1420.0" y="334.0" width="260.0" height="154.0" fill="#fff3c4" stroke="#8a6d00"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1428.0" y="352.2">Analysis and public site</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="380.7">index.py · concepts.py · docdiff.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="410.7">timeline.py · procedure.py · sources.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="440.7">actpage.py · texts.py · gallery.py</tspan></text>
+<text font-size="9.5" fill="#555555" text-anchor="start"><tspan x="1428.0" y="474.3">this site</tspan></text>
+<rect x="20.0" y="769.0" width="26.0" height="12.0" fill="#e8f0fb" stroke="#2f5a9e"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="54.0" y="778.5">EU institutions</tspan></text>
+<rect x="300.0" y="769.0" width="26.0" height="12.0" fill="#e7f4ec" stroke="#357150"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="334.0" y="778.5">Standardisation organisations</tspan></text>
+<rect x="580.0" y="769.0" width="26.0" height="12.0" fill="#f0f0f0" stroke="#6f757b"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="614.0" y="778.5">National law</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="24.0" y="800.5">Built from public sources only; the private sources of the repository are not shown.</tspan></text>
+</svg>
