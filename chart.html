@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Timeline chart</title>
+<meta name="description" content="Pick the EU acts you need and download the timeline as PNG or SVG, e.g. for slides.">
+<style>
+:root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e;
+  --focus: #2f5a9e; --chip: rgba(127, 127, 127, .12); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --accent: #7aa7ff; --focus: #7aa7ff; } }
+:root[data-theme="dark"] { --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136;
+  --accent: #7aa7ff; --focus: #7aa7ff; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.wrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 40px; }
+a { color: var(--accent); }
+h1 { font-size: 24px; margin: 0 0 4px; }
+.muted { color: var(--muted); }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin: 14px 0; }
+.groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 8px 16px; }
+.groups fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+.groups legend { font-weight: 600; padding: 0; margin: 0 0 2px; }
+.groups label { display: block; font-size: 14px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin: 10px 0 0; }
+button { font: inherit; border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 999px;
+  padding: 3px 12px; cursor: pointer; }
+button.primary { background: var(--focus); color: #fff; border-color: var(--focus); }
+input[type=text], select { font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line);
+  border-radius: 8px; padding: 4px 8px; }
+input[type=text] { width: min(560px, 100%); }
+.preview { background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 8px; overflow-x: auto; }
+.preview svg { display: block; width: 100%; height: auto; min-width: 700px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+</style>
+</head>
+<body><div class="wrap">
+  <style>
+.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
+  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
+.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.item:hover { background: var(--chip, #eef1f6); }
+.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
+  text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.repo:hover { background: var(--chip, #eef1f6); }
+@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .sitenav .brand, .sitenav a.repo span { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="index.html">EU regulation timeline</a><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+  <h1>Timeline chart</h1>
+  <p class="muted">Pick the acts you need and download the timeline as an image, e.g. for slides (PNG at double
+    resolution, white background) or as SVG to edit. The chart is the same as on the <a href="index.html">timeline</a>,
+    with the criticality of the selected company profile and the dates of the day it was built. The selection is kept
+    in the address of this page, so it can be bookmarked or shared.</p>
+  <div class="panel">
+    <div class="row" style="margin-top:0">
+      <label>Profile <select id="profile"></select></label>
+      <span id="presets"></span>
+      <button type="button" data-set="all">All</button>
+      <button type="button" data-set="none">None</button>
+    </div>
+    <div class="groups" id="groups" style="margin-top:10px"></div>
+    <div class="row">
+      <label>Title <input type="text" id="title"></label>
+      <label><input type="checkbox" id="notes"> Column “What it means for us”</label>
+    </div>
+    <div class="row">
+      <button type="button" class="primary" id="png">Download PNG</button>
+      <button type="button" id="svg">Download SVG</button>
+      <span class="muted" id="count"></span>
+    </div>
+  </div>
+  <div class="preview" id="preview"><p class="muted">Loading …</p></div>
+  <footer id="foot"></footer>
+</div>
+<script id="data" type="application/json">{
+ "as_of": "2026-10-05",
+ "groups": [
+  "Cybersecurity",
+  "AI and digital",
+  "Product framework",
+  "Industrial policy"
+ ],
+ "profiles": {
+  "machinery-builder": {
+   "title": "Machinery builder",
+   "rows": [
+    {
+     "id": "cra",
+     "label": "CRA – Reg. 2024/2847",
+     "group": "Cybersecurity"
+    },
+    {
+     "id": "red-cyber",
+     "label": "RED cyber DA 2022/30",
+     "group": "Cybersecurity"
+    },
+    {
+     "id": "nis2",
+     "label": "NIS-2 – Dir. 2022/2555",
+     "group": "Cybersecurity"
+    },
+    {
+     "id": "csa",
+     "label": "CSA 2019/881 → CSA2",
+     "group": "Cybersecurity"
+    },
+    {
+     "id": "ai-act",
+     "label": "AI Act – Reg. 2024/1689",
+     "group": "AI and digital"
+    },
+    {
+     "id": "machinery",
+     "label": "Machinery Reg. 2023/1230",
+     "group": "Product framework"
+    },
+    {
+     "id": "pld",
+     "label": "PLD – Dir. 2024/2853",
+     "group": "Product framework"
+    },
+    {
+     "id": "gpsr",
+     "label": "GPSR – Reg. 2023/988",
+     "group": "Product framework"
+    },
+    {
+     "id": "imera",
+     "label": "IMERA – Reg. 2024/2747",
+     "group": "Product framework"
+    },
+    {
+     "id": "epa",
+     "label": "EPA (NLF revision)",
+     "group": "Product framework"
+    },
+    {
+     "id": "standardisation",
+     "label": "Standardisation Regulation (revision)",
+     "group": "Product framework"
+    },
+    {
+     "id": "digitalisation",
+     "label": "Digitalisation & common specs",
+     "group": "Product framework"
+    },
+    {
+     "id": "nzia",
+     "label": "Net Zero Industry Act",
+     "group": "Industrial policy"
+    },
+    {
+     "id": "ppa",
+     "label": "Public Procurement Act",
+     "group": "Industrial policy"
+    },
+    {
+     "id": "iaa",
+     "label": "Industrial Accelerator Act",
+     "group": "Industrial policy"
+    }
+   ]
+  }
+ },
+ "presets": [
+  {
+   "label": "Cybersecurity of products",
+   "rows": [
+    "cra",
+    "red-cyber",
+    "csa",
+    "ai-act",
+    "machinery"
+   ]
+  },
+  {
+   "label": "Cybersecurity incl. NIS-2",
+   "rows": [
+    "cra",
+    "red-cyber",
+    "nis2",
+    "csa",
+    "ai-act",
+    "machinery"
+   ]
+  }
+ ],
+ "footer": "Dates and texts from the EU legal acts on EUR-Lex. An orientation for planning, not legal advice. Content CC BY 4.0, source: github.com/git-z0man/eu-regulation-timeline"
+}</script>
+<script>
+(function () {
+  "use strict";
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = s => document.querySelector(s);
+  const params = new URLSearchParams(location.hash.slice(1));
+  let profile = D.profiles[params.get("profile")] ? params.get("profile") : Object.keys(D.profiles)[0];
+  const preset0 = D.presets[0];
+  let selected = new Set(params.has("rows") ? params.get("rows").split(",").filter(Boolean) : preset0 ? preset0.rows : []);
+  let notes = params.get("notes") === "1";
+  let title = params.get("title") || "";
+  let source = null;   // the profile's SVG as drawn by tools/timeline.py
+  $("#foot").textContent = D.footer;
+
+  function save() {
+    const p = new URLSearchParams({ profile, rows: [...selected].join(","), notes: notes ? "1" : "0" });
+    if (title) p.set("title", title);
+    history.replaceState(null, "", "#" + p.toString());
+  }
+  function rows() { return D.profiles[profile].rows; }
+  function defaultTitle() {
+    const g = D.presets.find(p => p.rows.length === selected.size && p.rows.every(r => selected.has(r)));
+    return "EU regulation timeline" + (g ? " – " + g.label : "");
+  }
+
+  function controls() {
+    $("#profile").replaceChildren(...Object.entries(D.profiles).map(([k, p]) => new Option(p.title, k, false, k === profile)));
+    $("#profile").disabled = Object.keys(D.profiles).length < 2;
+    $("#presets").replaceChildren(...D.presets.map(p => {
+      const b = document.createElement("button");
+      b.type = "button"; b.textContent = p.label;
+      b.onclick = () => { selected = new Set(p.rows.filter(r => rows().some(x => x.id === r))); update(); };
+      return b;
+    }));
+    const box = $("#groups");
+    box.replaceChildren();
+    D.groups.forEach(g => {
+      const members = rows().filter(r => r.group === g);
+      if (!members.length) return;
+      const fs = document.createElement("fieldset"), lg = document.createElement("legend");
+      const all = document.createElement("input");
+      all.type = "checkbox"; all.checked = members.every(r => selected.has(r.id));
+      all.indeterminate = !all.checked && members.some(r => selected.has(r.id));
+      all.onchange = () => { members.forEach(r => all.checked ? selected.add(r.id) : selected.delete(r.id)); update(); };
+      const gl = document.createElement("label"); gl.append(all, " " + g); lg.append(gl); fs.append(lg);
+      members.forEach(r => {
+        const l = document.createElement("label"), c = document.createElement("input");
+        c.type = "checkbox"; c.checked = selected.has(r.id);
+        c.onchange = () => { c.checked ? selected.add(r.id) : selected.delete(r.id); update(); };
+        l.append(c, " " + r.label); fs.append(l);
+      });
+      box.append(fs);
+    });
+    $("#notes").checked = notes;
+    $("#title").value = title;
+    $("#title").placeholder = defaultTitle();
+    $("#count").textContent = selected.size + " of " + rows().length + " acts";
+  }
+
+  // The rows of the drawing are SVG groups (class tl-row, tl-group with data-y and data-h); the chart keeps the
+  // selected rows, moves them up, and stretches the year lines, the "next 12 months" band and the date line.
+  function chart() {
+    const svg = source.cloneNode(true);
+    const span = svg.querySelector("g.tl-span[data-bottom]");
+    const top = +svg.querySelector(".tl-group, .tl-row").dataset.y, bottom = +span.dataset.bottom;
+    const width = notes ? +span.dataset.width : +span.dataset.kx + 10;
+    let y = top;
+    const shown = new Set(rows().filter(r => selected.has(r.id)).map(r => r.group));
+    svg.querySelectorAll(".tl-group, .tl-row").forEach(g => {
+      const keep = g.classList.contains("tl-row") ? selected.has(g.dataset.row) : shown.has(g.dataset.group);
+      if (!keep) { g.remove(); return; }
+      g.setAttribute("transform", `translate(0 ${y - +g.dataset.y})`);
+      y += +g.dataset.h;
+    });
+    const delta = y - bottom;
+    svg.querySelectorAll(".tl-span rect").forEach(r => {
+      if (Math.abs(+r.getAttribute("y") + +r.getAttribute("height") - bottom) < 1)
+        r.setAttribute("height", +r.getAttribute("height") + delta);
+    });
+    svg.querySelectorAll(".tl-span line").forEach(l => {
+      if (Math.abs(+l.getAttribute("y2") - bottom) < 1) l.setAttribute("y2", bottom + delta);
+    });
+    svg.querySelectorAll(".tl-foot").forEach(g => g.setAttribute("transform", `translate(0 ${delta})`));
+    if (!notes) svg.querySelectorAll(".tl-notes").forEach(g => g.remove());
+    const height = +svg.getAttribute("height") + delta;
+    svg.setAttribute("width", width); svg.setAttribute("height", height);
+    svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+    const bg = svg.querySelector("rect");
+    bg.setAttribute("width", width); bg.setAttribute("height", height);
+    const t = svg.querySelector(".tl-title tspan");
+    if (t) t.textContent = title || defaultTitle();
+    const sub = svg.querySelector(".tl-sub tspan");   // links do not work in an image
+    if (sub) sub.textContent = sub.textContent.replace(/ Click a bar[^.]*\.|; click a bar[^.]*\./, "");
+    return svg;
+  }
+
+  function update() {
+    save(); controls();
+    if (!source) return;
+    $("#preview").replaceChildren(selected.size ? chart() :
+      Object.assign(document.createElement("p"), { className: "muted", textContent: "Pick at least one act." }));
+    $("#png").disabled = $("#svg").disabled = !selected.size;
+  }
+
+  function load() {
+    source = null;
+    fetch(profile + ".svg").then(r => r.text()).then(t => {
+      source = new DOMParser().parseFromString(t, "image/svg+xml").documentElement;
+      update();
+    }).catch(() => { $("#preview").textContent = "The drawing could not be loaded."; });
+  }
+
+  function fileName(ext) {
+    return "eu-regulation-timeline-" + (D.as_of || "") + "-" + [...selected].join("-").slice(0, 80) + "." + ext;
+  }
+  function download(blob, name) {
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob); a.download = name;
+    document.body.append(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  }
+  function svgText() { return new XMLSerializer().serializeToString(chart()); }
+
+  $("#svg").onclick = () => download(new Blob([svgText()], { type: "image/svg+xml" }), fileName("svg"));
+  $("#png").onclick = () => {
+    const svg = chart(), w = +svg.getAttribute("width"), h = +svg.getAttribute("height"), scale = 2, margin = 20;
+    const img = new Image();
+    img.onload = () => {
+      const c = document.createElement("canvas");
+      c.width = (w + 2 * margin) * scale; c.height = (h + 2 * margin) * scale;
+      const ctx = c.getContext("2d");
+      ctx.fillStyle = "#fff"; ctx.fillRect(0, 0, c.width, c.height);
+      ctx.drawImage(img, margin * scale, margin * scale, w * scale, h * scale);
+      c.toBlob(b => download(b, fileName("png")), "image/png");
+    };
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(new XMLSerializer().serializeToString(svg));
+  };
+  $("#profile").onchange = e => { profile = e.target.value; load(); };
+  $("#notes").onchange = e => { notes = e.target.checked; update(); };
+  $("#title").oninput = e => { title = e.target.value.trim(); save(); if (source) $("#preview").replaceChildren(chart()); };
+  document.querySelector('[data-set="all"]').onclick = () => { selected = new Set(rows().map(r => r.id)); update(); };
+  document.querySelector('[data-set="none"]').onclick = () => { selected = new Set(); update(); };
+  controls(); load();
+})();
+</script>
+</body>
+</html>

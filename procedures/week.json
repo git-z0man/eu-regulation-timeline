@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-10-05",
+ "views": [
+  {
+   "key": "all",
+   "label": "All acts",
+   "ahead": [
+    {
+     "date": "2026-10-06",
+     "act": "EPA",
+     "text": "Commission proposal expected",
+     "url": "#act=epa"
+    },
+    {
+     "date": "2026-10-06",
+     "act": "Standardisation Regulation (new)",
+     "text": "Commission proposal expected",
+     "url": "#act=standardisation"
+    },
+    {
+     "date": "2026-10-08",
+     "act": "CRA",
+     "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
+     "url": "procedures/committee-e03967.html"
+    }
+   ],
+   "recap": [
+    {
+     "date": "2026-10-02",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
+     "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-10-02",
+     "act": "NIS-2 amendment",
+     "text": "Council released 6 documents listed as not public, incl. Council progress report of 2026-05-13",
+     "url": "procedures/nis2-amendment.html"
+    },
+    {
+     "date": "2026-10-02",
+     "act": "CRA",
+     "text": "8 standardisation projects moved on, e.g. EN 304 627: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation"
+    },
+    {
+     "date": "2026-10-01",
+     "act": "MR",
+     "text": "Standardisation: prEN ISO 14159: Under Approval",
+     "url": "acts/machinery-regulation.html#standardisation"
+    },
+    {
+     "date": "2026-10-01",
+     "act": "AI Act",
+     "text": "Standardisation: prEN 18283: Under Enquiry",
+     "url": "acts/ai-act.html#standardisation"
+    }
+   ]
+  },
+  {
+   "key": "cybersecurity",
+   "label": "Cybersecurity",
+   "ahead": [
+    {
+     "date": "2026-10-06",
+     "act": "Standardisation Regulation (new)",
+     "text": "Commission proposal expected",
+     "url": "#act=standardisation"
+    },
+    {
+     "date": "2026-10-08",
+     "act": "CRA",
+     "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
+     "url": "procedures/committee-e03967.html"
+    }
+   ],
+   "recap": [
+    {
+     "date": "2026-10-02",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
+     "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-10-02",
+     "act": "NIS-2 amendment",
+     "text": "Council released 6 documents listed as not public, incl. Council progress report of 2026-05-13",
+     "url": "procedures/nis2-amendment.html"
+    },
+    {
+     "date": "2026-10-02",
+     "act": "CRA",
+     "text": "8 standardisation projects moved on, e.g. EN 304 627: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation"
+    },
+    {
+     "date": "2026-10-01",
+     "act": "MR",
+     "text": "Standardisation: prEN ISO 14159: Under Approval",
+     "url": "acts/machinery-regulation.html#standardisation"
+    },
+    {
+     "date": "2026-10-01",
+     "act": "AI Act",
+     "text": "Standardisation: prEN 18283: Under Enquiry",
+     "url": "acts/ai-act.html#standardisation"
+    }
+   ]
+  }
+ ]
+}

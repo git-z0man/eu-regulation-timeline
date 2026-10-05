@@ -209,7 +209,13 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 
   <style>
 :root { --accent: var(--focus); --chip: rgba(127, 127, 127, .12); }
-.start { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 0 0 14px; }
+.start { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 2fr); gap: 12px; margin: 0 0 14px; }
+.start .week { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 0 16px; }
+.start .views { display: inline-flex; gap: 4px; margin-left: 8px; vertical-align: 2px; }
+.start .views button { font: inherit; font-size: 12px; border: 1px solid var(--line); background: var(--chip);
+  color: var(--ink); border-radius: 999px; padding: 1px 9px; cursor: pointer; }
+.start .views button[aria-pressed="true"] { background: var(--focus); border-color: var(--focus); color: #fff; }
+.start h3 { font-size: 13px; margin: 2px 0 4px; color: var(--muted); font-weight: 600; }
 .start .sc { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
   box-shadow: var(--shadow); font-size: 14px; }
 .start h2 { font-size: 15px; margin: 0 0 4px; } .start p { margin: 0 0 8px; color: var(--muted); }
@@ -220,20 +226,56 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 .start ul.latest li { margin: 0 0 6px; line-height: 1.35; }
 .start ul.latest .d { color: var(--muted); font-size: 12px; }
 .start .more { display: flex; flex-wrap: wrap; gap: 4px 12px; } .start .more a { white-space: nowrap; }
-@media (max-width: 900px) { .start { grid-template-columns: minmax(0, 1fr); } }
-</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a><a href="#deadlines">Next deadlines</a></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div></div><div class="sc"><h2>What is happening in the EU</h2><ul class="latest" id="latest"><li><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></li></ul><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
+@media (max-width: 900px) { .start, .start .week { grid-template-columns: minmax(0, 1fr); } }
+</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a><a href="#deadlines">Next deadlines</a><a href="chart.html">Chart for slides (PNG)</a></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
 (function () {
-  var box = document.getElementById("latest");
+  var box = document.getElementById("week");
   if (!box || !window.fetch) return;
-  fetch("procedures/changes.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
-    if (!d || !d.items || !d.items.length) return;
-    box.textContent = "";
-    d.items.slice(0, 3).forEach(function (i) {
-      var li = document.createElement("li"), a = document.createElement("a"), s = document.createElement("div");
-      a.href = "procedures/" + i.page; a.textContent = i.title + ": " + i.label;
-      s.className = "d"; s.textContent = i.date + " · " + i.actor + (i.doc ? " · " + i.doc : "");
-      li.appendChild(a); li.appendChild(s); box.appendChild(li);
+  var days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function day(s, asOf) {
+    var d = new Date(s + "T12:00:00Z");
+    return (s === asOf ? "Today" : days[d.getUTCDay()]) + " " + d.getUTCDate() + " " + months[d.getUTCMonth()];
+  }
+  function list(id, items, asOf, empty) {
+    var ul = document.getElementById(id);
+    ul.textContent = "";
+    if (!items.length) {
+      var li = document.createElement("li");
+      li.className = "d"; li.textContent = empty; ul.appendChild(li); return;
+    }
+    items.forEach(function (i) {
+      var li = document.createElement("li"), a = document.createElement("a"), s = document.createElement("div"),
+          b = document.createElement("strong");
+      b.textContent = i.act + " "; a.href = i.url; a.textContent = i.text;
+      s.className = "d"; s.textContent = day(i.date, asOf);
+      li.appendChild(s); li.appendChild(b); li.appendChild(a); ul.appendChild(li);
     });
+  }
+  function get() { try { return localStorage.getItem("week-view"); } catch (e) { return null; } }
+  function set(v) { try { localStorage.setItem("week-view", v); } catch (e) { /* private mode */ } }
+  fetch("procedures/week.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+    if (!d || !d.views || !d.views.length) return;
+    var bar = document.getElementById("week-views"), current = get();
+    if (!d.views.some(function (v) { return v.key === current; })) current = d.views[0].key;
+    function show() {
+      var v = d.views.filter(function (x) { return x.key === current; })[0];
+      list("ahead", v.ahead || [], d.as_of, "No dated steps in the next seven days.");
+      list("recap", v.recap || [], d.as_of, "Nothing new in the last seven days.");
+      Array.prototype.forEach.call(bar.children, function (b) {
+        b.setAttribute("aria-pressed", b.dataset.key === current ? "true" : "false");
+      });
+    }
+    bar.textContent = "";
+    if (d.views.length > 1) d.views.forEach(function (v) {
+      var b = document.createElement("button");
+      b.type = "button"; b.dataset.key = v.key; b.textContent = v.label;
+      b.onclick = function () { current = v.key; set(current); show(); };
+      bar.appendChild(b);
+    });
+    show();
+    box.hidden = false;
+    document.getElementById("week-fallback").hidden = true;
   }).catch(function () {});
 })();
 </script>
@@ -1809,7 +1851,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     $("#subtitle").textContent = `${P().description} Criticality as of ${fmt(D.as_of)}, an orientation for planning, not a legal assessment.`;
     document.title = "Regulation Timeline – " + P().title;
     fill($("#downloads"), "This timeline as ", ...[["png", "image (PNG)"], ["pdf", "print (PDF, A3)"], ["svg", "SVG"], ["drawio", "draw.io"]]
-      .flatMap(([ext, label], i) => [i ? " · " : "", el("a", { href: profileKey + "." + ext, download: "" }, label)]));
+      .flatMap(([ext, label], i) => [i ? " · " : "", el("a", { href: profileKey + "." + ext, download: "" }, label)]),
+      " · ", el("a", { href: "chart.html#profile=" + profileKey }, "only the acts you pick (PNG for slides)"));
   }
   function renderChips() {
     const counts = Object.fromEntries(ORDER.map(k => [k, 0]));
