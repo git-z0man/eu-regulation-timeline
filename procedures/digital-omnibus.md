@@ -5,11 +5,11 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 
 ## Status and next steps
 
-- **Stage:** Council mandate adopted
+- **Stage:** EP committee stage
 - **Parliament:** draft report 22 Jun 2026
-- **Council:** mandate (ST 13886/26 of 02 Oct 2026)
+- **Council:** draft mandate before Coreper (ST 13886/26 of 02 Oct 2026)
 - **Latest activity:** 02 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26)
-- **Next steps:** EP committee report and mandate; then trilogues
+- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 13886/26)
 
 ## Events
 
