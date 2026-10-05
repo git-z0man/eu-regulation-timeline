@@ -216,6 +216,10 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   color: var(--ink); border-radius: 999px; padding: 1px 9px; cursor: pointer; }
 .start .views button[aria-pressed="true"] { background: var(--focus); border-color: var(--focus); color: #fff; }
 /* the timeline's downloads and next deadlines, moved into the cards by the page script */
+.start .diy { margin: 12px 0 0; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--focus);
+  background: color-mix(in srgb, var(--focus) 8%, transparent); }
+.start .diy strong { display: block; } .start .diy span { display: block; color: var(--muted); margin: 2px 0 8px; }
+.start .diy .chipset { margin: 0; } .start .diy .chipset a.go { background: var(--focus); color: #fff; font-weight: 600; }
 .start #slot-downloads .dl { margin: 12px 0 0; font-size: 13px; color: var(--muted); }
 .start .strip { display: block; background: none; border: 0; box-shadow: none; padding: 0; margin: 14px 0 0; }
 .start .strip .label { display: block; font-size: 13px; color: var(--muted); font-weight: 600; margin: 0 0 4px; }
@@ -232,7 +236,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 .start ul.latest .d { color: var(--muted); font-size: 12px; }
 .start .more { display: flex; flex-wrap: wrap; gap: 4px 12px; } .start .more a { white-space: nowrap; }
 @media (max-width: 900px) { .start, .start .week { grid-template-columns: minmax(0, 1fr); } }
-</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a></div><div id="slot-downloads"></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a><a href="acts/digital-omnibus.html">Digital Omnibus</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div><div id="slot-deadlines"></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
+</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a></div><div class="diy"><strong>Your own chart, e.g. for slides</strong><span>Pick the acts you need and download the timeline as PNG or SVG.</span><div class="chipset"><a href="chart.html#rows=cra%2Cred-cyber%2Ccsa%2Cai-act%2Cmachinery">Cybersecurity of products</a><a href="chart.html#rows=cra%2Cred-cyber%2Cnis2%2Ccsa%2Cai-act%2Cmachinery">Cybersecurity incl. NIS-2</a><a class="go" href="chart.html">Pick acts →</a></div></div><div id="slot-downloads"></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a><a href="acts/digital-omnibus.html">Digital Omnibus</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div><div id="slot-deadlines"></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
 (function () {
   var box = document.getElementById("week");
   if (!box || !window.fetch) return;
@@ -617,13 +621,6 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2/2022-12-27_oj.en.md#art-41"
       },
       {
-       "date": "2025-11-19",
-       "label": "Omnibus proposal",
-       "obligation": false,
-       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
-       "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2025-11-19_com-proposal.en.md"
-      },
-      {
        "date": "2026-01-20",
        "label": "Amendment proposal",
        "obligation": false,
@@ -664,7 +661,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "id": "digital-omnibus",
        "title": "Digital Omnibus",
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
-       "row": null,
+       "row": "omnibus",
        "page": "acts/digital-omnibus.html"
       }
      ],
@@ -680,12 +677,6 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "procedure": "2026/0012(COD)",
        "state": "ongoing",
        "url": "procedures/nis2-amendment.html"
-      },
-      {
-       "title": "Digital Omnibus",
-       "procedure": "2025/0360(COD)",
-       "state": "ongoing",
-       "url": "procedures/digital-omnibus.html"
       }
      ],
      "page": "acts/nis2.html"
@@ -888,6 +879,84 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       }
      ],
      "page": "acts/ai-act.html"
+    },
+    {
+     "id": "omnibus",
+     "label": "Digital Omnibus (data, incident reporting)",
+     "group": "AI and digital",
+     "act_title": "Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework",
+     "names": "digital-omnibus Digital Omnibus Digital Omnibus 52025PC0837",
+     "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
+     "act_md": [
+      {
+       "lang": "en",
+       "url": "texts/digital-omnibus/2025-11-19_com-proposal.en.md",
+       "view": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2025-11-19_com-proposal.en.md"
+      },
+      {
+       "lang": "de",
+       "url": "texts/digital-omnibus/2025-11-19_com-proposal.de.md",
+       "view": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2025-11-19_com-proposal.de.md"
+      }
+     ],
+     "criticality": "monitor",
+     "reason": "proposal or legislative procedure",
+     "note": "Data Act (machine data, trade secrets); one entry point for incident reports, a CRA notification counts for NIS-2.",
+     "phases": [
+      {
+       "state": "procedure",
+       "from": "2025-11-19",
+       "to": "2027-06-30"
+      }
+     ],
+     "milestones": [
+      {
+       "date": "2025-11-19",
+       "label": "Proposal",
+       "obligation": false,
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
+       "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2025-11-19_com-proposal.en.md"
+      },
+      {
+       "date": "2026-06-22",
+       "label": "EP draft report",
+       "obligation": false,
+       "url": "https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.docx",
+       "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md"
+      }
+     ],
+     "related": [
+      {
+       "id": "nis2",
+       "title": "NIS 2 Directive",
+       "url": "http://data.europa.eu/eli/dir/2022/2555/oj",
+       "row": "nis2",
+       "page": "acts/nis2.html"
+      },
+      {
+       "id": "digital-omnibus-ai",
+       "title": "Digital Omnibus on AI",
+       "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "row": null,
+       "page": null
+      },
+      {
+       "id": "nis2-amendment",
+       "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013",
+       "row": null,
+       "page": null
+      }
+     ],
+     "procedures": [
+      {
+       "title": "Digital Omnibus",
+       "procedure": "2025/0360(COD)",
+       "state": "ongoing",
+       "url": "procedures/digital-omnibus.html"
+      }
+     ],
+     "page": "acts/digital-omnibus.html"
     },
     {
      "id": "machinery",
@@ -1857,7 +1926,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     document.title = "Regulation Timeline – " + P().title;
     fill($("#downloads"), "This timeline as ", ...[["png", "image (PNG)"], ["pdf", "print (PDF, A3)"], ["svg", "SVG"], ["drawio", "draw.io"]]
       .flatMap(([ext, label], i) => [i ? " · " : "", el("a", { href: profileKey + "." + ext, download: "" }, label)]),
-      " · ", el("a", { href: "chart.html#profile=" + profileKey }, "only the acts you pick (PNG for slides)"));
+      ...($("#slot-downloads") ? [] : [" · ", el("a", { href: "chart.html#profile=" + profileKey }, "only the acts you pick (PNG for slides)")]));
   }
   function renderChips() {
     const counts = Object.fromEntries(ORDER.map(k => [k, 0]));
