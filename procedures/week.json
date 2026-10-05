@@ -27,6 +27,12 @@
    "recap": [
     {
      "date": "2026-10-02",
+     "act": "Digital Omnibus",
+     "text": "Council: Mandate for negotiations with the European Parliament (not public)",
+     "url": "procedures/digital-omnibus.html"
+    },
+    {
+     "date": "2026-10-02",
      "act": "Cybersecurity Act 2",
      "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
      "url": "procedures/csa2.html"
@@ -38,22 +44,16 @@
      "url": "procedures/nis2-amendment.html"
     },
     {
+     "date": "2026-09-29",
+     "act": "Chips Act 2.0",
+     "text": "Council: Presidency compromise text (not public)",
+     "url": "procedures/chips-act-2.html"
+    },
+    {
      "date": "2026-10-02",
      "act": "CRA",
      "text": "8 standardisation projects moved on, e.g. EN 304 627: Approval Stage – Comments categorisation assessed",
      "url": "acts/cra.html#standardisation"
-    },
-    {
-     "date": "2026-10-01",
-     "act": "MR",
-     "text": "Standardisation: prEN ISO 14159: Under Approval",
-     "url": "acts/machinery-regulation.html#standardisation"
-    },
-    {
-     "date": "2026-10-01",
-     "act": "AI Act",
-     "text": "Standardisation: prEN 18283: Under Enquiry",
-     "url": "acts/ai-act.html#standardisation"
     }
    ]
   },
@@ -77,6 +77,12 @@
    "recap": [
     {
      "date": "2026-10-02",
+     "act": "Digital Omnibus",
+     "text": "Council: Mandate for negotiations with the European Parliament (not public)",
+     "url": "procedures/digital-omnibus.html"
+    },
+    {
+     "date": "2026-10-02",
      "act": "Cybersecurity Act 2",
      "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
      "url": "procedures/csa2.html"
@@ -98,12 +104,6 @@
      "act": "MR",
      "text": "Standardisation: prEN ISO 14159: Under Approval",
      "url": "acts/machinery-regulation.html#standardisation"
-    },
-    {
-     "date": "2026-10-01",
-     "act": "AI Act",
-     "text": "Standardisation: prEN 18283: Under Enquiry",
-     "url": "acts/ai-act.html#standardisation"
     }
    ]
   }
