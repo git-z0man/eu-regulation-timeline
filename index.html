@@ -236,7 +236,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 .start ul.latest .d { color: var(--muted); font-size: 12px; }
 .start .more { display: flex; flex-wrap: wrap; gap: 4px 12px; } .start .more a { white-space: nowrap; }
 @media (max-width: 900px) { .start, .start .week { grid-template-columns: minmax(0, 1fr); } }
-</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a></div><div class="diy"><strong>Your own chart, e.g. for slides</strong><span>Pick the acts you need and download the timeline as PNG or SVG.</span><div class="chipset"><a href="chart.html#rows=cra%2Cred-cyber%2Ccsa%2Cai-act%2Cmachinery">Cybersecurity of products</a><a href="chart.html#rows=cra%2Cred-cyber%2Cnis2%2Ccsa%2Cai-act%2Cmachinery">Cybersecurity incl. NIS-2</a><a class="go" href="chart.html">Pick acts →</a></div></div><div id="slot-downloads"></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a><a href="acts/digital-omnibus.html">Digital Omnibus</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div><div id="slot-deadlines"></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
+</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a></div><div class="diy"><strong>Your own chart, e.g. for slides</strong><span>Pick the acts you need and download the timeline as PNG or SVG.</span><div class="chipset"><a href="chart.html#rows=cra%2Cred-cyber%2Ccsa%2Cai-act%2Cmachinery%2Cstandardisation">Cybersecurity of products</a><a href="chart.html#rows=machinery%2Ccra%2Cai-act%2Cgpsr%2Cpld%2Cepa%2Cstandardisation%2Cdigitalisation">Product framework and standardisation</a><a href="chart.html#rows=cra%2Cred-cyber%2Cnis2%2Ccsa%2Cai-act%2Cmachinery">Cybersecurity incl. NIS-2</a><a class="go" href="chart.html">Pick acts →</a></div></div><div id="slot-downloads"></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a><a href="acts/digital-omnibus.html">Digital Omnibus</a><a href="acts/standardisation-revision.html">Standardisation Regulation (new)</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div><div id="slot-deadlines"></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="procedures/changes.html">Latest activity →</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
 (function () {
   var box = document.getElementById("week");
   if (!box || !window.fetch) return;
@@ -1314,7 +1314,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "phases": [
       {
        "state": "procedure",
-       "from": "2026-10-06",
+       "from": "2026-12-31",
        "to": "2028-12-31"
       }
      ],
@@ -1327,8 +1327,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/epa/2025-10-21_ep-resolution.en.md"
       },
       {
-       "date": "2026-10-06",
-       "label": "Proposal expected",
+       "date": "2026-12-31",
+       "label": "Proposal expected by end 2026 (postponed)",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/epa/2025-10-21_ep-resolution.en.md"
@@ -1388,10 +1388,16 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "act_title": "Regulation on European standardisation (revision of Regulation 1025/2012)",
      "names": "standardisation-revision Standardisation Regulation (new) Regulation on European standardisation (revision of Regulation 1025/2012)",
      "act_url": null,
-     "act_md": [],
+     "act_md": [
+      {
+       "lang": "en",
+       "url": "texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md",
+       "view": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md"
+      }
+     ],
      "criticality": "monitor",
      "reason": "proposal or legislative procedure",
-     "note": "Update of the rules on standardisation (Reg. 1025/2012) announced with the European Product Act (Commission Work Programme 2026); basis of harmonised standards and presumption of conformity.",
+     "note": "Proposed 6 Oct 2026 (COM(2026) 780), replaces Reg. 1025/2012 six months after entry into force (Art. 43; entry into force expected in 2028), without transitional rules. Free online access to referenced standards (Art. 5); interim deliverables, designated standards development organisations and common specifications when the ESOs are late (Arts. 2(7), 29, 32). M/606 (CRA) expires before, M/605 phase 2 (machinery, due 2034) runs across the switch; Art. 20 MR and Art. 27 CRA still name only harmonised standards.",
      "phases": [
       {
        "state": "procedure",
@@ -1402,13 +1408,20 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
      "milestones": [
       {
        "date": "2026-10-06",
-       "label": "Proposal expected (with EPA)",
+       "label": "COM(2026) 780",
        "obligation": false,
-       "url": null,
-       "md": null
+       "url": "http://publications.europa.eu/resource/cellar/7d87e424-c19d-11f1-988f-01aa75ed71a1.0001.02/DOC_1",
+       "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md"
       }
      ],
      "related": [
+      {
+       "id": "gpsr",
+       "title": "General Product Safety Regulation",
+       "url": "http://data.europa.eu/eli/reg/2023/988/oj",
+       "row": "gpsr",
+       "page": null
+      },
       {
        "id": "standardisation-regulation",
        "title": "Regulation on European standardisation",
@@ -1460,7 +1473,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       }
      ],
      "procedures": [],
-     "page": null
+     "page": "acts/standardisation-revision.html"
     },
     {
      "id": "digitalisation",

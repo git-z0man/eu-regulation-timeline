@@ -1008,9 +1008,9 @@ Scope and General Principles
 **~~Requests for re-use~~**
 
 <a id="art-32o"></a>
-### Article 32o
+### Article 32o – Processing requests for re-use
 
-**~~Processing requests for re-use~~** **~~and shall deliver the data or documents for re-use to the applicant or, if a~~** **~~licence is needed, finalise the licence offer to the applicant as soon as possible,~~** **~~and in any event within 20 working days of receipt. That time frame may be~~** **~~extended by a further 20 working days in the case of extensive or complex~~** **~~requests. In such cases, the applicant shall be notified as soon as possible, and in~~** **~~any event within three weeks of the initial request, that more time is needed to~~** **~~process the request and the reasons why.~~**
+**~~and shall deliver the data or documents for re-use to the applicant or, if a~~** **~~licence is needed, finalise the licence offer to the applicant as soon as possible,~~** **~~and in any event within 20 working days of receipt. That time frame may be~~** **~~extended by a further 20 working days in the case of extensive or complex~~** **~~requests. In such cases, the applicant shall be notified as soon as possible, and in~~** **~~any event within three weeks of the initial request, that more time is needed to~~** **~~process the request and the reasons why.~~**
 
 - (3) **~~In the event of a negative decision, the public sector bodies shall communicate~~** **~~the grounds for refusal to the applicant on the basis of the relevant provisions of~~** **~~the access regime in that Member State or the provisions of this Regulation, in~~** **~~particular points (a) to (c) of paragraph 2 of Article 32i and points (a) to (d) of~~** **~~paragraph 3 of Article 32i or Article 32n (general principle ODD Section).~~** **~~Where a negative decision is based on point (d) of paragraph 3 of Article 32i,~~** **~~the public sector body shall include a reference to the natural or legal person~~** **~~who is the rightsholder, where known, or alternatively to the licensor from~~** **~~which the public sector body has obtained the relevant material. Libraries,~~** **~~including university libraries, museums and archives, shall not be required to~~** **~~include such a reference.~~**
 

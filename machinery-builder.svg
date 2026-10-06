@@ -186,11 +186,11 @@
 <g class="tl-row" data-row="epa" data-group="Product framework" data-y="664" data-h="42">
 <g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="678.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="688.9">EPA (NLF revision)</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><title>expected</title><rect x="749.6" y="674.0" width="380.3" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><title>expected</title><rect x="789.7" y="674.0" width="340.2" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><title>EP resolution: 21 Oct 2025</title><polygon points="586.7214236824093,679.0 592.7214236824093,685.0 586.7214236824093,691.0 580.7214236824093,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="594.7" y="669.0">EP resolution</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><title>Proposal expected: 06 Oct 2026</title><polygon points="749.6235455167694,679.0 755.6235455167694,685.0 749.6235455167694,691.0 743.6235455167694,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="757.6" y="702.0">Proposal expected</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><title>Proposal expected by end 2026 (postponed): 31 Dec 2026</title><polygon points="789.6509240246406,679.0 795.6509240246406,685.0 789.6509240246406,691.0 783.6509240246406,685.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="797.7" y="702.0">Proposal expected by end 2026 (postponed)</tspan></text></a>
 <g class="tl-notes">
 <text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="682.2">New horizontal product framework replacing the NLF acts; CE</tspan><tspan x="1484.0" y="694.8">marking, conformity assessment, digital product information.</tspan></text>
 </g>
@@ -199,11 +199,11 @@
 <g class="tl-row" data-row="standardisation" data-group="Product framework" data-y="706" data-h="42">
 <g><title>monitor: proposal or legislative procedure</title><rect x="20.0" y="720.0" width="10.0" height="14.0" fill="#4a78c2" stroke="none" rx="5.0"/></g>
 <text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="730.9">Standardisation Regulation (revision)</tspan></text>
-<g><title>expected</title><rect x="749.6" y="716.0" width="294.6" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/></g>
-<g><title>Proposal expected (with EPA): 06 Oct 2026</title><polygon points="749.6235455167694,721.0 755.6235455167694,727.0 749.6235455167694,733.0 743.6235455167694,727.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<text font-size="8" fill="#222222" text-anchor="start"><tspan x="757.6" y="744.0">Proposal expected (with EPA)</tspan></text>
+<rect x="749.6" y="716.0" width="294.6" height="22.0" fill="#dce6f6" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="2"/>
+<a xlink:href="http://publications.europa.eu/resource/cellar/7d87e424-c19d-11f1-988f-01aa75ed71a1.0001.02/DOC_1" target="_blank"><title>COM(2026) 780: 06 Oct 2026</title><polygon points="749.6235455167694,721.0 755.6235455167694,727.0 749.6235455167694,733.0 743.6235455167694,727.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="http://publications.europa.eu/resource/cellar/7d87e424-c19d-11f1-988f-01aa75ed71a1.0001.02/DOC_1" target="_blank"><text font-size="8" fill="#222222" text-anchor="start"><tspan x="757.6" y="744.0">COM(2026) 780</tspan></text></a>
 <g class="tl-notes">
-<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="711.8">Update of the rules on standardisation (Reg. 1025/2012)</tspan><tspan x="1484.0" y="724.2">announced with the European Product Act (Commission Work</tspan><tspan x="1484.0" y="736.8">Programme 2026); basis of harmonised standards and</tspan><tspan x="1484.0" y="749.2">presumption of conformity.</tspan></text>
+<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="680.5">Proposed 6 Oct 2026 (COM(2026) 780), replaces Reg. 1025/2012</tspan><tspan x="1484.0" y="693.0">six months after entry into force (Art. 43; entry into force</tspan><tspan x="1484.0" y="705.5">expected in 2028), without transitional rules. Free online</tspan><tspan x="1484.0" y="718.0">access to referenced standards (Art. 5); interim</tspan><tspan x="1484.0" y="730.5">deliverables, designated standards development organisations</tspan><tspan x="1484.0" y="743.0">and common specifications when the ESOs are late (Arts.</tspan><tspan x="1484.0" y="755.5">2(7), 29, 32). M/606 (CRA) expires before, M/605 phase 2</tspan><tspan x="1484.0" y="768.0">(machinery, due 2034) runs across the switch; Art. 20 MR and</tspan><tspan x="1484.0" y="780.5">Art. 27 CRA still name only harmonised standards.</tspan></text>
 </g>
 <line x1="20.0" y1="748.0" x2="1800.0" y2="748.0" stroke="#eceef0" stroke-width="1"/>
 </g>

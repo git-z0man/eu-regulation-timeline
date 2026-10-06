@@ -1569,9 +1569,9 @@ Online interfaces of controllers which are in conformity with harmonised standar
 - (7) Paragraph 6 shall apply from [OP: please insert the date = 48 months following the date of entry into force of this Regulation].
 
 <a id="art-88c"></a>
-### Article 88c
+### Article 88c – Processing in the context of the development and operation of AI
 
-~~Processing in the context of the development and operation of AI~~ ~~Where the processing of personal data is necessary for the interests of the controller in~~ ~~the context of the development and operation of an AI system as defined in Article 3,~~ ~~point (1), of Regulation (EU) 2024/1689 or an AI model, such processing may be~~ ~~pursued for legitimate interests within the meaning of Article 6(1)(f) of Regulation (EU)~~ ~~2016/679, where appropriate, except where other Union or national laws explicitly~~ ~~require consent, and where such interests are overridden by the interests, or fundamental~~ ~~rights and freedoms of the data subject which require protection of personal data, in~~ ~~particular where the data subject is a child.~~
+~~Where the processing of personal data is necessary for the interests of the controller in~~ ~~the context of the development and operation of an AI system as defined in Article 3,~~ ~~point (1), of Regulation (EU) 2024/1689 or an AI model, such processing may be~~ ~~pursued for legitimate interests within the meaning of Article 6(1)(f) of Regulation (EU)~~ ~~2016/679, where appropriate, except where other Union or national laws explicitly~~ ~~require consent, and where such interests are overridden by the interests, or fundamental~~ ~~rights and freedoms of the data subject which require protection of personal data, in~~ ~~particular where the data subject is a child.~~
 
 ~~Any such processing shall be subject to appropriate organisational, technical measures~~ ~~and safeguards for the rights and freedoms of the data subject, such as to ensure respect~~ ~~of data minimisation during the stage of selection of sources and the training and testing~~ ~~of AI an system or AI model, to protect against non-disclosure of residually retained~~ ~~data in the AI system or AI model to ensure enhanced transparency to data subjects and~~ ~~providing data subjects with an unconditional right to object to the processing of their~~ ~~personal data.’~~
 

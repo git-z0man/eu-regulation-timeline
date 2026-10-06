@@ -7,9 +7,9 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 22 Jun 2026
-- **Council:** draft mandate before Coreper (ST 13886/26 of 02 Oct 2026)
-- **Latest activity:** 02 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26)
-- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 13886/26)
+- **Council:** draft mandate before Coreper (ST 13886/26 REV 1 of 05 Oct 2026)
+- **Latest activity:** 05 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26 REV 1)
+- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 13886/26 REV 1)
 
 ## Events
 
@@ -132,6 +132,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-22 | [WK 14017/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92901) | council-note | Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026 | not public\* | – | – |
 | 2026-10-01 | [WK 15043/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94826) | council-note | Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, … | not public\* | – | – |
 | 2026-10-02 | [ST 13886/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95158) | council-position | Mandate for negotiations with the European Parliament<br>*Our summary (Not public: not released by the institution and unofficially leaked; we neither publish nor quote it. Our summary describes it in general terms only.):* Note of the Council's General Secretariat to Coreper of 2 October 2026 with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus: the full compromise text on the data rules (Data Act and the consolidated data acquis), the GDPR, the cookie rules of the ePrivacy Directive and a single entry point for reporting cyber and data incidents. A draft put to Coreper, not a position of the Council until Coreper agrees it, and not law. The note says that an agreed mandate will be made public unless Coreper objects, so an official release of the agreed text is likely. | not public, leak available\* | – | – |
+| 2026-10-05 | ST 13886/26 REV 1 | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
 
 \* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 

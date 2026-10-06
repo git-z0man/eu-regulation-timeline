@@ -6,18 +6,6 @@
    "label": "All acts",
    "ahead": [
     {
-     "date": "2026-10-06",
-     "act": "EPA",
-     "text": "Commission proposal expected",
-     "url": "#act=epa"
-    },
-    {
-     "date": "2026-10-06",
-     "act": "Standardisation Regulation (new)",
-     "text": "Commission proposal expected",
-     "url": "#act=standardisation"
-    },
-    {
      "date": "2026-10-08",
      "act": "CRA",
      "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
@@ -25,6 +13,12 @@
     }
    ],
    "recap": [
+    {
+     "date": "2026-10-05",
+     "act": "Digital Omnibus",
+     "text": "Council: Mandate for negotiations with the European Parliament (not public)",
+     "url": "procedures/digital-omnibus.html"
+    },
     {
      "date": "2026-10-02",
      "act": "Digital Omnibus",
@@ -48,12 +42,6 @@
      "act": "Cybersecurity Act 2",
      "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
      "url": "procedures/csa2.html"
-    },
-    {
-     "date": "2026-10-02",
-     "act": "NIS-2 amendment",
-     "text": "Council released 6 documents listed as not public, incl. Council progress report of 2026-05-13",
-     "url": "procedures/nis2-amendment.html"
     }
    ]
   },
@@ -62,12 +50,6 @@
    "label": "Cybersecurity",
    "ahead": [
     {
-     "date": "2026-10-06",
-     "act": "Standardisation Regulation (new)",
-     "text": "Commission proposal expected",
-     "url": "#act=standardisation"
-    },
-    {
      "date": "2026-10-08",
      "act": "CRA",
      "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
@@ -75,6 +57,12 @@
     }
    ],
    "recap": [
+    {
+     "date": "2026-10-05",
+     "act": "Digital Omnibus",
+     "text": "Council: Mandate for negotiations with the European Parliament (not public)",
+     "url": "procedures/digital-omnibus.html"
+    },
     {
      "date": "2026-10-02",
      "act": "Digital Omnibus",
@@ -98,12 +86,6 @@
      "act": "NIS-2 amendment",
      "text": "Council released 6 documents listed as not public, incl. Council progress report of 2026-05-13",
      "url": "procedures/nis2-amendment.html"
-    },
-    {
-     "date": "2026-10-06",
-     "act": "CRA",
-     "text": "9 standardisation projects moved on, e.g. EN 304 636: Approval Stage – Closing of approval procedure",
-     "url": "acts/cra.html#standardisation"
     }
    ]
   }

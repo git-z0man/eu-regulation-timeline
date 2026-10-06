@@ -1052,6 +1052,16 @@ All texts of this act as one file: [standardisation-regulation.zip](downloads/st
 | --- | --- | --- | --- | --- | --- | --- |
 | 2012-11-14_oj | oj | 32012R1025 | [en](standardisation-regulation/2012-11-14_oj.en.md) | [de](standardisation-regulation/2012-11-14_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-regulation/2012-11-14_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1025) |
 
+## Standardisation Regulation (new)
+
+`standardisation-revision` – Regulation on European standardisation (revision of Regulation 1025/2012)
+
+All texts of this act as one file: [standardisation-revision.zip](downloads/standardisation-revision.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-06_com-proposal-st-14141-26 | com-proposal | – | [en](standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | [source](http://publications.europa.eu/resource/cellar/7d87e424-c19d-11f1-988f-01aa75ed71a1.0001.02/DOC_1) |
+
 ## TSR
 
 `toy-safety-regulation` – Regulation (EU) 2025/2509 on the safety of toys and repealing Directive 2009/48/EC
