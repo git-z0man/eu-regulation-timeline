@@ -551,6 +551,16 @@ All texts of this act as one file: [guidance-commission-work-programme-2026.zip]
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-10-21_final | final | 52025DC0870 | [en](guidance/commission/work-programme-2026/2025-10-21_final.en.md) | [de](guidance/commission/work-programme-2026/2025-10-21_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/work-programme-2026/2025-10-21_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025DC0870) |
 
+## Council AOB note: The European Product Act as cornerstone of the Single Market (non-paper of NL, FI, FR, PL, PT, SE)
+
+`guidance/council/st-9568-26` – ST 9568/1/26 REV 1: AOB for the meeting of the Competitiveness Council of 28 May 2026: The European Product Act as cornerstone of the Single Market – Information from the Netherlands, Finland, France, Poland, Portugal and Sweden
+
+All texts of this act as one file: [guidance-council-st-9568-26.zip](downloads/guidance-council-st-9568-26.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-27_final | final | ST 9568/1/26 REV 1 | [en](guidance/council/st-9568-26/2026-05-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/council/st-9568-26/2026-05-27_final.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9568-2026-REV-1/en/pdf) |
+
 ## EU 5G Toolbox
 
 `guidance/nis-cg/5g-toolbox` – Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures (NIS Cooperation Group publication 01/2020)
