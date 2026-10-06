@@ -12,6 +12,7 @@ Drawing: [pld.svg](pld.svg), [pld.pdf](pld.pdf) · Web page: [pld.html](pld.html
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2022-09-28 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2022) 495](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0495) | Cellar procedure file 2022/302 (CELEX 52022PC0495) |
 | 2022-10-17 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0302%28COD%29) | EP Open Data API, procedure 2022-0302 (REFERRAL) |
 | 2023-01-24 | Consultative bodies | EESC opinion | [CELEX 52022AE4922](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4922) | Cellar procedure file 2022/302 |
 | 2023-01-31 | European Parliament | JURI rapporteur appointed (Pascal Arimont, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0302%28COD%29) | EP Open Data API, procedure 2022-0302 (participation RAPPORTEUR) |

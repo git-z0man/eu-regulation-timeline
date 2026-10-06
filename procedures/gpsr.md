@@ -12,6 +12,7 @@ Drawing: [gpsr.svg](gpsr.svg), [gpsr.pdf](gpsr.pdf) · Web page: [gpsr.html](gps
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2021-06-30 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2021) 346](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0346) | Cellar procedure file 2021/170 (CELEX 52021PC0346) |
 | 2021-09-13 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0170%28COD%29) | EP Open Data API, procedure 2021-0170 (REFERRAL) |
 | 2021-10-20 | Consultative bodies | EESC opinion | [CELEX 52021AE3583](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE3583) | Cellar procedure file 2021/170 |
 | 2021-11-19 | Council | Council text of the proposal (subject not given in the register) | [ST 13576/21](https://data.consilium.europa.eu/doc/document/ST-13576-2021-INIT/en/pdf) | Cellar procedure file 2021/170 (Council register) |

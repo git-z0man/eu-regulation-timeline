@@ -12,6 +12,7 @@ Drawing: [ai-act.svg](ai-act.svg), [ai-act.pdf](ai-act.pdf) · Web page: [ai-act
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2021-04-21 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2021) 206](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206) | Cellar procedure file 2021/106 (CELEX 52021PC0206) |
 | 2021-06-07 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106%28COD%29) | EP Open Data API, procedure 2021-0106 (REFERRAL) |
 | 2021-09-22 | Consultative bodies | EESC opinion | [CELEX 52021AE2482](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021AE2482) | Cellar procedure file 2021/106 |
 | 2021-12-01 | European Parliament | IMCO rapporteur appointed (Brando Benifei, S-D) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106%28COD%29) | EP Open Data API, procedure 2021-0106 (participation RAPPORTEUR) |

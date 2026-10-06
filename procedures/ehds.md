@@ -12,6 +12,7 @@ Drawing: [ehds.svg](ehds.svg), [ehds.pdf](ehds.pdf) · Web page: [ehds.html](ehd
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2022-05-03 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2022) 197](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0197) | Cellar procedure file 2022/140 (CELEX 52022PC0197) |
 | 2022-05-30 | Council | Council text of the proposal (subject not given in the register) | [ST 9461/22 REV 1](https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf) | Cellar procedure file 2022/140 (Council register) |
 | 2022-06-06 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0140%28COD%29) | EP Open Data API, procedure 2022-0140 (REFERRAL) |
 | 2022-09-22 | Consultative bodies | EESC opinion | [CELEX 52022AE2531](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531) | Cellar procedure file 2022/140 |

@@ -12,6 +12,7 @@ Drawing: [imera.svg](imera.svg), [imera.pdf](imera.pdf) · Web page: [imera.html
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2022-09-19 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2022) 459](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0459) | Cellar procedure file 2022/278 (CELEX 52022PC0459) |
 | 2022-11-09 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0278%28COD%29) | EP Open Data API, procedure 2022-0278 (REFERRAL) |
 | 2022-12-14 | Consultative bodies | EESC opinion | [CELEX 52022AE4098](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE4098) | Cellar procedure file 2022/278 |
 | 2022-12-16 | European Parliament | IMCO rapporteur appointed (Andreas Schwab, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0278%28COD%29) | EP Open Data API, procedure 2022-0278 (participation RAPPORTEUR) |

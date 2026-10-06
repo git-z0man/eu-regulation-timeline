@@ -53,7 +53,7 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 | 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
 | 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
 | 2026-06-12 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | Cellar procedure file 2025/359 (Council register) |
-| 2026-06-16 | European Parliament | Plenary adopt position | [P10_TA(2026)0198](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf) | EP Open Data API, procedure 2025-0359 (PLENARY_ADOPT_POSITION) |
+| 2026-06-16 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P10_TA(2026)0198](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf) | EP Open Data API, procedure 2025-0359 (PLENARY_ADOPT_POSITION) |
 | 2026-07-08 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (SIGNATURE) |
 | 2026-07-24 | Signature and publication | Published in the Official Journal | [CELEX 32026R1744](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1744) · [en.md](../texts/digital-omnibus-ai/2026-07-24_oj.en.md) [de.md](../texts/digital-omnibus-ai/2026-07-24_oj.de.md) | EP Open Data API, procedure 2025-0359 (PUBLICATION_OFFICIAL_JOURNAL) |
 

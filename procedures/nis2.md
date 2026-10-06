@@ -12,6 +12,7 @@ Drawing: [nis2.svg](nis2.svg), [nis2.pdf](nis2.pdf) · Web page: [nis2.html](nis
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2020-12-16 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2020) 823](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020PC0823) | Cellar procedure file 2020/359 (CELEX 52020PC0823) |
 | 2021-01-11 | Council | Council text of the proposal (subject not given in the register) | [ST 14150/20 ADD 1 COR 1](https://data.consilium.europa.eu/doc/document/ST-14150-2020-ADD-1-COR-1/en/pdf) | Cellar procedure file 2020/359 (Council register) |
 | 2021-01-21 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0359%28COD%29) | EP Open Data API, procedure 2020-0359 (REFERRAL) |
 | 2021-04-27 | Consultative bodies | EESC opinion | [CELEX 52020AE5749](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020AE5749) | Cellar procedure file 2020/359 |

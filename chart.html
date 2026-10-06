@@ -52,7 +52,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 </style><nav class="sitenav" aria-label="Site"><a class="brand" href="index.html">EU regulation timeline</a><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
   <h1>Timeline chart</h1>
   <p class="muted">Pick the acts you need and download the timeline as an image, e.g. for slides (PNG at double
-    resolution, white background) or as SVG to edit. The chart is the same as on the <a href="index.html">timeline</a>,
+    resolution, white background) or as SVG to edit. Title and subtitle can be changed, and the act names set
+    larger (one size for all). The chart is the same as on the <a href="index.html">timeline</a>,
     with the criticality of the selected company profile and the dates of the day it was built. The selection is kept
     in the address of this page, so it can be bookmarked or shared.</p>
   <div class="panel">
@@ -65,6 +66,16 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
     <div class="groups" id="groups" style="margin-top:10px"></div>
     <div class="row">
       <label>Title <input type="text" id="title"></label>
+    </div>
+    <div class="row">
+      <label>Subtitle <input type="text" id="subtitle"></label>
+    </div>
+    <div class="row">
+      <label>Act names <select id="size">
+        <option value="11">normal</option>
+        <option value="14">large</option>
+        <option value="16">extra large</option>
+      </select></label>
       <label><input type="checkbox" id="notes"> Column “What it means for us”</label>
     </div>
     <div class="row">
@@ -77,7 +88,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
   <footer id="foot"></footer>
 </div>
 <script id="data" type="application/json">{
- "as_of": "2026-10-05",
+ "as_of": "2026-10-06",
  "groups": [
   "Cybersecurity",
   "AI and digital",
@@ -207,18 +218,53 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
   let selected = new Set(params.has("rows") ? params.get("rows").split(",").filter(Boolean) : preset0 ? preset0.rows : []);
   let notes = params.get("notes") === "1";
   let title = params.get("title") || "";
+  let subtitle = params.get("sub") || "";
+  let size = ["11", "14", "16"].includes(params.get("size")) ? +params.get("size") : 14;
   let source = null;   // the profile's SVG as drawn by tools/timeline.py
   $("#foot").textContent = D.footer;
 
   function save() {
     const p = new URLSearchParams({ profile, rows: [...selected].join(","), notes: notes ? "1" : "0" });
     if (title) p.set("title", title);
+    if (subtitle) p.set("sub", subtitle);
+    p.set("size", size);
     history.replaceState(null, "", "#" + p.toString());
   }
   function rows() { return D.profiles[profile].rows; }
   function defaultTitle() {
     const g = D.presets.find(p => p.rows.length === selected.size && p.rows.every(r => selected.has(r)));
     return "EU regulation timeline" + (g ? " – " + g.label : "");
+  }
+
+  // The subtitle of the drawing without the hint to click (links do not work in an image)
+  function defaultSubtitle(svg) {
+    const sub = svg.querySelector(".tl-sub tspan");
+    return sub ? sub.textContent.replace(/ Click a bar[^.]*\.|; click a bar[^.]*\./, "") : "";
+  }
+
+  // Act names in one size for all rows; a name too long for the label column goes on two lines
+  function sizeLabels(svg) {
+    const avail = 234;   // label column of tools/timeline.py (LW 250) less the criticality mark
+    svg.querySelectorAll(".tl-row").forEach(g => {
+      const t = g.querySelector("text"), span = t && t.querySelector("tspan");
+      if (!span) return;
+      const cy = +g.dataset.y + +g.dataset.h / 2, x = span.getAttribute("x");
+      const fits = s => s.length * size * 0.56 <= avail;
+      const words = span.textContent.split(" "), lines = [""];
+      words.forEach(w => {
+        const next = lines[lines.length - 1] ? lines[lines.length - 1] + " " + w : w;
+        if (fits(next) || !lines[lines.length - 1] || lines.length === 2) lines[lines.length - 1] = next;
+        else lines.push(w);
+      });
+      t.setAttribute("font-size", size);
+      const lh = size * 1.15, y0 = cy + size * 0.35 - (lines.length - 1) * lh / 2;
+      t.replaceChildren(...lines.map((l, i) => {
+        const s = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+        s.setAttribute("x", x); s.setAttribute("y", (y0 + i * lh).toFixed(1)); s.textContent = l;
+        return s;
+      }));
+    });
+    svg.querySelectorAll(".tl-group text").forEach(t => t.setAttribute("font-size", Math.max(12, size)));
   }
 
   function controls() {
@@ -252,6 +298,9 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
     $("#notes").checked = notes;
     $("#title").value = title;
     $("#title").placeholder = defaultTitle();
+    $("#subtitle").value = subtitle;
+    $("#subtitle").placeholder = source ? defaultSubtitle(source) : "";
+    $("#size").value = size;
     $("#count").textContent = selected.size + " of " + rows().length + " acts";
   }
 
@@ -287,8 +336,9 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
     bg.setAttribute("width", width); bg.setAttribute("height", height);
     const t = svg.querySelector(".tl-title tspan");
     if (t) t.textContent = title || defaultTitle();
-    const sub = svg.querySelector(".tl-sub tspan");   // links do not work in an image
-    if (sub) sub.textContent = sub.textContent.replace(/ Click a bar[^.]*\.|; click a bar[^.]*\./, "");
+    const sub = svg.querySelector(".tl-sub tspan");
+    if (sub) sub.textContent = subtitle || defaultSubtitle(svg);
+    sizeLabels(svg);
     return svg;
   }
 
@@ -304,6 +354,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
     source = null;
     fetch(profile + ".svg").then(r => r.text()).then(t => {
       source = new DOMParser().parseFromString(t, "image/svg+xml").documentElement;
+      $("#subtitle").placeholder = defaultSubtitle(source);
       update();
     }).catch(() => { $("#preview").textContent = "The drawing could not be loaded."; });
   }
@@ -336,6 +387,10 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
   $("#profile").onchange = e => { profile = e.target.value; load(); };
   $("#notes").onchange = e => { notes = e.target.checked; update(); };
   $("#title").oninput = e => { title = e.target.value.trim(); save(); if (source) $("#preview").replaceChildren(chart()); };
+  $("#subtitle").oninput = e => {
+    subtitle = e.target.value.trim(); save(); if (source) $("#preview").replaceChildren(chart());
+  };
+  $("#size").onchange = e => { size = +e.target.value; update(); };
   document.querySelector('[data-set="all"]').onclick = () => { selected = new Set(rows().map(r => r.id)); update(); };
   document.querySelector('[data-set="none"]').onclick = () => { selected = new Set(); update(); };
   controls(); load();

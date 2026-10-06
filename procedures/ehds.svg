@@ -1,11 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="1004" viewBox="0 0 1800 1004" font-family="Helvetica, Arial, sans-serif">
-<rect width="1800" height="1004" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="903" viewBox="0 0 1800 903" font-family="Helvetica, Arial, sans-serif">
+<rect width="1800" height="903" fill="#ffffff"/>
+<g class="procedure" data-route="agreement at first reading: the Council approved the EP position" data-state="adopted" data-as_of="">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – EHDS – Regulation (EU) 2025/327</tspan></text>
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2022/0140(COD). Upper part: the ordinary legislative procedure (Art. 294 TFEU); the route this act took is highlighted. Lower part: the act&#x27;s procedure over time. Every event cites its source (see ehds.html).</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2022/0140(COD). Route: agreement at first reading: the Council approved the EP position. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see ehds.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
+<rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
+<rect x="1010.0" y="114.0" width="22.0" height="11.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1041.0" y="122.7">step in progress</tspan></text>
+<rect x="1200.0" y="94.0" width="22.0" height="11.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1231.0" y="102.7">not reached</tspan></text>
+<rect x="1200.0" y="114.0" width="22.0" height="11.0" fill="#fff8e1" stroke="#8a6d00" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1231.0" y="122.7">informal (trilogues)</tspan></text>
 <rect x="20.0" y="150.0" width="190.0" height="58.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="2.5"/>
 <text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="167.8">Commission proposal</tspan></text>
 <text font-size="9" fill="#555555" text-anchor="middle"><tspan x="115.0" y="199.2">Art. 294(2)</tspan></text>
+<text font-size="9" fill="#2f5a9e" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="220.2">03 May 2022</tspan></text>
 <rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="2.5"/>
 <text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
 <text font-size="9" fill="#555555" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
@@ -39,9 +49,9 @@
 <polyline points="210.0,179.0 250.0,179.0" fill="none" stroke="#2f5a9e" stroke-width="2.5"/><polygon points="250.0,179.0 241.0,183.5 241.0,174.5" fill="#2f5a9e"/>
 <polyline points="450.0,179.0 490.0,179.0" fill="none" stroke="#2f5a9e" stroke-width="2.5"/><polygon points="490.0,179.0 481.0,183.5 481.0,174.5" fill="#2f5a9e"/>
 <polyline points="700.0,179.0 740.0,179.0" fill="none" stroke="#2f5a9e" stroke-width="2.5"/><polygon points="740.0,179.0 731.0,183.5 731.0,174.5" fill="#2f5a9e"/>
-<text font-size="9" fill="#2f5a9e" text-anchor="start"><tspan x="706.0" y="168.2">yes</tspan></text>
-<polyline points="595.0,208.0 595.0,262.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="595.0,262.0 590.5,253.0 599.5,253.0" fill="#b5bac0"/>
-<text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="603.0" y="237.2">no</tspan></text>
+<text font-size="9" fill="#2f5a9e" text-anchor="start" font-weight="bold"><tspan x="706.0" y="168.2">yes</tspan></text>
+<polyline points="595.0,224.0 595.0,262.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="595.0,262.0 590.5,253.0 599.5,253.0" fill="#b5bac0"/>
+<text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="603.0" y="245.2">no</tspan></text>
 <polyline points="700.0,291.0 740.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="740.0,291.0 731.0,295.5 731.0,286.5" fill="#b5bac0"/>
 <polyline points="970.0,291.0 1010.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="1010.0,291.0 1001.0,295.5 1001.0,286.5" fill="#b5bac0"/>
 <polyline points="1240.0,291.0 1280.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="1280.0,291.0 1271.0,295.5 1271.0,286.5" fill="#b5bac0"/>
@@ -49,144 +59,166 @@
 <text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="976.0" y="280.1">amends</tspan></text>
 <text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="1246.0" y="280.1">not all</tspan></text>
 <rect x="250.0" y="96.0" width="720.0" height="40.0" fill="#fff8e1" stroke="#8a6d00" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="9" fill="#8a6d00" text-anchor="start"><tspan x="254.0" y="113.5">Informal: trilogues of EP, Council and Commission at every stage (Joint Declaration 2007, points 7–9); a trilogue agreement confirmed by Coreper and</tspan><tspan x="254.0" y="124.8">offered by letter to the EP committee chair (point 14) leads to adoption at first reading.</tspan></text>
-<text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="388.6">Procedure over time – 2022/0140(COD)</tspan></text>
-<line x1="210.0" y1="420.0" x2="210.0" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="254.4" y1="420.0" x2="254.4" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="297.4" y1="420.0" x2="297.4" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="297.4" y="415.1">Jul</tspan></text>
-<line x1="341.8" y1="420.0" x2="341.8" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="386.2" y1="420.0" x2="386.2" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="429.2" y1="420.0" x2="429.2" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="429.2" y="415.1">Oct</tspan></text>
-<line x1="473.6" y1="420.0" x2="473.6" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="516.6" y1="420.0" x2="516.6" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="561.0" y1="420.0" x2="561.0" y2="936.0" stroke="#b5bac0" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="561.0" y="415.1">Jan 2023</tspan></text>
-<line x1="605.4" y1="420.0" x2="605.4" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="645.5" y1="420.0" x2="645.5" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="689.9" y1="420.0" x2="689.9" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="689.9" y="415.1">Apr</tspan></text>
-<line x1="732.9" y1="420.0" x2="732.9" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="777.3" y1="420.0" x2="777.3" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="820.2" y1="420.0" x2="820.2" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="820.2" y="415.1">Jul</tspan></text>
-<line x1="864.6" y1="420.0" x2="864.6" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="909.1" y1="420.0" x2="909.1" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="952.0" y1="420.0" x2="952.0" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="952.0" y="415.1">Oct</tspan></text>
-<line x1="996.4" y1="420.0" x2="996.4" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1039.4" y1="420.0" x2="1039.4" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1083.8" y1="420.0" x2="1083.8" y2="936.0" stroke="#b5bac0" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1083.8" y="415.1">Jan 2024</tspan></text>
-<line x1="1128.2" y1="420.0" x2="1128.2" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1169.8" y1="420.0" x2="1169.8" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1214.2" y1="420.0" x2="1214.2" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1214.2" y="415.1">Apr</tspan></text>
-<line x1="1257.1" y1="420.0" x2="1257.1" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1301.6" y1="420.0" x2="1301.6" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1344.5" y1="420.0" x2="1344.5" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1344.5" y="415.1">Jul</tspan></text>
-<line x1="1388.9" y1="420.0" x2="1388.9" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1433.3" y1="420.0" x2="1433.3" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1476.3" y1="420.0" x2="1476.3" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1476.3" y="415.1">Oct</tspan></text>
-<line x1="1520.7" y1="420.0" x2="1520.7" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1563.7" y1="420.0" x2="1563.7" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1608.1" y1="420.0" x2="1608.1" y2="936.0" stroke="#b5bac0" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1608.1" y="415.1">Jan 2025</tspan></text>
-<line x1="1652.5" y1="420.0" x2="1652.5" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1692.6" y1="420.0" x2="1692.6" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1737.0" y1="420.0" x2="1737.0" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1737.0" y="415.1">Apr</tspan></text>
-<line x1="1780.0" y1="420.0" x2="1780.0" y2="936.0" stroke="#e3e6e9" stroke-width="1"/>
-<rect x="20.0" y="420.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="428.0" width="6.0" height="70.0" fill="#2a78d6" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="466.9">European Commission</tspan></text>
-<rect x="20.0" y="506.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="514.0" width="6.0" height="70.0" fill="#7b8794" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="552.9">Consultative bodies</tspan></text>
-<rect x="20.0" y="592.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="600.0" width="6.0" height="70.0" fill="#1baf7a" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="638.9">European Parliament</tspan></text>
-<rect x="20.0" y="678.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="686.0" width="6.0" height="70.0" fill="#eda100" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="724.9">Trilogues (informal)</tspan></text>
-<rect x="20.0" y="764.0" width="1760.0" height="86.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="772.0" width="6.0" height="70.0" fill="#4a3aa7" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="810.9">Council</tspan></text>
-<rect x="20.0" y="850.0" width="1760.0" height="86.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="858.0" width="6.0" height="70.0" fill="#444444" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="896.9">Signature and publication</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf" target="_blank"><title>30 May 2022: Council text of the proposal (subject not given in the register) – ST 9461/22 REV 1</title><polygon points="251.5419708029197,801.0 257.5419708029197,807.0 251.5419708029197,813.0 245.5419708029197,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="247.5" y="771.0" width="463.9" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="251.5" y="780.1">30 May 2022 · Council text of the proposal (subject not given in the register) (ST 9461/22 REV 1)</tspan></text></a>
-<g><title>06 Jun 2022: Referral to committee announced in plenary</title><polygon points="261.56934306569343,629.0 267.56934306569343,635.0 261.56934306569343,641.0 255.56934306569343,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="257.6" y="599.0" width="271.2" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="261.6" y="608.1">06 Jun 2022 · Referral to committee announced in plenary</tspan></text>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531" target="_blank"><title>22 Sep 2022: EESC opinion – CELEX 52022AE2531</title><polygon points="416.2773722627737,543.0 422.2773722627737,549.0 416.2773722627737,555.0 410.2773722627737,549.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="412.3" y="513.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="416.3" y="522.1">22 Sep 2022 · EESC opinion (CELEX 52022AE2531)</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf" target="_blank"><title>02 Dec 2022: Progress report – ST 14768/22 COR 1</title><polygon points="517.9835766423357,801.0 523.9835766423357,807.0 517.9835766423357,813.0 511.9835766423357,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="514.0" y="783.0" width="238.3" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="518.0" y="792.1">02 Dec 2022 · Progress report (ST 14768/22 COR 1)</tspan></text></a>
-<g><title>31 Jan 2023: ENVI rapporteur appointed (Tomislav Sokol, PPE)</title><polygon points="603.9324817518248,629.0 609.9324817518248,635.0 603.9324817518248,641.0 597.9324817518248,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="599.9" y="599.0" width="294.7" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="603.9" y="608.1">31 Jan 2023 · ENVI rapporteur appointed (Tomislav Sokol, PPE)</tspan></text>
-<g><title>31 Jan 2023: LIBE rapporteur appointed (Annalisa Tardino, ID)</title><polygon points="603.9324817518248,629.0 609.9324817518248,635.0 603.9324817518248,641.0 597.9324817518248,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="599.9" y="611.0" width="299.4" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="603.9" y="620.1">31 Jan 2023 · LIBE rapporteur appointed (Annalisa Tardino, ID)</tspan></text>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754" target="_blank"><title>08 Feb 2023: Committee of the Regions opinion – CELEX 52022AR3754</title><polygon points="615.3923357664233,543.0 621.3923357664233,549.0 615.3923357664233,555.0 609.3923357664233,549.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="611.4" y="525.0" width="318.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="615.4" y="534.1">08 Feb 2023 · Committee of the Regions opinion (CELEX 52022AR3754)</tspan></text></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ43-PR-742387/CJ43-PR-742387_en.pdf" target="_blank"><title>10 Feb 2023: CJ43 draft report – PE742.387</title><polygon points="618.257299270073,629.0 624.257299270073,635.0 618.257299270073,641.0 612.257299270073,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="614.3" y="651.0" width="210.1" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ43-PR-742387/CJ43-PR-742387_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="618.3" y="660.1">10 Feb 2023 · CJ43 draft report (PE742.387)</tspan></text></a>
-<g><title>23 Feb 2023: Attendance of third party at the Working Party on Public Health on 6 … – ST 6620/23</title><polygon points="636.8795620437957,801.0 642.8795620437957,807.0 636.8795620437957,813.0 630.8795620437957,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="632.9" y="823.0" width="463.9" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="636.9" y="832.1">23 Feb 2023 · Attendance of third party at the Working Party on Public Health on 6 … (ST 6620/23)</tspan></text>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf" target="_blank"><title>23 May 2023: ITRE opinion adopted – PE742.310</title><polygon points="764.3704379562045,629.0 770.3704379562045,635.0 764.3704379562045,641.0 758.3704379562045,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="760.4" y="663.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="764.4" y="672.1">23 May 2023 · ITRE opinion adopted (PE742.310)</tspan></text></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf" target="_blank"><title>23 May 2023: IMCO opinion adopted – PE740.773</title><polygon points="764.3704379562045,629.0 770.3704379562045,635.0 764.3704379562045,641.0 758.3704379562045,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="760.4" y="587.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="764.4" y="596.1">23 May 2023 · IMCO opinion adopted (PE740.773)</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf" target="_blank"><title>26 May 2023: Progress report – ST 9368/23</title><polygon points="768.6678832116788,801.0 774.6678832116788,807.0 768.6678832116788,813.0 762.6678832116788,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="764.7" y="771.0" width="205.4" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="768.7" y="780.1">26 May 2023 · Progress report (ST 9368/23)</tspan></text></a>
-<g><title>28 Nov 2023: Committee adopts report and mandate</title><polygon points="1035.109489051095,629.0 1041.109489051095,635.0 1035.109489051095,641.0 1029.109489051095,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="1031.1" y="599.0" width="238.3" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1035.1" y="608.1">28 Nov 2023 · Committee adopts report and mandate</tspan></text>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0395/A-9-2023-0395_en.pdf" target="_blank"><title>05 Dec 2023: Report tabled for plenary – A9-0395/2023</title><polygon points="1045.1368613138686,629.0 1051.1368613138686,635.0 1045.1368613138686,641.0 1039.1368613138686,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1041.1" y="611.0" width="261.8" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0395/A-9-2023-0395_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1045.1" y="620.1">05 Dec 2023 · Report tabled for plenary (A9-0395/2023)</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf" target="_blank"><title>07 Dec 2023: Mandate for negotiations with the European Parliament – ST 16048/23 REV 1</title><polygon points="1048.0018248175181,801.0 1054.0018248175181,807.0 1048.0018248175181,813.0 1042.0018248175181,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1044.0" y="771.0" width="416.9" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1048.0" y="780.1">07 Dec 2023 · Mandate for negotiations with the European Parliament (ST 16048/23 REV 1)</tspan></text></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0462/TA-9-2023-0462-FNL_en.pdf" target="_blank"><title>13 Dec 2023: Plenary adopts amendments (mandate for trilogues) – P9_TA(2023)0462</title><polygon points="1056.596715328467,629.0 1062.596715328467,635.0 1056.596715328467,641.0 1050.596715328467,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1052.6" y="651.0" width="388.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0462/TA-9-2023-0462-FNL_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1056.6" y="660.1">13 Dec 2023 · Plenary adopts amendments (mandate for trilogues) (P9_TA(2023)0462)</tspan></text></a>
-<g><title>13 Dec 2023: Plenary refers back for trilogues</title><polygon points="1056.596715328467,629.0 1062.596715328467,635.0 1056.596715328467,641.0 1050.596715328467,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="1052.6" y="663.0" width="228.9" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1056.6" y="672.1">13 Dec 2023 · Plenary refers back for trilogues</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf" target="_blank"><title>12 Jan 2024: 4-column table – ST 5368/24</title><polygon points="1099.5711678832117,801.0 1105.5711678832117,807.0 1099.5711678832117,813.0 1093.5711678832117,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1095.6" y="783.0" width="200.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1099.6" y="792.1">12 Jan 2024 · 4-column table (ST 5368/24)</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf" target="_blank"><title>18 Mar 2024: Analysis of the final compromise text with a view to agreement – ST 7553/24</title><polygon points="1194.1149635036495,801.0 1200.1149635036495,807.0 1194.1149635036495,813.0 1188.1149635036495,807.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1190.1" y="823.0" width="426.3" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1194.1" y="832.1">18 Mar 2024 · Analysis of the final compromise text with a view to agreement (ST 7553/24)</tspan></text></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ43-AG-760905/CJ43-AG-760905_en.pdf" target="_blank"><title>09 Apr 2024: Committee approves provisional agreement – PE760.905</title><polygon points="1225.6295620437954,629.0 1231.6295620437954,635.0 1225.6295620437954,641.0 1219.6295620437954,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1221.6" y="587.0" width="318.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ43-AG-760905/CJ43-AG-760905_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1225.6" y="596.1">09 Apr 2024 · Committee approves provisional agreement (PE760.905)</tspan></text></a>
-<a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0331_en.pdf" target="_blank"><title>24 Apr 2024: EP position at first reading – P9_TA(2024)0331</title><polygon points="1247.1167883211679,629.0 1253.1167883211679,635.0 1247.1167883211679,641.0 1241.1167883211679,635.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1243.1" y="675.0" width="290.0" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0331_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1247.1" y="684.1">24 Apr 2024 · EP position at first reading (P9_TA(2024)0331)</tspan></text></a>
-<g><title>11 Feb 2025: Signature by the Presidents of EP and Council</title><polygon points="1666.8339416058395,887.0 1672.8339416058395,893.0 1666.8339416058395,899.0 1660.8339416058395,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
-<rect x="1494.7" y="857.0" width="285.3" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1498.7" y="866.1">11 Feb 2025 · Signature by the Presidents of EP and Council</tspan></text>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327" target="_blank"><title>05 Mar 2025: Published in the Official Journal – CELEX 32025R0327</title><polygon points="1698.3485401459855,887.0 1704.3485401459855,893.0 1698.3485401459855,899.0 1692.3485401459855,893.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<rect x="1461.8" y="869.0" width="318.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1465.8" y="878.1">05 Mar 2025 · Published in the Official Journal (CELEX 32025R0327)</tspan></text></a>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="967.9">Notes</tspan></text>
-<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="985.1">Sources: EP Open Data API (procedure events), Cellar procedure file and Council register documents (ST numbers), EUR-Lex. Our own compilation, not an official record.</tspan></text>
+<text font-size="9" fill="#8a6d00" text-anchor="start"><tspan x="254.0" y="113.5">Informal: trilogues of EP, Council and Commission at every stage (Joint Declaration 2007, points 7–9); a trilogue agreement confirmed by Coreper and</tspan><tspan x="254.0" y="124.8">offered by letter to the EP committee chair (point 14) leads to adoption at first reading, or, after the EP first reading, to an early second reading.</tspan></text>
+<text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="400.6">Procedure over time – 2022/0140(COD)</tspan></text>
+<polygon points="1018,389 1025,396 1018,403 1011,396" fill="#2f5a9e" stroke="#2f5a9e" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1034.0" y="398.6">step of Art. 294 TFEU</tspan></text>
+<polygon points="1180,391 1185,396 1180,401 1175,396" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1194.0" y="398.6">other event</tspan></text>
+<polygon points="1264,392.5 1267.5,396 1264,399.5 1260.5,396" fill="#555555" stroke="#555555" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1276.0" y="398.6">working party meeting</tspan></text>
+<rect x="1390.0" y="391.0" width="26.0" height="10.0" fill="#7b8794" stroke="none" opacity="0.3"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
+<line x1="210.0" y1="440.0" x2="210.0" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="254.4" y1="440.0" x2="254.4" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="297.4" y1="440.0" x2="297.4" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="297.4" y="435.1">Jul</tspan></text>
+<line x1="341.8" y1="440.0" x2="341.8" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="386.2" y1="440.0" x2="386.2" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="429.2" y1="440.0" x2="429.2" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="429.2" y="435.1">Oct</tspan></text>
+<line x1="473.6" y1="440.0" x2="473.6" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="516.6" y1="440.0" x2="516.6" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="561.0" y1="440.0" x2="561.0" y2="835.0" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="561.0" y="435.1">Jan 2023</tspan></text>
+<line x1="605.4" y1="440.0" x2="605.4" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="645.5" y1="440.0" x2="645.5" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="689.9" y1="440.0" x2="689.9" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="689.9" y="435.1">Apr</tspan></text>
+<line x1="732.9" y1="440.0" x2="732.9" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="777.3" y1="440.0" x2="777.3" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="820.2" y1="440.0" x2="820.2" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="820.2" y="435.1">Jul</tspan></text>
+<line x1="864.6" y1="440.0" x2="864.6" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="909.1" y1="440.0" x2="909.1" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="952.0" y1="440.0" x2="952.0" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="952.0" y="435.1">Oct</tspan></text>
+<line x1="996.4" y1="440.0" x2="996.4" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1039.4" y1="440.0" x2="1039.4" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1083.8" y1="440.0" x2="1083.8" y2="835.0" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1083.8" y="435.1">Jan 2024</tspan></text>
+<line x1="1128.2" y1="440.0" x2="1128.2" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1169.8" y1="440.0" x2="1169.8" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1214.2" y1="440.0" x2="1214.2" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1214.2" y="435.1">Apr</tspan></text>
+<line x1="1257.1" y1="440.0" x2="1257.1" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1301.6" y1="440.0" x2="1301.6" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1344.5" y1="440.0" x2="1344.5" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1344.5" y="435.1">Jul</tspan></text>
+<line x1="1388.9" y1="440.0" x2="1388.9" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1433.3" y1="440.0" x2="1433.3" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1476.3" y1="440.0" x2="1476.3" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1476.3" y="435.1">Oct</tspan></text>
+<line x1="1520.7" y1="440.0" x2="1520.7" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1563.7" y1="440.0" x2="1563.7" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1608.1" y1="440.0" x2="1608.1" y2="835.0" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1608.1" y="435.1">Jan 2025</tspan></text>
+<line x1="1652.5" y1="440.0" x2="1652.5" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1692.6" y1="440.0" x2="1692.6" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1737.0" y1="440.0" x2="1737.0" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1737.0" y="435.1">Apr</tspan></text>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="835.0" stroke="#e3e6e9" stroke-width="1"/>
+<rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
+<rect x="20.0" y="490.0" width="1760.0" height="63.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="494.0" width="6.0" height="55.0" fill="#7b8794" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="525.4">Consultative bodies</tspan></text>
+<rect x="20.0" y="553.0" width="1760.0" height="115.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="557.0" width="6.0" height="107.0" fill="#1baf7a" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="614.4">European Parliament</tspan></text>
+<rect x="20.0" y="668.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="672.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="685.9">Trilogues (informal)</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="685.1">no events</tspan></text>
+<rect x="20.0" y="696.0" width="1760.0" height="76.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="700.0" width="6.0" height="68.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="737.9">Council</tspan></text>
+<rect x="20.0" y="772.0" width="1760.0" height="63.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="776.0" width="6.0" height="55.0" fill="#444444" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="807.4">Signature and publication</tspan></text>
+<rect x="208.9" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0197" target="_blank"><text font-size="9" fill="#1f2d3d" text-anchor="start" font-weight="bold"><tspan x="212.9" y="462.1">03 May 2022 · Commission proposal (COM(2022) 197)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0197" target="_blank"><title>03 May 2022: Commission proposal – COM(2022) 197</title><polygon points="212.86496350364965,465 220.86496350364965,473 212.86496350364965,481 204.86496350364965,473" fill="#2a78d6" stroke="#1f2d3d" stroke-width="1.5"/></a>
+<rect x="412.3" y="503.0" width="224.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="416.3" y="512.1">22 Sep 2022 · EESC opinion (CELEX 52022AE2531)</tspan></text></a>
+<rect x="611.4" y="532.0" width="318.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="615.4" y="541.1">08 Feb 2023 · Committee of the Regions opinion (CELEX 52022AR3754)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE2531" target="_blank"><title>22 Sep 2022: EESC opinion – CELEX 52022AE2531</title><polygon points="416.2773722627737,517.5 421.7773722627737,523 416.2773722627737,528.5 410.7773722627737,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AR3754" target="_blank"><title>08 Feb 2023: Committee of the Regions opinion – CELEX 52022AR3754</title><polygon points="615.3923357664233,517.5 620.8923357664233,523 615.3923357664233,528.5 609.8923357664233,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
+<line x1="618.3" y1="592.0" x2="618.3" y2="606.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="764.4" y1="634.0" x2="764.4" y2="618.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="764.4" y1="579.0" x2="764.4" y2="606.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1045.1" y1="592.0" x2="1045.1" y2="606.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1056.6" y1="634.0" x2="1056.6" y2="618.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1056.6" y1="579.0" x2="1056.6" y2="606.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1225.6" y1="647.0" x2="1225.6" y2="618.0" stroke="#c3c8cd" stroke-width="1"/>
+<rect x="1243.1" y="592.0" width="308.0" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0331_en.pdf" target="_blank"><text font-size="9" fill="#1f2d3d" text-anchor="start" font-weight="bold"><tspan x="1247.1" y="601.1">24 Apr 2024 · EP position at first reading (P9_TA(2024)0331)</tspan></text></a>
+<rect x="257.6" y="592.0" width="271.2" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="261.6" y="601.1">06 Jun 2022 · Referral to committee announced in plenary</tspan></text>
+<rect x="599.9" y="592.0" width="294.7" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="603.9" y="601.1">31 Jan 2023 · ENVI rapporteur appointed (Tomislav Sokol, PPE)</tspan></text>
+<rect x="599.9" y="621.0" width="299.4" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="603.9" y="630.1">31 Jan 2023 · LIBE rapporteur appointed (Annalisa Tardino, ID)</tspan></text>
+<rect x="614.3" y="579.0" width="210.1" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ43-PR-742387/CJ43-PR-742387_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="618.3" y="588.1">10 Feb 2023 · CJ43 draft report (PE742.387)</tspan></text></a>
+<rect x="760.4" y="634.0" width="224.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="764.4" y="643.1">23 May 2023 · ITRE opinion adopted (PE742.310)</tspan></text></a>
+<rect x="760.4" y="566.0" width="224.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="764.4" y="575.1">23 May 2023 · IMCO opinion adopted (PE740.773)</tspan></text></a>
+<rect x="1031.1" y="621.0" width="238.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1035.1" y="630.1">28 Nov 2023 · Committee adopts report and mandate</tspan></text>
+<rect x="1041.1" y="579.0" width="261.8" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0395/A-9-2023-0395_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1045.1" y="588.1">05 Dec 2023 · Report tabled for plenary (A9-0395/2023)</tspan></text></a>
+<rect x="1052.6" y="634.0" width="388.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0462/TA-9-2023-0462-FNL_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1056.6" y="643.1">13 Dec 2023 · Plenary adopts amendments (mandate for trilogues) (P9_TA(2023)0462)</tspan></text></a>
+<rect x="1052.6" y="566.0" width="228.9" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1056.6" y="575.1">13 Dec 2023 · Plenary refers back for trilogues</tspan></text>
+<rect x="1221.6" y="647.0" width="318.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ43-AG-760905/CJ43-AG-760905_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1225.6" y="656.1">09 Apr 2024 · Committee approves provisional agreement (PE760.905)</tspan></text></a>
+<g><title>06 Jun 2022: Referral to committee announced in plenary</title><polygon points="261.56934306569343,606.5 267.06934306569343,612 261.56934306569343,617.5 256.06934306569343,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<g><title>31 Jan 2023: ENVI rapporteur appointed (Tomislav Sokol, PPE)</title><polygon points="603.9324817518248,606.5 609.4324817518248,612 603.9324817518248,617.5 598.4324817518248,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<g><title>31 Jan 2023: LIBE rapporteur appointed (Annalisa Tardino, ID)</title><polygon points="603.9324817518248,606.5 609.4324817518248,612 603.9324817518248,617.5 598.4324817518248,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ43-PR-742387/CJ43-PR-742387_en.pdf" target="_blank"><title>10 Feb 2023: CJ43 draft report – PE742.387</title><polygon points="618.257299270073,606.5 623.757299270073,612 618.257299270073,617.5 612.757299270073,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf" target="_blank"><title>23 May 2023: ITRE opinion adopted – PE742.310</title><polygon points="764.3704379562045,606.5 769.8704379562045,612 764.3704379562045,617.5 758.8704379562045,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf" target="_blank"><title>23 May 2023: IMCO opinion adopted – PE740.773</title><polygon points="764.3704379562045,606.5 769.8704379562045,612 764.3704379562045,617.5 758.8704379562045,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>28 Nov 2023: Committee adopts report and mandate</title><polygon points="1035.109489051095,606.5 1040.609489051095,612 1035.109489051095,617.5 1029.609489051095,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0395/A-9-2023-0395_en.pdf" target="_blank"><title>05 Dec 2023: Report tabled for plenary – A9-0395/2023</title><polygon points="1045.1368613138686,606.5 1050.6368613138686,612 1045.1368613138686,617.5 1039.6368613138686,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0462/TA-9-2023-0462-FNL_en.pdf" target="_blank"><title>13 Dec 2023: Plenary adopts amendments (mandate for trilogues) – P9_TA(2023)0462</title><polygon points="1056.596715328467,606.5 1062.096715328467,612 1056.596715328467,617.5 1051.096715328467,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>13 Dec 2023: Plenary refers back for trilogues</title><polygon points="1056.596715328467,606.5 1062.096715328467,612 1056.596715328467,617.5 1051.096715328467,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ43-AG-760905/CJ43-AG-760905_en.pdf" target="_blank"><title>09 Apr 2024: Committee approves provisional agreement – PE760.905</title><polygon points="1225.6295620437954,606.5 1231.1295620437954,612 1225.6295620437954,617.5 1220.1295620437954,612" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0331_en.pdf" target="_blank"><title>24 Apr 2024: EP position at first reading – P9_TA(2024)0331</title><polygon points="1247.1167883211679,604 1255.1167883211679,612 1247.1167883211679,620 1239.1167883211679,612" fill="#1baf7a" stroke="#1f2d3d" stroke-width="1.5"/></a>
+<line x1="636.9" y1="722.0" x2="636.9" y2="736.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1194.1" y1="722.0" x2="1194.1" y2="736.0" stroke="#c3c8cd" stroke-width="1"/>
+<rect x="247.5" y="722.0" width="463.9" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="251.5" y="731.1">30 May 2022 · Council text of the proposal (subject not given in the register) (ST 9461/22 REV 1)</tspan></text></a>
+<rect x="514.0" y="751.0" width="238.3" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="518.0" y="760.1">02 Dec 2022 · Progress report (ST 14768/22 COR 1)</tspan></text></a>
+<rect x="632.9" y="709.0" width="463.9" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="636.9" y="718.1">23 Feb 2023 · Attendance of third party at the Working Party on Public Health on 6 … (ST 6620/23)</tspan></text>
+<rect x="764.7" y="722.0" width="205.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="768.7" y="731.1">26 May 2023 · Progress report (ST 9368/23)</tspan></text></a>
+<rect x="1044.0" y="722.0" width="416.9" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1048.0" y="731.1">07 Dec 2023 · Mandate for negotiations with the European Parliament (ST 16048/23 REV 1)</tspan></text></a>
+<rect x="1095.6" y="751.0" width="200.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1099.6" y="760.1">12 Jan 2024 · 4-column table (ST 5368/24)</tspan></text></a>
+<rect x="1190.1" y="709.0" width="426.3" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1194.1" y="718.1">18 Mar 2024 · Analysis of the final compromise text with a view to agreement (ST 7553/24)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf" target="_blank"><title>30 May 2022: Council text of the proposal (subject not given in the register) – ST 9461/22 REV 1</title><polygon points="251.5419708029197,736.5 257.0419708029197,742 251.5419708029197,747.5 246.0419708029197,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14768-2022-COR-1/en/pdf" target="_blank"><title>02 Dec 2022: Progress report – ST 14768/22 COR 1</title><polygon points="517.9835766423357,736.5 523.4835766423357,742 517.9835766423357,747.5 512.4835766423357,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<g><title>23 Feb 2023: Attendance of third party at the Working Party on Public Health on 6 … – ST 6620/23</title><polygon points="636.8795620437957,736.5 642.3795620437957,742 636.8795620437957,747.5 631.3795620437957,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></g>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf" target="_blank"><title>26 May 2023: Progress report – ST 9368/23</title><polygon points="768.6678832116788,736.5 774.1678832116788,742 768.6678832116788,747.5 763.1678832116788,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf" target="_blank"><title>07 Dec 2023: Mandate for negotiations with the European Parliament – ST 16048/23 REV 1</title><polygon points="1048.0018248175181,736.5 1053.5018248175181,742 1048.0018248175181,747.5 1042.5018248175181,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf" target="_blank"><title>12 Jan 2024: 4-column table – ST 5368/24</title><polygon points="1099.5711678832117,736.5 1105.0711678832117,742 1099.5711678832117,747.5 1094.0711678832117,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf" target="_blank"><title>18 Mar 2024: Analysis of the final compromise text with a view to agreement – ST 7553/24</title><polygon points="1194.1149635036495,736.5 1199.6149635036495,742 1194.1149635036495,747.5 1188.6149635036495,742" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<rect x="1494.7" y="785.0" width="285.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#222222" text-anchor="start"><tspan x="1498.7" y="794.1">11 Feb 2025 · Signature by the Presidents of EP and Council</tspan></text>
+<rect x="1461.8" y="814.0" width="318.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1465.8" y="823.1">05 Mar 2025 · Published in the Official Journal (CELEX 32025R0327)</tspan></text></a>
+<g><title>11 Feb 2025: Signature by the Presidents of EP and Council</title><polygon points="1666.8339416058395,799.5 1672.3339416058395,805 1666.8339416058395,810.5 1661.3339416058395,805" fill="#ffffff" stroke="#444444" stroke-width="1.5"/></g>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327" target="_blank"><title>05 Mar 2025: Published in the Official Journal – CELEX 32025R0327</title><polygon points="1698.3485401459855,799.5 1703.8485401459855,805 1698.3485401459855,810.5 1692.8485401459855,805" fill="#ffffff" stroke="#444444" stroke-width="1.5"/></a>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="866.9">Notes</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="884.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
+</g>
 </svg>

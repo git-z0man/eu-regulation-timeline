@@ -12,6 +12,7 @@ Drawing: [espr.svg](espr.svg), [espr.pdf](espr.pdf) · Web page: [espr.html](esp
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2022-03-30 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2022) 142](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0142) | Cellar procedure file 2022/95 (CELEX 52022PC0142) |
 | 2022-05-02 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0095%28COD%29) | EP Open Data API, procedure 2022-0095 (REFERRAL) |
 | 2022-05-16 | European Parliament | ENVI rapporteur appointed (Alessandra Moretti, S-D) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0095%28COD%29) | EP Open Data API, procedure 2022-0095 (participation RAPPORTEUR) |
 | 2022-07-14 | Consultative bodies | EESC opinion | [CELEX 52022AE0598](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE0598) | Cellar procedure file 2022/95 |

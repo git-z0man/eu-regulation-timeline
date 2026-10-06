@@ -12,9 +12,10 @@ Drawing: [standardisation-amendment-2022.svg](standardisation-amendment-2022.svg
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2022-02-02 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2022) 32](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0032) | Cellar procedure file 2022/21 (CELEX 52022PC0032) |
 | 2022-02-14 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0021%28COD%29) | EP Open Data API, procedure 2022-0021 (REFERRAL) |
 | 2022-09-14 | European Parliament | Plenary confirms mandate for trilogues | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0021%28COD%29) | EP Open Data API, procedure 2022-0021 (PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS) |
-| 2022-11-22 | European Parliament | Plenary adopt position | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0021%28COD%29) | EP Open Data API, procedure 2022-0021 (PLENARY_ADOPT_POSITION) |
+| 2022-11-22 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0021%28COD%29) | EP Open Data API, procedure 2022-0021 (PLENARY_ADOPT_POSITION) |
 | 2022-12-14 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0021%28COD%29) | EP Open Data API, procedure 2022-0021 (SIGNATURE) |
 | 2022-12-19 | Signature and publication | Published in the Official Journal | [CELEX 32022R2480](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2480) · [en.md](../texts/standardisation-amendment-2022/2022-12-19_oj.en.md) [de.md](../texts/standardisation-amendment-2022/2022-12-19_oj.de.md) | EP Open Data API, procedure 2022-0021 (PUBLICATION_OFFICIAL_JOURNAL) |
 

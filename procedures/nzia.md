@@ -12,6 +12,7 @@ Drawing: [nzia.svg](nzia.svg), [nzia.pdf](nzia.pdf) · Web page: [nzia.html](nzi
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2023-03-16 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2023) 161](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0161) | Cellar procedure file 2023/81 (CELEX 52023PC0161) |
 | 2023-03-30 | European Parliament | ITRE rapporteur appointed (Christian Ehler, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0081%28COD%29) | EP Open Data API, procedure 2023-0081 (participation RAPPORTEUR) |
 | 2023-05-08 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0081%28COD%29) | EP Open Data API, procedure 2023-0081 (REFERRAL) |
 | 2023-05-26 | European Parliament | ITRE draft report | [PE749.154](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-749154/ITRE-PR-749154_en.pdf) | EP Open Data API, procedure 2023-0081 (COMMITTEE_TABLING_REPORT) |

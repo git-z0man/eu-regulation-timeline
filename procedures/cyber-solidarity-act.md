@@ -12,6 +12,7 @@ Drawing: [cyber-solidarity-act.svg](cyber-solidarity-act.svg), [cyber-solidarity
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
+| 2023-04-18 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2023) 209](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0209) | Cellar procedure file 2023/109 (CELEX 52023PC0209) |
 | 2023-05-02 | European Parliament | ITRE rapporteur appointed (Lina Gálvez, S-D) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0109%28COD%29) | EP Open Data API, procedure 2023-0109 (participation RAPPORTEUR) |
 | 2023-06-01 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0109%28COD%29) | EP Open Data API, procedure 2023-0109 (REFERRAL) |
 | 2023-07-13 | Consultative bodies | EESC opinion | [CELEX 52023AE2408](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023AE2408) | Cellar procedure file 2023/109 |
