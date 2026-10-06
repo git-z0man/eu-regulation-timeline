@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "date": "2026-10-06",
+   "title": "MR",
+   "actor": "Commission Expert Group on Machinery",
+   "label": "Agenda published: COM Expert Group on Machinery (2026-04-27)",
+   "doc": "agenda",
+   "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 636",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "IAA – COM(2026) 100 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "page": "industrial-accelerator-act.html"
+  },
+  {
    "date": "2026-10-02",
    "title": "PPA – COM(2026) 590 (proposal)",
    "actor": "Council",
@@ -39,30 +63,6 @@
    "label": "Released: Council note of 2026-06-01 (Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification …), listed as not public since 2026-09-30",
    "doc": "WK 7789/26",
    "page": "nis2-amendment.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-05-29 (Consolidated informal amendments), listed as not public since 2026-09-30",
-   "doc": "WK 7723/26",
-   "page": "nis2-amendment.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-03-24 (Optional consultation of the Committee of the Regions), listed as not public since 2026-09-30",
-   "doc": "ST 7558/26",
-   "page": "nis2-amendment.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
-   "actor": "Council",
-   "label": "Mandate for negotiations with the European Parliament (not public, leak available)",
-   "doc": "ST 13886/26",
-   "page": "digital-omnibus.html"
   }
  ]
 }

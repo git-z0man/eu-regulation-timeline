@@ -1,6 +1,6 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 05 Oct 2026.
+Procedure 2025/0360(COD), as of 06 Oct 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
@@ -133,7 +133,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-01 | [WK 15043/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94826) | council-note | Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, … | not public\* | – | – |
 | 2026-10-02 | [ST 13886/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95158) | council-position | Mandate for negotiations with the European Parliament<br>*Our summary (Not public: not released by the institution and unofficially leaked; we neither publish nor quote it. Our summary describes it in general terms only.):* Note of the Council's General Secretariat to Coreper of 2 October 2026 with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus: the full compromise text on the data rules (Data Act and the consolidated data acquis), the GDPR, the cookie rules of the ePrivacy Directive and a single entry point for reporting cyber and data incidents. A draft put to Coreper, not a position of the Council until Coreper agrees it, and not law. The note says that an agreed mandate will be made public unless Coreper objects, so an official release of the agreed text is likely. | not public, leak available\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 
 ## Texts as Markdown
 

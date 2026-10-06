@@ -17,7 +17,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [GPSR](gpsr.md) | [CSN](committee-e00935.md) | Expert group | 4 | 2024-11-27 | – |
 | [IMERA](imera.md) | [Internal Market Emergency and Resilience Committee](committee-c131800.md) | Comitology committee | 0 | – | – |
 | [MR](machinery-regulation.md) | [Machinery Committee](committee-c128700.md) | Comitology committee | 1 | 2024-06-27 | – |
-| [MR](machinery-regulation.md) | [Commission Expert Group on Machinery](committee-e03676.md) | Expert group | 5 | 2025-11-07 | 2026-10-22 |
+| [MR](machinery-regulation.md) | [Commission Expert Group on Machinery](committee-e03676.md) | Expert group | 7 | 2026-04-27 | 2026-10-22 |
 | [MSR](market-surveillance.md) | [Committee on market surveillance and compliance of products](committee-c52400.md) | Comitology committee | 1 | 2024-06-27 | – |
 | [MSR](market-surveillance.md) | [IMP-EG](committee-e02798.md) | Expert group | 0 | – | – |
 | [NIS-2](nis2.md) | [Cybersecurity Committee](committee-c127400.md) | Comitology committee | 3 | 2024-10-02 | – |

@@ -15,6 +15,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 08 Oct 2026 | [CRA](cra.md) | CRA Expert Group: 6th meeting of the CRA Expert Group | Register of Commission expert groups |
 | 20 Oct 2026 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025 | CEN-CENELEC work programme |
 | 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: COM Expert Group on Machinery | Register of Commission expert groups |
+| 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: Commission Expert Group on MACHINERY | Register of Commission expert groups |
 | 30 Oct 2026 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 16–41) | Standardisation request, Annex (deadlines) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)](product-digitalisation-directive.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0133(COD) (forecasts) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)](product-digitalisation-regulation.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0134(COD) (forecasts) |
@@ -22,9 +23,9 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 30 Nov 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-1 | CEN-CENELEC work programme |
 | 14 Dec 2026 | [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2026/0068(COD) (forecasts) |
 | 14 Dec 2026 | [MDR/IVDR simplification – COM(2025) 1023 (proposal)](medical-devices-simplification.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0404(COD) (forecasts) |
+| 21 Dec 2026 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN XXX (Cybersecurity requirements for products with digital element) | CEN-CENELEC work programme |
 | Q1 2027 | [NZIA](nzia.md) | Implementing act planned: Implementing Regulation on a standardised reporting template for Member States’ monitoring of the NZIA | Commission Register of delegated acts (RegDel) |
 | 04 Jan 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13849-2 | CEN-CENELEC work programme |
-| 19 Jan 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN XXX (Cybersecurity requirements for products with digital element) | CEN-CENELEC work programme |
 | 31 Jan 2027 | [CRA](cra.md) | M/606: deadline proposed by a draft amendment (not adopted) for the requested standards (items 16–41) | Draft amending decision (Comitology Register) |
 | 08 Feb 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: EN IEC 62443-3-3:2019/prAA, EN IEC 62443-4-2:2019/prAA:2026 | CEN-CENELEC work programme |
 | 23 Feb 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: EN IEC 62443-4-1:2018/prAA:2026 | CEN-CENELEC work programme |
@@ -38,20 +39,20 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 21 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-4, prEN 18229-5 | CEN-CENELEC work programme |
 | 26 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN ISO/IEC 23282 | CEN-CENELEC work programme |
 | 03 Aug 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN 50770-1, prEN 50770-2, prEN 50770-3, prEN 50770-4, prEN 50770-5, prEN 50770-6 | CEN-CENELEC work programme |
-| 11 Oct 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 60204-1 | CEN-CENELEC work programme |
+| 23 Aug 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 60204-1 | CEN-CENELEC work programme |
 | 30 Oct 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 10–14, 2–9) | Standardisation request, Annex (deadlines) |
 | 21 Mar 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: EN IEC 60204-32:2025/prAA | CEN-CENELEC work programme |
-| 23 Oct 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13857 rev | CEN-CENELEC work programme |
+| 09 Oct 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13857 rev | CEN-CENELEC work programme |
 | 20 Jan 2034 | [MR](machinery-regulation.md) | M/605: phase 2 deadline for the requested standards (80 items) | Standardisation request, Annex (deadlines) |
 
 ## Ongoing procedures
 
 | Act | Stage | Latest activity | Next steps |
 | --- | --- | --- | --- |
-| [Cybersecurity Act 2 – COM(2026) 11 (proposal)](csa2.md) (2026/0011(COD)) | EP committee stage: EP draft report 18 Sep 2026; Council working party, latest document 02 Oct 2026 | 02 Oct 2026 · Council: Proposal for a Regulation of the European Parliament and of the Council on the European … (WK 15236/26) | EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
+| [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) (2026/0068(COD)) | EP committee stage: EP draft report 11 Sep 2026; Council working party, latest document 30 Sep 2026 | 05 Oct 2026 · European Parliament: Committee opinion adopted | 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
+| [Cybersecurity Act 2 – COM(2026) 11 (proposal)](csa2.md) (2026/0011(COD)) | EP committee stage: EP draft report 18 Sep 2026; Council working party, latest document 02 Oct 2026 | 02 Oct 2026 · Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (WK 15236/26) | EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
 | [Digital Omnibus – COM(2025) 837 (proposal)](digital-omnibus.md) (2025/0360(COD)) | EP committee stage: EP draft report 22 Jun 2026; Council draft mandate before Coreper (ST 13886/26 of 02 Oct 2026) | 02 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26) | EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 13886/26) |
 | [PPA – COM(2026) 590 (proposal)](public-procurement-act.md) (2026/0265(COD)) | Commission proposal: EP not yet referred to committee; Council working party, latest document 02 Oct 2026 | 02 Oct 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … (CM 4305/26) | Referral to an EP committee; Council working party |
-| [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) (2026/0068(COD)) | EP committee stage: EP draft report 11 Sep 2026; Council working party, latest document 30 Sep 2026 | 30 Sep 2026 · Council: Regulation on accelerating industrial capacity and decarbonisation (Industrial … (ST 13708/26) | 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
 | [CADA – COM(2026) 502 (proposal)](cloud-ai-development-act.md) (2026/0138(COD)) | EP committee stage: EP in committee since 17 Sep 2026; Council working party, latest document 29 Sep 2026 | 29 Sep 2026 · Council: Cloud and AI Development Act: Presentation (WK 15040/26) | EP: rapporteur's draft report; Council: working party towards a negotiating mandate |
 | [Chips Act 2.0 – COM(2026) 504 (proposal)](chips-act-2.md) (2026/0139(COD)) | EP committee stage: EP in committee since 14 Sep 2026; Council working party, latest document 29 Sep 2026 | 29 Sep 2026 · Council: Presidency compromise text (ST 13545/26) | EP: rapporteur's draft report; Council: working party towards a negotiating mandate |
 | [MDR/IVDR simplification – COM(2025) 1023 (proposal)](medical-devices-simplification.md) (2025/0404(COD)) | EP committee stage: EP draft report 30 Jun 2026; Council working party, latest document 17 Sep 2026 | 25 Sep 2026 · Council: Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise … (CM 4059/26) | 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |

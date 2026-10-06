@@ -1,6 +1,6 @@
 # Legislative procedure – IAA – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 05 Oct 2026.
+Procedure 2026/0068(COD), as of 06 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
 - **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 30 Sep 2026 · Council: Regulation on accelerating industrial capacity and decarbonisation (Industrial … (ST 13708/26)
+- **Latest activity:** 05 Oct 2026 · European Parliament: Committee opinion adopted
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -24,6 +24,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | 2026-06-23 | Council | Partial Presidency compromise text | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-06-26 | Council | Partial Presidency compromise text | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-09-11 | European Parliament | CJ80 draft report | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | EP Open Data API, procedure 2026-0068 (COMMITTEE_TABLING_REPORT) |
+| 2026-10-05 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (COMMITTEE_ADOPTING_OPINION) |
 
 ## Documents
 
@@ -104,7 +105,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public\* | – | – |
 | 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 
 ## Texts as Markdown
 

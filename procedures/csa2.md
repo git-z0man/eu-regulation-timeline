@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 05 Oct 2026.
+Procedure 2026/0011(COD), as of 06 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
 - **Council:** working party, latest document 02 Oct 2026
-- **Latest activity:** 02 Oct 2026 · Council: Proposal for a Regulation of the European Parliament and of the Council on the European … (WK 15236/26)
+- **Latest activity:** 02 Oct 2026 · Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (WK 15236/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -118,10 +118,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-25 | [WK 14801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93813) | council-note | Consolidated comments from Austria and other Member States on Presidency second compromise text on Title III (Certification), Article 71-97 | not public\* | – | – |
 | 2026-09-29 | [WK 14896/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94268) | council-note | Comments from Austria and other Member States on Recitals 1-172 and Articles 1-70 of the second Presidency compromise text | not public\* | – | – |
 | 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Title IV (ICT Supply Chain) - Presentation by the Presidency | not public\* | – | – |
-| 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-note | Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
-| 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Proposal for a Regulation of European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
+| 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
+| 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 
 ## Texts as Markdown
 

@@ -7,17 +7,17 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 ## At a glance
 
 - Next meeting: 2026-10-22 – COM Expert Group on Machinery
-- Last meeting: 2025-11-07 – 9th meeting of the COM Expert Group on Machinery ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122343/download))
-- Meetings since 2024: 5
+- Last meeting: 2026-04-27 – COM Expert Group on Machinery ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download))
+- Meetings since 2024: 7
 - Latest minutes: [8th meeting of the COM Expert Group on Machinery (2025-04-11)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124460/download)
-- Members: 66 members: 27 Member State authorities (type D); 34 organisations (type C); 5 other public entities (type E); 1 observers.
+- Members: 67 members: 27 Member State authorities (type D); 35 organisations (type C); 5 other public entities (type E); 1 observers.
 - Contact: [GROW-H2@ec.europa.eu](mailto:GROW-H2@ec.europa.eu)
 
 ## About
 
 - Type: Informal, Permanent, Broad
 - Policy areas: Enterprise
-- Registered: 2019-09-26; last updated: 2026-03-26
+- Registered: 2019-09-26; last updated: 2026-10-05
 
 Tasks:
 
@@ -41,7 +41,9 @@ Tasks:
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-22 | COM Expert Group on Machinery | VIDEOCONFERENCE | – | – | – |
+| 2026-10-22 | Commission Expert Group on MACHINERY | VIRTUAL | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138761/download) | – | – |
+| 2026-10-22 | COM Expert Group on Machinery | VIDEOCONFERENCE | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138771/download) | – | – |
+| 2026-04-27 | COM Expert Group on Machinery | BE CCAB | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download) | – | – |
 | 2025-11-07 | 9th meeting of the COM Expert Group on Machinery | VIRTUAL | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122343/download) | – | – |
 | 2025-04-11 | 8th meeting of the COM Expert Group on Machinery | BE BRUSSELS CCAB | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/114532/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124460/download) | [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124461/download) |
 | 2024-10-17 | 7th meeting of the COM Expert Group on Machinery | Virtual | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/108956/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/118836/download) | [list of participants](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/118837/download) |
@@ -49,7 +51,7 @@ Tasks:
 
 ## Members
 
-66 members: 27 Member State authorities (type D); 34 organisations (type C); 5 other public entities (type E); 1 observers.
+67 members: 27 Member State authorities (type D); 35 organisations (type C); 5 other public entities (type E); 1 observers.
 
 ### Member State authorities
 
@@ -89,6 +91,7 @@ Tasks:
 | --- | --- | --- | --- |
 | [All Terrain Vehicle Industry European Association (ATVEA)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=37135513916-07) | Trade and business associations | European | Member |
 | [APPLiA (Home Appliance Europe) (APPLiA)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=04201463642-88) | Trade and business associations | European | Member |
+| [Association des Constructeurs Européens de Motocycles (ACEM)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=02480451230-88) | Trade and business associations | European | Member |
 | [CECE - Committee for European Construction Equipment (CECE)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=60534525900-25) | Trade and business associations | European, International | Member |
 | [CEMA - European Agricultural Machinery Industry Association (CEMA)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=489575310490-58) | Trade and business associations | European | Member |
 | [Comité Européen de Constructeurs d'Instruments de Pesage (CECIP)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=48444564134-24) | Trade and business associations | European, International | Member |

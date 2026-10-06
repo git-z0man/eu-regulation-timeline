@@ -1,6 +1,6 @@
 # Legislative procedure – PPA – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 05 Oct 2026.
+Procedure 2026/0265(COD), as of 06 Oct 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
@@ -39,7 +39,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15255/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95107) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026 - Presentation by the Presidency | not public\* | – | – |
 | 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 
 ## Texts as Markdown
 

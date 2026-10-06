@@ -1,6 +1,6 @@
 # Legislative procedure – NIS-2 amendment – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 05 Oct 2026.
+Procedure 2026/0012(COD), as of 06 Oct 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -56,7 +56,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-02 | [WK 9750/26](https://data.consilium.europa.eu/doc/document/WK-9750-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States | public | 2026-10-02 | – |
 | 2026-09-24 | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures … | public | – | [en](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 
 ## Texts as Markdown
 

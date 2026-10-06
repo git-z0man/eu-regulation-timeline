@@ -32,6 +32,18 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
+     "date": "2026-10-05",
+     "act": "IAA",
+     "text": "European Parliament: Committee opinion adopted",
+     "url": "procedures/industrial-accelerator-act.html"
+    },
+    {
+     "date": "2026-10-02",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public)",
+     "url": "procedures/csa2.html"
+    },
+    {
      "date": "2026-10-02",
      "act": "Cybersecurity Act 2",
      "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
@@ -42,18 +54,6 @@
      "act": "NIS-2 amendment",
      "text": "Council released 6 documents listed as not public, incl. Council progress report of 2026-05-13",
      "url": "procedures/nis2-amendment.html"
-    },
-    {
-     "date": "2026-09-29",
-     "act": "Chips Act 2.0",
-     "text": "Council: Presidency compromise text (not public)",
-     "url": "procedures/chips-act-2.html"
-    },
-    {
-     "date": "2026-10-02",
-     "act": "CRA",
-     "text": "8 standardisation projects moved on, e.g. EN 304 627: Approval Stage – Comments categorisation assessed",
-     "url": "acts/cra.html#standardisation"
     }
    ]
   },
@@ -84,6 +84,12 @@
     {
      "date": "2026-10-02",
      "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public)",
+     "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-10-02",
+     "act": "Cybersecurity Act 2",
      "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
      "url": "procedures/csa2.html"
     },
@@ -94,16 +100,10 @@
      "url": "procedures/nis2-amendment.html"
     },
     {
-     "date": "2026-10-02",
+     "date": "2026-10-06",
      "act": "CRA",
-     "text": "8 standardisation projects moved on, e.g. EN 304 627: Approval Stage – Comments categorisation assessed",
+     "text": "9 standardisation projects moved on, e.g. EN 304 636: Approval Stage – Closing of approval procedure",
      "url": "acts/cra.html#standardisation"
-    },
-    {
-     "date": "2026-10-01",
-     "act": "MR",
-     "text": "Standardisation: prEN ISO 14159: Under Approval",
-     "url": "acts/machinery-regulation.html#standardisation"
     }
    ]
   }

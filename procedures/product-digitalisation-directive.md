@@ -1,6 +1,6 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)
 
-Procedure 2025/0133(COD), as of 05 Oct 2026.
+Procedure 2025/0133(COD), as of 06 Oct 2026.
 Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive.svg), [product-digitalisation-directive.pdf](product-digitalisation-directive.pdf) · Web page: [product-digitalisation-directive.html](product-digitalisation-directive.html)
 
 ## Status and next steps
@@ -98,7 +98,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-06-26 | [PE790.896](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790896/IMCO-AG-790896_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a directive of the European Parliament and of the Council amending Directives … | public | – | [en](../texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) |
 | 2026-06-26 | [ST 10980/26](https://data.consilium.europa.eu/doc/document/ST-10980-2026-INIT/en/pdf) | council-note | Offer letter to the European Parliament | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
 
 ## Texts as Markdown
 
