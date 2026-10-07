@@ -1,4 +1,4 @@
-<!-- as_of: 2026-10-06 -->
+<!-- as_of: 2026-10-07 -->
 # EU regulation timeline
 
 When do EU rules on cybersecurity, AI and products start to apply, and what do they
@@ -7,7 +7,7 @@ criticality rating per company profile.
 
 **Interactive page:** <https://git-z0man.github.io/eu-regulation-timeline/>
 
-As of **06 October 2026**. Dates are taken from the legal texts (links open EUR-Lex).
+As of **07 October 2026**. Dates are taken from the legal texts (links open EUR-Lex).
 Criticality is computed from the dates and is an orientation for planning, not legal
 advice. This repository is generated automatically; please do not open pull requests
 against the files.
@@ -52,6 +52,6 @@ Editable in draw.io: [`machinery-builder.drawio`](machinery-builder.drawio) · I
 | 🔵 | [EPA (NLF revision)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242) | monitor | proposal or legislative procedure | 31 Dec 2026 Proposal expected by end 2026 (postponed) | New horizontal product framework replacing the NLF acts; CE marking, conformity assessment, digital product information. |
 | 🔵 | [Industrial Accelerator Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) | monitor | proposal or legislative procedure | – | "Made in Europe" criteria for public support; amends the NZIA: no high-risk suppliers (CSA2) in control and SCADA systems of energy auctions. |
 | 🔵 | [Public Procurement Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | monitor | proposal or legislative procedure | – | Public buyers of machinery; EU preference and cyber criteria in tenders; excludes high-risk suppliers (CSA2); amends the CRA. |
-| 🔵 | Standardisation Regulation (revision) | monitor | proposal or legislative procedure | 06 Oct 2026 COM(2026) 780 | Proposed 6 Oct 2026 (COM(2026) 780), replaces Reg. 1025/2012 six months after entry into force (Art. 43; entry into force expected in 2028), without transitional rules. Free online access to referenced standards (Art. 5); interim deliverables, designated standards development organisations and common specifications when the ESOs are late (Arts. 2(7), 29, 32). M/606 (CRA) expires before, M/605 phase 2 (machinery, due 2034) runs across the switch; Art. 20 MR and Art. 27 CRA still name only harmonised standards. |
+| 🔵 | Standardisation Regulation (revision) | monitor | proposal or legislative procedure | – | Proposed 6 Oct 2026 (COM(2026) 780), replaces Reg. 1025/2012 six months after entry into force (Art. 43; entry into force expected in 2028), without transitional rules. Free online access to referenced standards (Art. 5); interim deliverables, designated standards development organisations and common specifications when the ESOs are late (Arts. 2(7), 29, 32). M/606 (CRA) expires before, M/605 phase 2 (machinery, due 2034) runs across the switch; Art. 20 MR and Art. 27 CRA still name only harmonised standards. |
 | ⚪ | [IMERA – Reg. 2024/2747](http://data.europa.eu/eli/reg/2024/2747/oj) | low | low relevance for this profile | – | Only in an internal market emergency; priority orders, fast-track conformity assessment. |
 | ⚪ | [Net Zero Industry Act](http://data.europa.eu/eli/reg/2024/1735/oj) | low | low relevance for this profile | – | Rules for public buyers and renewable energy auctions (resilience, cyber security pre-qualification); relevant when supplying control systems to net-zero projects. |

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Regulation Desk – Dokumente</title>
+<id>https://git-z0man.github.io/eu-regulation-timeline/news/documents.de.xml</id>
+<link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/documents.de.xml"/>
+<link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
+<updated>2026-10-07T00:00:00Z</updated>
+<author><name>EU regulation timeline</name></author>
+<entry><title>Rat gibt 13 Dokumente zu CSA2 frei</title><id>tag:git-z0man.github.io,2026:news/csa2/released/2026-10-02</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Documents"/><updated>2026-10-02T00:00:00Z</updated><summary>1 Kompromisstext, 1 Fortschrittsbericht, 11 Vermerke. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar. Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist.</summary></entry>
+<entry><title>Rat gibt 6 Dokumente zu NIS-2-Änderung frei</title><id>tag:git-z0man.github.io,2026:news/nis2-amendment/released/2026-10-02</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Documents"/><updated>2026-10-02T00:00:00Z</updated><summary>1 Fortschrittsbericht, 5 Vermerke. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.</summary></entry>
+</feed>

@@ -99,7 +99,7 @@
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1428.0" y="352.2">Analysis and public site</tspan></text>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="380.7">index.py · concepts.py · docdiff.py</tspan></text>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="410.7">timeline.py · procedure.py · sources.py</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="440.7">actpage.py · texts.py · gallery.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="440.7">actpage.py · texts.py · news.py · gallery.py</tspan></text>
 <text font-size="9.5" fill="#555555" text-anchor="start"><tspan x="1428.0" y="474.3">this site</tspan></text>
 <rect x="20.0" y="769.0" width="26.0" height="12.0" fill="#e8f0fb" stroke="#2f5a9e"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="54.0" y="778.5">EU institutions</tspan></text>

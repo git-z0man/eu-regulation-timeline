@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Regulation Desk – On this site</title>
+<id>https://git-z0man.github.io/eu-regulation-timeline/news/on-this-site.en.xml</id>
+<link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/on-this-site.en.xml"/>
+<link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
+<updated>2026-10-07T00:00:00Z</updated>
+<author><name>EU regulation timeline</name></author>
+<entry><title>New: the Regulation Desk, the most important changes of the last 14 days</title><id>tag:git-z0man.github.io,2026:news/site/2026-10-07/regulation-desk</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="On this site"/><updated>2026-10-07T00:00:00Z</updated><summary>Stories from the registers and our analysis, in English and German, with Atom feeds per desk and topic.</summary></entry>
+<entry><title>New: a page for the Standardisation Regulation and a topic page on harmonised standards</title><id>tag:git-z0man.github.io,2026:news/site/2026-10-06/standardisation-pages</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="On this site"/><updated>2026-10-06T00:00:00Z</updated><summary>Dates, texts and what the proposal changes for the CRA, the Machinery Regulation and the AI Act.</summary></entry>
+</feed>

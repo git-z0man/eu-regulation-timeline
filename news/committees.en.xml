@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Regulation Desk – Committees</title>
+<id>https://git-z0man.github.io/eu-regulation-timeline/news/committees.en.xml</id>
+<link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/committees.en.xml"/>
+<link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
+<updated>2026-10-07T00:00:00Z</updated>
+<author><name>EU regulation timeline</name></author>
+<entry><title>Agenda published: COM Expert Group on Machinery (2026-04-27)</title><id>tag:git-z0man.github.io,2026:news/machinery-regulation/committee/2026-10-06</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Committees"/><updated>2026-10-06T00:00:00Z</updated><summary>Commission Expert Group on Machinery.</summary></entry>
+<entry><title>CSA2: Council working party meeting</title><id>tag:git-z0man.github.io,2026:news/csa2/meeting/2026-09-28</id><link href="https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf"/><category term="Committees"/><updated>2026-09-28T00:00:00Z</updated><summary>Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1)</summary></entry>
+<entry><title>PPA: Council working party meeting</title><id>tag:git-z0man.github.io,2026:news/public-procurement-act/meeting/2026-10-02</id><link href="https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf"/><category term="Committees"/><updated>2026-10-02T00:00:00Z</updated><summary>Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and …</summary></entry>
+<entry><title>Summary record published: AI Committee meeting (2026-05-21)</title><id>tag:git-z0man.github.io,2026:news/ai-act/committee/2026-09-29</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Committees"/><updated>2026-09-29T00:00:00Z</updated><summary>Artificial Intelligence Committee.</summary></entry>
+<entry><title>MDR/IVDR simplification: Council working party meeting</title><id>tag:git-z0man.github.io,2026:news/medical-devices-simplification/meeting/2026-09-25</id><link href="https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf"/><category term="Committees"/><updated>2026-09-25T00:00:00Z</updated><summary>Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise …</summary></entry>
+<entry><title>Voting sheet published: Written procedure - Draft amendment on a standardisation request as regards toys in support of Directive 2009/48/EC (2026-08-18)</title><id>tag:git-z0man.github.io,2026:news/standardisation-regulation/committee/2026-09-23</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Committees"/><updated>2026-09-23T00:00:00Z</updated><summary>Committee on Standards.</summary></entry>
+</feed>
