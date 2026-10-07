@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "date": "2026-10-07",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 636",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
+   "key": "eso-DEN/CYBER-EUS-0020-2026-10-07",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-06",
    "act": "machinery-regulation",
    "title": "MR",
@@ -11,18 +23,6 @@
    "key": "E03676-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download",
    "page": "machinery-regulation",
    "type": "Committees"
-  },
-  {
-   "date": "2026-10-06",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 636",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
-   "key": "eso-DEN/CYBER-EUS-0020-2026-10-06",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-05",

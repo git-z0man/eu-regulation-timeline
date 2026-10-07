@@ -463,6 +463,81 @@
    }
   },
   {
+   "id": "cra/standards/M606/2026-W41",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-07",
+   "act": "cra",
+   "kicker": "CRA",
+   "kicker_de": "CRA",
+   "headline": "CRA · M/606: new status for EN 304 636",
+   "deck": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems. Step 4 of 8: Drafting EN.",
+   "headline_de": "CRA · M/606: neuer Status für EN 304 636",
+   "deck_de": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems. Schritt 4 von 8: Entwurf EN.",
+   "facts": [
+    "M/606",
+    "Request expires 30 Nov 2027"
+   ],
+   "facts_de": [
+    "M/606",
+    "Auftrag läuft aus 30. Nov. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 304 636: Approval Stage – Comments categorisation assessed",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859"
+    }
+   ],
+   "brief": null,
+   "score": 41,
+   "tree": {
+    "vertical": {
+     "ETSI": {
+      "CYBER EUSR": [
+       {
+        "project": "EN 304 636",
+        "title": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems",
+        "now": "Approval Stage – Comments categorisation assessed",
+        "date": "2026-10-07",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
+        "step": [
+         3,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/606",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "CRA",
+     "Standards",
+     "M/606",
+     "ETSI"
+    ],
+    "de": [
+     "CRA",
+     "Normen",
+     "M/606",
+     "ETSI"
+    ]
+   }
+  },
+  {
    "id": "chips-act-2/compromise/ST-13545-26",
    "kind": "compromise",
    "desk": "Legislation",
@@ -501,81 +576,6 @@
     "de": [
      "Chips-Gesetz 2.0",
      "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "cra/standards/M606/2026-W41",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-10-06",
-   "act": "cra",
-   "kicker": "CRA",
-   "kicker_de": "CRA",
-   "headline": "CRA · M/606: new status for EN 304 636",
-   "deck": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems. New status: Approval Stage – Closing of approval procedure.",
-   "headline_de": "CRA · M/606: neuer Status für EN 304 636",
-   "deck_de": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems. Neuer Status: Approval Stage – Closing of approval procedure.",
-   "facts": [
-    "M/606",
-    "Request expires 30 Nov 2027"
-   ],
-   "facts_de": [
-    "M/606",
-    "Auftrag läuft aus 30. Nov. 2027"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/cra.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 304 636: Approval Stage – Closing of approval procedure",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859"
-    }
-   ],
-   "brief": null,
-   "score": 39,
-   "tree": {
-    "vertical": {
-     "ETSI": {
-      "CYBER EUSR": [
-       {
-        "project": "EN 304 636",
-        "title": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems",
-        "now": "Approval Stage – Closing of approval procedure",
-        "date": "2026-10-06",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
-        "step": null,
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/606",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "CRA",
-     "Standards",
-     "M/606",
-     "ETSI"
-    ],
-    "de": [
-     "CRA",
-     "Normen",
-     "M/606",
-     "ETSI"
     ]
    }
   },

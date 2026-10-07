@@ -99,7 +99,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-06-26 | [PE790.900](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790900/IMCO-AG-790900_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council amending … | public | – | [en](../texts/product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) |
 | 2026-06-26 | [ST 10980/26](https://data.consilium.europa.eu/doc/document/ST-10980-2026-INIT/en/pdf) | council-note | Offer letter to the European Parliament | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
 
 ## Texts as Markdown
 

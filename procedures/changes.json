@@ -1,20 +1,20 @@
 {
  "items": [
   {
+   "date": "2026-10-07",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 636",
+   "page": "cra.html"
+  },
+  {
    "date": "2026-10-06",
    "title": "MR",
    "actor": "Commission Expert Group on Machinery",
    "label": "Agenda published: COM Expert Group on Machinery (2026-04-27)",
    "doc": "agenda",
    "page": "machinery-regulation.html"
-  },
-  {
-   "date": "2026-10-06",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 636",
-   "page": "cra.html"
   },
   {
    "date": "2026-10-05",

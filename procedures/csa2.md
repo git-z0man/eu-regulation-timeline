@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 06 Oct 2026.
+Procedure 2026/0011(COD), as of 07 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -42,7 +42,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-07-20 | Council | Horizontal Working Party on Cyber Issues: Presentation of the Presidency plans regarding Title IV (Security … | [CM 3558/26](https://data.consilium.europa.eu/doc/document/CM-3558-2026-INIT/en/pdf) | Council register, CM 3558/26 (notice of meeting and provisional agenda) |
 | 2026-09-07 | Council | Horizontal Working Party on Cyber Issues: Interplay between CADA and CSA21 – Presentation by the Commission … | [CM 3831/26](https://data.consilium.europa.eu/doc/document/CM-3831-2026-INIT/en/pdf) | Council register, CM 3831/26 (notice of meeting and provisional agenda) |
 | 2026-09-10 | Council | Horizontal Working Party on Cyber Issues: Cyber posture – Presentation by the Commission and discussion | [CM 3845/26](https://data.consilium.europa.eu/doc/document/CM-3845-2026-INIT/en/pdf) | Council register, CM 3845/26 (notice of meeting and provisional agenda) |
-| 2026-09-18 | European Parliament | ITRE draft report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) · [en.md](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | EP Open Data API (ITRE-PR-792222) |
+| 2026-09-18 | European Parliament | ITRE draft report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) · [en.md](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de.md](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | EP Open Data API (ITRE-PR-792222) |
 | 2026-09-28 | Council | Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) | Council register, CM 4269/26 (notice of meeting and provisional agenda) |
 
 ## Notes
@@ -108,7 +108,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [WK 13876/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90988) | council-note | Cyber posture - Presentation by Belgium | not public\* | – | – |
 | 2026-09-11 | [WK 13879/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90989) | council-note | Cyber posture - Presentation by the Commission | not public\* | – | – |
 | 2026-09-14 | WK 13973/26 | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Non-Paper by EE, FI, NL, PL and SE | not public\* | – | – |
-| 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the … | public | – | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
+| 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the … | public | – | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) |
 | 2026-09-21 | [WK 14487/26 ADD 1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92999) | council-compromise | Presidency first compromise text on Title IV (Security of ICT Supply Chains) | not public\* | – | – |
 | 2026-09-21 | [WK 14493/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92807) | council-note | Presidency presentation of Title II amendments | not public\* | – | – |
 | 2026-09-22 | [WK 14487/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92913) | council-compromise | Presidency first compromise text Title IV (Security of ICT Supply Chains)<br>*Our summary (Not public: not released by the institution and unofficially leaked; we neither publish nor quote it. Our summary describes it in general terms only.):* Presidency compromise text of September 2026 on the CSA2 proposal, probably WK 14487/26: the Presidency's first compromise text on Title IV (ICT supply chain security, including the identification of high-risk suppliers), together with its texts on Titles II and III, for the Horizontal Working Party on Cyber Issues of 28 September 2026. A working document of the Presidency, not a position of the Council and not law. The Council has released earlier Presidency compromise texts on this file some months after the meeting (WK 7571/26, WK 11263/26), so an official release is likely but not certain. | not public, leak available\* | – | – |
@@ -121,7 +121,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
 
 ## Texts as Markdown
 
@@ -134,6 +134,6 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-05-22 | council-progress-report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) |
 | 2026-05-27 | council-compromise | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
 | 2026-08-07 | council-compromise | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
-| 2026-09-18 | ep-draft-report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
+| 2026-09-18 | ep-draft-report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

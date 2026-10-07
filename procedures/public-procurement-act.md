@@ -39,7 +39,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15255/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95107) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026 - Presentation by the Presidency | not public\* | – | – |
 | 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
 
 ## Texts as Markdown
 
