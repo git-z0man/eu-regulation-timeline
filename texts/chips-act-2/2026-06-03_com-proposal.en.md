@@ -884,7 +884,8 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (37) ‘Chips Joint Undertaking’ means the joint undertaking established by Council Regulation (EU) 2021/2085 and, where applicable, any successor entity or initiative established under Union law pursuant to a subsequent Multiannual Financial Framework.
 
-## Chapter II Chips for Europe Initiative 2.0
+<a id="chapter-ii"></a>
+## Chapter II – Chips for Europe Initiative 2.0
 
 <a id="art-3"></a>
 ### Article 3 – Chips for Europe Initiative 2.0
@@ -1086,7 +1087,8 @@ Grand challenges
 
 ## Security of supply and demand
 
-### Section 1 Semiconductor manufacturing capabilities
+<a id="chapter-ii-section-1"></a>
+## Section 1 – Semiconductor manufacturing capabilities
 
 <a id="art-13"></a>
 ### Article 13 – Public interest and public support
@@ -1234,7 +1236,8 @@ Identification of priority areas for strategic projects
 
   - (d) relevant Union funding and financing programmes.
 
-### Section 2 Permit-granting procedures
+<a id="chapter-ii-section-2"></a>
+## Section 2 – Permit-granting procedures
 
 <a id="art-21"></a>
 ### Article 21 – Fast-tracking of permit-granting procedures
@@ -1309,7 +1312,8 @@ Identification of priority areas for strategic projects
 
 2. The Commission shall, in a centralised and easily accessible manner, refer to the information provided by the Member States on its website to ensure a comprehensive and clear overview of all relevant information per Member State.
 
-### Section 3 European Semiconductor Regions of Excellence
+<a id="chapter-ii-section-3"></a>
+## Section 3 – European Semiconductor Regions of Excellence
 
 <a id="art-26"></a>
 ### Article 26 – European Semiconductor Regions of Excellence label

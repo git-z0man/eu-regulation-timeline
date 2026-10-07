@@ -515,7 +515,8 @@ in Erwägung nachstehender Gründe:
 
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
-## KAPITEL I ALLGEMEINE BESTIMMUNGEN
+<a id="chapter-i"></a>
+## Kapitel I – ALLGEMEINE BESTIMMUNGEN
 
 <a id="art-1"></a>
 ### Artikel 1 – Gegenstand und Anwendungsbereich
@@ -628,7 +629,8 @@ HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
 - 41. „Lieferant“ einen in der Union ansässigen Hersteller, den Bevollmächtigten eines nicht in der Union ansässigen Herstellers oder einen Einführer, der ein Produkt auf dem Unionsmarkt in Verkehr bringt.
 
-## KAPITEL II GRUNDLEGENDE VORAUSSETZUNGEN FÜR DIE INDUSTRIELLE FERTIGUNG UND DIE DEKARBONISIERUNG
+<a id="chapter-ii"></a>
+## Kapitel II – GRUNDLEGENDE VORAUSSETZUNGEN FÜR DIE INDUSTRIELLE FERTIGUNG UND DIE DEKARBONISIERUNG
 
 <a id="art-4"></a>
 ### Artikel 4 – Zentrale Zugangspunkte
@@ -669,7 +671,8 @@ HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
 (2) Für die Zwecke [des Artikels 14 des Vorschlags für eine Verordnung zur Beschleunigung von Umweltprüfungen] gelten sämtliche Projekte zur Dekarbonisierung energieintensiver Industrien als strategische Projekte, die zur Resilienz und Dekarbonisierung oder Ressourceneffizienz beitragen. Es gelten die Nummern I, II und III des Anhangs der genannten Verordnung.
 
-## KAPITEL III STÄRKUNG DER STRATEGISCHEN INDUSTRIELLEN WERTSCHÖPFUNGSKETTEN DER UNION
+<a id="chapter-iii"></a>
+## Kapitel III – STÄRKUNG DER STRATEGISCHEN INDUSTRIELLEN WERTSCHÖPFUNGSKETTEN DER UNION
 
 <a id="art-7"></a>
 ### Artikel 7 – Ursprung in der Union
@@ -837,7 +840,8 @@ HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
     In den in Unterabsatz 1 genannten Durchführungsrechtsakten können auch die Methoden und Verfahren festgelegt werden, die von den jeweils zuständigen nationalen Behörden, einschließlich öffentlicher Auftraggeber und Auftraggeber, anzuwenden sind, um die Einhaltung der in der vorliegenden Verordnung festgelegten Anforderungen zu überprüfen und gegebenenfalls digitale Instrumente für die Zwecke der Berechnung, der Überprüfung und des Nachweises der Einhaltung zu nutzen.
 
-## KAPITEL IV BEITRAG AUSLÄNDISCHER INVESTITIONEN
+<a id="chapter-iv"></a>
+## Kapitel IV – BEITRAG AUSLÄNDISCHER INVESTITIONEN
 
 <a id="art-17"></a>
 ### Artikel 17 – Anwendungsbereich
@@ -1031,7 +1035,8 @@ HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
   - b) ob die in Artikel 18 genannten Investitionsbedingungen angemessen und erforderlich sind, um die Ziele dieser Verordnung in Bezug auf den betreffenden Sektor zu erreichen, und, falls dies nicht der Fall ist, welche dieser Kriterien anzuwenden sind.
 
-## KAPITEL V BESCHLEUNIGUNGSGEBIETE FÜR DIE INDUSTRIELLE FERTIGUNG
+<a id="chapter-v"></a>
+## Kapitel V – BESCHLEUNIGUNGSGEBIETE FÜR DIE INDUSTRIELLE FERTIGUNG
 
 <a id="art-25"></a>
 ### Artikel 25 – Ausweisung nationaler Beschleunigungsgebiete für die industrielle Fertigung
@@ -1118,7 +1123,8 @@ Die Mitgliedstaaten ergreifen gegebenenfalls folgende Maßnahmen, um die Entwick
 
 (4) Alle industriellen Fertigungsprojekte, die in einem Beschleunigungsgebiet angesiedelt sind, gelten für die Zwecke [des Artikels 14 des Vorschlags für eine Verordnung zur Beschleunigung von Umweltprüfungen] als strategische Projekte, die zu Resilienz und Dekarbonisierung oder Ressourceneffizienz beitragen. Es gelten die Nummern 1, 2 und 3 des Anhangs der genannten Verordnung.
 
-## KAPITEL VI SCHLUSSBESTIMMUNGEN
+<a id="chapter-vi"></a>
+## Kapitel VI – SCHLUSSBESTIMMUNGEN
 
 <a id="art-28"></a>
 ### Artikel 28 – Evaluierung

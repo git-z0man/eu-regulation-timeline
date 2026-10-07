@@ -519,9 +519,11 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-TITLE I GENERAL PROVISIONS
+<a id="title-i"></a>
+## Title I – GENERAL PROVISIONS
 
-## Chapter I Subject matter and definitions
+<a id="title-i-chapter-i"></a>
+## Chapter I – Subject matter and definitions
 
 <a id="art-1"></a>
 ### Article 1 – Subject matter
@@ -593,9 +595,11 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (25) ‘open source licence’ means open source licence as defined in Article 2, point (12), of Regulation (EU) 2024/903.
 
-TITLE II RESEARCH, DEVELOPMENT AND DEPLOYMENT ACTIVITIES FOR THE CLOUD AND AI ECOSYSTEM
+<a id="title-ii"></a>
+## Title II – RESEARCH, DEVELOPMENT AND DEPLOYMENT ACTIVITIES FOR THE CLOUD AND AI ECOSYSTEM
 
-## Chapter I Cloud and AI Leadership Initiatives
+<a id="title-ii-chapter-i"></a>
+## Chapter I – Cloud and AI Leadership Initiatives
 
 <a id="art-3"></a>
 ### Article 3 – General objective of the Cloud and AI Leadership Initiatives
@@ -794,9 +798,11 @@ TITLE II RESEARCH, DEVELOPMENT AND DEPLOYMENT ACTIVITIES FOR THE CLOUD AND AI EC
 
 3. The Union and the Member States shall endeavour to provide sufficient computing resource for AI industrial innovation, physical AI and public sector AI projects.
 
-TITLE III DATA CENTRE CAPACITIES
+<a id="title-iii"></a>
+## Title III – DATA CENTRE CAPACITIES
 
-## Chapter I Data centre acceleration zones
+<a id="title-iii-chapter-i"></a>
+## Chapter I – Data centre acceleration zones
 
 <a id="art-10"></a>
 ### Article 10 – Designation of data centre acceleration zones
@@ -872,9 +878,11 @@ TITLE III DATA CENTRE CAPACITIES
 
 5. Member States shall ensure that administrative applications related to the planning, construction and the operation of data centre deployed in acceleration zones are processed in an efficient, transparent and timely manner. The permit-granting procedure for data centre projects deployed in data centre acceleration zones shall not exceed 12 months, from the moment a comprehensive application has been submitted. The time limit shall be without prejudice to any shorter time limits set by Member States. Where such a status exists in national law, data centre projects shall be allocated the status of highest national significance possible and be treated as such in permit-granting processes. This paragraph shall apply only where such status exists in national law and shall not create an obligation for Member States to introduce such status.
 
-## Chapter II Strategic projects
+<a id="title-iii-chapter-ii"></a>
+## Chapter II – Strategic projects
 
-### Section 1 Designation of data centre strategic projects
+<a id="title-iii-chapter-ii-section-1"></a>
+## Section 1 – Designation of data centre strategic projects
 
 <a id="art-14"></a>
 ### Article 14 – Designation of data centre strategic projects
@@ -897,7 +905,8 @@ TITLE III DATA CENTRE CAPACITIES
 
 4. Where the Commission finds that a project designated as a strategic project no longer fulfils the relevant criteria, or where its designation was based on an application containing incorrect information affecting compliance with those criteria, it may withdraw the designation of that project by means of a decision. Projects for which the designation as a strategic project has been withdrawn shall lose all rights connected to that status under this Regulation.
 
-## Chapter III Monitoring
+<a id="title-iii-chapter-iii"></a>
+## Chapter III – Monitoring
 
 <a id="art-15"></a>
 ### Article 15 – Monitoring the capacity gap
@@ -910,11 +919,14 @@ TITLE III DATA CENTRE CAPACITIES
 
   - (c) the size of the capacity gap and underserved areas that could be identified by the Commission, in cooperation with the Member States, and subsequently used as acceleration zones for the deployment of data centre capacity.
 
-TITLE IV AUTONOMY
+<a id="title-iv"></a>
+## Title IV – AUTONOMY
 
-## Chapter I Cloud computing sovereignty framework
+<a id="title-iv-chapter-i"></a>
+## Chapter I – Cloud computing sovereignty framework
 
-### Section 1 Union assurance levels
+<a id="title-iv-chapter-i-section-1"></a>
+## Section 1 – Union assurance levels
 
 <a id="art-16"></a>
 ### Article 16 – Scope
@@ -987,7 +999,8 @@ TITLE IV AUTONOMY
 
 3. The Commission shall publish on its website a list of third countries that fulfil the requirements under paragraph 1 and those that no longer do so.
 
-### Section 2 Conformity assessment procedures
+<a id="title-iv-chapter-i-section-2"></a>
+## Section 2 – Conformity assessment procedures
 
 <a id="art-19"></a>
 ### Article 19 – Conformity self-assessment
@@ -998,7 +1011,8 @@ TITLE IV AUTONOMY
 
 3. The cloud computing service provider shall make the EU statement of conformity publicly available.
 
-### Section 3 Independent third-party audits
+<a id="title-iv-chapter-i-section-3"></a>
+## Section 3 – Independent third-party audits
 
 <a id="art-20"></a>
 ### Article 20 – Independent audit
@@ -1103,7 +1117,8 @@ TITLE IV AUTONOMY
 
 3. Recipients of the cloud computing services shall have the right to seek, in accordance with Union and national law, compensation from cloud computing service providers for any damage or loss suffered due to an infringement by those providers of their obligations under this Chapter.
 
-### Section 4 National competent authorities
+<a id="title-iv-chapter-i-section-4"></a>
+## Section 4 – National competent authorities
 
 <a id="art-25"></a>
 ### Article 25 – National competent authorities
@@ -1139,7 +1154,8 @@ TITLE IV AUTONOMY
 
 4. Member States shall set out specific rules and procedures for the exercise of the powers pursuant to paragraphs 1 and 2 and shall ensure that any exercise of those powers is subject to adequate safeguards under applicable national law in compliance with the general principles of Union law. Those measures shall be taken only in accordance with the right to respect for private life and the rights of defence, including the rights to be heard and to have access to the file, and shall be subject to the right of all affected parties to an effective judicial remedy.
 
-### Section 5 Mutual assistance and cooperation
+<a id="title-iv-chapter-i-section-5"></a>
+## Section 5 – Mutual assistance and cooperation
 
 <a id="art-27"></a>
 ### Article 27 – Mutual assistance
@@ -1161,9 +1177,11 @@ TITLE IV AUTONOMY
 
 4. The competent authority of establishment shall, as soon as possible and in any event not later than two months after receipt of the request pursuant to paragraph 1 or 2, communicate to the competent authority that sent the request, and the Commission, its assessment of the suspected infringement and an explanation of any investigatory or enforcement measures taken or envisaged in relation to the matter to ensure compliance with this Regulation.
 
-## Chapter II Demand-side measures
+<a id="title-iv-chapter-ii"></a>
+## Chapter II – Demand-side measures
 
-### Section 1 Public procurement
+<a id="title-iv-chapter-ii-section-1"></a>
+## Section 1 – Public procurement
 
 <a id="art-29"></a>
 ### Article 29 – Risk assessments
@@ -1215,7 +1233,8 @@ TITLE IV AUTONOMY
 
   - (a) applying the requirements of this Regulation would require the contracting authority to procure services at disproportionate cost.
 
-### Section 2 Private sector entities
+<a id="title-iv-chapter-ii-section-2"></a>
+## Section 2 – Private sector entities
 
 <a id="art-31"></a>
 ### Article 31 – Impact assessments
@@ -1226,7 +1245,8 @@ TITLE IV AUTONOMY
 
 3. Where, because of specific circumstances, and where duly justified and in consultation with the Member States, the Commission concludes that entities who are not public sector bodies operating in sectors of high criticality require an impact assessment, the Commission may adopt delegated acts to supplement this Regulation in accordance with Article 45 specifying the need for such impact assessment and the risk mitigation measures that those entities who are not public sector bodies shall take.
 
-### Section 3 Other procurement-related measures
+<a id="title-iv-chapter-ii-section-3"></a>
+## Section 3 – Other procurement-related measures
 
 <a id="art-32"></a>
 ### Article 32 – Union added value
@@ -1278,7 +1298,8 @@ TITLE IV AUTONOMY
 
   - (c) development of public contract clauses that are favourable for innovative SMEs.
 
-## Chapter III European public sector cloud federation
+<a id="title-iv-chapter-iii"></a>
+## Chapter III – European public sector cloud federation
 
 <a id="art-34"></a>
 ### Article 34 – Establishment of the European public sector cloud federation
@@ -1321,7 +1342,8 @@ TITLE IV AUTONOMY
 
 4. The Commission shall adopt implementing acts laying down detailed rules for determining the estimated costs, the individual amount of the fees, and the manner and conditions under which the fees are to be paid. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(2).
 
-## Chapter IV Procurement of data centre services, cloud computing services, software and AI systems by the Commission
+<a id="title-iv-chapter-iv"></a>
+## Chapter IV – Procurement of data centre services, cloud computing services, software and AI systems by the Commission
 
 <a id="art-37"></a>
 ### Article 37 – Procurement activities of the Commission
@@ -1413,7 +1435,8 @@ TITLE IV AUTONOMY
 
     Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(2).
 
-## Chapter V Open source
+<a id="title-iv-chapter-v"></a>
+## Chapter V – Open source
 
 <a id="art-41"></a>
 ### Article 41 – Promoting open source solutions andopen source first
@@ -1455,7 +1478,8 @@ TITLE IV AUTONOMY
 
 5. The Commission shall convene and chair a meeting of the members of the OSPO Network at least twice a year. The meetings of the OSPO Network may be organised online.
 
-TITLE V FINAL PROVISIONS
+<a id="title-v"></a>
+## Title V – FINAL PROVISIONS
 
 **Article 44 – Exercise of the delegation**
 

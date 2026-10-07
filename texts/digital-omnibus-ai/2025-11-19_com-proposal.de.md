@@ -347,9 +347,7 @@ in Erwägung nachstehender Gründe:
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
 <a id="art-1"></a>
-### Artikel 1
-
-Änderungen der Verordnung (EU) 2024/1689
+### Artikel 1 – Änderungen der Verordnung (EU) 2024/1689
 
 Die Verordnung (EU) 2024/1689 wird wie folgt geändert:
 
@@ -713,9 +711,7 @@ Die Konformitätsbewertung von Hochrisiko-KI-Systemen im Rahmen dieser Verordnun
     Konformitätsbewertungsstellen verwenden das Verzeichnis der Codes, Kategorien und entsprechenden Arten von KI-Systemen in diesem Anhang, wenn sie die Arten von KI-Systemen in dem in Artikel 29 dieser Verordnung genannten Antrag auf Notifizierung angeben.“
 
 <a id="art-2"></a>
-### Artikel 2
-
-Änderungen der Verordnung (EU) 2018/1139
+### Artikel 2 – Änderungen der Verordnung (EU) 2018/1139
 
 Die Verordnung (EU) 2018/1139 wird wie folgt geändert:
 
@@ -748,9 +744,7 @@ Die Verordnung (EU) 2018/1139 wird wie folgt geändert:
   - „(3) Unbeschadet des Absatzes 2 werden beim Erlass von Durchführungsrechtsakten nach Absatz 1, die sich auf Systeme der künstlichen Intelligenz beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates handelt, die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
 
 <a id="art-3"></a>
-### Artikel 3
-
-Inkrafttreten und Geltung
+### Artikel 3 – Inkrafttreten und Geltung
 
 Diese Verordnung tritt am dritten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 

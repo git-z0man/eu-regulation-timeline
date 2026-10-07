@@ -754,7 +754,8 @@ in Erwägung nachstehender Gründe:
 
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
-## Kapitel I Allgemeine Bestimmungen
+<a id="chapter-i"></a>
+## Kapitel I – Allgemeine Bestimmungen
 
 <a id="art-1"></a>
 ### Artikel 1 – Gegenstand
@@ -882,7 +883,8 @@ Für die Zwecke dieser Verordnung gelten folgende Begriffsbestimmungen:
 
 37. „Gemeinsames Unternehmen für Chips“ bezeichnet das mit der Verordnung (EU) 2021/2085 des Rates gegründete gemeinsame Unternehmen und gegebenenfalls jede Nachfolgeeinrichtung oder -initiative, die nach Unionsrecht im Zuge eines nachfolgenden mehrjährigen Finanzrahmens gegründet wird.
 
-## Kapitel II Initiative „Chips für Europa 2.0“
+<a id="chapter-ii"></a>
+## Kapitel II – Initiative „Chips für Europa 2.0“
 
 <a id="art-3"></a>
 ### Artikel 3 – Initiative „Chips für Europa 2.0“
@@ -1082,7 +1084,8 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 ## Versorgungssicherheit und Nachfrage
 
-### Abschnitt 1 Halbleiterfertigungsfähigkeiten
+<a id="chapter-ii-section-1"></a>
+## Abschnitt 1 – Halbleiterfertigungsfähigkeiten
 
 <a id="art-13"></a>
 ### Artikel 13 – Öffentliches Interesse und öffentliche Unterstützung
@@ -1228,7 +1231,8 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
   - d) einschlägige Förder- und Finanzierungsprogramme der Union.
 
-### Abschnitt 2 Genehmigungsverfahren
+<a id="chapter-ii-section-2"></a>
+## Abschnitt 2 – Genehmigungsverfahren
 
 <a id="art-21"></a>
 ### Artikel 21 – Beschleunigung von Genehmigungsverfahren
@@ -1303,7 +1307,8 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 - (2) Die Kommission verweist auf ihrer Website in zentralisierter und leicht zugänglicher Weise auf die von den Mitgliedstaaten bereitgestellten Informationen, um einen umfassenden und klaren Überblick über alle einschlägigen Informationen je Mitgliedstaat zu gewährleisten.
 
-### Abschnitt 3 Europäische Halbleiterexzellenzregionen
+<a id="chapter-ii-section-3"></a>
+## Abschnitt 3 – Europäische Halbleiterexzellenzregionen
 
 <a id="art-26"></a>
 ### Artikel 26 – Gütesiegel für europäische Halbleiterexzellenzregionen
@@ -1395,7 +1400,8 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 - (5) Die Kommission kann die Arbeit des Netzes erleichtern und Sitzungen, Workshops oder andere Tätigkeiten organisieren, um den Informationsaustausch und die Zusammenarbeit zwischen den teilnehmenden Regionen zu unterstützen.
 
-### Abschnitt 4 Resilienz in den Lieferketten
+<a id="chapter-ii-section-4"></a>
+## Abschnitt 4 – Resilienz in den Lieferketten
 
 <a id="art-30"></a>
 ### Artikel 30 – Vergabe öffentlicher Aufträge
@@ -1480,9 +1486,11 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 - (6) Die Kommission stützt ihre nach diesem Artikel durchgeführten Prüfungen auf Nachweise, darunter auf öffentlich zugängliche Informationen, auf Informationen, die im Rahmen von Auskunftsersuchen gemäß Artikel 38 eingeholt werden, oder auf ein wiederholtes Auftreten von Lieferkettenstörungen.
 
-## KAPITEL IV Überwachung und Krisenreaktion
+<a id="chapter-iv"></a>
+## Kapitel IV – Überwachung und Krisenreaktion
 
-### Abschnitt 1 Überwachung
+<a id="chapter-iv-section-1"></a>
+## Abschnitt 1 – Überwachung
 
 <a id="art-33"></a>
 ### Artikel 33 – Strategische Kartierung des Halbleitersektors der Union
@@ -1578,7 +1586,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
   - d) die Auswirkungen einer Störung der Versorgung mit der vom Marktakteur bereitgestellten Dienstleistung oder Ware auf die Halbleiterlieferkette der Union und die davon abhängigen Märkte.
 
-### Abschnitt 2 Warnungen und Aktivierung der Krisenstufe
+<a id="chapter-iv-section-2"></a>
+## Abschnitt 2 – Warnungen und Aktivierung der Krisenstufe
 
 <a id="art-37"></a>
 ### Artikel 37 – Warnungen und Präventivmaßnahmen
@@ -1657,7 +1666,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
 - (8) Die Kommission aktualisiert die Kartierung und die Überwachung der Halbleiterwertschöpfungsketten gemäß den Artikeln 33 und 35 unter Berücksichtigung der Erfahrungen aus der Krise spätestens sechs Monate nach Ablauf der Geltungsdauer der Krisenstufe.
 
-### Abschnitt 3 Reaktion auf Engpässe
+<a id="chapter-iv-section-3"></a>
+## Abschnitt 3 – Reaktion auf Engpässe
 
 <a id="art-40"></a>
 ### Artikel 40 – Notfallinstrumentarium
@@ -1735,9 +1745,11 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
 - (7) Die Durchführung der gemeinsamen Beschaffung gemäß diesem Artikel lässt andere in der Verordnung (EU, Euratom) 2024/2509 vorgesehene Instrumente unberührt.
 
-## KAPITEL V Governance
+<a id="chapter-v"></a>
+## Kapitel V – Governance
 
-### Abschnitt 1 Europäisches Halbleitergremium
+<a id="chapter-v-section-1"></a>
+## Abschnitt 1 – Europäisches Halbleitergremium
 
 <a id="art-44"></a>
 ### Artikel 44 – Aufgaben des Europäischen Halbleitergremiums
@@ -1835,7 +1847,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
 - (3) Die Mitgliedstaaten gewährleisten die Kohärenz zwischen ihrer bilateralen Zusammenarbeit mit internationalen Partnern und der internationalen Zusammenarbeit der Union im Halbleiterbereich, einschließlich nicht verbindlicher strategischer Partnerschaften. Sie unterstützen die Kommission auch bei der Durchführung der Kooperationsmaßnahmen im Rahmen der internationalen Zusammenarbeit der Union im Halbleiterbereich, einschließlich strategischer Halbleiterpartnerschaften.
 
-### Abschnitt 2 Zuständige nationale Behörden
+<a id="chapter-v-section-2"></a>
+## Abschnitt 2 – Zuständige nationale Behörden
 
 <a id="art-48"></a>
 ### Artikel 48 – Benennung zuständiger nationaler Behörden und nationaler zentraler Anlaufstellen
@@ -1854,7 +1867,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
     Die Kommission fördert den Erfahrungsaustausch zwischen den zuständigen nationalen Behörden.
 
-### Abschnitt 3 Industrieallianz
+<a id="chapter-v-section-3"></a>
+## Abschnitt 3 – Industrieallianz
 
 <a id="art-49"></a>
 ### Artikel 49 – Industrieallianz für Halbleiter
@@ -1901,7 +1915,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
 - (9) Der Vorsitz der Allianz oder der Lenkungsausschuss mit Zustimmung des Vorsitzes kann ständige oder nichtständige Arbeitsgruppen zur Prüfung spezifischer Fragen einsetzen.
 
-## KAPITEL VI Vertraulichkeit und Sanktionen
+<a id="chapter-vi"></a>
+## Kapitel VI – Vertraulichkeit und Sanktionen
 
 <a id="art-50"></a>
 ### Artikel 50 – Behandlung vertraulicher Informationen
@@ -2006,7 +2021,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
 - (4) Die Verteidigungsrechte des betreffenden Unternehmens werden während des Verfahrens in vollem Umfang gewahrt. Das betreffende Unternehmen hat vorbehaltlich des berechtigten Interesses von Unternehmen an der Wahrung ihrer Geschäftsgeheimnisse das Recht auf Einsicht in die Akte der Kommission im Rahmen einer einvernehmlichen Einsichtnahme. Vom Recht auf Akteneinsicht ausgenommen sind vertrauliche Informationen sowie interne Unterlagen der Kommission oder der Behörden der Mitgliedstaaten. Insbesondere die Korrespondenz zwischen der Kommission und den Behörden der Mitgliedstaaten ist vom Recht auf Einsicht ausgenommen. Dieser Absatz steht der Offenlegung und Verwendung der für den Nachweis einer Zuwiderhandlung erforderlichen Informationen durch die Kommission in keiner Weise entgegen.
 
-## KAPITEL VII Befugnisübertragung und Ausschussverfahren
+<a id="chapter-vii"></a>
+## Kapitel VII – Befugnisübertragung und Ausschussverfahren
 
 <a id="art-55"></a>
 ### Artikel 55 – Ausübung der Befugnisübertragung
@@ -2032,7 +2048,8 @@ Die Mitgliedstaaten ermitteln in Zusammenarbeit mit der Kommission gemäß Artik
 
 - (3) Wird auf diesen Absatz Bezug genommen, so gilt Artikel 8 der Verordnung (EU) Nr. 182/2011 in Verbindung mit deren Artikel 5.
 
-## KAPITEL VIII Schlussbestimmungen
+<a id="chapter-viii"></a>
+## Kapitel VIII – Schlussbestimmungen
 
 <a id="art-57"></a>
 ### Artikel 57 – Bewertung und Überprüfung

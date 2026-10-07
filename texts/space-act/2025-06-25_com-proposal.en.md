@@ -708,12 +708,11 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-## Title I GENERAL PROVISIONS
+<a id="title-i"></a>
+## Title I – GENERAL PROVISIONS
 
 <a id="art-1"></a>
-### Article 1
-
-Subject matter
+### Article 1 – Subject matter
 
 1. This Regulation lays down rules for the establishment and functioning of the internal market of space-based data and space services.
 
@@ -728,9 +727,7 @@ Subject matter
   - (d) establishment of a Union Space Label and capacity-building measures.
 
 <a id="art-2"></a>
-### Article 2
-
-Scope
+### Article 2 – Scope
 
 1. This Regulation applies to the following space services providers:
 
@@ -757,9 +754,7 @@ Scope
 4. The requirements laid down in Title IV, Chapter I, regarding the design and manufacture of space objects shall apply to space objects where their operation generates space-based data that are used in the Union or enables the provision of space services in the Union.
 
 <a id="art-3"></a>
-### Article 3
-
-Free movement
+### Article 3 – Free movement
 
 1. Member States shall not restrict, for reasons related to the safety, resilience and environmental sustainability, as covered by this Regulation, the provision of space-based data and space services in the Union by space services providers registered in the Union register of space objects referred to in Article 24.
 
@@ -768,16 +763,12 @@ Free movement
 3. Member States shall provide all the relevant information regarding the requirements referred to in paragraph 2 through the Information Portal established in accordance with Article 110.
 
 <a id="art-4"></a>
-### Article 4
-
-National security clause
+### Article 4 – National security clause
 
 This Regulation shall be without prejudice to the responsibilities of Member States for safeguarding national security and other essential State functions.
 
 <a id="art-5"></a>
-### Article 5
-
-Definitions
+### Article 5 – Definitions
 
 For the purposes of this Regulation, the following definitions shall apply:
 
@@ -977,14 +968,14 @@ For the purposes of this Regulation, the following definitions shall apply:
 
   - (75) ‘critical design review’ means the stage in the engineering, manufacturing and development process, which determines that the systems and subsystems design and configuration satisfy all specified requirements of the space mission, in terms of performance, compatibility, product specifications, assessment of risks, preliminary test planning, adequacy of preliminary operation and provision of supporting documents, enabling to proceed to system implementation and integration.
 
-## Title II AUTHORISATION AND REGISTRATION FOR SPACE ACTIVITIES
+<a id="title-ii"></a>
+## Title II – AUTHORISATION AND REGISTRATION FOR SPACE ACTIVITIES
 
-## Chapter I AUTHORISATION OF UNION SPACE OPERATORS
+<a id="title-ii-chapter-i"></a>
+## Chapter I – AUTHORISATION OF UNION SPACE OPERATORS
 
 <a id="art-6"></a>
-### Article 6
-
-Authorisation for carrying out space activities
+### Article 6 – Authorisation for carrying out space activities
 
 1. Union space operators shall not provide space services unless they have obtained in a Member State an authorisation to carry out space activities which demonstrate compliance with the requirements laid down in Title IV, Chapters I to V, as applicable, depending on the category of space operator concerned.
 
@@ -1005,9 +996,7 @@ Authorisation for carrying out space activities
 6. Where the need for the provision of space services by a third country space operator or international organisation arises after an authorisation has been issued, such as in the case of ISOS, a Union space operator shall, without delay, inform the competent authority thereof, and provide it with the proof of registration in URSO of that third country space operator or international organisation.
 
 <a id="art-7"></a>
-### Article 7
-
-Authorisation process
+### Article 7 – Authorisation process
 
 1. An applicant shall apply for authorisation to the competent authority referred to in Article 6(3).
 
@@ -1028,9 +1017,7 @@ Authorisation process
 7. For the purposes of registration in URSO, a competent authority shall inform the Agency of all authorised Union space operators and primary space services providers and of any third country space operator they have authorised to launch from their territory.
 
 <a id="art-8"></a>
-### Article 8
-
-Technical assessments
+### Article 8 – Technical assessments
 
 1. When setting-up the authorisation systems, Member States shall determine whether the technical assessments are to be carried out by:
 
@@ -1055,9 +1042,7 @@ Technical assessments
 4. Member States shall notify to the Commission their choice pursuant to paragraph 1 and any changes thereof.
 
 <a id="art-9"></a>
-### Article 9
-
-Authorisation for constellations
+### Article 9 – Authorisation for constellations
 
 1. Where the Union space operator intends to carry out a space mission that entails the launch of a satellite constellation, it shall submit to the competent authority an application for a single authorisation covering the launch or, as applicable, the launch and operation, in respect to all satellites that are part of the constellation, provided that all of the following conditions are met:
 
@@ -1078,9 +1063,7 @@ Authorisation for constellations
 6. Competent authorities shall review authorisations for the launch of satellite constellations when launching the first batch of the new generation of satellites.
 
 <a id="art-10"></a>
-### Article 10
-
-Light regimes
+### Article 10 – Light regimes
 
 1. The conditions for authorisation referred to in Article 6(1) shall be adapted for the Union space operators referred to in paragraphs 2, 3 and 4, as provided for in these paragraphs.
 
@@ -1090,12 +1073,11 @@ Light regimes
 
 4. When space operators that are small-sized enterprises or are research or education institutions carry out In-Orbit Demonstration and Validation (IOD/IOV) space missions, they shall be exempted, in relation to Title IV, Chapter III, from the obligation referred to in Article 96(2).
 
-## Chapter II AUTHORISATION FOR UNION SPACE OPERATORS OPERATING UNION-OWNED ASSETS
+<a id="title-ii-chapter-ii"></a>
+## Chapter II – AUTHORISATION FOR UNION SPACE OPERATORS OPERATING UNION-OWNED ASSETS
 
 <a id="art-11"></a>
-### Article 11
-
-Application for authorisation
+### Article 11 – Application for authorisation
 
 1. Where space activities are carried out in relation to the Union-owned assets, the Commission shall authorise the entity entrusted with the execution or operation of the respective component of the Union Programme.
 
@@ -1110,9 +1092,7 @@ Application for authorisation
     After assessing the application as complete, the Agency shall notify the applicant accordingly.
 
 <a id="art-12"></a>
-### Article 12
-
-Examination by the Agency
+### Article 12 – Examination by the Agency
 
 1. Within 6 months from the date of the notification referred to in Article 11(3), third subparagraph, the Agency shall examine, pursuant to Article 43(1), point (a), the application for authorisation, by assessing whether the applicant:
 
@@ -1133,9 +1113,7 @@ Examination by the Agency
 3. The Agency shall register without delay in URSO the Union space operators authorised in accordance with this Chapter.
 
 <a id="art-13"></a>
-### Article 13
-
-Suspension or withdrawal of authorisation
+### Article 13 – Suspension or withdrawal of authorisation
 
 1. A Union space operator of Union-owned assets shall immediately report to the Agency:
 
@@ -1153,12 +1131,11 @@ Suspension or withdrawal of authorisation
 
     The Commission shall immediately notify its decision to the Union space operator of Union-owned concerned and to the competent authority of the Member State where that Union space operator of Union-owned assets is established.
 
-## Chapter III SPACE SERVICES PROVIDERS FROM THIRD COUNTRIES AND INTERNATIONAL ORGANISATIONS
+<a id="title-ii-chapter-iii"></a>
+## Chapter III – SPACE SERVICES PROVIDERS FROM THIRD COUNTRIES AND INTERNATIONAL ORGANISATIONS
 
 <a id="art-14"></a>
-### Article 14
-
-Provision of spaced-based data and space services by third country space operators and international organisations
+### Article 14 – Provision of spaced-based data and space services by third country space operators and international organisations
 
 1. Third country space operators that are registered in accordance with Article 17 in the Union Register of Space Objects and are in possession of the e-certificate referred to in Article 25(1), shall be allowed to provide space services to Union space operators and in relation to Union-owned assets and to assets referred to in Article 5, first paragraph, point (21).
 
@@ -1169,9 +1146,7 @@ Provision of spaced-based data and space services by third country space operato
 3. Paragraph 2 shall not apply where an international organisation only carries out technical assessment activities pursuant to Article 8(1), point (b).
 
 <a id="art-15"></a>
-### Article 15
-
-Rules applicable to third country space operators
+### Article 15 – Rules applicable to third country space operators
 
 1. Third country spacecraft operators shall be subject to the requirements applicable to the Union spacecraft operators laid down in Articles 62, 66, 67, 69 to 73, 75 to 92, and 96 to 100.
 
@@ -1192,16 +1167,12 @@ Rules applicable to third country space operators
 4. Third country collision avoidance space services providers shall be subject to the requirements applicable to the Union collision avoidance space services providers laid down in Articles 102 and 103.
 
 <a id="art-16"></a>
-### Article 16
-
-Rules for third country space operators from equivalent jurisdictions ​​​​​
+### Article 16 – Rules for third country space operators from equivalent jurisdictions ​​​​​
 
 Third country space operators that are established in a third country for which the Commission has adopted an equivalence decision, in accordance with Article 105, shall be presumed to comply with the requirements laid down in Article 15.
 
 <a id="art-17"></a>
-### Article 17
-
-Registration for third country space services providers
+### Article 17 – Registration for third country space services providers
 
 1. Based on a decision by the Commission to allow registration, pursuant to paragraph 5, the Agency shall register in URSO third country space operators that demonstrate compliance with the requirements of Title IV, as set out in Article 16 or Article 15.
 
@@ -1228,18 +1199,14 @@ Registration for third country space services providers
 8. Where an application for derogation has been lodged in accordance with Article 19, the Agency shall proceed to the registration of the third country space operator in URSO after the Commission has adopted its decision in accordance with Article 19(5), first subparagraph.
 
 <a id="art-18"></a>
-### Article 18
-
-Registration of international organisations
+### Article 18 – Registration of international organisations
 
 1. Where the conditions laid down in Article 107 or Article 108 are met, the Agency shall register international organisations in URSO.
 
 2. For the purposes of paragraph 1, Article 17(3), (4), (5), (7) and (8), and Articles 19, 21 and 22 shall apply accordingly.
 
 <a id="art-19"></a>
-### Article 19
-
-Derogations ​​​​​​
+### Article 19 – Derogations ​​​​​​
 
 1. A Member State may request the Commission to adopt a decision allowing the Agency to register a third country launch operator which does not comply with one or more of the conditions referred to in Article 15(2), if the public interest conditions referred to in paragraph 2 are met.
 
@@ -1274,9 +1241,7 @@ Derogations ​​​​​​
 6. When the Commission grants, pursuant to paragraph 5, first subparagraph, a derogation to a third country launch operator, it shall in parallel grant a derogation to the Union space operator using the launch services of the respective third country launch operator.
 
 <a id="art-20"></a>
-### Article 20
-
-Third country public entities
+### Article 20 – Third country public entities
 
 1. Upon request of a third country public entity to be allowed to provide space services or space-based data in the Union, or upon a Member State request, as referred to in paragraph 2, the Commission, assisted by the Agency, shall first assess whether that third country public entity is a governmental entity or whether it operates or owns assets of space infrastructure that are military systems, including with civilian use.
 
@@ -1297,9 +1262,7 @@ Third country public entities
     The decision referred to in first subparagraph shall be adopted as implementing act in accordance with the examination procedure referred to in Article 114(2).
 
 <a id="art-21"></a>
-### Article 21
-
-Emergency clause
+### Article 21 – Emergency clause
 
 1. Where an emergency or crisis occurs in a Member State, or an incident or attack causes disruption affecting more Member States or the Union institutions, the Commission shall, as soon as possible, on its own initiative, or at the request of the Member State concerned, carry out an assessment.
 
@@ -1308,9 +1271,7 @@ Emergency clause
 2. As soon as possible, and depending on the gravity, duration and effects of the respective emergency, crisis or disruption, the decision referred to in paragraph 1 shall be confirmed, revoked or extended in accordance with the procedure referred to in Article 8 of Regulation (EU) No 182/2011.
 
 <a id="art-22"></a>
-### Article 22
-
-Suspension or withdrawal of registration
+### Article 22 – Suspension or withdrawal of registration
 
 1. The Agency shall make a proposal to the Commission to suspend or withdraw the registration in URSO of a third country space operator where:
 
@@ -1335,20 +1296,17 @@ Suspension or withdrawal of registration
     Depending on the complexity of the contractual adaptations that may be required, the date of withdrawal of registration shall be no later than 16 months from the date of adoption of the decision of withdrawal.
 
 <a id="art-23"></a>
-### Article 23
-
-Legal representative in the Union
+### Article 23 – Legal representative in the Union
 
 1. Third country space operators shall designate in writing one or more legal persons in one of the Member States to act as their legal representative in the Union.
 
 2. The legal representative in the Union shall be mandated by the third country space operator to be addressed in addition to, or instead of, the third country space operator, by the competent authorities, the Commission and the Agency, on all issues related to compliance with this Regulation. It shall have all necessary powers and resources to guarantee an efficient and timely cooperation with such authorities.
 
-## Chapter IV PROVISION OF SPACE-BASED DATA AND SPACE SERVICES IN THE UNION AND E-TRACEABILITY
+<a id="title-ii-chapter-iv"></a>
+## Chapter IV – PROVISION OF SPACE-BASED DATA AND SPACE SERVICES IN THE UNION AND E-TRACEABILITY
 
 <a id="art-24"></a>
-### Article 24
-
-Union Register of Space Objects (URSO)
+### Article 24 – Union Register of Space Objects (URSO)
 
 1. The Agency shall set up a Union Register of Space Objects (URSO) for the registration of:
 
@@ -1365,9 +1323,7 @@ Union Register of Space Objects (URSO)
 3. URSO shall have a centralised inventory and platform.
 
 <a id="art-25"></a>
-### Article 25
-
-Electronic certificate (e-certificate)
+### Article 25 – Electronic certificate (e-certificate)
 
 1. Upon completion of the registration in URSO, the Agency shall issue and deliver an electronic certificate (‘e-certificate’) to the space service providers except the collision avoidance space services providers.
 
@@ -1394,42 +1350,37 @@ Electronic certificate (e-certificate)
 6. For the purposes of generating the e-certificate referred to in paragraph 1 the Agency may request, as appropriate, technical assistance from the competent authorities and the qualified technical bodies for space activities regarding any of the elements referred to in paragraph 5.
 
 <a id="art-26"></a>
-### Article 26
-
-Provision of space services and space-based data in the Union
+### Article 26 – Provision of space services and space-based data in the Union
 
 1. Where space services providers, except for collision avoidance space services providers, provide for the first time, space-based data or space services in the Union, they shall be in possession of the e-certificate referred to in Article 25(1).
 
 2. They shall ensure that the e-certificate is annexed to their contracts for the provision of space based-data or space services.
 
 <a id="art-27"></a>
-### Article 27
-
-Requirements for primary providers of space-based data
+### Article 27 – Requirements for primary providers of space-based data
 
 1. Primary providers of space-based data shall provide space-based data in the Union only where such space-based data has been generated by space objects registered in URSO.
 
 2. Where primary providers of space-based data receive alerts or complaints about potential irregularities, they shall alert their suppliers and contact in parallel the Agency or the competent authority of the Member State where they are established.
 
-## Title III GOVERNANCE ASPECTS
+<a id="title-iii"></a>
+## Title III – GOVERNANCE ASPECTS
 
-## Chapter I GOVERNANCE IN THE MEMBER STATES
+<a id="title-iii-chapter-i"></a>
+## Chapter I – GOVERNANCE IN THE MEMBER STATES
 
-### Section 1 COMPETENT AUTHORITIES
+<a id="title-iii-chapter-i-section-1"></a>
+## Section 1 – COMPETENT AUTHORITIES
 
 <a id="art-28"></a>
-### Article 28
-
-Designation or establishment of competent authorities
+### Article 28 – Designation or establishment of competent authorities
 
 1. Each Member State shall designate or establish a public authority to act as competent authority, responsible for the authorisation and supervision of Union space operators and for any market surveillance activity needed to safeguard the use of space-based data in compliance with this Regulation.
 
 2. Member States shall ensure that the competent authorities have the independence, expertise, financial and human resources, operational capacity and powers necessary to carry out functions referred to in paragraph 1.
 
 <a id="art-29"></a>
-### Article 29
-
-Supervisory tasks regarding Union space operators
+### Article 29 – Supervisory tasks regarding Union space operators
 
 1. Competent authorities shall supervise the space activities carried out by Union space operators and shall in particular:
 
@@ -1454,9 +1405,7 @@ Supervisory tasks regarding Union space operators
 2. Member States shall ensure appropriate supervision of Union space operators carrying out national space programmes, by observing the separation of roles and the absence of conflict of interest.
 
 <a id="art-30"></a>
-### Article 30
-
-Supervisory powers
+### Article 30 – Supervisory powers
 
 1. Competent authorities shall have all supervisory, investigatory, corrective and sanctioning powers that are necessary for the exercise of the functions and tasks referred to in Article 29.
 
@@ -1515,9 +1464,7 @@ Supervisory powers
 8. Member States may provide by law that competent authorities shall have additional powers to those referred to in paragraphs 3 to 7. The exercise of those powers shall not impair the effective implementation of this Chapter.
 
 <a id="art-31"></a>
-### Article 31
-
-Administrative sanctions
+### Article 31 – Administrative sanctions
 
 1. Member States shall lay down rules on penalties for infringements of this Regulation. Those penalties shall be effective, proportionate and dissuasive. Member States shall without delay notify the Commission of those provisions and any subsequent amendment affecting them.
 
@@ -1545,12 +1492,11 @@ Administrative sanctions
 
 5. Member States shall ensure that competent authorities have the power to directly bring infringements of this Regulation before a judicial body and that they are entitled to take part, in their own right, in all types of legal proceedings regarding the enforcement of this Regulation, including by lodging appeals.
 
-### Section 2 MONITORING OF QUALIFIED TECHNICAL BODIES FOR SPACE ACTIVITIES
+<a id="title-iii-chapter-i-section-2"></a>
+## Section 2 – MONITORING OF QUALIFIED TECHNICAL BODIES FOR SPACE ACTIVITIES
 
 <a id="art-32"></a>
-### Article 32
-
-Use of qualified technical bodies for space activities
+### Article 32 – Use of qualified technical bodies for space activities
 
 1. Member States making use of the possibility referred to in Article 8(1), point (a), shall ensure that qualified technical bodies for space activities are designated, assessed and monitored by public authorities and that they are notified to the Commission, in accordance with Article 33.
 
@@ -1565,9 +1511,7 @@ Use of qualified technical bodies for space activities
   - (c) has an adequate number of personnel for the performance of its tasks.
 
 <a id="art-33"></a>
-### Article 33
-
-Notification process
+### Article 33 – Notification process
 
 1. Member States shall notify to the Commission all designated qualified technical bodies for space activities established on their territory. For the purpose of this notification, they shall use the New Approach Notified and Designated Organisations (NANDO) information management system.
 
@@ -1583,12 +1527,11 @@ Notification process
 
 5. A body may perform activities as qualified technical body for space activities only if the Commission or a Member State have not raised objections within two months from the date of the notification, where it includes the accreditation certificate referred to in Article 34(5), point (b), or within three months from the date of notification, where it includes the documentary evidence referred to in Article 34(6).
 
-### Section 3 QUALIFIED TECHNICAL BODIES FOR SPACE ACTIVITIES
+<a id="title-iii-chapter-i-section-3"></a>
+## Section 3 – QUALIFIED TECHNICAL BODIES FOR SPACE ACTIVITIES
 
 <a id="art-34"></a>
-### Article 34
-
-Process for becoming a qualified technical body for space activities
+### Article 34 – Process for becoming a qualified technical body for space activities
 
 1. Where an entity intends to carry out technical assessments for one or more matters covered by Title IV, Chapters I to V, it shall submit an application to the relevant authority, as referred to in Article 32, in the Member State where it is established, to obtain designation as qualified technical body for space activities.
 
@@ -1617,9 +1560,7 @@ Process for becoming a qualified technical body for space activities
 9. A qualified technical body for space activities shall update the documentation referred to in paragraphs 5, 6 and 7, whenever relevant changes occur, to enable the notifying authority to monitor the continuous compliance of that qualified technical body for space activities with the requirements laid down in Article 35.
 
 <a id="art-35"></a>
-### Article 35
-
-Requirements for qualified technical bodies for space activities
+### Article 35 – Requirements for qualified technical bodies for space activities
 
 1. Qualified technical bodies for space activities shall meet the requirements laid down in point 1, of Annex IX.
 
@@ -1632,43 +1573,35 @@ Requirements for qualified technical bodies for space activities
     Qualified technical bodies for space activities shall keep at the disposal of the authority referred to in Article 32 all documents related to the assessment of the qualifications of the subcontractor and to the work carried out by that subcontractor.
 
 <a id="art-36"></a>
-### Article 36
-
-Identification numbers
+### Article 36 – Identification numbers
 
 The Commission shall assign an identification number to each qualified technical body for space activities and shall make publicly available the list of qualified technical bodies for space activities in the Union, their identification numbers and the matters covered by Title IV for which they have been notified.
 
 <a id="art-37"></a>
-### Article 37
-
-Changes to notification
+### Article 37 – Changes to notification
 
 1. The authority referred to in Article 32 shall restrict, suspend or withdraw, as appropriate, the notification of a qualified technical body for space activities which no longer meets the requirements laid down in Article 35 or fails to fulfil its obligations. That authority shall inform the Commission and the other Member States accordingly.
 
 2. In the event of a restriction, suspension or withdrawal of the notification, or where a qualified technical body for space activities established on the territory of a Member State has ceased its activity, that Member State shall take appropriate steps to transfer the files of that qualified technical body for space activities to another qualified technical body for space activities or, where this is not possible, to the Agency or the international organisation referred to in Article 8(1), point (b).
 
 <a id="art-38"></a>
-### Article 38
-
-Appeal against decisions of qualified technical bodies for space activities
+### Article 38 – Appeal against decisions of qualified technical bodies for space activities
 
 Member States shall ensure that decisions of qualified technical bodies for space activities can be appealed.
 
 <a id="art-39"></a>
-### Article 39
-
-Coordination of qualified technical bodies for space activities
+### Article 39 – Coordination of qualified technical bodies for space activities
 
 The Commission shall enable appropriate coordination of qualified technical bodies for space activities bodies across the Union, including by setting-up sectoral groups of qualified technical bodies for space activities.
 
-## Chapter II GOVERNANCE AT UNION LEVEL
+<a id="title-iii-chapter-ii"></a>
+## Chapter II – GOVERNANCE AT UNION LEVEL
 
-### Section 1 TASKS AND STRUCTURES OF THE AGENCY
+<a id="title-iii-chapter-ii-section-1"></a>
+## Section 1 – TASKS AND STRUCTURES OF THE AGENCY
 
 <a id="art-40"></a>
-### Article 40
-
-Tasks of the Agency
+### Article 40 – Tasks of the Agency
 
 1. The Agency shall have the following tasks in relation to the requirements laid down in Titles II to VI of this Regulation:
 
@@ -1713,9 +1646,7 @@ Tasks of the Agency
 3. Before issuing a new guideline or recommendation, the Agency shall review existing guidelines and recommendations to avoid duplication.
 
 <a id="art-41"></a>
-### Article 41
-
-Agency fees
+### Article 41 – Agency fees
 
 1. The Agency shall, in accordance with the delegated act referred to in paragraph 3, charge Union space operators, third country space operators and international organisations fees to fully cover the necessary expenditure incurred by the Agency in carrying out tasks pursuant to this Regulation, including the reimbursement of costs incurred as a result of the work of the joint examination teams referred to in Article 44(2), first subparagraph, or the costs of the advice provided by independent experts.
 
@@ -1724,16 +1655,12 @@ Agency fees
 3. The Commission is empowered to adopt delegated acts in accordance with Article 113 to supplement this Regulation by determining the amount of fees and the way in which they are to be paid.
 
 <a id="art-42"></a>
-### Article 42
-
-Agency structures
+### Article 42 – Agency structures
 
 For the purposes of the tasks referred to in Article 43 a Compliance Board and a Board of Appeal are hereby established within the Agency.
 
 <a id="art-43"></a>
-### Article 43
-
-Tasks of the Compliance Board
+### Article 43 – Tasks of the Compliance Board
 
 1. The Compliance Board shall be responsible for:
 
@@ -1772,9 +1699,7 @@ Tasks of the Compliance Board
     - (ii) for technical assessment decisions regarding the space services providers referred to in paragraph 1, points (b) and (c), compliance shall be established by in accordance with Article 44(1).
 
 <a id="art-44"></a>
-### Article 44
-
-Technical configurations of the Compliance Board
+### Article 44 – Technical configurations of the Compliance Board
 
 1. The Compliance Board shall work in three technical board configurations, as follows:
 
@@ -1793,9 +1718,7 @@ Technical configurations of the Compliance Board
 3. The Commission is empowered to adopt delegated acts, in accordance with Article 113, to supplement this Regulation, by specifying the criteria for the composition and the expertise of staff composing the joint examination teams to the Technical Boards, to ensure balanced participation of staff from the competent authorities and the qualified technical bodies for space activities, as well as to specify the details for their designation, tasks and working arrangements.
 
 <a id="art-45"></a>
-### Article 45
-
-Composition of the Compliance Board and voting rules
+### Article 45 – Composition of the Compliance Board and voting rules
 
 1. The Compliance Board shall be composed of one representative of each Member State and one representative of the Commission.
 
@@ -1816,9 +1739,7 @@ Composition of the Compliance Board and voting rules
     The Chair of the Compliance Board shall sign, on behalf of the Registration Board, the decisions adopted by the latter.
 
 <a id="art-46"></a>
-### Article 46
-
-Board of Appeal
+### Article 46 – Board of Appeal
 
 1. A Board of Appeal is established. The Board of Appeal shall be responsible for deciding on appeals against decisions of the Agency.
 
@@ -1837,9 +1758,7 @@ Board of Appeal
 7. The Agency shall ensure adequate operational and secretarial support for the Board of Appeal.
 
 <a id="art-47"></a>
-### Article 47
-
-Appeal
+### Article 47 – Appeal
 
 1. An appeal may be brought against a decision of the Agency taken pursuant to Title II, Chapters II, III and IV, to Article 43(2), to Articles 49 to 52, and to Title IV, as well as against any other decision of the Agency addressed to a natural or legal person or which, although in the form of a decision addressed to another person, is of direct and individual concern to that person.
 
@@ -1855,12 +1774,11 @@ Appeal
 
 6. Actions for the annulment of a decision issued by the Agency pursuant to this Regulation and actions for failure to act within the applicable time limits may be brought before the Court of Justice only after the exhaustion of the appeal procedure referred to above.
 
-### Section 2 POWERS OF THE COMMISSION AND THE AGENCY REGARDING UNION SPACE OPERATORS OF UNION-OWNED ASSETS AND THIRD COUNTRY SPACE SERVICES PROVIDERS
+<a id="title-iii-chapter-ii-section-2"></a>
+## Section 2 – POWERS OF THE COMMISSION AND THE AGENCY REGARDING UNION SPACE OPERATORS OF UNION-OWNED ASSETS AND THIRD COUNTRY SPACE SERVICES PROVIDERS
 
 <a id="art-48"></a>
-### Article 48
-
-Scope and exercise of powers by the Agency and the Commission
+### Article 48 – Scope and exercise of powers by the Agency and the Commission
 
 1. The Commission, supported and assisted by the Agency, shall exercise the supervision of the following space services providers regarding compliance with the requirements laid down in this Regulation, in the manner specified in this section, as follows:
 
@@ -1893,9 +1811,7 @@ Scope and exercise of powers by the Agency and the Commission
   - (e) the regular transmission of updates regarding regulatory or supervisory developments in the third country concerned.
 
 <a id="art-49"></a>
-### Article 49
-
-Request for information
+### Article 49 – Request for information
 
 1. The Commission and the Agency may require by decision that space services providers referred to in Article 48(1), points (a), (b) and (c), provide any information necessary for the Commission and the Agency to carry out their tasks under this Regulation, including any relevant business documents, audit or incident reports, or information on outsourced activities.
 
@@ -1904,9 +1820,7 @@ Request for information
 3. The space services providers referred to in Article 48(1), points (a), (b) and (c), shall supply the information requested.
 
 <a id="art-50"></a>
-### Article 50
-
-Power of investigations
+### Article 50 – Power of investigations
 
 1. The Commission and the Agency shall conduct investigations at the space services providers referred to in Article 48(1), points (a), (b) and (c), respectively.
 
@@ -1933,9 +1847,7 @@ Power of investigations
 6. The officers of the competent authority concerned shall, at the request of the Commission and the Agency, assist the authorised officers of the Commission and the Agency and other authorised persons, in carrying out their duties. Upon request, the officers of the competent authority concerned may attend the respective investigation.
 
 <a id="art-51"></a>
-### Article 51
-
-On-site inspections in the Union
+### Article 51 – On-site inspections in the Union
 
 1. The Commission and the Agency may carry out all necessary on-site inspections at any of the business premises, land or property of the Union space operators of Union owned-assets, as well any of the business premises, land or property of the space services providers referred to in Article 48(1), points (b) and (c), located in the Union.
 
@@ -1958,9 +1870,7 @@ On-site inspections in the Union
 7. The Commission and the Agency may require the competent authorities to carry out specific investigatory tasks and on-site inspections, as provided for in this Article and in Article 50, on their behalf. To that end, the competent authorities shall enjoy at least the same powers as those set out in this Article and in Article 50.
 
 <a id="art-52"></a>
-### Article 52
-
-On-site inspections outside the Union
+### Article 52 – On-site inspections outside the Union
 
 1. Where the Commission and the Agency cannot fulfil their tasks set out in this Regulation by means of interaction with the legal representatives referred to in Article 23 of the space services providers referred to in Article 48(1), point (b), the Commission and the Agency may carry out on-site inspections at the business premises, land or property of space services providers referred to in Article 48(1), point (b), which are located outside the Union, if all the following conditions are met:
 
@@ -1977,18 +1887,14 @@ On-site inspections outside the Union
   - (c) Article 51(3).
 
 <a id="art-53"></a>
-### Article 53
-
-Procedure for investigation by the Agency
+### Article 53 – Procedure for investigation by the Agency
 
 1. Where the Agency has serious indications of infringements to the technical requirements laid down in Title IV, the Agency shall open an investigation.
 
 2. Officers conducting the investigation shall have the power to request information, in accordance with Article 49, to carry out investigations, and respectively, on-site inspections, in accordance with Articles 50 and 51.
 
 <a id="art-54"></a>
-### Article 54
-
-Measures following an investigation by the Agency
+### Article 54 – Measures following an investigation by the Agency
 
 1. When, based on the investigation referred to in Article 53(2), the Agency finds on a preliminary basis that a Union space operator of Union-owned assets or respectively a space services provider referred to in Article 48(1), points (b) and (c), has committed an infringement of the requirements laid down by this Regulation, as specified in Annex X, the Agency shall make a proposal to the Commission to establish the existence an infringement of this Regulation and to adopt one or more of the measures referred to in Article 55(1), first subparagraph, as regards the concerned Union space operator of Union-owned assets or space services provider referred to in Article 48(1), points (b) and (c).
 
@@ -2019,9 +1925,7 @@ Measures following an investigation by the Agency
 3. When the result of an investigation under this section does not allow the Agency to conclude on the existence of an infringement to this Regulation, the Agency shall adopt a decision closing the investigation. It shall without delay inform the Commission.
 
 <a id="art-55"></a>
-### Article 55
-
-Supervisory measures of the Commission
+### Article 55 – Supervisory measures of the Commission
 
 1. Upon receipt of the proposal of the Agency referred to in Article 54(1), first subparagraph, the Commission may take one or more of the following actions:
 
@@ -2038,9 +1942,7 @@ Supervisory measures of the Commission
 2. When taking the actions referred to in paragraph 1, the Commission shall consider the nature and seriousness of the infringement, having regard to the criteria referred to in Article 54(2).
 
 <a id="art-56"></a>
-### Article 56
-
-Fines and periodic penalty payments
+### Article 56 – Fines and periodic penalty payments
 
 1. Where the Agency proposes, pursuant to Article 54(1), first subparagraph, in respect to a Union space operator of Union owned-assets or a space services provider referred to in Article 48(1), points (b) and (c), that the Commission imposes a fine or a periodic penalty payment, for an infringement of this Regulation, the Commission may impose within the decision finding an infringement a fine or a periodic penalty payment, in accordance with paragraphs 2, 3, 4, 5, 6 and 7.
 
@@ -2069,9 +1971,7 @@ Fines and periodic penalty payments
 10. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions imposing fines or periodic penalty payments. It may annul, reduce or increase the amount of a fine or periodic penalty payment imposed.
 
 <a id="art-57"></a>
-### Article 57
-
-Right to be heard of the persons subject to investigations
+### Article 57 – Right to be heard of the persons subject to investigations
 
 1. The Commission, before taking a decision pursuant to Articles 55 and 56, shall give Union space operators of Union-owned assets and space services providers referred to Article 48(1), points (b) and (c), which are subject to the proceedings, the opportunity to be heard on the findings and grounds on which the Commission intends to adopt a decision.
 
@@ -2081,23 +1981,22 @@ Right to be heard of the persons subject to investigations
 
     The right of access to the file shall not extend to confidential information or to internal preparatory documents of the Agency or of the Commission.
 
-## Title IV TECHNICAL RULES
+<a id="title-iv"></a>
+## Title IV – TECHNICAL RULES
 
-## Chapter I SAFETY AND SUSTAINABILITY IN SPACE
+<a id="title-iv-chapter-i"></a>
+## Chapter I – SAFETY AND SUSTAINABILITY IN SPACE
 
-### Section 1 LAUNCHERS
+<a id="title-iv-chapter-i-section-1"></a>
+## Section 1 – LAUNCHERS
 
 <a id="art-58"></a>
-### Article 58
-
-Launch Safety Plan
+### Article 58 – Launch Safety Plan
 
 The Union launch operator shall submit to the competent authority a Launch Safety Plan in accordance with point 3, of Annex I.
 
 <a id="art-59"></a>
-### Article 59
-
-Safety and coordination measures during launch and re-entry
+### Article 59 – Safety and coordination measures during launch and re-entry
 
 1. Union launch operators shall take appropriate measures to mitigate the risk of collision between the launcher and aircraft, maritime vessels or spacecraft, and debris in orbit, during the launch and re-entry phases.
 
@@ -2134,9 +2033,7 @@ Safety and coordination measures during launch and re-entry
       Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
 <a id="art-60"></a>
-### Article 60
-
-Flight safety system
+### Article 60 – Flight safety system
 
 1. Launch vehicles shall either incorporate tracking devices or establish means of tracking that enable real-time monitoring of the launch vehicle position and of velocity.
 
@@ -2147,9 +2044,7 @@ Flight safety system
 4. Union launch operators shall add an on-board system for the neutralisation of the launcher, in accordance with point 2.2, of Annex I.
 
 <a id="art-61"></a>
-### Article 61
-
-Space debris mitigation for launchers
+### Article 61 – Space debris mitigation for launchers
 
 1. Union launch operators shall limit debris creation through the implementation of the following measures:
 
@@ -2181,12 +2076,11 @@ Space debris mitigation for launchers
 
       Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
-### Section 2 SPACECRAFT
+<a id="title-iv-chapter-i-section-2"></a>
+## Section 2 – SPACECRAFT
 
 <a id="art-62"></a>
-### Article 62
-
-Special regime for research and education spacecraft
+### Article 62 – Special regime for research and education spacecraft
 
 1. Union spacecraft operators of research and education missions, are exempted from the requirements laid down in:
 
@@ -2215,9 +2109,7 @@ Special regime for research and education spacecraft
 2. The exceptions referred to in paragraph 1 shall be assessed on a case-by-case basis, by taking into consideration the size and the weight of the spacecraft, and the duration and orbit of the mission.
 
 <a id="art-63"></a>
-### Article 63
-
-Trackability
+### Article 63 – Trackability
 
 1. Union spacecraft operators shall ensure that a spacecraft possesses the technical means to allow trackability and precise determination of the orbital position, in accordance with point 1, of Annex III.
 
@@ -2226,9 +2118,7 @@ Trackability
 2. The Commission shall, by means of implementing acts, specify the level of precision required for the trackability of spacecraft, as referred to in point 1.1, of Annex III. That implementing act shall be adopted accordance with the examination procedure referred to in Article 114(2).
 
 <a id="art-64"></a>
-### Article 64
-
-Collision Avoidance (CA)
+### Article 64 – Collision Avoidance (CA)
 
 1. Union spacecraft operators shall subscribe to the CA space services provided by the collision avoidance space services provider in charge of the Space Surveillance and Tracking (SST) sub-component referred to in Article 58(2) of Regulation (EU) 2021/696 (‘Union CA space services provider’).
 
@@ -2247,18 +2137,14 @@ Collision Avoidance (CA)
 5. Upon receipt of a high interest event alert, Union spacecraft operators shall inform without delay the Union CA space services provider of all actions taken to avoid the collision, in accordance with point 2, of Annex IV.
 
 <a id="art-65"></a>
-### Article 65
-
-Re-entry services
+### Article 65 – Re-entry services
 
 1. Union spacecraft operators shall send the necessary data and information, such as positioning, state of the spacecraft, possibility to communicate, to enable a more accurate re-entry service to the Union CA space services provider referred to in Article 64(1), without prejudice to the transmission to the entity in charge of re-entry service in the Space Surveillance and Tracking (SST) sub-component referred to in Article 58(2) of Regulation (EU) 2021/696.
 
 2. The entity in charge of re-entry service referred to in paragraph 1 shall ensure the necessary coordination with the relevant authorities and air traffic services providers to minimise the impact of the re-entry on other traffic services.
 
 <a id="art-66"></a>
-### Article 66
-
-Spacecraft manoeuvrability
+### Article 66 – Spacecraft manoeuvrability
 
 1. Union spacecraft operators shall ensure that a spacecraft is designed, produced, and operated in a way that allows the spacecraft to have and enable manoeuvrability capabilities for orbits with an apogee above 400 km.
 
@@ -2271,9 +2157,7 @@ Spacecraft manoeuvrability
       The ground segment shall be capable of receiving orbital forecasts and process data in accordance with point 2, of Annex III.
 
 <a id="art-67"></a>
-### Article 67
-
-Contact list database for high interest event alerts
+### Article 67 – Contact list database for high interest event alerts
 
 1. The Agency shall set up and manage a Union contact list database for high interest event alerts (‘contact list database’).
 
@@ -2282,9 +2166,7 @@ Contact list database for high interest event alerts
 3. The Agency shall share the contact list database with the Union collision avoidance space services provider referred to in Article 64(1).
 
 <a id="art-68"></a>
-### Article 68
-
-Orbital traffic rules
+### Article 68 – Orbital traffic rules
 
 1. Union spacecraft operators shall comply with the orbital traffic and coordination requirements laid down in point 2, of Annex IV.
 
@@ -2293,9 +2175,7 @@ Orbital traffic rules
     Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
 <a id="art-69"></a>
-### Article 69
-
-Positioning in orbit
+### Article 69 – Positioning in orbit
 
 1. Before launch, Union spacecraft operators shall analyse the choice of orbit and shall give reasons for that choice.
 
@@ -2310,9 +2190,7 @@ Positioning in orbit
       Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
 <a id="art-70"></a>
-### Article 70
-
-Space debris mitigation
+### Article 70 – Space debris mitigation
 
 1. Union spacecraft operators shall take the following measures:
 
@@ -2365,9 +2243,7 @@ Space debris mitigation
 4. The Commission is empowered to adopt delegated acts in accordance with Article 113 to amend the order of preference laid down in point 3.3, of Annex V, in order to reflect and adapt such order to the technological progress as regards ISOS.
 
 <a id="art-71"></a>
-### Article 71
-
-Mission extension
+### Article 71 – Mission extension
 
 1. Where a Union spacecraft operator wishes to extend a space mission, that Union spacecraft operator shall submit to the competent authority a request to extend a space mission, at the latest 3 months before the planned end of the concerned space mission.
 
@@ -2376,9 +2252,7 @@ Mission extension
 3. Competent authority shall approve the request for the extension of the space mission if the spacecraft still meets the requirements laid down in Annex V.
 
 <a id="art-72"></a>
-### Article 72
-
-Light and radio pollution
+### Article 72 – Light and radio pollution
 
 1. Union spacecraft operators shall establish a plan containing measures that are adequate to limit light and radio pollution in accordance with paragraph 2.
 
@@ -2391,9 +2265,7 @@ Light and radio pollution
   - (b) a description of the technical and operational measures implemented by the Union spacecraft operator to limit disruptions for radio astronomy observatories and to minimise the impact of satellites on astronomical observations.
 
 <a id="art-73"></a>
-### Article 73
-
-Constellations
+### Article 73 – Constellations
 
 1. Union spacecraft operators of a constellation, a mega-constellation or a giga-constellation shall:
 
@@ -2438,20 +2310,18 @@ Constellations
       Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
 <a id="art-74"></a>
-### Article 74
-
-Applicability of product requirements
+### Article 74 – Applicability of product requirements
 
 In their contracts concluded with supplier manufacturers, Union space operators shall ensure the conformity of contracted space objects or, as applicable, conformity of components, with the design and the manufacturing requirements as laid down in this Chapter.
 
-## Chapter II RESILIENCE OF SPACE INFRASTRUCTURE
+<a id="title-iv-chapter-ii"></a>
+## Chapter II – RESILIENCE OF SPACE INFRASTRUCTURE
 
-### Section 1 GENERAL PROVISIONS
+<a id="title-iv-chapter-ii-section-1"></a>
+## Section 1 – GENERAL PROVISIONS
 
 <a id="art-75"></a>
-### Article 75
-
-Relationship with NIS 2 and CER Directives
+### Article 75 – Relationship with NIS 2 and CER Directives
 
 1. In relation to Union space operators qualifying as essential or important entities pursuant to Article 3 of Directive (EU) 2022/2555 with regard to space activities and space services covered by this Regulation, this Regulation shall be considered, as regards Article 21 of Directive (EU) 2022/2555, related to cybersecurity risk-management measures, a sector-specific Union legal act, for the purposes of Article 4 of that Directive.
 
@@ -2463,12 +2333,11 @@ Relationship with NIS 2 and CER Directives
 
   - (b) whenever necessary for the purposes of ensuring consistency in the application of this Regulation and Directive (EU) 2022/2557, and of sharing information, including for the purposes referred to in Articles 11, 15, 18 and 21 of that Directive.
 
-### Section 2 RISK MANAGEMENT
+<a id="title-iv-chapter-ii-section-2"></a>
+## Section 2 – RISK MANAGEMENT
 
 <a id="art-76"></a>
-### Article 76
-
-Risk management through the lifecycle of space missions
+### Article 76 – Risk management through the lifecycle of space missions
 
 1. Union space operators shall take all the necessary measures to manage the risks posed to the security of network and information systems and the security of the physical infrastructure and environment, in accordance with the principle of proportionality, taking into account their risk profile and size, as well as the nature, scale and complexity of their space activities.
 
@@ -2521,18 +2390,14 @@ Risk management through the lifecycle of space missions
 6. Union space operators shall establish, implement and apply a policy and procedures to assess whether the cybersecurity risk-management measures taken are effectively implemented and maintained.
 
 <a id="art-77"></a>
-### Article 77
-
-Organisational aspects
+### Article 77 – Organisational aspects
 
 1. The management body of a Union space operator shall oversee, be responsible and held liable for, the implementation of the risk management measures taken to ensure compliance with the requirements laid down in this Chapter.
 
 2. Union space operators shall set up, revise and monitor internal mechanisms regarding the human resources security policy, to ensure that all personnel, understand and commit to security responsibilities, in line with roles and responsibilities. Union space operators shall set up human resources polices to ensure throughout the hiring and disciplinary processes any needed vetting and checks.
 
 <a id="art-78"></a>
-### Article 78
-
-Risk assessments
+### Article 78 – Risk assessments
 
 1. Throughout the life cycle of space missions, Union space operators, shall:
 
@@ -2565,9 +2430,7 @@ Risk assessments
   - (f) develop risk treatment measures to be applied by the Union space operators.
 
 <a id="art-79"></a>
-### Article 79
-
-Simplified risk management
+### Article 79 – Simplified risk management
 
 1. Entities subject to the simplified risk management referred to in Article 10(3) shall apply the measures laid down in point 9, of Annex VII, only in relation to critical assets and critical functions, needed to address the risks of:
 
@@ -2584,9 +2447,7 @@ Simplified risk management
 4. To allow the provisions of this Regulation to be adapted to scientific and technical progress, based on the best available techniques, the Commission is empowered to adopt delegated acts in accordance with Article 113 to amend the requirements laid down in point 9, of Annex VII.
 
 <a id="art-80"></a>
-### Article 80
-
-Identification and management of information and assets of space infrastructure
+### Article 80 – Identification and management of information and assets of space infrastructure
 
 1. Union space operators shall establish, maintain and update comprehensive policies for the categorization and management of information and assets of space infrastructure.
 
@@ -2603,9 +2464,7 @@ Identification and management of information and assets of space infrastructure
     The inventories referred to in first subparagraph shall be drawn-up by individual space mission, indicating the origin and the current physical location of assets, including the identification of a cloud-based service, when relevant. Inventories shall be up to date.
 
 <a id="art-81"></a>
-### Article 81
-
-Management and control of access rights
+### Article 81 – Management and control of access rights
 
 1. Union space operators shall implement the management and control of access rights through identity and access management protocols.
 
@@ -2628,9 +2487,7 @@ Management and control of access rights
 6. The identity and access management protocols referred to in paragraph 1 shall ensure adequate protection of information and assets identified in accordance with Article 80(2) from risks, including from damage, misuse or unauthorised access or usage.
 
 <a id="art-82"></a>
-### Article 82
-
-Physical resilience
+### Article 82 – Physical resilience
 
 1. Union space operators shall take the measures laid down in point 3, of Annex VII, and any other measures that are necessary and adequate to ensure the resilience of the physical assets and which are at least equivalent to the technical, security and organisational measures referred to in Article 13 of Directive (EU) 2022/2557 to ensure the resilience of the ground segments.
 
@@ -2641,9 +2498,7 @@ Physical resilience
 4. The Commission is empowered to adopt delegated acts in accordance with Article 113, to amend the requirements laid down in point 3, of Annex VII, to adapt them to the scientific and technical progress, based on the best available techniques.
 
 <a id="art-83"></a>
-### Article 83
-
-Detection and monitoring of incidents
+### Article 83 – Detection and monitoring of incidents
 
 1. Union space operators shall monitor on a continuous basis the occurrence of anomalies and incidents by using appropriate detection systems and mechanisms.
 
@@ -2656,9 +2511,7 @@ Detection and monitoring of incidents
 5. The Commission is empowered to adopt delegated acts in accordance with Article 113, to amend the list of requirements laid down in point 4, of Annex VII, to adapt them to the scientific and technical progress, based on the best available techniques.
 
 <a id="art-84"></a>
-### Article 84
-
-Prevention and protection
+### Article 84 – Prevention and protection
 
 1. Union space operators shall tailor the measures concerning the cybersecurity of the spacecraft and the ground segment adopted in accordance with this Chapter to the specific needs of the space mission and shall adequately cover the risks identified in the security risk assessment referred to in Article 78(2).
 
@@ -2679,9 +2532,7 @@ Prevention and protection
 5. The Commission is empowered to adopt delegated acts in accordance with Article 113 to amend the requirements laid down in point 5, of Annex VII, to adapt them to the scientific and technical progress, based on the best available techniques.
 
 <a id="art-85"></a>
-### Article 85
-
-Cryptography and encryption
+### Article 85 – Cryptography and encryption
 
 1. Based on the risk assessment referred to in Article 78(2), Union space operators, and respectively entities applying a simplified risk management, as regards the critical assets and critical functions referred to in Article 79(1), first subparagraph, shall comply with the following:
 
@@ -2704,9 +2555,7 @@ Cryptography and encryption
 4. The Commission is empowered, in accordance with Article 113, to adopt delegated acts to further supplement the use by Union space operators of cryptographic products and related key management products or services certified under the European cybersecurity certification schemes adopted pursuant to Article 49 of Regulation (EU) 2019/881, to ensure the protection of the telemetry and telecommands.
 
 <a id="art-86"></a>
-### Article 86
-
-Backup management and redundancies
+### Article 86 – Backup management and redundancies
 
 1. Union space operators and respectively entities applying a simplified risk management, as regards the critical assets and critical functions referred to in Article 79(1), first subparagraph, shall ensure a sound and comprehensive backup management policy to enable the restoration of the network and information systems, and to facilitate, with minimum downtime and limited disruption or loss recovery, the recovery processes and the retrieval of data, upon the activation of the response and disaster recovery measures.
 
@@ -2727,9 +2576,7 @@ Backup management and redundancies
 4. The Commission is empowered to adopt delegated acts in accordance with Article 113, to specify further the requirements on backup needed to ensure adequate survivability of the space segment and to facilitate quick recovery from incidents in order to allow the provisions of this Regulation to be adapted to scientific and technical progress, based on the best available techniques.
 
 <a id="art-87"></a>
-### Article 87
-
-Business continuity policy and response and recovery plans
+### Article 87 – Business continuity policy and response and recovery plans
 
 1. As part of their risk management, Union space operators shall put in place and shall document incident and crisis management measures. The measures shall be structured into a business continuity policy which shall be implemented through tailored response and recovery plans.
 
@@ -2756,9 +2603,7 @@ Business continuity policy and response and recovery plans
 4. Union space operators shall ensure that staff involved in carrying out business continuity measures and implementing response and recovery plans have acquired full and adequate trainings needed to fulfil their roles.
 
 <a id="art-88"></a>
-### Article 88
-
-Testing
+### Article 88 – Testing
 
 1. Union space operators shall establish, maintain and review a testing programme for the network and information systems, as an integral part of their risk-management.
 
@@ -2783,9 +2628,7 @@ Testing
     Union space operators shall monitor system failures and anomalies observed during the testing processes and evaluate their criticality.
 
 <a id="art-89"></a>
-### Article 89
-
-Learning and training
+### Article 89 – Learning and training
 
 1. Union space operators shall provide their staff with appropriate training, in accordance with paragraphs 2, 3, 4, 5 and 6.
 
@@ -2800,9 +2643,7 @@ Learning and training
 6. Union space operators shall incorporate the lessons learned from the handling of incidents by updating business continuity plans, training sessions and staff testing programmes.
 
 <a id="art-90"></a>
-### Article 90
-
-Crisis communication and disclosure policy
+### Article 90 – Crisis communication and disclosure policy
 
 1. Union space operators shall put in place a crisis communication strategy which shall enable responsible disclosure of significant incidents and shall be targeted to, and tailored for, each of the following categories:
 
@@ -2817,9 +2658,7 @@ Crisis communication and disclosure policy
 2. At least one person in the corporate structure of Union space operators shall be responsible of the implementation of the communication strategy referred to in paragraph 1 and shall fulfil the function of media officer.
 
 <a id="art-91"></a>
-### Article 91
-
-Handling of incidents
+### Article 91 – Handling of incidents
 
 1. Union space operators shall establish and implement an incident management process that allows them to promptly detect, identify, handle and respond to incidents and to report significant incidents in accordance with Article 93.
 
@@ -2836,9 +2675,7 @@ Handling of incidents
 4. Union space operators shall address the root causes of incidents to prevent the occurrence of future incidents.
 
 <a id="art-92"></a>
-### Article 92
-
-Supply chain risk management
+### Article 92 – Supply chain risk management
 
 1. Union space operators shall establish a supply chain risk management framework. Their contracts with supplier manufacturers and service providers shall contain supply-chain security-related aspects in particular on information security requirements.
 
@@ -2848,12 +2685,11 @@ Supply chain risk management
 
 4. To allow the provisions of this Regulation to be adapted to scientific and technical progress, based on the best available techniques, the Commission is empowered to adopt delegated acts in accordance with Article 113, to amend the list of requirements laid down in point 6, of Annex VII.
 
-### Section 3 REPORTING OF INCIDENTS
+<a id="title-iv-chapter-ii-section-3"></a>
+## Section 3 – REPORTING OF INCIDENTS
 
 <a id="art-93"></a>
-### Article 93
-
-Reporting of significant incidents
+### Article 93 – Reporting of significant incidents
 
 1. Union space operators shall report to the structure referred to in Article 34(4) of Regulation (EU) 2021/696 significant incidents affecting the Union-owned assets.
 
@@ -2900,9 +2736,7 @@ Reporting of significant incidents
 8. The Commission is empowered to adopt implementing acts, in accordance with the examination procedure referred to in Article 114(2), to specify in further detail the content of the information to be reported pursuant to paragraph 7, and to lay down the templates and procedures for the reporting of that information.
 
 <a id="art-94"></a>
-### Article 94
-
-Union Space Resilience Network
+### Article 94 – Union Space Resilience Network
 
 1. The Union Space Resilience Network (‘EUSRN’) is established to support coordination and exchanges between the Agency and the competent authorities in fulfilling their respective mandates as regards Union-owned assets and respectively the assets referred to in Article 5, first paragraph, point (21).
 
@@ -2930,12 +2764,11 @@ Union Space Resilience Network
 
     In addition to the regular meetings referred to in first subparagraph, the EUSRN shall hold, every 18 months, a general session dedicated to the facilitation of strategic cooperation in the domain of space and the sharing of relevant updates and analyses. The Commission shall chair the general sessions.
 
-### Section 4 INFORMATION SHARING AND AWARENESS
+<a id="title-iv-chapter-ii-section-4"></a>
+## Section 4 – INFORMATION SHARING AND AWARENESS
 
 <a id="art-95"></a>
-### Article 95
-
-Information sharing on cyber threats
+### Article 95 – Information sharing on cyber threats
 
 1. Union space operators may, on a voluntary basis, exchange among themselves relevant information in the area of cybersecurity, including relevant information on cyber-attacks, cyber threats, electronic interferences such as jamming, spoofing, information on indicators of compromise, adversarial tactics, techniques and procedures, near misses, vulnerabilities, threat-actor-specific information, and share cybersecurity alerts and recommendations for the configuration of cybersecurity tools allowing detection of cyberattacks, to the extent that such information sharing:
 
@@ -2959,12 +2792,11 @@ Information sharing on cyber threats
 
 4. The Commission, shall, with the assistance of the Agency, facilitate the establishment of cybersecurity information-sharing arrangements referred to in paragraph 1, point (d), by supporting or promoting the activities of EU Space Information Sharing and Analysis Centre.
 
-## Chapter III ENVIRONMENTAL SUSTAINABILITY OF SPACE ACTIVITIES
+<a id="title-iv-chapter-iii"></a>
+## Chapter III – ENVIRONMENTAL SUSTAINABILITY OF SPACE ACTIVITIES
 
 <a id="art-96"></a>
-### Article 96
-
-Environmental footprint of space activities
+### Article 96 – Environmental footprint of space activities
 
 1. Sustainability shall cover sustainability in space and sustainability on Earth (environmental sustainability).
 
@@ -3005,9 +2837,7 @@ Environmental footprint of space activities
   - (b) research and education institutions.
 
 <a id="art-97"></a>
-### Article 97
-
-EF calculation and verification of the space activities
+### Article 97 – EF calculation and verification of the space activities
 
 1. The EF of space activities shall cover the space missions carried out in any of the Earth orbits including graveyard orbits.
 
@@ -3018,18 +2848,14 @@ EF calculation and verification of the space activities
 4. The Commission is empowered to adopt implementing acts, in accordance with the examination procedure referred to in Article 114(2), to specify the method of calculation and verification of the EF of space activities, by taking into account scientifically sound assessment methods and the relevant international standards aligned with the Commission Recommendation (EU) 2021/2279^(32)^(18). Those implementing acts shall be reviewed to take into account scientific and technological developments and adapt to technological progress.
 
 <a id="art-98"></a>
-### Article 98
-
-EF certificate
+### Article 98 – EF certificate
 
 1. When applying for authorisation, pursuant to Article 7(1), an applicant shall be in possession of a certificate attesting that the EF of their foreseen space activities has been calculated in accordance with the requirements laid down in Article 96(2).
 
 2. The certificate referred to in paragraph 1 shall be delivered by a qualified technical body for space activities carrying technical assessment, including verification and validation, for the purposes of Articles 96, 97, 98, 99 and 100.
 
 <a id="art-99"></a>
-### Article 99
-
-Transmission of datasets to the Union EF-related database
+### Article 99 – Transmission of datasets to the Union EF-related database
 
 1. Before applying for authorisation, in accordance with Article 7(1), applicants shall transmit the aggregated and disaggregated datasets referred to in Article 96(6), point (c), to the Commission.
 
@@ -3044,9 +2870,7 @@ Transmission of datasets to the Union EF-related database
 4. The aggregated datasets referred to in paragraph 1 shall be made publicly available by the Commission through the Union EF-related database.
 
 <a id="art-100"></a>
-### Article 100
-
-Use of disaggregated datasets informing policy making
+### Article 100 – Use of disaggregated datasets informing policy making
 
 1. The Commission shall make use of the disaggregated datasets referred to in Article 99, exclusively for the purposes of informing policymaking activities, of providing regulatory updates, and for the creation of derived datasets.
 
@@ -3054,12 +2878,11 @@ Use of disaggregated datasets informing policy making
 
 3. The Union shall acquire exclusive worldwide ownership of intellectual property rights related to the derived datasets which have been created on the basis of the disaggregated datasets referred to in paragraph 1.
 
-## Chapter IV IN-SPACE OPERATIONS AND SERVICES (ISOS)
+<a id="title-iv-chapter-iv"></a>
+## Chapter IV – IN-SPACE OPERATIONS AND SERVICES (ISOS)
 
 <a id="art-101"></a>
-### Article 101
-
-ISOS
+### Article 101 – ISOS
 
 1. Union space operators carrying out ISOS shall comply with the requirements laid down in this Article and Annex VIII from 1 January 2034.
 
@@ -3081,12 +2904,11 @@ ISOS
 
       Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
-## Chapter V ORBITAL TRAFFIC RULES
+<a id="title-iv-chapter-v"></a>
+## Chapter V – ORBITAL TRAFFIC RULES
 
 <a id="art-102"></a>
-### Article 102
-
-Supervisory reviews and updates from the collision avoidance entity
+### Article 102 – Supervisory reviews and updates from the collision avoidance entity
 
 1. A competent authority may request the Union collision avoidance space services provider referred to in Article 64(1) to provide it with up-to-date information about its spacecraft, in the context of the annual reporting or of specific investigations carried out on Union spacecraft operators.
 
@@ -3099,9 +2921,7 @@ Supervisory reviews and updates from the collision avoidance entity
   - (c) the Union spacecraft operator complies with the requirements laid down in Article 64(1), (2), (3) and (4), and, as applicable, in Article 101(3).
 
 <a id="art-103"></a>
-### Article 103
-
-Conditions for collision avoidance manoeuvres in case of HIE
+### Article 103 – Conditions for collision avoidance manoeuvres in case of HIE
 
 1. When the CA entity referred to in Article 64(1), publishes a High Interest Event Alert between two manoeuvrable spacecraft and decides that one of the two concerned spacecraft have to perform a Collision Avoidance Manoeuvre (CAM), their proposed CAM shall be based on the following principles:
 
@@ -3141,12 +2961,11 @@ Conditions for collision avoidance manoeuvres in case of HIE
 
 6. Where the contacts referred to in paragraph 4 are unsuccessful or if, after a reasonable period of time, contacts cannot be initiated, the CA entity referred to in Article 64(1) shall recommend to the Union spacecraft operator a strategy for action that ensures at least the respect of the principles outlined in paragraph 1 and shall inform the other Union spacecraft operator about the intended action.
 
-## Chapter VI STANDARDISATION AND COMMON SPECIFICATIONS
+<a id="title-iv-chapter-vi"></a>
+## Chapter VI – STANDARDISATION AND COMMON SPECIFICATIONS
 
 <a id="art-104"></a>
-### Article 104
-
-Standards
+### Article 104 – Standards
 
 1. The Commission shall, in accordance with Article 10(1) of Regulation (EU) No 1025/2012 , request one or more European standardisation organisations to draft standards in relation to the following essential requirements:
 
@@ -3168,12 +2987,11 @@ Standards
 
     Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 114(3).
 
-## Title V EQUIVALENCE DECISIONS, INTERNATIONAL AGREEMENTS AND REGIMES FOR INTERNATIONAL ORGANISATIONS
+<a id="title-v"></a>
+## Title V – EQUIVALENCE DECISIONS, INTERNATIONAL AGREEMENTS AND REGIMES FOR INTERNATIONAL ORGANISATIONS
 
 <a id="art-105"></a>
-### Article 105
-
-Equivalence
+### Article 105 – Equivalence
 
 1. The Commission may adopt, on the basis of a detailed assessment, an equivalence decision, by means of implementing acts, in accordance with Article 114(2), stating that the legal and supervisory framework of a third country ensures that the third country space operators established in that third country comply with legally binding requirements that are equivalent to the requirements laid down in this Regulation and are subject to an effective supervision and enforcement in that third country.
 
@@ -3206,9 +3024,7 @@ Equivalence
     Where the legal and supervisory framework of a third country ceases to be equivalent, the Commission shall repeal the equivalence decision concerned.
 
 <a id="art-106"></a>
-### Article 106
-
-International agreements with third countries
+### Article 106 – International agreements with third countries
 
 1. The Union may conclude agreements for cooperation with third countries on matters covered by this Regulation, in particular for:
 
@@ -3223,9 +3039,7 @@ International agreements with third countries
 2. The Agency may cooperate with the relevant supervisory authorities of third countries, other than those referred to in paragraph 1, point (b), and, subject to the approval of the Commission, may conclude Memorandums of Understanding and working arrangements with such authorities or with bodies of international organisations.
 
 <a id="art-107"></a>
-### Article 107
-
-Regimes applicable to international organisations
+### Article 107 – Regimes applicable to international organisations
 
 1. The Commission may, by means of contribution agreements, entrust an international organisation with the implementation of tasks for the operation of Union owned-assets.
 
@@ -3238,9 +3052,7 @@ Regimes applicable to international organisations
     The agreement referred to in the first subparagraph shall set out the conditions and the practical and operational arrangements to ensure the control of the application by that international organisation of the requirements laid down in Title IV, with due regard to its institutional framework.
 
 <a id="art-108"></a>
-### Article 108
-
-Relations with the European Space Agency
+### Article 108 – Relations with the European Space Agency
 
 1. The Union shall endeavour to conclude an agreement with the European Space Agency (ESA) to advance the objectives pursued by this Regulation and to strengthen the cooperation between the Union and ESA.
 
@@ -3258,14 +3070,14 @@ Relations with the European Space Agency
 
 4. Upon request by the Commission, ESA may attend as observer or member, any relevant advisory group of technical nature that may be established under this Regulation.
 
-## Title VI SUPPORTING MEASURES
+<a id="title-vi"></a>
+## Title VI – SUPPORTING MEASURES
 
-## Chapter I CAPACITY-BUILDING MEASURES
+<a id="title-vi-chapter-i"></a>
+## Chapter I – CAPACITY-BUILDING MEASURES
 
 <a id="art-109"></a>
-### Article 109
-
-Capacity building
+### Article 109 – Capacity building
 
 1. The Commission shall support space operators, competent authorities and qualified technical bodies for space activities in the implementation of this Regulation, by:
 
@@ -3300,9 +3112,7 @@ Capacity building
 4. The Commission shall facilitate access to the threat-led penetration testing referred to in Article 88(3), first subparagraph, by mapping the availability of such testing services in the Union and by developing framework contracts to ensure fast and affordable access, notably for SMEs and small mid-caps.
 
 <a id="art-110"></a>
-### Article 110
-
-Information portal
+### Article 110 – Information portal
 
 1. The Commission, with the support of the Agency, shall set-up and manage an Information Portal in support of this Regulation (‘Information Portal’).
 
@@ -3318,12 +3128,11 @@ Information portal
 
     The Commission shall ensure the interoperability of such helpdesk portals with the Information Portal.
 
-## Chapter II UNION SPACE LABEL FRAMEWORK
+<a id="title-vi-chapter-ii"></a>
+## Chapter II – UNION SPACE LABEL FRAMEWORK
 
 <a id="art-111"></a>
-### Article 111
-
-Union Space Labelling Schemes
+### Article 111 – Union Space Labelling Schemes
 
 1. The Commission shall develop a Union Space Label Framework to promote enhanced voluntary adherence to high standards of protection of space activities.
 
@@ -3362,9 +3171,7 @@ Union Space Labelling Schemes
 5. The Agency shall maintain a dedicated website providing updated information on, and publicising, the Union Space Labelling Schemes and the Union Space Labels.
 
 <a id="art-112"></a>
-### Article 112
-
-Award and use of a Union Space Label
+### Article 112 – Award and use of a Union Space Label
 
 1. Where a space operator intends to obtain a Union Space Label, that space operator shall submit to the Agency an application for Union Space Label accompanied by a detailed technical file demonstrating the fulfilment of the requirements established in the Union Labelling Scheme(s) for which the Union Space Label is sought.
 
@@ -3382,12 +3189,11 @@ Award and use of a Union Space Label
 
 7. Any false or misleading advertising or use of a Union Space Label or of a logo which leads to confusion with a Union Space Label shall be prohibited.
 
-## Title VII TRANSITIONAL AND FINAL PROVISIONS
+<a id="title-vii"></a>
+## Title VII – TRANSITIONAL AND FINAL PROVISIONS
 
 <a id="art-113"></a>
-### Article 113
-
-Exercise of the delegation
+### Article 113 – Exercise of the delegation
 
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
@@ -3406,9 +3212,7 @@ Exercise of the delegation
 7. A delegated act adopted pursuant to Article 41(3), Article 44(3),Article 56(9), first subparagraph, Article 70(4), Article 78(3), Article 79(4), Article 82(4), Article 83(5), Article 84(5), Article 85(4), Article 86(4), Article 92(4), Article 93(7), second subparagraph, Article 101(4), first subparagraph and Article 109(2), second subparagraph, shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
 
 <a id="art-114"></a>
-### Article 114
-
-Committee procedure
+### Article 114 – Committee procedure
 
 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 .
 
@@ -3431,9 +3235,7 @@ Committee procedure
 5. In accordance with the international agreements concluded by the Union, the representatives of third countries or international organisations may be invited as observers in the meetings of the Committee under the conditions laid down in its rules of procedure, taking into account the security of the Union.
 
 <a id="art-115"></a>
-### Article 115
-
-Professional secrecy
+### Article 115 – Professional secrecy
 
 1. Any confidential information received, exchanged or transmitted pursuant to this Regulation, by any person, body, or authority referred to in paragraph 2, shall be subject to the condition of professional secrecy, as laid down in paragraphs 2 and 3.
 
@@ -3444,9 +3246,7 @@ Professional secrecy
 4. All information exchanged pursuant to this Regulation between competent authorities which concerns business or operational conditions, and economic or personal affairs, shall be confidential and subject to the requirement of professional secrecy, except where a competent authority states, at the time of initiating the communication, that such information may be disclosed, or where such disclosure is necessary for the purpose of legal proceedings.
 
 <a id="art-116"></a>
-### Article 116
-
-Evaluation and review
+### Article 116 – Evaluation and review
 
 1. By 1 December 2035, and every five years thereafter, the Commission shall submit to the European Parliament and the Council a report on the evaluation of this Regulation, including an assessment of the environmental, economic and social impacts of space activities on other sectors, and shall submit, as appropriate, a report on its review, accompanied, where necessary, by a legislative proposal. The reports shall be made public.
 
@@ -3455,27 +3255,21 @@ Evaluation and review
 3. In carrying out the evaluation and review referred to in paragraph 1, the Commission shall take into account the opinions, positions and findings of the Agency, the European Parliament, the Council, the Member States and the competent authorities, as well as other relevant bodies and organisations or relevant sources.
 
 <a id="art-117"></a>
-### Article 117
-
-Reports to the Commission
+### Article 117 – Reports to the Commission
 
 By 1 December 2031 and every year after that date, Member States shall report to the Commission on the status of the implementation of this Regulation. The report shall include information on enforcement actions and updates on the space sector at national level, such as competitiveness aspects with impact on the functioning of the internal market and elements on public and private spending needs.
 
 In their first report Member States shall indicate to the Commission their preparatory actions and measures taken at national level including adaptations to ensure the smooth application of this Regulation.
 
 <a id="art-118"></a>
-### Article 118
-
-Transitional period
+### Article 118 – Transitional period
 
 1. For authorisations regarding assets planned to be launched after 1 January 2030 for which the critical design review phase ended on [JO: calculate 12 months from the date of entry into force of this Regulation] this Regulation shall only apply from 1 January 2032.
 
 2. Competent authorities, as regards Union space operators, and the Agency, as regards third country space operators, shall ascertain the end of the critical design review stage referred to in paragraph 1 at the moment when the space operators submit the proof obtained from the relevant entity entrusted by contract with the technical approval of the design of the spacecraft.
 
 <a id="art-119"></a>
-### Article 119
-
-Entry into force and application
+### Article 119 – Entry into force and application
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 

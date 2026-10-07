@@ -519,9 +519,11 @@ in Erwägung nachstehender Gründe:
 
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
-TITEL I ALLGEMEINE BESTIMMUNGEN
+<a id="title-i"></a>
+## Titel I – ALLGEMEINE BESTIMMUNGEN
 
-## Kapitel I Gegenstand und Begriffsbestimmungen
+<a id="title-i-chapter-i"></a>
+## Kapitel I – Gegenstand und Begriffsbestimmungen
 
 <a id="art-1"></a>
 ### Artikel 1 – Gegenstand
@@ -593,9 +595,11 @@ Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
 
 - 25. „Open-Source-Lizenz“ eine Open-Source-Lizenz im Sinne des Artikels 2 Nummer 12 der Verordnung (EU) 2024/903.
 
-TITEL II FORSCHUNGS-, ENTWICKLUNGS- UND EINFÜHRUNGSTÄTIGKEITEN FÜR DAS CLOUD- UND KI-ÖKOSYSTEM
+<a id="title-ii"></a>
+## Titel II – FORSCHUNGS-, ENTWICKLUNGS- UND EINFÜHRUNGSTÄTIGKEITEN FÜR DAS CLOUD- UND KI-ÖKOSYSTEM
 
-## Kapitel I Cloud- und KI-Führungsinitiativen
+<a id="title-ii-chapter-i"></a>
+## Kapitel I – Cloud- und KI-Führungsinitiativen
 
 <a id="art-3"></a>
 ### Artikel 3 – Allgemeines Ziel der Cloud- und KI-Führungsinitiativen
@@ -794,9 +798,11 @@ TITEL II FORSCHUNGS-, ENTWICKLUNGS- UND EINFÜHRUNGSTÄTIGKEITEN FÜR DAS CLOUD-
 
 - (3) Die Union und die Mitgliedstaaten bemühen sich, ausreichende Rechenressourcen für KI-Projekte für industrielle Innovationen, für physische KI und für den öffentlichen Sektor bereitzustellen.
 
-TITEL III RECHENZENTRUMSKAPAZITÄTEN
+<a id="title-iii"></a>
+## Titel III – RECHENZENTRUMSKAPAZITÄTEN
 
-## Kapitel I Beschleunigungsgebiete für Rechenzentren
+<a id="title-iii-chapter-i"></a>
+## Kapitel I – Beschleunigungsgebiete für Rechenzentren
 
 <a id="art-10"></a>
 ### Artikel 10 – Ausweisung von Beschleunigungsgebieten für Rechenzentren
@@ -872,9 +878,11 @@ TITEL III RECHENZENTRUMSKAPAZITÄTEN
 
 - (5) Die Mitgliedstaaten stellen sicher, dass Verwaltungsanträge in Bezug auf Planung, Bau und Betrieb von Rechenzentren, die in Beschleunigungsgebieten errichtet werden, effizient, transparent und zeitnah bearbeitet werden. Das Genehmigungsverfahren für Rechenzentrumsprojekte, die in Beschleunigungsgebieten für Rechenzentren durchgeführt werden, darf eine Dauer von zwölf Monaten ab dem Zeitpunkt des Vorliegens eines vollständigen Antrags nicht überschreiten. Die Frist lässt etwaige von den Mitgliedstaaten festgelegte kürzere Fristen unberührt. Sofern ein solcher Status im nationalen Recht vorgesehen ist, erhalten Rechenzentrumsprojekte den Status der höchsten nationalen Bedeutung und werden in Genehmigungsverfahren entsprechend behandelt. Dieser Absatz gilt nur, wenn ein solcher Status im nationalen Recht vorgesehen ist, und verpflichtet die Mitgliedstaaten nicht, einen solchen Status einzuführen.
 
-## Kapitel II Strategische Projekte
+<a id="title-iii-chapter-ii"></a>
+## Kapitel II – Strategische Projekte
 
-### Abschnitt 1 Benennung strategischer Rechenzentrumsprojekte
+<a id="title-iii-chapter-ii-section-1"></a>
+## Abschnitt 1 – Benennung strategischer Rechenzentrumsprojekte
 
 <a id="art-14"></a>
 ### Artikel 14 – Benennung strategischer Rechenzentrumsprojekte
@@ -897,7 +905,8 @@ TITEL III RECHENZENTRUMSKAPAZITÄTEN
 
 - (4) Stellt die Kommission fest, dass ein als strategisches Projekt benanntes Projekt die einschlägigen Kriterien nicht mehr erfüllt, oder dass seine Benennung auf einem Antrag beruhte, der unrichtige Angaben zur Einhaltung dieser Kriterien enthielt, so kann sie die Benennung dieses Projekts durch einen Beschluss widerrufen. Projekte, deren Benennung als strategisches Projekt widerrufen wurde, verlieren alle Rechte im Zusammenhang mit dem Status gemäß dieser Verordnung.
 
-## Kapitel III Überwachung
+<a id="title-iii-chapter-iii"></a>
+## Kapitel III – Überwachung
 
 <a id="art-15"></a>
 ### Artikel 15 – Überwachung der Kapazitätslücke
@@ -910,11 +919,14 @@ TITEL III RECHENZENTRUMSKAPAZITÄTEN
 
   - c) das Ausmaß der Kapazitätslücke und die unterversorgten Gebiete, die von der Kommission in Zusammenarbeit mit den Mitgliedstaaten bestimmt und anschließend als Beschleunigungsgebiete für den Aufbau von Rechenzentrumskapazitäten ausgewiesen werden könnten.
 
-TITEL IV AUTONOMIE
+<a id="title-iv"></a>
+## Titel IV – AUTONOMIE
 
-## Kapitel I Rahmen für Cloud-Computing-Souveränität
+<a id="title-iv-chapter-i"></a>
+## Kapitel I – Rahmen für Cloud-Computing-Souveränität
 
-### Abschnitt 1 Unionsvertrauenswürdigkeitsstufen
+<a id="title-iv-chapter-i-section-1"></a>
+## Abschnitt 1 – Unionsvertrauenswürdigkeitsstufen
 
 <a id="art-16"></a>
 ### Artikel 16 – Anwendungsbereich
@@ -987,7 +999,8 @@ TITEL IV AUTONOMIE
 
 - (3) Die Kommission veröffentlicht auf ihrer Website eine Liste der Drittländer, die die Anforderungen nach Absatz 1 erfüllen, und eine Liste der Drittländer, die dies nicht mehr tun.
 
-### Abschnitt 2 Konformitätsbewertungsverfahren
+<a id="title-iv-chapter-i-section-2"></a>
+## Abschnitt 2 – Konformitätsbewertungsverfahren
 
 <a id="art-19"></a>
 ### Artikel 19 – Selbstbewertung der Konformität
@@ -998,7 +1011,8 @@ TITEL IV AUTONOMIE
 
 - (3) Der Anbieter von Cloud-Computing-Diensten macht die EU-Konformitätserklärung öffentlich zugänglich.
 
-### Abschnitt 3 Prüfungen durch unabhängige Dritte
+<a id="title-iv-chapter-i-section-3"></a>
+## Abschnitt 3 – Prüfungen durch unabhängige Dritte
 
 <a id="art-20"></a>
 ### Artikel 20 – Unabhängige Prüfung
@@ -1103,7 +1117,8 @@ TITEL IV AUTONOMIE
 
 - (3) Nutzer von Cloud-Computing-Diensten haben das Recht, im Einklang mit dem Unionsrecht und nationalen Recht Schadenersatz von Anbietern von Cloud-Computing-Diensten für etwaige Schäden oder Verluste zu fordern, die aufgrund eines Verstoßes dieser Anbieter gegen die Verpflichtungen gemäß diesem Kapitel entstanden sind.
 
-### Abschnitt 4 Zuständige nationale Behörden
+<a id="title-iv-chapter-i-section-4"></a>
+## Abschnitt 4 – Zuständige nationale Behörden
 
 <a id="art-25"></a>
 ### Artikel 25 – Zuständige nationale Behörden
@@ -1139,7 +1154,8 @@ TITEL IV AUTONOMIE
 
 - (4) Die Mitgliedstaaten legen spezifische Bedingungen und Verfahren für die Ausübung der Befugnisse gemäß den Absätzen 1 und 2 fest und stellen sicher, dass jede Ausübung dieser Befugnisse angemessenen Garantien unterliegt, die im anwendbaren nationalen Recht unter Einhaltung der allgemeinen Grundsätze des Unionsrechts festgelegt sind. Diese Maßnahmen dürfen nur im Einklang mit dem Recht auf Achtung des Privatlebens und mit den Verteidigungsrechten, einschließlich des Rechts auf rechtliches Gehör und auf Akteneinsicht, und vorbehaltlich des Rechts aller betroffenen Parteien auf einen wirksamen gerichtlichen Rechtsbehelf getroffen werden.
 
-### Abschnitt 5 Amtshilfe und Zusammenarbeit
+<a id="title-iv-chapter-i-section-5"></a>
+## Abschnitt 5 – Amtshilfe und Zusammenarbeit
 
 <a id="art-27"></a>
 ### Artikel 27 – Amtshilfe
@@ -1161,9 +1177,11 @@ TITEL IV AUTONOMIE
 
 - (4) Die zuständige Behörde am Niederlassungsort teilt der zuständigen Behörde, die das Ersuchen übermittelt hat, und der Kommission so bald wie möglich, in jedem Fall aber spätestens zwei Monate nach Eingang des Ersuchens gemäß Absatz 1 oder 2, ihre Bewertung der mutmaßlichen Zuwiderhandlung sowie eine Erläuterung etwaiger Untersuchungs- oder Durchsetzungsmaßnahmen mit, die im Zusammenhang mit der Angelegenheit ergriffen wurden oder geplant sind, um die Einhaltung dieser Verordnung sicherzustellen.
 
-## Kapitel II Nachfrageseitige Maßnahmen
+<a id="title-iv-chapter-ii"></a>
+## Kapitel II – Nachfrageseitige Maßnahmen
 
-### Abschnitt 1 Vergabe öffentlicher Aufträge
+<a id="title-iv-chapter-ii-section-1"></a>
+## Abschnitt 1 – Vergabe öffentlicher Aufträge
 
 <a id="art-29"></a>
 ### Artikel 29 – Risikobewertungen
@@ -1215,7 +1233,8 @@ TITEL IV AUTONOMIE
 
   - a) die Anwendung der Anforderungen dieser Verordnung würde den öffentlichen Auftraggeber dazu zwingen, Aufträge für Dienstleistungen zu unverhältnismäßig hohen Kosten zu vergeben.
 
-### Abschnitt 2 Privatwirtschaftliche Einrichtungen
+<a id="title-iv-chapter-ii-section-2"></a>
+## Abschnitt 2 – Privatwirtschaftliche Einrichtungen
 
 <a id="art-31"></a>
 ### Artikel 31 – Folgenabschätzungen
@@ -1226,7 +1245,8 @@ TITEL IV AUTONOMIE
 
 - (3) Gelangt die Kommission aufgrund besonderer Umstände in hinreichend begründeten Fällen und in Absprache mit den Mitgliedstaaten zu dem Schluss, dass für Einrichtungen, bei denen es sich nicht um öffentliche Stellen handelt, die in Sektoren mit hoher Kritikalität tätig sind, eine Folgenabschätzung erforderlich ist, so kann die Kommission gemäß Artikel 45 delegierte Rechtsakte zur Ergänzung dieser Verordnung erlassen, in denen die Notwendigkeit einer solchen Folgenabschätzung präzisiert wird und die Risikominderungsmaßnahmen, die diese Einrichtungen, bei denen es sich nicht um öffentliche Stellen handelt, ergreifen müssen, festgelegt werden.
 
-### Abschnitt 3 Sonstige Maßnahmen im Zusammenhang mit der Vergabe öffentlicher Aufträge
+<a id="title-iv-chapter-ii-section-3"></a>
+## Abschnitt 3 – Sonstige Maßnahmen im Zusammenhang mit der Vergabe öffentlicher Aufträge
 
 <a id="art-32"></a>
 ### Artikel 32 – Mehrwert für die Union
@@ -1278,7 +1298,8 @@ TITEL IV AUTONOMIE
 
   - c) die Ausarbeitung von Vertragsklauseln für öffentliche Aufträge, die für innovative KMU günstig sind.
 
-## Kapitel III Europäischer Cloud-Verbund des öffentlichen Sektors
+<a id="title-iv-chapter-iii"></a>
+## Kapitel III – Europäischer Cloud-Verbund des öffentlichen Sektors
 
 <a id="art-34"></a>
 ### Artikel 34 – Einrichtung des Europäischen Cloud-Verbunds des öffentlichen Sektors
@@ -1321,7 +1342,8 @@ TITEL IV AUTONOMIE
 
 - (4) Die Kommission erlässt Durchführungsrechtsakte zur Festlegung von Durchführungsbestimmungen für die Ermittlung der geschätzten Kosten, die Höhe der einzelnen Gebühren und die Modalitäten und Bedingungen ihrer Entrichtung. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 46 Absatz 2 genannten Prüfverfahren erlassen.
 
-## Kapitel IV Auftragsvergabe für Rechenzentrumsdienste, Cloud-Computing-Dienste, Software und KI-Systeme durch die Kommission
+<a id="title-iv-chapter-iv"></a>
+## Kapitel IV – Auftragsvergabe für Rechenzentrumsdienste, Cloud-Computing-Dienste, Software und KI-Systeme durch die Kommission
 
 <a id="art-37"></a>
 ### Artikel 37 – Auftragsvergabetätigkeiten der Kommission
@@ -1413,7 +1435,8 @@ TITEL IV AUTONOMIE
 
     Diese Durchführungsrechtsakte werden gemäß dem in Artikel 46 Absatz 2 genannten Prüfverfahren erlassen.
 
-## Kapitel V Quelloffenheit
+<a id="title-iv-chapter-v"></a>
+## Kapitel V – Quelloffenheit
 
 <a id="art-41"></a>
 ### Artikel 41 – Förderung quelloffener Lösungen und „Zuerst Open-Source“-Grundsatz
@@ -1455,7 +1478,8 @@ TITEL IV AUTONOMIE
 
 - (5) Die Kommission beruft mindestens zweimal jährlich eine Sitzung der Mitglieder des OSPO-Netzes ein und führt darin den Vorsitz. Die Sitzungen des OSPO-Netzes können online stattfinden.
 
-TITEL V SCHLUSSBESTIMMUNGEN
+<a id="title-v"></a>
+## Titel V – SCHLUSSBESTIMMUNGEN
 
 **Artikel 44 – Ausübung der Befugnisübertragung**
 

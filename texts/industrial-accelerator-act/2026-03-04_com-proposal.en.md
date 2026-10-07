@@ -515,7 +515,8 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-## CHAPTER I GENERAL PROVISIONS
+<a id="chapter-i"></a>
+## Chapter I – GENERAL PROVISIONS
 
 <a id="art-1"></a>
 ### Article 1 – Subject matter and scope
@@ -628,7 +629,8 @@ HAVE ADOPTED THIS REGULATION:
 
 - (41) ‘supplier’ means a manufacturer established in the Union, the authorised representative of a manufacturer who is not established in the Union, or an importer, who places a product on the Union market;
 
-## CHAPTER II ENABLING CONDITIONS FOR INDUSTRIAL PRODUCTION AND DECARBONISATION
+<a id="chapter-ii"></a>
+## Chapter II – ENABLING CONDITIONS FOR INDUSTRIAL PRODUCTION AND DECARBONISATION
 
 <a id="art-4"></a>
 ### Article 4 – Single access points
@@ -669,7 +671,8 @@ HAVE ADOPTED THIS REGULATION:
 
 2. All energy-intensive industry decarbonisation projects shall be considered strategic projects contributing to resilience and decarbonisation or resource efficiency for the purposes of [Article 14 of Proposal for a Regulation on speeding-up environmental assessment]. Points 1, 2 and 3 of the Annex in that Regulation shall apply.
 
-## CHAPTER III STRENGTHENING THE UNION’S STRATEGIC INDUSTRIAL VALUE CHAINS
+<a id="chapter-iii"></a>
+## Chapter III – STRENGTHENING THE UNION’S STRATEGIC INDUSTRIAL VALUE CHAINS
 
 <a id="art-7"></a>
 ### Article 7 – Union origin
@@ -837,7 +840,8 @@ HAVE ADOPTED THIS REGULATION:
 
     Implementing acts referred to in subparagraph 1 may also establish the methods and procedures to be applied by the relevant competent national authorities, including contracting authorities and contracting entities, to verify compliance with the requirements laid down in this Regulation and, where appropriate, to make use of digital tools for the purposes of calculation, verification and demonstration of compliance.
 
-## CHAPTER IV FOREIGN INVESTMENT CONTRIBUTION
+<a id="chapter-iv"></a>
+## Chapter IV – FOREIGN INVESTMENT CONTRIBUTION
 
 <a id="art-17"></a>
 ### Article 17 – Scope
@@ -1031,7 +1035,8 @@ HAVE ADOPTED THIS REGULATION:
 
   - (b) whether the investment conditions referred to in Article 18 are appropriate and necessary to meet the objectives of this Regulation with respect to the sector concerned, and if not, which of those criteria is to be applied.
 
-## CHAPTER V INDUSTRIAL MANUFACTURING ACCELERATION AREAS
+<a id="chapter-v"></a>
+## Chapter V – INDUSTRIAL MANUFACTURING ACCELERATION AREAS
 
 <a id="art-25"></a>
 ### Article 25 – Designating national industrial manufacturing acceleration areas
@@ -1118,7 +1123,8 @@ Member States shall take the following measures, where appropriate, to facilitat
 
 4. All industrial manufacturing projects located within an acceleration area shall be considered strategic projects contributing to resilience and decarbonisation or resource efficiency for the purposes of [Article 14 of Proposal for a Regulation on speeding-up environmental assessment]. Points 1, 2 and 3 of the Annex to that Regulation shall apply.
 
-## CHAPTER VI FINAL PROVISIONS
+<a id="chapter-vi"></a>
+## Chapter VI – FINAL PROVISIONS
 
 <a id="art-28"></a>
 ### Article 28 – Evaluation

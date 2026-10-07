@@ -708,12 +708,11 @@ in Erwägung nachstehender Gründe:
 
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
-## Titel I ALLGEMEINE BESTIMMUNGEN
+<a id="title-i"></a>
+## Titel I – ALLGEMEINE BESTIMMUNGEN
 
 <a id="art-1"></a>
-### Artikel 1
-
-Gegenstand
+### Artikel 1 – Gegenstand
 
 (1) Diese Verordnung enthält Vorschriften für die Errichtung und das Funktionieren des Binnenmarkts für weltraumgestützte Daten und Weltraumdienste.
 
@@ -728,9 +727,7 @@ Gegenstand
   - d) Einführung eines Weltraumsiegels der Union und Maßnahmen zum Kapazitätsaufbau.
 
 <a id="art-2"></a>
-### Artikel 2
-
-Anwendungsbereich
+### Artikel 2 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die folgenden Anbieter von Weltraumdiensten:
 
@@ -757,9 +754,7 @@ Anwendungsbereich
 (4) Die in Titel IV Kapitel I festgelegten Anforderungen an den Entwurf und die Herstellung von Weltraumobjekten gelten für Weltraumobjekte, deren Operation weltraumgestützte Daten generiert, die in der Union genutzt werden oder die Bereitstellung von Weltraumdiensten in der Union ermöglichen.
 
 <a id="art-3"></a>
-### Artikel 3
-
-Freier Verkehr
+### Artikel 3 – Freier Verkehr
 
 (1) Die Mitgliedstaaten beschränken die Bereitstellung von weltraumgestützten Daten und Weltraumdiensten in der Union durch Anbieter von Weltraumdiensten, die im Unionsregister der Weltraumobjekte gemäß Artikel 24 eingetragen sind, nicht aus Gründen der Sicherheit, Resilienz und ökologischen Nachhaltigkeit im Rahmen dieser Verordnung.
 
@@ -768,16 +763,12 @@ Freier Verkehr
 (3) Die Mitgliedstaaten stellen alle einschlägigen Informationen bezüglich der in Absatz 2 genannten Anforderungen über das gemäß Artikel 110 eingerichtete Informationsportal zur Verfügung.
 
 <a id="art-4"></a>
-### Artikel 4
-
-Klausel über die nationale Sicherheit
+### Artikel 4 – Klausel über die nationale Sicherheit
 
 Diese Verordnung berührt nicht die Zuständigkeiten der Mitgliedstaaten bezüglich des Schutzes der nationalen Sicherheit und anderer wesentlicher staatlicher Funktionen.
 
 <a id="art-5"></a>
-### Artikel 5
-
-Begriffsbestimmungen
+### Artikel 5 – Begriffsbestimmungen
 
 Für die Zwecke dieser Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -977,14 +968,14 @@ Für die Zwecke dieser Verordnung gelten folgende Begriffsbestimmungen:
 
   - 75. „kritische Entwurfsprüfung“ bezeichnet die Phase des Konstruktions-, Fertigungs- und Entwicklungsverfahrens, in der festgestellt wird, dass der Entwurf und die Konfiguration der Systeme und Teilsysteme allen spezifizierten Anforderungen der Weltraummission in Bezug auf Leistung, Kompatibilität, Produktspezifikationen, Risikobewertung, vorläufige Prüfplanung, Angemessenheit der vorläufigen Operation und Bereitstellung von Unterlagen genügen, damit die Implementierung und Integration des Systems fortgeführt werden können.
 
-## Titel II GENEHMIGUNG UND REGISTRIERUNG VON WELTRAUMTÄTIGKEITEN
+<a id="title-ii"></a>
+## Titel II – GENEHMIGUNG UND REGISTRIERUNG VON WELTRAUMTÄTIGKEITEN
 
-## Kapitel I GENEHMIGUNG VON UNIONSBETREIBERN IM BEREICH WELTRAUM
+<a id="title-ii-chapter-i"></a>
+## Kapitel I – GENEHMIGUNG VON UNIONSBETREIBERN IM BEREICH WELTRAUM
 
 <a id="art-6"></a>
-### Artikel 6
-
-Genehmigung für die Durchführung von Weltraumtätigkeiten
+### Artikel 6 – Genehmigung für die Durchführung von Weltraumtätigkeiten
 
 (1) Unionsbetreiber im Bereich Weltraum dürfen Weltraumdienste nur dann bereitstellen, wenn sie in einem Mitgliedstaat eine Genehmigung zur Durchführung von Weltraumtätigkeiten erhalten haben, in der je nach Kategorie des betreffenden Betreibers im Bereich Weltraum die Einhaltung der in Titel IV Kapitel I bis V festgelegten Anforderungen bestätigt wird.
 
@@ -1005,9 +996,7 @@ Genehmigung für die Durchführung von Weltraumtätigkeiten
 (6) Ergibt sich die Notwendigkeit der Bereitstellung von Weltraumdiensten durch einen Drittlandsbetreiber im Bereich Weltraum oder eine internationale Organisation, nachdem eine Genehmigung erteilt wurde, wie z. B. im Falle von ISOS, so unterrichtet der Unionsbetreiber im Bereich Weltraum unverzüglich die zuständige Behörde darüber und legt ihr den Nachweis der Registrierung dieses Drittlandbetreibers im Bereich Weltraum oder der betreffenden internationalen Organisation im URSO vor.
 
 <a id="art-7"></a>
-### Artikel 7
-
-Genehmigungsverfahren
+### Artikel 7 – Genehmigungsverfahren
 
 (1) Ein Antragsteller beantragt die Genehmigung bei der in Artikel 6 Absatz 3 genannten zuständigen Behörde.
 
@@ -1028,9 +1017,7 @@ Genehmigungsverfahren
 (7) Für die Zwecke der Registrierung im URSO unterrichten die zuständigen Behörden die Agentur über alle zugelassenen Unionsbetreiber im Bereich Weltraum und Primäranbieter von Weltraumdiensten der Union sowie über alle Drittlandsbetreiber im Bereich Weltraum, denen die Durchführung von Starts von ihrem Hoheitsgebiet aus genehmigt wurde.
 
 <a id="art-8"></a>
-### Artikel 8
-
-Technische Bewertungen
+### Artikel 8 – Technische Bewertungen
 
 (1) Im Zuge der Einrichtung der Genehmigungssysteme legen die Mitgliedstaaten fest, von welchen der folgenden Stellen die technischen Bewertungen durchgeführt werden:
 
@@ -1055,9 +1042,7 @@ Technische Bewertungen
 (4) Die Mitgliedstaaten teilen der Kommission ihre Wahl gemäß Absatz 1 und etwaige diesbezügliche Änderungen mit.
 
 <a id="art-9"></a>
-### Artikel 9
-
-Genehmigung von Konstellationen
+### Artikel 9 – Genehmigung von Konstellationen
 
 (1) Beabsichtigt der Unionsbetreiber im Bereich Weltraum, eine Weltraummission durchzuführen, die den Start einer Satellitenkonstellation umfasst, so stellt er bei der zuständigen Behörde einen Antrag auf eine Einzelgenehmigung für den Start oder gegebenenfalls den Start und die Operation in Bezug auf alle Satelliten, die Teil der Konstellation sind, sofern alle folgenden Bedingungen erfüllt sind:
 
@@ -1078,9 +1063,7 @@ Genehmigung von Konstellationen
 (6) Die zuständigen Behörden überprüfen die Genehmigungen für den Start von Satellitenkonstellationen beim Start der ersten Exemplare der neuen Satellitengeneration.
 
 <a id="art-10"></a>
-### Artikel 10
-
-Vereinfachte Regeln
+### Artikel 10 – Vereinfachte Regeln
 
 (1) Die Bedingungen für die Genehmigung gemäß Artikel 6 Absatz 1 werden für die in den Absätzen 2, 3 und 4 genannten Unionsbetreiber im Bereich Weltraum gemäß diesen Absätzen angepasst.
 
@@ -1090,12 +1073,11 @@ Vereinfachte Regeln
 
 (4) Betreiber im Bereich Weltraum, bei denen es sich um kleine Unternehmen oder Forschungs- oder Bildungseinrichtungen handelt, die Weltraummissionen zur In-Orbit-Demonstration- und -Validierung (IOD/IOV) durchführen, sind in Bezug auf Titel IV Kapitel III von der Verpflichtung gemäß Artikel 96 Absatz 2 ausgenommen.
 
-## Kapitel II GENEHMIGUNG FÜR UNIONSBETREIBER IM BEREICH WELTRAUM, DIE UNIONSEIGENE RESSOURCEN BETREIBEN
+<a id="title-ii-chapter-ii"></a>
+## Kapitel II – GENEHMIGUNG FÜR UNIONSBETREIBER IM BEREICH WELTRAUM, DIE UNIONSEIGENE RESSOURCEN BETREIBEN
 
 <a id="art-11"></a>
-### Artikel 11
-
-Antrag auf Genehmigung
+### Artikel 11 – Antrag auf Genehmigung
 
 (1) Werden Weltraumtätigkeiten im Zusammenhang mit unionseigenen Ressourcen durchgeführt, so genehmigt die Kommission die mit der Ausführung oder der Operation der jeweiligen Komponente des Unionsprogramms betraute Stelle.
 
@@ -1110,9 +1092,7 @@ Antrag auf Genehmigung
     Nachdem die Agentur den Antrag für vollständig befunden hat, teilt sie dies dem Antragsteller mit.
 
 <a id="art-12"></a>
-### Artikel 12
-
-Prüfung durch die Agentur
+### Artikel 12 – Prüfung durch die Agentur
 
 (1) Innerhalb von sechs Monaten nach der in Artikel 11 Absatz 3 Unterabsatz 3 genannten Mitteilung prüft die Agentur gemäß Artikel 43 Absatz 1 Buchstabe a den Antrag auf Genehmigung, indem sie prüft, ob der Antragsteller
 
@@ -1133,9 +1113,7 @@ Prüfung durch die Agentur
 (3) Die Agentur registriert die gemäß diesem Kapitel zugelassenen Unionsbetreiber im Bereich Weltraum unverzüglich im URSO.
 
 <a id="art-13"></a>
-### Artikel 13
-
-Aussetzung oder Rücknahme der Genehmigung
+### Artikel 13 – Aussetzung oder Rücknahme der Genehmigung
 
 (1) Ein Unionsbetreiber im Bereich Weltraum, der unionseigene Ressourcen betreibt, meldet der Agentur unverzüglich Folgendes:
 
@@ -1153,12 +1131,11 @@ Aussetzung oder Rücknahme der Genehmigung
 
     Die Kommission teilt ihre Entscheidung unverzüglich dem betreffenden Unionsbetreiber im Bereich Weltraum, der unionseigene Ressourcen betreibt, und der zuständigen Behörde des Mitgliedstaats mit, in dem dieser Unionsbetreiber im Bereich Weltraum von unionseigenen Ressourcen niedergelassen ist.
 
-## Kapitel III ANBIETER VON WELTRAUMDIENSTEN AUS DRITTLÄNDERN UND INTERNATIONALE ORGANISATIONEN
+<a id="title-ii-chapter-iii"></a>
+## Kapitel III – ANBIETER VON WELTRAUMDIENSTEN AUS DRITTLÄNDERN UND INTERNATIONALE ORGANISATIONEN
 
 <a id="art-14"></a>
-### Artikel 14
-
-Bereitstellung von weltraumgestützten Daten und Weltraumdiensten durch Drittlandsbetreiber im Bereich Weltraum und internationale Organisationen
+### Artikel 14 – Bereitstellung von weltraumgestützten Daten und Weltraumdiensten durch Drittlandsbetreiber im Bereich Weltraum und internationale Organisationen
 
 (1) Drittlandsbetreiber im Bereich Weltraum, die gemäß Artikel 17 im Unionsregister der Weltraumobjekte registriert sind und im Besitz des in Artikel 25 Absatz 1 genannten elektronischen Zertifikats sind, dürfen Weltraumdienste für Unionsbetreiber im Bereich Weltraum und in Bezug auf unionseigene Ressourcen und auf die in Artikel 5 Absatz 1 Ziffer 21 genannten Ressourcen erbringen.
 
@@ -1169,9 +1146,7 @@ Bereitstellung von weltraumgestützten Daten und Weltraumdiensten durch Drittlan
 (3) Absatz 2 gilt nicht, wenn eine internationale Organisation nur technische Bewertungstätigkeiten gemäß Artikel 8 Absatz 1 Buchstabe b durchführt.
 
 <a id="art-15"></a>
-### Artikel 15
-
-Vorschriften für Drittlandsbetreiber im Bereich Weltraum
+### Artikel 15 – Vorschriften für Drittlandsbetreiber im Bereich Weltraum
 
 (1) Raumfahrzeugbetreiber aus Drittländern unterliegen den in den Artikeln 62, 66, 67, 69 bis 73, 75 bis 92 und 96 bis 100 festgelegten geltenden Anforderungen für Raumfahrzeugbetreiber aus der Union.
 
@@ -1192,16 +1167,12 @@ Vorschriften für Drittlandsbetreiber im Bereich Weltraum
 (4) Anbieter von Weltraumdiensten zur Kollisionsvermeidung aus Drittländern unterliegen den Anforderungen, die aufgrund der Artikel 102 und 103 für Anbieter von Weltraumdiensten zur Kollisionsvermeidung aus der Union gelten.
 
 <a id="art-16"></a>
-### Artikel 16
-
-Vorschriften für Drittlandsbetreiber im Bereich Weltraum aus gleichwertigen Rechtsordnungen
+### Artikel 16 – Vorschriften für Drittlandsbetreiber im Bereich Weltraum aus gleichwertigen Rechtsordnungen
 
 Bei Drittlandsbetreibern im Bereich Weltraum, die in einem Drittland niedergelassen sind, für das die Kommission einen Gleichwertigkeitsbeschluss gemäß Artikel 105 erlassen hat, wird davon ausgegangen, dass sie die Anforderungen des Artikels 15 erfüllen.
 
 <a id="art-17"></a>
-### Artikel 17
-
-Registrierung von Anbietern von Weltraumdiensten aus Drittländern
+### Artikel 17 – Registrierung von Anbietern von Weltraumdiensten aus Drittländern
 
 (1) Auf der Grundlage einer Entscheidung der Kommission, die Registrierung gemäß Absatz 5 zu gestatten, registriert die Agentur Drittlandsbetreiber im Bereich Weltraum, welche die Einhaltung der Anforderungen des Titels IV gemäß Artikel 16 oder Artikel 15 nachweisen, im URSO.
 
@@ -1228,18 +1199,14 @@ Registrierung von Anbietern von Weltraumdiensten aus Drittländern
 (8) Wurde ein Antrag auf Ausnahme gemäß Artikel 19 gestellt, so registriert die Agentur den Drittlandsbetreiber im Bereich Weltraum im URSO, nachdem die Kommission ihren Beschluss gemäß Artikel 19 Absatz 5 Unterabsatz 1 gefasst hat.
 
 <a id="art-18"></a>
-### Artikel 18
-
-Registrierung internationaler Organisationen
+### Artikel 18 – Registrierung internationaler Organisationen
 
 (1) Sind die Bedingungen der Artikel 107 oder 108 erfüllt, so registriert die Agentur internationale Organisationen im URSO.
 
 (2) Für die Zwecke des Absatzes 1 gelten Artikel 17 Absätze 3, 4, 5, 7 und 8 sowie die Artikel 19, 21 und 22 entsprechend.
 
 <a id="art-19"></a>
-### Artikel 19
-
-Ausnahmen
+### Artikel 19 – Ausnahmen
 
 (1) Ein Mitgliedstaat kann die Kommission ersuchen, einen Beschluss zu erlassen, der es der Agentur gestattet, einen Startbetreiber aus einem Drittland, der eine oder mehrere der in Artikel 15 Absatz 2 genannten Bedingungen nicht erfüllt, registrieren zu lassen, wenn die in Absatz 2 genannten Bedingungen eines öffentlichen Interesses erfüllt sind.
 
@@ -1274,9 +1241,7 @@ Ausnahmen
 (6) Gewährt die Kommission einem Startbetreiber aus einem Drittland gemäß Absatz 5 Unterabsatz 1 eine Ausnahme, so gewährt sie zugleich dem Unionsbetreiber im Bereich Weltraum, der die Startdienste des betreffenden Startbetreibers aus einem Drittland nutzt, eine Ausnahme.
 
 <a id="art-20"></a>
-### Artikel 20
-
-Öffentliche Einrichtungen aus Drittländern
+### Artikel 20 – Öffentliche Einrichtungen aus Drittländern
 
 (1) Auf Antrag einer öffentlichen Einrichtung eines Drittlands, der die Bereitstellung von Weltraumdiensten oder weltraumgestützten Daten in der Union gestattet wird, oder auf Antrag eines Mitgliedstaats gemäß Absatz 2 bewertet die Kommission mit Unterstützung der Agentur zunächst, ob es sich bei dieser öffentlichen Einrichtung aus einem Drittland um eine staatliche Einrichtung handelt oder ob sie Ressourcen von Weltrauminfrastrukturen betreibt oder besitzt, bei denen es sich um militärische Systeme mit eventueller ziviler Nutzung handelt.
 
@@ -1297,9 +1262,7 @@ Ausnahmen
     Die in Unterabsatz 1 genannte Entscheidung wird gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren als Durchführungsrechtsakt erlassen.
 
 <a id="art-21"></a>
-### Artikel 21
-
-Notfallklausel
+### Artikel 21 – Notfallklausel
 
 (1) Tritt in einem Mitgliedstaat ein Notfall oder eine Krise ein oder führt ein Sicherheitsvorfall oder ein Angriff zu Störungen, die weitere Mitgliedstaaten oder Organe der Union betreffen, so nimmt die Kommission so bald wie möglich von sich aus oder auf Ersuchen des betreffenden Mitgliedstaats eine Bewertung vor.
 
@@ -1308,9 +1271,7 @@ Notfallklausel
 (2) Die in Absatz 1 genannte Entscheidung wird nach dem in Artikel 8 von Verordnung (EU) Nr. 182/2011 genannten Verfahren so bald wie möglich und je nach Schwere, Dauer und Auswirkungen des jeweiligen Notfalls, der Krise oder der Störung bestätigt, widerrufen oder verlängert.
 
 <a id="art-22"></a>
-### Artikel 22
-
-Aussetzung oder Rücknahme der Registrierung
+### Artikel 22 – Aussetzung oder Rücknahme der Registrierung
 
 (1) Die Agentur unterbreitet der Kommission den Vorschlag, die Registrierung eines Drittlandsbetreibers im Bereich Weltraum im URSO auszusetzen oder zurückzunehmen, wenn
 
@@ -1335,20 +1296,17 @@ Aussetzung oder Rücknahme der Registrierung
     Je nach der Komplexität der gegebenenfalls erforderlichen vertraglichen Anpassungen liegt der Zeitpunkt der Rücknahme der Registrierung nicht mehr als 16 Monate nach dem Tag der Annahme der Entscheidung über die Rücknahme.
 
 <a id="art-23"></a>
-### Artikel 23
-
-Gesetzlicher Vertreter in der Union
+### Artikel 23 – Gesetzlicher Vertreter in der Union
 
 (1) Drittlandsbetreiber im Bereich Weltraum benennen schriftlich eine oder mehrere juristische Person(en) in einem der Mitgliedstaaten, die als ihr gesetzlicher Vertreter in der Union auftritt/auftreten.
 
 (2) Der gesetzliche Vertreter in der Union wird vom Drittlandsbetreiber im Bereich Weltraum ermächtigt, zusätzlich zu oder anstelle des Drittlandsbetreibers im Bereich Weltraum von den zuständigen Behörden, der Kommission und der Agentur in allen Fragen im Zusammenhang mit der Einhaltung dieser Verordnung angesprochen zu werden. Er verfügt über alle erforderlichen Befugnisse und Ressourcen, um eine effiziente und rechtzeitige Zusammenarbeit mit diesen Behörden zu gewährleisten.
 
-## Kapitel IV BEREITSTELLUNG VON WELTRAUMGESTÜTZTEN DATEN UND WELTRAUMDIENSTEN IN DER UNION UND ELEKTRONISCHE RÜCKVERFOLGBARKEIT
+<a id="title-ii-chapter-iv"></a>
+## Kapitel IV – BEREITSTELLUNG VON WELTRAUMGESTÜTZTEN DATEN UND WELTRAUMDIENSTEN IN DER UNION UND ELEKTRONISCHE RÜCKVERFOLGBARKEIT
 
 <a id="art-24"></a>
-### Artikel 24
-
-Unionsregister der Weltraumobjekte (URSO)
+### Artikel 24 – Unionsregister der Weltraumobjekte (URSO)
 
 (1) Die Agentur richtet ein Unionsregister der Weltraumobjekte (URSO) ein, in dem Folgendes registriert wird:
 
@@ -1365,9 +1323,7 @@ Unionsregister der Weltraumobjekte (URSO)
 (3) URSO verfügt über ein zentrales Inventar und eine zentrale Plattform.
 
 <a id="art-25"></a>
-### Artikel 25
-
-Elektronisches Zertifikat (e-Zertifikat)
+### Artikel 25 – Elektronisches Zertifikat (e-Zertifikat)
 
 (1) Nach Abschluss der Registrierung im URSO stellt die Agentur den Anbietern von Weltraumdiensten mit Ausnahme der Anbieter von <Weltraumdiensten zur Kollisionsvermeidung ein elektronisches Zertifikat (im Folgenden „e-Zertifikat“) aus und händigt ihnen dieses aus.
 
@@ -1394,42 +1350,37 @@ Elektronisches Zertifikat (e-Zertifikat)
 (6) Für die Zwecke der Ausstellung des in Absatz 1 genannten e-Zertifikats kann die Agentur gegebenenfalls technische Unterstützung von den zuständigen Behörden und den qualifizierten technischen Stellen für Weltraumtätigkeiten in Bezug auf die in Absatz 5 genannten Elemente anfordern.
 
 <a id="art-26"></a>
-### Artikel 26
-
-Bereitstellung von Weltraumdiensten und weltraumgestützten Daten in der Union
+### Artikel 26 – Bereitstellung von Weltraumdiensten und weltraumgestützten Daten in der Union
 
 (1) Stellen Anbieter von Weltraumdiensten, mit Ausnahme von Anbietern von Weltraumdiensten zur Kollisionsvermeidung, erstmals weltraumgestützte Daten oder Weltraumdienste in der Union bereit, so müssen sie im Besitz des in Artikel 25 Absatz 1 genannten e-Zertifikats sein.
 
 (2) Sie stellen sicher, dass das e-Zertifikat ihren Verträgen über die Bereitstellung weltraumgestützter Daten oder Weltraumdienste beigefügt ist.
 
 <a id="art-27"></a>
-### Artikel 27
-
-Anforderungen an Primäranbieter weltraumgestützter Daten
+### Artikel 27 – Anforderungen an Primäranbieter weltraumgestützter Daten
 
 (1) Primäranbieter weltraumgestützter Daten stellen weltraumgestützte Daten in der Union nur bereit, wenn diese weltraumgestützten Daten von Weltraumobjekten erzeugt wurden, die im URSO registriert sind.
 
 (2) Erhalten Primäranbieter weltraumgestützter Daten Alarmmeldungen oder Beschwerden über mögliche Unregelmäßigkeiten, alarmieren sie ihre Lieferanten und setzen sich gleichzeitig mit der Agentur oder der zuständigen Behörde des Mitgliedstaats, in dem sie niedergelassen sind, in Verbindung.
 
-## TITEL III GOVERNANCE-ASPEKTE
+<a id="title-iii"></a>
+## Titel III – GOVERNANCE-ASPEKTE
 
-## Kapitel I GOVERNANCE IN DEN MITGLIEDSTAATEN
+<a id="title-iii-chapter-i"></a>
+## Kapitel I – GOVERNANCE IN DEN MITGLIEDSTAATEN
 
-### Abschnitt 1 ZUSTÄNDIGE BEHÖRDEN
+<a id="title-iii-chapter-i-section-1"></a>
+## Abschnitt 1 – ZUSTÄNDIGE BEHÖRDEN
 
 <a id="art-28"></a>
-### Artikel 28
-
-Benennung oder Einrichtung zuständiger Behörden
+### Artikel 28 – Benennung oder Einrichtung zuständiger Behörden
 
 (1) Jeder Mitgliedstaat benennt oder richtet eine Behörde ein, die als zuständige Behörde für die Genehmigung und Beaufsichtigung von Unionsbetreibern im Bereich Weltraum und für alle Marktüberwachungstätigkeiten zuständig ist, die erforderlich sind, um die Nutzung weltraumgestützter Daten im Einklang mit dieser Verordnung sicherzustellen.
 
 (2) Die Mitgliedstaaten gewährleisten, dass die zuständigen Behörden über die Unabhängigkeit, das Fachwissen, die finanziellen und personellen Ressourcen, die operativen Kapazitäten und die Befugnisse verfügen, die für die Wahrnehmung der in Absatz 1 genannten Funktionen erforderlich sind.
 
 <a id="art-29"></a>
-### Artikel 29
-
-Aufsichtsaufgaben in Bezug auf Unionsbetreiber im Bereich Weltraum
+### Artikel 29 – Aufsichtsaufgaben in Bezug auf Unionsbetreiber im Bereich Weltraum
 
 (1) Die zuständigen Behörden beaufsichtigen die Weltraumtätigkeiten der Unionsbetreiber im Bereich Weltraum, wobei sie insbesondere
 
@@ -1454,9 +1405,7 @@ Aufsichtsaufgaben in Bezug auf Unionsbetreiber im Bereich Weltraum
 (2) Die Mitgliedstaaten sorgen für eine angemessene Beaufsichtigung der Unionsbetreiber im Bereich Weltraum, die nationale Weltraumprogramme durchführen, indem sie auf die Aufgabentrennung und das Nichtvorliegen von Interessenkonflikten achten.
 
 <a id="art-30"></a>
-### Artikel 30
-
-Aufsichtsbefugnisse
+### Artikel 30 – Aufsichtsbefugnisse
 
 (1) Die zuständigen Behörden verfügen über alle Aufsichts-, Untersuchungs-, Abhilfe- und Sanktionsbefugnisse, die für die Wahrnehmung der in Artikel 29 genannten Funktionen und Aufgaben erforderlich sind.
 
@@ -1515,9 +1464,7 @@ Aufsichtsbefugnisse
 (8) Die Mitgliedstaaten können durch Rechtsvorschriften vorsehen, dass die zuständigen Behörden neben den in den Absätzen 3 bis 7 aufgeführten Befugnissen über zusätzliche Befugnisse verfügen. Die Ausübung dieser Befugnisse darf die effektive Umsetzung dieses Kapitels nicht beeinträchtigen.
 
 <a id="art-31"></a>
-### Artikel 31
-
-Verwaltungsstrafen
+### Artikel 31 – Verwaltungsstrafen
 
 (1) Die Mitgliedstaaten legen Regeln für Strafen für Zuwiderhandlung gegen die Bestimmungen dieser Verordnung fest. Diese Strafen müssen wirksam, verhältnismäßig und abschreckend sein. Die Mitgliedstaaten teilen der Kommission diese Maßnahmen unverzüglich mit und melden ihr etwaige spätere Änderungen.
 
@@ -1545,12 +1492,11 @@ Verwaltungsstrafen
 
 (5) Die Mitgliedstaaten stellen sicher, dass die zuständigen Behörden befugt sind, Zuwiderhandlungen gegen diese Verordnung unmittelbar vor ein Gericht zu bringen, und dass sie berechtigt sind, eigenständig an allen Arten von Gerichtsverfahren im Zusammenhang mit der Durchsetzung dieser Verordnung teilzunehmen, auch durch Einlegung von Rechtsmitteln.
 
-### Abschnitt 2 ÜBERWACHUNG QUALIFIZIERTER TECHNISCHER STELLEN FÜR WELTRAUMTÄTIGKEITEN
+<a id="title-iii-chapter-i-section-2"></a>
+## Abschnitt 2 – ÜBERWACHUNG QUALIFIZIERTER TECHNISCHER STELLEN FÜR WELTRAUMTÄTIGKEITEN
 
 <a id="art-32"></a>
-### Artikel 32
-
-Nutzung qualifizierter technischer Stellen für Weltraumtätigkeiten
+### Artikel 32 – Nutzung qualifizierter technischer Stellen für Weltraumtätigkeiten
 
 (1) Mitgliedstaaten, welche die in Artikel 8 Absatz 1 Buchstabe a genannte Möglichkeit nutzen, stellen sicher, dass qualifizierte technische Stellen für Weltraumtätigkeiten von Behörden benannt, bewertet und überwacht und der Kommission gemäß Artikel 33 notifiziert werden.
 
@@ -1565,9 +1511,7 @@ Nutzung qualifizierter technischer Stellen für Weltraumtätigkeiten
   - c) über ausreichend Personal für die Wahrnehmung ihrer Aufgaben verfügt.
 
 <a id="art-33"></a>
-### Artikel 33
-
-Notifizierungsverfahren
+### Artikel 33 – Notifizierungsverfahren
 
 (1) Die Mitgliedstaaten notifizieren der Kommission alle in ihrem Hoheitsgebiet niedergelassenen qualifizierten technischen Stellen für Weltraumtätigkeiten. Für die Zwecke dieser Notifizierung verwenden sie das Informationssystem „New Approach Notified and Designated Organisations“ (NANDO).
 
@@ -1583,12 +1527,11 @@ Notifizierungsverfahren
 
 (5) Eine Stelle darf nur dann Tätigkeiten als qualifizierte technische Stelle für Weltraumtätigkeiten ausüben, wenn die Kommission oder ein Mitgliedstaat nicht innerhalb von zwei Monaten nach dem Datum der Notifizierung Einwände erhoben hat, wenn diese sich auf die Akkreditierungsurkunde gemäß Artikel 34 Absatz 5 Buchstabe b stützt, oder innerhalb von drei Monaten nach dem Datum der Notifizierung, wenn diese sich auf die in Artikel 34 Absatz 6 genannten Nachweise stützt.
 
-### Abschnitt 3 QUALIFIZIERTE TECHNISCHE STELLEN FÜR WELTRAUMTÄTIGKEITEN
+<a id="title-iii-chapter-i-section-3"></a>
+## Abschnitt 3 – QUALIFIZIERTE TECHNISCHE STELLEN FÜR WELTRAUMTÄTIGKEITEN
 
 <a id="art-34"></a>
-### Artikel 34
-
-Verfahren für qualifizierte technische Stellen für Weltraumtätigkeiten
+### Artikel 34 – Verfahren für qualifizierte technische Stellen für Weltraumtätigkeiten
 
 (1) Beabsichtigt eine Stelle, technische Bewertungen für eine oder mehrere unter Titel IV Kapitel I bis V fallende Angelegenheit(en) durchzuführen, so stellt sie bei der in Artikel 32 genannten zuständigen Behörde des Mitgliedstaats, in dem sie niedergelassen ist, einen Antrag auf Benennung als qualifizierte technische Stelle für Weltraumtätigkeiten.
 
@@ -1617,9 +1560,7 @@ Verfahren für qualifizierte technische Stellen für Weltraumtätigkeiten
 (9) Eine qualifizierte technische Stelle für Weltraumtätigkeiten aktualisiert die in den Absätzen 5, 6 und 7 genannten Unterlagen bei allen relevanten Änderungen, damit die notifizierende Behörde überwachen kann, ob diese qualifizierte technische Stelle für Weltraumtätigkeiten den Anforderungen des Artikels 35 kontinuierlich entspricht.
 
 <a id="art-35"></a>
-### Artikel 35
-
-Anforderungen an qualifizierte technische Stellen für Weltraumtätigkeiten
+### Artikel 35 – Anforderungen an qualifizierte technische Stellen für Weltraumtätigkeiten
 
 (1) Qualifizierte technische Stellen für Weltraumtätigkeiten müssen die in Anhang IX Nummer 1 festgelegten Anforderungen erfüllen.
 
@@ -1632,43 +1573,35 @@ Anforderungen an qualifizierte technische Stellen für Weltraumtätigkeiten
     Qualifizierte technische Stellen für Weltraumtätigkeiten halten alle Unterlagen im Zusammenhang mit der Bewertung der Qualifikationen des Unterauftragnehmers und den von diesem Unterauftragnehmer ausgeführten Arbeiten für die in Artikel 32 genannte Behörde bereit.
 
 <a id="art-36"></a>
-### Artikel 36
-
-Identifikationsnummern
+### Artikel 36 – Identifikationsnummern
 
 Die Kommission erteilt jeder qualifizierten technischen Stelle für Weltraumtätigkeiten eine Identifikationsnummer und veröffentlicht die Liste der qualifizierten technischen Stellen für Weltraumtätigkeiten in der Union, ihre Identifikationsnummer und die unter Titel IV fallenden Angelegenheiten, für die sie notifiziert wurden.
 
 <a id="art-37"></a>
-### Artikel 37
-
-Änderungen der Notifizierung
+### Artikel 37 – Änderungen der Notifizierung
 
 (1) Die in Artikel 32 genannte Behörde beschränkt gegebenenfalls die Notifizierung einer qualifizierten technischen Stelle für Weltraumtätigkeiten oder setzt sie aus oder nimmt sie zurück, wenn die Stelle den Anforderungen des Artikels 35 nicht mehr genügt oder ihren Verpflichtungen nicht nachkommt. Die Behörde setzt die Kommission und die anderen Mitgliedstaaten davon in Kenntnis.
 
 (2) Im Fall einer Einschränkung, Aussetzung oder Rücknahme der Notifizierung oder wenn eine im Hoheitsgebiet eines Mitgliedstaats niedergelassene qualifizierte technische Stelle für Weltraumtätigkeiten ihre Tätigkeit eingestellt hat, ergreift dieser Mitgliedstaat geeignete Schritte, um die Unterlagen dieser qualifizierten technischen Stelle für Weltraumtätigkeiten an eine andere qualifizierte technische Stelle für Weltraumtätigkeiten oder, falls dies nicht möglich ist, an die Agentur oder die in Artikel 8 Absatz 1 Buchstabe b genannte internationale Organisation zu übermitteln.
 
 <a id="art-38"></a>
-### Artikel 38
-
-Widerspruch gegen Entscheidungen qualifizierter technischer Stellen für Weltraumtätigkeiten
+### Artikel 38 – Widerspruch gegen Entscheidungen qualifizierter technischer Stellen für Weltraumtätigkeiten
 
 Die Mitgliedstaaten stellen sicher, dass Entscheidungen qualifizierter technischer Stellen für Weltraumtätigkeiten angefochten werden können.
 
 <a id="art-39"></a>
-### Artikel 39
-
-Koordinierung qualifizierter technischer Stellen für Weltraumtätigkeiten
+### Artikel 39 – Koordinierung qualifizierter technischer Stellen für Weltraumtätigkeiten
 
 Die Kommission ermöglicht eine angemessene unionsweite Koordinierung qualifizierter technischer Stellen für Weltraumtätigkeiten, unter anderem durch die Einrichtung sektorspezifischer Gruppen qualifizierter technischer Stellen für Weltraumtätigkeiten.
 
-## Kapitel II GOVERNANCE AUF UNIONSEBENE
+<a id="title-iii-chapter-ii"></a>
+## Kapitel II – GOVERNANCE AUF UNIONSEBENE
 
-### Abschnitt 1 AUFGABEN UND STRUKTUREN DER AGENTUR
+<a id="title-iii-chapter-ii-section-1"></a>
+## Abschnitt 1 – AUFGABEN UND STRUKTUREN DER AGENTUR
 
 <a id="art-40"></a>
-### Artikel 40
-
-Aufgaben der Agentur
+### Artikel 40 – Aufgaben der Agentur
 
 (1) Die Agentur hat in Bezug auf die in den Titeln II bis VI dieser Verordnung festgelegten Anforderungen folgende Aufgaben:
 
@@ -1713,9 +1646,7 @@ Aufgaben der Agentur
 (3) Bevor die Agentur eine neue Leitlinie oder Empfehlung herausgibt, überprüft sie bestehende Leitlinien und Empfehlungen, um Doppelungen zu vermeiden.
 
 <a id="art-41"></a>
-### Artikel 41
-
-Gebühren der Agentur
+### Artikel 41 – Gebühren der Agentur
 
 (1) Die Agentur erhebt im Einklang mit dem in Absatz 3 genannten delegierten Rechtsakt von Unionsbetreibern im Bereich Weltraum, Drittlandsbetreibern im Bereich Weltraum und internationalen Organisationen Gebühren zur vollständigen Deckung der erforderlichen Ausgaben, die der Agentur bei der Wahrnehmung der Aufgaben gemäß dieser Verordnung entstehen, einschließlich der Erstattung der Kosten, die infolge der Arbeit der gemeinsamen Prüfungsteams gemäß Artikel 44 Absatz 2 Unterabsatz 1 entstanden sind, oder der Kosten für die Beratung durch unabhängige Sachverständige.
 
@@ -1724,16 +1655,12 @@ Gebühren der Agentur
 (3) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Ergänzung dieser Verordnung durch Festlegung der Höhe der Gebühren und der Art und Weise ihrer Entrichtung zu erlassen.
 
 <a id="art-42"></a>
-### Artikel 42
-
-Strukturen der Agentur
+### Artikel 42 – Strukturen der Agentur
 
 Für die Zwecke der in Artikel 43 genannten Aufgaben werden innerhalb der Agentur ein Konformitätsgremium und eine Widerspruchskammer eingerichtet.
 
 <a id="art-43"></a>
-### Artikel 43
-
-Aufgaben des Konformitätsgremiums
+### Artikel 43 – Aufgaben des Konformitätsgremiums
 
 (1) Das Konformitätsgremium ist zuständig für Folgendes:
 
@@ -1772,9 +1699,7 @@ Aufgaben des Konformitätsgremiums
     - ii) bei Entscheidungen zur technischen Bewertung in Bezug auf die in Absatz 1 Buchstaben b und c genannten Anbieter von Weltraumdiensten wird die Einhaltung der Anforderungen gemäß Artikel 44 Absatz 1 festgestellt.
 
 <a id="art-44"></a>
-### Artikel 44
-
-Technische Konfigurationen des Konformitätsgremiums
+### Artikel 44 – Technische Konfigurationen des Konformitätsgremiums
 
 (1) Das Konformitätsgremium führt seine Arbeit als Konfiguration der folgenden drei technischen Gremien aus:
 
@@ -1793,9 +1718,7 @@ Technische Konfigurationen des Konformitätsgremiums
 (3) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Ergänzung dieser Verordnung zu erlassen, in denen die Kriterien für die Zusammensetzung und das Fachwissen des Personals festgelegt werden, das die gemeinsamen Prüfungsteams für die technischen Gremien bildet, um eine ausgewogene Beteiligung der Bediensteten der zuständigen Behörden und der qualifizierten technischen Stellen für Weltraumtätigkeiten zu gewährleisten und die Einzelheiten ihrer Benennung, Aufgaben und Arbeitsvereinbarungen festzulegen.
 
 <a id="art-45"></a>
-### Artikel 45
-
-Zusammensetzung des Konformitätsgremiums und Abstimmungsregeln
+### Artikel 45 – Zusammensetzung des Konformitätsgremiums und Abstimmungsregeln
 
 (1) Das Konformitätsgremium setzt sich aus einem Vertreter jedes Mitgliedstaats und einem Vertreter der Kommission zusammen.
 
@@ -1816,9 +1739,7 @@ Zusammensetzung des Konformitätsgremiums und Abstimmungsregeln
     Der Vorsitzende des Konformitätsgremiums unterzeichnet im Namen des Registrierungsgremiums die von diesem gefällten Entscheidungen.
 
 <a id="art-46"></a>
-### Artikel 46
-
-Widerspruchskammer
+### Artikel 46 – Widerspruchskammer
 
 (1) Es wird eine Widerspruchskammer eingerichtet. Die Widerspruchskammer entscheidet über Widersprüche gegen Entscheidungen der Agentur.
 
@@ -1837,9 +1758,7 @@ Widerspruchskammer
 (7) Die Agentur sorgt für eine angemessene Arbeits- und Sekretariatsunterstützung der Widerspruchskammer.
 
 <a id="art-47"></a>
-### Artikel 47
-
-Widerspruch
+### Artikel 47 – Widerspruch
 
 (1) Gegen eine Entscheidung der Agentur nach Titel II Kapitel II, III und IV, Artikel 43 Absatz 2, Artikel 49 bis 52 und Titel IV sowie gegen jede andere Entscheidung der Agentur, die an eine natürliche oder juristische Person gerichtet ist oder die, obwohl sie als an eine andere Person gerichtete Entscheidung ergangen ist, diese Person unmittelbar und individuell betrifft, kann Widerspruch eingelegt werden.
 
@@ -1855,12 +1774,11 @@ Widerspruch
 
 (6) Klagen auf Aufhebung einer Entscheidung, die von der Agentur im Einklang mit dieser Verordnung getroffen wurde, und Klagen wegen Untätigkeit innerhalb der festgelegten Fristen können erst dann beim Gerichtshof eingereicht werden, wenn das oben genannte Widerspruchsverfahren erschöpft ist.
 
-### Abschnitt 2 BEFUGNISSE DER KOMMISSION UND DER AGENTUR IN BEZUG AUF UNIONSBETREIBER IM BEREICH WELTRAUM, DIE UNIONSEIGENE RESSOURCEN BETREIBEN, UND ANBIETER VON WELTRAUMDIENSTEN AUS DRITTLÄNDERN
+<a id="title-iii-chapter-ii-section-2"></a>
+## Abschnitt 2 – BEFUGNISSE DER KOMMISSION UND DER AGENTUR IN BEZUG AUF UNIONSBETREIBER IM BEREICH WELTRAUM, DIE UNIONSEIGENE RESSOURCEN BETREIBEN, UND ANBIETER VON WELTRAUMDIENSTEN AUS DRITTLÄNDERN
 
 <a id="art-48"></a>
-### Artikel 48
-
-Umfang und Ausübung der Befugnisse durch die Agentur und die Kommission
+### Artikel 48 – Umfang und Ausübung der Befugnisse durch die Agentur und die Kommission
 
 (1) Die Kommission beaufsichtigt mit Unterstützung und Mitarbeit der Agentur die folgenden Anbieter von Weltraumdiensten in Bezug auf die Einhaltung der in dieser Verordnung festgelegten Anforderungen in der in diesem Abschnitt beschriebenen Weise:
 
@@ -1893,9 +1811,7 @@ Umfang und Ausübung der Befugnisse durch die Agentur und die Kommission
   - e) die regelmäßige Übermittlung von Aktualisierungen in Bezug auf regulatorische oder aufsichtliche Entwicklungen in dem betreffenden Drittland.
 
 <a id="art-49"></a>
-### Artikel 49
-
-Informationsersuchen
+### Artikel 49 – Informationsersuchen
 
 (1) Die Kommission und die Agentur können durch Beschluss ersuchen, dass die in Artikel 48 Absatz 1 Buchstaben a, b und c genannten Anbieter von Weltraumdiensten der Kommission und der Agentur alle Informationen zur Verfügung stellen, die sie für die Wahrnehmung ihrer Aufgaben im Rahmen dieser Verordnung benötigen, einschließlich einschlägiger Geschäftsunterlagen, Berichte über Audits oder Sicherheitsvorfälle oder Informationen über ausgelagerte Tätigkeiten.
 
@@ -1904,9 +1820,7 @@ Informationsersuchen
 (3) Die in Artikel 48 Absatz 1 Buchstaben a, b und c genannten Anbieter von Weltraumdiensten stellen die angeforderten Informationen zur Verfügung.
 
 <a id="art-50"></a>
-### Artikel 50
-
-Untersuchungsbefugnisse
+### Artikel 50 – Untersuchungsbefugnisse
 
 (1) Die Kommission und die Agentur führen Untersuchungen bei den in Artikel 48 Absatz 1 Buchstaben a, b und c genannten Anbietern von Weltraumdiensten durch.
 
@@ -1933,9 +1847,7 @@ Untersuchungsbefugnisse
 (6) Die Bediensteten der betreffenden zuständigen Behörde unterstützen auf Ersuchen der Kommission und der Agentur die ermächtigten Bediensteten der Kommission und der Agentur sowie sonstige ermächtigte Personen bei der Erfüllung ihrer Aufgaben. Auf Antrag können die Bediensteten der betreffenden zuständigen Behörde an der jeweiligen Untersuchung teilnehmen.
 
 <a id="art-51"></a>
-### Artikel 51
-
-Inspektionen vor Ort in der Union
+### Artikel 51 – Inspektionen vor Ort in der Union
 
 (1) Die Kommission und die Agentur können alle erforderlichen Inspektionen vor Ort in allen Geschäftsgebäuden, Grundstücken oder Sachen der Unionsbetreiber im Bereich Weltraum, die unionseigene Ressourcen betreiben, sowie in allen Geschäftsräumen, Grundstücken oder Sachen der in Artikel 48 Absatz 1 Buchstaben b und c genannten Anbieter von Weltraumdiensten in der Union durchführen.
 
@@ -1958,9 +1870,7 @@ Inspektionen vor Ort in der Union
 (7) Die Kommission und die Agentur können von den zuständigen Behörden verlangen, in ihrem Namen spezifische Untersuchungsaufgaben und Inspektionen vor Ort gemäß diesem Artikel und Artikel 50 durchzuführen. Zu diesem Zweck verfügen die zuständigen Behörden mindestens über die in diesem Artikel und in Artikel 50 genannten Befugnisse.
 
 <a id="art-52"></a>
-### Artikel 52
-
-Inspektionen vor Ort außerhalb der Union
+### Artikel 52 – Inspektionen vor Ort außerhalb der Union
 
 (1) Können die Kommission und die Agentur ihre in dieser Verordnung festgelegten Aufgaben nicht durch Interaktion mit den in Artikel 23 genannten gesetzlichen Vertretern der in Artikel 48 Absatz 1 Buchstabe b genannten Anbieter von Weltraumdiensten erfüllen, so können die Kommission und die Agentur Inspektionen vor Ort in den Geschäftsgebäuden, auf Grundstücken oder in Sachen der in Artikel 48 Absatz 1 Buchstabe b genannten Anbieter von Weltraumdiensten, die sich außerhalb der Union befinden, durchführen, wenn alle folgenden Bedingungen erfüllt sind:
 
@@ -1977,18 +1887,14 @@ Inspektionen vor Ort außerhalb der Union
   - c) Artikel 51 Absatz 3.
 
 <a id="art-53"></a>
-### Artikel 53
-
-Verfahren für Untersuchungen durch die Agentur
+### Artikel 53 – Verfahren für Untersuchungen durch die Agentur
 
 (1) Liegen der Agentur schwerwiegende Hinweise auf Zuwiderhandlungen gegen die in Titel IV festgelegten technischen Anforderungen vor, so leitet die Agentur eine Untersuchung ein.
 
 (2) Die mit der Untersuchung beauftragten Bediensteten haben die Befugnis, nach Artikel 49 Informationen anzufordern, um nach den Artikeln 50 und 51 Untersuchungen und Inspektionen vor Ort durchzuführen.
 
 <a id="art-54"></a>
-### Artikel 54
-
-Maßnahmen infolge einer Untersuchung durch die Agentur
+### Artikel 54 – Maßnahmen infolge einer Untersuchung durch die Agentur
 
 (1) Stellt die Agentur auf der Grundlage der in Artikel 53 Absatz 2 genannten Untersuchung vorläufig fest, dass ein Unionsbetreiber im Bereich Weltraum, der unionseigene Ressourcen betreibt, bzw. ein Anbieter von Weltraumdiensten gemäß Artikel 48 Absatz 1 Buchstaben b und c eine Zuwiderhandlung gegen die in dieser Verordnung festgelegten Vorschriften gemäß Anhang X begangen hat, so unterbreitet die Agentur der Kommission einen Vorschlag, um das Vorliegen einer Zuwiderhandlung gegen die Bestimmungen diese Verordnung festzustellen und eine oder mehrere der in Artikel 55 Absatz 1 Unterabsatz 1 genannten Maßnahmen in Bezug auf den betreffenden Unionsbetreiber im Bereich Weltraum von unionseigenen Ressourcen oder Anbieter von Weltraumdiensten in der Union gemäß Artikel 48 Absatz 1 Buchstaben b und c zu ergreifen.
 
@@ -2019,9 +1925,7 @@ Maßnahmen infolge einer Untersuchung durch die Agentur
 (3) Kann die Agentur aufgrund des Ergebnisses einer Untersuchung nach diesem Abschnitt nicht feststellen, ob eine Zuwiderhandlung gegen die Bestimmungen dieser Verordnung vorliegt, so erlässt die Agentur eine Entscheidung als Abschluss der Untersuchung. Die Agentur setzt die Kommission unverzüglich davon in Kenntnis.
 
 <a id="art-55"></a>
-### Artikel 55
-
-Aufsichtsmaßnahmen der Kommission
+### Artikel 55 – Aufsichtsmaßnahmen der Kommission
 
 (1) Nach Eingang des in Artikel 54 Absatz 1 Unterabsatz 1 genannten Vorschlags der Agentur kann die Kommission eine oder mehrere der folgenden Maßnahmen ergreifen:
 
@@ -2038,9 +1942,7 @@ Aufsichtsmaßnahmen der Kommission
 (2) Bei der Ergreifung der in Absatz 1 genannten Maßnahmen berücksichtigt die Kommission Art und Schwere der Zuwiderhandlung unter Berücksichtigung der in Artikel 54 Absatz 2 genannten Kriterien.
 
 <a id="art-56"></a>
-### Artikel 56
-
-Geldbußen und Zwangsgelder
+### Artikel 56 – Geldbußen und Zwangsgelder
 
 (1) Schlägt die Agentur gemäß Artikel 54 Absatz 1 Unterabsatz 1 vor, dass die Kommission bei einer Zuwiderhandlung gegen die Bestimmungen dieser Verordnung in Bezug auf einen Unionsbetreiber im Bereich Weltraum von unionseigenen Ressourcen oder einen Anbieter von Weltraumdiensten gemäß Artikel 48 Absatz 1 Buchstaben b und c eine Geldbuße oder ein Zwangsgeld verhängt, so kann die Kommission im Rahmen des Beschlusses zur Feststellung einer Zuwiderhandlung gemäß den Absätzen 2, 3, 4, 5, 6 und 7 eine Geldbuße oder ein Zwangsgeld verhängen.
 
@@ -2069,9 +1971,7 @@ Geldbußen und Zwangsgelder
 (10) Der Gerichtshof der Europäischen Union besitzt die unbeschränkte Befugnis zur Überprüfung von Entscheidungen, mit denen Geldbußen oder Zwangsgelder verhängt werden. Er kann die verhängten Geldbußen oder Zwangsgelder aufheben, herabsetzen oder erhöhen.
 
 <a id="art-57"></a>
-### Artikel 57
-
-Anspruch auf rechtliches Gehör für Personen, die Gegenstand von Untersuchungen sind
+### Artikel 57 – Anspruch auf rechtliches Gehör für Personen, die Gegenstand von Untersuchungen sind
 
 (1) Bevor die Kommission einen Beschluss nach den Artikeln 55 und 56 fasst, bietet sie den Unionsbetreibern im Bereich Weltraum, die unionseigene Ressourcen betreiben, und Anbietern von Weltraumdiensten gemäß Artikel 48 Absatz 1 Buchstaben b und c, die Gegenstand des Verfahrens sind, die Gelegenheit, zu den Feststellungen und Gründen, aus denen die Kommission einen Beschluss zu erlassen beabsichtigt, angehört zu werden.
 
@@ -2081,23 +1981,22 @@ Anspruch auf rechtliches Gehör für Personen, die Gegenstand von Untersuchungen
 
     Das Recht auf Akteneinsicht erstreckt sich nicht auf vertrauliche Informationen oder interne vorbereitende Dokumente der Agentur oder der Kommission.
 
-## TITEL IV TECHNISCHE VORSCHRIFTEN
+<a id="title-iv"></a>
+## Titel IV – TECHNISCHE VORSCHRIFTEN
 
-## Kapitel I SICHERHEIT UND NACHHALTIGKEIT IM WELTRAUM
+<a id="title-iv-chapter-i"></a>
+## Kapitel I – SICHERHEIT UND NACHHALTIGKEIT IM WELTRAUM
 
-### Abschnitt 1 TRÄGERRAKETEN
+<a id="title-iv-chapter-i-section-1"></a>
+## Abschnitt 1 – TRÄGERRAKETEN
 
 <a id="art-58"></a>
-### Artikel 58
-
-Sicherheitsplan für Starts
+### Artikel 58 – Sicherheitsplan für Starts
 
 Startbetreiber aus der Union legen der zuständigen Behörde einen Sicherheitsplan für den Start gemäß Anhang I Nummer 3 vor.
 
 <a id="art-59"></a>
-### Artikel 59
-
-Sicherheits- und Koordinierungsmaßnahmen während des Starts und des Wiedereintritts
+### Artikel 59 – Sicherheits- und Koordinierungsmaßnahmen während des Starts und des Wiedereintritts
 
 (1) Startbetreiber aus der Union ergreifen geeignete Maßnahmen, um das Risiko von Zusammenstößen zwischen der Trägerrakete und Luftfahrzeugen, Seeschiffen oder Raumfahrzeugen sowie Müll in der Umlaufbahn während der Start- und Wiedereintrittsphase zu mindern.
 
@@ -2134,9 +2033,7 @@ Sicherheits- und Koordinierungsmaßnahmen während des Starts und des Wiedereint
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
 <a id="art-60"></a>
-### Artikel 60
-
-Flugsicherheitssystem
+### Artikel 60 – Flugsicherheitssystem
 
 (1) Trägerraketen müssen entweder Verfolgungsgeräte enthalten oder es müssen Vorrichtungen zur Verfolgung vorhanden sein, die eine Echtzeitüberwachung der Position und Geschwindigkeit der Trägerrakete ermöglichen.
 
@@ -2147,9 +2044,7 @@ Flugsicherheitssystem
 (4) Startbetreiber aus der Union müssen ein fahrzeugseitiges System für die Neutralisierung der Trägerrakete gemäß Anhang I Nummer 2.2 hinzufügen.
 
 <a id="art-61"></a>
-### Artikel 61
-
-Eindämmung von Weltraummüll von Trägerraketen
+### Artikel 61 – Eindämmung von Weltraummüll von Trägerraketen
 
 (1) Startbetreiber aus der Union begrenzen das Entstehen von Weltraummüll über folgende Maßnahmen:
 
@@ -2181,12 +2076,11 @@ Eindämmung von Weltraummüll von Trägerraketen
 
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
-### Abschnitt 2 RAUMFAHRZEUG
+<a id="title-iv-chapter-i-section-2"></a>
+## Abschnitt 2 – RAUMFAHRZEUG
 
 <a id="art-62"></a>
-### Artikel 62
-
-Sonderregelung für Raumfahrzeuge für Forschung und Bildung
+### Artikel 62 – Sonderregelung für Raumfahrzeuge für Forschung und Bildung
 
 (1) Raumfahrzeugbetreiber aus der Union, die Forschungs- und Ausbildungsmissionen durchführen, sind von den Anforderungen ausgenommen, die wie folgt festgelegt sind:
 
@@ -2215,9 +2109,7 @@ Sonderregelung für Raumfahrzeuge für Forschung und Bildung
 (2) Die in Absatz 1 genannten Ausnahmen werden fallweise unter Berücksichtigung der Größe und des Gewichts des Raumfahrzeugs sowie der Dauer und Umlaufbahn der Mission geprüft.
 
 <a id="art-63"></a>
-### Artikel 63
-
-Rückverfolgbarkeit
+### Artikel 63 – Rückverfolgbarkeit
 
 (1) Raumfahrzeugbetreiber aus der Union stellen sicher, dass ein Raumfahrzeug über die technischen Mittel verfügt, um die Rückverfolgbarkeit und die genaue Bestimmung der Position in der Umlaufbahn gemäß Anhang III Nummer 1 zu ermöglichen.
 
@@ -2226,9 +2118,7 @@ Rückverfolgbarkeit
 (2) Die Kommission legt im Wege von Durchführungsrechtsakten den Genauigkeitsgrad fest, der für die Rückverfolgbarkeit von Raumfahrzeugen gemäß Anhang III Nummer 1.1 erforderlich ist. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
 <a id="art-64"></a>
-### Artikel 64
-
-Kollisionsvermeidung
+### Artikel 64 – Kollisionsvermeidung
 
 (1) Raumfahrzeugbetreiber aus der Union nehmen die Weltraumdienste zur Kollisionsvermeidung in Anspruch, die durch den Anbieter von Weltraumdiensten zur Kollisionsvermeidung bereitgestellt werden, der für die Unterkomponente „Beobachtung und Verfolgung von Objekten im Weltraum (SST)“ gemäß Artikel 58 Absatz 2 der Verordnung (EU) 2021/696 zuständig ist (im Folgenden „Anbieter von Weltraumdiensten zur Kollisionsvermeidung aus der Union“).
 
@@ -2247,18 +2137,14 @@ Kollisionsvermeidung
 (5) Nach Erhalt einer Warnung vor einem Ereignis von hohem Interesse unterrichten Raumfahrzeugbetreiber aus der Union den Anbieter von Weltraumdiensten zur Kollisionsvermeidung aus der Union unverzüglich über alle Maßnahmen, die gemäß Anhang IV Nummer 2 ergriffen wurden, um eine Kollision zu verhindern.
 
 <a id="art-65"></a>
-### Artikel 65
-
-Wiedereintrittsdienste
+### Artikel 65 – Wiedereintrittsdienste
 
 (1) Raumfahrzeugbetreiber aus der Union übermitteln dem in Artikel 64 Absatz 1 genannten Anbieter von Weltraumdiensten zur Kollisionsvermeidung aus der Union die erforderlichen Daten und Informationen, wie z. B. Positionsbestimmung, Zustand des Raumfahrzeugs und Kommunikationsfähigkeit, um einen genaueren Wiedereintrittsdienst zu ermöglichen, unbeschadet der Übermittlung an die in Artikel 58 Absatz 2 der Verordnung (EU) 2021/696 genannte Stelle, die in der Unterkomponente „Beobachtung und Verfolgung von Objekten im Weltraum (SST)“ für den Wiedereintrittsdienst zuständig ist.
 
 (2) Die in Absatz 1 genannte Stelle, die für den Wiedereintrittsdienst zuständig ist, sorgt für die erforderliche Koordinierung mit den zuständigen Behörden und Anbietern von Flugverkehrsdiensten, um die Auswirkungen des Wiedereintritts auf andere Verkehrsdienste so gering wie möglich zu halten.
 
 <a id="art-66"></a>
-### Artikel 66
-
-Manövrierfähigkeit von Raumfahrzeugen
+### Artikel 66 – Manövrierfähigkeit von Raumfahrzeugen
 
 (1) Raumfahrzeugbetreiber aus der Union stellen sicher, dass ein Raumfahrzeug so konzipiert, hergestellt und betrieben wird, dass dem Raumfahrzeug Manövrierfähigkeiten für Umlaufbahnen mit einer Höhe von mehr als 400 km gewährt und ermöglicht werden.
 
@@ -2271,9 +2157,7 @@ Manövrierfähigkeit von Raumfahrzeugen
       Das Bodensegment muss in der Lage sein, Vorhersagen zur Umlaufbahn zu empfangen und Daten gemäß Anhang III Nummer 2 zu verarbeiten.
 
 <a id="art-67"></a>
-### Artikel 67
-
-Kontaktlistendatenbank für Warnungen vor Ereignissen von hohem Interesse
+### Artikel 67 – Kontaktlistendatenbank für Warnungen vor Ereignissen von hohem Interesse
 
 (1) Die Agentur richtet eine Kontaktlistendatenbank der Union für Warnungen vor Ereignissen von hohem Interesse (im Folgenden „Kontaktlistendatenbank“) ein und verwaltet diese.
 
@@ -2282,9 +2166,7 @@ Kontaktlistendatenbank für Warnungen vor Ereignissen von hohem Interesse
 (3) Die Agentur übermittelt die Kontaktlistendatenbank an den in Artikel 64 Absatz 1 genannten Anbieter von Weltraumdiensten zur Kollisionsvermeidung der Union.
 
 <a id="art-68"></a>
-### Artikel 68
-
-Vorschriften für den Verkehr in der Umlaufbahn
+### Artikel 68 – Vorschriften für den Verkehr in der Umlaufbahn
 
 (1) Raumfahrzeugbetreiber aus der Union müssen die Anforderungen an den Verkehr in der Umlaufbahn und die Koordinierung gemäß Anhang IV Nummer 2 erfüllen.
 
@@ -2293,9 +2175,7 @@ Vorschriften für den Verkehr in der Umlaufbahn
     Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
 <a id="art-69"></a>
-### Artikel 69
-
-Positionsbestimmung in der Umlaufbahn
+### Artikel 69 – Positionsbestimmung in der Umlaufbahn
 
 (1) Vor dem Start analysieren Raumfahrzeugbetreiber aus der Union die Wahl der Umlaufbahn und geben die Gründe für die Wahl an.
 
@@ -2310,9 +2190,7 @@ Positionsbestimmung in der Umlaufbahn
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
 <a id="art-70"></a>
-### Artikel 70
-
-Eindämmung von Weltraummüll
+### Artikel 70 – Eindämmung von Weltraummüll
 
 (1) Raumfahrzeugbetreiber aus der Union ergreifen folgende Maßnahmen:
 
@@ -2365,9 +2243,7 @@ Eindämmung von Weltraummüll
 (4) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zu erlassen, um die in Anhang V Nummer 3.3 festgelegte Rangfolge zu ändern, damit der technische Fortschritt in Bezug auf ISOS in dieser Rangfolge Berücksichtigung findet und die Rangfolge an den technischen Fortschritt angepasst werden kann.
 
 <a id="art-71"></a>
-### Artikel 71
-
-Verlängerung einer Mission
+### Artikel 71 – Verlängerung einer Mission
 
 (1) Möchte ein Raumfahrzeugbetreiber aus der Union eine Weltraummission verlängern, so übermittelt er der zuständigen Behörde spätestens drei Monate vor dem geplanten Ende der betreffenden Weltraummission einen Verlängerungsantrag.
 
@@ -2376,9 +2252,7 @@ Verlängerung einer Mission
 (3) Die zuständige Behörde genehmigt den Antrag auf Verlängerung der Weltraummission, wenn das Raumfahrzeug noch die Anforderungen des Anhangs V erfüllt.
 
 <a id="art-72"></a>
-### Artikel 72
-
-Licht- und Funkverschmutzung
+### Artikel 72 – Licht- und Funkverschmutzung
 
 (1) Raumfahrzeugbetreiber aus der Union erstellen einen Plan mit Maßnahmen, die geeignet sind, die Licht- und Funkverschmutzung gemäß Absatz 2 zu begrenzen.
 
@@ -2391,9 +2265,7 @@ Licht- und Funkverschmutzung
   - b) eine Beschreibung der technischen und operationellen Interventionen, die der Raumfahrzeugbetreiber aus der Union zur Begrenzung von Störungen von Radioastronomie-Observatorien und zur Minimierung der Auswirkungen von Satelliten auf astronomische Beobachtungen ergriffen hat.
 
 <a id="art-73"></a>
-### Artikel 73
-
-Konstellationen
+### Artikel 73 – Konstellationen
 
 (1) Raumfahrzeugbetreiber aus der Union, die eine Konstellation, eine Megakonstellation oder eine Gigakonstellation betreiben, müssen
 
@@ -2438,20 +2310,18 @@ Konstellationen
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
 <a id="art-74"></a>
-### Artikel 74
-
-Anwendbarkeit von Produktanforderungen
+### Artikel 74 – Anwendbarkeit von Produktanforderungen
 
 In ihren Verträgen mit Lieferantenherstellern stellen Unionsbetreiber im Bereich Weltraum sicher, dass die vertraglich vereinbarten Weltraumobjekte oder gegebenenfalls die Komponenten den in diesem Kapitel festgelegten Konstruktions- und Herstellungsanforderungen entsprechen.
 
-## Kapitel II RESILIENZ DER WELTRAUMINFRASTRUKTUR
+<a id="title-iv-chapter-ii"></a>
+## Kapitel II – RESILIENZ DER WELTRAUMINFRASTRUKTUR
 
-### Abschnitt 1 ALLGEMEINE BESTIMMUNGEN
+<a id="title-iv-chapter-ii-section-1"></a>
+## Abschnitt 1 – ALLGEMEINE BESTIMMUNGEN
 
 <a id="art-75"></a>
-### Artikel 75
-
-Verhältnis zur NIS-2-Richtlinie und zur Richtlinie über die Resilienz kritischer Einrichtungen
+### Artikel 75 – Verhältnis zur NIS-2-Richtlinie und zur Richtlinie über die Resilienz kritischer Einrichtungen
 
 (1) Hinsichtlich Unionsbetreibern im Bereich Weltraum, die im Zusammenhang mit Weltraumtätigkeiten und Weltraumdiensten, die unter die vorliegende Verordnung fallen, als wesentliche oder wichtige Einrichtungen im Sinne des Artikels 3 der Richtlinie (EU) 2022/2555 gelten, gilt diese Verordnung in Bezug auf Artikel 21 der Richtlinie (EU) 2022/2555 im Zusammenhang mit Risikomanagementmaßnahmen im Bereich der Cybersicherheit als sektorspezifischer Rechtsakt der Union für die Zwecke des Artikels 4 der genannten Richtlinie.
 
@@ -2463,12 +2333,11 @@ Verhältnis zur NIS-2-Richtlinie und zur Richtlinie über die Resilienz kritisch
 
   - b) wann immer dies für die Zwecke der Gewährleistung der einheitlichen Anwendung der vorliegenden Verordnung und der Richtlinie (EU) 2022/2557 und des Informationsaustauschs, auch für die in den Artikeln 11, 15, 18 und 21 der genannten Richtlinie genannten Zwecke, erforderlich ist.
 
-### Abschnitt 2 RISIKOMANAGEMENT
+<a id="title-iv-chapter-ii-section-2"></a>
+## Abschnitt 2 – RISIKOMANAGEMENT
 
 <a id="art-76"></a>
-### Artikel 76
-
-Risikomanagement während des Lebenszyklus von Weltraummissionen
+### Artikel 76 – Risikomanagement während des Lebenszyklus von Weltraummissionen
 
 (1) Unionsbetreiber im Bereich Weltraum ergreifen alle erforderlichen Maßnahmen, um die Risiken für die Sicherheit von Netz- und Informationssystemen und die Sicherheit der physischen Infrastrukturen und der Umwelt im Einklang mit dem Grundsatz der Verhältnismäßigkeit und unter Berücksichtigung ihres Risikoprofils und ihrer Größe sowie der Art, des Umfangs und der Komplexität ihrer Weltraumtätigkeiten zu bewältigen.
 
@@ -2521,18 +2390,14 @@ Risikomanagement während des Lebenszyklus von Weltraummissionen
 (6) Unionsbetreiber im Bereich Weltraum legen eine Strategie und Verfahren fest, um zu bewerten, ob die ergriffenen Risikomanagementmaßnahmen im Bereich der Cybersicherheit wirksam umgesetzt und aktuell gehalten werden, und wenden diese an.
 
 <a id="art-77"></a>
-### Artikel 77
-
-Organisatorische Aspekte
+### Artikel 77 – Organisatorische Aspekte
 
 (1) Das Leitungsorgan eines Unionsbetreibers im Bereich Weltraum der Union überwacht die Umsetzung der Risikomanagementmaßnahmen, die ergriffen wurden, um die Einhaltung der in diesem Kapitel festgelegten Anforderungen sicherzustellen, und ist dafür verantwortlich und haftbar.
 
 (2) Unionsbetreiber im Bereich Weltraum richten interne Mechanismen für die Personalsicherheitspolitik ein und überarbeiten und überwachen diese, um sicherzustellen, dass das gesamte Personal die Verantwortlichkeiten im Bereich der Sicherheit im Einklang mit den Aufgaben und Verantwortlichkeiten verstanden hat und diese wahrnimmt. Unionsbetreiber im Bereich Weltraum richten eine Personalstrategie ein, die während der gesamten Einstellungs- und Disziplinarverfahren alle erforderlichen Überprüfungen und Kontrollen gewährleistet.
 
 <a id="art-78"></a>
-### Artikel 78
-
-Risikobewertungen
+### Artikel 78 – Risikobewertungen
 
 (1) Während des gesamten Lebenszyklus von Weltraummissionen obliegt es den Unionsbetreibern im Bereich Weltraum
 
@@ -2565,9 +2430,7 @@ Risikobewertungen
   - f) Entwicklung von Risikomanagementmaßnahmen, die von den Unionsbetreibern im Bereich Weltraum anzuwenden sind.
 
 <a id="art-79"></a>
-### Artikel 79
-
-Vereinfachtes Risikomanagement
+### Artikel 79 – Vereinfachtes Risikomanagement
 
 (1) Einrichtungen, die dem vereinfachten Risikomanagement nach Artikel 10 Absatz 3 unterliegen, wenden die in Anhang VII Nummer 9 festgelegten Maßnahmen nur in Bezug auf kritische Ressourcen und kritische Funktionen an, die hinsichtlich folgender Risiken erforderlich sind:
 
@@ -2584,9 +2447,7 @@ Vereinfachtes Risikomanagement
 (4) Damit die Bestimmungen dieser Verordnung auf der Grundlage der besten verfügbaren Techniken an den wissenschaftlichen und technischen Fortschritt angepasst werden können, wird der Kommission die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Änderung der in Anhang VII Nummer 9 festgelegten Anforderungen zu erlassen.
 
 <a id="art-80"></a>
-### Artikel 80
-
-Ermittlung und Verwaltung von Informationen und Ressourcen der Weltrauminfrastruktur
+### Artikel 80 – Ermittlung und Verwaltung von Informationen und Ressourcen der Weltrauminfrastruktur
 
 (1) Unionsbetreiber im Bereich Weltraum erstellen, pflegen und aktualisieren umfassende Strategien für die Kategorisierung und Verwaltung von Informationen und Ressourcen der Weltrauminfrastruktur.
 
@@ -2603,9 +2464,7 @@ Ermittlung und Verwaltung von Informationen und Ressourcen der Weltrauminfrastru
     Die in Unterabsatz 1 genannten Bestandsverzeichnisse werden per Weltraummission erstellt, wobei die Herkunft und der aktuelle physische Standort der Ressourcen anzugeben sind, gegebenenfalls einschließlich Benennung eines Cloud-gestützten Dienstes. Die Bestandsverzeichnisse müssen auf dem neuesten Stand sein.
 
 <a id="art-81"></a>
-### Artikel 81
-
-Verwaltung und Kontrolle der Zugangsrechte
+### Artikel 81 – Verwaltung und Kontrolle der Zugangsrechte
 
 (1) Unionsbetreiber im Bereich Weltraum führen die Verwaltung und Kontrolle der Zugangsrechte mithilfe von Identitäts- und Zugangsverwaltungsprotokollen durch.
 
@@ -2628,9 +2487,7 @@ Verwaltung und Kontrolle der Zugangsrechte
 (6) Die in Absatz 1 genannten Identitäts- und Zugangsverwaltungsprotokolle gewährleisten einen angemessenen Schutz der gemäß Artikel 80 Absatz 2 identifizierten Informationen und Ressourcen vor Risiken, einschließlich Beschädigung, Missbrauch oder unbefugtem Zugriff oder unbefugter Nutzung.
 
 <a id="art-82"></a>
-### Artikel 82
-
-Physische Resilienz
+### Artikel 82 – Physische Resilienz
 
 (1) Unionsbetreiber im Bereich Weltraum ergreifen die in Anhang VII Nummer 3 festgelegten Maßnahmen sowie alle anderen Maßnahmen, die erforderlich und angemessen sind, um die Resilienz der physischen Ressourcen zu gewährleisten, und diese Maßnahmen sind den in Artikel 13 der Richtlinie (EU) 2022/2557 genannten technischen, sicherheitsbezogenen und organisatorischen Maßnahmen mindestens gleichwertig, was die Resilienz der Bodensegmente betrifft.
 
@@ -2641,9 +2498,7 @@ Physische Resilienz
 (4) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Änderung der in Anhang VII Nummer 3 festgelegten Anforderungen zu erlassen, um sie auf der Grundlage der besten verfügbaren Techniken an den wissenschaftlichen und technischen Fortschritt anzupassen.
 
 <a id="art-83"></a>
-### Artikel 83
-
-Erkennung und Überwachung von Sicherheitsvorfällen
+### Artikel 83 – Erkennung und Überwachung von Sicherheitsvorfällen
 
 (1) Unionsbetreiber im Bereich Weltraum überwachen kontinuierlich das Auftreten von Anomalien und Sicherheitsvorfällen durch Einsatz geeigneter Erkennungssysteme und -mechanismen.
 
@@ -2656,9 +2511,7 @@ Erkennung und Überwachung von Sicherheitsvorfällen
 (5) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Änderung des in Anhang VII Nummer 4 festgelegten Anforderungskatalogs zu erlassen, um ihn auf der Grundlage der besten verfügbaren Techniken an den wissenschaftlichen und technischen Fortschritt anzupassen.
 
 <a id="art-84"></a>
-### Artikel 84
-
-Prävention und Schutz
+### Artikel 84 – Prävention und Schutz
 
 (1) Unionsbetreiber im Bereich Weltraum passen die gemäß diesem Kapitel erlassenen Maßnahmen zur Cybersicherheit des Raumfahrzeugs und des Bodensegments an die jeweiligen Erfordernisse der Weltraummission an und decken die bei der Bewertung des Sicherheitsrisikos gemäß Artikel 78 Absatz 2 ermittelten Risiken angemessen ab.
 
@@ -2679,9 +2532,7 @@ Prävention und Schutz
 (5) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Änderung der in Anhang VII Nummer 5 festgelegten Anforderungen zu erlassen, um sie auf der Grundlage der besten verfügbaren Techniken an den wissenschaftlichen und technischen Fortschritt anzupassen.
 
 <a id="art-85"></a>
-### Artikel 85
-
-Kryptografie und Verschlüsselung
+### Artikel 85 – Kryptografie und Verschlüsselung
 
 (1) Auf der Grundlage der in Artikel 78 Absatz 2 genannten Risikobewertung erfüllen Unionsbetreiber im Bereich Weltraum bzw. Stellen, die ein vereinfachtes Risikomanagement in Bezug auf die in Artikel 79 Absatz 1 Unterabsatz 1 genannten kritischen Ressourcen und kritischen Funktionen anwenden, Folgendes:
 
@@ -2704,9 +2555,7 @@ Kryptografie und Verschlüsselung
 (4) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zu erlassen, um die Nutzung kryptografischer Produkte und damit zusammenhängender Schlüsselverwaltungsprodukte oder -dienste durch Unionsbetreiber im Bereich Weltraum weiter zu ergänzen, die im Rahmen der gemäß Artikel 49 der Verordnung (EU) 2019/881 angenommenen europäischen Schemata für die Cybersicherheitszertifizierung zertifiziert wurden, um durch diese Ergänzungen den Schutz der Telemetrie und der Telekommandos zu gewährleisten.
 
 <a id="art-86"></a>
-### Artikel 86
-
-Backup-Management und Redundanzen
+### Artikel 86 – Backup-Management und Redundanzen
 
 (1) Unionsbetreiber im Bereich Weltraum bzw. Stellen, die ein vereinfachtes Risikomanagement in Bezug auf die in Artikel 79 Absatz 1 Unterabsatz 1 genannten kritischen Ressourcen und kritischen Funktionen anwenden, sorgen für eine solide und umfassende Strategie für das Backup-Management, um eine Wiederherstellung der Netz- und Informationssysteme zu ermöglichen und bei minimalen Ausfallzeiten und begrenzten Maßnahmen zur Beseitigung der Störung und zum Ausgleich von Verlusten die Wiederherstellungsprozesse und die Rückgewinnung von Daten nach der Aktivierung der Reaktions- und Notfallwiederherstellungsmaßnahmen zu erleichtern.
 
@@ -2727,9 +2576,7 @@ Backup-Management und Redundanzen
 (4) Der Kommission wird die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zu erlassen, um die Anforderungen an die Sicherung, die erforderlich sind, um eine angemessene Überlebensfähigkeit des Weltraumsegments zu gewährleisten und eine rasche Wiederherstellung nach Sicherheitsvorfällen zu ermöglichen, genauer festzulegen, damit die Bestimmungen dieser Verordnung auf der Grundlage der besten verfügbaren Techniken an den wissenschaftlichen und technischen Fortschritt angepasst werden können.
 
 <a id="art-87"></a>
-### Artikel 87
-
-Strategie zur Fortführung des Geschäftsbetriebs und Reaktions- und Wiederherstellungspläne
+### Artikel 87 – Strategie zur Fortführung des Geschäftsbetriebs und Reaktions- und Wiederherstellungspläne
 
 (1) Im Rahmen ihres Risikomanagements legen Unionsbetreiber im Bereich Weltraum Maßnahmen zur Bewältigung von Sicherheitsvorfällen und für das Krisenmanagement fest und dokumentieren diese. Die Maßnahmen werden in einer strukturierten Strategie zur Fortführung des Geschäftsbetriebs festgelegt, die mittels maßgeschneiderter Reaktions- und Wiederherstellungspläne umgesetzt wird.
 
@@ -2756,9 +2603,7 @@ Strategie zur Fortführung des Geschäftsbetriebs und Reaktions- und Wiederherst
 (4) Unionsbetreiber im Bereich Weltraum stellen sicher, dass das Personal, das an der Durchführung von Maßnahmen zur Fortführung des Geschäftsbetriebs und der Umsetzung von Reaktions- und Wiederherstellungsplänen beteiligt ist, umfassende und angemessene Schulungen erhalten hat, wie sie zur Erfüllung seiner Aufgaben erforderlich sind.
 
 <a id="art-88"></a>
-### Artikel 88
-
-Prüfung
+### Artikel 88 – Prüfung
 
 (1) Unionsbetreiber im Bereich Weltraum erstellen, pflegen und überprüfen als integralen Bestandteil ihres Risikomanagements ein Prüfprogramm für die Netz- und Informationssysteme.
 
@@ -2783,9 +2628,7 @@ Prüfung
     Unionsbetreiber im Bereich Weltraum überwachen Systemausfälle und Anomalien, die während der Prüfprozesse beobachtet werden, und bewerten ihre Kritikalität.
 
 <a id="art-89"></a>
-### Artikel 89
-
-Lernen und Ausbildung
+### Artikel 89 – Lernen und Ausbildung
 
 (1) Unionsbetreiber im Bereich Weltraum schulen ihr Personal in angemessener Weise gemäß den Absätzen 2, 3, 4, 5 und 6.
 
@@ -2800,9 +2643,7 @@ Lernen und Ausbildung
 (6) Unionsbetreiber im Bereich Weltraum nutzen die aus dem Umgang mit Sicherheitsvorfällen gewonnenen Erkenntnisse zur Aktualisierung von Plänen zur Fortführung des Geschäftsbetriebs und von Schulungen und Prüfprogrammen für das Personal.
 
 <a id="art-90"></a>
-### Artikel 90
-
-Krisenkommunikation und Offenlegungspolitik
+### Artikel 90 – Krisenkommunikation und Offenlegungspolitik
 
 (1) Unionsbetreiber im Bereich Weltraum richten eine Krisenkommunikationsstrategie ein, die eine verantwortungsvolle Offenlegung erheblicher Sicherheitsvorfälle ermöglicht und auf jede der folgenden Kategorien ausgerichtet und darauf zugeschnitten ist:
 
@@ -2817,9 +2658,7 @@ Krisenkommunikation und Offenlegungspolitik
 (2) Mindestens eine Person in der Unternehmensstruktur von Unionsbetreibern im Bereich Weltraum ist für die Umsetzung der in Absatz 1 genannten Kommunikationsstrategie verantwortlich und nimmt die Funktion eines Medienbeauftragten wahr.
 
 <a id="art-91"></a>
-### Artikel 91
-
-Umgang mit Sicherheitsvorfällen
+### Artikel 91 – Umgang mit Sicherheitsvorfällen
 
 (1) Unionsbetreiber im Bereich Weltraum richten einen Prozess für die Behandlung von Sicherheitsvorfällen ein und setzen ihn um, der es ihnen ermöglicht, Sicherheitsvorfälle unverzüglich zu erkennen, zu identifizieren, zu behandeln und darauf zu reagieren und erhebliche Sicherheitsvorfälle gemäß Artikel 93 zu melden.
 
@@ -2836,9 +2675,7 @@ Umgang mit Sicherheitsvorfällen
 (4) Unionsbetreiber im Bereich Weltraum untersuchen die Ursachen von Sicherheitsvorfällen, um künftige Sicherheitsvorfälle zu verhindern.
 
 <a id="art-92"></a>
-### Artikel 92
-
-Risikomanagement in der Lieferkette
+### Artikel 92 – Risikomanagement in der Lieferkette
 
 (1) Unionsbetreiber im Bereich Weltraum richten einen Rahmen für das Risikomanagement in der Lieferkette ein. Ihre Verträge mit Lieferantenherstellern und Dienstleistern enthalten Aspekte im Zusammenhang mit der Sicherheit der Lieferkette, insbesondere in Bezug auf die Anforderungen an die Informationssicherheit.
 
@@ -2848,12 +2685,11 @@ Risikomanagement in der Lieferkette
 
 (4) Damit die Bestimmungen dieser Verordnung auf der Grundlage der besten verfügbaren Techniken an den wissenschaftlichen und technischen Fortschritt angepasst werden können, wird der Kommission die Befugnis übertragen, gemäß Artikel 113 delegierte Rechtsakte zur Änderung des in Anhang VII Nummer 6 festgelegten Anforderungskatalogs zu erlassen.
 
-### Abschnitt 3 MELDUNG VON SICHERHEITSVORFÄLLEN
+<a id="title-iv-chapter-ii-section-3"></a>
+## Abschnitt 3 – MELDUNG VON SICHERHEITSVORFÄLLEN
 
 <a id="art-93"></a>
-### Artikel 93
-
-Meldung erheblicher Sicherheitsvorfälle
+### Artikel 93 – Meldung erheblicher Sicherheitsvorfälle
 
 (1) Unionsbetreiber im Bereich Weltraum melden der in Artikel 34 Absatz 4 der Verordnung (EU) 2021/696 genannten Struktur erhebliche Sicherheitsvorfälle, die sich auf unionseigene Ressourcen auswirken.
 
@@ -2900,9 +2736,7 @@ Meldung erheblicher Sicherheitsvorfälle
 (8) Der Kommission wird die Befugnis übertragen, gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren Durchführungsrechtsakte zu erlassen, um den Inhalt der gemäß Absatz 7 zu meldenden Informationen genauer festzulegen und die Muster und Verfahren für die Übermittlung dieser Informationen festzulegen.
 
 <a id="art-94"></a>
-### Artikel 94
-
-Unionsnetz für Resilienz im Weltraum
+### Artikel 94 – Unionsnetz für Resilienz im Weltraum
 
 (1) Das Unionsnetz für Resilienz im Weltraum (im Folgenden „EUSRN“) wird eingerichtet, um die Koordinierung und den Austausch zwischen der Agentur und den zuständigen Behörden bei der Erfüllung ihrer jeweiligen Mandate in Bezug auf unionseigene Ressourcen bzw. die in Artikel 5 Absatz 1 Nummer 21 genannten Ressourcen zu unterstützen.
 
@@ -2930,12 +2764,11 @@ Unionsnetz für Resilienz im Weltraum
 
     Zusätzlich zu den regelmäßigen Sitzungen gemäß Unterabsatz 1 hält das EUSRN alle 18 Monate eine ordentliche Tagung ab, die der Erleichterung der strategischen Zusammenarbeit im Weltraumbereich und dem Austausch einschlägiger Aktualisierungen und Analysen dient. Die Kommission führt den Vorsitz in den ordentlichen Tagungen.
 
-### Abschnitt 4 INFORMATIONSAUSTAUSCH UND SENSIBILISIERUNG
+<a id="title-iv-chapter-ii-section-4"></a>
+## Abschnitt 4 – INFORMATIONSAUSTAUSCH UND SENSIBILISIERUNG
 
 <a id="art-95"></a>
-### Artikel 95
-
-Informationsaustausch über Cyberbedrohungen
+### Artikel 95 – Informationsaustausch über Cyberbedrohungen
 
 (1) Unionsbetreiber im Bereich Weltraum können auf freiwilliger Basis untereinander einschlägige Informationen im Bereich der Cybersicherheit austauschen, einschließlich einschlägiger Informationen über Cyberangriffe, Cyberbedrohungen, elektronische Eingriffe wie Störfälle, Spoofing, Informationen über Kompromittierungsindikatoren, gegnerische Taktiken, Techniken und Verfahren, Beinahe-Vorfälle, Schwachstellen, bedrohungsspezifische Informationen sowie Cybersicherheitswarnungen und Empfehlungen für die Konfiguration von Cybersicherheitsinstrumenten zur Aufdeckung von Cyberangriffen, sofern
 
@@ -2959,12 +2792,11 @@ Informationsaustausch über Cyberbedrohungen
 
 (4) Die Kommission erleichtert mit Unterstützung der Agentur den Abschluss von Vereinbarungen über den Austausch von Informationen im Bereich der Cybersicherheit gemäß Absatz 1 Buchstabe d, indem sie die Tätigkeiten des EU-Weltrauminformationsaustausch- und -analysezentrums unterstützt oder fördert.
 
-## Kapitel III ÖKOLOGISCHE NACHHALTIGKEIT VON WELTRAUMTÄTIGKEITEN
+<a id="title-iv-chapter-iii"></a>
+## Kapitel III – ÖKOLOGISCHE NACHHALTIGKEIT VON WELTRAUMTÄTIGKEITEN
 
 <a id="art-96"></a>
-### Artikel 96
-
-Umweltfußabdruck von Weltraumtätigkeiten
+### Artikel 96 – Umweltfußabdruck von Weltraumtätigkeiten
 
 (1) Nachhaltigkeit umfasst Nachhaltigkeit im Weltraum und Nachhaltigkeit auf der Erde (ökologische Nachhaltigkeit).
 
@@ -3005,9 +2837,7 @@ Umweltfußabdruck von Weltraumtätigkeiten
   - b) Forschungs- und Bildungseinrichtungen.
 
 <a id="art-97"></a>
-### Artikel 97
-
-Berechnung des Umweltfußabdrucks und Überprüfung der Weltraumtätigkeiten
+### Artikel 97 – Berechnung des Umweltfußabdrucks und Überprüfung der Weltraumtätigkeiten
 
 (1) Der Umweltfußabdruck von Weltraumtätigkeiten umfasst alle Weltraummissionen, die in jeder Erdumlaufbahn, einschließlich „Friedhofsorbits“, durchgeführt werden.
 
@@ -3018,18 +2848,14 @@ Berechnung des Umweltfußabdrucks und Überprüfung der Weltraumtätigkeiten
 (4) Der Kommission wird die Befugnis übertragen, gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren Durchführungsrechtsakte zu erlassen, um die Methode für die Berechnung und Überprüfung des Umweltfußabdrucks von Weltraumtätigkeiten unter Berücksichtigung wissenschaftlich fundierter Bewertungsmethoden und der einschlägigen internationalen Normen, die mit der Empfehlung (EU) 2021/2279 der Kommission^(32)^(18) in Einklang stehen, festzulegen. Diese Durchführungsrechtsakte werden überprüft, um wissenschaftlichen und technologischen Entwicklungen Rechnung zu tragen und dem technischen Fortschritt zu folgen.
 
 <a id="art-98"></a>
-### Artikel 98
-
-Zertifikat über den Umweltfußabdruck
+### Artikel 98 – Zertifikat über den Umweltfußabdruck
 
 (1) Bei der Beantragung einer Genehmigung gemäß Artikel 7 Absatz 1 muss ein Antragsteller im Besitz eines Zertifikats sein, aus dem hervorgeht, dass der Umweltfußabdruck seiner vorgesehenen Weltraumtätigkeiten gemäß den Anforderungen des Artikels 96 Absatz 2 berechnet wurde.
 
 (2) Das in Absatz 1 genannte Zertifikat wird von einer qualifizierten technischen Stelle für Weltraumtätigkeiten mit technischer Bewertung, einschließlich Verifizierung und Validierung, für die Zwecke der Artikel 96, 97, 98, 99 und 100 ausgestellt.
 
 <a id="art-99"></a>
-### Artikel 99
-
-Übermittlung von Datensätzen an die Datenbank der Union zum Umweltfußabdruck
+### Artikel 99 – Übermittlung von Datensätzen an die Datenbank der Union zum Umweltfußabdruck
 
 (1) Bevor Antragsteller eine Genehmigung gemäß Artikel 7 Absatz 1 beantragen, übermitteln sie der Kommission die aggregierten und disaggregierten Datensätze gemäß Artikel 96 Absatz 6 Buchstabe c.
 
@@ -3044,9 +2870,7 @@ Zertifikat über den Umweltfußabdruck
 (4) Die in Absatz 1 genannten aggregierten Datensätze werden von der Kommission über die Datenbank der Union zum Umweltfußabdruck öffentlich zugänglich gemacht.
 
 <a id="art-100"></a>
-### Artikel 100
-
-Verwendung disaggregierter Datensätze für die Politikgestaltung
+### Artikel 100 – Verwendung disaggregierter Datensätze für die Politikgestaltung
 
 (1) Die Kommission verwendet die in Artikel 99 genannten disaggregierten Datensätze ausschließlich für die Zwecke der Politikgestaltung, zur Bereitstellung regulatorischer Aktualisierungen und zur Erstellung abgeleiteter Datensätze.
 
@@ -3054,12 +2878,11 @@ Verwendung disaggregierter Datensätze für die Politikgestaltung
 
 (3) Die Union erwirbt das weltweite ausschließliche Eigentumsrecht an den abgeleiteten Datensätzen, die auf der Grundlage der in Absatz 1 genannten disaggregierten Datensätze erstellt wurden.
 
-## Kapitel IV OPERATIONEN UND DIENSTE IM WELTRAUM (ISOS)
+<a id="title-iv-chapter-iv"></a>
+## Kapitel IV – OPERATIONEN UND DIENSTE IM WELTRAUM (ISOS)
 
 <a id="art-101"></a>
-### Artikel 101
-
-ISOS
+### Artikel 101 – ISOS
 
 (1) Unionsbetreiber im Bereich Weltraum, die ISOS durchführen, müssen die in diesem Artikel und in Anhang VIII festgelegten Anforderungen ab dem 1. Januar 2034 erfüllen.
 
@@ -3081,12 +2904,11 @@ ISOS
 
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 2 genannten Prüfverfahren erlassen.
 
-## KAPITEL V VORSCHRIFTEN FÜR DEN VERKEHR IN DER UMLAUFBAHN
+<a id="title-iv-chapter-v"></a>
+## Kapitel V – VORSCHRIFTEN FÜR DEN VERKEHR IN DER UMLAUFBAHN
 
 <a id="art-102"></a>
-### Artikel 102
-
-Aufsichtsüberprüfung und Aktualisierungen durch die Kollisionsvermeidungsstelle
+### Artikel 102 – Aufsichtsüberprüfung und Aktualisierungen durch die Kollisionsvermeidungsstelle
 
 (1) Eine zuständige Behörde kann den in Artikel 64 Absatz 1 genannten Unionsanbieter von Weltraumdiensten zur Kollisionsvermeidung auffordern, ihr im Rahmen der jährlichen Berichterstattung oder spezifischer Untersuchungen, die bei Unions-Raumfahrzeugbetreibern durchgeführt werden, aktuelle Informationen über ihre Raumfahrzeuge zur Verfügung zu stellen.
 
@@ -3099,9 +2921,7 @@ Aufsichtsüberprüfung und Aktualisierungen durch die Kollisionsvermeidungsstell
   - c) der Unions-Raumfahrzeugbetreiber die Anforderungen des Artikels 64 Absätze 1, 2, 3 und 4 und gegebenenfalls des Artikels 101 Absatz 3 erfüllt.
 
 <a id="art-103"></a>
-### Artikel 103
-
-Bedingungen für Kollisionsvermeidungsmanöver bei Ereignissen von hohem Interesse
+### Artikel 103 – Bedingungen für Kollisionsvermeidungsmanöver bei Ereignissen von hohem Interesse
 
 (1) Veröffentlicht die in Artikel 64 Absatz 1 genannte Kollisionsvermeidungsstelle eine Warnung vor einem Ereignis von hohem Interesse zwischen zwei manövrierfähigen Raumfahrzeugen und beschließt sie, dass eines der beiden betroffenen Raumfahrzeuge ein Kollisionsvermeidungsmanöver durchführen muss, so beruht das von ihr vorgeschlagene Manöver auf folgenden Grundsätzen:
 
@@ -3141,12 +2961,11 @@ Bedingungen für Kollisionsvermeidungsmanöver bei Ereignissen von hohem Interes
 
 (6) Sind die in Absatz 4 genannten Kontakte erfolglos oder kann nicht innerhalb eines angemessenen Zeitraums Kontakt aufgenommen werden, so empfiehlt die in Artikel 64 Absatz 1 genannte Kollisionsvermeidungsstelle dem Unions-Raumfahrzeugbetreiber eine Strategie für Maßnahmen, die mindestens die Einhaltung der in Absatz 1 genannten Grundsätze gewährleistet, und unterrichtet den anderen Unions-Raumfahrzeugbetreiber über die beabsichtigte Maßnahme.
 
-## KAPITEL VI NORMUNG UND GEMEINSAME SPEZIFIKATIONEN
+<a id="title-iv-chapter-vi"></a>
+## Kapitel VI – NORMUNG UND GEMEINSAME SPEZIFIKATIONEN
 
 <a id="art-104"></a>
-### Artikel 104
-
-Normen
+### Artikel 104 – Normen
 
 (1) Die Kommission beauftragt gemäß Artikel 10 Absatz 1 der Verordnung (EU) Nr. 1025/2012 eine oder mehrere europäische Normungsorganisationen damit, Normen für die folgenden grundlegenden Anforderungen auszuarbeiten:
 
@@ -3168,12 +2987,11 @@ Normen
 
     Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Beratungsverfahren erlassen.
 
-## TITEL V GLEICHWERTIGKEITSBESCHLÜSSE, INTERNATIONALE ÜBEREINKÜNFTE UND VORSCHRIFTEN IN BEZUG AUF INTERNATIONALE ORGANISATIONEN
+<a id="title-v"></a>
+## Titel V – GLEICHWERTIGKEITSBESCHLÜSSE, INTERNATIONALE ÜBEREINKÜNFTE UND VORSCHRIFTEN IN BEZUG AUF INTERNATIONALE ORGANISATIONEN
 
 <a id="art-105"></a>
-### Artikel 105
-
-Gleichwertigkeit
+### Artikel 105 – Gleichwertigkeit
 
 (1) Die Kommission kann auf der Grundlage einer eingehenden Bewertung im Wege von Durchführungsrechtsakten gemäß Artikel 114 Absatz 2 einen Gleichwertigkeitsbeschluss erlassen, in dem sie feststellt, dass der Rechts- und Aufsichtsrahmen eines Drittlands sicherstellt, dass die in diesem Drittland niedergelassenen Drittlandsbetreiber im Bereich Weltraum rechtsverbindliche Anforderungen erfüllen, die den Anforderungen dieser Verordnung gleichwertig sind und in diesem Drittland einer wirksamen Aufsicht und Durchsetzung unterliegen.
 
@@ -3206,9 +3024,7 @@ Gleichwertigkeit
     Ist der Rechts- und Aufsichtsrahmen eines Drittlands nicht mehr gleichwertig, so hebt die Kommission den betreffenden Gleichwertigkeitsbeschluss auf.
 
 <a id="art-106"></a>
-### Artikel 106
-
-Internationale Übereinkünfte mit Drittländern
+### Artikel 106 – Internationale Übereinkünfte mit Drittländern
 
 (1) Die Union kann Abkommen über die Zusammenarbeit mit Drittländern in unter diese Verordnung fallenden Angelegenheiten schließen, insbesondere in Bezug auf
 
@@ -3223,9 +3039,7 @@ Internationale Übereinkünfte mit Drittländern
 (2) Die Agentur kann mit den einschlägigen Aufsichtsbehörden von Drittländern, die nicht in Absatz 1 Buchstabe b genannt sind, zusammenarbeiten und vorbehaltlich der Genehmigung durch die Kommission mit diesen Behörden oder mit Einrichtungen internationaler Organisationen Absichtserklärungen und Arbeitsvereinbarungen schließen.
 
 <a id="art-107"></a>
-### Artikel 107
-
-Für internationale Organisationen geltende Regelungen
+### Artikel 107 – Für internationale Organisationen geltende Regelungen
 
 (1) Die Kommission kann im Wege von Beitragsvereinbarungen eine internationale Organisation mit der Durchführung von Aufgaben im Zusammenhang mit dem Betrieb von Ressourcen der Union betrauen.
 
@@ -3238,9 +3052,7 @@ Für internationale Organisationen geltende Regelungen
     In der in Unterabsatz 1 genannten Vereinbarung werden die Bedingungen sowie die praktischen und operativen Modalitäten festgelegt, um die Kontrolle der Anwendung der in Titel IV festgelegten Anforderungen durch diese internationale Organisation unter gebührender Berücksichtigung ihres institutionellen Rahmens zu gewährleisten.
 
 <a id="art-108"></a>
-### Artikel 108
-
-Beziehungen mit der Europäischen Weltraumorganisation
+### Artikel 108 – Beziehungen mit der Europäischen Weltraumorganisation
 
 (1) Die Union bemüht sich um den Abschluss einer Vereinbarung mit der Europäischen Weltraumorganisation (ESA), um die mit dieser Verordnung verfolgten Ziele voranzubringen und die Zusammenarbeit zwischen der Union und der ESA zu verstärken.
 
@@ -3258,14 +3070,14 @@ Beziehungen mit der Europäischen Weltraumorganisation
 
 (4) Auf Ersuchen der Kommission kann die ESA als Beobachter oder Mitglied an einer einschlägigen beratenden Gruppe technischer Art teilnehmen, die im Rahmen dieser Verordnung eingerichtet werden kann.
 
-## TITEL VI UNTERSTÜTZENDE MAẞNAHMEN
+<a id="title-vi"></a>
+## Titel VI – UNTERSTÜTZENDE MAẞNAHMEN
 
-## Kapitel I MAẞNAHMEN ZUM KAPAZITÄTSAUFBAU
+<a id="title-vi-chapter-i"></a>
+## Kapitel I – MAẞNAHMEN ZUM KAPAZITÄTSAUFBAU
 
 <a id="art-109"></a>
-### Artikel 109
-
-Kapazitätsaufbau
+### Artikel 109 – Kapazitätsaufbau
 
 (1) Die Kommission unterstützt Betreiber im Bereich Weltraum, zuständige Behörden und qualifizierte technische Stellen für Weltraumtätigkeiten bei der Durchführung dieser Verordnung, indem sie
 
@@ -3300,9 +3112,7 @@ Kapazitätsaufbau
 (4) Die Kommission erleichtert den Zugang zu den bedrohungsorientierten Penetrationstests gemäß Artikel 88 Absatz 3 Unterabsatz 1, indem sie die Verfügbarkeit solcher Prüfdienste in der Union erfasst und Rahmenverträge ausarbeitet, um insbesondere KMU und kleinen Midcap-Unternehmen einen schnellen und erschwinglichen Zugang zu gewährleisten.
 
 <a id="art-110"></a>
-### Artikel 110
-
-Informationsportal
+### Artikel 110 – Informationsportal
 
 (1) Die Kommission richtet mit Unterstützung der Agentur ein Informationsportal zur Unterstützung dieser Verordnung (im Folgenden „Informationsportal“) ein und verwaltet es.
 
@@ -3318,12 +3128,11 @@ Informationsportal
 
     Die Kommission stellt die Interoperabilität dieser Helpdesk-Portale mit dem Informationsportal sicher.
 
-## Kapitel II RAHMEN FÜR DAS WELTRAUMSIEGEL DER UNION
+<a id="title-vi-chapter-ii"></a>
+## Kapitel II – RAHMEN FÜR DAS WELTRAUMSIEGEL DER UNION
 
 <a id="art-111"></a>
-### Artikel 111
-
-Weltraumsiegelsystem der Union
+### Artikel 111 – Weltraumsiegelsystem der Union
 
 (1) Die Kommission entwickelt einen Rahmen für ein Weltraumsiegel der Union, um eine verstärkte freiwillige Einhaltung hoher Standards für den Schutz von Weltraumtätigkeiten zu fördern.
 
@@ -3362,9 +3171,7 @@ Weltraumsiegelsystem der Union
 (5) Die Agentur unterhält eine spezielle Website, auf der aktuelle Informationen über die Weltraumsiegelsysteme der Union und die Weltraumsiegel der Union bereitgestellt und veröffentlicht werden.
 
 <a id="art-112"></a>
-### Artikel 112
-
-Vergabe und Verwendung des Weltraumsiegels der Union
+### Artikel 112 – Vergabe und Verwendung des Weltraumsiegels der Union
 
 (1) Möchte sich ein Betreiber im Bereich Weltraum um ein Weltraumsiegel der Union bewerben, so reicht er bei der Agentur einen Antrag auf Erteilung eines Weltraumsiegels der Union ein, dem ein detailliertes technisches Dossier beigefügt ist, aus dem hervorgeht, dass die Anforderungen des Siegelsystems/der Siegelsysteme der Union, für das/die das Weltraumsiegel der Union beantragt wird, erfüllt sind.
 
@@ -3382,12 +3189,11 @@ Vergabe und Verwendung des Weltraumsiegels der Union
 
 (7) Jede falsche oder irreführende Werbung oder Verwendung eines Weltraumsiegels der Union oder eines Logos, die zu Verwechslungen mit einem Weltraumsiegel der Union führt, ist verboten.
 
-## TITEL VII ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+<a id="title-vii"></a>
+## Titel VII – ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 <a id="art-113"></a>
-### Artikel 113
-
-Ausübung der Befugnisübertragung
+### Artikel 113 – Ausübung der Befugnisübertragung
 
 (1) Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem Artikel festgelegten Bedingungen übertragen.
 
@@ -3406,9 +3212,7 @@ Ausübung der Befugnisübertragung
 (7) Ein delegierter Rechtsakt, der gemäß Artikel 41 Absatz 3, Artikel 44 Absatz 3, Artikel 56 Absatz 9 Unterabsatz 1, Artikel 70 Absatz 4, Artikel 78 Absatz 3, Artikel 79 Absatz 4, Artikel 82 Absatz 4, Artikel 83 Absatz 5, Artikel 84 Absatz 5, Artikel 85 Absatz 4, Artikel 86 Absatz 4, Artikel 92 Absatz 4, Artikel 93 Absatz 7 Unterabsatz 2, Artikel 101 Absatz 4 Unterabsatz 1 und Artikel 109 Absatz 2 Unterabsatz 2 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate verlängert.
 
 <a id="art-114"></a>
-### Artikel 114
-
-Ausschussverfahren
+### Artikel 114 – Ausschussverfahren
 
 (1) Die Kommission wird von einem Ausschuss unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011 .
 
@@ -3431,9 +3235,7 @@ Ausschussverfahren
 (5) Im Einklang mit den von der Union geschlossenen internationalen Übereinkünften können unter den in der Geschäftsordnung des Ausschusses festgelegten Bedingungen die Vertreter von Drittländern oder internationalen Organisationen als Beobachter zu seinen Sitzungen eingeladen werden, wobei der Sicherheit der Union Rechnung zu tragen ist.
 
 <a id="art-115"></a>
-### Artikel 115
-
-Berufsgeheimnis
+### Artikel 115 – Berufsgeheimnis
 
 (1) Vertrauliche Informationen, die von einer in Absatz 2 genannten Person, Einrichtung oder Behörde gemäß dieser Verordnung empfangen, ausgetauscht oder übermittelt werden, unterliegen der Bedingung des Berufsgeheimnisses gemäß den Absätzen 2 und 3.
 
@@ -3444,9 +3246,7 @@ Berufsgeheimnis
 (4) Alle im Rahmen der vorliegenden Verordnung zwischen zuständigen Behörden ausgetauschten Informationen, die Geschäfts- oder Betriebsbedingungen und wirtschaftliche oder persönliche Angelegenheiten betreffen, sind vertraulich und unterliegen den Anforderungen des Berufsgeheimnisses, es sei denn, ihre Weitergabe wird von einer zuständigen Behörde zum Zeitpunkt der Einleitung der Übermittlung für zulässig erklärt oder diese Weitergabe ist für die Zwecke von Gerichtsverfahren erforderlich.
 
 <a id="art-116"></a>
-### Artikel 116
-
-Evaluierung und Überprüfung
+### Artikel 116 – Evaluierung und Überprüfung
 
 (1) Bis zum 1. Dezember 2035 und danach alle fünf Jahre legt die Kommission dem Europäischen Parlament und dem Rat einen Bericht über die Bewertung dieser Verordnung, einschließlich einer Bewertung der ökologischen, wirtschaftlichen und sozialen Auswirkungen von Weltraumtätigkeiten auf andere Sektoren, und gegebenenfalls einen Bericht über ihre Überprüfung vor, dem erforderlichenfalls ein Gesetzgebungsvorschlag beigefügt ist. Die Berichte werden veröffentlicht.
 
@@ -3455,27 +3255,21 @@ Evaluierung und Überprüfung
 (3) Bei der Bewertung und Überprüfung gemäß Absatz 1 berücksichtigt die Kommission die Stellungnahmen, Standpunkte und Erkenntnisse der Agentur, des Europäischen Parlaments, des Rates, der Mitgliedstaaten und der zuständigen Behörden sowie anderer einschlägiger Stellen und Organisationen oder einschlägiger Quellen.
 
 <a id="art-117"></a>
-### Artikel 117
-
-Berichte an die Kommission
+### Artikel 117 – Berichte an die Kommission
 
 Bis zum 1. Dezember 2031 und danach jedes Jahr erstatten die Mitgliedstaaten der Kommission Bericht über den Stand der Durchführung dieser Verordnung. Der Bericht enthält Informationen über Durchsetzungsmaßnahmen und Aktualisierungen zum Weltraumsektor auf nationaler Ebene, wie z. B. über Aspekte der Wettbewerbsfähigkeit, die sich auf das Funktionieren des Binnenmarkts auswirken, und Elemente zum Bedarf an öffentlichen und privaten Ausgaben.
 
 In ihrem ersten Bericht teilen die Mitgliedstaaten der Kommission ihre vorbereitenden Maßnahmen und die auf nationaler Ebene ergriffenen Maßnahmen mit, einschließlich Anpassungen zur Gewährleistung einer reibungslosen Anwendung dieser Verordnung.
 
 <a id="art-118"></a>
-### Artikel 118
-
-Übergangszeitraum
+### Artikel 118 – Übergangszeitraum
 
 (1) Für Genehmigungen für Ressourcen, die nach dem 1. Januar 2030 starten sollen und deren kritische Entwurfsprüfung am [JO: 12 Monate ab dem Datum des Inkrafttretens dieser Verordnung berechnen] endete, gilt diese Verordnung erst ab dem 1. Januar 2032.
 
 (2) Die zuständigen Behörden (in Bezug auf Unionsbetreiber im Bereich Weltraum) und die Agentur (in Bezug auf Drittlandsbetreiber im Bereich Weltraum) stellen das Ende der in Absatz 1 genannten kritischen Entwurfsprüfungsphase zu dem Zeitpunkt fest, zu dem die Betreiber im Bereich Weltraum die Nachweise vorlegen, die sie von der einschlägigen, vertraglich mit der technischen Genehmigung der Konstruktion des Raumfahrzeugs betrauten Stelle erhalten haben.
 
 <a id="art-119"></a>
-### Artikel 119
-
-Inkrafttreten und Geltung
+### Artikel 119 – Inkrafttreten und Geltung
 
 Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 

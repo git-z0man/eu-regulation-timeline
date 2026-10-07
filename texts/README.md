@@ -1060,7 +1060,7 @@ All texts of this act as one file: [standardisation-revision.zip](downloads/stan
 
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-06_com-proposal-st-14141-26 | com-proposal | – | [en](standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | [source](http://publications.europa.eu/resource/cellar/7d87e424-c19d-11f1-988f-01aa75ed71a1.0001.02/DOC_1) |
+| 2026-10-06_com-proposal-st-14141-26 | com-proposal | – | [en](standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | [source](http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1) |
 
 ## TSR
 

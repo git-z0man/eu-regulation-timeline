@@ -482,14 +482,14 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-Part I General provisions
+<a id="part-i"></a>
+## Part I – General provisions
 
-## Title I Subject-matter and scope
+<a id="part-i-title-i"></a>
+## Title I – Subject-matter and scope
 
 <a id="art-1"></a>
-### Article 1
-
-Subject-matter and scope
+### Article 1 – Subject-matter and scope
 
 1. This Regulation establishes rules on public contracts for works, supplies or services and concessions for works or services procured by one or more public buyers from one or more economic operators, the value of which is equal to or greater than the thresholds established in Article 2.
 
@@ -504,9 +504,7 @@ Subject-matter and scope
 6. Agreements, decisions or other legal instruments that organise the transfer of powers and responsibilities for the performance of public tasks between public buyers and that do not provide for remuneration to be given for contractual performance are considered to be a matter of internal organisation of the Member State concerned and, as such, are not affected in any way by this Regulation.
 
 <a id="art-2"></a>
-### Article 2
-
-Thresholds
+### Article 2 – Thresholds
 
 1. This Regulation applies to public contracts and concessions with a value net of value-added tax (VAT) estimated to be equal to or greater than the following thresholds:
 
@@ -523,9 +521,7 @@ Thresholds
 2. The Commission is empowered to adopt delegated acts in accordance with Article 141, or, in cases of urgency, with Article 142, amending the thresholds set out in paragraph 1 of this Article in accordance with the conditions set out in Article 3.
 
 <a id="art-3"></a>
-### Article 3
-
-Revision of thresholds
+### Article 3 – Revision of thresholds
 
 1. Every two years from … [OP please insert the date = the last day of the month of August after the date of entry into force of this Regulation], the Commission shall verify that the thresholds set out in Article 2(1) correspond to the thresholds established in the World Trade Organization Agreement on Government Procurement (GPA) and shall, where necessary, revise those thresholds in accordance with this Article.
 
@@ -539,12 +535,11 @@ Revision of thresholds
 
 6. Where it is necessary to revise the thresholds set out in Article 3 and where imperative grounds of urgency prevent the use of the procedure laid down in Article 141 and therefore imperative grounds of urgency so require, the procedure referred to in Article 142 shall apply to delegated acts adopted pursuant to Article 2(2).
 
-## Title II Principles, policy objectives and definitions
+<a id="part-i-title-ii"></a>
+## Title II – Principles, policy objectives and definitions
 
 <a id="art-4"></a>
-### Article 4
-
-Principles of procurement
+### Article 4 – Principles of procurement
 
 1. Procurement shall be guided by the principle of best quality for public money, thereby serving the objective of efficient public spending and investment.
 
@@ -557,9 +552,7 @@ Principles of procurement
 4. Public buyers shall take appropriate measures to ensure that, in the performance of public contracts, economic operators comply with applicable obligations relating to the policy objectives set out in Article 5, including applicable obligations in the fields of environmental, social and labour law as established by Union law, national law, collective agreements, or by the international environmental, social and labour law conventions listed in Annex II.
 
 <a id="art-5"></a>
-### Article 5
-
-Policy objectives
+### Article 5 – Policy objectives
 
 Public procurement shall be guided by the strategic policy objectives of the Union, in particular:
 
@@ -572,9 +565,7 @@ Public procurement shall be guided by the strategic policy objectives of the Uni
 - (d) the Union's safety, security, resilience and economic security, including through strategic independence.
 
 <a id="art-6"></a>
-### Article 6
-
-Definitions
+### Article 6 – Definitions
 
 For the purposes of this Regulation, the following definitions apply:
 
@@ -638,16 +629,17 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (27) ‘work’ means the outcome of building or civil engineering works taken as a whole which is sufficient in itself to fulfil an economic or technical function.
 
-Part II Relevant actors
+<a id="part-ii"></a>
+## Part II – Relevant actors
 
-## Title I Public buyers
+<a id="part-ii-title-i"></a>
+## Title I – Public buyers
 
-## Chapter 1 Identification of public buyers
+<a id="part-ii-title-i-chapter-1"></a>
+## Chapter 1 – Identification of public buyers
 
 <a id="art-7"></a>
-### Article 7
-
-Contracting authorities
+### Article 7 – Contracting authorities
 
 1. For the purpose of this Regulation, contracting authorities shall be the central government authorities, sub-central government authorities, bodies governed by public law, or associations formed by one or more such contracting authorities, irrespective of whether the procurement procedure is conducted by one or more specific administrative units within them.
 
@@ -674,9 +666,7 @@ Contracting authorities
 5. The Commission is empowered to adopt delegated acts in accordance with Article 141 to amend Annex I by updating the list of central government authorities based on the notifications received from Member States pursuant to paragraph 2 of this Article.
 
 <a id="art-8"></a>
-### Article 8
-
-Contracting entities
+### Article 8 – Contracting entities
 
 1. For the purpose of this Regulation, contracting entities shall be contracting authorities, public undertakings, and entities that operate on the basis of special or exclusive rights, and which carry out one or more of the activities referred to in Articles 12 to 18 or any combination thereof, unless the activity is directly exposed to competition on markets to which access is not restricted within the meaning of Article 19.
 
@@ -701,9 +691,7 @@ Contracting entities
   - (b) procedures pursuant to other legal acts of the Union that ensure adequate prior transparency for granting authorisations on the basis of objective criteria, including but not limited to the procedures under the Union legal acts listed in Annex III.
 
 <a id="art-9"></a>
-### Article 9
-
-Central purchasing bodies
+### Article 9 – Central purchasing bodies
 
 1. Public buyers may organise their procurement activities through the creation and use of central purchasing bodies in accordance with the rules set out in this Article.
 
@@ -724,9 +712,7 @@ Central purchasing bodies
 6. A public buyer acquiring a solution from or through a Union institution, body, office or agency which carries out joint procurement, acts on behalf of the Member States or acts as a central purchasing body pursuant to Regulation (EU, Euratom) 2024/2509^(40) or other Union legal acts other than this Regulation which provide for carrying out joint procurement or acting on behalf of the Member States or as central purchasing body, shall be deemed to comply with this Regulation in respect of the procurement for that solution.
 
 <a id="art-10"></a>
-### Article 10
-
-Joint procurement
+### Article 10 – Joint procurement
 
 1. Two or more public buyers, including those from different Member States, may act jointly in the award of certain specific public contracts.
 
@@ -740,23 +726,21 @@ Joint procurement
 
 3. This Article is without prejudice to Articles 9(6) and 69(3), point (f), of this Regulation and Article 168(2) and (3) of Regulation (EU, Euratom) 2024/2509 or other Union legal acts.
 
-## Chapter 2 Activities in the field of utilities
+<a id="part-ii-title-i-chapter-2"></a>
+## Chapter 2 – Activities in the field of utilities
 
-### Section 1 Covered activities
+<a id="part-ii-title-i-chapter-2-section-1"></a>
+## Section 1 – Covered activities
 
 <a id="art-11"></a>
-### Article 11
-
-Common provisions
+### Article 11 – Common provisions
 
 1. For the purposes of Articles 12, 13 and 14, ‘supply’ shall include generation or production, wholesale and retail sale.
 
 2. The production of gas in the form of extraction shall fall within the scope of Article 18.
 
 <a id="art-12"></a>
-### Article 12
-
-Gas and heat
+### Article 12 – Gas and heat
 
 1. In relation to gas and heat, this Regulation applies to the following activities:
 
@@ -771,9 +755,7 @@ Gas and heat
   - (b) the supply to the public network is aimed only at the economic exploitation of such production and amounts to not more than 20 % of the contracting entity's turnover on the basis of the average for the three years preceding the one in which the supply is made.
 
 <a id="art-13"></a>
-### Article 13
-
-Electricity
+### Article 13 – Electricity
 
 1. In relation to electricity, this Regulation applies to the following activities:
 
@@ -788,9 +770,7 @@ Electricity
   - (b) the supply to the public network depends only on that contracting entity's own consumption and has not exceeded 30 % of that contracting entity's total production of energy, on the basis of the average for the three years preceding the one in which the supply is made.
 
 <a id="art-14"></a>
-### Article 14
-
-Water
+### Article 14 – Water
 
 1. In relation to water, this Regulation applies to the following activities:
 
@@ -811,25 +791,19 @@ Water
   - (b) the supply to the public network depends only on that contracting entity's own consumption and has not exceeded 30 % of that contracting entity's total production of drinking water, on the basis of the average for the three years preceding the one in which the supply is made.
 
 <a id="art-15"></a>
-### Article 15
-
-Transport Services
+### Article 15 – Transport Services
 
 1. This Regulation applies to the provision or operation of networks providing a service to the public in the field of transport by railway, automated systems, tramway, trolley bus, bus or cable.
 
 2. As regards transport services, a network shall be considered to exist where the service is provided under operating conditions laid down by a competent authority of a Member State, such as conditions on the routes to be served, the capacity to be made available or the frequency of the service.
 
 <a id="art-16"></a>
-### Article 16
-
-Ports and airports
+### Article 16 – Ports and airports
 
 This Regulation applies to the exploitation of a geographical area for the purpose of providing airports and maritime or inland ports or other terminal facilities to carriers by air, sea or inland waterway.
 
 <a id="art-17"></a>
-### Article 17
-
-Postal services
+### Article 17 – Postal services
 
 1. This Regulation applies to activities relating to the provision of the following services:
 
@@ -850,9 +824,7 @@ Postal services
       (ii) services concerning postal items not included in point (a), such as direct mail bearing no address.
 
 <a id="art-18"></a>
-### Article 18
-
-Energy sources extraction and exploration
+### Article 18 – Energy sources extraction and exploration
 
 This Regulation applies to the exploitation of a geographical area for the purpose of:
 
@@ -860,12 +832,11 @@ This Regulation applies to the exploitation of a geographical area for the purpo
 
   - (b) exploring for, or extracting, coal or other solid fuels.
 
-### Section 2 Exempting particular utility activities
+<a id="part-ii-title-i-chapter-2-section-2"></a>
+## Section 2 – Exempting particular utility activities
 
 <a id="art-19"></a>
-### Article 19
-
-Activities directly exposed to competition
+### Article 19 – Activities directly exposed to competition
 
 1. This Regulation does not apply to contracts for the pursuit of activities listed in Articles 12 to 18, with regard to a given geographical area if the activity is directly exposed to competition on markets to which access is not restricted in that geographical area, where that is established by an implementing act adopted pursuant to Article 20(4).
 
@@ -886,9 +857,7 @@ Activities directly exposed to competition
 4. For the purposes of paragraph 1, access to a market is deemed not to be restricted if the Member State has implemented and applied the Union legal acts listed in Annex IV. Otherwise, it shall be established that access to the market in question is free in law and in fact.
 
 <a id="art-20"></a>
-### Article 20
-
-Exemption procedure
+### Article 20 – Exemption procedure
 
 1. Where a Member State or a contracting entity considers that a given activity is directly exposed to competition on markets to which access is not restricted, it may submit to the Commission, as a preparatory step to a possible formal exemption request, a preliminary question on the applicability of Article 19 pursuant to paragraph 2 of this Article, or, directly, a formal exemption request pursuant to paragraph 3 of this Article, to establish that the activity in question is not covered by this Regulation.
 
@@ -946,14 +915,14 @@ Exemption procedure
 
     That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 143(2).
 
-## Title II Economic operators
+<a id="part-ii-title-ii"></a>
+## Title II – Economic operators
 
-## Chapter 1 General provisions
+<a id="part-ii-title-ii-chapter-1"></a>
+## Chapter 1 – General provisions
 
 <a id="art-21"></a>
-### Article 21
-
-Economic operators
+### Article 21 – Economic operators
 
 1. Public buyers shall not require economic operators to have a specific legal form in order to participate in the procurement procedure.
 
@@ -962,9 +931,7 @@ Economic operators
 3. Public buyers may, in the case of services, works or siting and installation operations, require legal persons to indicate before the start of the execution of the tasks concerned, the names and relevant qualifications of the staff responsible for the performance of the contract in question.
 
 <a id="art-22"></a>
-### Article 22
-
-Groups of economic operators
+### Article 22 – Groups of economic operators
 
 1. Public buyers shall not set out selection criteria pursuant to Article 27 for groups of economic operators that differ from those for other economic operators, unless otherwise laid down in this Article.
 
@@ -989,9 +956,7 @@ Groups of economic operators
 5. Public buyers shall give particular consideration not to create unjustified or disproportionate barriers related to the size of the economic operators participating in a group, in particular for SMEs.
 
 <a id="art-23"></a>
-### Article 23
-
-Reliance on the capacity of other entities
+### Article 23 – Reliance on the capacity of other entities
 
 1. With regard to selection criteria set by the public buyer pursuant to Article 27, economic operators may rely on the capacities of other entities, regardless of the legal nature of the links which it has with them or of their legal form.
 
@@ -1004,9 +969,7 @@ Reliance on the capacity of other entities
 5. Where an economic operator relies on the capacities of other entities to prove technical and professional ability, the public buyer may require in the procurement detail that such other entity will perform the works or services for which these capacities are required.
 
 <a id="art-24"></a>
-### Article 24
-
-Subcontracting
+### Article 24 – Subcontracting
 
 1. Parts of the public contract may be subcontracted. A contract awarded to an economic operator shall not be subcontracted in its entirety, nor be further subcontracted in its entirety.
 
@@ -1036,12 +999,11 @@ Subcontracting
 
 7. Observance of the obligations referred to in Article 4(4) by subcontractors is ensured through appropriate action by the competent national authorities acting within the scope of their responsibility and remit. Member States may adopt or retain additional proportionate measures limiting subcontracting where they have identified a duly substantiated higher risk of non-compliance with social and labour law obligations.
 
-## Chapter 2 Exclusion grounds and selection criteria
+<a id="part-ii-title-ii-chapter-2"></a>
+## Chapter 2 – Exclusion grounds and selection criteria
 
 <a id="art-25"></a>
-### Article 25
-
-Mandatory exclusions
+### Article 25 – Mandatory exclusions
 
 1. Public buyers shall at any time during the procedure exclude an economic operator, including individual members of a group of economic operators, from participation in a procurement procedure where that economic operator, or a key person in the functioning of a legal person as defined in the second subparagraph, has been the subject, in any Member State, of a conviction by final judgment for any of the offences listed in this subparagraph, or, regarding Member States not bound by the relevant Union legal act, offences as laid down in equivalent national legislation:
 
@@ -1084,9 +1046,7 @@ Mandatory exclusions
 4. Public buyers may decide to derogate from the mandatory exclusion provided for in this Article on an exceptional basis, for overriding reasons relating to the public interest such as public health or protection of the environment Any decision to derogate and the justification therefore shall be documented in the individual documentation pursuant to Article 109.
 
 <a id="art-26"></a>
-### Article 26
-
-Optional exclusion grounds
+### Article 26 – Optional exclusion grounds
 
 1. Public buyers may at any time during the procedure exclude an economic operator, including individual members of groups of economic operators, from participation in a procurement procedure, where:
 
@@ -1131,9 +1091,7 @@ Optional exclusion grounds
 4. Where a public buyer excludes an economic operator on the basis of paragraph 1, point (h), it shall inform the Commission thereof.
 
 <a id="art-27"></a>
-### Article 27
-
-Selection criteria
+### Article 27 – Selection criteria
 
 1. Where public buyers decide to make use of selection criteria, they shall lay down such criteria in accordance with the conditions in this Article.
 
@@ -1181,12 +1139,11 @@ Selection criteria
 
 8. Information that can be determined from existing national databases established by a public body, or from the registration on official lists or certifications shall not be questioned without sufficient justification.
 
-## Chapter 3 Means of proof of eligibility and database access
+<a id="part-ii-title-ii-chapter-3"></a>
+## Chapter 3 – Means of proof of eligibility and database access
 
 <a id="art-28"></a>
-### Article 28
-
-Means of proof of the eligibility of economic operators
+### Article 28 – Means of proof of the eligibility of economic operators
 
 1. Public buyers shall require economic operators to use the electronic eligibility service established pursuant to Article 133 as the means of proof for the following:
 
@@ -1211,9 +1168,7 @@ Means of proof of the eligibility of economic operators
     Where the economic operator fails to provide the information or documentation referred to in the third subparagraph, without reasonable explanation, and thereby prevents the verification of the origin by a public buyer or makes such verification practically impossible or very difficult, the economic operator, or the tender it has submitted, may be excluded from participating in the public procurement procedure concerned.
 
 <a id="art-29"></a>
-### Article 29
-
-Connection of databases to the electronic eligibility service
+### Article 29 – Connection of databases to the electronic eligibility service
 
 1. Member States shall, by 15 June 2029, provide free of charge access for the digital business credential tool pursuant to Article 133 to the national databases in which:
 
@@ -1233,16 +1188,17 @@ Connection of databases to the electronic eligibility service
 
 3. Member States shall inform the Commission of any newly established national databases capable of providing means of proof through use of the digital business credential tool and shall provide free of charge access for the digital business credential tool to such national databases.
 
-Part III Procedures for public contracts
+<a id="part-iii"></a>
+## Part III – Procedures for public contracts
 
-## Title I Public procurement procedures
+<a id="part-iii-title-i"></a>
+## Title I – Public procurement procedures
 
-## Chapter 1 Preliminary steps and general provisions
+<a id="part-iii-title-i-chapter-1"></a>
+## Chapter 1 – Preliminary steps and general provisions
 
 <a id="art-30"></a>
-### Article 30
-
-Market consultations
+### Article 30 – Market consultations
 
 1. Public buyers may conduct market consultations to prepare their procurement and gain market knowledge, including about the availability of, or potential of developing, innovative solutions.
 
@@ -1253,9 +1209,7 @@ Market consultations
 4. The participation of an economic operator in a market consultation does not prejudge its eligibility for the procurement procedure.
 
 <a id="art-31"></a>
-### Article 31
-
-Choice of procedures
+### Article 31 – Choice of procedures
 
 1. Public buyers may use the open procedure set out in Article 34 and the dynamic procedure set out in Article 36 irrespective of the type of works, supplies or services needed.
 
@@ -1264,9 +1218,7 @@ Choice of procedures
 3. Public buyers may use the special procedure described in Article 46 only in the specific cases and circumstances laid down in Articles 47 and 48.
 
 <a id="art-32"></a>
-### Article 32
-
-Estimation of the value of the contract
+### Article 32 – Estimation of the value of the contract
 
 1. Public buyers intending to award a contract shall estimate the value of the contract based on the estimated costs of the solution that meets the needs of the public buyer. The estimation shall be based on the maximum amount to be spent on the satisfaction of the needs over the entire duration of the contract, whether awarded to one or more economic operators, including all forms of payments and benefits, such as:
 
@@ -1281,9 +1233,7 @@ Estimation of the value of the contract
   - (b) the estimated value of recurring contracts for the same type of purchase during the 12 months following the initial contract or the public buyer’s preceding fiscal year.
 
 <a id="art-33"></a>
-### Article 33
-
-Conduct of negotiations
+### Article 33 – Conduct of negotiations
 
 1. Public buyers shall respect the principles of proportionality and equal treatment in the conduct of negotiations and shall ensure that in any given round of negotiations the number of solutions discussed allows for genuine competition. Public buyers shall ensure that any disclosure of information during negotiations does not affect the commercial interests of the economic operators taking part in such negotiations.
 
@@ -1301,12 +1251,11 @@ Conduct of negotiations
 
     Where a public buyer has decided to conclude the negotiations and proceed to the award of the contract, it shall invite each of the remaining economic operators to submit a final tender.
 
-## Chapter 2 Open procedure
+<a id="part-iii-title-i-chapter-2"></a>
+## Chapter 2 – Open procedure
 
 <a id="art-34"></a>
-### Article 34
-
-Launch and conduct of the open procedure
+### Article 34 – Launch and conduct of the open procedure
 
 1. In the open procedure, public buyers shall make their procurement needs known through a public summary of competition published pursuant to Article 110 setting out whether and which selection criteria apply, and whether they intend to negotiate.
 
@@ -1321,27 +1270,22 @@ Launch and conduct of the open procedure
 6. Public buyers may decide not to negotiate, despite having indicated their intention to do so, but instead proceed to award the contract on the basis of the first tenders, provided that they have reserved the possibility of doing so in the public summary of competition.
 
 <a id="art-35"></a>
-### Article 35
-
-Finalisation of the procedure and award of the contract
+### Article 35 – Finalisation of the procedure and award of the contract
 
 1. Public buyers shall award the contract to the tenderer or tenderers that have submitted the tender offering the best quality for money in accordance with Article 98.
 
 2. Without prejudice to the standstill period established in Directives 89/665/EEC^(55) and 92/13/EEC^(56), the contract shall be concluded in accordance with the applicable law of the Member State of the public buyer.
 
-## Chapter 3 Dynamic procedure
+<a id="part-iii-title-i-chapter-3"></a>
+## Chapter 3 – Dynamic procedure
 
 <a id="art-36"></a>
-### Article 36
-
-Dynamic procedure
+### Article 36 – Dynamic procedure
 
 Public buyers may use a dynamic procedure, in which only economic operators that have joined a given procedure are invited to express interest, submit a tender or participate in negotiations for individual contracts based on that procedure. Economic operators may request to join the procedure at any point during its validity.
 
 <a id="art-37"></a>
-### Article 37
-
-Launch and validity of the dynamic procedure
+### Article 37 – Launch and validity of the dynamic procedure
 
 1. Public buyers conducting a dynamic procedure shall publish a public summary of competition on the launch of a dynamic procedure pursuant to Article 110, which shall indicate the duration of validity of the procedure, during which interested economic operators may request to join the procedure and during which acquisitions on the basis of the procedure may be made. The dynamic procedure shall remain open to all interested economic operators throughout its validity.
 
@@ -1350,9 +1294,7 @@ Launch and validity of the dynamic procedure
 3. Where public buyers intend to award an individual contract for the first time on the basis of the dynamic procedure, the invitation to express an interest in the specific contract shall take place not earlier than 25 days after the publication of the public summary of competition on the launch of a dynamic procedure.
 
 <a id="art-38"></a>
-### Article 38
-
-Conduct of the dynamic procedure without selection criteria
+### Article 38 – Conduct of the dynamic procedure without selection criteria
 
 1. Upon the publication of the public summary of competition, and until the validity of the procedure has expired, economic operators may join the procedure by sharing their profile with the public buyer trough the eligibility system established pursuant to Article 133. By sharing their profile, the economic operators declare that they are qualified to perform the contract.
 
@@ -1365,9 +1307,7 @@ Conduct of the dynamic procedure without selection criteria
 4. Only economic operators that have submitted a tender shall be considered to be tenderers concerned within the meaning of Directives 89/665/EEC and 92/13/EEC.
 
 <a id="art-39"></a>
-### Article 39
-
-Conduct of the dynamic procedure with selection criteria
+### Article 39 – Conduct of the dynamic procedure with selection criteria
 
 1. Upon the publication of the public summary of competition, and until the validity of the procedure has expired, economic operators may request to join the procedure, by sharing their profile with the public buyer trough the eligibility system established pursuant to Article 133. By sharing their profile, the economic operators declare that they are qualified to perform the contract.
 
@@ -1380,20 +1320,17 @@ Conduct of the dynamic procedure with selection criteria
     By way of derogation from the first subparagraph, public buyers may decide to only invite a subset of the economic operators having expressed their interest in the specific contract to be awarded, on the basis of objective and non-discriminatory criteria or rules, provided that they have indicated these in the public summary of competition on the launch of the dynamic procedure.
 
 <a id="art-40"></a>
-### Article 40
-
-Finalisation of the procedure and award of the contract
+### Article 40 – Finalisation of the procedure and award of the contract
 
 1. Public buyers shall evaluate the final tenders in accordance with Article 98 and establish a ranking of all economic operators that have submitted a final tender. Public buyers shall award the contract to one or more economic operators that are not in a situation of exclusion. The results of this evaluation, including the ranking, shall be disclosed to the tenderers.
 
 2. Public buyers shall, for every contract signed under a dynamic procedure, publish a public summary of result pursuant to Article 110.
 
-## Chapter 4 Innovation procedure
+<a id="part-iii-title-i-chapter-4"></a>
+## Chapter 4 – Innovation procedure
 
 <a id="art-41"></a>
-### Article 41
-
-Design and conduct of the innovation procedure
+### Article 41 – Design and conduct of the innovation procedure
 
 1. Public buyers may use the innovation procedure as set out in this Chapter to address a societal challenge.
 
@@ -1420,9 +1357,7 @@ Design and conduct of the innovation procedure
   - (c) cost savings for the public buyer as compared with traditional or previously applied solutions.
 
 <a id="art-42"></a>
-### Article 42
-
-Launch of the innovation procedure
+### Article 42 – Launch of the innovation procedure
 
 1. Before the launch of an innovation procedure, public buyers shall conduct a market consultation according to Article 30 which shall last at least two months, unless a shorter duration is justified given the specificities of the contract.
 
@@ -1455,9 +1390,7 @@ Launch of the innovation procedure
 4. Any economic operator may submit an innovative solution proposal in response to a public summary of competition together with any information necessary for the selection of innovative solution proposals.
 
 <a id="art-43"></a>
-### Article 43
-
-Selection of innovative solution proposals
+### Article 43 – Selection of innovative solution proposals
 
 1. For the selection of innovative solution proposals, the public buyer shall perform an eligibility assessment in two phases.
 
@@ -1478,9 +1411,7 @@ Selection of innovative solution proposals
 4. Where the innovative solution proposal submitted by an economic operator attains at least the minimum total score for overall positive evaluation, that economic operator shall proceed to the next phase of the procurement procedure. The public buyer may limit the number of economic operators to proceed if it indicates such number in the procurement detail; in that case, the economic operators with the highest scores shall proceed.
 
 <a id="art-44"></a>
-### Article 44
-
-Testing, validation and assessment of innovative solution proposals
+### Article 44 – Testing, validation and assessment of innovative solution proposals
 
 1. The public buyer shall invite economic operators found eligible pursuant to Article 43 to the testing, validation and assessment phase.
 
@@ -1509,9 +1440,7 @@ Testing, validation and assessment of innovative solution proposals
 8. The final assessment, indicating a positive or negative decision to proceed to the phase of awarding the public contract, shall be published as the public summary of result for the testing, validation and assessment phase.
 
 <a id="art-45"></a>
-### Article 45
-
-Award of the public contract for deployment of the innovative solution proposal
+### Article 45 – Award of the public contract for deployment of the innovative solution proposal
 
 1. The public buyer shall send an invitation to negotiate to each economic operator that has received a positive decision to proceed pursuant Article 44(8).
 
@@ -1533,21 +1462,18 @@ Award of the public contract for deployment of the innovative solution proposal
 
 5. In case of a successful negotiation with an economic operator, the public buyer shall award the public contract for deployment of the solution proposal directly to that economic operator or, in the case of several successful solutions, to those economic operators. Awards may take place for up to five years after publication of the positive decision pursuant Article 44(8).
 
-## Chapter 5 Special procedures and tools
+<a id="part-iii-title-i-chapter-5"></a>
+## Chapter 5 – Special procedures and tools
 
 <a id="art-46"></a>
-### Article 46
-
-Contracts requiring only publication of public summary of result
+### Article 46 – Contracts requiring only publication of public summary of result
 
 1. In the specific cases and circumstances laid down in Articles 47 and 48, public buyers may use a special procedure to award a public contract by requesting a solution directly from one or more economic operators without the need for a competitive process or prior publication of information on the tender. This request may take the form of an invitation to negotiate, a request to submit a tender, or a request to deliver the solution against invoice. Public buyers shall publish a public summary of result pursuant to Article 110.
 
 2. The award of these contracts shall follow the principles of non-discrimination, equal treatment and transparency, taking due account of the specific needs and circumstances of the public buyers in the specific cases and circumstances described in Article 47 and 48.
 
 <a id="art-47"></a>
-### Article 47
-
-Conditions for the use of contracts with publication of a public summary of result only
+### Article 47 – Conditions for the use of contracts with publication of a public summary of result only
 
     Public buyers may use the procedure described in Article 46 in any of the following situations, in compliance with the Union’s international commitments:
 
@@ -1576,9 +1502,7 @@ Conditions for the use of contracts with publication of a public summary of resu
       (ii) Hotel and restaurant services under CPVs 55100000-1 to 55410000-7; 55521000-8 to 55521200-0 [55521000-8 Catering services for private households, 55521100-9 Meals-on-wheels services, 55521200-0 Meal delivery service] 55520000-1 Catering services, 55522000-5 Catering services for transport enterprises, 55523000-2 Catering services for other enterprises or other institutions, 55524000-9 School catering services 55510000-8 Canteen services, 55511000-5 Canteen and other restricted clientele cafeteria services, 55512000-2 Canteen management services, 55523100-3 School-meal service.
 
 <a id="art-48"></a>
-### Article 48
-
-Emergency and crisis
+### Article 48 – Emergency and crisis
 
 1. Public buyers may make use of the procedure described in Article 46, where, for reasons of extreme urgency not attributable to the public buyer, the time limits for the procedures in this Regulation cannot be complied with.
 
@@ -1601,14 +1525,14 @@ Emergency and crisis
 
 7. Any charges that are billed in connection with qualification or with updating or conserving an already obtained qualification shall be proportionate to the generated costs.
 
-## Title II Strategic design and execution of public procurement
+<a id="part-iii-title-ii"></a>
+## Title II – Strategic design and execution of public procurement
 
-## Chapter 1 Green public procurement
+<a id="part-iii-title-ii-chapter-1"></a>
+## Chapter 1 – Green public procurement
 
 <a id="art-50"></a>
-### Article 50
-
-Green public procurement
+### Article 50 – Green public procurement
 
 1. When procuring products, services and works, public buyers may take environmental and climate-related considerations into account with a view to preventing, reducing or otherwise mitigating adverse environmental and climate-related impacts or pursuing positive environmental and climate-related impacts throughout their life-cycle, as compared to alternative products, services and works with the same primary function (‘green public procurement’).
 
@@ -1633,16 +1557,12 @@ Green public procurement
     By contrast, public procurement integrating specific public procurement environmental criteria or requirements set under this Regulation or other relevant Union legislation shall be considered ‘green public procurement’ within the meaning of paragraph 1.
 
 <a id="art-51"></a>
-### Article 51
-
-Circular economy and resource efficiency
+### Article 51 – Circular economy and resource efficiency
 
     Public buyers may establish specifications, selection criteria, award criteria or conditions for the performance of contracts that, in line with the objective of a high level of environmental protection, promote circularity and resource efficiency throughout the life-cycle of works, products and services. Such requirements or criteria may, where appropriate, relate to durability, reparability, upgradeability, reuse, refurbishment, remanufacturing recycled content, the use of secondary raw materials, waste prevention, preparation for reuse or the procurement of refurbished, remanufactured or previously used products. Public buyers may also consider circular business models, including product-as-a-service, leasing, sharing or rental solutions, rather than the purchase of new products.
 
 <a id="art-52"></a>
-### Article 52
-
-Energy efficiency
+### Article 52 – Energy efficiency
 
 1. Public buyers shall, when purchasing goods, services or works purchase only products, services and works with a high energy efficiency performance, unless this is not technically feasible. To that end they shall:
 
@@ -1663,9 +1583,7 @@ Energy efficiency
 2. When the purchase concerns product package fully covered by a delegated act adopted under Regulation (EU) 2017/1369, public buyers may require that the aggregate energy efficiency of the product package takes precedence over the energy efficiency of the individual products within that package, by purchasing the product package that complies with the criterion of belonging to the highest available energy efficiency class.
 
 <a id="art-53"></a>
-### Article 53
-
-Food procurement
+### Article 53 – Food procurement
 
 1. For the purposes of pursuing objectives set in Articles 50(2) and Article 55(2), public buyers may also take considerations related to the quality and sustainability of food into account when procuring food, as appropriate, in specifications, award criteria or conditions for the performance of contracts, to the extent that they are related to the subject-matter of the contract.
 
@@ -1682,9 +1600,7 @@ Food procurement
   - (e) animal welfare requirements.
 
 <a id="art-54"></a>
-### Article 54
-
-Requirements for green public procurement for certain products
+### Article 54 – Requirements for green public procurement for certain products
 
 1. When purchasing products, product families or technologies subject to the Union legal acts listed in Annex VII, public buyers shall require in specifications, award criteria or conditions for the performance of contracts such environmental characteristics as they consider appropriate for the procurement in question, in light of the objective of ensuring a high level of environmental protection in the Union, the need for a swift transition to a climate neutral economy and the principles of equal treatment, non-discrimination and proportionality. Those environmental characteristics shall be expressed in terms of the classes or levels of performance, thresholds, environmental aspects or environmental sustainability requirements that are laid down in the relevant legal acts listed in Annex VII.
 
@@ -1708,12 +1624,11 @@ Requirements for green public procurement for certain products
 
 4. Where new Union legal acts setting environmental sustainability and climate-related requirements for the placing on the market of products or technologies in the Union are adopted, the Commission is empowered to adopt delegated acts in accordance with Article 141 to amend Annex VII by updating the list of Union legal acts referred to in that Annex.
 
-## Chapter 2 Socially responsible public procurement
+<a id="part-iii-title-ii-chapter-2"></a>
+## Chapter 2 – Socially responsible public procurement
 
 <a id="art-55"></a>
-### Article 55
-
-Socially responsible public procurement
+### Article 55 – Socially responsible public procurement
 
 1. Public buyers may take social considerations into account when procuring supplies, services and works with a view to achieving positive social outcomes or preventing or mitigating adverse social impacts through the life-cycle of supplies, services and works (‘socially responsible public procurement’).
 
@@ -1738,18 +1653,14 @@ Socially responsible public procurement
 4. The mere compliance with applicable labour and social law obligations established by Union law, national law, collective agreements or by the international social and labour law conventions listed in Annex II, shall not by itself be considered socially responsible public procurement.
 
 <a id="art-56"></a>
-### Article 56
-
-Accessibility
+### Article 56 – Accessibility
 
 1. For all procurement of goods, services and works which are intended for use by natural persons, whether the general public or staff of the public buyer, public buyers shall, except in duly justified cases, require their accessibility for persons with disabilities, and take account of design for all approaches. To that effect, public buyers shall include appropriate accessibility requirements in the specifications or conditions for the performance of contracts.
 
 2. For the products and services referred to in Article 2 of Directive (EU) 2019/882, public buyers shall establish specifications, as far as accessibility criteria for persons with disabilities or design for all users are concerned, by reference to Annex I to that Directive.
 
 <a id="art-57"></a>
-### Article 57
-
-Reserved contracts
+### Article 57 – Reserved contracts
 
 1. Public buyers may reserve the participation in procedures for the award of public contracts, including for specific lots thereof, to organisations whose main aim is the social and professional integration of persons with disabilities or disadvantaged persons, provided that at least 30 % of the employees of those organisations or programmes are workers with disabilities or with disadvantages, including providing for such contracts to be performed in the context of supported employment contracts or sheltered employment programmes, provided that the labour rights of the persons with disabilities or with disadvantages are safeguarded.
 
@@ -1762,9 +1673,7 @@ Reserved contracts
   - (c) the organisation’s decisions are not guided by purely commercial considerations, and any surplus generated from the performance of the contract is reinvested in delivering the public welfare services of general interest for which it is constituted.
 
 <a id="art-58"></a>
-### Article 58
-
-Contracts for social, health and educational services
+### Article 58 – Contracts for social, health and educational services
 
 1. For public contracts having as subject-matter any of the services listed in Annex VI, public buyers may award contracts in accordance with the procedures provided for in national law, provided that the nature of the services makes it necessary for the public buyers to take into account the specificities of the services in question, and that the principles of transparency and equal treatment as well as the obligations in paragraph 2 are respected.
 
@@ -1772,12 +1681,11 @@ Contracts for social, health and educational services
 
 3. Where a public buyer awards a contract pursuant to this Article, it shall publish a public summary of result pursuant to Article 110(4) of this Regulation no later than 20 days after the award.
 
-## Chapter 3 Public procurement of innovation
+<a id="part-iii-title-ii-chapter-3"></a>
+## Chapter 3 – Public procurement of innovation
 
 <a id="art-59"></a>
-### Article 59
-
-Innovation objectives in public procurement
+### Article 59 – Innovation objectives in public procurement
 
 Public buyers may take innovation objectives into consideration when procuring supplies, works or services that comprise, without being limited to, any or several of the following objectives:
 
@@ -1788,9 +1696,7 @@ Public buyers may take innovation objectives into consideration when procuring s
 - (c) improving the cost-effectiveness of the public buyer’s purchases compared with existing or conventional alternatives, while maintaining or enhancing the quality, quantity, or impact of the solutions.
 
 <a id="art-60"></a>
-### Article 60
-
-Public procurement of innovation
+### Article 60 – Public procurement of innovation
 
 1. Public buyers shall classify their procurement as public procurement of innovation in the public summary of competition where the procurement has as its objective the purchase of an innovative solution. An innovative solution has one or more new characteristics that deliver better performance or added value compared with alternative solutions which are available on a large-scale commercial basis on the relevant market.
 
@@ -1803,9 +1709,7 @@ Public procurement of innovation
   - (b) the award of a contract in an open procedure pursuant to Articles 34 and 35, where a public buyer intends to purchase a solution after a pre-commercial procurement as defined in Article 6, point (13).
 
 <a id="art-61"></a>
-### Article 61
-
-Techniques to pursue innovation objectives in public procurement
+### Article 61 – Techniques to pursue innovation objectives in public procurement
 
 1. In order to pursue innovation objectives, public buyers may prepare and design any procurement procedure using one or more of the following techniques:
 
@@ -1830,9 +1734,7 @@ Techniques to pursue innovation objectives in public procurement
 2. The techniques referred to in paragraph 1 may, as appropriate to the technique and the type of solution concerned, take the form of specifications, selection criteria, quality considerations when applying the best price-quality ratio method, or conditions for the performance of contracts.
 
 <a id="art-62"></a>
-### Article 62
-
-Specification of intellectual property rights
+### Article 62 – Specification of intellectual property rights
 
 1. For all procedures subject to this Regulation, the public buyer shall specify to its best effort in the procurement detail the intellectual property rights that it considers relevant for the execution of the public contract.
 
@@ -1841,9 +1743,7 @@ Specification of intellectual property rights
 3. The estimation of the value of the contract pursuant to Article 32 shall take into account the value of the distribution of intellectual property rights as relevant.
 
 <a id="art-63"></a>
-### Article 63
-
-Granting licences
+### Article 63 – Granting licences
 
 1. The economic operator shall grant to the public buyer appropriate, sufficient and non-exclusive licences to the extent and for the period necessary to enable it to use, receive, operate, maintain or otherwise benefit from the services, deliverables or other contractual outputs provided in the performance of the public contract.
 
@@ -1856,9 +1756,7 @@ Granting licences
 2. Licences pursuant to paragraph 1 shall permit the public buyer, either directly or through contractors or service providers acting on its behalf, to use, reproduce, execute, display, adapt, configure, integrate, maintain, repair, support, upgrade and otherwise exploit such rights and the related deliverables to the extent necessary to ensure the continued use of the supplies, services or works for their intended purpose and the proper performance of the public contract.
 
 <a id="art-64"></a>
-### Article 64
-
-Limits to transfer of ownership
+### Article 64 – Limits to transfer of ownership
 
 1. Any pre-existing intellectual property, including software components, models, methods, platforms, or systems owned or controlled by the economic operator prior to or independently of the procurement shall remain the property of the economic operator and shall not be subject to ownership transfer obligations to the public buyer.
 
@@ -1869,9 +1767,7 @@ Limits to transfer of ownership
 4. By way of derogation from paragraph 3 of this Article for public contracts subject to an innovation procedure pursuant to Articles 41 to 45, economic operators shall retain ownership of the intellectual property rights arising during the innovation procedure or in the performance of the respective public contract, unless justified by overriding reasons of the public interest clearly stated in the procurement detail. Such overriding reasons of public interest may relate inter alia to the need to prevent technological lock-in, or to protect the security or critical public services of the public buyer, a Member State or the Union, in particular as regards critical infrastructure.
 
 <a id="art-65"></a>
-### Article 65
-
-Building information modelling
+### Article 65 – Building information modelling
 
 1. For the execution of public works contracts with an estimated value equal to or greater than EUR 25 000 000, public buyers shall require the use of building information modelling in the execution of the public works contracts.
 
@@ -1885,12 +1781,11 @@ Building information modelling
 
 4. The Commission is empowered to adopt delegated acts in accordance with Article 141 in order to amend this Regulation to lower the threshold set out in paragraph 1 where justified by an increased market uptake of Building Information Modelling.
 
-## Chapter 4 Security and resilience
+<a id="part-iii-title-ii-chapter-4"></a>
+## Chapter 4 – Security and resilience
 
 <a id="art-66"></a>
-### Article 66
-
-Security considerations in public procurement
+### Article 66 – Security considerations in public procurement
 
 1. Public buyers shall take appropriate measures, in addition to measures required or imposed by virtue of other Union legislation, where relevant, at any stage of the procurement procedure, from planning and market consultation to contract award and execution, to ensure the protection of the security and public safety interests of the Union or one or more Member States for any public procurement procedure identified as presenting or including a risk for security or public safety. This Chapter is without prejudice to other requirements under relevant Union legislation.
 
@@ -1957,9 +1852,7 @@ Security considerations in public procurement
 6. Where there is evidence that disparities in measures affect the functioning of the internal market, the Commission is empowered to adopt delegated acts in accordance with Article 141 in order to supplement this Regulation by establishing mandatory technical specifications, selection criteria, award criteria or contract performance clauses, for specific categories of goods, services or works where such elements address an identified specific security and public safety interest of the Union.
 
 <a id="art-67"></a>
-### Article 67
-
-Security measures during contract implementation
+### Article 67 – Security measures during contract implementation
 
 1. Without prejudice to contract law of the Member States, the public buyer may terminate a contract in whole or in part where it determines that the contractor has failed to comply with measures or obligations aiming at preventing or mitigating risks for security or public safety, or a risk for security or public safety has materialised or is likely to materialise. Under the same conditions, they may exclude certain economic operators during contract implementation.
 
@@ -1984,9 +1877,7 @@ Security measures during contract implementation
 5. The contractor shall cooperate with the public buyer to secure or transfer data, documents, or assets related to the contract and ensure continuity of critical services until the termination takes effect.
 
 <a id="art-68"></a>
-### Article 68
-
-Cybersecurity
+### Article 68 – Cybersecurity
 
 1. Where products with digital elements fall within the scope of Regulation (EU) 2024/2847, Member States shall ensure that compliance with the essential cybersecurity requirements set out in Annex I to that Regulation, including the manufacturers’ ability to handle vulnerabilities effectively are taken into consideration in the procurement process.
 
@@ -1995,9 +1886,7 @@ Cybersecurity
 3. Without prejudice to paragraph 1, and without prejudice to Directive (EU) 2022/2555^(64) where applicable, public buyers may specify in the procurement detail requirements relating to cybersecurity for the works, supplies or services procured. To that end, they may include specifications, selection criteria, award criteria or conditions for the performance of contracts. Such requirements shall be linked to the subject-matter of the contract and comply with the principles of transparency, non-discrimination and proportionality.
 
 <a id="art-69"></a>
-### Article 69
-
-Resilience and security of supply for critical entities or infrastructures
+### Article 69 – Resilience and security of supply for critical entities or infrastructures
 
 1. Where a public contract is intended to be performed by a public buyer that has been identified by the competent Member State as a critical entity in accordance with Article 6 of Directive (EU) 2022/2557^(65), the public buyer shall, where relevant, include in the procurement detail requirements relating to security of supply, economic, physical and geopolitical resilience, as well as transparency and sustainability of the supply chains for the works, supplies or services procured. Where appropriate, such requirements shall be based on the risks identified through the obligation for risk assessment under Article 12 of Directive (EU) 2022/2557 .
 
@@ -2035,12 +1924,11 @@ Resilience and security of supply for critical entities or infrastructures
 
 5. This Article is without prejudice to security of supply requirements under relevant Union legislation, in particular to the requirements under Regulation (EU) 2019/1242 ^(66) and Regulation (EU) 2024/1735 .
 
-## Chapter 5 European preference
+<a id="part-iii-title-ii-chapter-5"></a>
+## Chapter 5 – European preference
 
 <a id="art-70"></a>
-### Article 70
-
-Covered economic operators, goods, services or works
+### Article 70 – Covered economic operators, goods, services or works
 
 1. An economic operator shall be considered ‘covered’ for the purposes of this Regulation when it has its origin pursuant to Article 74(1) in:
 
@@ -2059,9 +1947,7 @@ Covered economic operators, goods, services or works
   - (c) a third country that has concluded with the Union an agreement establishing a customs union, under the conditions laid down in that agreement, provided that the procurement in question falls within the scope of the Union’s public procurement commitments in that agreement.
 
 <a id="art-71"></a>
-### Article 71
-
-Determining the scope of coverage for third-country covered economic operators, goods, services or works
+### Article 71 – Determining the scope of coverage for third-country covered economic operators, goods, services or works
 
 1. The Commission shall establish and make available free of charge a publicly accessible online tool, which sets out, in a comprehensive and up-to-date manner, the Union’s public procurement commitments in international agreements referred to in Article 70.
 
@@ -2076,9 +1962,7 @@ Determining the scope of coverage for third-country covered economic operators, 
   - (c) Union measures with regard to non-covered economic operators, goods, services or works, in accordance with Article 75.
 
 <a id="art-72"></a>
-### Article 72
-
-Restrictions on covered economic operators, goods, services or works
+### Article 72 – Restrictions on covered economic operators, goods, services or works
 
 1. The Commission is empowered to adopt delegated acts in accordance with Article 141 to amend Article 70 by establishing that covered economic operators from certain third countries, and/or all or certain covered goods, services, or works from certain third countries, shall not be considered as covered where:
 
@@ -2091,9 +1975,7 @@ Restrictions on covered economic operators, goods, services or works
 2. Member States and interested parties may submit to the Commission at any time indications of the existence of one of the situations referred to in paragraph 1.
 
 <a id="art-73"></a>
-### Article 73
-
-European preference requirements
+### Article 73 – European preference requirements
 
 1. Public buyers may:
 
@@ -2118,9 +2000,7 @@ European preference requirements
 4. Public buyers shall notify the national coordinating authority designated pursuant to Article 138 of any indications of circumvention of measures taken pursuant to this Article. The national coordinating authority shall inform the Commission of any systemic flaws identified on the basis of theses notifications.
 
 <a id="art-74"></a>
-### Article 74
-
-Origin
+### Article 74 – Origin
 
 1. The origin of economic operators or subcontractors shall be determined in accordance with Article 3(1) of Regulation (EU) 2022/1031^(67).
 
@@ -2131,16 +2011,12 @@ Origin
 4. The overall origin of works shall be determined pursuant to the origin of the economic operator, or subcontractor, providing it. For the European preference requirements, buyers may determine separately the origin of the goods used as part of the works pursuant to paragraph 2.
 
 <a id="art-75"></a>
-### Article 75
-
-Union restrictions for third-country non-covered economic operators, goods, services and works
+### Article 75 – Union restrictions for third-country non-covered economic operators, goods, services and works
 
 The Commission is empowered to adopt delegated acts, in accordance with Article 141, to amend Article 73 to require public buyers to apply any of the European preference requirements set out in Article 73 in relation to economic operators, and subcontractors, goods services and works that are not covered in accordance with Article 70 where this is in the interest of the Union.
 
 <a id="art-76"></a>
-### Article 76
-
-Exceptions
+### Article 76 – Exceptions
 
 Public buyers may decide not to apply European preference requirements, including those in the delegated acts adopted pursuant to Article 75, where:
 
@@ -2153,20 +2029,18 @@ Public buyers may decide not to apply European preference requirements, includin
 - (d) the application of such European preference requirements would entail that a public buyer would have to acquire goods, services or works at disproportionate costs.
 
 <a id="art-77"></a>
-### Article 77
-
-European preference in sectoral Union legislation
+### Article 77 – European preference in sectoral Union legislation
 
 Where Union legislation contains provisions, restricting or setting conditions for participation in public procurement procedures or giving preference depending on the origin of economic operators, goods, services or works, the rules set out in this Chapter shall apply, unless regulated otherwise in the Union legislation in question.
 
-## Title III Horizontal provisions
+<a id="part-iii-title-iii"></a>
+## Title III – Horizontal provisions
 
-## Chapter 1 Excluded and mixed contracts
+<a id="part-iii-title-iii-chapter-1"></a>
+## Chapter 1 – Excluded and mixed contracts
 
 <a id="art-78"></a>
-### Article 78
-
-Defence and security contracts
+### Article 78 – Defence and security contracts
 
 1. This Regulation does not apply to public contracts the subject-matter of which falls within the scope of Directive 2009/81/EC, including contracts below the threshold set out in Article 8 of that Directive and contracts to which that Directive does not apply pursuant to Article 12 or 13 thereof.
 
@@ -2177,18 +2051,14 @@ Defence and security contracts
 4. Where the procurement and performance of the public contract are declared to be secret or must be accompanied by special security measures in accordance with the laws, regulations or administrative provisions in force in a Member State, this Regulation does not apply provided that the Member State has determined that the essential security interests concerned cannot be guaranteed by less intrusive measures, such as those referred to in paragraph 2.
 
 <a id="art-79"></a>
-### Article 79
-
-R&D procurement excluded
+### Article 79 – R&D procurement excluded
 
 This Regulation does not apply to procurement for public contracts exclusively containing research and development services as defined in Article 6, point (16).
 
 The first sentence does not apply to procurement for public contracts containing , in addition to research and development services as defined in Article 6, point (16), other elements falling within the scope of this Regulation, in particular where testing and validation is part of the innovation procedure pursuant to Title I, Chapter 4 of this Part, or where research and development is integrated as an innovation technique in public procurement falling within the scope of this Regulation pursuant to Article 61.
 
 <a id="art-80"></a>
-### Article 80
-
-Contracts awarded to controlled entities
+### Article 80 – Contracts awarded to controlled entities
 
 1. This Regulation does not apply to public contracts awarded by public buyers to a legal person governed by private or public law, provided that all of the following conditions are fulfilled at the time of the award:
 
@@ -2223,9 +2093,7 @@ Contracts awarded to controlled entities
 6. The exclusions in this Article shall not apply if the public contract shall be subcontracted in its entirety without a procurement procedure.
 
 <a id="art-81"></a>
-### Article 81
-
-Public-public cooperation
+### Article 81 – Public-public cooperation
 
 1. This Regulation does not apply to contracts concluded exclusively between two or more contracting authorities, including where they carry out activities pursuant to Article 12 to 18, provided that, at the time of the award:
 
@@ -2242,18 +2110,14 @@ Public-public cooperation
 4. The exclusion in this Article shall not apply if the solutions provided based on the resulting contract shall be subcontracted in their entirety without a procurement procedure.
 
 <a id="art-82"></a>
-### Article 82
-
-Local and regional administrative cooperation
+### Article 82 – Local and regional administrative cooperation
 
 1. This Regulation does not apply where regional or local authorities entrust each other with the performance of tasks incumbent on them, or use each other’s own resources for that purpose, including in exchange for remuneration only, provided that they perform the task by own resources. For the purposes of this Article, own resources do not include goods not yet acquired or services that are being provided to one of the participating local or regional authorities by economic operators or legal persons entrusted pursuant to Article 80(1), (2) and (3).
 
 2. For the purpose of this Article, ‘regional authorities’ includes authorities listed non-exhaustively in NUTS 1 and NUTS 2, as referred to in Regulation (EC) No 1059/2003^(69), while ‘local authorities’ includes all authorities of the administrative units falling under NUTS 3 and smaller administrative units, as referred to in that Regulation.
 
 <a id="art-83"></a>
-### Article 83
-
-Contracts awarded to affiliated undertakings
+### Article 83 – Contracts awarded to affiliated undertakings
 
 1. This Regulation does not apply where contracting entities award a public contract by either of the following:
 
@@ -2282,9 +2146,7 @@ Contracts awarded to affiliated undertakings
     The Commission may request evidence which demonstrates that the relationship between the undertaking to which the contract is awarded and the contracting entity complies with the requirements set out in paragraphs 1, 2 and 3.
 
 <a id="art-84"></a>
-### Article 84
-
-Contracts awarded in a joint venture
+### Article 84 – Contracts awarded in a joint venture
 
 1. This Regulation does not apply to public contracts awarded by:
 
@@ -2295,9 +2157,7 @@ Contracts awarded in a joint venture
 2. The Commission may request evidence which demonstrates that the relationship between the joint venture to which the contracts are awarded and the contracting entity complies with the requirements set out in paragraphs 1.
 
 <a id="art-85"></a>
-### Article 85
-
-Other excluded public contracts
+### Article 85 – Other excluded public contracts
 
 1. This Regulation does not apply to:
 
@@ -2346,9 +2206,7 @@ Other excluded public contracts
   - (d) contracts awarded by contracting entities for purposes other than the pursuit of their activities as described in Article 12 to 18 or for the pursuit of such activities in a third country in conditions not involving the physical use of a network or geographical area within the Union and to design contests organised for such purposes.
 
 <a id="art-86"></a>
-### Article 86
-
-Mixed procurement involving defence or security aspects
+### Article 86 – Mixed procurement involving defence or security aspects
 
 1. This Article applies to mixed contracts which have as their subject-matter procurement covered by this Regulation as well as procurement covered by Article 346 of the Treaty or Directive 2009/81/EC .
 
@@ -2369,9 +2227,7 @@ Mixed procurement involving defence or security aspects
 7. Where the different parts of a given contract are objectively not separable, the contract may be awarded without applying this Regulation where it includes elements to which Article 346 of the Treaty applies; otherwise it may be awarded in accordance with Directive 2009/81/EC .
 
 <a id="art-87"></a>
-### Article 87
-
-Other mixed contracts
+### Article 87 – Other mixed contracts
 
 1. Contracts which have as their subject-matter two or more types of procurement, namely works, services or supplies, or which partially pursue an activity in the field of utilities pursuant to Part II, Title I, Chapter 2, shall be awarded in accordance with the provisions applicable to the type of procurement that characterises the main subject of the contract in question.
 
@@ -2379,12 +2235,11 @@ Other mixed contracts
 
 3. This Regulation applies to contracts which have as their subject-matter procurement covered by this Regulation as well as procurement not covered by this Regulation, irrespective of the main subject-matter or of the value of the parts that would otherwise fall under a different legal regime, unless otherwise provided in Article 86.
 
-## Chapter 2 Subject-matter of the contract and means of proof
+<a id="part-iii-title-iii-chapter-2"></a>
+## Chapter 2 – Subject-matter of the contract and means of proof
 
 <a id="art-88"></a>
-### Article 88
-
-Specifications
+### Article 88 – Specifications
 
 1. Public buyers shall, as part of the procurement detail, set out specifications defining the characteristics of the works, supplies or services that are subject of the procurement. Specifications shall be set out in objective, clear and measurable terms, and formulated in a way that allows interested economic operators to identify the subject-matter of the contract and public buyers to assess alignment of tenders with the specifications.
 
@@ -2415,9 +2270,7 @@ Specifications
     Where a public buyer uses the option of referring to the standards or specifications referred to in paragraph 4, it shall not reject a tender on the grounds that the solutions offered do not comply with the standards or specifications, to which it has referred, as long as the tenderer proves in its tender that the solutions proposed satisfy the requirements in a manner equivalent to the requirements defined in the specifications. The tender may provide the proof by any appropriate means, including the means of proof referred to in Article 92.
 
 <a id="art-89"></a>
-### Article 89
-
-Variants
+### Article 89 – Variants
 
 1. Where public buyers do not formulate specifications solely in the form of functional requirements pursuant to Article 88(3), they shall consider whether to allow variants.
 
@@ -2426,9 +2279,7 @@ Variants
 2. Public buyers shall indicate in the procurement detail whether or not they allow variants, and if not, the main reasons for that decision. Public buyers shall specify any minimum requirements that variants must satisfy, provided that they do not unnecessarily restrict the ability of economic operators to propose alternative solutions capable of meeting the buyer’s needs and objectives. Variants shall be linked to the subject-matter of the contract pursuant to Article 90 and evaluated on the basis of the same award criteria as non-variant tenders.
 
 <a id="art-90"></a>
-### Article 90
-
-Link to the subject-matter
+### Article 90 – Link to the subject-matter
 
 1. Selection criteria, award criteria, specifications, and the conditions for the performance of contracts shall be linked to the subject-matter of the contract.
 
@@ -2439,9 +2290,7 @@ Link to the subject-matter
 3. A condition, requirement or criterion shall be considered to be indirectly linked to the subject-matter of the contract, where, without being part of the material substance of the works, services or supplies in question, it specifically impacts those works, services or supplies as regards their preparation, production or any other stage of their life-cycle to the extent covered by the contract, including the working conditions of the workers involved in any of those stages of the life-cycle and responsible sourcing and supply chain transparency for the product subject to the procurement in question.
 
 <a id="art-91"></a>
-### Article 91
-
-Labels
+### Article 91 – Labels
 
 1. Where public buyers intend to purchase solutions with specific environmental, social or other characteristics, they may, in the specifications, the award criteria or the conditions for the performance of contracts, require a specific label as proof that the works, services and products correspond to the required characteristics, provided that all of the following conditions are fulfilled:
 
@@ -2466,9 +2315,7 @@ Labels
     Where a label fulfils the conditions set out in paragraph 1, points (b), (c), (d) and (e), but also sets out requirements not linked to the subject-matter of the contract, public buyers shall not require the economic operator to provide the label but may define the specifications by reference to those of the detailed specifications of that label, or, where necessary, parts thereof, that are linked to the subject-matter of the contract and are appropriate to define characteristics of that subject-matter.
 
 <a id="art-92"></a>
-### Article 92
-
-Means of proof for product requirements
+### Article 92 – Means of proof for product requirements
 
 1. Public buyers may require that economic operators provide a declaration of conformity or a declaration of performance and conformity of a product through the digital product passport pursuant to Regulation (EU) 2024/1781 or, where this does not yet exist, other equivalent electronic means as means of proof of conformity or compliance with requirements or criteria set out in the specifications, the award criteria or the conditions for the performance of contracts.
 
@@ -2480,12 +2327,11 @@ Means of proof for product requirements
 
 3. Public buyers may accept other appropriate means of proof instead of those referred to in paragraph 1, such as a technical dossier of the manufacturer where the economic operator concerned had no access to the certificates or test reports referred to in paragraph 1, or no possibility of obtaining them within the relevant time limits, provided that the lack of access is not attributable to the economic operator concerned and provided that the economic operator concerned thereby proves that the works, supplies or services provided by it meet the requirements or criteria set out in the specifications, the award criteria or the conditions for the performance of contracts. Economic operators may provide other appropriate means of proof only where the documents referred to in paragraph 1 are not required by other Union legislation.
 
-## Chapter 3 Conduct of the procedure
+<a id="part-iii-title-iii-chapter-3"></a>
+## Chapter 3 – Conduct of the procedure
 
 <a id="art-93"></a>
-### Article 93
-
-Confidentiality
+### Article 93 – Confidentiality
 
 1. Public buyers shall not disclose information provided by economic operators which they have designated as confidential, including, but not limited to, technical or trade secrets and the confidential aspects of tenders, unless otherwise provided in this Regulation, or in the Union or national law to which the public buyer is subject, in particular legislation concerning access to information.
 
@@ -2498,9 +2344,7 @@ Confidentiality
   - (b) make the access to information conditional to having taken certain security measures, in particular having acquired security clearance in the Member State where the public contract is to be performed.
 
 <a id="art-94"></a>
-### Article 94
-
-Conflicts of interest
+### Article 94 – Conflicts of interest
 
 1. Public buyers shall take appropriate measures to effectively prevent, identify and remedy conflicts of interest arising in the conduct of procurement procedures, including the design and preparation of the procedure and the staff involved, the drawing-up of the procurement detail, the selection of economic operators and the award of the contract.
 
@@ -2525,9 +2369,7 @@ Conflicts of interest
 5. All conflicts of interest prevented, identified or declared and the remedial measures taken shall be documented pursuant to Article 109.
 
 <a id="art-95"></a>
-### Article 95
-
-Prior involvement in the preparation of the procurement procedure
+### Article 95 – Prior involvement in the preparation of the procurement procedure
 
 1. Where an economic operator has been involved in the preparation of the procurement procedure, public buyers shall take any necessary measures to ensure that competition is not distorted by the participation of that economic operator.
 
@@ -2540,18 +2382,14 @@ Prior involvement in the preparation of the procurement procedure
 4. The measures shall be documented pursuant to Article 109.
 
 <a id="art-96"></a>
-### Article 96
-
-Setting time limits
+### Article 96 – Setting time limits
 
 1. When setting the time limits for expressions of interest or the receipt of tenders and without prejudice to the minimum and maximum time limits set out in Title I of this Part, public buyers shall take account of the nature and complexity of the contract, the necessity of on-site inspections, and the time required for drawing up tenders.
 
 2. Public buyers shall extend time limits set for the receipt of tenders in case of additional information or significant changes. The length of the extension shall be proportionate to the relevance and complexity of the information or change.
 
 <a id="art-97"></a>
-### Article 97
-
-Availability of procurement detail
+### Article 97 – Availability of procurement detail
 
 1. Public buyers shall ensure unrestricted, full direct and free of charge access by electronic means to the procurement detail from the date of publication of a public summary of competition until three years after the award of the contract.
 
@@ -2562,9 +2400,7 @@ Availability of procurement detail
 4. This Article is without prejudice to Article 93(3).
 
 <a id="art-98"></a>
-### Article 98
-
-Award criteria
+### Article 98 – Award criteria
 
 1. Public buyers shall award the contract to the economic operator that offers the best quality for money.
 
@@ -2609,9 +2445,7 @@ Award criteria
     Public buyers shall indicate in the public summary of competition which of the ways set out in the first subparagraph justifies that derogation.
 
 <a id="art-99"></a>
-### Article 99
-
-Life-cycle costing
+### Article 99 – Life-cycle costing
 
 1. Where public buyers apply life-cycle costing, this shall, to the extent relevant, cover parts or all of the following costs over the life-cycle of a product, service or works:
 
@@ -2626,9 +2460,7 @@ Life-cycle costing
 3. The methods used for assessment of costs imputed to environmental and climate externalities shall be accessible to all interested parties and based on objectively verifiable and non-discriminatory criteria. In particular where the method has not been established for repeated or continuous application, it shall not unduly favour or disadvantage certain economic operators.
 
 <a id="art-100"></a>
-### Article 100
-
-Division into lots
+### Article 100 – Division into lots
 
 1. Public buyers shall consider whether to divide contracts into lots.
 
@@ -2645,9 +2477,7 @@ Division into lots
 7. Member States may provide that public buyers shall divide contracts into lots.
 
 <a id="art-101"></a>
-### Article 101
-
-Abnormally low tenders
+### Article 101 – Abnormally low tenders
 
 1. Public buyers shall require tenderers to explain the price or price elements in the tender, including in relation to the quality of the tender, where these appear to be abnormally below any of the following:
 
@@ -2672,9 +2502,7 @@ Abnormally low tenders
 4. Where the explanations referred to in paragraph 2 are not considered satisfactory, including after having asked for clarifications or additional information, the public buyer shall reject the tender from the procurement procedure.
 
 <a id="art-102"></a>
-### Article 102
-
-Corrections during procedures and cancellation
+### Article 102 – Corrections during procedures and cancellation
 
 1. Before the deadline for each submission of tenders or each start of negotiations, public buyers may make corrections to the procurement detail without initiating a new procurement procedure or changing the public summary of competition provided that:
 
@@ -2691,9 +2519,7 @@ Corrections during procedures and cancellation
 4. The public buyer may, before the contract is signed, cancel the procurement procedure. In the case of contracts divided into lots or other forms of multiple sourcing procurement, the cancellation may be done partially. The decision shall be justified and brought to the attention of the tenderers as soon as possible.
 
 <a id="art-103"></a>
-### Article 103
-
-Framework agreements
+### Article 103 – Framework agreements
 
 1. Public buyers may conclude framework agreements pursuant to the procedures in Title I of this Part. The rules of this Regulation for public contracts shall apply mutatis mutandis to framework agreements unless otherwise provided for in this Article.
 
@@ -2713,12 +2539,11 @@ Framework agreements
 
     Public buyers shall publish a public summary of result pursuant to Article 110 on each contract concluded based on a framework agreement. Contracts based on a framework agreement shall not have a duration that exceeds the end of the duration of the framework agreement by more than 50 % of the duration of the framework agreement.
 
-## Chapter 4 Contract execution
+<a id="part-iii-title-iii-chapter-4"></a>
+## Chapter 4 – Contract execution
 
 <a id="art-104"></a>
-### Article 104
-
-Conditions for the performance of contracts
+### Article 104 – Conditions for the performance of contracts
 
 1. Public buyers may lay down conditions relating to the performance of a contract, provided that they are linked to the subject-matter of the contract in accordance with Article 90 and clearly indicated in the procurement detail.
 
@@ -2735,9 +2560,7 @@ Conditions for the performance of contracts
   - (e) security and public safety interests as described in Articles 66, or resilience and security of supply requirements as set out in Article 69, such as security clearance of the personnel, handling restrictions or continued observance and improvement of the supply chain.
 
 <a id="art-105"></a>
-### Article 105
-
-Adjustment mechanisms
+### Article 105 – Adjustment mechanisms
 
 1. Public buyers may include in the procurement detail clauses establishing mechanisms for the adjustment of the conditions of the contract throughout its duration, provided that those mechanisms:
 
@@ -2758,9 +2581,7 @@ Adjustment mechanisms
 3. Adjustments of a contract based on such clauses shall not be considered modifications pursuant to Article 106.
 
 <a id="art-106"></a>
-### Article 106
-
-Modifications of contracts during their term
+### Article 106 – Modifications of contracts during their term
 
 1. Public buyers may modify awarded contracts or framework agreements during their term without a new procurement procedure provided that the modification is not substantial within the meaning of paragraph 3 or falls within one of the cases referred to in paragraph 4. Any such modification shall respond to objective needs arising during the performance of the contract, be limited to what is necessary and appropriate to ensure its performance and continuity and not alter the initial economic balance of the contract in favour of the contractor.
 
@@ -2801,9 +2622,7 @@ Modifications of contracts during their term
 9. Modifications of a contract shall not be used to remedy deficiencies of the contractor’s performance that are not justified by circumstances beyond its control.
 
 <a id="art-107"></a>
-### Article 107
-
-Termination of contracts
+### Article 107 – Termination of contracts
 
 Without prejudice to any other grounds for termination provided for in this Act or under applicable national law, public buyers shall terminate the contract where:
 
@@ -2812,9 +2631,7 @@ Without prejudice to any other grounds for termination provided for in this Act 
 - (b) the contract or its modification should not have been awarded to the contractor in view of a serious infringement of the obligations under the Treaties and this Regulation that has been declared by the Court of Justice of the European Union in a procedure pursuant to Article 258 of the Treaty.
 
 <a id="art-108"></a>
-### Article 108
-
-Payments
+### Article 108 – Payments
 
 1. Without prejudice to their obligations under Directive 2011/7/EU^(79) of the European Parliament and of the Council, public buyers shall ensure the timely payment of contractors and, where applicable, subcontractors.
 
@@ -2828,12 +2645,11 @@ Payments
 
 6. At the request of the subcontractor and where the nature of the contract so allows, the public buyer shall transfer due payments directly to the subcontractor for services, supplies or works provided to the main contractor. Such measures may include appropriate mechanisms permitting the main contractor to object to undue payments. The arrangements concerning that mode of payment shall be set out in the procurement detail.
 
-## Chapter 5 Publication and documentation rules
+<a id="part-iii-title-iii-chapter-5"></a>
+## Chapter 5 – Publication and documentation rules
 
 <a id="art-109"></a>
-### Article 109
-
-Individual documentation of procedures
+### Article 109 – Individual documentation of procedures
 
 1. Public buyers shall record, in the public buyer’s eProcurement service and make available in the NPPDS pursuant to Article 134, the necessary documentation to justify decisions taken in all stages of the procurement procedure, in particular documentation on communications with economic operators, including in negotiations if any, and internal decisions for the preparation or correction of the procurement detail, including after negotiations if any, in selection of economic operators and award of the contract. The documentation shall be kept for a period of at least three years from the date of award of the contract, except where a longer period is required by applicable Union or national law.
 
@@ -2842,9 +2658,7 @@ Individual documentation of procedures
 3. Public buyers shall include in their documentation any identified conflicts of interest, integrity breaches and significant risks for security or public safety affecting procurement procedures or contract implementation as well as mitigating measures taken.
 
 <a id="art-110"></a>
-### Article 110
-
-Publication information in public summaries
+### Article 110 – Publication information in public summaries
 
 1. Public buyers shall publish information in accordance with Article 112 with all the following public summaries:
 
@@ -2923,9 +2737,7 @@ Publication information in public summaries
 7. The Commission is empowered to adopt implementing acts further detailing the specific information which shall be contained in each public summary as described in paragraphs 2 to 6, establishing the connection of public summaries and the sequencing of specific information contained in multiple public summaries, and establishing requirements for public buyers to reuse information already provided in a public summary as well as requirements for eProcurement service providers to provide a corresponding reuse service. Those implementing acts shall be adopted in accordance with the advisory procedure referred in Article 143(2).
 
 <a id="art-111"></a>
-### Article 111
-
-Publication of public summary of result, of contract and of completion
+### Article 111 – Publication of public summary of result, of contract and of completion
 
 1. Public buyers shall send the following procurement information pursuant to Article 110 no later than 20 days:
 
@@ -2940,9 +2752,7 @@ Publication of public summary of result, of contract and of completion
 3. Public buyers shall ensure the complete, correct and timely provision of procurement information to the NPPDS pursuant to Article 134.
 
 <a id="art-112"></a>
-### Article 112
-
-Form and manner of publication
+### Article 112 – Form and manner of publication
 
 1. The public summaries referred to in Article 110 including changes to information shall be sent by public buyers through the NPPDS to the Publications Office of the European Union and shall be published in the Supplement to the Official Journal of the European Union. no later than five days after it is received, unless the public buyer requests a later date of publication. The information shall be considered to be received by the Publications Office of the European Union only once it has been validated according to the technical validation requirements set up by the Union.
 
@@ -2963,31 +2773,27 @@ Form and manner of publication
 7. The Commission is empowered to adopt implementing acts, specifying the details concerning the provision of public summaries to the Publications Office of the European Union and the source of the technical validation requirements referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 143(2).
 
 <a id="art-113"></a>
-### Article 113
-
-Publication at national level
+### Article 113 – Publication at national level
 
 1. The information referred to in Article 110 or the implementing act pursuant to Article 110(7) shall not be published at national level before the publication pursuant to Article 112. However, publication may in any event take place at the national level where public buyers have not been notified of the publication within 48 hours after confirmation of the receipt of the information in accordance with Article 112.
 
 2. Information published at national level shall indicate the date when that the information was sent to the Publications Office of the European Union as well as the identifier of the information regarding a procurement procedure published pursuant to Article 112.
 
-Part IV Concessions
+<a id="part-iv"></a>
+## Part IV – Concessions
 
-## Title I General provisions
+<a id="part-iv-title-i"></a>
+## Title I – General provisions
 
 <a id="art-114"></a>
-### Article 114
-
-Scope
+### Article 114 – Scope
 
 1. This Part applies to concessions for the execution of works and provision of services as defined in Article 115.
 
 2. Unless otherwise provided for in this Part, all the provisions of this Regulation applicable to public contracts apply to concessions.
 
 <a id="art-115"></a>
-### Article 115
-
-Definition and characteristics of concessions
+### Article 115 – Definition and characteristics of concessions
 
 1. For the purposes of this Regulation, the following definition shall apply:
 
@@ -3006,9 +2812,7 @@ Definition and characteristics of concessions
 2. For the purpose of paragraph 1, ‘operating risk’ means the risk that the concessionaire will not recoup, under normal operating conditions, the investments made and the costs incurred in the execution of the works or the provision and management of the services which are the subject-matter of the concession, so that the concessionaire bears the risk of losses attached to the performance of the concession, such as risks linked to uncertainties affecting demand, revenues, operating costs, availability, technical and operational conditions or performance. The operating risk shall involve genuine exposure to the changing market conditions, and any potential estimated loss incurred by the concessionaire shall not be economically insignificant.
 
 <a id="art-116"></a>
-### Article 116
-
-Mixed concession contracts
+### Article 116 – Mixed concession contracts
 
 1. In addition to Articles 86 and 87, the applicable legal regime for contracts containing elements of concessions and of other public contracts (‘mixed concession contracts’) shall be determined in accordance with paragraphs 2 and 3 of this Article.
 
@@ -3019,9 +2823,7 @@ Mixed concession contracts
     Where such a contract contains elements of a services concession and of a supply contract, the main subject-matter of that contract shall be determined in accordance with the higher of the estimated values of the respective services or supplies.
 
 <a id="art-117"></a>
-### Article 117
-
-Excluded concessions
+### Article 117 – Excluded concessions
 
 1. In addition to the exclusions provided for in Part III, Title II, Chapter 1, this Regulation does not apply to the following concessions:
 
@@ -3044,9 +2846,7 @@ Excluded concessions
 2. Where a Member State grants an exclusive right to an economic operator for the exercise of one of the activities referred to in Annex IV, it shall inform the Commission thereof within one month of granting that exclusive right.
 
 <a id="art-118"></a>
-### Article 118
-
-Threshold and estimation of the value of a concession
+### Article 118 – Threshold and estimation of the value of a concession
 
 1. This Regulation applies to concessions with an estimated value equal to or greater than the threshold specified in Article 2(1), point (a).
 
@@ -3068,12 +2868,11 @@ Threshold and estimation of the value of a concession
 
   - (g) any prizes, payments, compensation or reimbursement granted to economic operators in connection with the procedure for the award of a concession.
 
-## Title II Preparation, design and procedure
+<a id="part-iv-title-ii"></a>
+## Title II – Preparation, design and procedure
 
 <a id="art-119"></a>
-### Article 119
-
-Contractual obligations relating to public needs
+### Article 119 – Contractual obligations relating to public needs
 
 1. Public buyers shall determine in the procurement detail mandatory conditions governing the performance of the concession, they deem necessary, having regard to the nature and subject-matter of the works or services concerned, including those aiming at ensuring the continuity, quality, accessibility, safety, and effectiveness of the works and services provided to users.
 
@@ -3090,9 +2889,7 @@ Contractual obligations relating to public needs
 3. Where performance requirements are established in accordance with paragraph 2, the procurement detail shall enable effective monitoring of the performance and may in particular include the applicable key performance indicators, the methods for monitoring and verifying performance, and, where appropriate, the consequences of performance outcomes, including incentives or deductions.
 
 <a id="art-120"></a>
-### Article 120
-
-Structured risk assessment
+### Article 120 – Structured risk assessment
 
 1. Before initiating a procedure for the award of a concession, public buyers shall carry out an assessment of the main economic risks related to the performance of the concession, taking into account the nature, duration and economic characteristics of the works or services concerned.
 
@@ -3101,9 +2898,7 @@ Structured risk assessment
 2. The procurement detail may provide for adjustment mechanisms in accordance with Article 125 intended to re-allocate or mitigate the risks between the parties where necessary, having regard to the nature of those risks. The existence of such mechanisms shall not, in itself, preclude the qualification of the contract as a concession, provided that the concessionaire continues to bear the operating risk inherent in the exploitation of the works and services.
 
 <a id="art-121"></a>
-### Article 121
-
-Parameters for assessing performance
+### Article 121 – Parameters for assessing performance
 
 1. Public buyers shall include in concession contracts provisions aimed at ensuring the long-term efficiency of the works or services, including by promoting environmental sustainability and technological innovation throughout the duration of the concession.
 
@@ -3122,9 +2917,7 @@ Parameters for assessing performance
     The procurement detail may in particular specify the conditions governing the use, transfer or return of the assets upon expiry or termination, including for any compensation payable, and conditions relating to the transfer or takeover of personnel.
 
 <a id="art-122"></a>
-### Article 122
-
-Duration of concessions
+### Article 122 – Duration of concessions
 
 1. The duration of a concessions shall be limited to the period necessary for the concessionaire to recoup the investment made for operating the works or services, together with a return on invested capital under normal operating conditions, taking into account the investments required to achieve the specific contractual objectives.
 
@@ -3177,9 +2970,7 @@ Duration of concessions
     Any adjustment to the duration of the concession that is not provided for in the procurement detail or is not implemented in accordance with the methodology and conditions set out pursuant to the second subparagraph, point (b), shall constitute a modification of the concession and shall be subject to Article 125
 
 <a id="art-123"></a>
-### Article 123
-
-Procedures for the award of a concession
+### Article 123 – Procedures for the award of a concession
 
 1. Public buyers shall award concessions in accordance with the procedures provided for in this Regulation.
 
@@ -3189,12 +2980,11 @@ Procedures for the award of a concession
 
   - (b) the allocation of the key risks, including, where applicable, the demand, construction, and regulatory risks.
 
-## Title III Management of concessions
+<a id="part-iv-title-iii"></a>
+## Title III – Management of concessions
 
 <a id="art-124"></a>
-### Article 124
-
-Adjustment mechanisms
+### Article 124 – Adjustment mechanisms
 
 1. Public buyers may include in the procurement detail clauses establishing mechanisms for the adjustment of the conditions of the concession throughout its duration, provided that those mechanisms:
 
@@ -3217,9 +3007,7 @@ Adjustment mechanisms
 3. Adjustments of a contract based on such clauses shall not be considered modifications pursuant to Article 125.
 
 <a id="art-125"></a>
-### Article 125
-
-Modifications of concessions during their term
+### Article 125 – Modifications of concessions during their term
 
 1. Public buyers may modify concessions during their term without a new procurement procedure, provided that the modification is not substantial within the meaning of paragraph 3 or falls within one of the cases referred to in paragraph 4. Any such modifications shall respond to objective needs arising during the performance of the concession, be limited to what is necessary and appropriate to ensure its performance and continuity and does not alter the initial economic balance of the concession in favour of the concessionaire.
 
@@ -3262,9 +3050,7 @@ Modifications of concessions during their term
 10. Modifications of a concession contract shall not be used to remedy deficiencies in the performance of the concessionaire that are not justified by circumstances beyond its control, except under condition laid down in paragraph 8.
 
 <a id="art-126"></a>
-### Article 126
-
-Termination of concessions
+### Article 126 – Termination of concessions
 
 1. In addition to Article 107, public buyers may terminate a concession contract before its expiry, where provided for under Union or national law and where such termination is justified by overriding reasons of public interest.
 
@@ -3280,16 +3066,17 @@ Termination of concessions
 
 4. The justification for the termination and the compensation shall be duly documented and made available for verification by competent supervisory, audit and review bodies for a minimum of five years.
 
-Part V Digital ecosystem
+<a id="part-v"></a>
+## Part V – Digital ecosystem
 
-## Title I Digital tools
+<a id="part-v-title-i"></a>
+## Title I – Digital tools
 
-## Chapter 1 Electronic communication and interoperability
+<a id="part-v-title-i-chapter-1"></a>
+## Chapter 1 – Electronic communication and interoperability
 
 <a id="art-127"></a>
-### Article 127
-
-Electronic communication
+### Article 127 – Electronic communication
 
 1. Public buyers shall use electronic communication tools in all their exchanges with the economic operator in the procurement procedure. They shall use only generally available and non-discriminatory tools, and their communication shall be in conformity with the harmonised standard for procurement detail pursuant to Article 129(1) point (b).
 
@@ -3306,9 +3093,7 @@ Electronic communication
 5. In accordance with Articles 27 and 37 of Regulation (EU) 910/2014^(81), public buyers may require the use of advanced electronic signatures or seals, advanced electronic signatures or seals based on a qualified certificate or qualified electronic signatures or seals for the signature of electronic communication by the economic operator.
 
 <a id="art-128"></a>
-### Article 128
-
-Interoperability network
+### Article 128 – Interoperability network
 
 1. The Commission shall establish or designate a secure network for data exchange, to enable public buyers and economic operators to communicate using electronic means in procurement procedures using different eProcurement service providers (‘interoperability network’).
 
@@ -3361,9 +3146,7 @@ Interoperability network
 4. The Commission may require the interoperability network operator to deny or remove access to the network for eProcurement service providers where those providers do not, or no longer, fulfil the requirements laid down in Article 131. The Commission shall provide appropriate prior notice to eProcurement service providers of the denial of or loss of access to the network. The interoperability network shall provide the Commission with the information necessary for assessing the compliance with the requirements laid down in Article 131.
 
 <a id="art-129"></a>
-### Article 129
-
-Harmonised standards for public procurement
+### Article 129 – Harmonised standards for public procurement
 
 1. The Commission may adopt a standardization request in accordance with Regulation (EU) No 1025/2012 for the drafting of harmonized standards, for the semantic data model and interoperability of the core elements of the following:
 
@@ -3386,9 +3169,7 @@ Harmonised standards for public procurement
 3. Where the harmonised standard for procurement procedures or the harmonised standard for procurement detail, delivered following the request referred to in paragraph 1, complies with the requirements set out therein, the Commission shall publish the reference to that harmonised standard in the Official Journal of the European Union.
 
 <a id="art-130"></a>
-### Article 130
-
-Common specifications
+### Article 130 – Common specifications
 
 1. The Commission may adopt implementing acts establishing common specifications as referred to in Article 88(4), point (a), covering the essential requirements for the semantic data model of the core elements of the procurement procedures referred to in Article 129(1), point (a).
 
@@ -3408,12 +3189,11 @@ Common specifications
 
 3. When a Member State or the European Parliament considers that a common specification or parts thereof do not entirely satisfy the requirements which it covers, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
 
-## Chapter 2 eProcurement service providers
+<a id="part-v-title-i-chapter-2"></a>
+## Chapter 2 – eProcurement service providers
 
 <a id="art-131"></a>
-### Article 131
-
-Obligations of eProcurement service providers
+### Article 131 – Obligations of eProcurement service providers
 
 1. eProcurement service providers shall ensure that their eProcurement platforms comply with the harmonised standards referred to in Article 129, the references of which have been published in the Official Journal of the European Union, or with the common specifications adopted pursuant to Article 130.
 
@@ -3432,9 +3212,7 @@ Obligations of eProcurement service providers
 8. Member States shall designate one or more competent authorities responsible for verifying whether eProcurement service providers comply with the obligations set out in this Article. They shall provide for penalties applicable to infringement of those obligations which shall include the temporary prohibition to provide those eProcurement services. Those penalties shall be effective, proportionate and dissuasive.
 
 <a id="art-132"></a>
-### Article 132
-
-Commission eProcurement platform
+### Article 132 – Commission eProcurement platform
 
 1. The Commission shall set up and operate an eProcurement platform (‘Commission eProcurement platform’) and make it available to public buyers, for the purpose of conducting procurement procedures, and to economic operators, for the purpose of participating in procurement procedures.
 
@@ -3442,12 +3220,11 @@ Commission eProcurement platform
 
 3. Member States may require public buyers to use the Commission eProcurement platform. They shall notify the Commission of that decision at least 12 months in advance before the date from which public buyers are required to use the Commission eProcurement platform.
 
-## Chapter 3 Electronic eligibility
+<a id="part-v-title-i-chapter-3"></a>
+## Chapter 3 – Electronic eligibility
 
 <a id="art-133"></a>
-### Article 133
-
-Electronic eligibility service
+### Article 133 – Electronic eligibility service
 
 1. The Commission shall set up and operate an electronic eligibility service. The electronic eligibility service shall provide an electronic verification service for exclusion grounds, selection criteria and requirement of origin for each procurement procedure by means of the European Business Wallets established pursuant to Regulation [OP – please add proposal on the establishment of the European Business Wallets] or by alternative electronic means which shall be interoperable with the European Business Wallets.
 
@@ -3519,14 +3296,14 @@ Electronic eligibility service
 
 8. Member States shall inform the Commission within 30 days of the creation of any new certificates or other forms of documentary evidence to be provided through the electronic eligibility service.
 
-Part VI Transparency and governance
+<a id="part-vi"></a>
+## Part VI – Transparency and governance
 
-## Title I Data spaces
+<a id="part-vi-title-i"></a>
+## Title I – Data spaces
 
 <a id="art-134"></a>
-### Article 134
-
-National Public Procurement Data Spaces
+### Article 134 – National Public Procurement Data Spaces
 
 1. Each Member State shall establish or designate a National Public Procurement Data Space (‘NPPDS’) as the central national data access point for procurement information related to the public procurement and contract life-cycle and other related national procurement information covered by this Regulation and shall act as the Member State’s contact point to the Public Procurement Data Space pursuant to Article 135.
 
@@ -3587,9 +3364,7 @@ National Public Procurement Data Spaces
 10. Where a Member State so requests it, the Commission shall provide the Member States with the source code of the Public Procurement Data Space for purpose of setting-up the NPPDS.
 
 <a id="art-135"></a>
-### Article 135
-
-Public Procurement Data Space
+### Article 135 – Public Procurement Data Space
 
 1. The Public Procurement Data Space (the ‘PPDS’) established by the Commission and built on the eProcurement ontology and the Findability, Accessibility, Interoperability, and Reuse of digital assets (FAIR) principles, shall be a central repository of procurement information originating from all NPPDS for the monitoring of public procurement procedures and contracts at Union level.
 
@@ -3606,9 +3381,7 @@ Public Procurement Data Space
 5. The Commission may grant access to the PPDS to Union institutions within the meaning of Article 2, point (73) of Regulation (EU, Euratom) 2024/2509, Executive Agencies and Union bodies within the meaning of Articles 68, 69 and 70 of that Regulation, to the European Public Prosecutors Office, to the European Anti-Fraud Office and to the European Central Bank, corresponding to their respective needs and purposes.
 
 <a id="art-136"></a>
-### Article 136
-
-PPDS data exchange
+### Article 136 – PPDS data exchange
 
 1. The Commission shall establish a data exchange for the management of access to PPDS and NPPDS procurement information.
 
@@ -3636,12 +3409,11 @@ PPDS data exchange
 
   - (k) interconnections made via the data exchange, such as to the NPPDS.
 
-## Title II Governance
+<a id="part-vi-title-ii"></a>
+## Title II – Governance
 
 <a id="art-137"></a>
-### Article 137
-
-Monitoring of the performance of public procurement markets
+### Article 137 – Monitoring of the performance of public procurement markets
 
 1. Member States shall monitor and assess the performance of their public procurement systems, on the basis of the data in their NPPDS. They shall identify potential shortcomings and possible improvements, thereby supporting the continuous enhancement of their public procurement system.
 
@@ -3666,9 +3438,7 @@ Monitoring of the performance of public procurement markets
 3. The Commission shall monitor and analyse the functioning of public procurement in the Union, in particular the competition in procurement markets, on the basis of the data in the Public Procurement Data Space. The Commission shall every three years provide an analysis of the public procurement system across the Union.
 
 <a id="art-138"></a>
-### Article 138
-
-National coordinating authority
+### Article 138 – National coordinating authority
 
 1. Each Member State shall designate one authority, body or structure as national coordinating authority for the purposes of this Regulation.
 
@@ -3689,9 +3459,7 @@ Member States may provide that modifications of large infrastructure projects an
 4. Member States shall notify the Commission of the national coordinating authority designated pursuant to paragraph 1 and of any subsequent changes thereto.
 
 <a id="art-139"></a>
-### Article 139
-
-Professionalisation and capacity building
+### Article 139 – Professionalisation and capacity building
 
 1. Member States shall ensure that the professionalisation of public procurement is a long-term and strategic element of public governance by taking appropriate measures, including institutional, organisational, financial and human resources arrangements.
 
@@ -3734,9 +3502,7 @@ Professionalisation and capacity building
 9. Member States shall monitor and assess the implementation and effectiveness of the measures adopted pursuant to this Article, including their impact on the performance of the public procurement system, and shall report as part of the reporting referred to in Article 137(2).
 
 <a id="art-140"></a>
-### Article 140
-
-Integrity governance
+### Article 140 – Integrity governance
 
 1. Public buyers shall take appropriate, proportionate, and effective measures to combat fraud, favouritism, collusion, and corruption, and to effectively prevent, identify, and remedy conflicts of interest arising in the conduct of procurement procedures and in the execution of public contracts. Those measures shall be designed to avoid any distortion of competition, to ensure the transparency of the procedure, and to guarantee the equal treatment of all economic operators originating from the Union and covered economic operators in accordance with Article 70(1) participating in the procurement procedure.
 
@@ -3746,14 +3512,14 @@ Integrity governance
 
     Where, in accordance with paragraph 2 of this Article, a public buyer identifies a high risk of irregularities, all procurement personnel involved in the preparation, evaluation, or award of the public contract shall be required to complete and submit an electronic integrity declaration. The public buyer shall take appropriate measures to remedy any irregularities that it has identified and recorded in the individual documentation pursuant to Article 109 the follow-up carried out.
 
-Part VII Final provisions
+<a id="part-vii"></a>
+## Part VII – Final provisions
 
-## Title I Exercise of delegation and other cross-cutting provisions
+<a id="part-vii-title-i"></a>
+## Title I – Exercise of delegation and other cross-cutting provisions
 
 <a id="art-141"></a>
-### Article 141
-
-Exercise of delegation
+### Article 141 – Exercise of delegation
 
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
@@ -3766,18 +3532,14 @@ Exercise of delegation
 5. A delegated act adopted pursuant to Articles 2(2), 7(5), 54(2) and (4), 65(4), 66(6), 69(4), 72(1), 75, 110(6), 128(2), 133(3) and 134(7) shall enter into force only where no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of the act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
 
 <a id="art-142"></a>
-### Article 142
-
-Urgency procedure
+### Article 142 – Urgency procedure
 
 1. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
 
 2. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 141(5). In such case, the Commission shall repeal the act without delay following the notification of the decision to object by the European Parliament or by the Council.
 
 <a id="art-143"></a>
-### Article 143
-
-Committee procedure
+### Article 143 – Committee procedure
 
 1. The Commission shall be assisted by the Advisory Committee on Public Contracts established by Council Decision 71/306/EEC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 
@@ -3786,34 +3548,27 @@ Committee procedure
 3. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
 <a id="art-144"></a>
-### Article 144
-
-Outermost regions
+### Article 144 – Outermost regions
 
 Where the specific needs of the public procurement markets of the outermost regions of the Union within the meaning of Article 349 of the Treaty cannot be met without the adaptation of certain procedures laid down in this Regulation, Member States may adapt the application of specific aspects of Part III of this Regulation in line with the Union’s international obligations and without affecting the principles of equal treatment, non-discrimination and transparency. Member States shall notify to the Commission and to the other Member States the national laws, regulations and administrative provisions providing for such adaptations as well as their detailed justification. The adaptations concerned shall not apply before three months after that notification. The Commission shall publish the adaptations in the Official Journal of the European Union without delay.
 
 <a id="art-145"></a>
-### Article 145
-
-Procurement with Union support
+### Article 145 – Procurement with Union support
 
 In addition to any rules set out in this Regulation, for the award and execution of contracts supported by a Union programme or instrument, public buyers shall apply any conditions necessary to comply with the requirements for Union support in all management modes established in Article 62 of Regulation (EU, EURATOM) 2024/2509.
 
-## Title II Amendments, repeals, transitional provisions, entry into force and application
+<a id="part-vii-title-ii"></a>
+## Title II – Amendments, repeals, transitional provisions, entry into force and application
 
 <a id="art-146"></a>
-### Article 146
-
-Repeal
+### Article 146 – Repeal
 
 1. Directive 2014/23/EU , Directive 2014/24/EU and Directive 2014/25/EU are repealed.
 
 2. References to the repealed Directives shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex VIII, Part A.
 
 <a id="art-147"></a>
-### Article 147
-
-Amendments to horizontal public procurement provisions
+### Article 147 – Amendments to horizontal public procurement provisions
 
 - (1) Regulation (EU) 2024/1781 is amended as follows:
 
@@ -3886,18 +3641,14 @@ Amendments to horizontal public procurement provisions
 “Public service contracts pursuant to this Regulation shall be subject to the provisions on “Security and Resilience” and “European preference”, laid down in Part III, Title II, Chapter 4 and 5 of … [OP please adapt with the number of this Regulation]”.
 
 <a id="art-148"></a>
-### Article 148
-
-Review
+### Article 148 – Review
 
 1. Every seven years after … [OP please insert the date of entry into force of this Regulation], the Commission shall carry out an evaluation of this Regulation.
 
 2. The Commission shall present a report on the main findings of the evaluation carried out in accordance with paragraph 1 to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions. Member States shall provide the Commission with the necessary information for the preparation of the report.
 
 <a id="art-149"></a>
-### Article 149
-
-Entry into force and application
+### Article 149 – Entry into force and application
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
