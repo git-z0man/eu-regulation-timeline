@@ -3869,6 +3869,9 @@ The President The President
 
     The digital solutions will be used for the collection, processing and exchange of data related to the different areas covered by the proposal (safety, resilience and environmental sustainability) as well as regarding the authorisation process to carry out space activities at national level and the registration of third country operators at Union level. The European Commission and the Agency will play a direct and active role in the development and management of these digital solutions.
 
+<a id="notes"></a>
+## Notes
+
 ^(1) ^(1) Political Guidelines for the next European Commission 2024−2029, presented by Ursula von der Leyen on 18.7.2025; https://commission.europa.eu/document/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en.
 
 ^(2) ^(2) The future of European competitiveness: Report by Mario Draghi from 9.9.2024.

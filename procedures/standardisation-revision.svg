@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="698" viewBox="0 0 1800 698" font-family="Helvetica, Arial, sans-serif">
+<rect width="1800" height="698" fill="#ffffff"/>
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-08">
+<text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Standardisation Regulation (new) – COM(2026) 780 (proposal)</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0307(COD). State as of 08 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see standardisation-revision.html).</tspan></text>
+<text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
+<rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
+<rect x="1010.0" y="114.0" width="22.0" height="11.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1041.0" y="122.7">step in progress</tspan></text>
+<rect x="1200.0" y="94.0" width="22.0" height="11.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1231.0" y="102.7">not reached</tspan></text>
+<rect x="1200.0" y="114.0" width="22.0" height="11.0" fill="#fff8e1" stroke="#8a6d00" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1231.0" y="122.7">informal (trilogues)</tspan></text>
+<rect x="20.0" y="150.0" width="190.0" height="58.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="2.5"/>
+<text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="167.8">Commission proposal</tspan></text>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="115.0" y="199.2">Art. 294(2)</tspan></text>
+<text font-size="9" fill="#2f5a9e" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="220.2">06 Oct 2026</tspan></text>
+<rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
+<rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
+<rect x="740.0" y="150.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="161.0">Act adopted in the wording of the EP</tspan><tspan x="855.0" y="174.7">position</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="855.0" y="199.2">Art. 294(4)</tspan></text>
+<rect x="490.0" y="262.0" width="210.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="595.0" y="279.9">Council position at first reading</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="595.0" y="311.1">Art. 294(5), (6)</tspan></text>
+<rect x="740.0" y="262.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="279.9">EP second reading, 3 (+1) months</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="855.0" y="311.1">Art. 294(7), (14)</tspan></text>
+<rect x="1010.0" y="262.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="1125.0" y="279.9">Council second reading, 3 (+1) months</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="1125.0" y="311.1">Art. 294(8), (9), (14)</tspan></text>
+<rect x="1280.0" y="262.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="1395.0" y="279.9">Conciliation Committee, 6 (+2) weeks</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="1395.0" y="311.1">Art. 294(10)–(12), (14)</tspan></text>
+<rect x="1550.0" y="262.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="1665.0" y="273.0">Third reading: EP and Council, 6 (+2)</tspan><tspan x="1665.0" y="286.7">weeks</tspan></text>
+<text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="1665.0" y="311.1">Art. 294(13), (14)</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="338.5">approves or no decision → adopted (7a); rejects</tspan><tspan x="855.0" y="349.8">→ not adopted (7b)</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="1125.0" y="344.1">approves all amendments → adopted (8a)</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="1395.0" y="344.1">no joint text → not adopted (12)</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="1665.0" y="338.5">both adopt → adopted; otherwise not adopted</tspan><tspan x="1665.0" y="349.8">(13)</tspan></text>
+<polyline points="210.0,179.0 250.0,179.0" fill="none" stroke="#2f5a9e" stroke-width="2.5"/><polygon points="250.0,179.0 241.0,183.5 241.0,174.5" fill="#2f5a9e"/>
+<polyline points="450.0,179.0 490.0,179.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="490.0,179.0 481.0,183.5 481.0,174.5" fill="#b5bac0"/>
+<polyline points="700.0,179.0 740.0,179.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="740.0,179.0 731.0,183.5 731.0,174.5" fill="#b5bac0"/>
+<text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="706.0" y="168.2">yes</tspan></text>
+<polyline points="595.0,224.0 595.0,262.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="595.0,262.0 590.5,253.0 599.5,253.0" fill="#b5bac0"/>
+<text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="603.0" y="245.2">no</tspan></text>
+<polyline points="700.0,291.0 740.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="740.0,291.0 731.0,295.5 731.0,286.5" fill="#b5bac0"/>
+<polyline points="970.0,291.0 1010.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="1010.0,291.0 1001.0,295.5 1001.0,286.5" fill="#b5bac0"/>
+<polyline points="1240.0,291.0 1280.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="1280.0,291.0 1271.0,295.5 1271.0,286.5" fill="#b5bac0"/>
+<polyline points="1510.0,291.0 1550.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="1550.0,291.0 1541.0,295.5 1541.0,286.5" fill="#b5bac0"/>
+<text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="976.0" y="280.1">amends</tspan></text>
+<text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="1246.0" y="280.1">not all</tspan></text>
+<rect x="250.0" y="96.0" width="720.0" height="40.0" fill="#fff8e1" stroke="#8a6d00" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="9" fill="#8a6d00" text-anchor="start"><tspan x="254.0" y="113.5">Informal: trilogues of EP, Council and Commission at every stage (Joint Declaration 2007, points 7–9); a trilogue agreement confirmed by Coreper and</tspan><tspan x="254.0" y="124.8">offered by letter to the EP committee chair (point 14) leads to adoption at first reading, or, after the EP first reading, to an early second reading.</tspan></text>
+<text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="400.6">Procedure over time – 2026/0307(COD)</tspan></text>
+<polygon points="1018,389 1025,396 1018,403 1011,396" fill="#2f5a9e" stroke="#2f5a9e" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1034.0" y="398.6">step of Art. 294 TFEU</tspan></text>
+<polygon points="1180,391 1185,396 1180,401 1175,396" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1194.0" y="398.6">other event</tspan></text>
+<polygon points="1264,392.5 1267.5,396 1264,399.5 1260.5,396" fill="#555555" stroke="#555555" stroke-width="1.5"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1276.0" y="398.6">working party meeting</tspan></text>
+<rect x="1390.0" y="391.0" width="26.0" height="10.0" fill="#7b8794" stroke="none" opacity="0.3"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
+<line x1="1470.0" y1="388.0" x2="1470.0" y2="403.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
+<line x1="210.0" y1="440.0" x2="210.0" y2="630.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="210.0" y="435.1">Oct</tspan></text>
+<line x1="739.0" y1="440.0" x2="739.0" y2="630.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1251.0" y1="440.0" x2="1251.0" y2="630.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="630.0" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="435.1">Jan 2027</tspan></text>
+<rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
+<rect x="20.0" y="490.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="494.0" width="6.0" height="20.0" fill="#7b8794" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="507.9">Consultative bodies</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="507.1">no events yet</tspan></text>
+<rect x="20.0" y="518.0" width="1760.0" height="28.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="522.0" width="6.0" height="20.0" fill="#1baf7a" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="535.9">European Parliament</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="535.1">no events yet</tspan></text>
+<rect x="20.0" y="546.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="550.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="563.9">Trilogues (informal)</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="563.1">no events yet</tspan></text>
+<rect x="20.0" y="574.0" width="1760.0" height="28.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="578.0" width="6.0" height="20.0" fill="#4a3aa7" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="591.9">Council</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="591.1">no events yet</tspan></text>
+<rect x="20.0" y="602.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="606.0" width="6.0" height="20.0" fill="#444444" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="619.9">Signature and publication</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="619.1">no events yet</tspan></text>
+<line x1="329.5" y1="440.0" x2="329.5" y2="630.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="329.5" y="640.1">as of 08 Oct 2026</tspan></text>
+<rect x="291.3" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780" target="_blank"><text font-size="9" fill="#1f2d3d" text-anchor="start" font-weight="bold"><tspan x="295.3" y="462.1">06 Oct 2026 · Commission proposal (COM(2026) 780)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780" target="_blank"><title>06 Oct 2026: Commission proposal – COM(2026) 780</title><polygon points="295.32608695652175,465 303.32608695652175,473 295.32608695652175,481 287.32608695652175,473" fill="#2a78d6" stroke="#1f2d3d" stroke-width="1.5"/></a>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="661.9">Notes</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="679.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
+</g>
+</svg>

@@ -1659,6 +1659,9 @@ Anforderung 8:
 | Bei der Überarbeitung des neuen Rechtsrahmens (NLF) und der Durchführungsrechtsakte für den digitalen Produktpass werden alle digitalen Anforderungen im Hinblick auf eine weiter verbesserte Interoperabilität bei allen Prozessen, die in den Anwendungsbereich dieser Richtlinie fallen, berücksichtigt. Besondere Aufmerksamkeit wird den Cybersicherheitsaspekten gewidmet. Die Kommission wird dafür Sorge tragen, dass die gemeinsamen Spezifikationen in den Durchführungsrechtsakten in strukturierter Weise definiert werden, um Interoperabilität zu ermöglichen. Die Überprüfungs- und Zertifizierungsverfahren könnten genauer definiert werden, um eine Automatisierung zu ermöglichen und Maßnahmen zur Abwehr etwaiger Bedrohungen im Bereich der Cybersicherheit vorzuschreiben. |
 | --- |
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) COM(2023) 168.
 
 ^(2) COM(2025) 30 final.

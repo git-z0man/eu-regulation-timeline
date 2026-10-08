@@ -408,6 +408,9 @@ Die Präsidentin Der Präsident/Die Präsidentin
 
 [...] [...]
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) ENISA, ENISA Threat Landscape 2025.
 
 ^(2) JOIN(2025) 130 final.

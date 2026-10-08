@@ -6,8 +6,8 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 ## At a glance
 
-- Next meeting: 2026-10-08 – 6th meeting of the CRA Expert Group
-- Last meeting: 2026-06-10 – 5th meeting of the CRA Expert Group ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133174/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download))
+- Next meeting: none announced
+- Last meeting: 2026-10-08 – 6th meeting of the CRA Expert Group ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download))
 - Meetings since 2024: 6
 - Latest minutes: [5th meeting of the CRA Expert Group (2026-06-10)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download)
 - Members: 58 members: 27 Member State authorities (type D); 25 organisations (type C); 2 other public entities (type E); 4 individuals appointed in a personal capacity (type A); 3 observers.

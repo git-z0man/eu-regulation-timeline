@@ -3869,6 +3869,9 @@ Die Präsidentin Der Präsident/Die Präsidentin
 
     Die digitalen Lösungen werden für die Erhebung, die Verarbeitung und den Austausch von Daten in Bezug auf die verschiedenen, unter den Vorschlag fallenden Bereiche (Sicherheit, Resilienz und ökologische Nachhaltigkeit) sowie in Bezug auf das Genehmigungsverfahren für die Durchführung von Weltraumtätigkeiten auf nationaler Ebene und die Registrierung von Betreibern aus Drittländern auf Unionsebene genutzt. Die Europäische Kommission und die Agentur werden eine direkte und aktive Rolle bei der Entwicklung und Verwaltung dieser digitalen Lösungen spielen.
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) ^(1) Politische Leitlinien für die nächste Europäische Kommission 2024-2029, vorgestellt von Ursula von der Leyen am 18.7.2025; https://commission.europa.eu/document/e6cd4328-673c-4e7a-8683-f63ffb2cf648_de.
 
 ^(2) ^(2) Die Zukunft der europäischen Wettbewerbsfähigkeit: Bericht von Mario Draghi vom 9.9.2024.

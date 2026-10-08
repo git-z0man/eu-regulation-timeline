@@ -56,7 +56,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-02 | [WK 9750/26](https://data.consilium.europa.eu/doc/document/WK-9750-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States | public | 2026-10-02 | – |
 | 2026-09-24 | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures … | public | – | [en](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) [de](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.de.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
 
 ## Texts as Markdown
 

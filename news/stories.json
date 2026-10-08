@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-07",
+ "edition": "2026-10-08",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 113,
+   "score": 111,
    "crumbs": {
     "en": [
      "Standardisation Regulation (new)",
@@ -90,7 +90,7 @@
     "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
     "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
    },
-   "score": 81,
+   "score": 79,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -134,7 +134,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 78,
+   "score": 76,
    "crumbs": {
     "en": [
      "EPA",
@@ -172,7 +172,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 66,
+   "score": 64,
    "crumbs": {
     "en": [
      "IAA",
@@ -212,7 +212,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 63,
+   "score": 61,
    "crumbs": {
     "en": [
      "Standardisation Regulation (new)",
@@ -254,7 +254,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 60,
+   "score": 58,
    "crumbs": {
     "en": [
      "CSA2",
@@ -262,6 +262,44 @@
     ],
     "de": [
      "CSA2",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "standardisation-revision/legislation/COM-2026-780",
+   "kind": "legislation",
+   "desk": "Legislation",
+   "date": "2026-10-06",
+   "act": "standardisation-revision",
+   "kicker": "Standardisation Regulation (new)",
+   "kicker_de": "Normungs-VO (neu)",
+   "headline": "Standardisation Regulation (new): Commission proposal (Art. 294(2) TFEU)",
+   "deck": "European Commission.",
+   "headline_de": "Normungs-VO (neu): neuer Schritt im Verfahren",
+   "deck_de": "Europäische Kommission (im Original): Commission proposal (Art. 294(2) TFEU)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/standardisation-revision.html"
+    ],
+    [
+     "Document",
+     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 51,
+   "crumbs": {
+    "en": [
+     "Standardisation Regulation (new)",
+     "Legislation"
+    ],
+    "de": [
+     "Normungs-VO (neu)",
      "Gesetzgebung"
     ]
    }
@@ -410,7 +448,7 @@
     "en": "The released papers include Member States' comments on the certification rules (Articles 71-97) and the Presidency's second compromise text on Title III: the basis for reading the third compromise text when it is published.",
     "de": "Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist."
    },
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "CSA2",
@@ -450,7 +488,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 49,
+   "score": 47,
    "crumbs": {
     "en": [
      "CSA2",
@@ -495,7 +533,7 @@
     }
    ],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -567,7 +605,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -576,6 +614,139 @@
     "de": [
      "Chips-Gesetz 2.0",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "cra/standards/M606/2026-W39",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-09-24",
+   "act": "cra",
+   "kicker": "CRA",
+   "kicker_de": "CRA",
+   "headline": "CRA · M/606: new rapporteur for 4 projects in week 39",
+   "deck": "ETSI 4.",
+   "headline_de": "CRA · M/606: neuer Rapporteur für 4 Projekte in KW 39",
+   "deck_de": "ETSI 4.",
+   "facts": [
+    "M/606",
+    "Request expires 30 Nov 2027"
+   ],
+   "facts_de": [
+    "M/606",
+    "Auftrag läuft aus 30. Nov. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 304 636: change of rapporteur approved at CYBEREUSR#38a on 21 Sep 2026; rapporteur now Luka Perkov",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859"
+    },
+    {
+     "label": "EN 304 625: change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now Birom Bah",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
+    },
+    {
+     "label": "EN 304 622: change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now Julien SAADE",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413"
+    },
+    {
+     "label": "EN 304 620: change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now David Lemarier",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "New rapporteur: EN 304 636 (change of rapporteur approved at CYBEREUSR#38a on 21 Sep 2026; rapporteur now Luka Perkov); EN 304 625 (change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now Birom Bah); EN 304 622 (change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now Julien SAADE); EN 304 620 (change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now David Lemarier).",
+    "de": "Neuer Rapporteur: EN 304 636 (Wechsel des Rapporteurs genehmigt in CYBEREUSR#38a am 21. Sept. 2026; Rapporteur jetzt Luka Perkov); EN 304 625 (Wechsel des Rapporteurs genehmigt in CYBEREUSR#38 am 8. Sept. 2026; Rapporteur jetzt Birom Bah); EN 304 622 (Wechsel des Rapporteurs genehmigt in CYBEREUSR#38 am 8. Sept. 2026; Rapporteur jetzt Julien SAADE); EN 304 620 (Wechsel des Rapporteurs genehmigt in CYBEREUSR#38 am 8. Sept. 2026; Rapporteur jetzt David Lemarier)."
+   },
+   "score": 36,
+   "tree": {
+    "vertical": {
+     "ETSI": {
+      "CYBER EUSR": [
+       {
+        "project": "EN 304 636",
+        "title": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems",
+        "now": "change of rapporteur approved at CYBEREUSR#38a on 21 Sep 2026; rapporteur now Luka Perkov",
+        "date": "2026-09-24",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
+        "step": [
+         3,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 304 625",
+        "title": "Cybersecurity requirements for physical and virtual network interfaces",
+        "now": "change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now Birom Bah",
+        "date": "2026-09-24",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 304 622",
+        "title": "Cybersecurity requirements for Security information and event management (SIEM) systems",
+        "now": "change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now Julien SAADE",
+        "date": "2026-09-24",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 304 620",
+        "title": "Cybersecurity requirements for Virtual Private Networks (VPNs)",
+        "now": "change of rapporteur approved at CYBEREUSR#38 on 8 Sep 2026; rapporteur now David Lemarier",
+        "date": "2026-09-24",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/606",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "CRA",
+     "Standards",
+     "M/606",
+     "ETSI"
+    ],
+    "de": [
+     "CRA",
+     "Normen",
+     "M/606",
+     "ETSI"
     ]
    }
   },
@@ -616,7 +787,7 @@
     "en": "A step further: prEN ISO 14159 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN ISO 14159 auf Entwurf EN."
    },
-   "score": 37,
+   "score": 35,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -659,6 +830,40 @@
      "Normen",
      "M/605",
      "CEN-CENELEC"
+    ]
+   }
+  },
+  {
+   "id": "cra/committee/2026-10-08",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-08",
+   "act": "cra",
+   "kicker": "CRA",
+   "kicker_de": "CRA",
+   "headline": "6th meeting of the CRA Expert Group",
+   "deck": "CRA Expert Group.",
+   "headline_de": "CRA: Ausschussdokument veröffentlicht",
+   "deck_de": "CRA Expert Group (Titel im Original): 6th meeting of the CRA Expert Group",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/cra.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 35,
+   "crumbs": {
+    "en": [
+     "CRA",
+     "Committees"
+    ],
+    "de": [
+     "CRA",
+     "Ausschüsse"
     ]
    }
   },
@@ -727,7 +932,7 @@
     "en": "4 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 627, EN 304 619, EN 40000-1-2:2026 …).",
     "de": "4 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 627, EN 304 619, EN 40000-1-2:2026 …)."
    },
-   "score": 36,
+   "score": 34,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -964,7 +1169,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1006,7 +1211,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 34,
+   "score": 32,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1051,7 +1256,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1100,6 +1305,40 @@
    }
   },
   {
+   "id": "ai-act/committee/2026-10-08",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-08",
+   "act": "ai-act",
+   "kicker": "AI Act",
+   "kicker_de": "KI-VO",
+   "headline": "Draft implementing act published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "deck": "Artificial Intelligence Committee.",
+   "headline_de": "KI-VO: Ausschussdokument veröffentlicht",
+   "deck_de": "Artificial Intelligence Committee (Titel im Original): Draft implementing act published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/ai-act.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 20,
+   "crumbs": {
+    "en": [
+     "AI Act",
+     "Committees"
+    ],
+    "de": [
+     "KI-VO",
+     "Ausschüsse"
+    ]
+   }
+  },
+  {
    "id": "machinery-regulation/committee/2026-10-06",
    "kind": "committee",
    "desk": "Committees",
@@ -1121,7 +1360,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 18,
+   "score": 16,
    "crumbs": {
     "en": [
      "MR",
@@ -1159,7 +1398,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "crumbs": {
     "en": [
      "CSA2",
@@ -1168,6 +1407,38 @@
     "de": [
      "CSA2",
      "Ausschüsse"
+    ]
+   }
+  },
+  {
+   "id": "site/2026-10-08/etsi-rapporteurs",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-08",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "New: the rapporteurs of the ETSI standards for the CRA, and every change of rapporteur",
+   "deck": "The act page names the rapporteur of each ETSI project; the news report a new rapporteur like a new status.",
+   "headline_de": "Neu: die Rapporteure der ETSI-Normen zum CRA und jeder Wechsel des Rapporteurs",
+   "deck_de": "Die Seite zum Rechtsakt nennt den Rapporteur jedes ETSI-Projekts; die Meldungen berichten einen Wechsel wie einen neuen Status.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
     ]
    }
   },
@@ -1193,88 +1464,13 @@
    ],
    "items": [],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "crumbs": {
     "en": [
      "This site"
     ],
     "de": [
      "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "cra/standards/M606/2026-W39",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-09-23",
-   "act": "cra",
-   "kicker": "CRA",
-   "kicker_de": "CRA",
-   "headline": "CRA · M/606: new status for EN 304 634",
-   "deck": "Cybersecurity requirements for personal wearable. Step 3 of 8: Voting prEN.",
-   "headline_de": "CRA · M/606: neuer Status für EN 304 634",
-   "deck_de": "Cybersecurity requirements for personal wearable. Schritt 3 von 8: Umfrage prEN.",
-   "facts": [
-    "M/606",
-    "Request expires 30 Nov 2027"
-   ],
-   "facts_de": [
-    "M/606",
-    "Auftrag läuft aus 30. Nov. 2027"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/cra.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 304 634: Drafting Stage – 7 VR – EC assessment before EV received",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419"
-    }
-   ],
-   "brief": null,
-   "score": 13,
-   "tree": {
-    "vertical": {
-     "ETSI": {
-      "CYBER EUSR": [
-       {
-        "project": "EN 304 634",
-        "title": "Cybersecurity requirements for personal wearable",
-        "now": "Drafting Stage – 7 VR – EC assessment before EV received",
-        "date": "2026-09-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/606",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "CRA",
-     "Standards",
-     "M/606",
-     "ETSI"
-    ],
-    "de": [
-     "CRA",
-     "Normen",
-     "M/606",
-     "ETSI"
     ]
    }
   },
@@ -1300,7 +1496,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1336,7 +1532,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 10,
+   "score": 8,
    "crumbs": {
     "en": [
      "PPA",
@@ -1370,7 +1566,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 4,
+   "score": 2,
    "crumbs": {
     "en": [
      "AI Act",
@@ -1408,7 +1604,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "MDR/IVDR simplification",
@@ -1416,40 +1612,6 @@
     ],
     "de": [
      "MDR/IVDR-Vereinfachung",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "standardisation-regulation/committee/2026-09-23",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-09-23",
-   "act": "standardisation-regulation",
-   "kicker": "Standardisation Regulation",
-   "kicker_de": "Normungs-VO",
-   "headline": "Voting sheet published: Written procedure - Draft amendment on a standardisation request as regards toys in support of Directive 2009/48/EC (2026-08-18)",
-   "deck": "Committee on Standards.",
-   "headline_de": "Normungs-VO: Ausschussdokument veröffentlicht",
-   "deck_de": "Committee on Standards (Titel im Original): Voting sheet published: Written procedure - Draft amendment on a standardisation request as regards toys in support of Directive 2009/48/EC (2026-08-18)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/standardisation-regulation.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -23,
-   "crumbs": {
-    "en": [
-     "Standardisation Regulation",
-     "Committees"
-    ],
-    "de": [
-     "Normungs-VO",
      "Ausschüsse"
     ]
    }

@@ -1268,6 +1268,9 @@ High-level description of measures supporting digital implementation
 | --- | --- | --- | --- | --- |
 | N.A. |  |  |  |  |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) COM(2025) 47 final.
 
 ^(2) COM(2025)165 final.

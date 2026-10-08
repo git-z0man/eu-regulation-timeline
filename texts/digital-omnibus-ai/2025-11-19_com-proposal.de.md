@@ -1246,6 +1246,9 @@ Allgemeine Beschreibung der Unterstützungsmaßnahmen für die digitale Umsetzun
 | --- | --- | --- | --- | --- |
 | Entfällt |  |  |  |  |
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) COM(2025) 47 final.
 
 ^(2) COM(2025) 165 final.

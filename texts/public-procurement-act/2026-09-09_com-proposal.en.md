@@ -4321,6 +4321,9 @@ For each measure to support digital implementation, please fill in the table bel
 | The Commission is empowered to adopt implementing acts specifying the procurement information which shall be provided by the Member States through the PPDS including its technical format, the minimum publication terms for procurement information not designated as publicly available and the source of the technical validation requirements. | Article 135(3) | The Commission is empowered to adopt such acts | The Commission | // |
 | The Commission may adopt implementing acts specifying the following implementation arrangements of the data exchange pursuant to Union law. | Article 136(2) | The Commission may adopt such acts | The Commission | // |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) https://commission.europa.eu/topics/competitiveness/draghi-report_en.
 
 ^(2) consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf.

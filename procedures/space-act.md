@@ -109,7 +109,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-01 | [WK 13262/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89351) | council-note | EU Space Act - Application to governmental assets - Presentation by the Commission | not public\* | – | – |
 | 2026-09-01 | [WK 13263/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89349) | council-note | EU Space Act - Space-based data - Presentation by the Commission | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
 
 ## Texts as Markdown
 

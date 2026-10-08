@@ -205,6 +205,9 @@ The European Parliament,
 
 - 40. Instructs its President to forward this resolution to the Council and the Commission.
 
+<a id="notes"></a>
+## Notes
+
 (1) OJ C 214, 16.6.2023, p. 8.
 
 (2) Texts adopted, P10_TA(2025)0107.

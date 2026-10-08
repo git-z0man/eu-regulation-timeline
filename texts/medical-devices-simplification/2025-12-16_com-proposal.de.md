@@ -3957,6 +3957,9 @@ Digitale öffentliche Dienste: Konformitätsbewertung von Medizinprodukten und E
 | Die Kommission wird die IKT-Beschaffung nutzen, um die erforderlichen Funktionalitäten in Eudamed einzurichten, und kann Durchführungsrechtsakte bzw. delegierte Rechtsakte erlassen, um weitere Einzelheiten zur Umsetzung der einschlägigen Anforderungen bzw. Artikel festzulegen. | Artikel 60, Artikel 87a, Artikel 106b Absatz 5 MP-VO, Artikel 55, Artikel 82a Absatz 2 IVD-VO | Die Kommission richtet die Funktionalitäten ein und erlässt erforderlichenfalls solche Rechtsakte. | EMA Wirtschaftsakteure Zuständige Behörden der Mitgliedstaaten |  |
 | Die Kommission oder die EMA kann die IKT-Beschaffung nutzen, um die erforderlichen Funktionalitäten in der IT-Plattform einzurichten. | Artikel 10a MP-VO, Artikel 10a IVD-VO | Die Kommission wird die erforderlichen Synergien mit Eudamed fördern. | Wirtschaftsakteure Gesundheitseinrichtungen Angehörige der Gesundheitsberufe Zuständige Behörden der Mitgliedstaaten |  |
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) https://www.who.int/health-topics/medical-devices#tab=tab_ 1 (abgerufen am 17.10.2025).
 
 ^(2) https://www.medtecheurope.org/resource-library/medtech-europes-facts-figures-2025/ (abgerufen am 17.10.2025). Die Daten beziehen sich auf die EU-27 sowie auf Island, Norwegen, die Schweiz und das Vereinigte Königreich.

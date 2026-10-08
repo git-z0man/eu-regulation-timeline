@@ -37,6 +37,9 @@ In Artikel 77 der Verordnung (EU) 2023/1542 wird folgender Absatz angefügt:
 
 ‚(10) Der Wirtschaftsteilnehmer, der die Batterie in Verkehr bringt oder in Betrieb nimmt, lädt die individuelle Kennung in das in Artikel 13 Absatz 1 der Verordnung (EU) 2024/1781 des Europäischen Parlaments und des Rates^(*1) genannte Register hoch.
 
+<a id="notes"></a>
+## Fußnoten
+
 (*1) Verordnung (EU) 2024/1781 des Europäischen Parlaments und des Rates vom 13. Juni 2024zur Schaffung eines Rahmens für die Festlegung von Ökodesign-Anforderungen für nachhaltige Produkte, zur Änderung der Richtlinie (EU) 2020/1828 und der Verordnung (EU) 2023/1542 und zur Aufhebung der Richtlinie 2009/125/EG (ABl. L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).‘ “
 
 ELI: http://data.europa.eu/eli/reg/2024/1781/corrigendum/2024-08-07/oj

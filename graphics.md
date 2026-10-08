@@ -24,6 +24,7 @@ Every graphic of this site, collected on each build.
 - **Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)** (In progress, as of 2026-10-06): [png](procedures/product-digitalisation-directive.png) · [svg](procedures/product-digitalisation-directive.svg) · [pdf](procedures/product-digitalisation-directive.pdf) · [drawio](procedures/product-digitalisation-directive.drawio)
 - **Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)** (In progress, as of 2026-10-06): [png](procedures/product-digitalisation-regulation.png) · [svg](procedures/product-digitalisation-regulation.svg) · [pdf](procedures/product-digitalisation-regulation.pdf) · [drawio](procedures/product-digitalisation-regulation.drawio)
 - **PPA – COM(2026) 590 (proposal)** (In progress, as of 2026-10-06): [png](procedures/public-procurement-act.png) · [svg](procedures/public-procurement-act.svg) · [pdf](procedures/public-procurement-act.pdf) · [drawio](procedures/public-procurement-act.drawio)
+- **Standardisation Regulation (new) – COM(2026) 780 (proposal)** (In progress, as of 2026-10-08): [png](procedures/standardisation-revision.png) · [svg](procedures/standardisation-revision.svg) · [pdf](procedures/standardisation-revision.pdf) · [drawio](procedures/standardisation-revision.drawio)
 
 ## Legislative procedures – adopted
 

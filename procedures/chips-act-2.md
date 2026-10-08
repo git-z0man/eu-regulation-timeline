@@ -50,7 +50,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-30 | WK 15026/26 | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 07 October 2026 | not public\* | – | – |
 | 2026-09-30 | WK 15047/26 | council-note | Presidency flash note for the month of October 2026 | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
 
 ## Texts as Markdown
 

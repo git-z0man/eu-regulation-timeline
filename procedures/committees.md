@@ -4,10 +4,10 @@ Comitology committees of Member State representatives give opinions on draft imp
 
 | Act | Committee or group | Kind | Meetings | Last meeting | Next meeting |
 | --- | --- | --- | --- | --- | --- |
-| [AI Act](ai-act.md) | [Artificial Intelligence Committee](committee-c129100.md) | Comitology committee | 4 | 2026-05-21 | – |
+| [AI Act](ai-act.md) | [Artificial Intelligence Committee](committee-c129100.md) | Comitology committee | 5 | 2026-05-22 | – |
 | [AI Act](ai-act.md) | [European Artificial Intelligence Board](committee-x03966.md) | Expert group | 9 | 2026-09-17 | – |
 | [CRA](cra.md) | [Product Security Committee](committee-c130100.md) | Comitology committee | 3 | 2025-11-07 | – |
-| [CRA](cra.md) | [CRA Expert Group](committee-e03967.md) | Expert group | 6 | 2026-06-10 | 2026-10-08 |
+| [CRA](cra.md) | [CRA Expert Group](committee-e03967.md) | Expert group | 6 | 2026-10-08 | – |
 | [CSA](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [CSOA](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 16 | 2026-03-04 | – |
 | [EHDS](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 10 | 2026-06-23 | 2026-10-22 |

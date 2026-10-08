@@ -3957,6 +3957,9 @@ Digital public services : Medical Devices Conformity Assessment and Eudamed
 | The Commission will make use of ICT procurement to set up the necessary functionalities in Eudamed and may adopt implementing/delegated acts to further define details on the implementation of the relevant requirements/articles | Articles 60, 87a, 106b(5) MDR, Articles 55, 82a(2) IVDR | The Commission shall set up the functionalities and adopt such acts if necessary. | EMA Economic operators Member states competent authorities |  |
 | The Commission or EMA may make use of ICT procurement to set up the necessary functionalities in the IT platform | Article 10a MDR, Article 10a IVDR | The Commission will facilitate the necessary synergies with Eudamed | Economic operators Healthcare institutions Healthcare professionals Member states competent authorities |  |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) https://www.who.int/health-topics/medical-devices#tab=tab_1 (accessed 17.10.2025).
 
 ^(2) https://www.medtecheurope.org/resource-library/medtech-europes-facts-figures-2025/ (accessed 17.10.2025). The data is for EU27, Iceland, Norway, Switzerland and UK.

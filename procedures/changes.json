@@ -1,12 +1,36 @@
 {
  "items": [
   {
+   "date": "2026-10-08",
+   "title": "CRA",
+   "actor": "CRA Expert Group",
+   "label": "6th meeting of the CRA Expert Group",
+   "doc": "agenda",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "AI Act",
+   "actor": "Artificial Intelligence Committee",
+   "label": "Draft implementing act published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "doc": "draft implementing act v2",
+   "page": "ai-act.html"
+  },
+  {
    "date": "2026-10-07",
    "title": "CRA",
    "actor": "CYBER EUSR",
    "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Comments categorisation assessed",
    "doc": "EN 304 636",
    "page": "cra.html"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "Standardisation Regulation (new) – COM(2026) 780 (proposal)",
+   "actor": "European Commission",
+   "label": "Commission proposal (Art. 294(2) TFEU)",
+   "doc": "COM(2026) 780",
+   "page": "standardisation-revision.html"
   },
   {
    "date": "2026-10-06",
@@ -39,30 +63,6 @@
    "label": "Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and …",
    "doc": "CM 4305/26",
    "page": "public-procurement-act.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council progress report of 2026-05-13 (Progress report), listed as not public since 2026-09-25",
-   "doc": "ST 9121/26",
-   "page": "nis2-amendment.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-07-02 (Comments from Austria and other Member States), listed as not public since 2026-09-30",
-   "doc": "WK 9750/26",
-   "page": "nis2-amendment.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "NIS-2 amendment – COM(2026) 13 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-06-30 (Non-paper regarding an European Cyber Posture Framework Built on Existing National …), listed as not public since 2026-09-30",
-   "doc": "WK 9618/26",
-   "page": "nis2-amendment.html"
   }
  ]
 }

@@ -2522,6 +2522,9 @@ N/A
 | The revision of the NLF and the Digital Product Passport Implementing Acts will take into consideration all digital requirements for further interoperability in all processes in scope of this directive. Particular attention will be paid to the cybersecurity aspects. The Commission will ensure that the common specifications are defined in the implementing acts in a structured manner, to allow interoperability. The verification and certification processes could be further defined to allow automatisation and require measures to address cybersecurity possible threats. |
 | --- |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) COM(2023)168.
 
 ^(2) https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox_en

@@ -2170,6 +2170,9 @@ Bitte füllen Sie für jede Unterstützungsmaßnahmen für die digitale Umsetzun
 | --- | --- | --- | --- | --- |
 | Durchführungsrechtsakte | Artikel 4, 13, 31 | Durchführungsrechtsakte | Europäische Kommission |  |
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) Gemeinsame Mitteilung über die Stärkung der wirtschaftlichen Sicherheit in der EU , JOIN(2025) 977 final.
 
 ^(2) Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen – Der Deal für eine saubere Industrie: Ein gemeinsamer Fahrplan für Wettbewerbsfähigkeit und Dekarbonisierung (COM(2025) 85 final vom 26.2.2025.

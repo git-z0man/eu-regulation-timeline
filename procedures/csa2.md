@@ -121,7 +121,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
 
 ## Texts as Markdown
 

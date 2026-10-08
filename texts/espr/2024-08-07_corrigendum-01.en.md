@@ -37,6 +37,9 @@ In Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:
 
 “10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1781 of the European Parliament and of the Council^(*1).
 
+<a id="notes"></a>
+## Notes
+
 (*1) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).”.’
 
 ELI: http://data.europa.eu/eli/reg/2024/1781/corrigendum/2024-08-07/oj

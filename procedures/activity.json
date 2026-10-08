@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "date": "2026-10-08",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CRA Expert Group",
+   "label": "6th meeting of the CRA Expert Group",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967",
+   "key": "E03967-76324",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download"
+    ]
+   ],
+   "page": "cra",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "Artificial Intelligence Committee",
+   "label": "Draft implementing act published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "doc": "draft implementing act v2",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/115456/2/consult",
+   "key": "C129100-D115456/2",
+   "page": "ai-act",
+   "type": "Committees"
+  },
+  {
    "date": "2026-10-07",
    "act": "cra",
    "title": "CRA",
@@ -11,6 +41,18 @@
    "key": "eso-DEN/CYBER-EUS-0020-2026-10-07",
    "page": "cra",
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-06",
+   "act": "standardisation-revision",
+   "title": "Standardisation Regulation (new) – COM(2026) 780 (proposal)",
+   "actor": "European Commission",
+   "label": "Commission proposal (Art. 294(2) TFEU)",
+   "doc": "COM(2026) 780",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780",
+   "key": "COM(2026) 780",
+   "page": "standardisation-revision",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-06",
@@ -571,6 +613,90 @@
    "key": "PE792.221",
    "page": "nis2-amendment",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-09-24",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: change of rapporteur approved at CYBEREUSR#38a on 2026-09-21; rapporteur now Luka Perkov",
+   "doc": "EN 304 636",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
+   "kind": "rapporteur",
+   "rapporteur": "Luka Perkov",
+   "previous_rapporteur": null,
+   "change": {
+    "noted": "2026-09-24",
+    "kind": "approved",
+    "meeting": "CYBEREUSR#38a",
+    "approved": "2026-09-21"
+   },
+   "key": "eso-rapporteur-DEN/CYBER-EUS-0020-2026-09-24",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-24",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: change of rapporteur approved at CYBEREUSR#38 on 2026-09-08; rapporteur now Birom Bah",
+   "doc": "EN 304 625",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+   "kind": "rapporteur",
+   "rapporteur": "Birom Bah",
+   "previous_rapporteur": null,
+   "change": {
+    "noted": "2026-09-24",
+    "kind": "approved",
+    "meeting": "CYBEREUSR#38",
+    "approved": "2026-09-08"
+   },
+   "key": "eso-rapporteur-DEN/CYBER-EUS-0017-2026-09-24",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-24",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: change of rapporteur approved at CYBEREUSR#38 on 2026-09-08; rapporteur now Julien SAADE",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "kind": "rapporteur",
+   "rapporteur": "Julien SAADE",
+   "previous_rapporteur": null,
+   "change": {
+    "noted": "2026-09-24",
+    "kind": "approved",
+    "meeting": "CYBEREUSR#38",
+    "approved": "2026-09-08"
+   },
+   "key": "eso-rapporteur-DEN/CYBER-EUS-0010-2026-09-24",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-24",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): change of rapporteur approved at CYBEREUSR#38 on 2026-09-08; rapporteur now David Lemarier",
+   "doc": "EN 304 620",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
+   "kind": "rapporteur",
+   "rapporteur": "David Lemarier",
+   "previous_rapporteur": null,
+   "change": {
+    "noted": "2026-09-24",
+    "kind": "approved",
+    "meeting": "CYBEREUSR#38",
+    "approved": "2026-09-08"
+   },
+   "key": "eso-rapporteur-DEN/CYBER-EUS-005-2026-09-24",
+   "page": "cra",
+   "type": "Standardisation"
   },
   {
    "date": "2026-09-23",
@@ -1143,6 +1269,46 @@
    "page": "csa2",
    "type": "Legislation",
    "listed": "document"
+  },
+  {
+   "date": "2026-08-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: interim rapporteur nominated, decision pending at CYBEREUSR#38",
+   "doc": "EN 304 625",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+   "kind": "rapporteur",
+   "rapporteur": null,
+   "previous_rapporteur": null,
+   "change": {
+    "noted": "2026-08-06",
+    "kind": "interim",
+    "meeting": "CYBEREUSR#38"
+   },
+   "key": "eso-rapporteur-DEN/CYBER-EUS-0017-2026-08-06",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: interim rapporteur nominated, decision pending at CYBEREUSR#38",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "kind": "rapporteur",
+   "rapporteur": null,
+   "previous_rapporteur": null,
+   "change": {
+    "noted": "2026-08-06",
+    "kind": "interim",
+    "meeting": "CYBEREUSR#38"
+   },
+   "key": "eso-rapporteur-DEN/CYBER-EUS-0010-2026-08-06",
+   "page": "cra",
+   "type": "Standardisation"
   },
   {
    "date": "2026-07-31",
@@ -2621,6 +2787,24 @@
    "key": "ST 9399/26",
    "page": "csa2",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-05-22",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "Artificial Intelligence Committee",
+   "label": "Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (written procedure)",
+   "doc": "draft implementing act v2",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1645/consult",
+   "key": "C129100-CMTD(2026)1645",
+   "links": [
+    [
+     "draft implementing act v2",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/115456/2/consult"
+    ]
+   ],
+   "page": "ai-act",
+   "type": "Committees"
   },
   {
    "date": "2026-05-21",
@@ -5791,44 +5975,6 @@
    "key": "C131500-S110342/1",
    "page": "ehds",
    "type": "Committees"
-  },
-  {
-   "date": "2025-10-07",
-   "act": "toy-safety-regulation",
-   "title": "TSR",
-   "actor": "Expert Group on Toys Safety",
-   "label": "Expert group on Toys Safety",
-   "doc": "agenda, agenda, minutes",
-   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=1360",
-   "key": "E01360-65241",
-   "links": [
-    [
-     "agenda",
-     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122090/download"
-    ],
-    [
-     "agenda",
-     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/122091/download"
-    ],
-    [
-     "minutes",
-     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127516/download"
-    ]
-   ],
-   "page": "toy-safety-regulation",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-10-07",
-   "act": "space-act",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "Council",
-   "label": "Space Working Party meeting (ATTACHES): Presentation by the Commission (10935/25+ADD 1)",
-   "doc": "CM 4300/25 REV 1",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4300-2025-REV-1/en/pdf",
-   "key": "CM 4300/25 REV 1",
-   "page": "space-act",
-   "type": "Legislation"
   }
  ]
 }

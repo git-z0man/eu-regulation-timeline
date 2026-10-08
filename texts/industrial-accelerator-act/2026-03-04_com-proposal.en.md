@@ -2170,6 +2170,9 @@ For each measure to support digital implementation, please fill in the table bel
 | --- | --- | --- | --- | --- |
 | Implementing Acts | Article 4, 13, 31 | Implementing Acts | European Commission |  |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) Joint Communication, Strengthening EU economic security , JOIN(2025) 977 final.
 
 ^(2) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, The Clean Industrial Deal: A joint roadmap for competitiveness and decarbonisation (COM/2025/85 final, 26.2.2025).

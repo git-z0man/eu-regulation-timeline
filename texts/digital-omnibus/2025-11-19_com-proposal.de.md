@@ -2884,6 +2884,9 @@ Allgemeine Beschreibung der Unterstützungsmaßnahmen für die digitale Umsetzun
 | Delegierter Rechtsakt: Automatisierte und maschinenlesbare Angaben zu den Wahlentscheidungen der betroffenen Person | Artikel 3 | Festlegung der Pflichten von Anbietern von Webbrowsern und Endeinrichtungen | Ausschuss für das Prüfverfahren | // |
 | Durchführungsrechtsakt: Meldung von Vorfällen gemäß der Richtlinie über die Resilienz kritischer Einrichtungen | Artikel 9 | Präzisierung der Art und des Formats der gemäß Artikel 15 Absatz 1 der Richtlinie (EU) 2022/2557 (Richtlinie über die Resilienz kritischer Einrichtungen) gemeldeten Informationen. | // | // |
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen – Ein einfacheres und schnelleres Europa: Mitteilung über die Umsetzung und Vereinfachung, COM(2025) 47 final, 11. Februar 2025.
 
 ^(2) Von der Leyen, U., (2024) Europa hat die Wahl: Politische Leitlinien für die nächste Europäische Kommission 2024–2029. Abrufbar unter: https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_de?filename=Political%20Guidelines%202024-2029_DE.pdf .

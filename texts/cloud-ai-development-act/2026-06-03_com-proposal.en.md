@@ -2299,6 +2299,9 @@ EuroCloud Federation
 | --- | --- | --- | --- | --- |
 | The Commission is empowered to adopt implementing acts specifying (i) the technical, operational and organisational measures and (ii) the procedure to participate in the EuroCloud Federation as referred to in Article 40(2). | Article 40, Article 41 | Drafting one or more implementing acts | European Commission Participating Member States | TBD |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) OJ C , , p. .
 
 ^(2) OJ C , , p. .

@@ -205,6 +205,9 @@ Das Europäische Parlament,
 
 - 40. beauftragt seine Präsidentin, diese Entschließung dem Rat und der Kommission zu übermitteln.
 
+<a id="notes"></a>
+## Fußnoten
+
 (1) ABl. C 214 vom 16.6.2023, S. 8.
 
 (2) Angenommene Texte, P10_TA(2025)0107.

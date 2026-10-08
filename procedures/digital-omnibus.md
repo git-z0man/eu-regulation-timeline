@@ -134,7 +134,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [ST 13886/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95158) | council-position | Mandate for negotiations with the European Parliament<br>*Our summary (Not public: not released by the institution and unofficially leaked; we neither publish nor quote it. Our summary describes it in general terms only.):* Note of the Council's General Secretariat to Coreper of 2 October 2026 with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus: the full compromise text on the data rules (Data Act and the consolidated data acquis), the GDPR, the cookie rules of the ePrivacy Directive and a single entry point for reporting cyber and data incidents. A draft put to Coreper, not a position of the Council until Coreper agrees it, and not law. The note says that an agreed mandate will be made public unless Coreper objects, so an official release of the agreed text is likely. | not public, leak available\* | – | – |
 | 2026-10-05 | ST 13886/26 REV 1 | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
 
 ## Texts as Markdown
 

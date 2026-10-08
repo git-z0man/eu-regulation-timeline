@@ -2675,6 +2675,9 @@ Nicht zutreffend
 
 Nicht zutreffend
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) WSTS Semiconductor Market Forecast Spring 2025, https://www.wsts.org/76/103/WSTS-Semiconductor-Market-Forecast-Spring-2025 .
 
 ^(2) Global Semiconductor Sales Increase Substantially in February, https://www.semiconductors.org/global-semiconductor-sales-increase-substantially-in-february/ .

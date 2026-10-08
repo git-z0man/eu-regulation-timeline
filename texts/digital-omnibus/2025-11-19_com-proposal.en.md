@@ -2884,6 +2884,9 @@ High-level description of measures supporting digital implementation
 | Delegated act: Automated and machine-readable indications of data subject’s choices | Article 3 | Set out obligation for web browsers and providers of terminal equipment | Examination procedure committee | // |
 | Implementing act: CER incident notifications | Article 9 | Further specifying the type and format of information notified pursuant to Article 15(1) of Directive (EU) 2022/2557 (CER). | // | // |
 
+<a id="notes"></a>
+## Notes
+
 ^(1) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
 
 ^(2) Von der Leyen, U. (2024) Europe’s Choice: Political Guidelines for the Next European Commission 2024-2029. Available at: e6cd4328-673c-4e7a-8683-f63ffb2cf648_en

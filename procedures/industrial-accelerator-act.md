@@ -105,7 +105,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public\* | – | – |
 | 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-07.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
 
 ## Texts as Markdown
 

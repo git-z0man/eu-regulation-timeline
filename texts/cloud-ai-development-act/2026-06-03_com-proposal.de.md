@@ -2299,6 +2299,9 @@ EuroCloud-Verbund
 | --- | --- | --- | --- | --- |
 | Der Kommission wird die Befugnis übertragen, Durchführungsrechtsakte zu erlassen, in denen i) die technischen, operativen und organisatorischen Maßnahmen und ii) das Verfahren für die Beteiligung am EuroCloud-Verbund gemäß Artikel 40 Absatz 2 festgelegt werden. | Artikel 40, Artikel 41 | Ausarbeitung eines oder mehrerer Durchführungsrechtsakte | Europäische Kommission Teilnehmende Mitgliedstaaten | Noch festzulegen |
 
+<a id="notes"></a>
+## Fußnoten
+
 ^(1) ABl. C , , S. .
 
 ^(2) ABl. C , , S. .

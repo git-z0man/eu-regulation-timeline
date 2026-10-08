@@ -408,6 +408,9 @@ The President The President
 
 [...] [...]
 
+<a id="notes"></a>
+## Notes
+
 ^(1) ENISA, ENISA Threat Landscape 2025.
 
 ^(2) JOIN/2025/130 final.

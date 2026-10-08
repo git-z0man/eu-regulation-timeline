@@ -10,7 +10,6 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | Q1 2026 | [NZIA](nzia.md) | Implementing act adopted, publication pending: Minimum requirements on environmental sustainability for NZIA public procurement procedures | Commission Register of delegated acts (RegDel) |
 | Q2 2026 | [AI Act](ai-act.md) | Implementing act adopted, publication pending: Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | Commission Register of delegated acts (RegDel) |
 | Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
-| 08 Oct 2026 | [CRA](cra.md) | CRA Expert Group: 6th meeting of the CRA Expert Group | Register of Commission expert groups |
 | 20 Oct 2026 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025 | CEN-CENELEC work programme |
 | 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: COM Expert Group on Machinery | Register of Commission expert groups |
 | 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: Commission Expert Group on MACHINERY | Register of Commission expert groups |
@@ -48,6 +47,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 
 | Act | Stage | Latest activity | Next steps |
 | --- | --- | --- | --- |
+| [Standardisation Regulation (new) – COM(2026) 780 (proposal)](standardisation-revision.md) (2026/0307(COD)) | Commission proposal: EP not yet referred to committee; Council no documents in the register yet | 06 Oct 2026 · European Commission: Commission proposal (COM(2026) 780) | Referral to an EP committee; Council working party |
 | [Digital Omnibus – COM(2025) 837 (proposal)](digital-omnibus.md) (2025/0360(COD)) | EP committee stage: EP draft report 22 Jun 2026; Council draft mandate before Coreper (ST 13886/26 REV 1 of 05 Oct 2026) | 05 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26 REV 1) | EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 13886/26 REV 1) |
 | [IAA – COM(2026) 100 (proposal)](industrial-accelerator-act.md) (2026/0068(COD)) | EP committee stage: EP draft report 11 Sep 2026; Council working party, latest document 30 Sep 2026 | 05 Oct 2026 · European Parliament: Committee opinion adopted | 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
 | [Cybersecurity Act 2 – COM(2026) 11 (proposal)](csa2.md) (2026/0011(COD)) | EP committee stage: EP draft report 18 Sep 2026; Council working party, latest document 02 Oct 2026 | 02 Oct 2026 · Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (WK 15236/26) | EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate |
