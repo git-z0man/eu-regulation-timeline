@@ -97,7 +97,7 @@
 <polyline points="1330.0,411.0 1420.0,411.0" fill="none" stroke="#44505c" stroke-width="2"/><polygon points="1420.0,411.0 1411.0,415.5 1411.0,406.5" fill="#44505c"/>
 <rect x="1420.0" y="334.0" width="260.0" height="154.0" fill="#fff3c4" stroke="#8a6d00"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1428.0" y="352.2">Analysis and public site</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="380.7">index.py · concepts.py · docdiff.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="380.7">index.py · concepts.py · docdiff.py · factcheck.py</tspan></text>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="410.7">timeline.py · procedure.py · sources.py</tspan></text>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1428.0" y="440.7">actpage.py · texts.py · news.py · gallery.py</tspan></text>
 <text font-size="9.5" fill="#555555" text-anchor="start"><tspan x="1428.0" y="474.3">this site</tspan></text>
