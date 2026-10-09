@@ -73,12 +73,16 @@
     [
      "Procedure",
      "../procedures/digital-omnibus.html"
+    ],
+    [
+     "Document",
+     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016"
     ]
    ],
    "items": [
     {
      "label": "ST 13886/26 REV 1 (2026-10-05)",
-     "url": "../procedures/digital-omnibus.html"
+     "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016"
     },
     {
      "label": "ST 13886/26 (2026-10-02)",
@@ -225,6 +229,50 @@
    }
   },
   {
+   "id": "digital-omnibus/released/2026-10-08",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-08",
+   "act": "digital-omnibus",
+   "kicker": "Digital Omnibus",
+   "kicker_de": "Digital-Omnibus",
+   "headline": "Council releases 1 Digital Omnibus document",
+   "deck": "1 note. Listed as not public since 30 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu Digital-Omnibus frei",
+   "deck_de": "1 Vermerk. Seit 30. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/digital-omnibus.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 12980/26",
+     "date": "2026-08-20",
+     "title": "Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-12980-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 58,
+   "crumbs": {
+    "en": [
+     "Digital Omnibus",
+     "Legislation"
+    ],
+    "de": [
+     "Digital-Omnibus",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
    "id": "csa2/compromise/WK-15236-26",
    "kind": "compromise",
    "desk": "Legislation",
@@ -263,6 +311,81 @@
     "de": [
      "CSA2",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "machinery-regulation/standards/M605/2026-W41",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-09",
+   "act": "machinery-regulation",
+   "kicker": "MR",
+   "kicker_de": "MVO",
+   "headline": "MR · M/605: new status for FprEN 50742:2026",
+   "deck": "Safety of machinery - Protection against corruption. Step 6 of 8: Adoption EN.",
+   "headline_de": "MVO · M/605: neuer Status für FprEN 50742:2026",
+   "deck_de": "Safety of machinery - Protection against corruption. Schritt 6 von 8: Annahme EN.",
+   "facts": [
+    "M/605",
+    "Request expires 20 Jan 2035"
+   ],
+   "facts_de": [
+    "M/605",
+    "Auftrag läuft aus 20. Jan. 2035"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/machinery-regulation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "FprEN 50742:2026: Under Approval",
+     "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963"
+    }
+   ],
+   "brief": null,
+   "score": 51,
+   "tree": {
+    "": {
+     "CEN-CENELEC": {
+      "CLC/TC 44X": [
+       {
+        "project": "FprEN 50742:2026",
+        "title": "Safety of machinery - Protection against corruption",
+        "now": "Under Approval",
+        "date": "2026-10-09",
+        "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
+        "step": [
+         5,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/605",
+    "org": "CEN-CENELEC"
+   },
+   "crumbs": {
+    "en": [
+     "MR",
+     "Standards",
+     "M/605",
+     "CEN-CENELEC"
+    ],
+    "de": [
+     "MVO",
+     "Normen",
+     "M/605",
+     "CEN-CENELEC"
     ]
    }
   },
@@ -497,6 +620,50 @@
     "de": [
      "CSA2",
      "Analyse"
+    ]
+   }
+  },
+  {
+   "id": "industrial-accelerator-act/released/2026-10-08",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-08",
+   "act": "industrial-accelerator-act",
+   "kicker": "IAA",
+   "kicker_de": "IAA",
+   "headline": "Council releases 1 IAA document",
+   "deck": "1 compromise text. Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu IAA frei",
+   "deck_de": "1 Kompromisstext. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/industrial-accelerator-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "compromise text",
+     "type_de": "Kompromisstext",
+     "rank": 0,
+     "ref": "ST 12236/26 REV 1",
+     "date": "2026-09-02",
+     "title": "Second Presidency compromise text",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 43,
+   "crumbs": {
+    "en": [
+     "IAA",
+     "Legislation"
+    ],
+    "de": [
+     "IAA",
+     "Gesetzgebung"
     ]
    }
   },
@@ -1126,6 +1293,40 @@
      "Normen",
      "M/613",
      "CEN-CENELEC"
+    ]
+   }
+  },
+  {
+   "id": "ai-act/committee/2026-10-09",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-09",
+   "act": "ai-act",
+   "kicker": "AI Act",
+   "kicker_de": "KI-VO",
+   "headline": "Voting sheet published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "deck": "Artificial Intelligence Committee.",
+   "headline_de": "KI-VO: Ausschussdokument veröffentlicht",
+   "deck_de": "Artificial Intelligence Committee (Titel im Original): Voting sheet published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/ai-act.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 20,
+   "crumbs": {
+    "en": [
+     "AI Act",
+     "Committees"
+    ],
+    "de": [
+     "KI-VO",
+     "Ausschüsse"
     ]
    }
   },

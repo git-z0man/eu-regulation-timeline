@@ -1,6 +1,6 @@
 # Legislative procedure – IAA – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 07 Oct 2026.
+Procedure 2026/0068(COD), as of 09 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -23,6 +23,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | 2026-04-30 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (REFERRAL) |
 | 2026-06-23 | Council | Partial Presidency compromise text | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-06-26 | Council | Partial Presidency compromise text | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | Cellar procedure file 2026/68 (Council register) |
+| 2026-09-02 | Council | Second Presidency compromise text | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-09-11 | European Parliament | CJ80 draft report | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | EP Open Data API, procedure 2026-0068 (COMMITTEE_TABLING_REPORT) |
 | 2026-10-05 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (COMMITTEE_ADOPTING_OPINION) |
 
@@ -97,7 +98,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-31 | WK 11082/26 | council-note | Presidency flash note for the month of September 2026 | not public\* | – | – |
 | 2026-08-04 | [ST 12329/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86329) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian Senate | not public\* | – | – |
 | 2026-08-07 | [WK 11199/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86479) | council-note | Factual Summary of the public feedback received on the Industrial Accelerator Act proposal | not public\* | – | – |
-| 2026-09-02 | ST 12236/26 REV 1 | council-compromise | Second Presidency compromise text | not public\* | – | – |
+| 2026-09-02 | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) | council-compromise | Second Presidency compromise text | public | 2026-10-08 | [en](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) |
 | 2026-09-03 | [WK 13327/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89631) | council-note | Explanatory Note on the recitals of the Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in … | not public\* | – | – |
 | 2026-09-03 | [WK 13361/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89581) | council-compromise | Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the Commission proposal in doc ST 7009/26 + ADD 1) | not public\* | – | – |
 | 2026-09-03 | [WK 13373/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89639) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 09 and 10 September 2026 | not public\* | – | – |
@@ -105,7 +106,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public\* | – | – |
 | 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 
 ## Texts as Markdown
 
@@ -116,6 +117,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-03-04 | com-proposal | [CELEX 52026PC0100](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) | [en](../texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) [de](../texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) |
 | 2026-06-23 | council-compromise | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) |
 | 2026-06-26 | council-compromise | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) |
+| 2026-09-02 | council-compromise | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) | [en](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) |
 | 2026-09-11 | ep-draft-report | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.docx) | [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

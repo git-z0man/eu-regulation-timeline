@@ -96,7 +96,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2025-01-14 | ST 5142/25 ADD 1 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
 | 2025-01-21 | ST 5541/25 | council-note | Voting result REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 
 ## Texts as Markdown
 

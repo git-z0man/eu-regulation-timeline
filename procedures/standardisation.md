@@ -16,6 +16,12 @@ Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENE
 | [MR](machinery-regulation.md) | [M/605](https://ec.europa.eu/growth/tools-databases/enorm/mandate/605_en) | C(2025)129 | under execution | 2025-01-20 | 2034-01-20 |
 | [MR](machinery-regulation.md) | planned (2026, Action 34): Anthropometric considerations for personal protective equipment ([en.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.en.md) · [de.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695)) | – | planned | – | – |
 | [NZIA](nzia.md) | planned (2026, Action 8): Small and advanced modular reactors: technology and safety ([en.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.en.md) · [de.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695)) | – | planned | – | – |
+| RED | [M/536](https://ec.europa.eu/growth/tools-databases/enorm/mandate/536_en) | C(2015)5376 | under execution | 2015-08-05 | – |
+| RED | [M/568](https://ec.europa.eu/growth/tools-databases/enorm/mandate/568_en) | C(2020)6628 | expired | 2020-10-09 | – |
+| RED | [M/585](https://ec.europa.eu/growth/tools-databases/enorm/mandate/585_en) | C(2022)5637 | expired | 2022-08-05 | – |
+| RED | [M/585 Amd 1](https://ec.europa.eu/growth/tools-databases/enorm/mandate/585Amd1_en) | C(2023)5624 | expired | 2023-08-23 | – |
+| RED | [M/607](https://ec.europa.eu/growth/tools-databases/enorm/mandate/607_en) | C(2025)1207 | under execution | 2025-02-26 | – |
+| RED | planned (2026, Action 36): Radio Equipment ([en.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.en.md) · [de.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695)) | – | planned | – | – |
 | RED DA 2022/30 | [M/585](https://ec.europa.eu/growth/tools-databases/enorm/mandate/585_en) | C(2022)5637 | expired | 2022-08-05 | – |
 | RED DA 2022/30 | [M/585 Amd 1](https://ec.europa.eu/growth/tools-databases/enorm/mandate/585Amd1_en) | C(2023)5624 | expired | 2023-08-23 | – |
 | [Reg. 765/2008](accreditation-regulation.md) | [M/580](https://ec.europa.eu/growth/tools-databases/enorm/mandate/580_en) | C(2021)9277 | under execution | 2021-12-17 | – |

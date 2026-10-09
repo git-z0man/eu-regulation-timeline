@@ -110,7 +110,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-16 | [ST 12698/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91975) | council-note | Exchange of views | not public\* | – | – |
 | 2026-09-17 | [WK 14267/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92154) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 
 ## Texts as Markdown
 

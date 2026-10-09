@@ -612,6 +612,7 @@ All texts of this act as one file: [industrial-accelerator-act.zip](downloads/in
 | 2026-03-04_com-proposal | com-proposal | 52026PC0100 | [en](industrial-accelerator-act/2026-03-04_com-proposal.en.md) | [de](industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0100) |
 | 2026-06-23_council-compromise-st-10817-26 | council-compromise | ST 10817/26 | [en](industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) |
 | 2026-06-26_council-compromise-st-11237-26 | council-compromise | ST 11237/26 | [en](industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) |
+| 2026-09-02_council-compromise-st-12236-26-rev-1 | council-compromise | ST 12236/26 REV 1 | [en](industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) |
 | 2026-09-11_ep-draft-report-pe792-067 | ep-draft-report | PE792.067 | [en](industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) | [de](industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_de.docx) |
 
 ## IMERA omnibus
@@ -995,6 +996,7 @@ All texts of this act as one file: [red.zip](downloads/red.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2014-05-22_oj | oj | 32014L0053 | [en](red/2014-05-22_oj.en.md) | [de](red/2014-05-22_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/2014-05-22_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0053) |
+| 2015-01-23_corrigendum-01 | corrigendum | 32014L0053R(01) | – | [de](red/2015-01-23_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/2015-01-23_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0053R(01)) |
 
 ## RED DA 2022/30
 
@@ -1045,6 +1047,56 @@ All texts of this act as one file: [red-cybersecurity.zip](downloads/red-cyberse
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2023-08-23_commission-decision | commission-decision | – | [en](red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.en.md) | [de](red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red-cybersecurity/sreq-m585-amd1/2023-08-23_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)5624&lang=de) |
+
+## M/536 – C(2015)5376
+
+`red/sreq-m536` – COMMISSION IMPLEMENTING DECISION of 4.8.2015 on a standardisation request to the European Committee for Electrotechnical Standardisation and to the European Telecommunications Standards Institute as regards radio equipment in support of Directive 2014/53/EU of the European Parliament and of the Council
+
+All texts of this act as one file: [red.zip](downloads/red.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2015-08-05_commission-decision | commission-decision | – | [en](red/sreq-m536/2015-08-05_commission-decision.en.md) | [de](red/sreq-m536/2015-08-05_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/sreq-m536/2015-08-05_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)5376&lang=de) |
+
+## M/568 – C(2020)6628
+
+`red/sreq-m568` – COMMISSION IMPLEMENTING DECISION of 2.10.2020 on a standardisation request to the European Telecommunications Standards Institute as regards hand-held mobile phones in support of Directive 2014/53/EU of the European Parliament and of the Council in conjunction with Commission Delegated Regulation (EU) 2019/320
+
+All texts of this act as one file: [red.zip](downloads/red.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2020-10-09_commission-decision | commission-decision | – | [en](red/sreq-m568/2020-10-09_commission-decision.en.md) | [de](red/sreq-m568/2020-10-09_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/sreq-m568/2020-10-09_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2020)6628&lang=de) |
+
+## M/585 – C(2022)5637
+
+`red/sreq-m585` – COMMISSION IMPLEMENTING DECISION of 5.8.2022 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards radio equipment in support of Directive 2014/53/EU of the European Parliament and of the Council and Commission Delegated Regulation (EU) 2022/30
+
+All texts of this act as one file: [red.zip](downloads/red.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-05_commission-decision | commission-decision | – | [en](red/sreq-m585/2022-08-05_commission-decision.en.md) | [de](red/sreq-m585/2022-08-05_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/sreq-m585/2022-08-05_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)5637&lang=de) |
+
+## M/585 Amd 1 – C(2023)5624
+
+`red/sreq-m585-amd1` – COMMISSION IMPLEMENTING DECISION of 23.8.2023 amending Implementing Decision C(2022) 5637 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards radio equipment in support of Directive 2014/53/EU of the European Parliament and of the Council and Commission Delegated Regulation (EU) 2022/30
+
+All texts of this act as one file: [red.zip](downloads/red.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023-08-23_commission-decision | commission-decision | – | [en](red/sreq-m585-amd1/2023-08-23_commission-decision.en.md) | [de](red/sreq-m585-amd1/2023-08-23_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/sreq-m585-amd1/2023-08-23_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)5624&lang=de) |
+
+## M/607 – C(2025)1207
+
+`red/sreq-m607` – COMMISSION IMPLEMENTING DECISION of 26.2.2025 on a standardisation request to the European Committee for Electrotechnical Standardisation as regards charging interface and charging communication protocol for radio equipment capable of being recharged by means of wireless charging, in support of Directive 2014/53/EU of the European Parliament and of the Council
+
+All texts of this act as one file: [red.zip](downloads/red.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-26_commission-decision | commission-decision | – | [en](red/sreq-m607/2025-02-26_commission-decision.en.md) | [de](red/sreq-m607/2025-02-26_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/sreq-m607/2025-02-26_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)1207&lang=de) |
 
 ## EU Space Act
 

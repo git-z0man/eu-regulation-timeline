@@ -27,11 +27,28 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [NZIA](nzia.md) | [Advisory Committee for Public Contracts](committee-c16300.md) | Comitology committee | 9 | 2026-02-11 | – |
 | [NZIA](nzia.md) | [EXPERT GROUP ON NET-ZERO TECHNOLOGIES AND SUPPLY CHAINS](committee-e03968.md) | Expert group | 5 | 2025-04-09 | – |
 | [PLD](pld.md) | [EXPERT GROUP ON PRODUCT LIABILITY](committee-e03995.md) | Expert group | 0 | – | – |
+| [RED](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0053) – No legislative procedure page; applies from 2016-06-13; [meetings](#red) | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](committee-c03000.md) | Comitology committee | 5 | 2025-11-27 | – |
 | [RED DA 2022/30](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030) – Delegated act of the Commission, adopted without a legislative procedure; applies from 2025-08-01; repealed from 2027-12-11; [meetings](#red-da-202230) | [RED expert group](committee-e03587.md) | Expert group | 4 | 2025-11-27 | – |
 | [Standardisation Regulation](standardisation-regulation.md) | [Committee on Standards](committee-c41700.md) | Comitology committee | 12 | 2026-09-16 | – |
 | [Standardisation Regulation](standardisation-regulation.md) | [HLFS](committee-e03874.md) | Expert group | 2 | 2026-03-19 | – |
 | [Standardisation Regulation](standardisation-regulation.md) | [MSP](committee-e02758.md) | Expert group | 5 | 2025-10-23 | – |
 | [TSR](toy-safety-regulation.md) | [Expert Group on Toys Safety](committee-e01360.md) | Expert group | 5 | 2026-09-10 | – |
+
+## RED
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
+
+### [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](committee-c03000.md)
+
+Comitology committee C03000, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C03000/consult).
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2025-11-27 | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1977/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/110767/1/consult) |
+| 2025-06-12 | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)835/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/107130/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112510/1/consult) |
+| 2024-11-28 | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1926/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/101384/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/105624/1/consult) |
+| 2024-10-30 | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1657/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/100187/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/105623/1/consult) |
+| 2024-06-20 | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)885/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/099836/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/102059/1/consult) |
 
 ## RED DA 2022/30
 

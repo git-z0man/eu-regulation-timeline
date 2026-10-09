@@ -1,6 +1,6 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 06 Oct 2026.
+Procedure 2025/0360(COD), as of 09 Oct 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
@@ -120,7 +120,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-27 | PE791.874 | ep-amendments | – | public status unknown | – | – |
 | 2026-07-27 | PE791.883 | ep-amendments | – | public status unknown | – | – |
 | 2026-07-31 | [WK 11020/26](https://data.consilium.europa.eu/doc/document/WK-11020-2026-INIT/en/pdf) | council-note | Written comments and drafting suggestions from Austria and other Member States on the Presidency revised compromise text on the draft proposal for a Regulation … | public | – | – |
-| 2026-08-20 | [WK 12980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/88508) | council-note | Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus VII (Digital) | not public\* | – | – |
+| 2026-08-20 | [WK 12980/26](https://data.consilium.europa.eu/doc/document/WK-12980-2026-INIT/en/pdf) | council-note | Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus VII (Digital) | public | 2026-10-08 | – |
 | 2026-09-03 | [ST 12535/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89718) | council-compromise | Presidency revised compromise text | not public\* | – | – |
 | 2026-09-04 | [WK 13065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89737) | council-note | Steering and Explanatory Note by the Presidency - AGS meeting on 11 September 2026 | not public\* | – | – |
 | 2026-09-09 | [WK 13769/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90537) | council-note | Proposal from Germany on low-risk controller | not public\* | – | – |
@@ -132,9 +132,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-22 | [WK 14017/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92901) | council-note | Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026 | not public\* | – | – |
 | 2026-10-01 | [WK 15043/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94826) | council-note | Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, … | not public\* | – | – |
 | 2026-10-02 | [ST 13886/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95158) | council-position | Mandate for negotiations with the European Parliament<br>*Our summary (Not public: not released by the institution and unofficially leaked; we neither publish nor quote it. Our summary describes it in general terms only.):* Note of the Council's General Secretariat to Coreper of 2 October 2026 with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus: the full compromise text on the data rules (Data Act and the consolidated data acquis), the GDPR, the cookie rules of the ePrivacy Directive and a single entry point for reporting cyber and data incidents. A draft put to Coreper, not a position of the Council until Coreper agrees it, and not law. The note says that an agreed mandate will be made public unless Coreper objects, so an official release of the agreed text is likely. | not public, leak available\* | – | – |
-| 2026-10-05 | ST 13886/26 REV 1 | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
+| 2026-10-05 | [ST 13886/26 REV 1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016) | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 
 ## Texts as Markdown
 

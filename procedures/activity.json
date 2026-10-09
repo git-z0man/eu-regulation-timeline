@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-10-09",
+   "act": "machinery-regulation",
+   "title": "MR",
+   "actor": "CLC/TC 44X",
+   "label": "FprEN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
+   "doc": "FprEN 50742:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
+   "key": "eso-FprEN 50742:2026-2026-10-09",
+   "page": "machinery-regulation",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-09",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "Artificial Intelligence Committee",
+   "label": "Voting sheet published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "doc": "voting sheet",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/118408/1/consult",
+   "key": "C129100-V118408/1",
+   "page": "ai-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-09-02 (Second Presidency compromise text), listed as not public since 2026-09-25",
+   "doc": "ST 12236/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf",
+   "key": "ST 12236/26 REV 1-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-09-02",
+   "doc_title": "Second Presidency compromise text",
+   "withheld_since": "2026-09-25",
+   "title": "IAA – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-08-20 (Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus …), listed as not public since 2026-09-30",
+   "doc": "WK 12980/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-12980-2026-INIT/en/pdf",
+   "key": "WK 12980/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-08-20",
+   "doc_title": "Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus …",
+   "withheld_since": "2026-09-30",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
    "date": "2026-10-08",
    "act": "cra",
    "title": "CRA",
@@ -85,7 +141,7 @@
    "actor": "Council",
    "label": "Mandate for negotiations with the European Parliament (not public)",
    "doc": "ST 13886/26 REV 1",
-   "url": null,
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016",
    "key": "ST 13886/26 REV 1",
    "page": "digital-omnibus",
    "type": "Legislation",
@@ -944,18 +1000,6 @@
   },
   {
    "date": "2026-09-11",
-   "act": "machinery-regulation",
-   "title": "MR",
-   "actor": "CLC/TC 44X",
-   "label": "FprEN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
-   "doc": "FprEN 50742:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
-   "key": "eso-FprEN 50742:2026-2026-09-11",
-   "page": "machinery-regulation",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-11",
    "act": "medical-devices-simplification",
    "title": "MDR/IVDR simplification – COM(2025) 1023 (proposal)",
    "actor": "Council",
@@ -1143,13 +1187,12 @@
    "act": "industrial-accelerator-act",
    "title": "IAA – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Second Presidency compromise text (not public)",
+   "label": "Second Presidency compromise text",
    "doc": "ST 12236/26 REV 1",
-   "url": null,
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf",
    "key": "ST 12236/26 REV 1",
    "page": "industrial-accelerator-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-09-01",
@@ -2794,13 +2837,17 @@
    "title": "AI Act",
    "actor": "Artificial Intelligence Committee",
    "label": "Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (written procedure)",
-   "doc": "draft implementing act v2",
+   "doc": "draft implementing act v2, voting sheet",
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1645/consult",
    "key": "C129100-CMTD(2026)1645",
    "links": [
     [
      "draft implementing act v2",
      "https://ec.europa.eu/transparency/comitology-register/screen/documents/115456/2/consult"
+    ],
+    [
+     "voting sheet",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/118408/1/consult"
     ]
    ],
    "page": "ai-act",
@@ -4911,6 +4958,18 @@
   },
   {
    "date": "2026-01-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)",
+   "label": "Summary record published: Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM) (2025-06-12)",
+   "doc": "summary record",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/112510/1/consult",
+   "key": "C03000-S112510/1",
+   "page": null,
+   "type": "Committees"
+  },
+  {
+   "date": "2026-01-13",
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
@@ -5216,6 +5275,24 @@
     [
      "agenda",
      "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123109/download"
+    ]
+   ],
+   "page": null,
+   "type": "Committees"
+  },
+  {
+   "date": "2025-11-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)",
+   "label": "Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1977/consult",
+   "key": "C03000-CMTD(2025)1977",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110767/1/consult"
     ]
    ],
    "page": null,

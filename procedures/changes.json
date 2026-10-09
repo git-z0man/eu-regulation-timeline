@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "date": "2026-10-09",
+   "title": "MR",
+   "actor": "CLC/TC 44X",
+   "label": "FprEN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
+   "doc": "FprEN 50742:2026",
+   "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "AI Act",
+   "actor": "Artificial Intelligence Committee",
+   "label": "Voting sheet published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
+   "doc": "voting sheet",
+   "page": "ai-act.html"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "IAA – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-09-02 (Second Presidency compromise text), listed as not public since 2026-09-25",
+   "doc": "ST 12236/26 REV 1",
+   "page": "industrial-accelerator-act.html"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-08-20 (Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus …), listed as not public since 2026-09-30",
+   "doc": "WK 12980/26",
+   "page": "digital-omnibus.html"
+  },
+  {
    "date": "2026-10-08",
    "title": "CRA",
    "actor": "CRA Expert Group",
@@ -31,38 +63,6 @@
    "label": "Commission proposal (Art. 294(2) TFEU)",
    "doc": "COM(2026) 780",
    "page": "standardisation-revision.html"
-  },
-  {
-   "date": "2026-10-06",
-   "title": "MR",
-   "actor": "Commission Expert Group on Machinery",
-   "label": "Agenda published: COM Expert Group on Machinery (2026-04-27)",
-   "doc": "agenda",
-   "page": "machinery-regulation.html"
-  },
-  {
-   "date": "2026-10-05",
-   "title": "IAA – COM(2026) 100 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "page": "industrial-accelerator-act.html"
-  },
-  {
-   "date": "2026-10-05",
-   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
-   "actor": "Council",
-   "label": "Mandate for negotiations with the European Parliament (not public)",
-   "doc": "ST 13886/26 REV 1",
-   "page": "digital-omnibus.html"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "PPA – COM(2026) 590 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and …",
-   "doc": "CM 4305/26",
-   "page": "public-procurement-act.html"
   }
  ]
 }

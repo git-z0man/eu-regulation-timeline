@@ -1,14 +1,14 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 07 Oct 2026.
+Procedure 2026/0139(COD), as of 09 Oct 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 14 Sep 2026
-- **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 30 Sep 2026 · Council: Presidency flash note for the meeting of the Working Party on Competitiveness and Growth … (WK 15026/26)
+- **Council:** working party, latest document 07 Oct 2026
+- **Latest activity:** 07 Oct 2026 · Council: 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies (ST 14073/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -49,8 +49,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-29 | [WK 14980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of … | not public\* | – | – |
 | 2026-09-30 | WK 15026/26 | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 07 October 2026 | not public\* | – | – |
 | 2026-09-30 | WK 15047/26 | council-note | Presidency flash note for the month of October 2026 | not public\* | – | – |
+| 2026-10-07 | [ST 14073/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95363) | council-note | 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-08.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 
 ## Texts as Markdown
 
