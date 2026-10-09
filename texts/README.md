@@ -500,6 +500,26 @@ All texts of this act as one file: [guidance-commission-c-2023-4049.zip](downloa
 | --- | --- | --- | --- | --- | --- | --- |
 | 2023-06-15_final | final | – | [en](guidance/commission/c-2023-4049/2023-06-15_final.en.md) | [de](guidance/commission/c-2023-4049/2023-06-15_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2023-4049/2023-06-15_final.de.md) | [source](https://digital-strategy.ec.europa.eu/en/library/communication-commission-implementation-5g-cybersecurity-toolbox) |
 
+## CRA guidance C(2026) 5252
+
+`guidance/commission/c-2026-5252` – Communication to the Commission, Approval of the content of the draft Communication from the Commission, Commission guidance on the application of Regulation (EU) 2024/2847 (Cyber Resilience Act), C(2026) 5252 final of 27 July 2026, with Annex
+
+All texts of this act as one file: [guidance-commission-c-2026-5252.zip](downloads/guidance-commission-c-2026-5252.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-27_draft | draft | – | [en](guidance/commission/c-2026-5252/2026-07-27_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2026-5252/2026-07-27_draft.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/131455) |
+
+## CRA FAQ
+
+`guidance/commission/cra-faq` – FAQs on the Cyber Resilience Act, Commission services, living document (version 14, last update 4 September 2026)
+
+All texts of this act as one file: [guidance-commission-cra-faq.zip](downloads/guidance-commission-cra-faq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-04_final | final | – | [en](guidance/commission/cra-faq/2026-09-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/cra-faq/2026-09-04_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/122331) |
+
 ## Recommendation (EU) 2019/534
 
 `guidance/commission/recommendation-2019-534` – Commission Recommendation (EU) 2019/534 of 26 March 2019 – Cybersecurity of 5G networks
@@ -965,6 +985,16 @@ All texts of this act as one file: [public-procurement-act.zip](downloads/public
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-09-09_com-proposal | com-proposal | 52026PC0590 | [en](public-procurement-act/2026-09-09_com-proposal.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.en.md) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) |
+
+## RED
+
+`red` – Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC
+
+All texts of this act as one file: [red.zip](downloads/red.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2014-05-22_oj | oj | 32014L0053 | [en](red/2014-05-22_oj.en.md) | [de](red/2014-05-22_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red/2014-05-22_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0053) |
 
 ## RED DA 2022/30
 

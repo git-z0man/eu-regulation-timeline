@@ -1,17 +1,10 @@
 {
- "as_of": "2026-10-08",
+ "as_of": "2026-10-09",
  "views": [
   {
    "key": "all",
    "label": "All acts",
-   "ahead": [
-    {
-     "date": "2026-10-08",
-     "act": "CRA",
-     "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
-     "url": "procedures/committee-e03967.html"
-    }
-   ],
+   "ahead": [],
    "recap": [
     {
      "date": "2026-10-05",
@@ -48,14 +41,7 @@
   {
    "key": "cybersecurity",
    "label": "Cybersecurity",
-   "ahead": [
-    {
-     "date": "2026-10-08",
-     "act": "CRA",
-     "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
-     "url": "procedures/committee-e03967.html"
-    }
-   ],
+   "ahead": [],
    "recap": [
     {
      "date": "2026-10-05",
