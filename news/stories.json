@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-09",
+ "edition": "2026-10-10",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 109,
+   "score": 107,
    "crumbs": {
     "en": [
      "Standardisation Regulation (new)",
@@ -94,7 +94,7 @@
     "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
     "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
    },
-   "score": 77,
+   "score": 75,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -138,7 +138,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 74,
+   "score": 72,
    "crumbs": {
     "en": [
      "EPA",
@@ -176,7 +176,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 62,
+   "score": 60,
    "crumbs": {
     "en": [
      "IAA",
@@ -216,7 +216,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 59,
+   "score": 57,
    "crumbs": {
     "en": [
      "Standardisation Regulation (new)",
@@ -260,7 +260,7 @@
     }
    ],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -302,7 +302,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "CSA2",
@@ -347,7 +347,7 @@
     }
    ],
    "brief": null,
-   "score": 51,
+   "score": 49,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -415,7 +415,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 49,
+   "score": 47,
    "crumbs": {
     "en": [
      "Standardisation Regulation (new)",
@@ -571,7 +571,7 @@
     "en": "The released papers include Member States' comments on the certification rules (Articles 71-97) and the Presidency's second compromise text on Title III: the basis for reading the third compromise text when it is published.",
     "de": "Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist."
    },
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "CSA2",
@@ -611,7 +611,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "crumbs": {
     "en": [
      "CSA2",
@@ -655,7 +655,7 @@
     }
    ],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "crumbs": {
     "en": [
      "IAA",
@@ -700,7 +700,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -772,7 +772,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -821,7 +821,7 @@
     "en": "A step further: prEN ISO 14159 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN ISO 14159 auf Entwurf EN."
    },
-   "score": 33,
+   "score": 31,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -889,7 +889,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 33,
+   "score": 31,
    "crumbs": {
     "en": [
      "CRA",
@@ -966,7 +966,7 @@
     "en": "4 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 627, EN 304 619, EN 40000-1-2:2026 …).",
     "de": "4 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 627, EN 304 619, EN 40000-1-2:2026 …)."
    },
-   "score": 32,
+   "score": 30,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1203,7 +1203,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1248,7 +1248,7 @@
     }
    ],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1318,7 +1318,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 20,
+   "score": 18,
    "crumbs": {
     "en": [
      "AI Act",
@@ -1352,7 +1352,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 18,
+   "score": 16,
    "crumbs": {
     "en": [
      "AI Act",
@@ -1386,7 +1386,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "MR",
@@ -1424,7 +1424,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "CSA2",
@@ -1458,7 +1458,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1490,7 +1490,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1522,7 +1522,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -1558,7 +1558,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 6,
+   "score": 4,
    "crumbs": {
     "en": [
      "PPA",
@@ -1592,7 +1592,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 0,
+   "score": -2,
    "crumbs": {
     "en": [
      "AI Act",
@@ -1600,44 +1600,6 @@
     ],
     "de": [
      "KI-VO",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "medical-devices-simplification/meeting/2026-09-25",
-   "kind": "meeting",
-   "desk": "Committees",
-   "date": "2026-09-25",
-   "act": "medical-devices-simplification",
-   "kicker": "MDR/IVDR simplification",
-   "kicker_de": "MDR/IVDR-Vereinfachung",
-   "headline": "MDR/IVDR simplification: Council working party meeting",
-   "deck": "Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise …",
-   "headline_de": "MDR/IVDR-Vereinfachung: Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise …",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/medical-devices-simplification.html"
-    ],
-    [
-     "Document",
-     "https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "MDR/IVDR simplification",
-     "Committees"
-    ],
-    "de": [
-     "MDR/IVDR-Vereinfachung",
      "Ausschüsse"
     ]
    }

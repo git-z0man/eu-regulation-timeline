@@ -45,54 +45,61 @@
 <polyline points="830.0,103.0 950.0,103.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,103.0 941.0,107.5 941.0,98.5" fill="#44505c"/>
 <rect x="950.0" y="80.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="106.7">Acts, proposals, corrigenda, implementing acts and their texts</tspan></text>
-<polyline points="440.0,159.0 490.0,159.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
-<polyline points="440.0,215.0 490.0,215.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
-<polyline points="440.0,271.0 490.0,271.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
-<polyline points="440.0,103.0 490.0,103.0 510.0,205.7 560.0,205.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,205.7 551.0,210.2 551.0,201.2" fill="#8a96a3"/>
-<rect x="560.0" y="182.7" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="198.9">negotiations.py</tspan></text>
-<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="218.2">weekdays</tspan></text>
-<polyline points="830.0,205.7 950.0,205.7" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,205.7 941.0,210.2 941.0,201.2" fill="#44505c"/>
-<rect x="950.0" y="182.7" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="209.3">Procedure registers; EP and Council positions in full</tspan></text>
-<polyline points="440.0,327.0 490.0,327.0 510.0,308.3 560.0,308.3" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,308.3 551.0,312.8 551.0,303.8" fill="#8a96a3"/>
-<rect x="560.0" y="285.3" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="301.5">regdel.py</tspan></text>
-<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="320.8">weekdays</tspan></text>
-<polyline points="830.0,308.3 950.0,308.3" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,308.3 941.0,312.8 941.0,303.8" fill="#44505c"/>
-<rect x="950.0" y="285.3" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="312.0">Delegated and implementing acts in preparation</tspan></text>
-<polyline points="440.0,383.0 490.0,383.0 510.0,411.0 560.0,411.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,411.0 551.0,415.5 551.0,406.5" fill="#8a96a3"/>
-<polyline points="440.0,439.0 490.0,439.0 510.0,411.0 560.0,411.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,411.0 551.0,415.5 551.0,406.5" fill="#8a96a3"/>
-<polyline points="440.0,495.0 490.0,495.0 510.0,411.0 560.0,411.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,411.0 551.0,415.5 551.0,406.5" fill="#8a96a3"/>
-<rect x="560.0" y="388.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="404.2">committees.py</tspan></text>
-<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="423.5">weekdays</tspan></text>
-<polyline points="830.0,411.0 950.0,411.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,411.0 941.0,415.5 941.0,406.5" fill="#44505c"/>
-<rect x="950.0" y="388.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="414.7">Committees and expert groups: meetings and documents</tspan></text>
-<polyline points="440.0,551.0 490.0,551.0 510.0,513.7 560.0,513.7" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,513.7 551.0,518.2 551.0,509.2" fill="#8a96a3"/>
-<rect x="560.0" y="490.7" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="506.9">sreq.py</tspan></text>
-<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="526.2">weekdays</tspan></text>
-<polyline points="830.0,513.7 950.0,513.7" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,513.7 941.0,518.2 941.0,509.2" fill="#44505c"/>
-<rect x="950.0" y="490.7" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="517.3">Standardisation requests and planned requests</tspan></text>
-<polyline points="440.0,607.0 490.0,607.0 510.0,616.3 560.0,616.3" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,616.3 551.0,620.8 551.0,611.8" fill="#8a96a3"/>
-<polyline points="440.0,663.0 490.0,663.0 510.0,616.3 560.0,616.3" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,616.3 551.0,620.8 551.0,611.8" fill="#8a96a3"/>
-<rect x="560.0" y="593.3" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="609.5">eso.py</tspan></text>
-<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="628.8">weekdays</tspan></text>
-<polyline points="830.0,616.3 950.0,616.3" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,616.3 941.0,620.8 941.0,611.8" fill="#44505c"/>
-<rect x="950.0" y="593.3" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="620.0">Standardisation projects and their status</tspan></text>
-<polyline points="440.0,719.0 490.0,719.0 510.0,719.0 560.0,719.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,719.0 551.0,723.5 551.0,714.5" fill="#8a96a3"/>
+<polyline points="440.0,159.0 490.0,159.0 510.0,191.0 560.0,191.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,191.0 551.0,195.5 551.0,186.5" fill="#8a96a3"/>
+<polyline points="440.0,215.0 490.0,215.0 510.0,191.0 560.0,191.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,191.0 551.0,195.5 551.0,186.5" fill="#8a96a3"/>
+<polyline points="440.0,271.0 490.0,271.0 510.0,191.0 560.0,191.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,191.0 551.0,195.5 551.0,186.5" fill="#8a96a3"/>
+<polyline points="440.0,103.0 490.0,103.0 510.0,191.0 560.0,191.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,191.0 551.0,195.5 551.0,186.5" fill="#8a96a3"/>
+<rect x="560.0" y="168.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="184.2">negotiations.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="203.5">weekdays</tspan></text>
+<polyline points="830.0,191.0 950.0,191.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,191.0 941.0,195.5 941.0,186.5" fill="#44505c"/>
+<rect x="950.0" y="168.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="194.7">Procedure registers; EP and Council positions in full</tspan></text>
+<polyline points="440.0,327.0 490.0,327.0 510.0,279.0 560.0,279.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,279.0 551.0,283.5 551.0,274.5" fill="#8a96a3"/>
+<rect x="560.0" y="256.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="272.2">regdel.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="291.5">weekdays</tspan></text>
+<polyline points="830.0,279.0 950.0,279.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,279.0 941.0,283.5 941.0,274.5" fill="#44505c"/>
+<rect x="950.0" y="256.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="282.7">Delegated and implementing acts in preparation</tspan></text>
+<polyline points="440.0,383.0 490.0,383.0 510.0,367.0 560.0,367.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,367.0 551.0,371.5 551.0,362.5" fill="#8a96a3"/>
+<polyline points="440.0,439.0 490.0,439.0 510.0,367.0 560.0,367.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,367.0 551.0,371.5 551.0,362.5" fill="#8a96a3"/>
+<polyline points="440.0,495.0 490.0,495.0 510.0,367.0 560.0,367.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,367.0 551.0,371.5 551.0,362.5" fill="#8a96a3"/>
+<rect x="560.0" y="344.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="360.2">committees.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="379.5">weekdays</tspan></text>
+<polyline points="830.0,367.0 950.0,367.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,367.0 941.0,371.5 941.0,362.5" fill="#44505c"/>
+<rect x="950.0" y="344.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="370.7">Committees and expert groups: meetings and documents</tspan></text>
+<polyline points="440.0,551.0 490.0,551.0 510.0,455.0 560.0,455.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,455.0 551.0,459.5 551.0,450.5" fill="#8a96a3"/>
+<rect x="560.0" y="432.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="448.2">sreq.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="467.5">weekdays</tspan></text>
+<polyline points="830.0,455.0 950.0,455.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,455.0 941.0,459.5 941.0,450.5" fill="#44505c"/>
+<rect x="950.0" y="432.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="458.7">Standardisation requests and planned requests</tspan></text>
+<polyline points="440.0,607.0 490.0,607.0 510.0,543.0 560.0,543.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,543.0 551.0,547.5 551.0,538.5" fill="#8a96a3"/>
+<polyline points="440.0,663.0 490.0,663.0 510.0,543.0 560.0,543.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,543.0 551.0,547.5 551.0,538.5" fill="#8a96a3"/>
+<rect x="560.0" y="520.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="536.2">eso.py</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="555.5">weekdays</tspan></text>
+<polyline points="830.0,543.0 950.0,543.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,543.0 941.0,547.5 941.0,538.5" fill="#44505c"/>
+<rect x="950.0" y="520.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="546.7">Standardisation projects and their status</tspan></text>
+<polyline points="440.0,719.0 490.0,719.0 510.0,631.0 560.0,631.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,631.0 551.0,635.5 551.0,626.5" fill="#8a96a3"/>
+<rect x="560.0" y="608.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="624.2">fetch.py (gii2md.py)</tspan></text>
+<text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="643.5">on demand</tspan></text>
+<polyline points="830.0,631.0 950.0,631.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,631.0 941.0,635.5 941.0,626.5" fill="#44505c"/>
+<rect x="950.0" y="608.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="634.7">National law</tspan></text>
+<polyline points="440.0,159.0 490.0,159.0 510.0,719.0 560.0,719.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="560.0,719.0 551.0,723.5 551.0,714.5" fill="#8a96a3"/>
 <rect x="560.0" y="696.0" width="270.0" height="46.0" fill="#ffffff" stroke="#44505c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="712.2">fetch.py (gii2md.py)</tspan></text>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="568.0" y="712.2">durations.py</tspan></text>
 <text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="731.5">on demand</tspan></text>
 <polyline points="830.0,719.0 950.0,719.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,719.0 941.0,723.5 941.0,714.5" fill="#44505c"/>
 <rect x="950.0" y="696.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="722.7">National law</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="722.7">How long legislative procedures take</tspan></text>
 <line x1="1330.0" y1="80.0" x2="1330.0" y2="742.0" stroke="#44505c" stroke-width="2"/>
 <polyline points="1330.0,411.0 1420.0,411.0" fill="none" stroke="#44505c" stroke-width="2"/><polygon points="1420.0,411.0 1411.0,415.5 1411.0,406.5" fill="#44505c"/>
 <rect x="1420.0" y="334.0" width="260.0" height="154.0" fill="#fff3c4" stroke="#8a6d00"/>

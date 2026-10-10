@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-09",
+ "as_of": "2026-10-10",
  "views": [
   {
    "key": "all",
@@ -10,12 +10,6 @@
      "date": "2026-10-05",
      "act": "Digital Omnibus",
      "text": "Council: Mandate for negotiations with the European Parliament (not public)",
-     "url": "procedures/digital-omnibus.html"
-    },
-    {
-     "date": "2026-10-02",
-     "act": "Digital Omnibus",
-     "text": "Council: Mandate for negotiations with the European Parliament (not public, leak available)",
      "url": "procedures/digital-omnibus.html"
     },
     {
@@ -31,10 +25,16 @@
      "url": "procedures/industrial-accelerator-act.html"
     },
     {
-     "date": "2026-10-02",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public)",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-08",
+     "act": "IAA",
+     "text": "Council released 1 document listed as not public, incl. Second Presidency compromise text",
+     "url": "procedures/industrial-accelerator-act.html"
+    },
+    {
+     "date": "2026-10-07",
+     "act": "CRA",
+     "text": "Standardisation: EN 304 636: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation"
     }
    ]
   },
@@ -50,28 +50,28 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
-     "date": "2026-10-02",
-     "act": "Digital Omnibus",
-     "text": "Council: Mandate for negotiations with the European Parliament (not public, leak available)",
-     "url": "procedures/digital-omnibus.html"
-    },
-    {
      "date": "2026-10-06",
      "act": "Standardisation Regulation (new)",
      "text": "European Commission: Commission proposal (Art. 294(2) TFEU)",
      "url": "procedures/standardisation-revision.html"
     },
     {
-     "date": "2026-10-02",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public)",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-07",
+     "act": "CRA",
+     "text": "Standardisation: EN 304 636: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation"
     },
     {
-     "date": "2026-10-02",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 13 documents listed as not public, incl. Presidency second compromise text Title III",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-09",
+     "act": "MR",
+     "text": "Standardisation: FprEN 50742:2026: Under Approval",
+     "url": "acts/machinery-regulation.html#standardisation"
+    },
+    {
+     "date": "2026-10-08",
+     "act": "Digital Omnibus",
+     "text": "Council released 1 document listed as not public",
+     "url": "procedures/digital-omnibus.html"
     }
    ]
   }
