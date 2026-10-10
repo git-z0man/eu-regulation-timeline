@@ -146,6 +146,17 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 .scen { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 10px 0; }
 #tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 13px; line-height: 1.35;
   padding: 6px 9px; border-radius: 6px; max-width: 320px; z-index: 10; }
+
+svg .nl-pending { fill: var(--s1); } svg .nl-adopted { fill: var(--muted); }
+svg .nl-plan { fill: var(--panel); stroke: var(--wall-t); } svg .nl-open { fill: none; stroke: var(--wall-t); }
+svg .nl-q { fill: var(--wall-t); } svg .nl-row { stroke: var(--line); stroke-width: .6; }
+svg .nl-g-announced { fill: var(--hb); } svg .nl-g-pending { fill: var(--chip2); } svg .nl-g-adopted { fill: var(--chip); }
+.fig.nlf svg { min-width: 980px; }
+.lg-nl-p { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-nl-a { width: 12px; height: 12px; border-radius: 50%; background: var(--muted); }
+.lg-nl-r { width: 12px; height: 12px; border-radius: 2px; background: var(--muted); }
+.lg-nl-pl { width: 12px; height: 12px; border-radius: 50%; border: 2.5px solid var(--wall-t); }
+.lg-nl-o { width: 12px; height: 12px; border-radius: 50%; border: 1.5px dashed var(--wall-t); }
 </style></head><body><div class="navwrap"><style>
 .sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
   border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }

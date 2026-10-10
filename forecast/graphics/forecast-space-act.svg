@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="588" viewBox="0 0 1040 588" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13"><style>.ink{fill:#1d2327}.mu{fill:#5b646b}.gr{stroke:#e3e5e1;stroke-width:1}.pa{fill:#eef1f6}.pb{fill:#e3e8f0}.hb{fill:#fbecea}.hl{stroke:#efc4bf}.wt,.pt{fill:#a4302a}.pl{stroke:#a4302a}.td{stroke:#1d2327;stroke-width:1.5}.b50{fill:#2f5a9e;opacity:.85}.b80{fill:#b8c8e3}.med{fill:#fff;stroke:#2f5a9e}.fx{fill:#1d2327}a text{fill:#2f5a9e}.nl-pending{fill:#2f5a9e}.nl-adopted{fill:#5b646b}.nl-plan{fill:#fff;stroke:#a4302a}.nl-open{fill:none;stroke:#a4302a}.nl-q{fill:#a4302a}.nl-row{stroke:#e3e5e1;stroke-width:.6}.nl-g-announced{fill:#fbecea}.nl-g-pending{fill:#e3e8f0}.nl-g-adopted{fill:#eef1f6}</style><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>EU Space Act: when will it be law?</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata><rect width="1040" height="588" fill="#fff"/><text x="20" y="34" font-size="22" font-weight="700" class="ink">EU Space Act: when will it be law?</text><text x="20" y="58" font-size="14" class="mu">Referred to committee since 8 Sep 2025; data of 10 October 2026. Steps of the ordinary legislative procedure.</text><g transform="translate(20,72)">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>EU Space Act</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
+<rect x="250.0" y="4" width="34.2" height="16" rx="3" class="pb" data-tip="Council Presidency: IE, Jul 2026 to Dec 2026"/>
+<text x="267.6" y="16" text-anchor="middle" font-size="11" class="mu">IE</text>
+<rect x="285.2" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: LT, Jan 2027 to Jun 2027"/>
+<text x="319.8" y="16" text-anchor="middle" font-size="11" class="mu">LT</text>
+<rect x="354.5" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: EL, Jul 2027 to Dec 2027"/>
+<text x="389.7" y="16" text-anchor="middle" font-size="11" class="mu">EL</text>
+<rect x="424.9" y="4" width="68.6" height="16" rx="3" class="pa" data-tip="Council Presidency: IT, Jan 2028 to Jun 2028"/>
+<text x="459.7" y="16" text-anchor="middle" font-size="11" class="mu">IT</text>
+<rect x="494.5" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: LV, Jul 2028 to Dec 2028"/>
+<text x="529.7" y="16" text-anchor="middle" font-size="11" class="mu">LV</text>
+<rect x="565.0" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: LU, Jan 2029 to Jun 2029"/>
+<text x="599.6" y="16" text-anchor="middle" font-size="11" class="mu">LU</text>
+<rect x="634.2" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: NL, Jul 2029 to Dec 2029"/>
+<text x="669.4" y="16" text-anchor="middle" font-size="11" class="mu">NL</text>
+<rect x="704.6" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: SK, Jan 2030 to Jun 2030"/>
+<text x="739.3" y="16" text-anchor="middle" font-size="11" class="mu">SK</text>
+<rect x="773.9" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: MT, Jul 2030 to Dec 2030"/>
+<text x="809.1" y="16" text-anchor="middle" font-size="11" class="mu">MT</text>
+<rect x="844.3" y="4" width="138.7" height="16" rx="3" class="pa" data-tip="Council Presidency: not decided, Jan 2031 to Dec 2031"/>
+<text x="914.2" y="16" text-anchor="middle" font-size="11" class="mu"></text>
+<line x1="285.2" y1="26" x2="285.2" y2="436" class="gr"/>
+<text x="289.2" y="46" font-weight="600" class="ink">2027</text>
+<line x1="424.9" y1="26" x2="424.9" y2="436" class="gr"/>
+<text x="428.9" y="46" font-weight="600" class="ink">2028</text>
+<line x1="565.0" y1="26" x2="565.0" y2="436" class="gr"/>
+<text x="569.0" y="46" font-weight="600" class="ink">2029</text>
+<line x1="704.6" y1="26" x2="704.6" y2="436" class="gr"/>
+<text x="708.6" y="46" font-weight="600" class="ink">2030</text>
+<line x1="844.3" y1="26" x2="844.3" y2="436" class="gr"/>
+<text x="848.3" y="46" font-weight="600" class="ink">2031</text>
+<rect x="606.7" y="52" width="62.8" height="384" fill="url(#hatch)" data-tip="European elections 2029: Parliament does no legislative work from its last session in April until the new committees vote again in October (assumption, as in 2024; the dates are not set yet)."/>
+<text x="610.7" y="452" font-size="12" font-weight="600" class="wt">EP elections 2029</text>
+<text x="240" y="16" text-anchor="end" font-size="11" class="mu">Council Presidency</text>
+<line x1="253.4" y1="26" x2="253.4" y2="436" class="td"/>
+<text x="257.4" y="452" font-size="11" class="mu">data of 10 Oct 2026</text>
+<text x="984" y="474" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</text>
+<text x="238" y="96.0" text-anchor="end" font-weight="600" class="ink lnk">Commission proposal</text>
+<circle cx="250.0" cy="99.0" r="6" class="fx" data-tip="Commission proposal: 25 Jun 2025"/>
+<text x="260.0" y="103.0" font-size="12" class="ink">Jun 2025</text>
+<text x="238" y="170.0" text-anchor="end" font-weight="600" class="ink lnk">EP committee vote</text>
+<rect x="257.3" y="170.0" width="176.0" height="6" rx="3" class="b80" data-tip="EP committee vote: median Feb 2027; half of the runs Nov 2026 to Jul 2027; eight in ten Oct 2026 to Jan 2028"/>
+<rect x="262.2" y="164.0" width="95.7" height="18" rx="4" class="b50" data-tip="EP committee vote: median Feb 2027; half of the runs Nov 2026 to Jul 2027; eight in ten Oct 2026 to Jan 2028"/>
+<circle cx="297.5" cy="173.0" r="7" class="med" stroke-width="3" data-tip="EP committee vote: median Feb 2027; half of the runs Nov 2026 to Jul 2027; eight in ten Oct 2026 to Jan 2028"/>
+<text x="297.5" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2027</text>
+<text x="238" y="244.0" text-anchor="end" font-weight="600" class="ink lnk">Trilogues can start</text>
+<rect x="263.0" y="244.0" width="137.4" height="6" rx="3" class="b80" data-tip="Trilogues can start: median Feb 2027; half of the runs Dec 2026 to Jun 2027; eight in ten Nov 2026 to Oct 2027"/>
+<rect x="275.3" y="238.0" width="78.8" height="18" rx="4" class="b50" data-tip="Trilogues can start: median Feb 2027; half of the runs Dec 2026 to Jun 2027; eight in ten Nov 2026 to Oct 2027"/>
+<circle cx="305.5" cy="247.0" r="7" class="med" stroke-width="3" data-tip="Trilogues can start: median Feb 2027; half of the runs Dec 2026 to Jun 2027; eight in ten Nov 2026 to Oct 2027"/>
+<text x="305.5" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2027</text>
+<text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">Provisional agreement</text>
+<rect x="335.3" y="318.0" width="418.7" height="6" rx="3" class="b80" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Sep 2028; eight in ten May 2027 to May 2030"/>
+<rect x="359.8" y="312.0" width="162.6" height="18" rx="4" class="b50" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Sep 2028; eight in ten May 2027 to May 2030"/>
+<circle cx="410.0" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Sep 2028; eight in ten May 2027 to May 2030"/>
+<text x="410.0" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Nov 2027</text>
+<text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
+<rect x="372.8" y="392.0" width="454.3" height="6" rx="3" class="b80" data-tip="Official Journal: median Mar 2028; half of the runs Nov 2027 to Feb 2029; eight in ten Aug 2027 to Nov 2030"/>
+<rect x="410.0" y="386.0" width="174.5" height="18" rx="4" class="b50" data-tip="Official Journal: median Mar 2028; half of the runs Nov 2027 to Feb 2029; eight in ten Aug 2027 to Nov 2030"/>
+<circle cx="459.3" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median Mar 2028; half of the runs Nov 2027 to Feb 2029; eight in ten Aug 2027 to Nov 2030"/>
+<text x="459.3" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Mar 2028</text>
+</g><text x="20" y="576" font-size="11" class="mu">Bars: half (thick) and eight in ten (thin) of 4,000 runs. Reference: all COD files with trilogues since 2012 (EP Legislative Observatory).</text></svg>

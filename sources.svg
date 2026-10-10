@@ -100,7 +100,7 @@
 <text font-size="10" fill="#555555" text-anchor="start"><tspan x="568.0" y="731.5">weekdays</tspan></text>
 <polyline points="830.0,719.0 950.0,719.0" fill="none" stroke="#44505c" stroke-width="1.2"/><polygon points="950.0,719.0 941.0,723.5 941.0,714.5" fill="#44505c"/>
 <rect x="950.0" y="696.0" width="360.0" height="46.0" fill="#f7f7f4" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="722.7">How long procedures take; forecast per open procedure</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="958.0" y="716.1">How long procedures take; forecast per open procedure; NLF</tspan><tspan x="958.0" y="729.2">overview</tspan></text>
 <line x1="1330.0" y1="80.0" x2="1330.0" y2="742.0" stroke="#44505c" stroke-width="2"/>
 <polyline points="1330.0,411.0 1420.0,411.0" fill="none" stroke="#44505c" stroke-width="2"/><polygon points="1420.0,411.0 1411.0,415.5 1411.0,406.5" fill="#44505c"/>
 <rect x="1420.0" y="334.0" width="260.0" height="154.0" fill="#fff3c4" stroke="#8a6d00"/>

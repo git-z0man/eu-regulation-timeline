@@ -146,6 +146,17 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 .scen { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 10px 0; }
 #tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 13px; line-height: 1.35;
   padding: 6px 9px; border-radius: 6px; max-width: 320px; z-index: 10; }
+
+svg .nl-pending { fill: var(--s1); } svg .nl-adopted { fill: var(--muted); }
+svg .nl-plan { fill: var(--panel); stroke: var(--wall-t); } svg .nl-open { fill: none; stroke: var(--wall-t); }
+svg .nl-q { fill: var(--wall-t); } svg .nl-row { stroke: var(--line); stroke-width: .6; }
+svg .nl-g-announced { fill: var(--hb); } svg .nl-g-pending { fill: var(--chip2); } svg .nl-g-adopted { fill: var(--chip); }
+.fig.nlf svg { min-width: 980px; }
+.lg-nl-p { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-nl-a { width: 12px; height: 12px; border-radius: 50%; background: var(--muted); }
+.lg-nl-r { width: 12px; height: 12px; border-radius: 2px; background: var(--muted); }
+.lg-nl-pl { width: 12px; height: 12px; border-radius: 50%; border: 2.5px solid var(--wall-t); }
+.lg-nl-o { width: 12px; height: 12px; border-radius: 50%; border: 1.5px dashed var(--wall-t); }
 </style></head><body><div class="navwrap"><style>
 .sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
   border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
@@ -432,7 +443,7 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 <rect x="566.5" y="312.0" width="256.4" height="18" rx="4" class="b50" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Nov 2030; eight in ten Jul 2028 to Aug 2032"/>
 <circle cx="696.2" cy="321.0" r="7" class="med" stroke-width="3" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Nov 2030; eight in ten Jul 2028 to Aug 2032"/>
 <text x="696.2" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Dec 2029</text>
-</svg></div><p class="small muted">All acts of the package published before the 2029 elections in 37 % of the runs. Each act follows its own runs; acts negotiated as one package move together and would finish closer to the latest proposal.</p><div class="note"><b>What the package view cannot show.</b> The package is the Commission's plan. Parliament and Council have not given their views yet; they can split it, change its scope or take its acts at different speeds. The omnibus is unlikely to change every one of the some thirty product laws under the New Legislative Framework, and several of them are being amended in parallel by other files, such as the Omnibus IV acts on digitalisation and common specifications (13 directives and seven regulations, among them the Machinery Regulation) and the simplification of the medical devices rules.</div>
+</svg></div><p class="small muted">All acts of the package published before the 2029 elections in 37 % of the runs. Each act follows its own runs; acts negotiated as one package move together and would finish closer to the latest proposal.</p><div class="note"><b>What the package view cannot show.</b> The package is the Commission's plan. Parliament and Council have not given their views yet; they can split it, change its scope or take its acts at different speeds. The omnibus is unlikely to change every one of the some thirty product laws under the New Legislative Framework, and several of them are being amended in parallel by other files, such as the Omnibus IV acts on digitalisation and common specifications (13 directives and seven regulations, among them the Machinery Regulation) and the simplification of the medical devices rules. <a href="nlf.html">Which files change which product law</a></div>
 <h3>What comparable laws took</h3><div class="legend"><span><i class="lg-dn"></i>adopted away from an election</span><span><i class="lg-de"></i>crossed Parliament's election break</span></div><div class="fig"><svg viewBox="0 0 1000 186" role="img" aria-label="Months from proposal to Official Journal" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
 <line x1="20" y1="134" x2="980" y2="134" class="ax"/>
 <line x1="20.0" y1="134" x2="20.0" y2="139" class="ax"/>

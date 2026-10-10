@@ -1,0 +1,440 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Product laws under the NLF: changes in parallel – EU regulation timeline</title><meta name="description" content="Which pending and recent EU files change the product laws of the New Legislative Framework, next to the announced European Product Act."><style>
+:root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e;
+  --chip: #eef1f6; --act: #d94841; --prepare: #e8a33d; --operate: #4f9a6a; --monitor: #4a78c2; --low: #9aa0a6; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --accent: #7aa7ff; --chip: #232a31; } }
+:root[data-theme="dark"] { --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136;
+  --accent: #7aa7ff; --chip: #232a31; }
+* { box-sizing: border-box; }
+html { scroll-padding-top: 64px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px 48px; }
+/* the site navigation at the same place as on every other page (1440px wide, 20px from the top) */
+.navwrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 0; }
+a { color: var(--accent); }
+a.ext::after { content: " ↗"; font-size: 0.85em; }
+.crumbs { font-size: 14px; color: var(--muted); margin: 4px 0 10px; }
+.crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
+h1 { font-size: 28px; line-height: 1.2; margin: 0 0 4px; } h2 { font-size: 20px; margin: 0 0 10px; }
+h3 { font-size: 16px; margin: 18px 0 6px; }
+.muted { color: var(--muted); } .small { font-size: 13px; }
+.head { display: grid; grid-template-columns: 1fr auto; gap: 12px 24px; align-items: start; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 4px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.official { font-size: 14px; }
+nav.sections { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line);
+  margin: 14px -16px 0; padding: 8px 16px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); background: var(--chip); border-radius: 999px;
+  padding: 5px 12px; font-size: 14px; }
+nav.sections a[aria-current="true"] { background: var(--accent); color: #fff; }
+section { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; margin-top: 16px; }
+.sec-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.sec-head a.more { font-size: 14px; white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; vertical-align: top; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
+.table { overflow-x: auto; }
+.next { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+.next li { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.next .date { font-weight: 600; } .next .rel { color: var(--muted); font-size: 13px; margin-left: 6px; }
+.next .kind { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+.next a { text-decoration: none; color: inherit; display: block; }
+.next a:hover .what { text-decoration: underline; }
+.tag { font-size: 12px; color: #a4302a; font-weight: 600; }
+.note { background: var(--chip); border-radius: 8px; padding: 8px 12px; font-size: 14px; margin: 8px 0; }
+details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 14px; }
+.stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
+.past { color: var(--muted); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 12px; }
+a.card-link { text-decoration: none; color: inherit; }
+.acard { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; height: 100%; }
+a.card-link:hover .acard { border-color: var(--accent); } .acard h2 { margin: 4px 0 6px; }
+section.changes { border-left: 4px solid var(--prepare); }
+section.now { border-left: 4px solid var(--accent); }
+.now-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px 28px; }
+.now h3 { margin: 10px 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.prog { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.prog li { border: 1px solid var(--line); border-left: 4px solid var(--kc); border-radius: 8px; padding: 8px 12px; }
+.prog .t { font-weight: 600; text-decoration: none; color: var(--ink); display: block; margin: 1px 0 2px; }
+.prog .t:hover { text-decoration: underline; }
+.prog .kind, .feed .kind { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.k-law { --kc: var(--prepare); } .k-std { --kc: var(--operate); } .k-com { --kc: var(--monitor); } .k-impl { --kc: var(--act); }
+.feed { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--line); }
+.feed li { position: relative; padding: 0 0 12px 16px; font-size: 14px; }
+.feed li::before { content: ""; position: absolute; left: -6px; top: 5px; width: 10px; height: 10px; border-radius: 50%;
+  background: var(--panel); border: 2px solid var(--line); }
+.feed time { font-weight: 600; margin-right: 8px; white-space: nowrap; }
+.feed .kind { display: inline-block; border-left: 3px solid var(--kc); padding-left: 6px; }
+.feed li > div a { text-decoration: none; } .feed li > div a:hover { text-decoration: underline; }
+.feed details { margin-top: 2px; }
+.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit; font-size: 14px; padding: 0; }
+.badge { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; border-radius: 999px;
+  padding: 2px 8px; vertical-align: 2px; }
+.b-pending { background: #fbe3c0; color: #7a4a00; } .b-adopted { background: #d8ecd6; color: #1f5130; }
+h3.group { font-size: 14px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 18px 0 2px; }
+.why { background: var(--chip); border-radius: 8px; padding: 8px 12px; margin: 8px 0; font-size: 14px; }
+.why p { margin: 4px 0; } .why-h { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.why ul.pts { margin: 2px 0 6px; padding-left: 20px; }
+.change { border-top: 1px solid var(--line); padding-top: 4px; margin-top: 10px; }
+h3.group + p + .change { border-top: 0; margin-top: 0; }
+.change h3 { margin-top: 8px; } .change th { width: 70px; }
+.fig { margin: 18px 0 8px; } .fig img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  border-radius: 8px; padding: 6px; margin: 8px 0; }
+.legend { list-style: none; padding: 0; margin: 6px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; }
+.legend .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--line);
+  vertical-align: -2px; margin-right: 6px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+.top { position: fixed; right: 16px; bottom: 16px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
+  padding: 6px 12px; font-size: 13px; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+@media (max-width: 800px) { .now-grid { grid-template-columns: 1fr; } }
+@media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
+  th, td { padding: 6px 8px; } }
+
+:root { --s1: #2f5a9e; --s2: #b86e12; --b80: #b8c8e3; --wall: #d94841; --wall-t: #a4302a; --hb: #fbecea; --hl: #efc4bf;
+  --chip2: #e3e8f0; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s1: #5f8ce0; --s2: #b87a1e; --b80: #33476b;
+  --wall: #ff6b6b; --wall-t: #ff8a80; --hb: #2a1d1d; --hl: #4a2b2b; --chip2: #2b333c; color-scheme: dark; } }
+:root[data-theme="dark"] { --s1: #5f8ce0; --s2: #b87a1e; --b80: #33476b; --wall: #ff6b6b; --wall-t: #ff8a80; --hb: #2a1d1d;
+  --hl: #4a2b2b; --chip2: #2b333c; color-scheme: dark; }
+[hidden] { display: none !important; }
+.lede { max-width: 72ch; }
+.verdict { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 14px 0 4px; }
+.verdict > div { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; min-width: 0; background: var(--panel); }
+.verdict .k { font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.verdict .v { font-size: 22px; font-weight: 700; line-height: 1.25; margin: 2px 0; font-variant-numeric: tabular-nums; color: var(--accent); }
+.verdict .plan .v { color: var(--wall-t); }
+.fig { overflow-x: auto; margin: 6px 0; }
+.fig svg { display: block; width: 100%; min-width: 760px; height: auto; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--muted); margin: 4px 0 8px; }
+.legend i { display: inline-block; vertical-align: -2px; margin-right: 6px; }
+.lg-50 { width: 22px; height: 12px; border-radius: 3px; background: var(--s1); }
+.lg-80 { width: 22px; height: 6px; border-radius: 3px; background: var(--b80); vertical-align: 1px !important; }
+.lg-med { width: 12px; height: 12px; border-radius: 50%; border: 3px solid var(--s1); background: var(--panel); }
+.lg-fx { width: 12px; height: 12px; border-radius: 50%; background: var(--ink); }
+.lg-pl { width: 18px; height: 8px; border: 2px solid var(--wall-t); border-bottom: 0; }
+.lg-wall { width: 22px; height: 12px; background: repeating-linear-gradient(45deg, var(--hb) 0 3px, var(--hl) 3px 5px); }
+.lg-s1 { width: 22px; height: 3px; background: var(--s1); vertical-align: 3px !important; }
+.lg-dn { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-de { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--s1); background: var(--panel); }
+svg .ax { stroke: var(--muted); stroke-width: 1; } svg .dn { fill: var(--s1); stroke: var(--panel); }
+svg .de { fill: var(--panel); stroke: var(--s1); }
+.fig.img img { display: block; width: 100%; min-width: 760px; height: auto; background: #fff; border-radius: 8px; }
+.lg-s2 { width: 22px; height: 3px; background: var(--s2); vertical-align: 3px !important; }
+svg .ink { fill: var(--ink); } svg .mu { fill: var(--muted); } svg .gr { stroke: var(--line); stroke-width: 1; }
+svg .pa { fill: var(--chip); } svg .pb { fill: var(--chip2); } svg .hb { fill: var(--hb); } svg .hl { stroke: var(--hl); }
+svg .wt, svg .pt { fill: var(--wall-t); } svg .pl { stroke: var(--wall-t); } svg .td { stroke: var(--ink); stroke-width: 1.5; }
+svg .b50 { fill: var(--s1); opacity: .85; } svg .b80 { fill: var(--b80); } svg .med { fill: var(--panel); stroke: var(--s1); }
+svg .fx { fill: var(--ink); } svg .c1 { stroke: var(--s1); } svg .c2 { stroke: var(--s2); }
+.lg-s2 { width: 22px; height: 3px; background: var(--s2); vertical-align: 3px !important; }
+svg a text, svg .lnk a { fill: var(--accent); } svg a:hover { text-decoration: underline; }
+.toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; gap: 2px; margin: 8px 0; flex-wrap: wrap; }
+.toggle button { border: 0; background: none; color: var(--ink); font: inherit; font-size: 14px; padding: 4px 12px; border-radius: 999px; cursor: pointer; }
+.toggle button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.toggle button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.routes { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; margin: 8px 0; }
+.routes > div { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; min-width: 0; }
+.routes .p { font-size: 24px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.routes .bar { height: 6px; border-radius: 3px; background: var(--chip); margin: 6px 0; overflow: hidden; }
+.routes .bar i { display: block; height: 100%; background: var(--s1); }
+.routes .r3 .bar i { background: var(--wall); }
+.steps { list-style: none; margin: 8px 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 6px; }
+.steps li { border-top: 4px solid var(--line); padding: 6px 4px 0; font-size: 13px; }
+.steps li.done { border-color: var(--s1); }
+.steps li span { display: block; color: var(--muted); font-size: 12px; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.scen { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 10px 0; }
+#tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 13px; line-height: 1.35;
+  padding: 6px 9px; border-radius: 6px; max-width: 320px; z-index: 10; }
+
+svg .nl-pending { fill: var(--s1); } svg .nl-adopted { fill: var(--muted); }
+svg .nl-plan { fill: var(--panel); stroke: var(--wall-t); } svg .nl-open { fill: none; stroke: var(--wall-t); }
+svg .nl-q { fill: var(--wall-t); } svg .nl-row { stroke: var(--line); stroke-width: .6; }
+svg .nl-g-announced { fill: var(--hb); } svg .nl-g-pending { fill: var(--chip2); } svg .nl-g-adopted { fill: var(--chip); }
+.fig.nlf svg { min-width: 980px; }
+.lg-nl-p { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-nl-a { width: 12px; height: 12px; border-radius: 50%; background: var(--muted); }
+.lg-nl-r { width: 12px; height: 12px; border-radius: 2px; background: var(--muted); }
+.lg-nl-pl { width: 12px; height: 12px; border-radius: 50%; border: 2.5px solid var(--wall-t); }
+.lg-nl-o { width: 12px; height: 12px; border-radius: 50%; border: 1.5px dashed var(--wall-t); }
+</style></head><body><div class="navwrap"><style>
+.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
+  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
+.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.item:hover { background: var(--chip, #eef1f6); }
+.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+.sitenav .brandbox { display: inline-flex; flex-direction: column; line-height: 1.15; margin-right: 8px; }
+.sitenav .brandbox .brand { margin-right: 0; }
+.sitenav a.by { color: var(--muted, #5b646b); text-decoration: none; font-size: 12px; white-space: nowrap; }
+.sitenav a.by:hover, .sitenav a.by[aria-current="page"] { text-decoration: underline; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
+  text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.repo:hover { background: var(--chip, #eef1f6); }
+.sitenav a.repo span { display: none; }   /* the icon alone: room for the credit (tools/credit.py) */
+@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .sitenav .brandbox .brand, .sitenav a.repo span { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a><a class="by" href="../about.html">by Steffen Zimmermann</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
+<div class="crumbs"><a href="index.html">Forecast</a> › Product laws under the NLF</div>
+<h1>Product laws under the New Legislative Framework: changes in parallel</h1>
+<section class="now">
+<p class="lede">The European Product Act is to revise the framework that some thirty product laws build on, and the Commission intends to align those laws with it in a sectoral omnibus. But several of them are already being changed by other files, at different stages, at the same time. Which files change which law, from the titles of the proposals and acts:</p><div class="verdict"><div><div class="k">Product laws changed in parallel</div><div class="v">24 of 31</div><div class="small muted">by a pending proposal or an act adopted since Oct 2024</div></div><div><div class="k">Files changing them</div><div class="v">10</div><div class="small muted">5 pending, 5 adopted</div></div><div><div class="k">Changed by two files or more</div><div class="v">8</div><div class="small muted">Cableway installations, Personal protective equipment, Gas appliances, Batteries, Machinery, Ecodesign for sustainable products (ESPR), Artificial intelligence (AI Act), Cyber Resilience Act</div></div></div><div class="legend"><span><i class="lg-nl-p"></i>amends (pending proposal)</span><span><i class="lg-nl-a"></i>amends (adopted)</span><span><i class="lg-nl-r"></i>repeals or replaces</span><span><i class="lg-nl-pl"></i>to be revised (announced)</span><span><i class="lg-nl-o"></i>may change, scope open</span></div><div class="fig nlf"><svg viewBox="0 0 1320 1075" role="img" aria-label="Product laws under the New Legislative Framework and the files that change them in parallel" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="12">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>NLF product laws and the files that change them in parallel</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect x="293.0" y="2" width="153.7" height="16" rx="3" class="nl-g-announced"/>
+<text x="369.8" y="14" text-anchor="middle" font-size="11" font-weight="600" class="ink">Announced</text>
+<rect x="452.7" y="2" width="393.2" height="16" rx="3" class="nl-g-pending"/>
+<text x="649.2" y="14" text-anchor="middle" font-size="11" font-weight="600" class="ink">Pending proposals</text>
+<rect x="851.8" y="2" width="393.2" height="16" rx="3" class="nl-g-adopted"/>
+<text x="1048.4" y="14" text-anchor="middle" font-size="11" font-weight="600" class="ink">Adopted since Oct 2024</text>
+<a href="epa.html"><title>European Product Act (not proposed yet)</title><text x="329.9" y="52" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="329.9" dy="0">European</tspan><tspan x="329.9" dy="14">Product Act</tspan></text></a>
+<text x="329.9" y="96" text-anchor="middle" font-size="10" class="mu">not proposed</text>
+<text x="329.9" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Sep 2028</text>
+<a href="epa.html"><title>Sectoral alignment omnibus (announced with the European Product Act, not proposed yet)</title><text x="409.8" y="52" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="409.8" dy="0">Sectoral</tspan><tspan x="409.8" dy="14">omnibus</tspan></text></a>
+<text x="409.8" y="96" text-anchor="middle" font-size="10" class="mu">not proposed</text>
+<text x="409.8" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Oct 2028</text>
+<a href="product-digitalisation-directive.html"><title>Proposal for a Directive amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU as regards digitalisation and common specifications</title><text x="489.6" y="52" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="489.6" dy="0">Omnibus IV</tspan><tspan x="489.6" dy="14">directive</tspan></text></a>
+<text x="489.6" y="96" text-anchor="middle" font-size="10" class="mu">agreed</text>
+<text x="489.6" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Dec 2026</text>
+<a href="product-digitalisation-regulation.html"><title>Proposal for a Regulation amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications</title><text x="569.4" y="52" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="569.4" dy="0">Omnibus IV</tspan><tspan x="569.4" dy="14">regulation</tspan></text></a>
+<text x="569.4" y="96" text-anchor="middle" font-size="10" class="mu">agreed</text>
+<text x="569.4" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Dec 2026</text>
+<a href="medical-devices-simplification.html"><title>Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices</title><text x="649.2" y="52" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="649.2" dy="0">MDR/IVDR</tspan><tspan x="649.2" dy="14">simplification</tspan></text></a>
+<text x="649.2" y="96" text-anchor="middle" font-size="10" class="mu">in committee</text>
+<text x="649.2" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Feb 2028</text>
+<a href="standardisation-revision.html"><title>Proposal for a Regulation on European standardisation, repealing Regulation (EU) No 1025/2012</title><text x="729.1" y="38" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="729.1" dy="0">New</tspan><tspan x="729.1" dy="14">Standardisation</tspan><tspan x="729.1" dy="14">Regulation</tspan></text></a>
+<text x="729.1" y="96" text-anchor="middle" font-size="10" class="mu">proposal</text>
+<text x="729.1" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Jul 2028</text>
+<a href="public-procurement-act.html"><title>Proposal for a Regulation on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU</title><text x="808.9" y="38" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="808.9" dy="0">Public</tspan><tspan x="808.9" dy="14">Procurement</tspan><tspan x="808.9" dy="14">Act</tspan></text></a>
+<text x="808.9" y="96" text-anchor="middle" font-size="10" class="mu">proposal</text>
+<text x="808.9" y="110" text-anchor="middle" font-size="10" class="mu">OJ ~Aug 2028</text>
+<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2748"><title>Regulation (EU) 2024/2748 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency</title><text x="888.7" y="38" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="888.7" dy="0">Emergency</tspan><tspan x="888.7" dy="14">omnibus</tspan><tspan x="888.7" dy="14">(IMERA)</tspan></text></a>
+<text x="888.7" y="96" text-anchor="middle" font-size="10" class="mu">in force</text>
+<text x="888.7" y="110" text-anchor="middle" font-size="10" class="mu">OJ Nov 2024</text>
+<a href="../acts/cra.html"><title>Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements</title><text x="968.6" y="38" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="968.6" dy="0">Cyber</tspan><tspan x="968.6" dy="14">Resilience</tspan><tspan x="968.6" dy="14">Act</tspan></text></a>
+<text x="968.6" y="96" text-anchor="middle" font-size="10" class="mu">in force</text>
+<text x="968.6" y="110" text-anchor="middle" font-size="10" class="mu">OJ Nov 2024</text>
+<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327"><title>Regulation (EU) 2025/327 on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847</title><text x="1048.4" y="38" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="1048.4" dy="0">Health Data</tspan><tspan x="1048.4" dy="14">Space</tspan><tspan x="1048.4" dy="14">(EHDS)</tspan></text></a>
+<text x="1048.4" y="96" text-anchor="middle" font-size="10" class="mu">in force</text>
+<text x="1048.4" y="110" text-anchor="middle" font-size="10" class="mu">OJ Mar 2025</text>
+<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509"><title>Regulation (EU) 2025/2509 on the safety of toys and repealing Directive 2009/48/EC</title><text x="1128.2" y="52" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="1128.2" dy="0">Toy Safety</tspan><tspan x="1128.2" dy="14">Regulation</tspan></text></a>
+<text x="1128.2" y="96" text-anchor="middle" font-size="10" class="mu">in force</text>
+<text x="1128.2" y="110" text-anchor="middle" font-size="10" class="mu">OJ Dec 2025</text>
+<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1744"><title>Regulation (EU) 2026/1744 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)</title><text x="1208.1" y="38" text-anchor="middle" font-size="11" font-weight="600" class="ink"><tspan x="1208.1" dy="0">Digital</tspan><tspan x="1208.1" dy="14">Omnibus on</tspan><tspan x="1208.1" dy="14">AI</tspan></text></a>
+<text x="1208.1" y="96" text-anchor="middle" font-size="10" class="mu">in force</text>
+<text x="1208.1" y="110" text-anchor="middle" font-size="10" class="mu">OJ Jul 2026</text>
+<text x="1276.0" y="96" text-anchor="middle" font-size="10" class="mu">files in</text>
+<text x="1276.0" y="110" text-anchor="middle" font-size="10" class="mu">parallel</text>
+<text x="8" y="146" font-weight="700" class="ink">Framework of the New Legislative Framework</text>
+<line x1="8" y1="152" x2="1304" y2="152" class="gr"/>
+<text x="278" y="168.5" text-anchor="end" class="ink lnk" data-tip="Decision 768/2008: NLF Decision (common framework for products)"><title>Decision 768/2008: NLF Decision (common framework for products)</title>768/2008 NLF Decision (common framework…</text>
+<line x1="286" y1="175.0" x2="1304" y2="175.0" class="nl-row"/>
+<circle cx="329.9" cy="164.5" r="6.5" class="nl-plan" stroke-width="2.5" data-tip="European Product Act to be revised (announced) 768/2008 (NLF Decision (common framework for products)): revised and merged by the European Product Act (both structures under review)"><title>European Product Act to be revised (announced) 768/2008 (NLF Decision (common framework for products)): revised and merged by the European Product Act (both structures under review)</title></circle>
+<text x="278" y="189.5" text-anchor="end" class="ink lnk" data-tip="Regulation 765/2008: Accreditation and CE marking"><title>Regulation 765/2008: Accreditation and CE marking</title>765/2008 Accreditation and CE marking</text>
+<line x1="286" y1="196.0" x2="1304" y2="196.0" class="nl-row"/>
+<circle cx="329.9" cy="185.5" r="6.5" class="nl-plan" stroke-width="2.5" data-tip="European Product Act to be revised (announced) 765/2008 (Accreditation and CE marking): revised and merged by the European Product Act (both structures under review)"><title>European Product Act to be revised (announced) 765/2008 (Accreditation and CE marking): revised and merged by the European Product Act (both structures under review)</title></circle>
+<circle cx="569.4" cy="185.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 765/2008 (Accreditation and CE marking)"><title>Omnibus IV regulation amends 765/2008 (Accreditation and CE marking)</title></circle>
+<text x="1276.0" y="189.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="210.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2019/1020: Market Surveillance Regulation"><title>Regulation 2019/1020: Market Surveillance Regulation</title><a href="../acts/market-surveillance.html">2019/1020 Market Surveillance Regulation</a></text>
+<line x1="286" y1="217.0" x2="1304" y2="217.0" class="nl-row"/>
+<circle cx="329.9" cy="206.5" r="6.5" class="nl-plan" stroke-width="2.5" data-tip="European Product Act to be revised (announced) 2019/1020 (Market Surveillance Regulation): revised and merged by the European Product Act (both structures under review)"><title>European Product Act to be revised (announced) 2019/1020 (Market Surveillance Regulation): revised and merged by the European Product Act (both structures under review)</title></circle>
+<circle cx="968.6" cy="206.5" r="6" class="nl-adopted" data-tip="Cyber Resilience Act amends 2019/1020 (Market Surveillance Regulation)"><title>Cyber Resilience Act amends 2019/1020 (Market Surveillance Regulation)</title></circle>
+<text x="1276.0" y="210.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="231.5" text-anchor="end" class="ink lnk" data-tip="Regulation 1025/2012: Standardisation Regulation"><title>Regulation 1025/2012: Standardisation Regulation</title>1025/2012 Standardisation Regulation</text>
+<line x1="286" y1="238.0" x2="1304" y2="238.0" class="nl-row"/>
+<g data-tip="European Product Act may change, scope open 1025/2012 (Standardisation Regulation): folded into the European Product Act if it is one act; in the package of two acts, the New Standardisation Regulation replaces it"><title>European Product Act may change, scope open 1025/2012 (Standardisation Regulation): folded into the European Product Act if it is one act; in the package of two acts, the New Standardisation Regulation replaces it</title><circle cx="329.9" cy="227.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="329.9" y="231.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<rect x="723.1" y="221.5" width="12" height="12" rx="2" class="nl-pending" data-tip="New Standardisation Regulation repeals or replaces 1025/2012 (Standardisation Regulation)"><title>New Standardisation Regulation repeals or replaces 1025/2012 (Standardisation Regulation)</title></rect>
+<text x="1276.0" y="231.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="8" y="256" font-weight="700" class="ink">Product laws under the NLF</text>
+<line x1="8" y1="262" x2="1304" y2="262" class="gr"/>
+<text x="278" y="278.5" text-anchor="end" class="mu lnk" data-tip="Directive 2009/48: Toy safety (repealed by Regulation (EU) 2025/2509 (Toy Safety Regulation))"><title>Directive 2009/48: Toy safety (repealed by Regulation (EU) 2025/2509 (Toy Safety Regulation))</title>2009/48 Toy safety</text>
+<line x1="286" y1="285.0" x2="1304" y2="285.0" class="nl-row"/>
+<rect x="1122.2" y="268.5" width="12" height="12" rx="2" class="nl-adopted" data-tip="Toy Safety Regulation repeals or replaces 2009/48 (Toy safety)"><title>Toy Safety Regulation repeals or replaces 2009/48 (Toy safety)</title></rect>
+<text x="1276.0" y="278.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="299.5" text-anchor="end" class="ink lnk" data-tip="Directive 2010/35: Transportable pressure equipment"><title>Directive 2010/35: Transportable pressure equipment</title>2010/35 Transportable pressure equipment</text>
+<line x1="286" y1="306.0" x2="1304" y2="306.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2010/35 (Transportable pressure equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2010/35 (Transportable pressure equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="295.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="299.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="278" y="320.5" text-anchor="end" class="ink lnk" data-tip="Directive 2011/65: Restriction of hazardous substances (RoHS)"><title>Directive 2011/65: Restriction of hazardous substances (RoHS)</title>2011/65 Restriction of hazardous substan…</text>
+<line x1="286" y1="327.0" x2="1304" y2="327.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2011/65 (Restriction of hazardous substances (RoHS)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2011/65 (Restriction of hazardous substances (RoHS)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="316.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="320.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="316.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2011/65 (Restriction of hazardous substances (RoHS))"><title>Omnibus IV directive amends 2011/65 (Restriction of hazardous substances (RoHS))</title></circle>
+<text x="1276.0" y="320.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="341.5" text-anchor="end" class="ink lnk" data-tip="Regulation 305/2011: Construction products (replaced by Regulation (EU) 2024/3110, not followed here)"><title>Regulation 305/2011: Construction products (replaced by Regulation (EU) 2024/3110, not followed here)</title>305/2011 Construction products</text>
+<line x1="286" y1="348.0" x2="1304" y2="348.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 305/2011 (Construction products): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 305/2011 (Construction products): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="337.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="341.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="888.7" cy="337.5" r="6" class="nl-adopted" data-tip="Emergency omnibus (IMERA) amends 305/2011 (Construction products)"><title>Emergency omnibus (IMERA) amends 305/2011 (Construction products)</title></circle>
+<text x="1276.0" y="341.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="362.5" text-anchor="end" class="ink lnk" data-tip="Directive 2013/29: Pyrotechnic articles"><title>Directive 2013/29: Pyrotechnic articles</title>2013/29 Pyrotechnic articles</text>
+<line x1="286" y1="369.0" x2="1304" y2="369.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2013/29 (Pyrotechnic articles): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2013/29 (Pyrotechnic articles): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="358.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="362.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="278" y="383.5" text-anchor="end" class="ink lnk" data-tip="Directive 2013/53: Recreational craft and personal watercraft"><title>Directive 2013/53: Recreational craft and personal watercraft</title>2013/53 Recreational craft and personal…</text>
+<line x1="286" y1="390.0" x2="1304" y2="390.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2013/53 (Recreational craft and personal watercraft): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2013/53 (Recreational craft and personal watercraft): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="379.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="383.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="379.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2013/53 (Recreational craft and personal watercraft)"><title>Omnibus IV directive amends 2013/53 (Recreational craft and personal watercraft)</title></circle>
+<text x="1276.0" y="383.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="404.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/28: Civil explosives"><title>Directive 2014/28: Civil explosives</title>2014/28 Civil explosives</text>
+<line x1="286" y1="411.0" x2="1304" y2="411.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/28 (Civil explosives): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/28 (Civil explosives): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="400.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="404.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="278" y="425.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/29: Simple pressure vessels"><title>Directive 2014/29: Simple pressure vessels</title>2014/29 Simple pressure vessels</text>
+<line x1="286" y1="432.0" x2="1304" y2="432.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/29 (Simple pressure vessels): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/29 (Simple pressure vessels): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="421.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="425.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="421.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/29 (Simple pressure vessels)"><title>Omnibus IV directive amends 2014/29 (Simple pressure vessels)</title></circle>
+<text x="1276.0" y="425.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="446.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/30: Electromagnetic compatibility (EMC)"><title>Directive 2014/30: Electromagnetic compatibility (EMC)</title>2014/30 Electromagnetic compatibility (E…</text>
+<line x1="286" y1="453.0" x2="1304" y2="453.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/30 (Electromagnetic compatibility (EMC)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/30 (Electromagnetic compatibility (EMC)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="442.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="446.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="442.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/30 (Electromagnetic compatibility (EMC))"><title>Omnibus IV directive amends 2014/30 (Electromagnetic compatibility (EMC))</title></circle>
+<text x="1276.0" y="446.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="467.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/31: Non-automatic weighing instruments"><title>Directive 2014/31: Non-automatic weighing instruments</title>2014/31 Non-automatic weighing instrumen…</text>
+<line x1="286" y1="474.0" x2="1304" y2="474.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/31 (Non-automatic weighing instruments): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/31 (Non-automatic weighing instruments): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="463.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="467.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="463.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/31 (Non-automatic weighing instruments)"><title>Omnibus IV directive amends 2014/31 (Non-automatic weighing instruments)</title></circle>
+<text x="1276.0" y="467.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="488.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/32: Measuring instruments"><title>Directive 2014/32: Measuring instruments</title>2014/32 Measuring instruments</text>
+<line x1="286" y1="495.0" x2="1304" y2="495.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/32 (Measuring instruments): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/32 (Measuring instruments): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="484.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="488.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="484.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/32 (Measuring instruments)"><title>Omnibus IV directive amends 2014/32 (Measuring instruments)</title></circle>
+<text x="1276.0" y="488.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="509.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/33: Lifts"><title>Directive 2014/33: Lifts</title>2014/33 Lifts</text>
+<line x1="286" y1="516.0" x2="1304" y2="516.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/33 (Lifts): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/33 (Lifts): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="505.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="509.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="505.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/33 (Lifts)"><title>Omnibus IV directive amends 2014/33 (Lifts)</title></circle>
+<text x="1276.0" y="509.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="530.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/34: Equipment for explosive atmospheres (ATEX)"><title>Directive 2014/34: Equipment for explosive atmospheres (ATEX)</title>2014/34 Equipment for explosive atmosphe…</text>
+<line x1="286" y1="537.0" x2="1304" y2="537.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/34 (Equipment for explosive atmospheres (ATEX)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/34 (Equipment for explosive atmospheres (ATEX)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="526.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="530.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="526.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/34 (Equipment for explosive atmospheres (ATEX))"><title>Omnibus IV directive amends 2014/34 (Equipment for explosive atmospheres (ATEX))</title></circle>
+<text x="1276.0" y="530.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="551.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/35: Low voltage"><title>Directive 2014/35: Low voltage</title>2014/35 Low voltage</text>
+<line x1="286" y1="558.0" x2="1304" y2="558.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/35 (Low voltage): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/35 (Low voltage): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="547.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="551.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="547.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/35 (Low voltage)"><title>Omnibus IV directive amends 2014/35 (Low voltage)</title></circle>
+<text x="1276.0" y="551.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="572.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/53: Radio equipment"><title>Directive 2014/53: Radio equipment</title>2014/53 Radio equipment</text>
+<line x1="286" y1="579.0" x2="1304" y2="579.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/53 (Radio equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/53 (Radio equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="568.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="572.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="568.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/53 (Radio equipment)"><title>Omnibus IV directive amends 2014/53 (Radio equipment)</title></circle>
+<text x="1276.0" y="572.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="593.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/68: Pressure equipment"><title>Directive 2014/68: Pressure equipment</title>2014/68 Pressure equipment</text>
+<line x1="286" y1="600.0" x2="1304" y2="600.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/68 (Pressure equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/68 (Pressure equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="589.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="593.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="589.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/68 (Pressure equipment)"><title>Omnibus IV directive amends 2014/68 (Pressure equipment)</title></circle>
+<text x="1276.0" y="593.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="614.5" text-anchor="end" class="ink lnk" data-tip="Directive 2014/90: Marine equipment"><title>Directive 2014/90: Marine equipment</title>2014/90 Marine equipment</text>
+<line x1="286" y1="621.0" x2="1304" y2="621.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2014/90 (Marine equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2014/90 (Marine equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="610.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="614.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="489.6" cy="610.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2014/90 (Marine equipment)"><title>Omnibus IV directive amends 2014/90 (Marine equipment)</title></circle>
+<text x="1276.0" y="614.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="635.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2016/424: Cableway installations"><title>Regulation 2016/424: Cableway installations</title>2016/424 Cableway installations</text>
+<line x1="286" y1="642.0" x2="1304" y2="642.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2016/424 (Cableway installations): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2016/424 (Cableway installations): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="631.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="635.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="569.4" cy="631.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 2016/424 (Cableway installations)"><title>Omnibus IV regulation amends 2016/424 (Cableway installations)</title></circle>
+<circle cx="888.7" cy="631.5" r="6" class="nl-adopted" data-tip="Emergency omnibus (IMERA) amends 2016/424 (Cableway installations)"><title>Emergency omnibus (IMERA) amends 2016/424 (Cableway installations)</title></circle>
+<text x="1276.0" y="635.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="656.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2016/425: Personal protective equipment"><title>Regulation 2016/425: Personal protective equipment</title>2016/425 Personal protective equipment</text>
+<line x1="286" y1="663.0" x2="1304" y2="663.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2016/425 (Personal protective equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2016/425 (Personal protective equipment): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="652.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="656.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="569.4" cy="652.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 2016/425 (Personal protective equipment)"><title>Omnibus IV regulation amends 2016/425 (Personal protective equipment)</title></circle>
+<circle cx="888.7" cy="652.5" r="6" class="nl-adopted" data-tip="Emergency omnibus (IMERA) amends 2016/425 (Personal protective equipment)"><title>Emergency omnibus (IMERA) amends 2016/425 (Personal protective equipment)</title></circle>
+<text x="1276.0" y="656.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="677.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2016/426: Gas appliances"><title>Regulation 2016/426: Gas appliances</title>2016/426 Gas appliances</text>
+<line x1="286" y1="684.0" x2="1304" y2="684.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2016/426 (Gas appliances): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2016/426 (Gas appliances): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="673.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="677.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="569.4" cy="673.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 2016/426 (Gas appliances)"><title>Omnibus IV regulation amends 2016/426 (Gas appliances)</title></circle>
+<circle cx="888.7" cy="673.5" r="6" class="nl-adopted" data-tip="Emergency omnibus (IMERA) amends 2016/426 (Gas appliances)"><title>Emergency omnibus (IMERA) amends 2016/426 (Gas appliances)</title></circle>
+<text x="1276.0" y="677.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="698.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2017/745: Medical devices"><title>Regulation 2017/745: Medical devices</title>2017/745 Medical devices</text>
+<line x1="286" y1="705.0" x2="1304" y2="705.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2017/745 (Medical devices): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2017/745 (Medical devices): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="694.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="698.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="649.2" cy="694.5" r="6" class="nl-pending" data-tip="MDR/IVDR simplification amends 2017/745 (Medical devices)"><title>MDR/IVDR simplification amends 2017/745 (Medical devices)</title></circle>
+<text x="1276.0" y="698.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="719.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2017/746: In vitro diagnostic medical devices"><title>Regulation 2017/746: In vitro diagnostic medical devices</title>2017/746 In vitro diagnostic medical dev…</text>
+<line x1="286" y1="726.0" x2="1304" y2="726.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2017/746 (In vitro diagnostic medical devices): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2017/746 (In vitro diagnostic medical devices): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="715.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="719.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="649.2" cy="715.5" r="6" class="nl-pending" data-tip="MDR/IVDR simplification amends 2017/746 (In vitro diagnostic medical devices)"><title>MDR/IVDR simplification amends 2017/746 (In vitro diagnostic medical devices)</title></circle>
+<text x="1276.0" y="719.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="740.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2019/1009: EU fertilising products"><title>Regulation 2019/1009: EU fertilising products</title>2019/1009 EU fertilising products</text>
+<line x1="286" y1="747.0" x2="1304" y2="747.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2019/1009 (EU fertilising products): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2019/1009 (EU fertilising products): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="736.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="740.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="278" y="761.5" text-anchor="end" class="ink lnk" data-tip="Delegated Regulation 2019/945: Unmanned aircraft systems (drones)"><title>Delegated Regulation 2019/945: Unmanned aircraft systems (drones)</title>2019/945 Unmanned aircraft systems (dron…</text>
+<line x1="286" y1="768.0" x2="1304" y2="768.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2019/945 (Unmanned aircraft systems (drones)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2019/945 (Unmanned aircraft systems (drones)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="757.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="761.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="278" y="782.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2023/1542: Batteries"><title>Regulation 2023/1542: Batteries</title>2023/1542 Batteries</text>
+<line x1="286" y1="789.0" x2="1304" y2="789.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2023/1542 (Batteries): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2023/1542 (Batteries): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="778.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="782.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="569.4" cy="778.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 2023/1542 (Batteries)"><title>Omnibus IV regulation amends 2023/1542 (Batteries)</title></circle>
+<circle cx="808.9" cy="778.5" r="6" class="nl-pending" data-tip="Public Procurement Act amends 2023/1542 (Batteries)"><title>Public Procurement Act amends 2023/1542 (Batteries)</title></circle>
+<text x="1276.0" y="782.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="803.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2023/1230: Machinery (replaces Directive 2006/42/EC from 20 Jan 2027)"><title>Regulation 2023/1230: Machinery (replaces Directive 2006/42/EC from 20 Jan 2027)</title><a href="../acts/machinery-regulation.html">2023/1230 Machinery</a></text>
+<line x1="286" y1="810.0" x2="1304" y2="810.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2023/1230 (Machinery): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2023/1230 (Machinery): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="799.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="803.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="569.4" cy="799.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 2023/1230 (Machinery)"><title>Omnibus IV regulation amends 2023/1230 (Machinery)</title></circle>
+<circle cx="888.7" cy="799.5" r="6" class="nl-adopted" data-tip="Emergency omnibus (IMERA) amends 2023/1230 (Machinery)"><title>Emergency omnibus (IMERA) amends 2023/1230 (Machinery)</title></circle>
+<circle cx="1208.1" cy="799.5" r="6" class="nl-adopted" data-tip="Digital Omnibus on AI amends 2023/1230 (Machinery)"><title>Digital Omnibus on AI amends 2023/1230 (Machinery)</title></circle>
+<text x="1276.0" y="803.5" text-anchor="middle" font-weight="600" class="ink">3</text>
+<text x="278" y="824.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2024/1781: Ecodesign for sustainable products (ESPR)"><title>Regulation 2024/1781: Ecodesign for sustainable products (ESPR)</title>2024/1781 Ecodesign for sustainable prod…</text>
+<line x1="286" y1="831.0" x2="1304" y2="831.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2024/1781 (Ecodesign for sustainable products (ESPR)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2024/1781 (Ecodesign for sustainable products (ESPR)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="820.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="824.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="569.4" cy="820.5" r="6" class="nl-pending" data-tip="Omnibus IV regulation amends 2024/1781 (Ecodesign for sustainable products (ESPR))"><title>Omnibus IV regulation amends 2024/1781 (Ecodesign for sustainable products (ESPR))</title></circle>
+<circle cx="808.9" cy="820.5" r="6" class="nl-pending" data-tip="Public Procurement Act amends 2024/1781 (Ecodesign for sustainable products (ESPR))"><title>Public Procurement Act amends 2024/1781 (Ecodesign for sustainable products (ESPR))</title></circle>
+<text x="1276.0" y="824.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="845.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2024/1689: Artificial intelligence (AI Act)"><title>Regulation 2024/1689: Artificial intelligence (AI Act)</title><a href="../acts/ai-act.html">2024/1689 Artificial intelligence (AI Ac…</a></text>
+<line x1="286" y1="852.0" x2="1304" y2="852.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2024/1689 (Artificial intelligence (AI Act)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2024/1689 (Artificial intelligence (AI Act)): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="841.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="845.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="649.2" cy="841.5" r="6" class="nl-pending" data-tip="MDR/IVDR simplification amends 2024/1689 (Artificial intelligence (AI Act))"><title>MDR/IVDR simplification amends 2024/1689 (Artificial intelligence (AI Act))</title></circle>
+<circle cx="1208.1" cy="841.5" r="6" class="nl-adopted" data-tip="Digital Omnibus on AI amends 2024/1689 (Artificial intelligence (AI Act))"><title>Digital Omnibus on AI amends 2024/1689 (Artificial intelligence (AI Act))</title></circle>
+<text x="1276.0" y="845.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="866.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2024/2847: Cyber Resilience Act"><title>Regulation 2024/2847: Cyber Resilience Act</title><a href="../acts/cra.html">2024/2847 Cyber Resilience Act</a></text>
+<line x1="286" y1="873.0" x2="1304" y2="873.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2024/2847 (Cyber Resilience Act): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2024/2847 (Cyber Resilience Act): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="862.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="866.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="808.9" cy="862.5" r="6" class="nl-pending" data-tip="Public Procurement Act amends 2024/2847 (Cyber Resilience Act)"><title>Public Procurement Act amends 2024/2847 (Cyber Resilience Act)</title></circle>
+<circle cx="1048.4" cy="862.5" r="6" class="nl-adopted" data-tip="Health Data Space (EHDS) amends 2024/2847 (Cyber Resilience Act)"><title>Health Data Space (EHDS) amends 2024/2847 (Cyber Resilience Act)</title></circle>
+<text x="1276.0" y="866.5" text-anchor="middle" font-weight="600" class="ink">2</text>
+<text x="278" y="887.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2025/40: Packaging and packaging waste"><title>Regulation 2025/40: Packaging and packaging waste</title>2025/40 Packaging and packaging waste</text>
+<line x1="286" y1="894.0" x2="1304" y2="894.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2025/40 (Packaging and packaging waste): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2025/40 (Packaging and packaging waste): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="883.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="887.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<circle cx="808.9" cy="883.5" r="6" class="nl-pending" data-tip="Public Procurement Act amends 2025/40 (Packaging and packaging waste)"><title>Public Procurement Act amends 2025/40 (Packaging and packaging waste)</title></circle>
+<text x="1276.0" y="887.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<text x="278" y="908.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2025/2509: Toy safety"><title>Regulation 2025/2509: Toy safety</title>2025/2509 Toy safety</text>
+<line x1="286" y1="915.0" x2="1304" y2="915.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2025/2509 (Toy safety): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2025/2509 (Toy safety): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="904.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="908.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="278" y="929.5" text-anchor="end" class="ink lnk" data-tip="Regulation 2026/405: Detergents and surfactants"><title>Regulation 2026/405: Detergents and surfactants</title>2026/405 Detergents and surfactants</text>
+<line x1="286" y1="936.0" x2="1304" y2="936.0" class="nl-row"/>
+<g data-tip="Sectoral omnibus may change, scope open 2026/405 (Detergents and surfactants): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open"><title>Sectoral omnibus may change, scope open 2026/405 (Detergents and surfactants): may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</title><circle cx="409.8" cy="925.5" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="409.8" y="929.0" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="8" y="954" font-weight="700" class="ink">Not an NLF act, amended with them</text>
+<line x1="8" y1="960" x2="1304" y2="960" class="gr"/>
+<text x="278" y="976.5" text-anchor="end" class="ink lnk" data-tip="Directive 2000/14: Noise emission of outdoor equipment"><title>Directive 2000/14: Noise emission of outdoor equipment</title>2000/14 Noise emission of outdoor equipm…</text>
+<line x1="286" y1="983.0" x2="1304" y2="983.0" class="nl-row"/>
+<circle cx="489.6" cy="972.5" r="6" class="nl-pending" data-tip="Omnibus IV directive amends 2000/14 (Noise emission of outdoor equipment)"><title>Omnibus IV directive amends 2000/14 (Noise emission of outdoor equipment)</title></circle>
+<text x="1276.0" y="976.5" text-anchor="middle" font-weight="600" class="ink">1</text>
+<line x1="449.7" y1="2" x2="449.7" y2="983" class="gr" stroke-dasharray="3 3"/>
+<line x1="848.8" y1="2" x2="848.8" y2="983" class="gr" stroke-dasharray="3 3"/>
+<circle cx="15.0" cy="1001.0" r="6" class="nl-pending" data-tip="amends (pending proposal)"><title>amends (pending proposal)</title></circle>
+<text x="26" y="1005" class="ink" font-size="11">amends (pending proposal)</text>
+<circle cx="205.0" cy="1001.0" r="6" class="nl-adopted" data-tip="amends (adopted)"><title>amends (adopted)</title></circle>
+<text x="216.0" y="1005" class="ink" font-size="11">amends (adopted)</text>
+<rect x="331.4" y="995.0" width="12" height="12" rx="2" class="nl-adopted" data-tip="repeals or replaces"><title>repeals or replaces</title></rect>
+<text x="348.4" y="1005" class="ink" font-size="11">repeals or replaces</text>
+<circle cx="489.0" cy="1001.0" r="6.5" class="nl-plan" stroke-width="2.5" data-tip="to be revised (announced)"><title>to be revised (announced)</title></circle>
+<text x="500.0" y="1005" class="ink" font-size="11">to be revised (announced)</text>
+<g data-tip="may change, scope open"><title>may change, scope open</title><circle cx="679.0" cy="1001.0" r="6.5" class="nl-open" stroke-width="1.5" stroke-dasharray="2.5 2"/><text x="679.0" y="1004.5" text-anchor="middle" font-size="9" class="nl-q">?</text></g>
+<text x="690.0" y="1005" class="ink" font-size="11">may change, scope open</text>
+<text x="8" y="1025" font-size="10" class="mu">From the titles of the proposals and acts ("amending …", "repealing …"); provisions can change other acts without naming them in the title, and an agreed text can differ from the proposal. OJ ~: forecast median.</text>
+<text x="8" y="1041" font-size="10" class="mu">Announced: the Commission's intention; Parliament and Council have not given their views. Data of 10 Oct 2026.</text>
+<text x="1304" y="1071" font-size="10" text-anchor="end" class="mu">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</text>
+</svg></div><details><summary>Show as a table</summary><div class="table"><table><thead><tr><th>Act</th><th>Changed in parallel by</th><th>Announced</th></tr></thead><tbody><tr><td>Decision 768/2008 – NLF Decision (common framework for products)</td><td>–</td><td class="small">European Product Act: revised and merged by the European Product Act (both structures under review)</td></tr><tr><td>Regulation 765/2008 – Accreditation and CE marking</td><td>Omnibus IV regulation (amends; provisionally agreed)</td><td class="small">European Product Act: revised and merged by the European Product Act (both structures under review)</td></tr><tr><td><a href="../acts/market-surveillance.html">Regulation 2019/1020 – Market Surveillance Regulation</a></td><td>Cyber Resilience Act (amends; in force)</td><td class="small">European Product Act: revised and merged by the European Product Act (both structures under review)</td></tr><tr><td>Regulation 1025/2012 – Standardisation Regulation</td><td>New Standardisation Regulation (repeals or replaces; proposal)</td><td class="small">European Product Act: folded into the European Product Act if it is one act; in the package of two acts, the New Standardisation Regulation replaces it</td></tr><tr><td>Directive 2009/48 – Toy safety<div class="small muted">repealed by Regulation (EU) 2025/2509 (Toy Safety Regulation)</div></td><td>Toy Safety Regulation (repeals or replaces; in force)</td><td class="small">–</td></tr><tr><td>Directive 2010/35 – Transportable pressure equipment</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2011/65 – Restriction of hazardous substances (RoHS)</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 305/2011 – Construction products<div class="small muted">replaced by Regulation (EU) 2024/3110, not followed here</div></td><td>Emergency omnibus (IMERA) (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2013/29 – Pyrotechnic articles</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2013/53 – Recreational craft and personal watercraft</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/28 – Civil explosives</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/29 – Simple pressure vessels</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/30 – Electromagnetic compatibility (EMC)</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/31 – Non-automatic weighing instruments</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/32 – Measuring instruments</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/33 – Lifts</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/34 – Equipment for explosive atmospheres (ATEX)</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/35 – Low voltage</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/53 – Radio equipment</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/68 – Pressure equipment</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2014/90 – Marine equipment</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2016/424 – Cableway installations</td><td>Omnibus IV regulation (amends; provisionally agreed)<br>Emergency omnibus (IMERA) (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2016/425 – Personal protective equipment</td><td>Omnibus IV regulation (amends; provisionally agreed)<br>Emergency omnibus (IMERA) (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2016/426 – Gas appliances</td><td>Omnibus IV regulation (amends; provisionally agreed)<br>Emergency omnibus (IMERA) (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2017/745 – Medical devices</td><td>MDR/IVDR simplification (amends; referred to committee)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2017/746 – In vitro diagnostic medical devices</td><td>MDR/IVDR simplification (amends; referred to committee)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2019/1009 – EU fertilising products</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Delegated Regulation 2019/945 – Unmanned aircraft systems (drones)</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2023/1542 – Batteries</td><td>Omnibus IV regulation (amends; provisionally agreed)<br>Public Procurement Act (amends; proposal)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td><a href="../acts/machinery-regulation.html">Regulation 2023/1230 – Machinery</a><div class="small muted">replaces Directive 2006/42/EC from 20 Jan 2027</div></td><td>Omnibus IV regulation (amends; provisionally agreed)<br>Emergency omnibus (IMERA) (amends; in force)<br>Digital Omnibus on AI (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2024/1781 – Ecodesign for sustainable products (ESPR)</td><td>Omnibus IV regulation (amends; provisionally agreed)<br>Public Procurement Act (amends; proposal)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td><a href="../acts/ai-act.html">Regulation 2024/1689 – Artificial intelligence (AI Act)</a></td><td>MDR/IVDR simplification (amends; referred to committee)<br>Digital Omnibus on AI (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td><a href="../acts/cra.html">Regulation 2024/2847 – Cyber Resilience Act</a></td><td>Public Procurement Act (amends; proposal)<br>Health Data Space (EHDS) (amends; in force)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2025/40 – Packaging and packaging waste</td><td>Public Procurement Act (amends; proposal)</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2025/2509 – Toy safety</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Regulation 2026/405 – Detergents and surfactants</td><td>–</td><td class="small">Sectoral omnibus: may be aligned with the European Product Act by the sectoral omnibus; which product laws it will change is open</td></tr><tr><td>Directive 2000/14 – Noise emission of outdoor equipment</td><td>Omnibus IV directive (amends; provisionally agreed)</td><td class="small">–</td></tr></tbody></table></div></details><div class="note"><b>What this cannot show.</b> The European Product Act and the sectoral omnibus are the Commission's intention: it has not proposed them, and Parliament and Council have not given their views. Which product laws the omnibus will change is open; it is unlikely to change all of them. Pending files can change their scope in the negotiations, and a provision can change another act without naming it in the title.</div>
+<p class="small"><a href="epa.html">Forecast for the European Product Act and its package</a> · <a href="graphics/nlf-overview.png">Drawing as PNG</a> · <a href="graphics/nlf-overview.svg">SVG</a> · <a href="graphics/nlf-overview.pdf">PDF</a></p></section>
+<p class="small muted" style="margin-top:18px">Our own assessment from public sources, <a href="https://creativecommons.org/licenses/by/4.0/" class="ext" target="_blank" rel="noopener">CC BY 4.0</a>. Data of 10 October 2026. It describes how long comparable laws took; it does not say what the institutions will decide.</p></div><div id="tip" hidden></div><script>
+const tip = document.getElementById('tip');
+document.addEventListener('pointermove', e => {
+  const t = e.target.closest && e.target.closest('[data-tip]');
+  if (!t) { tip.hidden = true; return; }
+  tip.textContent = t.getAttribute('data-tip'); tip.hidden = false;
+  const w = tip.offsetWidth;
+  tip.style.left = Math.min(e.clientX + 14, innerWidth - w - 8) + 'px'; tip.style.top = (e.clientY + 16) + 'px';
+});
+document.querySelectorAll('.toggle').forEach(g => g.addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+  document.querySelectorAll('[data-scn]').forEach(el => { el.hidden = el.dataset.scn !== b.dataset.show; });
+}));
+</script></body></html>

@@ -1,0 +1,82 @@
+{
+  "forecast-chips-act-2": {
+    "pdf": "forecast-chips-act-2.pdf",
+    "png": "forecast-chips-act-2.png",
+    "svg_sha256": "3b844c09bd5f850a6e48fb59b596e833907513601704d92abad09e46742dd4c6"
+  },
+  "forecast-cloud-ai-development-act": {
+    "pdf": "forecast-cloud-ai-development-act.pdf",
+    "png": "forecast-cloud-ai-development-act.png",
+    "svg_sha256": "2eb372ea974362ac95c8c7ef5146e08ef88c046d8ca9b0e937d85ab7785b9c03"
+  },
+  "forecast-csa2": {
+    "pdf": "forecast-csa2.pdf",
+    "png": "forecast-csa2.png",
+    "svg_sha256": "4397e20bb30ea918f935572f074b6a7b489a08cd770bbcb2639b5d4c1fa9814d"
+  },
+  "forecast-digital-omnibus": {
+    "pdf": "forecast-digital-omnibus.pdf",
+    "png": "forecast-digital-omnibus.png",
+    "svg_sha256": "eb8196abe1292812478989e678cc55a3052e798a81076f88a35917f7b6bf5814"
+  },
+  "forecast-epa": {
+    "pdf": "forecast-epa.pdf",
+    "png": "forecast-epa.png",
+    "svg_sha256": "ec179f9821de1c6b4bdc5844b8ce922cfeb055d7bb53a82a40041e07b7d291d5"
+  },
+  "forecast-epa-package": {
+    "pdf": "forecast-epa-package.pdf",
+    "png": "forecast-epa-package.png",
+    "svg_sha256": "edc9099a0bd9f8d77db1ba1f49a833948b301ba37e24248e4fac0b869c7d3165"
+  },
+  "forecast-industrial-accelerator-act": {
+    "pdf": "forecast-industrial-accelerator-act.pdf",
+    "png": "forecast-industrial-accelerator-act.png",
+    "svg_sha256": "e2fd77c98d076aec6c341568736c0e160f21f2aa8413799070cd0dae13df25c2"
+  },
+  "forecast-medical-devices-simplification": {
+    "pdf": "forecast-medical-devices-simplification.pdf",
+    "png": "forecast-medical-devices-simplification.png",
+    "svg_sha256": "65f5e337588461d9a740f794a924151b8af6f0b73762f5ef96d288ae4c7f93f3"
+  },
+  "forecast-nis2-amendment": {
+    "pdf": "forecast-nis2-amendment.pdf",
+    "png": "forecast-nis2-amendment.png",
+    "svg_sha256": "f3d9d8fa09c3a56cc1f889887ff3fbfa0ec812324a8dfaa591ab3ba7a2b519ee"
+  },
+  "forecast-overview": {
+    "pdf": "forecast-overview.pdf",
+    "png": "forecast-overview.png",
+    "svg_sha256": "9891fff506e9b5ac37b189574ab4baa24dd82c0366589b83b7914afa66f45786"
+  },
+  "forecast-product-digitalisation-directive": {
+    "pdf": "forecast-product-digitalisation-directive.pdf",
+    "png": "forecast-product-digitalisation-directive.png",
+    "svg_sha256": "9ee487d0d54e3496be7d1e38fe3115eef98114b144df15f43659c339e38579b1"
+  },
+  "forecast-product-digitalisation-regulation": {
+    "pdf": "forecast-product-digitalisation-regulation.pdf",
+    "png": "forecast-product-digitalisation-regulation.png",
+    "svg_sha256": "41901a45eb8d372b490e78a0300e6476ea7eeccd762c446c4a1fa081be9ae0ad"
+  },
+  "forecast-public-procurement-act": {
+    "pdf": "forecast-public-procurement-act.pdf",
+    "png": "forecast-public-procurement-act.png",
+    "svg_sha256": "cf6248e6c3d63b55eec2a74773e7221a4e3c3483c74775cf358d5756dc742992"
+  },
+  "forecast-space-act": {
+    "pdf": "forecast-space-act.pdf",
+    "png": "forecast-space-act.png",
+    "svg_sha256": "89b5812eac231cc008fdc2c539530b8af30cb54fb085ef690dc27155c14b4c77"
+  },
+  "forecast-standardisation-revision": {
+    "pdf": "forecast-standardisation-revision.pdf",
+    "png": "forecast-standardisation-revision.png",
+    "svg_sha256": "e668fa518d31908e609dad25234c8f94edc62bd9eddfe4b8c22b8a1a0f03c2cb"
+  },
+  "nlf-overview": {
+    "pdf": "nlf-overview.pdf",
+    "png": "nlf-overview.png",
+    "svg_sha256": "62b11b014b19c6567bb0f37dd9e1178370f7d77856f9dca01e7d377895ddf8e1"
+  }
+}
