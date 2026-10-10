@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="Helvetica, Arial, sans-serif">
+<title>Wie lange ein EU-Gesetz dauert, Phase für Phase</title>
+<rect width="1600" height="900" fill="#ffffff"/>
+<text x="40.0" y="52.0" font-size="30" fill="#222222" text-anchor="start" font-weight="bold">Wie lange ein EU-Gesetz dauert, Phase für Phase</text>
+<text x="40.0" y="82.0" font-size="15" fill="#555555" text-anchor="start">Ordentliches Gesetzgebungsverfahren, Dossiers mit Einigung in erster Lesung nach Trilog, im Amtsblatt veröffentlicht, nach Wahlperiode des Kommissionsvorschlags. Monate seit</text>
+<text x="40.0" y="101.0" font-size="15" fill="#555555" text-anchor="start">dem Vorschlag: Punkt = Median, Balken = mittlere Hälfte der Dossiers.</text>
+<text x="40.0" y="150.0" font-size="17" fill="#222222" text-anchor="start" font-weight="bold">Typischer Ablauf, Vorschläge der Wahlperiode 2019–2024: Monat, in dem jeder Schritt endet (Median, 257 Dossiers)</text>
+<rect x="40.0" y="164" width="89.1" height="44" rx="4" fill="#c9d6ea"/>
+<line x1="130.1" y1="208" x2="130.1" y2="218" stroke="#222222"/>
+<text x="130.1" y="234.0" font-size="13" fill="#222222" text-anchor="middle">1,3</text>
+<rect x="131.1" y="164" width="619.1" height="44" rx="4" fill="#8fb0dc"/>
+<text x="441.6" y="191.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Ausschussbericht</text>
+<line x1="751.1" y1="208" x2="751.1" y2="218" stroke="#222222"/>
+<text x="751.1" y="234.0" font-size="13" fill="#222222" text-anchor="middle">10,0</text>
+<rect x="752.1" y="164" width="54.0" height="44" rx="4" fill="#5f8fcf"/>
+<line x1="807.2" y1="208" x2="807.2" y2="218" stroke="#222222"/>
+<text x="807.2" y="234.0" font-size="13" fill="#222222" text-anchor="middle">10,8</text>
+<rect x="808.2" y="164" width="320.2" height="44" rx="4" fill="#2f5a9e"/>
+<text x="969.3" y="191.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Trilog</text>
+<line x1="1129.4" y1="208" x2="1129.4" y2="218" stroke="#222222"/>
+<text x="1129.4" y="234.0" font-size="13" fill="#222222" text-anchor="middle">15,3</text>
+<rect x="1130.4" y="164" width="147.4" height="44" rx="4" fill="#e2a33b"/>
+<line x1="1278.8" y1="208" x2="1278.8" y2="218" stroke="#222222"/>
+<text x="1278.8" y="234.0" font-size="13" fill="#222222" text-anchor="middle">17,4</text>
+<rect x="1279.8" y="164" width="219.8" height="44" rx="4" fill="#d0782c"/>
+<text x="1390.7" y="191.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Annahme im Rat</text>
+<line x1="1500.6" y1="208" x2="1500.6" y2="218" stroke="#222222"/>
+<text x="1500.6" y="234.0" font-size="13" fill="#222222" text-anchor="middle">20,6</text>
+<rect x="1501.6" y="164" width="56.4" height="44" rx="4" fill="#9aa0a6"/>
+<line x1="1559.0" y1="208" x2="1559.0" y2="218" stroke="#222222"/>
+<text x="1559.0" y="234.0" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">21,4</text>
+<text x="40.0" y="234.0" font-size="13" fill="#222222" text-anchor="start">0</text>
+<text x="40.0" y="258.0" font-size="13" fill="#555555" text-anchor="start">Auch kurze Phasen können den Median verschieben: Im April 2019 und 2024 stimmte das Parlament viele Dossiers vor der rechtssprachlichen Überarbeitung ab, der Rat nahm sie 3–8 Monate später an.</text>
+<line x1="330.0" y1="322" x2="330.0" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="330.0" y="784.0" font-size="13" fill="#555555" text-anchor="middle">0</text>
+<line x1="411.1" y1="322" x2="411.1" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="411.1" y="784.0" font-size="13" fill="#555555" text-anchor="middle">6</text>
+<line x1="492.2" y1="322" x2="492.2" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="492.2" y="784.0" font-size="13" fill="#555555" text-anchor="middle">12</text>
+<line x1="573.3" y1="322" x2="573.3" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="573.3" y="784.0" font-size="13" fill="#555555" text-anchor="middle">18</text>
+<line x1="654.4" y1="322" x2="654.4" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="654.4" y="784.0" font-size="13" fill="#555555" text-anchor="middle">24</text>
+<line x1="735.6" y1="322" x2="735.6" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="735.6" y="784.0" font-size="13" fill="#555555" text-anchor="middle">30</text>
+<line x1="816.7" y1="322" x2="816.7" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="816.7" y="784.0" font-size="13" fill="#555555" text-anchor="middle">36</text>
+<line x1="897.8" y1="322" x2="897.8" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="897.8" y="784.0" font-size="13" fill="#555555" text-anchor="middle">42</text>
+<line x1="978.9" y1="322" x2="978.9" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="978.9" y="784.0" font-size="13" fill="#555555" text-anchor="middle">48</text>
+<line x1="1060.0" y1="322" x2="1060.0" y2="764" stroke="#d5d8dc" stroke-width="1"/>
+<text x="1060.0" y="784.0" font-size="13" fill="#555555" text-anchor="middle">54</text>
+<text x="695.0" y="806.0" font-size="14" fill="#555555" text-anchor="middle">Monate seit dem Kommissionsvorschlag</text>
+<rect x="40" y="338" width="12" height="12" rx="2" fill="#c9d6ea"/>
+<text x="60.0" y="349.0" font-size="14" fill="#222222" text-anchor="start">1. Ende: Überweisung an Ausschuss</text>
+<line x1="335.3" y1="342" x2="349.5" y2="342" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="341.1" cy="342" r="6" fill="#9aa0a6"/>
+<text x="359.5" y="347.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">0,8</text>
+<line x1="337.3" y1="364" x2="357.1" y2="364" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="345.8" cy="364" r="6" fill="#2f5a9e"/>
+<text x="367.1" y="369.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">1,2</text>
+<rect x="40" y="400" width="12" height="12" rx="2" fill="#8fb0dc"/>
+<text x="60.0" y="411.0" font-size="14" fill="#222222" text-anchor="start">2. Ende: Ausschussbericht</text>
+<line x1="419.1" y1="404" x2="488.6" y2="404" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="445.5" cy="404" r="6" fill="#9aa0a6"/>
+<text x="498.6" y="409.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">8,5</text>
+<line x1="420.5" y1="426" x2="498.2" y2="426" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="465.7" cy="426" r="6" fill="#2f5a9e"/>
+<text x="508.2" y="431.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">10,0</text>
+<rect x="40" y="462" width="12" height="12" rx="2" fill="#5f8fcf"/>
+<text x="60.0" y="473.0" font-size="14" fill="#222222" text-anchor="start">3. Ende: Mandat im Plenum</text>
+<line x1="434.4" y1="466" x2="512.1" y2="466" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="459.0" cy="466" r="6" fill="#9aa0a6"/>
+<text x="522.1" y="471.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">9,5</text>
+<line x1="426.8" y1="488" x2="519.1" y2="488" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="476.1" cy="488" r="6" fill="#2f5a9e"/>
+<text x="529.1" y="493.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">10,8</text>
+<rect x="40" y="524" width="12" height="12" rx="2" fill="#2f5a9e"/>
+<text x="60.0" y="535.0" font-size="14" fill="#222222" text-anchor="start">4. Ende: Trilog</text>
+<line x1="463.7" y1="528" x2="626.5" y2="528" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="522.8" cy="528" r="6" fill="#9aa0a6"/>
+<text x="636.5" y="533.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">14,3</text>
+<line x1="478.1" y1="550" x2="612.5" y2="550" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="535.2" cy="550" r="6" fill="#2f5a9e"/>
+<text x="622.5" y="555.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">15,2</text>
+<rect x="40" y="586" width="12" height="12" rx="2" fill="#e2a33b"/>
+<text x="60.0" y="597.0" font-size="14" fill="#222222" text-anchor="start">5. Ende: Abstimmung im EP-Plenum</text>
+<line x1="478.3" y1="590" x2="641.8" y2="590" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="544.1" cy="590" r="6" fill="#9aa0a6"/>
+<text x="651.8" y="595.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">15,8</text>
+<line x1="491.7" y1="612" x2="640.5" y2="612" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="559.6" cy="612" r="6" fill="#2f5a9e"/>
+<text x="650.5" y="617.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">17,0</text>
+<rect x="40" y="648" width="12" height="12" rx="2" fill="#d0782c"/>
+<text x="60.0" y="659.0" font-size="14" fill="#222222" text-anchor="start">6. Ende: Annahme im Rat</text>
+<line x1="503.7" y1="652" x2="674.2" y2="652" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="565.8" cy="652" r="6" fill="#9aa0a6"/>
+<text x="684.2" y="657.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">17,4</text>
+<line x1="512.1" y1="674" x2="659.1" y2="674" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="606.3" cy="674" r="6" fill="#2f5a9e"/>
+<text x="669.1" y="679.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">20,4</text>
+<rect x="40" y="710" width="12" height="12" rx="2" fill="#9aa0a6"/>
+<text x="60.0" y="721.0" font-size="14" fill="#222222" text-anchor="start">7. Ende: Unterzeichnung, Veröffentlichung</text>
+<line x1="513.4" y1="714" x2="676.4" y2="714" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="575.6" cy="714" r="6" fill="#9aa0a6"/>
+<text x="686.4" y="719.0" font-size="12" fill="#9aa0a6" text-anchor="start" font-weight="bold">18,2</text>
+<line x1="520.1" y1="736" x2="677.0" y2="736" stroke="#2f5a9e" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="618.7" cy="736" r="6" fill="#2f5a9e"/>
+<text x="687.0" y="741.0" font-size="12" fill="#2f5a9e" text-anchor="start" font-weight="bold">21,4</text>
+<circle cx="336" cy="296" r="6" fill="#9aa0a6"/>
+<text x="348.0" y="301.0" font-size="14" fill="#222222" text-anchor="start">Vorschläge 2014–2019 (253)</text>
+<circle cx="596" cy="296" r="6" fill="#2f5a9e"/>
+<text x="608.0" y="301.0" font-size="14" fill="#222222" text-anchor="start">Vorschläge 2019–2024 (272)</text>
+<text x="1120.0" y="304.0" font-size="15" fill="#222222" text-anchor="start" font-weight="bold">Jede Phase für sich (Median in Monaten, mittlere Hälfte)</text>
+<text x="1400.0" y="326.0" font-size="13" fill="#9aa0a6" text-anchor="end" font-weight="bold">2014–2019</text>
+<text x="1540.0" y="326.0" font-size="13" fill="#2f5a9e" text-anchor="end" font-weight="bold">2019–2024</text>
+<text x="1120.0" y="348.0" font-size="14" fill="#222222" text-anchor="start">Überweisung an Ausschuss</text>
+<text x="1400.0" y="348.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">0,8</text>
+<text x="1400.0" y="366.0" font-size="12" fill="#555555" text-anchor="end">0,4–1,4</text>
+<text x="1540.0" y="348.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">1,2</text>
+<text x="1540.0" y="366.0" font-size="12" fill="#555555" text-anchor="end">0,5–2,0</text>
+<text x="1120.0" y="410.0" font-size="14" fill="#222222" text-anchor="start">Ausschussbericht</text>
+<text x="1400.0" y="410.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">7,4</text>
+<text x="1400.0" y="428.0" font-size="12" fill="#555555" text-anchor="end">5,6–10,1</text>
+<text x="1540.0" y="410.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">8,1</text>
+<text x="1540.0" y="428.0" font-size="12" fill="#555555" text-anchor="end">5,7–11,5</text>
+<text x="1120.0" y="472.0" font-size="14" fill="#222222" text-anchor="start">Mandat im Plenum</text>
+<text x="1400.0" y="472.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">0,6</text>
+<text x="1400.0" y="490.0" font-size="12" fill="#555555" text-anchor="end">0,4–0,9</text>
+<text x="1540.0" y="472.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">0,5</text>
+<text x="1540.0" y="490.0" font-size="12" fill="#555555" text-anchor="end">0,4–1,0</text>
+<text x="1120.0" y="534.0" font-size="14" fill="#222222" text-anchor="start">Trilog</text>
+<text x="1400.0" y="534.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">3,9</text>
+<text x="1400.0" y="552.0" font-size="12" fill="#555555" text-anchor="end">2,1–8,0</text>
+<text x="1540.0" y="534.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">4,3</text>
+<text x="1540.0" y="552.0" font-size="12" fill="#555555" text-anchor="end">2,7–7,1</text>
+<text x="1120.0" y="596.0" font-size="14" fill="#222222" text-anchor="start">Abstimmung im EP-Plenum</text>
+<text x="1400.0" y="596.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">1,6</text>
+<text x="1400.0" y="614.0" font-size="12" fill="#555555" text-anchor="end">0,7–2,1</text>
+<text x="1540.0" y="596.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">1,8</text>
+<text x="1540.0" y="614.0" font-size="12" fill="#555555" text-anchor="end">1,1–2,6</text>
+<text x="1120.0" y="658.0" font-size="14" fill="#222222" text-anchor="start">Annahme im Rat</text>
+<text x="1400.0" y="658.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">0,9</text>
+<text x="1400.0" y="676.0" font-size="12" fill="#555555" text-anchor="end">0,6–1,5</text>
+<text x="1540.0" y="658.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">0,7</text>
+<text x="1540.0" y="676.0" font-size="12" fill="#555555" text-anchor="end">0,5–1,2</text>
+<text x="1120.0" y="720.0" font-size="14" fill="#222222" text-anchor="start">Unterzeichnung, Veröffentlichung</text>
+<text x="1400.0" y="720.0" font-size="15" fill="#9aa0a6" text-anchor="end" font-weight="bold">0,8</text>
+<text x="1400.0" y="738.0" font-size="12" fill="#555555" text-anchor="end">0,5–1,1</text>
+<text x="1540.0" y="720.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">0,8</text>
+<text x="1540.0" y="738.0" font-size="12" fill="#555555" text-anchor="end">0,5–1,1</text>
+<text x="40.0" y="876.0" font-size="12" fill="#555555" text-anchor="start">Quelle: Legislative Observatory des EP (OEIL), Schlüsselereignisse von 1076 COD-Dossiers, vorgeschlagen 2014–2026, Stand 2026-10-10; eigene Berechnung, CC BY 4.0. Keine amtliche Statistik.</text>
+</svg>

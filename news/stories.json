@@ -1365,6 +1365,38 @@
    }
   },
   {
+   "id": "site/2026-10-10/durations-graphics",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-10",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "New: how long an EU law takes, two charts on the Graphics tab",
+   "deck": "Each phase of the procedure, and the share of proposals published after n months, from every file since 2014; in English and German, for slides.",
+   "headline_de": "Neu: Wie lange ein EU-Gesetz dauert, zwei Grafiken im Bereich Grafiken",
+   "deck_de": "Jede Phase des Verfahrens und der Anteil der Vorschläge, die nach n Monaten veröffentlicht sind, aus allen Dossiers seit 2014; auf Englisch und Deutsch, für Folien.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../graphics.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
    "id": "machinery-regulation/committee/2026-10-06",
    "kind": "committee",
    "desk": "Committees",

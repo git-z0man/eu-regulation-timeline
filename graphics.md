@@ -6,6 +6,10 @@ Every graphic of this site, collected on each build.
 
 - **Regulation timeline – Machinery builder** (Manufacturer of machinery with software, connectivity or AI functions, selling in the EU.): [png](machinery-builder.png) · [svg](machinery-builder.svg) · [pdf](machinery-builder.pdf) · [drawio](machinery-builder.drawio)
 - **Where the information comes from** (The sources, the tools that read them and what they write.): [png](sources.png) · [svg](sources.svg) · [pdf](sources.pdf) · [drawio](sources.drawio)
+- **How long an EU law takes, phase by phase** (Ordinary legislative procedure, all COD files since 2014 (EP Legislative Observatory).): [png](procedures/durations/durations-phases.png) · [svg](procedures/durations/durations-phases.svg) · [pdf](procedures/durations/durations-phases.pdf)
+- **Wie lange ein EU-Gesetz dauert, Phase für Phase** (Ordinary legislative procedure, all COD files since 2014 (EP Legislative Observatory).): [png](procedures/durations/durations-phases-de.png) · [svg](procedures/durations/durations-phases-de.svg) · [pdf](procedures/durations/durations-phases-de.pdf)
+- **Share of proposals published as law after n months** (Ordinary legislative procedure, all COD files since 2014 (EP Legislative Observatory).): [png](procedures/durations/durations-survival.png) · [svg](procedures/durations/durations-survival.svg) · [pdf](procedures/durations/durations-survival.pdf)
+- **Anteil der Vorschläge, die nach n Monaten veröffentlicht sind** (Ordinary legislative procedure, all COD files since 2014 (EP Legislative Observatory).): [png](procedures/durations/durations-survival-de.png) · [svg](procedures/durations/durations-survival-de.svg) · [pdf](procedures/durations/durations-survival-de.pdf)
 
 ## Charts per act
 
