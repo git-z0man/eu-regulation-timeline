@@ -1134,7 +1134,7 @@ All texts of this act as one file: [standardisation-regulation.zip](downloads/st
 | --- | --- | --- | --- | --- | --- | --- |
 | 2012-11-14_oj | oj | 32012R1025 | [en](standardisation-regulation/2012-11-14_oj.en.md) | [de](standardisation-regulation/2012-11-14_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-regulation/2012-11-14_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1025) |
 
-## Standardisation Regulation (new)
+## New Standardisation Regulation (NSR)
 
 `standardisation-revision` – Regulation on European standardisation (revision of Regulation 1025/2012)
 

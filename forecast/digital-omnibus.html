@@ -1,0 +1,297 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Forecast: Digital Omnibus – EU regulation timeline</title><meta name="description" content="When the Digital Omnibus is likely to be published in the Official Journal."><style>
+:root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e;
+  --chip: #eef1f6; --act: #d94841; --prepare: #e8a33d; --operate: #4f9a6a; --monitor: #4a78c2; --low: #9aa0a6; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --accent: #7aa7ff; --chip: #232a31; } }
+:root[data-theme="dark"] { --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136;
+  --accent: #7aa7ff; --chip: #232a31; }
+* { box-sizing: border-box; }
+html { scroll-padding-top: 64px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px 48px; }
+/* the site navigation at the same place as on every other page (1440px wide, 20px from the top) */
+.navwrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 0; }
+a { color: var(--accent); }
+a.ext::after { content: " ↗"; font-size: 0.85em; }
+.crumbs { font-size: 14px; color: var(--muted); margin: 4px 0 10px; }
+.crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
+h1 { font-size: 28px; line-height: 1.2; margin: 0 0 4px; } h2 { font-size: 20px; margin: 0 0 10px; }
+h3 { font-size: 16px; margin: 18px 0 6px; }
+.muted { color: var(--muted); } .small { font-size: 13px; }
+.head { display: grid; grid-template-columns: 1fr auto; gap: 12px 24px; align-items: start; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 4px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.official { font-size: 14px; }
+nav.sections { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line);
+  margin: 14px -16px 0; padding: 8px 16px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); background: var(--chip); border-radius: 999px;
+  padding: 5px 12px; font-size: 14px; }
+nav.sections a[aria-current="true"] { background: var(--accent); color: #fff; }
+section { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; margin-top: 16px; }
+.sec-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.sec-head a.more { font-size: 14px; white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; vertical-align: top; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
+.table { overflow-x: auto; }
+.next { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+.next li { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.next .date { font-weight: 600; } .next .rel { color: var(--muted); font-size: 13px; margin-left: 6px; }
+.next .kind { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+.next a { text-decoration: none; color: inherit; display: block; }
+.next a:hover .what { text-decoration: underline; }
+.tag { font-size: 12px; color: #a4302a; font-weight: 600; }
+.note { background: var(--chip); border-radius: 8px; padding: 8px 12px; font-size: 14px; margin: 8px 0; }
+details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 14px; }
+.stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
+.past { color: var(--muted); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 12px; }
+a.card-link { text-decoration: none; color: inherit; }
+.acard { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; height: 100%; }
+a.card-link:hover .acard { border-color: var(--accent); } .acard h2 { margin: 4px 0 6px; }
+section.changes { border-left: 4px solid var(--prepare); }
+section.now { border-left: 4px solid var(--accent); }
+.now-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px 28px; }
+.now h3 { margin: 10px 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.prog { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.prog li { border: 1px solid var(--line); border-left: 4px solid var(--kc); border-radius: 8px; padding: 8px 12px; }
+.prog .t { font-weight: 600; text-decoration: none; color: var(--ink); display: block; margin: 1px 0 2px; }
+.prog .t:hover { text-decoration: underline; }
+.prog .kind, .feed .kind { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.k-law { --kc: var(--prepare); } .k-std { --kc: var(--operate); } .k-com { --kc: var(--monitor); } .k-impl { --kc: var(--act); }
+.feed { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--line); }
+.feed li { position: relative; padding: 0 0 12px 16px; font-size: 14px; }
+.feed li::before { content: ""; position: absolute; left: -6px; top: 5px; width: 10px; height: 10px; border-radius: 50%;
+  background: var(--panel); border: 2px solid var(--line); }
+.feed time { font-weight: 600; margin-right: 8px; white-space: nowrap; }
+.feed .kind { display: inline-block; border-left: 3px solid var(--kc); padding-left: 6px; }
+.feed li > div a { text-decoration: none; } .feed li > div a:hover { text-decoration: underline; }
+.feed details { margin-top: 2px; }
+.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit; font-size: 14px; padding: 0; }
+.badge { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; border-radius: 999px;
+  padding: 2px 8px; vertical-align: 2px; }
+.b-pending { background: #fbe3c0; color: #7a4a00; } .b-adopted { background: #d8ecd6; color: #1f5130; }
+h3.group { font-size: 14px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 18px 0 2px; }
+.why { background: var(--chip); border-radius: 8px; padding: 8px 12px; margin: 8px 0; font-size: 14px; }
+.why p { margin: 4px 0; } .why-h { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.why ul.pts { margin: 2px 0 6px; padding-left: 20px; }
+.change { border-top: 1px solid var(--line); padding-top: 4px; margin-top: 10px; }
+h3.group + p + .change { border-top: 0; margin-top: 0; }
+.change h3 { margin-top: 8px; } .change th { width: 70px; }
+.fig { margin: 18px 0 8px; } .fig img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  border-radius: 8px; padding: 6px; margin: 8px 0; }
+.legend { list-style: none; padding: 0; margin: 6px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; }
+.legend .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--line);
+  vertical-align: -2px; margin-right: 6px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+.top { position: fixed; right: 16px; bottom: 16px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
+  padding: 6px 12px; font-size: 13px; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+@media (max-width: 800px) { .now-grid { grid-template-columns: 1fr; } }
+@media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
+  th, td { padding: 6px 8px; } }
+
+:root { --s1: #2f5a9e; --s2: #b86e12; --b80: #b8c8e3; --wall: #d94841; --wall-t: #a4302a; --hb: #fbecea; --hl: #efc4bf;
+  --chip2: #e3e8f0; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s1: #5f8ce0; --s2: #b87a1e; --b80: #33476b;
+  --wall: #ff6b6b; --wall-t: #ff8a80; --hb: #2a1d1d; --hl: #4a2b2b; --chip2: #2b333c; color-scheme: dark; } }
+:root[data-theme="dark"] { --s1: #5f8ce0; --s2: #b87a1e; --b80: #33476b; --wall: #ff6b6b; --wall-t: #ff8a80; --hb: #2a1d1d;
+  --hl: #4a2b2b; --chip2: #2b333c; color-scheme: dark; }
+[hidden] { display: none !important; }
+.lede { max-width: 72ch; }
+.verdict { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 14px 0 4px; }
+.verdict > div { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; min-width: 0; background: var(--panel); }
+.verdict .k { font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.verdict .v { font-size: 22px; font-weight: 700; line-height: 1.25; margin: 2px 0; font-variant-numeric: tabular-nums; color: var(--accent); }
+.verdict .plan .v { color: var(--wall-t); }
+.fig { overflow-x: auto; margin: 6px 0; }
+.fig svg { display: block; width: 100%; min-width: 760px; height: auto; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--muted); margin: 4px 0 8px; }
+.legend i { display: inline-block; vertical-align: -2px; margin-right: 6px; }
+.lg-50 { width: 22px; height: 12px; border-radius: 3px; background: var(--s1); }
+.lg-80 { width: 22px; height: 6px; border-radius: 3px; background: var(--b80); vertical-align: 1px !important; }
+.lg-med { width: 12px; height: 12px; border-radius: 50%; border: 3px solid var(--s1); background: var(--panel); }
+.lg-fx { width: 12px; height: 12px; border-radius: 50%; background: var(--ink); }
+.lg-pl { width: 18px; height: 8px; border: 2px solid var(--wall-t); border-bottom: 0; }
+.lg-wall { width: 22px; height: 12px; background: repeating-linear-gradient(45deg, var(--hb) 0 3px, var(--hl) 3px 5px); }
+.lg-s1 { width: 22px; height: 3px; background: var(--s1); vertical-align: 3px !important; }
+.lg-s2 { width: 22px; height: 3px; background: var(--s2); vertical-align: 3px !important; }
+svg .ink { fill: var(--ink); } svg .mu { fill: var(--muted); } svg .gr { stroke: var(--line); stroke-width: 1; }
+svg .pa { fill: var(--chip); } svg .pb { fill: var(--chip2); } svg .hb { fill: var(--hb); } svg .hl { stroke: var(--hl); }
+svg .wt, svg .pt { fill: var(--wall-t); } svg .pl { stroke: var(--wall-t); } svg .td { stroke: var(--ink); stroke-width: 1.5; }
+svg .b50 { fill: var(--s1); opacity: .85; } svg .b80 { fill: var(--b80); } svg .med { fill: var(--panel); stroke: var(--s1); }
+svg .fx { fill: var(--ink); } svg .c1 { stroke: var(--s1); } svg .c2 { stroke: var(--s2); }
+svg a text, svg .lnk a { fill: var(--accent); } svg a:hover { text-decoration: underline; }
+.toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; gap: 2px; margin: 8px 0; flex-wrap: wrap; }
+.toggle button { border: 0; background: none; color: var(--ink); font: inherit; font-size: 14px; padding: 4px 12px; border-radius: 999px; cursor: pointer; }
+.toggle button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.toggle button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.routes { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; margin: 8px 0; }
+.routes > div { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; min-width: 0; }
+.routes .p { font-size: 24px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.routes .bar { height: 6px; border-radius: 3px; background: var(--chip); margin: 6px 0; overflow: hidden; }
+.routes .bar i { display: block; height: 100%; background: var(--s1); }
+.routes .r3 .bar i { background: var(--wall); }
+.steps { list-style: none; margin: 8px 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 6px; }
+.steps li { border-top: 4px solid var(--line); padding: 6px 4px 0; font-size: 13px; }
+.steps li.done { border-color: var(--s1); }
+.steps li span { display: block; color: var(--muted); font-size: 12px; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.scen { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 10px 0; }
+#tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 13px; line-height: 1.35;
+  padding: 6px 9px; border-radius: 6px; max-width: 320px; z-index: 10; }
+</style></head><body><div class="navwrap"><style>
+.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
+  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
+.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.item:hover { background: var(--chip, #eef1f6); }
+.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
+  text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.sitenav a.repo:hover { background: var(--chip, #eef1f6); }
+@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .sitenav .brand, .sitenav a.repo span { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
+<div class="crumbs"><a href="index.html">Forecast</a> › Digital Omnibus</div>
+<h1>Digital Omnibus</h1><div class="muted">Digital Omnibus</div>
+<div class="facts"><span class="chip">referred to committee since 19 Jan 2026</span><span class="chip">2025/0360(COD)</span><span class="chip"><a href="../procedures/digital-omnibus.html">Procedure</a> · <a href="../acts/digital-omnibus.html">Act page</a></span></div>
+<section class="now"><h2>When will it be law?</h2>
+<div><div class="verdict"><div><div class="k">Official Journal, median</div><div class="v">Feb 2028</div><div class="small muted">half of the runs Oct 2027 to Sep 2028</div></div><div><div class="k">Eight in ten</div><div class="v">Jun 2027 – Sep 2030</div><div class="small muted">of the runs</div></div><div><div class="k">Before the 2029 elections</div><div class="v">83 %</div><div class="small muted">published before Parliament's last session</div></div></div><h3>Step by step</h3><div class="legend"><span><i class="lg-50"></i>half of the runs</span><span><i class="lg-80"></i>eight in ten</span><span><i class="lg-med"></i>median</span><span><i class="lg-fx"></i>step reached</span><span><i class="lg-pl"></i>Commission planning</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 462" role="img" aria-label="Forecast: Digital Omnibus" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
+<rect x="250.0" y="4" width="34.2" height="16" rx="3" class="pb" data-tip="Council Presidency: IE, Jul 2026 to Dec 2026"/>
+<text x="267.6" y="16" text-anchor="middle" font-size="11" class="mu">IE</text>
+<rect x="285.2" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: LT, Jan 2027 to Jun 2027"/>
+<text x="319.8" y="16" text-anchor="middle" font-size="11" class="mu">LT</text>
+<rect x="354.5" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: EL, Jul 2027 to Dec 2027"/>
+<text x="389.7" y="16" text-anchor="middle" font-size="11" class="mu">EL</text>
+<rect x="424.9" y="4" width="68.6" height="16" rx="3" class="pa" data-tip="Council Presidency: IT, Jan 2028 to Jun 2028"/>
+<text x="459.7" y="16" text-anchor="middle" font-size="11" class="mu">IT</text>
+<rect x="494.5" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: LV, Jul 2028 to Dec 2028"/>
+<text x="529.7" y="16" text-anchor="middle" font-size="11" class="mu">LV</text>
+<rect x="565.0" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: LU, Jan 2029 to Jun 2029"/>
+<text x="599.6" y="16" text-anchor="middle" font-size="11" class="mu">LU</text>
+<rect x="634.2" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: NL, Jul 2029 to Dec 2029"/>
+<text x="669.4" y="16" text-anchor="middle" font-size="11" class="mu">NL</text>
+<rect x="704.6" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: SK, Jan 2030 to Jun 2030"/>
+<text x="739.3" y="16" text-anchor="middle" font-size="11" class="mu">SK</text>
+<rect x="773.9" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: MT, Jul 2030 to Dec 2030"/>
+<text x="809.1" y="16" text-anchor="middle" font-size="11" class="mu">MT</text>
+<rect x="844.3" y="4" width="138.7" height="16" rx="3" class="pa" data-tip="Council Presidency: not decided, Jan 2031 to Dec 2031"/>
+<text x="914.2" y="16" text-anchor="middle" font-size="11" class="mu"></text>
+<line x1="285.2" y1="26" x2="285.2" y2="436" class="gr"/>
+<text x="289.2" y="46" font-weight="600" class="ink">2027</text>
+<line x1="424.9" y1="26" x2="424.9" y2="436" class="gr"/>
+<text x="428.9" y="46" font-weight="600" class="ink">2028</text>
+<line x1="565.0" y1="26" x2="565.0" y2="436" class="gr"/>
+<text x="569.0" y="46" font-weight="600" class="ink">2029</text>
+<line x1="704.6" y1="26" x2="704.6" y2="436" class="gr"/>
+<text x="708.6" y="46" font-weight="600" class="ink">2030</text>
+<line x1="844.3" y1="26" x2="844.3" y2="436" class="gr"/>
+<text x="848.3" y="46" font-weight="600" class="ink">2031</text>
+<rect x="606.7" y="52" width="62.8" height="384" fill="url(#hatch)" data-tip="European elections 2029: Parliament does no legislative work from its last session in April until the new committees vote again in October (assumption, as in 2024; the dates are not set yet)."/>
+<text x="610.7" y="452" font-size="12" font-weight="600" class="wt">EP elections 2029</text>
+<text x="240" y="16" text-anchor="end" font-size="11" class="mu">Council Presidency</text>
+<line x1="253.4" y1="26" x2="253.4" y2="436" class="td"/>
+<text x="257.4" y="452" font-size="11" class="mu">data of 10 Oct 2026</text>
+<text x="238" y="96.0" text-anchor="end" font-weight="600" class="ink lnk">Commission proposal</text>
+<circle cx="250.0" cy="99.0" r="6" class="fx" data-tip="Commission proposal: 19 Nov 2025"/>
+<text x="260.0" y="103.0" font-size="12" class="ink">Nov 2025</text>
+<text x="238" y="170.0" text-anchor="end" font-weight="600" class="ink lnk">EP committee vote</text>
+<rect x="258.8" y="170.0" width="119.4" height="6" rx="3" class="b80" data-tip="EP committee vote: median Jan 2027; half of the runs Nov 2026 to Mar 2027; eight in ten Oct 2026 to Sep 2027"/>
+<rect x="268.4" y="164.0" width="42.9" height="18" rx="4" class="b50" data-tip="EP committee vote: median Jan 2027; half of the runs Nov 2026 to Mar 2027; eight in ten Oct 2026 to Sep 2027"/>
+<circle cx="286.7" cy="173.0" r="7" class="med" stroke-width="3" data-tip="EP committee vote: median Jan 2027; half of the runs Nov 2026 to Mar 2027; eight in ten Oct 2026 to Sep 2027"/>
+<text x="286.7" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jan 2027</text>
+<text x="238" y="244.0" text-anchor="end" font-weight="600" class="ink lnk">Trilogues can start</text>
+<rect x="266.5" y="244.0" width="138.5" height="6" rx="3" class="b80" data-tip="Trilogues can start: median Jan 2027; half of the runs Dec 2026 to Apr 2027; eight in ten Nov 2026 to Nov 2027"/>
+<rect x="279.5" y="238.0" width="47.5" height="18" rx="4" class="b50" data-tip="Trilogues can start: median Jan 2027; half of the runs Dec 2026 to Apr 2027; eight in ten Nov 2026 to Nov 2027"/>
+<circle cx="296.3" cy="247.0" r="7" class="med" stroke-width="3" data-tip="Trilogues can start: median Jan 2027; half of the runs Dec 2026 to Apr 2027; eight in ten Nov 2026 to Nov 2027"/>
+<text x="296.3" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jan 2027</text>
+<text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">Provisional agreement</text>
+<rect x="304.3" y="318.0" width="293.5" height="6" rx="3" class="b80" data-tip="Provisional agreement: median Oct 2027; half of the runs May 2027 to Mar 2028; eight in ten Feb 2027 to Mar 2029"/>
+<rect x="341.8" y="312.0" width="116.3" height="18" rx="4" class="b50" data-tip="Provisional agreement: median Oct 2027; half of the runs May 2027 to Mar 2028; eight in ten Feb 2027 to Mar 2029"/>
+<circle cx="394.7" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Oct 2027; half of the runs May 2027 to Mar 2028; eight in ten Feb 2027 to Mar 2029"/>
+<text x="394.7" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Oct 2027</text>
+<text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
+<rect x="353.7" y="392.0" width="450.8" height="6" rx="3" class="b80" data-tip="Official Journal: median Feb 2028; half of the runs Oct 2027 to Sep 2028; eight in ten Jun 2027 to Sep 2030"/>
+<rect x="394.3" y="386.0" width="135.1" height="18" rx="4" class="b50" data-tip="Official Journal: median Feb 2028; half of the runs Oct 2027 to Sep 2028; eight in ten Jun 2027 to Sep 2030"/>
+<circle cx="447.5" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median Feb 2028; half of the runs Oct 2027 to Sep 2028; eight in ten Jun 2027 to Sep 2030"/>
+<text x="447.5" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2028</text>
+</svg></div><h3>Three routes through the 2029 elections</h3><div class="routes"><div class="r1"><div class="p">83 %</div><div class="bar"><i style="width:83%"></i></div>Published before the 2029 elections</div><div class="r2"><div class="p">9 %</div><div class="bar"><i style="width:9%"></i></div>Agreed before the elections, published after</div><div class="r3"><div class="p">8 %</div><div class="bar"><i style="width:8%"></i></div>Not agreed before the elections: continued by the new Parliament</div></div></div>
+<h3>Chance of publication by date</h3><div class="legend"><span><i class="lg-s1"></i>Official Journal</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 300" role="img" aria-label="Chance of publication in the Official Journal by date" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
+<line x1="56" y1="264.0" x2="810" y2="264.0" class="gr"/>
+<text x="48" y="268.0" text-anchor="end" class="mu">0 %</text>
+<line x1="56" y1="202.5" x2="810" y2="202.5" class="gr"/>
+<text x="48" y="206.5" text-anchor="end" class="mu">25 %</text>
+<line x1="56" y1="141.0" x2="810" y2="141.0" class="gr"/>
+<text x="48" y="145.0" text-anchor="end" class="mu">50 %</text>
+<line x1="56" y1="79.5" x2="810" y2="79.5" class="gr"/>
+<text x="48" y="83.5" text-anchor="end" class="mu">75 %</text>
+<line x1="56" y1="18.0" x2="810" y2="18.0" class="gr"/>
+<text x="48" y="22.0" text-anchor="end" class="mu">100 %</text>
+<line x1="92.2" y1="18" x2="92.2" y2="264" class="gr"/>
+<text x="96.2" y="282" class="ink" font-weight="600">2027</text>
+<line x1="235.7" y1="18" x2="235.7" y2="264" class="gr"/>
+<text x="239.7" y="282" class="ink" font-weight="600">2028</text>
+<line x1="379.5" y1="18" x2="379.5" y2="264" class="gr"/>
+<text x="383.5" y="282" class="ink" font-weight="600">2029</text>
+<line x1="523.0" y1="18" x2="523.0" y2="264" class="gr"/>
+<text x="527.0" y="282" class="ink" font-weight="600">2030</text>
+<line x1="666.5" y1="18" x2="666.5" y2="264" class="gr"/>
+<text x="670.5" y="282" class="ink" font-weight="600">2031</text>
+<rect x="422.4" y="18" width="64.5" height="246" fill="url(#hatch)"/>
+<path d="M56.0,264.0 L68.2,264.0 L80.0,263.5 L92.2,262.8 L104.4,262.8 L115.4,261.3 L127.5,258.8 L139.3,256.6 L151.5,251.9 L163.3,237.9 L175.5,226.6 L187.7,216.0 L199.5,208.7 L211.7,192.9 L223.5,177.2 L235.7,165.1 L247.8,151.6 L259.2,140.8 L271.4,126.5 L283.2,113.0 L295.4,104.8 L307.2,99.7 L319.4,91.1 L331.6,84.9 L343.4,78.0 L355.6,77.3 L367.3,72.9 L379.5,70.9 L391.7,68.9 L402.7,66.0 L414.9,62.3 L426.7,60.3 L438.9,60.3 L450.7,60.3 L462.9,60.3 L475.1,60.3 L486.9,60.3 L499.0,58.6 L510.8,57.6 L523.0,49.7 L535.2,48.8 L546.2,48.8 L558.4,47.8 L570.2,45.6 L582.4,45.6 L594.2,45.6 L606.4,42.6 L618.6,42.6 L630.3,40.4 L642.5,39.2 L654.3,39.2 L666.5,36.9 L678.7,36.9 L689.7,36.9 L701.9,32.0 L713.7,31.0 L725.9,29.8 L737.7,29.8 L749.9,29.8 L762.0,26.9 L773.8,26.9 L786.0,26.9 L797.8,26.9 L810.0,26.9" fill="none" class="c1" stroke-width="2.5"/>
+<text x="818.0" y="30.9" class="ink">Official Journal</text>
+<rect x="50.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 0 % published before Oct 2026"/>
+<rect x="86.2" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 0 % published before Jan 2027"/>
+<rect x="121.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 2 % published before Apr 2027"/>
+<rect x="157.3" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 11 % published before Jul 2027"/>
+<rect x="193.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 22 % published before Oct 2027"/>
+<rect x="229.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 40 % published before Jan 2028"/>
+<rect x="265.4" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 56 % published before Apr 2028"/>
+<rect x="301.2" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 67 % published before Jul 2028"/>
+<rect x="337.4" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 76 % published before Oct 2028"/>
+<rect x="373.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 78 % published before Jan 2029"/>
+<rect x="408.9" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 82 % published before Apr 2029"/>
+<rect x="444.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 83 % published before Jul 2029"/>
+<rect x="480.9" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 83 % published before Oct 2029"/>
+<rect x="517.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 87 % published before Jan 2030"/>
+<rect x="552.4" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 88 % published before Apr 2030"/>
+<rect x="588.2" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 89 % published before Jul 2030"/>
+<rect x="624.3" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 91 % published before Oct 2030"/>
+<rect x="660.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 92 % published before Jan 2031"/>
+<rect x="695.9" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 94 % published before Apr 2031"/>
+<rect x="731.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 95 % published before Jul 2031"/>
+<rect x="767.8" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 96 % published before Oct 2031"/>
+<rect x="804.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 96 % published before Jan 2032"/>
+</svg></div><p class="small">Published by the end of 2027: <b>40 %</b> · 2028: <b>78 %</b> · 2029: <b>87 %</b> · 2030: <b>92 %</b></p>
+<h3>Where the file stands</h3><ol class="steps">
+<li class="done">Commission proposal<span>19 Nov 2025</span></li>
+<li class="done">Referral to EP committee<span>19 Jan 2026</span></li>
+<li>EP committee vote<span>open</span></li>
+<li>Trilogues can start<span>open</span></li>
+<li>Provisional agreement<span>open</span></li>
+<li>Parliament&#x27;s vote<span>open</span></li>
+<li>Council adoption<span>open</span></li>
+<li>Official Journal<span>open</span></li>
+</ol>
+<p class="small muted">Council: mandate for negotiations of 5 Oct 2026 in our register (not used by the forecast: the Legislative Observatory has no Council steps before adoption).</p>
+<p class="small"><a href="../procedures/digital-omnibus.html">Every step and document of the procedure</a></p>
+<p class="small muted">Compared with 321 files that reached the same step and had not moved on after as long.  <a href="index.html#method">How the forecast works</a></p>
+</section>
+<p class="small muted" style="margin-top:18px">Our own assessment from public sources, <a href="https://creativecommons.org/licenses/by/4.0/" class="ext" target="_blank" rel="noopener">CC BY 4.0</a>. Data of 10 October 2026. It describes how long comparable laws took; it does not say what the institutions will decide.</p></div><div id="tip" hidden></div><script>
+const tip = document.getElementById('tip');
+document.addEventListener('pointermove', e => {
+  const t = e.target.closest && e.target.closest('[data-tip]');
+  if (!t) { tip.hidden = true; return; }
+  tip.textContent = t.getAttribute('data-tip'); tip.hidden = false;
+  const w = tip.offsetWidth;
+  tip.style.left = Math.min(e.clientX + 14, innerWidth - w - 8) + 'px'; tip.style.top = (e.clientY + 16) + 'px';
+});
+document.querySelectorAll('.toggle').forEach(g => g.addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+  document.querySelectorAll('[data-scn]').forEach(el => { el.hidden = el.dataset.scn !== b.dataset.scn; });
+}));
+</script></body></html>

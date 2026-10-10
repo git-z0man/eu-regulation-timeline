@@ -7,8 +7,8 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "Standardisation Regulation (new)",
-   "kicker_de": "Normungs-VO (neu)",
+   "kicker": "New Standardisation Regulation (NSR)",
+   "kicker_de": "Neue Normungsverordnung (NSR)",
    "headline": "Commission proposes a new Standardisation Regulation",
    "deck": "COM(2026) 780 would replace Regulation (EU) No 1025/2012: deadlines for every standardisation request, interim deliverables with a presumption of conformity, designated standards bodies besides CEN, CENELEC and ETSI when they are late, and free online access to every cited standard.",
    "headline_de": "Kommission schlägt neue Normungsverordnung vor",
@@ -42,11 +42,11 @@
    "score": 107,
    "crumbs": {
     "en": [
-     "Standardisation Regulation (new)",
+     "New Standardisation Regulation (NSR)",
      "Legislation"
     ],
     "de": [
-     "Normungs-VO (neu)",
+     "Neue Normungsverordnung (NSR)",
      "Gesetzgebung"
     ]
    }
@@ -194,8 +194,8 @@
    "desk": "Analysis",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "Standardisation Regulation (new)",
-   "kicker_de": "Normungs-VO (neu)",
+   "kicker": "New Standardisation Regulation (NSR)",
+   "kicker_de": "Neue Normungsverordnung (NSR)",
    "headline": "New topic page: New Standardisation Regulation – routes to presumption of conformity",
    "deck": "On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.",
    "headline_de": "Neue Themenseite: Neue Normungsverordnung – Wege zur Konformitätsvermutung",
@@ -219,11 +219,11 @@
    "score": 57,
    "crumbs": {
     "en": [
-     "Standardisation Regulation (new)",
+     "New Standardisation Regulation (NSR)",
      "Analysis"
     ],
     "de": [
-     "Normungs-VO (neu)",
+     "Neue Normungsverordnung (NSR)",
      "Analyse"
     ]
    }
@@ -395,11 +395,11 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "Standardisation Regulation (new)",
-   "kicker_de": "Normungs-VO (neu)",
-   "headline": "Standardisation Regulation (new): Commission proposal (Art. 294(2) TFEU)",
+   "kicker": "New Standardisation Regulation (NSR)",
+   "kicker_de": "Neue Normungsverordnung (NSR)",
+   "headline": "New Standardisation Regulation (NSR): Commission proposal (Art. 294(2) TFEU)",
    "deck": "European Commission.",
-   "headline_de": "Normungs-VO (neu): neuer Schritt im Verfahren",
+   "headline_de": "Neue Normungsverordnung (NSR): neuer Schritt im Verfahren",
    "deck_de": "Europäische Kommission (im Original): Commission proposal (Art. 294(2) TFEU)",
    "facts": [],
    "facts_de": [],
@@ -418,11 +418,11 @@
    "score": 47,
    "crumbs": {
     "en": [
-     "Standardisation Regulation (new)",
+     "New Standardisation Regulation (NSR)",
      "Legislation"
     ],
     "de": [
-     "Normungs-VO (neu)",
+     "Neue Normungsverordnung (NSR)",
      "Gesetzgebung"
     ]
    }
@@ -1663,6 +1663,7 @@
     "epa",
     "gpsr",
     "machinery-regulation",
+    "market-surveillance",
     "pld",
     "product-digitalisation-regulation",
     "standardisation-regulation",

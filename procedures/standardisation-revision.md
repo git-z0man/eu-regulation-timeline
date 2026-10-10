@@ -1,4 +1,4 @@
-# Legislative procedure – Standardisation Regulation (new) – COM(2026) 780 (proposal)
+# Legislative procedure – New Standardisation Regulation (NSR) – COM(2026) 780 (proposal)
 
 Procedure 2026/0307(COD), as of 09 Oct 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
