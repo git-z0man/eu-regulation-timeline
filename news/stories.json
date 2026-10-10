@@ -7,8 +7,8 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "New Standardisation Regulation (NSR)",
-   "kicker_de": "Neue Normungsverordnung (NSR)",
+   "kicker": "NSR",
+   "kicker_de": "NSR",
    "headline": "Commission proposes a new Standardisation Regulation",
    "deck": "COM(2026) 780 would replace Regulation (EU) No 1025/2012: deadlines for every standardisation request, interim deliverables with a presumption of conformity, designated standards bodies besides CEN, CENELEC and ETSI when they are late, and free online access to every cited standard.",
    "headline_de": "Kommission schlägt neue Normungsverordnung vor",
@@ -42,11 +42,11 @@
    "score": 107,
    "crumbs": {
     "en": [
-     "New Standardisation Regulation (NSR)",
+     "NSR",
      "Legislation"
     ],
     "de": [
-     "Neue Normungsverordnung (NSR)",
+     "NSR",
      "Gesetzgebung"
     ]
    }
@@ -194,8 +194,8 @@
    "desk": "Analysis",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "New Standardisation Regulation (NSR)",
-   "kicker_de": "Neue Normungsverordnung (NSR)",
+   "kicker": "NSR",
+   "kicker_de": "NSR",
    "headline": "New topic page: New Standardisation Regulation – routes to presumption of conformity",
    "deck": "On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.",
    "headline_de": "Neue Themenseite: Neue Normungsverordnung – Wege zur Konformitätsvermutung",
@@ -219,11 +219,11 @@
    "score": 57,
    "crumbs": {
     "en": [
-     "New Standardisation Regulation (NSR)",
+     "NSR",
      "Analysis"
     ],
     "de": [
-     "Neue Normungsverordnung (NSR)",
+     "NSR",
      "Analyse"
     ]
    }
@@ -395,11 +395,11 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "New Standardisation Regulation (NSR)",
-   "kicker_de": "Neue Normungsverordnung (NSR)",
-   "headline": "New Standardisation Regulation (NSR): Commission proposal (Art. 294(2) TFEU)",
+   "kicker": "NSR",
+   "kicker_de": "NSR",
+   "headline": "NSR: Commission proposal (Art. 294(2) TFEU)",
    "deck": "European Commission.",
-   "headline_de": "Neue Normungsverordnung (NSR): neuer Schritt im Verfahren",
+   "headline_de": "NSR: neuer Schritt im Verfahren",
    "deck_de": "Europäische Kommission (im Original): Commission proposal (Art. 294(2) TFEU)",
    "facts": [],
    "facts_de": [],
@@ -418,11 +418,11 @@
    "score": 47,
    "crumbs": {
     "en": [
-     "New Standardisation Regulation (NSR)",
+     "NSR",
      "Legislation"
     ],
     "de": [
-     "Neue Normungsverordnung (NSR)",
+     "NSR",
      "Gesetzgebung"
     ]
    }
@@ -1365,6 +1365,38 @@
    }
   },
   {
+   "id": "site/2026-10-10/about-credit",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-10",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "New: an About page, and how to credit the graphics when you reuse them",
+   "deck": "A private spare-time project by Steffen Zimmermann. Everything stays free under CC BY 4.0; every graphic now carries a short credit line.",
+   "headline_de": "Neu: eine About-Seite und wie man die Grafiken bei der Weiterverwendung nennt",
+   "deck_de": "Ein privates Freizeitprojekt von Steffen Zimmermann. Alles bleibt frei unter CC BY 4.0; jede Grafik trägt jetzt eine kurze Quellenzeile.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../about.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
    "id": "site/2026-10-10/durations-graphics",
    "kind": "site",
    "desk": "On this site",
@@ -1382,6 +1414,38 @@
     [
      "Open",
      "../graphics.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
+   "id": "site/2026-10-10/forecast-tab",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-10",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "New: the Forecast tab, when open EU procedures are likely to become law",
+   "deck": "For every open procedure and the announced European Product Act, measured against how long comparable laws took and the 2029 elections.",
+   "headline_de": "Neu: der Bereich Forecast, wann laufende EU-Verfahren voraussichtlich Gesetz werden",
+   "deck_de": "Für jedes laufende Verfahren und den angekündigten European Product Act, gemessen daran, wie lange vergleichbare Gesetze brauchten, und an der Europawahl 2029.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../forecast/index.html"
     ]
    ],
    "items": [],

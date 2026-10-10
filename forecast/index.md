@@ -14,9 +14,9 @@ When the open procedures are likely to reach the Official Journal. Data of 2026-
 | [EU Space Act](space-act.html) | referred to committee since 8 Sep 2025 | Mar 2028 | Nov 2027 – Feb 2029 | Aug 2027 – Nov 2030 | 77 % |
 | [Chips Act 2.0](chips-act-2.html) | referred to committee since 14 Sep 2026 | May 2028 | Oct 2027 – Jan 2029 | Jun 2027 – Apr 2030 | 83 % |
 | [Cloud and AI Development Act](cloud-ai-development-act.html) | referred to committee since 17 Sep 2026 | May 2028 | Oct 2027 – Jan 2029 | Jun 2027 – Apr 2030 | 83 % |
-| [New Standardisation Regulation (NSR)](standardisation-revision.html) | proposal since 6 Oct 2026 | Jul 2028 | Dec 2027 – Mar 2029 | Jul 2027 – Aug 2030 | 78 % |
+| [New Standardisation Regulation](standardisation-revision.html) | proposal since 6 Oct 2026 | Jul 2028 | Dec 2027 – Mar 2029 | Jul 2027 – Aug 2030 | 78 % |
 | [Public Procurement Act](public-procurement-act.html) | proposal since 9 Sep 2026 | Aug 2028 | Jan 2028 – Feb 2029 | Aug 2027 – Sep 2030 | 80 % |
-| [European Product Act](epa.html) | not proposed yet; proposal assumed Dec 2026 | Sep 2028 | Feb 2028 – Nov 2029 | Sep 2027 – Oct 2030 | 70 % |
+| [European Product Act](epa.html) | proposal assumed Dec 2026 | Sep 2028 | Feb 2028 – Nov 2029 | Sep 2027 – Oct 2030 | 70 % |
 
 ## European Product Act: scenarios
 

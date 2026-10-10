@@ -388,6 +388,7 @@
       "act": "chips-act-2",
       "short": "Chips Act 2.0",
       "title": "Chips Act 2.0",
+      "official_title": "Proposal for a Regulation on a framework of measures for strengthening the Union's semiconductor ecosystem, repealing Regulation (EU) 2023/1781 (Chips Act 2.0)",
       "procedure": "2026/0139(COD)",
       "status": "proposal",
       "note": null,
@@ -776,6 +777,7 @@
       "act": "cloud-ai-development-act",
       "short": "CADA",
       "title": "Cloud and AI Development Act",
+      "official_title": "Proposal for a Regulation establishing a framework of measures for strengthening Europe's cloud and AI ecosystem (Cloud and AI Development Act)",
       "procedure": "2026/0138(COD)",
       "status": "proposal",
       "note": null,
@@ -1164,6 +1166,7 @@
       "act": "csa2",
       "short": "CSA2",
       "title": "Cybersecurity Act 2",
+      "official_title": "Proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881",
       "procedure": "2026/0011(COD)",
       "status": "proposal",
       "note": null,
@@ -1552,6 +1555,7 @@
       "act": "digital-omnibus",
       "short": "Digital Omnibus",
       "title": "Digital Omnibus",
+      "official_title": "Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework",
       "procedure": "2025/0360(COD)",
       "status": "proposal",
       "note": null,
@@ -1946,6 +1950,7 @@
       "act": "epa",
       "short": "EPA",
       "title": "European Product Act",
+      "official_title": null,
       "procedure": null,
       "status": "announced",
       "note": "Not proposed yet. The forecast assumes the proposal in mid-December 2026, within the \"later in 2026\" the Commission announced.",
@@ -2334,6 +2339,7 @@
       "act": "industrial-accelerator-act",
       "short": "IAA",
       "title": "Industrial Accelerator Act",
+      "official_title": "Proposal for a Regulation establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors",
       "procedure": "2026/0068(COD)",
       "status": "proposal",
       "note": null,
@@ -2722,6 +2728,7 @@
       "act": "medical-devices-simplification",
       "short": "MDR/IVDR simplification",
       "title": "Simplification of the medical devices rules",
+      "official_title": "Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices",
       "procedure": "2025/0404(COD)",
       "status": "proposal",
       "note": null,
@@ -3110,6 +3117,7 @@
       "act": "nis2-amendment",
       "short": "NIS-2 amendment",
       "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+      "official_title": "Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the Cybersecurity Act 2",
       "procedure": "2026/0012(COD)",
       "status": "proposal",
       "note": null,
@@ -3480,6 +3488,7 @@
       "act": "product-digitalisation-directive",
       "short": "Omnibus IV – Digitalisation and common specifications (Directive)",
       "title": "Digitalisation and common specifications in product legislation (Directive)",
+      "official_title": "Proposal for a Directive amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU as regards digitalisation and common specifications",
       "procedure": "2025/0133(COD)",
       "status": "proposal",
       "note": null,
@@ -3850,6 +3859,7 @@
       "act": "product-digitalisation-regulation",
       "short": "Omnibus IV – Digitalisation and common specifications (Regulation)",
       "title": "Digitalisation and common specifications in product legislation (Regulation)",
+      "official_title": "Proposal for a Regulation amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications",
       "procedure": "2025/0134(COD)",
       "status": "proposal",
       "note": null,
@@ -4244,6 +4254,7 @@
       "act": "public-procurement-act",
       "short": "PPA",
       "title": "Public Procurement Act",
+      "official_title": "Proposal for a Regulation on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU",
       "procedure": "2026/0265(COD)",
       "status": "proposal",
       "note": null,
@@ -4632,6 +4643,7 @@
       "act": "space-act",
       "short": "EU Space Act",
       "title": "EU Space Act",
+      "official_title": "Proposal for a Regulation on the safety, resilience and sustainability of space activities in the Union",
       "procedure": "2025/0335(COD)",
       "status": "proposal",
       "note": null,
@@ -5040,8 +5052,9 @@
         }
       ],
       "act": "standardisation-revision",
-      "short": "New Standardisation Regulation (NSR)",
-      "title": "Regulation on European standardisation (revision of Regulation 1025/2012)",
+      "short": "NSR",
+      "title": "New Standardisation Regulation",
+      "official_title": "Proposal for a Regulation on European standardisation, repealing Regulation (EU) No 1025/2012",
       "procedure": "2026/0307(COD)",
       "status": "proposal",
       "note": null,
@@ -5068,7 +5081,313 @@
           "2029": 0.802,
           "2030": 0.92
         },
-        "before_break": 0.705
+        "before_break": 0.705,
+        "cdf": [
+          [
+            "2026-10-01",
+            0.0
+          ],
+          [
+            "2026-11-01",
+            0.0
+          ],
+          [
+            "2026-12-01",
+            0.0
+          ],
+          [
+            "2027-01-01",
+            0.0
+          ],
+          [
+            "2027-02-01",
+            0.002
+          ],
+          [
+            "2027-03-01",
+            0.007
+          ],
+          [
+            "2027-04-01",
+            0.019
+          ],
+          [
+            "2027-05-01",
+            0.022
+          ],
+          [
+            "2027-06-01",
+            0.032
+          ],
+          [
+            "2027-07-01",
+            0.042
+          ],
+          [
+            "2027-08-01",
+            0.053
+          ],
+          [
+            "2027-09-01",
+            0.075
+          ],
+          [
+            "2027-10-01",
+            0.104
+          ],
+          [
+            "2027-11-01",
+            0.119
+          ],
+          [
+            "2027-12-01",
+            0.145
+          ],
+          [
+            "2028-01-01",
+            0.186
+          ],
+          [
+            "2028-02-01",
+            0.236
+          ],
+          [
+            "2028-03-01",
+            0.259
+          ],
+          [
+            "2028-04-01",
+            0.284
+          ],
+          [
+            "2028-05-01",
+            0.32
+          ],
+          [
+            "2028-06-01",
+            0.351
+          ],
+          [
+            "2028-07-01",
+            0.397
+          ],
+          [
+            "2028-08-01",
+            0.443
+          ],
+          [
+            "2028-09-01",
+            0.474
+          ],
+          [
+            "2028-10-01",
+            0.504
+          ],
+          [
+            "2028-11-01",
+            0.556
+          ],
+          [
+            "2028-12-01",
+            0.584
+          ],
+          [
+            "2029-01-01",
+            0.612
+          ],
+          [
+            "2029-02-01",
+            0.65
+          ],
+          [
+            "2029-03-01",
+            0.673
+          ],
+          [
+            "2029-04-01",
+            0.694
+          ],
+          [
+            "2029-05-01",
+            0.705
+          ],
+          [
+            "2029-06-01",
+            0.705
+          ],
+          [
+            "2029-07-01",
+            0.705
+          ],
+          [
+            "2029-08-01",
+            0.705
+          ],
+          [
+            "2029-09-01",
+            0.705
+          ],
+          [
+            "2029-10-01",
+            0.705
+          ],
+          [
+            "2029-11-01",
+            0.74
+          ],
+          [
+            "2029-12-01",
+            0.772
+          ],
+          [
+            "2030-01-01",
+            0.802
+          ],
+          [
+            "2030-02-01",
+            0.822
+          ],
+          [
+            "2030-03-01",
+            0.842
+          ],
+          [
+            "2030-04-01",
+            0.853
+          ],
+          [
+            "2030-05-01",
+            0.864
+          ],
+          [
+            "2030-06-01",
+            0.868
+          ],
+          [
+            "2030-07-01",
+            0.879
+          ],
+          [
+            "2030-08-01",
+            0.885
+          ],
+          [
+            "2030-09-01",
+            0.89
+          ],
+          [
+            "2030-10-01",
+            0.895
+          ],
+          [
+            "2030-11-01",
+            0.903
+          ],
+          [
+            "2030-12-01",
+            0.912
+          ],
+          [
+            "2031-01-01",
+            0.92
+          ],
+          [
+            "2031-02-01",
+            0.921
+          ],
+          [
+            "2031-03-01",
+            0.928
+          ],
+          [
+            "2031-04-01",
+            0.935
+          ],
+          [
+            "2031-05-01",
+            0.935
+          ],
+          [
+            "2031-06-01",
+            0.936
+          ],
+          [
+            "2031-07-01",
+            0.936
+          ],
+          [
+            "2031-08-01",
+            0.94
+          ],
+          [
+            "2031-09-01",
+            0.942
+          ],
+          [
+            "2031-10-01",
+            0.946
+          ],
+          [
+            "2031-11-01",
+            0.946
+          ],
+          [
+            "2031-12-01",
+            0.948
+          ],
+          [
+            "2032-01-01",
+            0.951
+          ],
+          [
+            "2032-02-01",
+            0.951
+          ],
+          [
+            "2032-03-01",
+            0.952
+          ],
+          [
+            "2032-04-01",
+            0.956
+          ],
+          [
+            "2032-05-01",
+            0.958
+          ],
+          [
+            "2032-06-01",
+            0.961
+          ],
+          [
+            "2032-07-01",
+            0.961
+          ],
+          [
+            "2032-08-01",
+            0.963
+          ],
+          [
+            "2032-09-01",
+            0.966
+          ],
+          [
+            "2032-10-01",
+            0.966
+          ],
+          [
+            "2032-11-01",
+            0.967
+          ],
+          [
+            "2032-12-01",
+            0.967
+          ],
+          [
+            "2033-01-01",
+            0.967
+          ]
+        ]
       },
       {
         "id": "two-acts",
@@ -5090,9 +5409,551 @@
           "2029": 0.672,
           "2030": 0.851
         },
-        "before_break": 0.543
+        "before_break": 0.543,
+        "cdf": [
+          [
+            "2026-10-01",
+            0.0
+          ],
+          [
+            "2026-11-01",
+            0.0
+          ],
+          [
+            "2026-12-01",
+            0.0
+          ],
+          [
+            "2027-01-01",
+            0.0
+          ],
+          [
+            "2027-02-01",
+            0.0
+          ],
+          [
+            "2027-03-01",
+            0.0
+          ],
+          [
+            "2027-04-01",
+            0.001
+          ],
+          [
+            "2027-05-01",
+            0.001
+          ],
+          [
+            "2027-06-01",
+            0.002
+          ],
+          [
+            "2027-07-01",
+            0.004
+          ],
+          [
+            "2027-08-01",
+            0.008
+          ],
+          [
+            "2027-09-01",
+            0.013
+          ],
+          [
+            "2027-10-01",
+            0.02
+          ],
+          [
+            "2027-11-01",
+            0.028
+          ],
+          [
+            "2027-12-01",
+            0.042
+          ],
+          [
+            "2028-01-01",
+            0.056
+          ],
+          [
+            "2028-02-01",
+            0.076
+          ],
+          [
+            "2028-03-01",
+            0.091
+          ],
+          [
+            "2028-04-01",
+            0.107
+          ],
+          [
+            "2028-05-01",
+            0.131
+          ],
+          [
+            "2028-06-01",
+            0.159
+          ],
+          [
+            "2028-07-01",
+            0.192
+          ],
+          [
+            "2028-08-01",
+            0.233
+          ],
+          [
+            "2028-09-01",
+            0.268
+          ],
+          [
+            "2028-10-01",
+            0.299
+          ],
+          [
+            "2028-11-01",
+            0.353
+          ],
+          [
+            "2028-12-01",
+            0.373
+          ],
+          [
+            "2029-01-01",
+            0.402
+          ],
+          [
+            "2029-02-01",
+            0.445
+          ],
+          [
+            "2029-03-01",
+            0.478
+          ],
+          [
+            "2029-04-01",
+            0.52
+          ],
+          [
+            "2029-05-01",
+            0.543
+          ],
+          [
+            "2029-06-01",
+            0.543
+          ],
+          [
+            "2029-07-01",
+            0.543
+          ],
+          [
+            "2029-08-01",
+            0.543
+          ],
+          [
+            "2029-09-01",
+            0.543
+          ],
+          [
+            "2029-10-01",
+            0.543
+          ],
+          [
+            "2029-11-01",
+            0.586
+          ],
+          [
+            "2029-12-01",
+            0.63
+          ],
+          [
+            "2030-01-01",
+            0.672
+          ],
+          [
+            "2030-02-01",
+            0.7
+          ],
+          [
+            "2030-03-01",
+            0.723
+          ],
+          [
+            "2030-04-01",
+            0.733
+          ],
+          [
+            "2030-05-01",
+            0.755
+          ],
+          [
+            "2030-06-01",
+            0.766
+          ],
+          [
+            "2030-07-01",
+            0.778
+          ],
+          [
+            "2030-08-01",
+            0.793
+          ],
+          [
+            "2030-09-01",
+            0.806
+          ],
+          [
+            "2030-10-01",
+            0.813
+          ],
+          [
+            "2030-11-01",
+            0.828
+          ],
+          [
+            "2030-12-01",
+            0.839
+          ],
+          [
+            "2031-01-01",
+            0.851
+          ],
+          [
+            "2031-02-01",
+            0.858
+          ],
+          [
+            "2031-03-01",
+            0.865
+          ],
+          [
+            "2031-04-01",
+            0.873
+          ],
+          [
+            "2031-05-01",
+            0.873
+          ],
+          [
+            "2031-06-01",
+            0.876
+          ],
+          [
+            "2031-07-01",
+            0.88
+          ],
+          [
+            "2031-08-01",
+            0.887
+          ],
+          [
+            "2031-09-01",
+            0.889
+          ],
+          [
+            "2031-10-01",
+            0.897
+          ],
+          [
+            "2031-11-01",
+            0.898
+          ],
+          [
+            "2031-12-01",
+            0.9
+          ],
+          [
+            "2032-01-01",
+            0.904
+          ],
+          [
+            "2032-02-01",
+            0.909
+          ],
+          [
+            "2032-03-01",
+            0.915
+          ],
+          [
+            "2032-04-01",
+            0.918
+          ],
+          [
+            "2032-05-01",
+            0.923
+          ],
+          [
+            "2032-06-01",
+            0.928
+          ],
+          [
+            "2032-07-01",
+            0.931
+          ],
+          [
+            "2032-08-01",
+            0.932
+          ],
+          [
+            "2032-09-01",
+            0.937
+          ],
+          [
+            "2032-10-01",
+            0.937
+          ],
+          [
+            "2032-11-01",
+            0.939
+          ],
+          [
+            "2032-12-01",
+            0.939
+          ],
+          [
+            "2033-01-01",
+            0.939
+          ]
+        ]
       }
     ]
+  },
+  "companions": {
+    "epa": {
+      "items": [
+        {
+          "id": "sectoral-omnibus",
+          "label": "Sectoral alignment omnibus",
+          "text": "Changes to the sector laws, such as the Machinery Regulation, that align them with the European Product Act. The Commission intends to propose them together with it, so the forecast assumes the same day. Which of the product laws it will change is open, and Parliament and Council have not yet given their views.",
+          "proposal": "2026-12-16",
+          "oj": {
+            "0.1": "2027-10-11",
+            "0.25": "2028-02-16",
+            "0.5": "2028-10-05",
+            "0.75": "2029-11-25",
+            "0.9": "2030-11-06"
+          },
+          "before_break": 0.692
+        }
+      ],
+      "with": [
+        "standardisation-revision"
+      ],
+      "all": {
+        "0.1": "2028-07-23",
+        "0.25": "2029-01-05",
+        "0.5": "2029-12-10",
+        "0.75": "2030-11-06",
+        "0.9": "2032-08-11"
+      },
+      "all_before_break": 0.374
+    }
+  },
+  "history": {
+    "acts": [
+      {
+        "act": "digital-omnibus-ai",
+        "short": "Digital Omnibus on AI",
+        "title": "Digital Omnibus on AI",
+        "proposal": "2025-11-19",
+        "agreement": "2026-06-02",
+        "oj": "2026-07-24",
+        "route": "first",
+        "months": 8.1,
+        "crossed": false
+      },
+      {
+        "act": "standardisation-amendment-2022",
+        "short": "Reg. 2022/2480",
+        "title": "Amendment of the Standardisation Regulation (decisions of the ESOs)",
+        "proposal": "2022-02-02",
+        "agreement": "2022-10-27",
+        "oj": "2022-12-19",
+        "route": "first",
+        "months": 10.5,
+        "crossed": false
+      },
+      {
+        "act": "nzia",
+        "short": "NZIA",
+        "title": "Net Zero Industry Act",
+        "proposal": "2023-03-14",
+        "agreement": "2024-02-22",
+        "oj": "2024-06-28",
+        "route": "first",
+        "months": 15.5,
+        "crossed": true
+      },
+      {
+        "act": "market-surveillance",
+        "short": "MSR",
+        "title": "Market Surveillance Regulation",
+        "proposal": "2017-12-19",
+        "agreement": "2019-02-21",
+        "oj": "2019-06-25",
+        "route": "first",
+        "months": 18.2,
+        "crossed": true
+      },
+      {
+        "act": "csa",
+        "short": "CSA",
+        "title": "Cybersecurity Act",
+        "proposal": "2017-09-13",
+        "agreement": "2019-01-14",
+        "oj": "2019-06-07",
+        "route": "first",
+        "months": 20.8,
+        "crossed": true
+      },
+      {
+        "act": "csa-managed-security-services",
+        "short": "CSA amendment 2025/37",
+        "title": "Cybersecurity Act amendment on managed security services",
+        "proposal": "2023-04-18",
+        "agreement": "2024-03-20",
+        "oj": "2025-01-15",
+        "route": "first",
+        "months": 21.0,
+        "crossed": true
+      },
+      {
+        "act": "cyber-solidarity-act",
+        "short": "CSOA",
+        "title": "Cyber Solidarity Act",
+        "proposal": "2023-04-18",
+        "agreement": "2024-03-20",
+        "oj": "2025-01-15",
+        "route": "first",
+        "months": 21.0,
+        "crossed": true
+      },
+      {
+        "act": "gpsr",
+        "short": "GPSR",
+        "title": "General Product Safety Regulation",
+        "proposal": "2021-06-30",
+        "agreement": "2023-01-24",
+        "oj": "2023-05-23",
+        "route": "first",
+        "months": 22.7,
+        "crossed": false
+      },
+      {
+        "act": "nis2",
+        "short": "NIS-2",
+        "title": "NIS 2 Directive",
+        "proposal": "2020-12-16",
+        "agreement": "2022-07-13",
+        "oj": "2022-12-27",
+        "route": "first",
+        "months": 24.3,
+        "crossed": false
+      },
+      {
+        "act": "imera",
+        "short": "IMERA",
+        "title": "Internal Market Emergency and Resilience Act",
+        "proposal": "2022-09-19",
+        "agreement": "2024-02-22",
+        "oj": "2024-11-08",
+        "route": "first",
+        "months": 25.7,
+        "crossed": true
+      },
+      {
+        "act": "internal-market-emergency-omnibus",
+        "short": "IMERA omnibus",
+        "title": "Internal market emergency omnibus",
+        "proposal": "2022-09-19",
+        "agreement": "2024-02-22",
+        "oj": "2024-11-08",
+        "route": "first",
+        "months": 25.7,
+        "crossed": true
+      },
+      {
+        "act": "pld",
+        "short": "PLD",
+        "title": "Product Liability Directive",
+        "proposal": "2022-09-28",
+        "agreement": "2024-02-22",
+        "oj": "2024-11-18",
+        "route": "first",
+        "months": 25.7,
+        "crossed": true
+      },
+      {
+        "act": "cra",
+        "short": "CRA",
+        "title": "Cyber Resilience Act",
+        "proposal": "2022-09-15",
+        "agreement": "2024-01-23",
+        "oj": "2024-11-20",
+        "route": "first",
+        "months": 26.2,
+        "crossed": true
+      },
+      {
+        "act": "machinery-regulation",
+        "short": "MR",
+        "title": "Machinery Regulation",
+        "proposal": "2021-04-21",
+        "agreement": "2023-03-02",
+        "oj": "2023-06-29",
+        "route": "first",
+        "months": 26.2,
+        "crossed": false
+      },
+      {
+        "act": "espr",
+        "short": "ESPR",
+        "title": "Ecodesign for Sustainable Products Regulation",
+        "proposal": "2022-03-30",
+        "agreement": "2024-01-11",
+        "oj": "2024-06-28",
+        "route": "first",
+        "months": 27.0,
+        "crossed": true
+      },
+      {
+        "act": "toy-safety-regulation",
+        "short": "TSR",
+        "title": "Toy Safety Regulation",
+        "proposal": "2023-07-28",
+        "agreement": null,
+        "oj": "2025-12-12",
+        "route": "second",
+        "months": 28.5,
+        "crossed": true
+      },
+      {
+        "act": "ehds",
+        "short": "EHDS",
+        "title": "European Health Data Space Regulation",
+        "proposal": "2022-05-03",
+        "agreement": "2024-04-09",
+        "oj": "2025-03-05",
+        "route": "first",
+        "months": 34.1,
+        "crossed": true
+      },
+      {
+        "act": "ai-act",
+        "short": "AI Act",
+        "title": "Artificial Intelligence Act",
+        "proposal": "2021-04-21",
+        "agreement": "2024-02-13",
+        "oj": "2024-07-12",
+        "route": "first",
+        "months": 38.7,
+        "crossed": true
+      }
+    ],
+    "median_all": 22.3,
+    "n_all": 729,
+    "within_14": 0.221
   },
   "reference_files": 906,
   "backtest": {

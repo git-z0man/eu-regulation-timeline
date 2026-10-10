@@ -115,12 +115,18 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 .lg-pl { width: 18px; height: 8px; border: 2px solid var(--wall-t); border-bottom: 0; }
 .lg-wall { width: 22px; height: 12px; background: repeating-linear-gradient(45deg, var(--hb) 0 3px, var(--hl) 3px 5px); }
 .lg-s1 { width: 22px; height: 3px; background: var(--s1); vertical-align: 3px !important; }
+.lg-dn { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-de { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--s1); background: var(--panel); }
+svg .ax { stroke: var(--muted); stroke-width: 1; } svg .dn { fill: var(--s1); stroke: var(--panel); }
+svg .de { fill: var(--panel); stroke: var(--s1); }
+.fig.img img { display: block; width: 100%; min-width: 760px; height: auto; background: #fff; border-radius: 8px; }
 .lg-s2 { width: 22px; height: 3px; background: var(--s2); vertical-align: 3px !important; }
 svg .ink { fill: var(--ink); } svg .mu { fill: var(--muted); } svg .gr { stroke: var(--line); stroke-width: 1; }
 svg .pa { fill: var(--chip); } svg .pb { fill: var(--chip2); } svg .hb { fill: var(--hb); } svg .hl { stroke: var(--hl); }
 svg .wt, svg .pt { fill: var(--wall-t); } svg .pl { stroke: var(--wall-t); } svg .td { stroke: var(--ink); stroke-width: 1.5; }
 svg .b50 { fill: var(--s1); opacity: .85; } svg .b80 { fill: var(--b80); } svg .med { fill: var(--panel); stroke: var(--s1); }
 svg .fx { fill: var(--ink); } svg .c1 { stroke: var(--s1); } svg .c2 { stroke: var(--s2); }
+.lg-s2 { width: 22px; height: 3px; background: var(--s2); vertical-align: 3px !important; }
 svg a text, svg .lnk a { fill: var(--accent); } svg a:hover { text-decoration: underline; }
 .toggle { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; gap: 2px; margin: 8px 0; flex-wrap: wrap; }
 .toggle button { border: 0; background: none; color: var(--ink); font: inherit; font-size: 14px; padding: 4px 12px; border-radius: 999px; cursor: pointer; }
@@ -147,17 +153,23 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 .sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
 .sitenav a.item:hover { background: var(--chip, #eef1f6); }
 .sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
+.sitenav .brandbox { display: inline-flex; flex-direction: column; line-height: 1.15; margin-right: 8px; }
+.sitenav .brandbox .brand { margin-right: 0; }
+.sitenav a.by { color: var(--muted, #5b646b); text-decoration: none; font-size: 12px; white-space: nowrap; }
+.sitenav a.by:hover, .sitenav a.by[aria-current="page"] { text-decoration: underline; }
 .sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
   text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
 .sitenav a.repo:hover { background: var(--chip, #eef1f6); }
+.sitenav a.repo span { display: none; }   /* the icon alone: room for the credit (tools/credit.py) */
 @media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
-  .sitenav .brand, .sitenav a.repo span { display: none; } }
-</style><nav class="sitenav" aria-label="Site"><a class="brand" href="../index.html">EU regulation timeline</a><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
+  .sitenav .brandbox .brand, .sitenav a.repo span { display: none; } }
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a><a class="by" href="../about.html">by Steffen Zimmermann</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
 <div class="crumbs"><a href="index.html">Forecast</a> › MDR/IVDR simplification</div>
-<h1>MDR/IVDR simplification</h1><div class="muted">Simplification of the medical devices rules</div>
+<h1>MDR/IVDR simplification</h1><div class="muted">Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices</div>
 <div class="facts"><span class="chip">referred to committee since 25 Mar 2026</span><span class="chip">2025/0404(COD)</span><span class="chip"><a href="../procedures/medical-devices-simplification.html">Procedure</a></span></div>
 <section class="now"><h2>When will it be law?</h2>
-<div><div class="verdict"><div><div class="k">Official Journal, median</div><div class="v">Feb 2028</div><div class="small muted">half of the runs Sep 2027 to Sep 2028</div></div><div><div class="k">Eight in ten</div><div class="v">May 2027 – Mar 2030</div><div class="small muted">of the runs</div></div><div><div class="k">Before the 2029 elections</div><div class="v">86 %</div><div class="small muted">published before Parliament's last session</div></div></div><h3>Step by step</h3><div class="legend"><span><i class="lg-50"></i>half of the runs</span><span><i class="lg-80"></i>eight in ten</span><span><i class="lg-med"></i>median</span><span><i class="lg-fx"></i>step reached</span><span><i class="lg-pl"></i>Commission planning</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 462" role="img" aria-label="Forecast: MDR/IVDR simplification" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<div><div class="verdict"><div><div class="k">Official Journal, median</div><div class="v">Feb 2028</div><div class="small muted">half of the runs Sep 2027 to Sep 2028</div></div><div><div class="k">Eight in ten</div><div class="v">May 2027 – Mar 2030</div><div class="small muted">of the runs</div></div><div><div class="k">Before the 2029 elections</div><div class="v">86 %</div><div class="small muted">published before Parliament's last session</div></div></div><h3>Step by step</h3><div class="legend"><span><i class="lg-50"></i>half of the runs</span><span><i class="lg-80"></i>eight in ten</span><span><i class="lg-med"></i>median</span><span><i class="lg-fx"></i>step reached</span><span><i class="lg-pl"></i>Commission planning</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 478" role="img" aria-label="Forecast: MDR/IVDR simplification" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Forecast: MDR/IVDR simplification</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
 <rect x="250.0" y="4" width="34.2" height="16" rx="3" class="pb" data-tip="Council Presidency: IE, Jul 2026 to Dec 2026"/>
 <text x="267.6" y="16" text-anchor="middle" font-size="11" class="mu">IE</text>
@@ -194,6 +206,7 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 <text x="240" y="16" text-anchor="end" font-size="11" class="mu">Council Presidency</text>
 <line x1="253.4" y1="26" x2="253.4" y2="436" class="td"/>
 <text x="257.4" y="452" font-size="11" class="mu">data of 10 Oct 2026</text>
+<text x="984" y="474" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</text>
 <text x="238" y="96.0" text-anchor="end" font-weight="600" class="ink lnk">Commission proposal</text>
 <circle cx="250.0" cy="99.0" r="6" class="fx" data-tip="Commission proposal: 16 Dec 2025"/>
 <text x="260.0" y="103.0" font-size="12" class="ink">Dec 2025</text>
@@ -218,7 +231,8 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 <circle cx="442.5" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median Feb 2028; half of the runs Sep 2027 to Sep 2028; eight in ten May 2027 to Mar 2030"/>
 <text x="442.5" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2028</text>
 </svg></div><h3>Three routes through the 2029 elections</h3><div class="routes"><div class="r1"><div class="p">86 %</div><div class="bar"><i style="width:86%"></i></div>Published before the 2029 elections</div><div class="r2"><div class="p">7 %</div><div class="bar"><i style="width:7%"></i></div>Agreed before the elections, published after</div><div class="r3"><div class="p">7 %</div><div class="bar"><i style="width:7%"></i></div>Not agreed before the elections: continued by the new Parliament</div></div></div>
-<h3>Chance of publication by date</h3><div class="legend"><span><i class="lg-s1"></i>Official Journal</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 300" role="img" aria-label="Chance of publication in the Official Journal by date" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<h3>Chance of publication by date</h3><div class="legend"><span><i class="lg-s1"></i>Official Journal</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 316" role="img" aria-label="Chance of publication in the Official Journal by date" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Chance of publication in the Official Journal by date</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
 <line x1="56" y1="264.0" x2="810" y2="264.0" class="gr"/>
 <text x="48" y="268.0" text-anchor="end" class="mu">0 %</text>
@@ -265,7 +279,8 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 <rect x="731.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 95 % published before Jul 2031"/>
 <rect x="767.8" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 96 % published before Oct 2031"/>
 <rect x="804.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 97 % published before Jan 2032"/>
-</svg></div><p class="small">Published by the end of 2027: <b>42 %</b> · 2028: <b>82 %</b> · 2029: <b>88 %</b> · 2030: <b>94 %</b></p>
+<text x="984" y="312" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</text>
+</svg></div><p class="small">Official Journal: published by the end of 2027 <b>42 %</b> · 2028 <b>82 %</b> · 2029 <b>88 %</b> · 2030 <b>94 %</b></p>
 <h3>Where the file stands</h3><ol class="steps">
 <li class="done">Commission proposal<span>16 Dec 2025</span></li>
 <li class="done">Referral to EP committee<span>25 Mar 2026</span></li>
@@ -291,6 +306,6 @@ document.addEventListener('pointermove', e => {
 document.querySelectorAll('.toggle').forEach(g => g.addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
   g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
-  document.querySelectorAll('[data-scn]').forEach(el => { el.hidden = el.dataset.scn !== b.dataset.scn; });
+  document.querySelectorAll('[data-scn]').forEach(el => { el.hidden = el.dataset.scn !== b.dataset.show; });
 }));
 </script></body></html>

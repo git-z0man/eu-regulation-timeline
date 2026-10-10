@@ -4,12 +4,17 @@
 
 The timeline, the procedure drawings, the criticality ratings, the charts on
 the act pages (e.g. the CRA pathways to conformity with harmonised
-standards), notes and tables on this site are our own compilation. They are licensed under the
+standards), the forecast, notes and tables on this site are the work of
+Steffen Zimmermann, a private project. They are licensed under the
 [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You may share and adapt them for any purpose, also commercially, if you give
-appropriate credit ("EU regulation timeline,
-<https://git-z0man.github.io/eu-regulation-timeline/>"), link to the licence
-and indicate changes.
+appropriate credit, link to the licence and indicate changes. Please credit
+them as follows (CC BY 4.0, section 3(a)(1)(A)(i)):
+
+> Steffen Zimmermann, EU regulation timeline,
+> <https://git-z0man.github.io/eu-regulation-timeline/>, CC BY 4.0
+
+Every graphic carries this credit at its bottom right; please keep it.
 
 The content is an orientation for planning. It is not legal advice and not an
 official record; the legal texts on EUR-Lex prevail. As set out in

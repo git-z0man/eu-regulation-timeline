@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Regulations – EU regulation timeline</title>
-<meta name="description" content="One page per EU act: dates, texts, pending changes, implementing acts, standardisation, committees and legislative history.">
-<style>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>About – EU regulation timeline</title><meta name="description" content="Who makes the EU regulation timeline and how to reuse it."><style>
 :root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e;
   --chip: #eef1f6; --act: #d94841; --prepare: #e8a33d; --operate: #4f9a6a; --monitor: #4a78c2; --low: #9aa0a6; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
@@ -95,6 +90,13 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 @media (max-width: 800px) { .now-grid { grid-template-columns: 1fr; } }
 @media (max-width: 700px) { .head { grid-template-columns: 1fr; } h1 { font-size: 23px; } section { padding: 14px; }
   th, td { padding: 6px 8px; } }
+
+.cite { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; background: var(--chip); border-radius: 8px;
+  padding: 10px 12px; margin: 8px 0; max-width: 80ch; }
+.cite code { font-size: 14px; white-space: normal; }
+.cite button { border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 999px;
+  padding: 3px 12px; font: inherit; font-size: 13px; cursor: pointer; }
+.lede { max-width: 72ch; }
 </style></head><body><div class="navwrap"><style>
 .sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
   border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
@@ -112,24 +114,29 @@ footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
 .sitenav a.repo span { display: none; }   /* the icon alone: room for the credit (tools/credit.py) */
 @media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
   .sitenav .brandbox .brand, .sitenav a.repo span { display: none; } }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a><a class="by" href="../about.html">by Steffen Zimmermann</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
-<h1>Regulations</h1>
-<p class="muted">One page per act with everything about it: the next dates, pending changes, the texts, implementing and delegated acts, standardisation, committees and expert groups, and the legislative history. More acts on the <a href="../index.html">timeline</a> and in the <a href="../procedures/index.html">legislative procedures</a>.</p>
-<h2 style="margin-top:18px">Topics of high interest</h2>
-<p class="small muted">Concepts that run through several acts, with where they are defined and where they apply; our own assessment.</p>
-<div class="cards">
-<a class="card-link" href="topic-high-risk-suppliers.html"><div class="acard"><div class="small muted">Topic · as of 29 Sep 2026</div><h2>High-risk suppliers</h2><p class="small">&quot;High-risk supplier&quot; is on its way to becoming a horizontal eligibility filter in EU law: it would decide who may supply key ICT assets of essential and important entities, take part in public procurement and auctions, receive public support and EU funding, and take part in European standardisation, certification and conformity assessment.</p><p class="small"><strong>Where it applies:</strong> Definition and identification, Operators of key ICT assets (NIS-2 entities), Public procurement, Auctions and public support schemes, EU funding, European standardisation and common specifications, Certification and conformity assessment, Market surveillance of products</p></div></a>
-<a class="card-link" href="topic-standardisation-reform.html"><div class="acard"><div class="small muted">Topic · as of 06 Oct 2026</div><h2>New Standardisation Regulation – routes to presumption of conformity</h2><p class="small">On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.</p><p class="small"><strong>Where it applies:</strong> Instruments of presumption (harmonised standards, deliverables, common specifications), Standardisation requests and deadlines, Who develops the standards, Assessment, citation and withdrawal, Access to standards, Participation and inclusiveness, Financing of the standardisation system, International standardisation, Governance, entry into application and transition</p></div></a>
-</div>
-<h2 style="margin-top:18px">Regulations</h2>
-<div class="cards">
-<a class="card-link" href="cra.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>CRA</h2><p class="small">Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements</p><p class="small"><strong>Next:</strong> 30 Oct 2026 – M/606 deadline: 26 items</p><p class="small"><strong>Pending changes:</strong> PPA</p></div></a>
-<a class="card-link" href="machinery-regulation.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>MR</h2><p class="small">Regulation (EU) 2023/1230 on machinery</p><p class="small"><strong>Next:</strong> 20 Oct 2026 – Formal vote forecast: prEN IEC 62745:2025</p><p class="small"><strong>Pending changes:</strong> Omnibus IV – Digitalisation and common specifications (Regulation)</p></div></a>
-<a class="card-link" href="ai-act.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--prepare)"></span>Prepare</div><h2>AI Act</h2><p class="small">Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence</p><p class="small"><strong>Next:</strong> 30 Nov 2026 – Formal vote forecast: prEN 18229-1</p><p class="small"><strong>Pending changes:</strong> MDR/IVDR simplification</p></div></a>
-<a class="card-link" href="nis2.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--operate)"></span>In operation</div><h2>NIS-2</h2><p class="small">Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union</p><p class="small"><strong>Pending changes:</strong> NIS-2 amendment, Digital Omnibus</p></div></a>
-<a class="card-link" href="csa2.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>CSA2</h2><p class="small">Proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881</p></div></a>
-<a class="card-link" href="digital-omnibus.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>Digital Omnibus</h2><p class="small">Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework</p></div></a>
-<a class="card-link" href="standardisation-revision.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>NSR</h2><p class="small">Proposal for a Regulation on European standardisation, repealing Regulation (EU) No 1025/2012</p></div></a>
-<a class="card-link" href="market-surveillance.html"><div class="acard"><div class="small muted">Applicable · <span class="dot" style="background:var(--operate)"></span>In operation</div><h2>MSR</h2><p class="small">Regulation (EU) 2019/1020 on market surveillance and compliance of products</p></div></a>
-</div>
-<footer>Built from public sources only: EUR-Lex and Cellar, the Register of Commission documents, eNorm, the Comitology Register, the Register of Commission expert groups and the public work programmes of CEN-CENELEC and ETSI. Our own compilation, an orientation for planning, not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer></div></body></html>
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a><a class="by" href="about.html" aria-current="page">by Steffen Zimmermann</a></span><a class="item" href="index.html">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
+<h1>About</h1>
+<p class="lede">The EU regulation timeline is a private spare-time project by <b>Steffen Zimmermann</b>. It follows
+the EU's digital and product legislation (the Cyber Resilience Act, NIS-2, the AI Act, the Machinery Regulation, the
+European Product Act and the acts around them) from the official sources, and turns them into a timeline, procedure
+pages, standards overviews and a forecast of when open procedures are likely to become law.</p>
+<p class="lede">It is independent: it does not speak for any employer, association or institution, and it is not legal
+advice. The legal texts on EUR-Lex prevail.</p>
+<h2>Using the graphics and texts</h2>
+<p class="lede">Everything here may be copied, shared and adapted, also commercially, under
+<a class="ext" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. Please name the source like this:</p>
+<div class="cite"><code id="cite">Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</code> <button type="button" id="copy">Copy</button></div>
+<p class="small muted">Every graphic carries this line at its bottom right, and its SVG file the same information as
+metadata. Please keep it when you reuse a graphic, and say if you changed it.</p>
+<h2>Contact</h2>
+<p class="lede">On <a class="ext" href="https://www.linkedin.com/in/industrialsecurity" target="_blank" rel="noopener">LinkedIn</a>.</p>
+<p class="small muted">A private, non-commercial website. Licences: <a href="LICENSE.md">LICENSE.md</a>.</p>
+</div><script>
+document.querySelectorAll('#copy').forEach(b => b.addEventListener('click', () => {
+  const t = document.getElementById('cite').textContent;
+  (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(
+    () => { b.textContent = 'Copied'; },
+    () => { const r = document.createRange(); r.selectNode(document.getElementById('cite'));
+            getSelection().removeAllRanges(); getSelection().addRange(r); });
+}));
+</script></body></html>

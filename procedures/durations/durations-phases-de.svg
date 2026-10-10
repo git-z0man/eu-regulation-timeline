@@ -2,6 +2,7 @@
 <title>Wie lange ein EU-Gesetz dauert, Phase für Phase</title>
 <rect width="1600" height="900" fill="#ffffff"/>
 <text x="40.0" y="52.0" font-size="30" fill="#222222" text-anchor="start" font-weight="bold">Wie lange ein EU-Gesetz dauert, Phase für Phase</text>
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <text x="40.0" y="82.0" font-size="15" fill="#555555" text-anchor="start">Ordentliches Gesetzgebungsverfahren, Dossiers mit Einigung in erster Lesung nach Trilog, im Amtsblatt veröffentlicht, nach Wahlperiode des Kommissionsvorschlags. Monate seit</text>
 <text x="40.0" y="101.0" font-size="15" fill="#555555" text-anchor="start">dem Vorschlag: Punkt = Median, Balken = mittlere Hälfte der Dossiers.</text>
 <text x="40.0" y="150.0" font-size="17" fill="#222222" text-anchor="start" font-weight="bold">Typischer Ablauf, Vorschläge der Wahlperiode 2019–2024: Monat, in dem jeder Schritt endet (Median, 257 Dossiers)</text>
@@ -151,4 +152,5 @@
 <text x="1540.0" y="720.0" font-size="15" fill="#2f5a9e" text-anchor="end" font-weight="bold">0,8</text>
 <text x="1540.0" y="738.0" font-size="12" fill="#555555" text-anchor="end">0,5–1,1</text>
 <text x="40.0" y="876.0" font-size="12" fill="#555555" text-anchor="start">Quelle: Legislative Observatory des EP (OEIL), Schlüsselereignisse von 1076 COD-Dossiers, vorgeschlagen 2014–2026, Stand 2026-10-10; eigene Berechnung, CC BY 4.0. Keine amtliche Statistik.</text>
+<text x="1560" y="892" font-size="12" text-anchor="end" fill="#5b646b">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</text>
 </svg>

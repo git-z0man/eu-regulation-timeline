@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1700" height="816" viewBox="0 0 1700 816" font-family="Helvetica, Arial, sans-serif">
-<rect width="1700" height="816" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1700" height="832" viewBox="0 0 1700 832" font-family="Helvetica, Arial, sans-serif">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="1700" height="832" fill="#ffffff"/>
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Where the information comes from</tspan></text>
 <text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Sources (left) are read by the tools (middle), which write the files of the repository (right); the analysis and the public site are built from them. The routine runs the tools on weekdays at 05:15 UTC and opens a pull request; it is merged once the checks pass.</tspan></text>
 <rect x="20.0" y="80.0" width="420.0" height="46.0" fill="#e8f0fb" stroke="#2f5a9e"/>
@@ -115,4 +116,5 @@
 <rect x="580.0" y="769.0" width="26.0" height="12.0" fill="#f0f0f0" stroke="#6f757b"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="614.0" y="778.5">National law</tspan></text>
 <text font-size="10" fill="#555555" text-anchor="start"><tspan x="24.0" y="800.5">Built from public sources only; the private sources of the repository are not shown.</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1676.0" y="823.5">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</tspan></text>
 </svg>

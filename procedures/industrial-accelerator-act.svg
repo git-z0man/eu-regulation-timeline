@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="794" viewBox="0 0 1800 794" font-family="Helvetica, Arial, sans-serif">
-<rect width="1800" height="794" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="810" viewBox="0 0 1800 810" font-family="Helvetica, Arial, sans-serif">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="1800" height="810" fill="#ffffff"/>
 <g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-09">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – IAA – COM(2026) 100 (proposal)</tspan></text>
 <text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0068(COD). State as of 09 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see industrial-accelerator-act.html).</tspan></text>
@@ -146,4 +147,5 @@
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="757.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="775.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="801.5">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</tspan></text>
 </svg>
