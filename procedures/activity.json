@@ -6014,32 +6014,6 @@
    "key": "ST 13787/25",
    "page": "product-digitalisation-directive",
    "type": "Legislation"
-  },
-  {
-   "date": "2025-10-10",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "Product Security Committee",
-   "label": "2nd Product Security Committee Meeting",
-   "doc": "agenda, draft implementing act, summary record",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1750/consult",
-   "key": "C130100-CMTD(2025)1750",
-   "links": [
-    [
-     "agenda",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110055/1/consult"
-    ],
-    [
-     "draft implementing act",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110068/1/consult"
-    ],
-    [
-     "summary record",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110696/1/consult"
-    ]
-   ],
-   "page": "cra",
-   "type": "Committees"
   }
  ]
 }

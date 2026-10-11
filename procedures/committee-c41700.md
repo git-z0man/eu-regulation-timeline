@@ -1,6 +1,6 @@
 # Committee on Standards
 
-Comitology committee C41700, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: [Standardisation Regulation](standardisation-regulation.md).
+Comitology committee C41700, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: [Regulation on European standardisation](standardisation-regulation.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C41700/consult). Back to [all committees](committees.md).
 

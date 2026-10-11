@@ -1,6 +1,6 @@
 # Group of experts on Ecodesign for Sustainable Products and Energy Labelling ('the Ecodesign Forum') (Ecodesign Forum)
 
-Expert group E03969, ENER, ENV, GROW. Act: [ESPR](espr.md).
+Expert group E03969, ENER, ENV, GROW. Act: [Ecodesign for Sustainable Products Regulation](espr.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969). Back to [all committees](committees.md).
 

@@ -1,6 +1,6 @@
 # Advisory Committee for Public Contracts
 
-Comitology committee C16300, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [NZIA](nzia.md).
+Comitology committee C16300, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Net Zero Industry Act](nzia.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C16300/consult). Back to [all committees](committees.md).
 

@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="871" viewBox="0 0 1800 871" font-family="Helvetica, Arial, sans-serif">
-<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, EU regulation timeline, https://git-z0man.github.io/eu-regulation-timeline/, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="871" viewBox="0 0 1800 871" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="871" fill="#ffffff"/>
 <g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-06">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – EU Space Act – COM(2025) 335 (proposal)</tspan></text>
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 06 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 6 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
-<rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="1.5"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
-<rect x="1010.0" y="114.0" width="22.0" height="11.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1041.0" y="122.7">step in progress</tspan></text>
+<rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
+<rect x="1010.0" y="114.0" width="22.0" height="11.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="1.5"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="122.7">step in progress</tspan></text>
 <rect x="1200.0" y="94.0" width="22.0" height="11.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1.5"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1231.0" y="102.7">not reached</tspan></text>
-<rect x="1200.0" y="114.0" width="22.0" height="11.0" fill="#fff8e1" stroke="#8a6d00" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1231.0" y="122.7">informal (trilogues)</tspan></text>
-<rect x="20.0" y="150.0" width="190.0" height="58.0" fill="#dce6f6" stroke="#2f5a9e" stroke-width="2.5"/>
-<text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="167.8">Commission proposal</tspan></text>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="115.0" y="199.2">Art. 294(2)</tspan></text>
-<text font-size="9" fill="#2f5a9e" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="220.2">25 Jun 2025</tspan></text>
-<rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
-<text font-size="9" fill="#b07520" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">IMCO opinion adopted, 24 Mar 2026</tspan></text>
-<rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#fff3c4" stroke="#b07520" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="11" fill="#1f2d3d" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
-<text font-size="9" fill="#b07520" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Working party; no Council mandate in the register</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1231.0" y="102.7">not reached</tspan></text>
+<rect x="1200.0" y="114.0" width="22.0" height="11.0" fill="#f6f6f4" stroke="#8a9096" stroke-dasharray="6 3" stroke-width="1.5"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1231.0" y="122.7">informal (trilogues)</tspan></text>
+<rect x="20.0" y="150.0" width="190.0" height="58.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="2.5"/>
+<text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="167.8">Commission proposal</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="115.0" y="199.2">Art. 294(2)</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="115.0" y="220.2">25 Jun 2025</tspan></text>
+<rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
+<text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">IMCO opinion adopted, 24 Mar 2026</tspan></text>
+<rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
+<text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Working party; no Council mandate in the register</tspan></text>
 <rect x="740.0" y="150.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="161.0">Act adopted in the wording of the EP</tspan><tspan x="855.0" y="174.7">position</tspan></text>
 <text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="855.0" y="199.2">Art. 294(4)</tspan></text>
@@ -47,8 +47,8 @@
 <text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="1125.0" y="344.1">approves all amendments → adopted (8a)</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="1395.0" y="344.1">no joint text → not adopted (12)</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="middle"><tspan x="1665.0" y="338.5">both adopt → adopted; otherwise not adopted</tspan><tspan x="1665.0" y="349.8">(13)</tspan></text>
-<polyline points="210.0,179.0 250.0,179.0" fill="none" stroke="#2f5a9e" stroke-width="2.5"/><polygon points="250.0,179.0 241.0,183.5 241.0,174.5" fill="#2f5a9e"/>
-<polyline points="450.0,179.0 490.0,179.0" fill="none" stroke="#2f5a9e" stroke-width="2.5"/><polygon points="490.0,179.0 481.0,183.5 481.0,174.5" fill="#2f5a9e"/>
+<polyline points="210.0,179.0 250.0,179.0" fill="none" stroke="#0f5a63" stroke-width="2.5"/><polygon points="250.0,179.0 241.0,183.5 241.0,174.5" fill="#0f5a63"/>
+<polyline points="450.0,179.0 490.0,179.0" fill="none" stroke="#0f5a63" stroke-width="2.5"/><polygon points="490.0,179.0 481.0,183.5 481.0,174.5" fill="#0f5a63"/>
 <polyline points="700.0,179.0 740.0,179.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="740.0,179.0 731.0,183.5 731.0,174.5" fill="#b5bac0"/>
 <text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="706.0" y="168.2">yes</tspan></text>
 <polyline points="595.0,224.0 595.0,262.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="595.0,262.0 590.5,253.0 599.5,253.0" fill="#b5bac0"/>
@@ -59,137 +59,137 @@
 <polyline points="1510.0,291.0 1550.0,291.0" fill="none" stroke="#b5bac0" stroke-width="1.2"/><polygon points="1550.0,291.0 1541.0,295.5 1541.0,286.5" fill="#b5bac0"/>
 <text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="976.0" y="280.1">amends</tspan></text>
 <text font-size="9" fill="#b5bac0" text-anchor="start"><tspan x="1246.0" y="280.1">not all</tspan></text>
-<rect x="250.0" y="96.0" width="720.0" height="40.0" fill="#fff8e1" stroke="#8a6d00" stroke-dasharray="6 3" stroke-width="2"/>
-<text font-size="9" fill="#8a6d00" text-anchor="start"><tspan x="254.0" y="113.5">Informal: trilogues of EP, Council and Commission at every stage (Joint Declaration 2007, points 7–9); a trilogue agreement confirmed by Coreper and</tspan><tspan x="254.0" y="124.8">offered by letter to the EP committee chair (point 14) leads to adoption at first reading, or, after the EP first reading, to an early second reading.</tspan></text>
+<rect x="250.0" y="96.0" width="720.0" height="40.0" fill="#f6f6f4" stroke="#8a9096" stroke-dasharray="6 3" stroke-width="2"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="254.0" y="113.5">Informal: trilogues of EP, Council and Commission at every stage (Joint Declaration 2007, points 7–9); a trilogue agreement confirmed by Coreper and</tspan><tspan x="254.0" y="124.8">offered by letter to the EP committee chair (point 14) leads to adoption at first reading, or, after the EP first reading, to an early second reading.</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="400.6">Procedure over time – 2025/0335(COD)</tspan></text>
-<polygon points="1018,389 1025,396 1018,403 1011,396" fill="#2f5a9e" stroke="#2f5a9e" stroke-width="1.5"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1034.0" y="398.6">step of Art. 294 TFEU</tspan></text>
+<polygon points="1018,389 1025,396 1018,403 1011,396" fill="#0f5a63" stroke="#0f5a63" stroke-width="1.5"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1034.0" y="398.6">step of Art. 294 TFEU</tspan></text>
 <polygon points="1180,391 1185,396 1180,401 1175,396" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1194.0" y="398.6">other event</tspan></text>
-<polygon points="1264,392.5 1267.5,396 1264,399.5 1260.5,396" fill="#555555" stroke="#555555" stroke-width="1.5"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1276.0" y="398.6">working party meeting</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1194.0" y="398.6">other event</tspan></text>
+<polygon points="1264,392.5 1267.5,396 1264,399.5 1260.5,396" fill="#454c53" stroke="#454c53" stroke-width="1.5"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1276.0" y="398.6">working party meeting</tspan></text>
 <rect x="1390.0" y="391.0" width="26.0" height="10.0" fill="#7b8794" stroke="none" opacity="0.3"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
-<line x1="1470.0" y1="388.0" x2="1470.0" y2="403.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#444444" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
+<line x1="1470.0" y1="388.0" x2="1470.0" y2="403.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
 <line x1="210.0" y1="440.0" x2="210.0" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="291.3" y1="440.0" x2="291.3" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="291.3" y="435.1">Jul</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="291.3" y="435.1">Jul</tspan></text>
 <line x1="375.4" y1="440.0" x2="375.4" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="459.5" y1="440.0" x2="459.5" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="540.8" y1="440.0" x2="540.8" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="540.8" y="435.1">Oct</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="540.8" y="435.1">Oct</tspan></text>
 <line x1="624.9" y1="440.0" x2="624.9" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="706.2" y1="440.0" x2="706.2" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="790.3" y1="440.0" x2="790.3" y2="787.0" stroke="#b5bac0" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="790.3" y="435.1">Jan 2026</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="790.3" y="435.1">Jan 2026</tspan></text>
 <line x1="874.3" y1="440.0" x2="874.3" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="950.3" y1="440.0" x2="950.3" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1034.3" y1="440.0" x2="1034.3" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1034.3" y="435.1">Apr</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1034.3" y="435.1">Apr</tspan></text>
 <line x1="1115.7" y1="440.0" x2="1115.7" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1199.7" y1="440.0" x2="1199.7" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1281.1" y1="440.0" x2="1281.1" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1281.1" y="435.1">Jul</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1281.1" y="435.1">Jul</tspan></text>
 <line x1="1365.1" y1="440.0" x2="1365.1" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1449.2" y1="440.0" x2="1449.2" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1530.5" y1="440.0" x2="1530.5" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle"><tspan x="1530.5" y="435.1">Oct</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1530.5" y="435.1">Oct</tspan></text>
 <line x1="1614.6" y1="440.0" x2="1614.6" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1695.9" y1="440.0" x2="1695.9" y2="787.0" stroke="#e3e6e9" stroke-width="1"/>
 <line x1="1780.0" y1="440.0" x2="1780.0" y2="787.0" stroke="#b5bac0" stroke-width="1"/>
-<text font-size="9" fill="#555555" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="435.1">Jan 2027</tspan></text>
+<text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="435.1">Jan 2027</tspan></text>
 <rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
 <rect x="20.0" y="490.0" width="1760.0" height="63.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="494.0" width="6.0" height="55.0" fill="#7b8794" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="525.4">Consultative bodies</tspan></text>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="525.4">Consultative bodies</tspan></text>
 <rect x="20.0" y="553.0" width="1760.0" height="76.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="557.0" width="6.0" height="68.0" fill="#1baf7a" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="594.9">European Parliament</tspan></text>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="594.9">European Parliament</tspan></text>
 <rect x="20.0" y="629.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
 <rect x="20.0" y="633.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="646.9">Trilogues (informal)</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="646.1">no events yet</tspan></text>
 <rect x="20.0" y="657.0" width="1760.0" height="102.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="661.0" width="6.0" height="94.0" fill="#4a3aa7" stroke="none"/>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="34.0" y="711.9">Council</tspan></text>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="711.9">Council</tspan></text>
 <rect x="20.0" y="759.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="763.0" width="6.0" height="20.0" fill="#444444" stroke="none" opacity="0.35"/>
+<rect x="20.0" y="763.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="776.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="776.1">no events yet</tspan></text>
-<line x1="1544.1" y1="440.0" x2="1544.1" y2="787.0" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold"><tspan x="1544.1" y="797.1">as of 06 Oct 2026</tspan></text>
+<line x1="1544.1" y1="440.0" x2="1544.1" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1544.1" y="797.1">as of 6 Oct 2026</tspan></text>
 <rect x="271.1" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><text font-size="9" fill="#1f2d3d" text-anchor="start" font-weight="bold"><tspan x="275.1" y="462.1">25 Jun 2025 · Commission proposal (COM(2025) 335)</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><title>25 Jun 2025: Commission proposal – COM(2025) 335</title><polygon points="275.0777202072539,465 283.0777202072539,473 275.0777202072539,481 267.0777202072539,473" fill="#2a78d6" stroke="#1f2d3d" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="275.1" y="462.1">25 Jun 2025 · Commission proposal (COM(2025) 335)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><title>25 Jun 2025: Commission proposal – COM(2025) 335</title><polygon points="275.0777202072539,465 283.0777202072539,473 275.0777202072539,481 267.0777202072539,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
 <rect x="710.4" y="503.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024AE0225" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="714.4" y="512.1">04 Dec 2025 · EESC opinion (CELEX 52024AE0225)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024AE0225" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="714.4" y="512.1">04 Dec 2025 · EESC opinion (CELEX 52024AE0225)</tspan></text></a>
 <rect x="729.3" y="532.0" width="318.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IR3963" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="733.3" y="541.1">11 Dec 2025 · Committee of the Regions opinion (CELEX 52025IR3963)</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024AE0225" target="_blank"><title>04 Dec 2025: EESC opinion – CELEX 52024AE0225</title><polygon points="714.3523316062176,517.5 719.8523316062176,523 714.3523316062176,528.5 708.8523316062176,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IR3963" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="733.3" y="541.1">11 Dec 2025 · Committee of the Regions opinion (CELEX 52025IR3963)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024AE0225" target="_blank"><title>4 Dec 2025: EESC opinion – CELEX 52024AE0225</title><polygon points="714.3523316062176,517.5 719.8523316062176,523 714.3523316062176,528.5 708.8523316062176,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IR3963" target="_blank"><title>11 Dec 2025: Committee of the Regions opinion – CELEX 52025IR3963</title><polygon points="733.3333333333333,517.5 738.8333333333333,523 733.3333333333333,528.5 727.8333333333333,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
 <line x1="1012.6" y1="579.0" x2="1012.6" y2="593.0" stroke="#c3c8cd" stroke-width="1"/>
 <rect x="363.3" y="579.0" width="294.7" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="367.3" y="588.1">29 Jul 2025 · ITRE rapporteur appointed (Elena Donazzan, ECR)</tspan></text>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="367.3" y="588.1">29 Jul 2025 · ITRE rapporteur appointed (Elena Donazzan, ECR)</tspan></text>
 <rect x="474.4" y="608.0" width="271.2" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#222222" text-anchor="start"><tspan x="478.4" y="617.1">08 Sep 2025 · Referral to committee announced in plenary</tspan></text>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="478.4" y="617.1">08 Sep 2025 · Referral to committee announced in plenary</tspan></text>
 <rect x="951.7" y="579.0" width="210.1" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-784432/ITRE-PR-784432_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="955.7" y="588.1">03 Mar 2026 · ITRE draft report (PE784.432)</tspan></text></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-784432/ITRE-PR-784432_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="955.7" y="588.1">03 Mar 2026 · ITRE draft report (PE784.432)</tspan></text></a>
 <rect x="989.6" y="608.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-785496/ENVI-AD-785496_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="993.6" y="617.1">17 Mar 2026 · ENVI opinion adopted (PE785.496)</tspan></text></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-785496/ENVI-AD-785496_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="993.6" y="617.1">17 Mar 2026 · ENVI opinion adopted (PE785.496)</tspan></text></a>
 <rect x="1008.6" y="566.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-779484/IMCO-AD-779484_en.pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1012.6" y="575.1">24 Mar 2026 · IMCO opinion adopted (PE779.484)</tspan></text></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-779484/IMCO-AD-779484_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1012.6" y="575.1">24 Mar 2026 · IMCO opinion adopted (PE779.484)</tspan></text></a>
 <g><title>29 Jul 2025: ITRE rapporteur appointed (Elena Donazzan, ECR)</title><polygon points="367.2711571675302,593.5 372.7711571675302,599 367.2711571675302,604.5 361.7711571675302,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
-<g><title>08 Sep 2025: Referral to committee announced in plenary</title><polygon points="478.44559585492226,593.5 483.94559585492226,599 478.44559585492226,604.5 472.94559585492226,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-784432/ITRE-PR-784432_en.pdf" target="_blank"><title>03 Mar 2026: ITRE draft report – PE784.432</title><polygon points="955.6822107081174,593.5 961.1822107081174,599 955.6822107081174,604.5 950.1822107081174,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>8 Sep 2025: Referral to committee announced in plenary</title><polygon points="478.44559585492226,593.5 483.94559585492226,599 478.44559585492226,604.5 472.94559585492226,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-784432/ITRE-PR-784432_en.pdf" target="_blank"><title>3 Mar 2026: ITRE draft report – PE784.432</title><polygon points="955.6822107081174,593.5 961.1822107081174,599 955.6822107081174,604.5 950.1822107081174,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-785496/ENVI-AD-785496_en.pdf" target="_blank"><title>17 Mar 2026: ENVI opinion adopted – PE785.496</title><polygon points="993.6442141623489,593.5 999.1442141623489,599 993.6442141623489,604.5 988.1442141623489,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-779484/IMCO-AD-779484_en.pdf" target="_blank"><title>24 Mar 2026: IMCO opinion adopted – PE779.484</title><polygon points="1012.6252158894646,593.5 1018.1252158894646,599 1012.6252158894646,604.5 1007.1252158894646,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <line x1="717.1" y1="696.0" x2="717.1" y2="710.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="1028.9" y1="738.0" x2="1028.9" y2="722.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="1134.6" y1="683.0" x2="1134.6" y2="710.0" stroke="#c3c8cd" stroke-width="1"/>
 <rect x="688.7" y="696.0" width="482.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15830-2025-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="692.7" y="705.1">26 Nov 2025 · Preparation of the Council (Competitiveness (Internal Market, Industry, … (ST 15830/25)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15830-2025-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="692.7" y="705.1">26 Nov 2025 · Preparation of the Council (Competitiveness (Internal Market, Industry, … (ST 15830/25)</tspan></text></a>
 <rect x="713.1" y="725.0" width="501.5" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16435-2025-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="717.1" y="734.1">05 Dec 2025 · Regulation on the safety, resilience and sustainability of space activities … (ST 16435/25)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16435-2025-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="717.1" y="734.1">05 Dec 2025 · Regulation on the safety, resilience and sustainability of space activities … (ST 16435/25)</tspan></text></a>
 <rect x="713.1" y="683.0" width="501.5" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16437-2025-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="717.1" y="692.1">05 Dec 2025 · Regulation on the safety, resilience and sustainability of space activities … (ST 16437/25)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16437-2025-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="717.1" y="692.1">05 Dec 2025 · Regulation on the safety, resilience and sustainability of space activities … (ST 16437/25)</tspan></text></a>
 <rect x="1024.9" y="738.0" width="332.3" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1028.9" y="747.1">30 Mar 2026 · Presidency compromise text - clean version (ST 7806/26)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1028.9" y="747.1">30 Mar 2026 · Presidency compromise text - clean version (ST 7806/26)</tspan></text></a>
 <rect x="1130.6" y="670.0" width="478.0" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#222222" text-anchor="start"><tspan x="1134.6" y="679.1">08 May 2026 · Preparation of the Council (Competitiveness (Internal Market, Industry, … (ST 8861/26)</tspan></text></a>
-<text font-size="8.3" fill="#52514e" text-anchor="start"><tspan x="291.3" y="704.9">Space Working Party: 23 meetings (01 Jul 2025 – 11 Sep 2026; ● each)</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf" target="_blank"><title>01 Jul 2025: Space Working Party meeting (ATTACHES): Presentation by the Commission (doc. ) (10935/25+ADD 1); Impact … – CM 3393/25 REV 1</title><polygon points="291.34715025906735,712.5 294.84715025906735,716 291.34715025906735,719.5 287.84715025906735,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1134.6" y="679.1">08 May 2026 · Preparation of the Council (Competitiveness (Internal Market, Industry, … (ST 8861/26)</tspan></text></a>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="291.3" y="704.9">Space Working Party: 23 meetings (1 Jul 2025 – 11 Sep 2026; ● each)</tspan></text>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf" target="_blank"><title>1 Jul 2025: Space Working Party meeting (ATTACHES): Presentation by the Commission (doc. ) (10935/25+ADD 1); Impact … – CM 3393/25 REV 1</title><polygon points="291.34715025906735,712.5 294.84715025906735,716 291.34715025906735,719.5 287.84715025906735,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3597-2025-INIT/en/pdf" target="_blank"><title>14 Jul 2025: Space Working Party meeting (morning only on Tuesday 15 July): Presentation by the Commission (doc. ) … – CM 3597/25</title><polygon points="326.5975820379966,712.5 330.0975820379966,716 326.5975820379966,719.5 323.0975820379966,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3839-2025-REV-1/en/pdf" target="_blank"><title>03 Sep 2025: Space Working Party meeting: Exchange of views (doc. ) (10935/25+ADD 1) – CM 3839/25 REV 1</title><polygon points="464.88773747841105,712.5 468.38773747841105,716 464.88773747841105,719.5 461.38773747841105,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3839-2025-REV-1/en/pdf" target="_blank"><title>3 Sep 2025: Space Working Party meeting: Exchange of views (doc. ) (10935/25+ADD 1) – CM 3839/25 REV 1</title><polygon points="464.88773747841105,712.5 468.38773747841105,716 464.88773747841105,719.5 461.38773747841105,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3896-2025-REV-1/en/pdf" target="_blank"><title>10 Sep 2025: Space Working Party meeting - Attaches level on 10 September: Presentation by the Commission Examination … – CM 3896/25 REV 1</title><polygon points="483.86873920552677,712.5 487.36873920552677,716 483.86873920552677,719.5 480.36873920552677,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4053-2025-REV-1/en/pdf" target="_blank"><title>19 Sep 2025: Space Working Party meeting (full day meeting - Attaches level in the: Presentation by the Commission … – CM 4053/25 REV 1</title><polygon points="508.272884283247,712.5 511.772884283247,716 508.272884283247,719.5 504.772884283247,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4118-2025-REV-1/en/pdf" target="_blank"><title>24 Sep 2025: Space Working Party meeting: Impact assessment – Presentation by the Commission (doc. ADD 2-5) (10935/25); … – CM 4118/25 REV 1</title><polygon points="521.8307426597582,712.5 525.3307426597582,716 521.8307426597582,719.5 518.3307426597582,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4300-2025-REV-1/en/pdf" target="_blank"><title>07 Oct 2025: Space Working Party meeting (ATTACHES): Presentation by the Commission (10935/25+ADD 1) – CM 4300/25 REV 1</title><polygon points="557.0811744386874,712.5 560.5811744386874,716 557.0811744386874,719.5 553.5811744386874,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4300-2025-REV-1/en/pdf" target="_blank"><title>7 Oct 2025: Space Working Party meeting (ATTACHES): Presentation by the Commission (10935/25+ADD 1) – CM 4300/25 REV 1</title><polygon points="557.0811744386874,712.5 560.5811744386874,716 557.0811744386874,719.5 553.5811744386874,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4496-2025-INIT/en/pdf" target="_blank"><title>14 Oct 2025: Space Working Party meeting: Examination (doc. ) (10935/25+ADD 1) – CM 4496/25</title><polygon points="576.0621761658031,712.5 579.5621761658031,716 576.0621761658031,719.5 572.5621761658031,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4791-2025-INIT/en/pdf" target="_blank"><title>04 Nov 2025: Space Working Party meeting: Examination (doc. ) (10935/25+ADD 1) – CM 4791/25</title><polygon points="633.0051813471503,712.5 636.5051813471503,716 633.0051813471503,719.5 629.5051813471503,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4792-2025-INIT/en/pdf" target="_blank"><title>07 Nov 2025: Space Working Party meeting (Attachés) - Morning only: Examination (doc. ) (10935/25+ADD 1) – CM 4792/25</title><polygon points="641.1398963730569,712.5 644.6398963730569,716 641.1398963730569,719.5 637.6398963730569,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4791-2025-INIT/en/pdf" target="_blank"><title>4 Nov 2025: Space Working Party meeting: Examination (doc. ) (10935/25+ADD 1) – CM 4791/25</title><polygon points="633.0051813471503,712.5 636.5051813471503,716 633.0051813471503,719.5 629.5051813471503,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4792-2025-INIT/en/pdf" target="_blank"><title>7 Nov 2025: Space Working Party meeting (Attachés) - Morning only: Examination (doc. ) (10935/25+ADD 1) – CM 4792/25</title><polygon points="641.1398963730569,712.5 644.6398963730569,716 641.1398963730569,719.5 637.6398963730569,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15830-2025-INIT/en/pdf" target="_blank"><title>26 Nov 2025: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and … – ST 15830/25</title><polygon points="692.6597582037996,710.5 698.1597582037996,716 692.6597582037996,721.5 687.1597582037996,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16435-2025-INIT/en/pdf" target="_blank"><title>05 Dec 2025: Regulation on the safety, resilience and sustainability of space activities in the Union … – ST 16435/25</title><polygon points="717.0639032815199,710.5 722.5639032815199,716 717.0639032815199,721.5 711.5639032815199,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16437-2025-INIT/en/pdf" target="_blank"><title>05 Dec 2025: Regulation on the safety, resilience and sustainability of space activities in the Union … – ST 16437/25</title><polygon points="717.0639032815199,710.5 722.5639032815199,716 717.0639032815199,721.5 711.5639032815199,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16435-2025-INIT/en/pdf" target="_blank"><title>5 Dec 2025: Regulation on the safety, resilience and sustainability of space activities in the Union … – ST 16435/25</title><polygon points="717.0639032815199,710.5 722.5639032815199,716 717.0639032815199,721.5 711.5639032815199,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-16437-2025-INIT/en/pdf" target="_blank"><title>5 Dec 2025: Regulation on the safety, resilience and sustainability of space activities in the Union … – ST 16437/25</title><polygon points="717.0639032815199,710.5 722.5639032815199,716 717.0639032815199,721.5 711.5639032815199,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-5418-2025-INIT/en/pdf" target="_blank"><title>16 Dec 2025: Space Working Party meeting: Information from the Presidency (16435/25, 16437/25) – CM 5418/25</title><polygon points="746.8911917098445,712.5 750.3911917098445,716 746.8911917098445,719.5 743.3911917098445,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1072-2026-REV-1/en/pdf" target="_blank"><title>13 Jan 2026: Space Working Party meeting: EU Space Act – Public consultation (doc. ) – Presentation by the Commission … – CM 1072/26 REV 1</title><polygon points="822.8151986183075,712.5 826.3151986183075,716 822.8151986183075,719.5 819.3151986183075,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1161-2026-INIT/en/pdf" target="_blank"><title>20 Jan 2026: Space Working Party meeting: Examination (doc. ) (16437/25) – CM 1161/26</title><polygon points="841.7962003454231,712.5 845.2962003454231,716 841.7962003454231,719.5 838.2962003454231,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1393-2026-REV-1/en/pdf" target="_blank"><title>03 Feb 2026: Space Working Party meeting: Exchange of views Examination (16437/25) – CM 1393/26 REV 1</title><polygon points="879.7582037996546,712.5 883.2582037996546,716 879.7582037996546,719.5 876.2582037996546,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1393-2026-REV-1/en/pdf" target="_blank"><title>3 Feb 2026: Space Working Party meeting: Exchange of views Examination (16437/25) – CM 1393/26 REV 1</title><polygon points="879.7582037996546,712.5 883.2582037996546,716 879.7582037996546,719.5 876.2582037996546,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1542-2026-INIT/en/pdf" target="_blank"><title>13 Feb 2026: Space Working Party meeting: Examination Exchange of views (16437/25) – CM 1542/26</title><polygon points="906.8739205526771,712.5 910.3739205526771,716 906.8739205526771,719.5 903.3739205526771,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1687-2026-INIT/en/pdf" target="_blank"><title>24 Feb 2026: Space Working Party meeting: Examination Exchange of views (16437/25) – CM 1687/26</title><polygon points="936.7012089810017,712.5 940.2012089810017,716 936.7012089810017,719.5 933.2012089810017,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1763-2026-INIT/en/pdf" target="_blank"><title>03 Mar 2026: Space Working Party meeting: Examination and exchange of views (16437/25) – CM 1763/26</title><polygon points="955.6822107081174,712.5 959.1822107081174,716 955.6822107081174,719.5 952.1822107081174,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1763-2026-INIT/en/pdf" target="_blank"><title>3 Mar 2026: Space Working Party meeting: Examination and exchange of views (16437/25) – CM 1763/26</title><polygon points="955.6822107081174,712.5 959.1822107081174,716 955.6822107081174,719.5 952.1822107081174,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf" target="_blank"><title>30 Mar 2026: Presidency compromise text - clean version – ST 7806/26</title><polygon points="1028.8946459412782,710.5 1034.3946459412782,716 1028.8946459412782,721.5 1023.3946459412782,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2402-2026-INIT/en/pdf" target="_blank"><title>21 Apr 2026: Space Working Party meeting (Attachés): Exchange of views (7806/26) – CM 2402/26</title><polygon points="1088.5492227979275,712.5 1092.0492227979275,716 1088.5492227979275,719.5 1085.0492227979275,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2542-2026-INIT/en/pdf" target="_blank"><title>29 Apr 2026: Space Working Party meeting: Presentation by the Commission Exchange of views (7806/26) – CM 2542/26</title><polygon points="1110.2417962003453,712.5 1113.7417962003453,716 1110.2417962003453,719.5 1106.7417962003453,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2635-2026-INIT/en/pdf" target="_blank"><title>05 May 2026: Space Working Party meeting: Presentation by the Commission Exchange of views (7806/26) – CM 2635/26</title><polygon points="1126.5112262521588,712.5 1130.0112262521588,716 1126.5112262521588,719.5 1123.0112262521588,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf" target="_blank"><title>08 May 2026: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and … – ST 8861/26</title><polygon points="1134.6459412780655,710.5 1140.1459412780655,716 1134.6459412780655,721.5 1129.1459412780655,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2635-2026-INIT/en/pdf" target="_blank"><title>5 May 2026: Space Working Party meeting: Presentation by the Commission Exchange of views (7806/26) – CM 2635/26</title><polygon points="1126.5112262521588,712.5 1130.0112262521588,716 1126.5112262521588,719.5 1123.0112262521588,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf" target="_blank"><title>8 May 2026: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and … – ST 8861/26</title><polygon points="1134.6459412780655,710.5 1140.1459412780655,716 1134.6459412780655,721.5 1129.1459412780655,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf" target="_blank"><title>10 Jul 2026: Space Working Party meeting - full day meeting (ATTACHES LEVEL in: Exchange of views (7806/26) – CM 3526/26 REV 1</title><polygon points="1305.474956822107,712.5 1308.974956822107,716 1305.474956822107,719.5 1301.974956822107,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf" target="_blank"><title>01 Sep 2026: Space Working Party meeting: Exchange of views (7806/26) – CM 3875/26</title><polygon points="1449.188255613126,712.5 1452.688255613126,716 1449.188255613126,719.5 1445.688255613126,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf" target="_blank"><title>1 Sep 2026: Space Working Party meeting: Exchange of views (7806/26) – CM 3875/26</title><polygon points="1449.188255613126,712.5 1452.688255613126,716 1449.188255613126,719.5 1445.688255613126,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf" target="_blank"><title>11 Sep 2026: Space Working Party meeting (morning only): Exchange of views (7806/26) – CM 3999/26</title><polygon points="1476.3039723661486,712.5 1479.8039723661486,716 1476.3039723661486,719.5 1472.8039723661486,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="818.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="836.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="862.5">Steffen Zimmermann · git-z0man.github.io/eu-regulation-timeline · CC BY 4.0</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="862.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </svg>

@@ -1,6 +1,6 @@
 # Committee on the European Health Data Space
 
-Comitology committee C131500, SANTE; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [EHDS](ehds.md).
+Comitology committee C131500, SANTE; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [European Health Data Space Regulation](ehds.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131500/consult). Back to [all committees](committees.md).
 

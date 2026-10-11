@@ -11,10 +11,9 @@ You may share and adapt them for any purpose, also commercially, if you give
 appropriate credit, link to the licence and indicate changes. Please credit
 them as follows (CC BY 4.0, section 3(a)(1)(A)(i)):
 
-> Steffen Zimmermann, EU regulation timeline,
-> <https://git-z0man.github.io/eu-regulation-timeline/>, CC BY 4.0
+> Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0
 
-Every graphic carries this credit at its bottom right; please keep it.
+Every graphic carries this credit at its bottom; please keep it.
 
 The content is an orientation for planning. It is not legal advice and not an
 official record; the legal texts on EUR-Lex prevail. As set out in
@@ -39,6 +38,12 @@ The HTML, CSS and JavaScript of the pages are licensed under the MIT licence:
 > LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
 > CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 > SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Fonts (`fonts/`)
+
+Source Sans 3 and Source Serif 4 by Adobe, licensed under the SIL Open Font
+License 1.1 (`fonts/OFL.txt`). They are served from this site; the pages make
+no request to a font host.
 
 ## EU sources
 

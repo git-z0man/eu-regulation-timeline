@@ -1,6 +1,6 @@
 # Internal Market Emergency and Resilience Committee
 
-Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [IMERA](imera.md).
+Comitology committee C131800, GROW; urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Internal Market Emergency and Resilience Act](imera.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C131800/consult). Back to [all committees](committees.md).
 

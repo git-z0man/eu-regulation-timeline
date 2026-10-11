@@ -1,6 +1,6 @@
 # Legislative procedure – IAA – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 09 Oct 2026.
+Procedure 2026/0068(COD), as of 9 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
 - **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 05 Oct 2026 · European Parliament: Committee opinion adopted
+- **Latest activity:** 5 Oct 2026 · European Parliament: Committee opinion adopted
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events

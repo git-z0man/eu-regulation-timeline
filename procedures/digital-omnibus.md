@@ -1,14 +1,14 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 09 Oct 2026.
+Procedure 2025/0360(COD), as of 9 Oct 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 22 Jun 2026
-- **Council:** draft mandate before Coreper (ST 13886/26 REV 1 of 05 Oct 2026)
-- **Latest activity:** 05 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26 REV 1)
+- **Council:** draft mandate before Coreper (ST 13886/26 REV 1 of 5 Oct 2026)
+- **Latest activity:** 5 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 13886/26 REV 1)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 13886/26 REV 1)
 
 ## Events

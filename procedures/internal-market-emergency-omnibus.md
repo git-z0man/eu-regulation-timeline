@@ -5,8 +5,8 @@ Drawing: [internal-market-emergency-omnibus.svg](internal-market-emergency-omnib
 
 ## Status and next steps
 
-- **Stage:** Completed, published 08 Nov 2024
-- **Latest activity:** 08 Nov 2024 · Signature and publication: Published in the Official Journal (CELEX 32024R2748)
+- **Stage:** Completed, published 8 Nov 2024
+- **Latest activity:** 8 Nov 2024 · Signature and publication: Published in the Official Journal (CELEX 32024R2748)
 
 ## Events
 

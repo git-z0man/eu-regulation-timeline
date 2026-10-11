@@ -1,6 +1,6 @@
 # European Artificial Intelligence Board
 
-Expert group X03966, CNECT. Act: [AI Act](ai-act.md).
+Expert group X03966, CNECT. Act: [Artificial Intelligence Act](ai-act.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3966). Back to [all committees](committees.md).
 

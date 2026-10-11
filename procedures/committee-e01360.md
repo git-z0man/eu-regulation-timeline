@@ -1,6 +1,6 @@
 # Expert Group on Toys Safety
 
-Expert group E01360, GROW. Act: [TSR](toy-safety-regulation.md).
+Expert group E01360, GROW. Act: [Toy Safety Regulation](toy-safety-regulation.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=1360). Back to [all committees](committees.md).
 

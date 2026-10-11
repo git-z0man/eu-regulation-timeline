@@ -1,13 +1,13 @@
 # Legislative procedure – EU Space Act – COM(2025) 335 (proposal)
 
-Procedure 2025/0335(COD), as of 06 Oct 2026.
+Procedure 2025/0335(COD), as of 6 Oct 2026.
 Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web page: [space-act.html](space-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
-- **Parliament:** draft report 03 Mar 2026
-- **Council:** working party, latest document 01 Sep 2026
+- **Parliament:** draft report 3 Mar 2026
+- **Council:** working party, latest document 1 Sep 2026
 - **Latest activity:** 11 Sep 2026 · Council: Space Working Party meeting (morning only): Exchange of views (7806/26) (CM 3999/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 

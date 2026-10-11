@@ -1,6 +1,6 @@
-# EXPERT GROUP ON NET-ZERO TECHNOLOGIES AND SUPPLY CHAINS
+# Expert Group on Net-Zero Technologies and Supply Chains
 
-Expert group E03968, ENER, GROW. Act: [NZIA](nzia.md).
+Expert group E03968, ENER, GROW. Act: [Net Zero Industry Act](nzia.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3968). Back to [all committees](committees.md).
 

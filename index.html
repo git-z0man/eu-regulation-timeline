@@ -3,247 +3,329 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Regulation Timeline</title>
+<title>EU regulation timeline</title>
 <meta name="description" content="EU digital and product regulation: timeline, criticality and deadlines per company profile. Generated from the European Digital Regulation repository.">
 <style>
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
+@media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
+:root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
+@media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
+
 :root {
-  --bg: #f7f7f4; --panel: #ffffff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --grid: #eceeea;
-  --band: rgba(255, 214, 102, .22); --focus: #1a5fd0; --asof: #c62828; --shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.05);
-  --act: #d94841; --act-pale: #f6d3d0; --prepare: #d98a1f; --prepare-pale: #f9e6c4;
-  --operate: #3f8a5a; --operate-pale: #d5eadc; --monitor: #3f6fbf; --monitor-pale: #dce6f6;
-  --low: #8a9096; --low-pale: #e6e8ea;
-  --radius: 10px; --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --grid: #23282c;
-    --band: rgba(255, 214, 102, .10); --focus: #7aa7ff; --asof: #ff6b6b; --shadow: none;
-    --act-pale: #4a2422; --prepare-pale: #4a3719; --operate-pale: #1f3a2a; --monitor-pale: #1f2f4a; --low-pale: #2c3034;
-  }
-}
-:root[data-theme="dark"] {
-  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --grid: #23282c;
-  --band: rgba(255, 214, 102, .10); --focus: #7aa7ff; --asof: #ff6b6b; --shadow: none;
-  --act-pale: #4a2422; --prepare-pale: #4a3719; --operate-pale: #1f3a2a; --monitor-pale: #1f2f4a; --low-pale: #2c3034;
+  --bg: var(--s-paper); --panel: var(--s-sheet); --ink: var(--s-ink); --muted: var(--s-ink2); --line: var(--s-hair);
+  --grid: color-mix(in srgb, var(--s-ink) 7%, transparent); --band: color-mix(in srgb, var(--s-accent) 7%, transparent);
+  --focus: var(--s-accent); --asof: var(--s-accent); --shadow: none;
+  --act: var(--s-act); --act-pale: var(--s-act-pale); --prepare: var(--s-prepare); --prepare-pale: var(--s-prepare-pale);
+  --operate: var(--s-operate); --operate-pale: var(--s-operate-pale); --monitor: var(--s-monitor); --monitor-pale: var(--s-monitor-pale);
+  --low: var(--s-low); --low-pale: var(--s-low-pale);
+  --radius: 2px; --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
-body {
-  margin: 0; background: var(--bg); color: var(--ink);
-  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-variant-numeric: tabular-nums;
-}
-a { color: inherit; text-decoration-color: color-mix(in srgb, currentColor 40%, transparent); text-underline-offset: 2px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--s-sans); font-variant-numeric: tabular-nums; }
+a { color: var(--s-accent); text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); text-underline-offset: 3px; }
 a:hover { text-decoration-color: currentColor; }
-:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
-.wrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 40px; }
-header.top { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: flex-end; justify-content: space-between; margin-bottom: 16px; }
-h1 { font-size: clamp(20px, 2.4vw, 28px); line-height: 1.2; margin: 0 0 4px; letter-spacing: -.01em; }
-.sub { color: var(--muted); margin: 0; max-width: 70ch; }
-.sub.dl { margin-top: 4px; font-size: 13px; }
-.tools { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 48px; }
+/* masthead line: title, then week, as-of date, profile and search */
+header.top { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline; justify-content: space-between;
+  padding: 8px 0 10px; border-bottom: 3px solid var(--s-rule); }
+h1 { font: 600 clamp(19px, 2vw, 23px)/1.25 var(--s-serif); margin: 0; }
+/* "Week 41 for a [profile]": the edition and the reader's profile are the page's title */
+.headline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.headline label { font: 600 clamp(19px, 2vw, 23px)/1.25 var(--s-serif); color: var(--ink); }
+.headline select { font: 600 clamp(18px, 1.9vw, 22px)/1.2 var(--s-serif); color: var(--s-ink); padding: 2px 8px; }
+.headline .edition { color: var(--muted); font-size: 15px; white-space: nowrap; }
+.sub { color: var(--muted); margin: 6px 0 0; max-width: 80ch; font-size: 14.5px; }
+.sub.dl { margin-top: 2px; }
+.tools { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; color: var(--muted); font-size: 15px; }
+.tools .edition { white-space: nowrap; }
 .btn, select, input[type="search"] {
-  font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
-  padding: 7px 11px; min-height: 36px;
+  font: inherit; font-size: 15px; color: var(--ink); background: var(--panel); border: 1px solid color-mix(in srgb, var(--s-ink) 35%, transparent);
+  border-radius: var(--radius); padding: 6px 10px; min-height: 36px;
 }
+select { font-weight: 600; }
 .btn { cursor: pointer; }
-.btn:hover { border-color: var(--muted); }
-input[type="search"] { width: min(260px, 70vw); }
+.btn:hover { border-color: var(--ink); }
+input[type="search"] { width: min(230px, 70vw); }
 a.ext::after { content: " \2197"; font-size: .85em; }
-.open-page { display: inline-block; margin: 6px 0 10px; padding: 7px 12px; border-radius: 8px; background: var(--focus);
-  color: #fff; text-decoration: none; font-weight: 600; }
-.open-page:hover { filter: brightness(1.08); }
+.open-page { display: inline-block; margin: 6px 0 10px; padding: 7px 12px; border-radius: var(--radius); background: var(--s-accent);
+  color: var(--s-sheet); text-decoration: none; font-weight: 600; }
+.open-page:hover { filter: brightness(1.1); }
 .back-top { display: none; font-size: 14px; margin-bottom: 6px; }
 @media (max-width: 900px) { .back-top { display: inline-block; } }
-kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; color: var(--muted); }
+@media (hover: none), (max-width: 640px) { kbd { display: none; } }
+kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 3px; padding: 0 4px; color: var(--muted); }
 
-/* Alert strip: always part of the layout, never covers content */
-.strip {
-  display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; align-items: center;
-  background: var(--panel); border: 1px solid var(--line); border-left: 5px solid var(--act);
-  border-radius: var(--radius); padding: 10px 14px; margin-bottom: 14px; box-shadow: var(--shadow);
-}
-.strip .label { font-weight: 650; white-space: nowrap; }
-.deadlines { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0; padding: 0; list-style: none; }
-.deadlines li { white-space: nowrap; }
-.deadlines .days { font: 600 13px var(--mono); padding: 1px 6px; border-radius: 6px; background: var(--act-pale); margin-right: 6px; }
-@media (max-width: 640px) { .strip { grid-template-columns: 1fr; } .deadlines li { white-space: normal; } }
+/* lead: the next deadline set by law for this profile, and how much applies */
+.lead { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 18px 48px; align-items: start; padding: 22px 0 20px;
+  border-bottom: 1px solid var(--line); }
+.lead h2 { margin: 0; font-weight: 600; }
+.lead .when { display: block; font: 600 clamp(26px, 3.2vw, 36px)/1.15 var(--s-serif); margin: 4px 0 2px; }
+.lead .what { display: block; font: 600 clamp(19px, 2vw, 23px)/1.3 var(--s-serif); }
+.lead .where { margin: 8px 0 0; color: var(--muted); }
+.lead .where a { font-weight: 600; }
+.counts { display: grid; grid-template-columns: repeat(3, auto); gap: 0 28px; margin: 6px 0 0; padding: 0; list-style: none; }
+.counts li { padding: 0 0 0 14px; border-left: 1px solid var(--line); max-width: 13ch; }
+.counts li:first-child { border-left: 0; padding-left: 0; }
+.counts b { display: block; font: 600 30px/1.1 var(--s-serif); }
+.counts span { font-size: 14px; color: var(--muted); }
+@media (max-width: 760px) { .lead { grid-template-columns: 1fr; } }
 
-/* Criticality chips = legend = filters */
-.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; padding: 0; list-style: none; }
-.chip {
-  display: inline-flex; gap: 8px; align-items: center; cursor: pointer; font: inherit; color: var(--ink);
-  background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px 6px 8px; min-height: 36px;
-}
-.chip .dot { width: 12px; height: 12px; border-radius: 50%; background: var(--c); flex: none; }
-.chip .n { font: 600 12px var(--mono); color: var(--muted); }
-.chip[aria-pressed="true"] { border-color: var(--c); box-shadow: inset 0 0 0 1px var(--c); background: color-mix(in srgb, var(--c) 10%, var(--panel)); }
-.chip:hover { border-color: var(--c); }
+/* next deadlines of the profile, as a ruled list */
+.strip { margin: 0 0 14px; }
+.strip .label { display: block; font-weight: 700; font-size: 15px; padding-bottom: 5px; border-bottom: 1.5px solid var(--s-rule); }
+.deadlines { margin: 0; padding: 0; list-style: none; }
+.deadlines li { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.deadlines .days { font-weight: 600; white-space: nowrap; }
+.nowrap { white-space: nowrap; }
 
-.layout { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 16px; align-items: start; }
+/* criticality: legend and filter, one hue from urgent to low */
+.legend-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 24px; margin: 16px 0 10px; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 0; padding: 0; list-style: none; align-items: center; }
+.dl-near { margin: 0; font-size: 14.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
+.dl-near a { font-weight: 600; }
+.palette { margin: 0; display: flex; gap: 12px; align-items: center; font-size: 14.5px; color: var(--muted); }
+.palette button { font: inherit; color: var(--ink); background: none; border: 0; border-bottom: 2px solid transparent; padding: 2px 0; cursor: pointer; }
+.palette button[aria-pressed="true"] { border-bottom-color: var(--s-accent); color: var(--s-accent); font-weight: 600; }
+.chips::before { content: "Rating for this profile"; font-weight: 600; font-size: 14.5px; margin-right: 4px; }
+.chip { display: inline-flex; gap: 7px; align-items: center; cursor: pointer; font: inherit; font-size: 14.5px; color: var(--ink);
+  background: none; border: 0; border-bottom: 2px solid transparent; padding: 4px 0; min-height: 32px; }
+.chip .dot { width: 12px; height: 12px; background: var(--c); flex: none; }
+.chip .n { font-weight: 600; color: var(--muted); }
+.chip[aria-pressed="true"] { border-bottom-color: var(--ink); font-weight: 600; }
+.chip:hover { border-bottom-color: var(--line); }
+
+/* the key to the drawing, next to it rather than in the footer */
+.legend-row.second { margin: 0 0 10px; }
+.key { display: flex; flex-wrap: wrap; gap: 4px 20px; margin: 0; padding: 0; list-style: none; font-size: 14px; color: var(--muted); }
+.key li { display: inline-flex; align-items: center; gap: 7px; }
+.key .sw { width: 22px; height: 10px; border: 1px solid var(--s-operate); display: inline-block; }
+.key .sw.pale { background: var(--s-operate-pale); } .key .sw.solid { background: var(--s-operate); }
+.key .sw.hatch { border-style: dashed; background: repeating-linear-gradient(135deg, color-mix(in srgb, var(--s-operate) 45%, transparent) 0 2px, transparent 2px 7px); }
+.key .dm { width: 9px; height: 9px; transform: rotate(45deg); border: 1.5px solid var(--ink); background: var(--panel); display: inline-block; margin: 0 2px; }
+.key .dm.ob { background: var(--ink); }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; align-items: start; }
 .layout > * { min-width: 0; }
 @media (max-width: 1080px) { .layout { grid-template-columns: 1fr; } }
-.card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+@media (max-width: 640px) { .axis, .row, .grp { grid-template-columns: 130px 1fr; } .overlay { left: 130px; }
+  .row .name { font-size: 13.5px; padding-left: 8px; } .axis .corner { padding-left: 8px; } }
+.card { background: var(--panel); border: 1px solid var(--line); }
 
 /* Timeline */
-.tl { overflow-x: auto; overscroll-behavior-x: contain; border-radius: var(--radius); }
+.tl { overflow-x: auto; overscroll-behavior-x: contain; }
 .tl-inner { min-width: 860px; position: relative; padding: 0 0 8px; }
 .axis, .row, .grp { display: grid; grid-template-columns: 210px 1fr; }
-.axis { position: sticky; top: 0; z-index: 3; background: var(--panel); border-bottom: 1px solid var(--line); height: 34px; }
+.axis { position: sticky; top: 0; z-index: 3; background: var(--panel); border-bottom: 1.5px solid var(--s-rule); height: 34px; }
 .axis .years { position: relative; }
-.axis .yr { position: absolute; top: 0; height: 34px; display: flex; align-items: center; justify-content: center; font-weight: 600; font-size: 13px; color: var(--muted); }
-.axis .corner { display: flex; align-items: center; padding-left: 14px; font-weight: 600; font-size: 13px; color: var(--muted); }
-.grp { background: color-mix(in srgb, var(--ink) 6%, var(--panel)); }
-.grp h2 { grid-column: 1 / -1; margin: 0; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; padding: 7px 14px; color: var(--muted); }
+.axis .yr { position: absolute; top: 0; height: 34px; display: flex; align-items: center; justify-content: center; font-weight: 600; font-size: 14px; }
+.axis .corner { display: flex; align-items: center; padding-left: 14px; font-weight: 600; font-size: 14px; }
+.grp { background: var(--s-tint); }
+.grp h2 { grid-column: 1 / -1; margin: 0; font-size: 14px; font-weight: 700; padding: 6px 14px; }
 .row {
-  position: relative; min-height: 48px; border-bottom: 1px solid var(--grid); cursor: pointer; background: none;
+  position: relative; min-height: 50px; border-bottom: 1px solid var(--grid); cursor: pointer; background: none;
   width: 100%; border-left: 0; border-right: 0; border-top: 0; padding: 0; text-align: left; font: inherit; color: inherit;
-  transition: opacity .18s ease, filter .18s ease;
 }
-.row .name { display: flex; align-items: center; gap: 9px; padding: 6px 10px 6px 14px; font-size: 14px; line-height: 1.25;
+.row .bar, .row .ms { transition: opacity .18s ease; }
+.row .name { display: flex; align-items: center; gap: 9px; padding: 6px 10px 6px 14px; font-size: 15px; line-height: 1.25;
   position: sticky; left: 0; z-index: 2; background: var(--panel); }
 .axis .corner { position: sticky; left: 0; z-index: 4; background: var(--panel); }
-.row .name .dot { width: 11px; height: 11px; border-radius: 50%; background: var(--c); flex: none; }
+.row .name .dot { width: 10px; height: 10px; background: var(--c); flex: none; }
 .row .track { position: relative; }
-.row:hover, .row[aria-current="true"] { background: color-mix(in srgb, var(--c) 7%, transparent); }
-.row[aria-current="true"] .name { font-weight: 650; }
-.tl.filtering .row:not(.match) { opacity: .28; filter: saturate(.2); }
+.row:hover, .row[aria-current="true"] { background: var(--s-tint); }
+.row:hover .name, .row[aria-current="true"] .name { background: var(--s-tint); }
+.row[aria-current="true"] .name { font-weight: 700; }
+/* dimmed rows: only the drawing fades, names and labels stay legible */
+.tl.filtering .row:not(.match) :is(.bar, .ms, .name .dot) { opacity: .25; }
+.tl.filtering .row:not(.match) :is(.name, .ms-l) { color: var(--muted); }
 .tl.searching .row:not(.match), .tl.searching .grp.empty { display: none; }
 .tl .nohit { padding: 14px; color: var(--muted); }
-.q-n { flex-basis: 100%; text-align: right; font-size: 12px; color: var(--muted); min-height: 1em; }
-.tl.spot .row:not(.spotlit) { opacity: .45; }
-.bar { position: absolute; top: 50%; height: 14px; transform: translateY(-50%); border: 1px solid var(--c); border-radius: 3px; }
+.q-n { flex-basis: 100%; text-align: right; font-size: 13px; color: var(--muted); min-height: 1em; }
+.tl.spot .row:not(.spotlit) :is(.bar, .ms) { opacity: .45; }
+.bar { position: absolute; top: 50%; height: 14px; transform: translateY(-50%); border: 1px solid var(--c); }
 .bar.in-force { background: var(--cp); }
 .bar.applicable { background: var(--c); }
-.bar.procedure { background: repeating-linear-gradient(135deg, var(--cp) 0 6px, transparent 6px 10px); border-style: dashed; border-width: 2px; }
-.bar.amend { height: 6px; top: auto; bottom: 5px; transform: none; opacity: .9; }
+.bar.procedure { background: repeating-linear-gradient(135deg, color-mix(in srgb, var(--c) 45%, transparent) 0 2px, transparent 2px 7px);
+  border-style: dashed; border-width: 1.5px; }
+.bar.amend { height: 6px; top: auto; bottom: 5px; transform: none; }
 .ms {
   position: absolute; top: 50%; width: 11px; height: 11px; margin: -5.5px 0 0 -5.5px; transform: rotate(45deg);
-  background: var(--panel); border: 1.5px solid var(--ink); z-index: 1;
+  background: var(--panel); border: 1.5px solid var(--ink); z-index: 3;   /* above the today line */
+  box-shadow: 0 0 0 2px var(--panel);   /* a paper ring: the diamond stays visible on a dark bar */
 }
 .ms.ob { background: var(--ink); }
-.ms-l { position: absolute; font-size: 10.5px; color: var(--muted); white-space: nowrap; transform: translateX(-50%); pointer-events: none; }
-.ms-l.up { top: 2px; } .ms-l.down { bottom: 1px; }
+.ms-l { position: absolute; z-index: 3; font-size: 11.5px; line-height: 1.25; color: var(--muted); white-space: nowrap; transform: translateX(-5px);
+  pointer-events: none;   /* a flag: the text starts at its diamond */   /* a thin halo in the sheet colour keeps a label legible over lines, without a box */
+  text-shadow: 0 0 1px var(--panel), 0 0 2px var(--panel), 0 0 2px var(--panel); }
+.ms-l.up { top: 1px; } .ms-l.down { bottom: 0; }
 .gridline { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--grid); pointer-events: none; }
-.overlay { position: absolute; top: 34px; bottom: 0; left: 210px; right: 0; pointer-events: none; z-index: 2; }
+.overlay { position: absolute; top: 34px; bottom: 8px; left: 210px; right: 0; pointer-events: none; z-index: 2; }
 .band { position: absolute; top: 0; bottom: 0; background: var(--band); }
-.cursor { position: absolute; top: 0; bottom: 0; width: 0; border-left: 2px dashed var(--asof); }
-.cursor.scrub { border-left: 2px solid var(--focus); }
-.cursor span { position: absolute; top: 4px; left: 4px; font: 600 11px var(--mono); color: var(--asof); background: var(--panel); padding: 0 4px; border-radius: 4px; white-space: nowrap; }
-.cursor.scrub span { color: var(--focus); top: 22px; }
+.cursor { position: absolute; top: 0; bottom: 0; width: 0; border-left: 2px solid var(--asof); }
+.cursor.scrub { border-left: 2px dashed var(--ink); }
+.cursor span { position: absolute; top: 4px; left: 4px; font: 600 12px var(--s-sans); color: var(--asof); background: var(--panel); padding: 0 4px; white-space: nowrap; }
+.cursor.scrub span { color: var(--ink); top: 22px; }
 
 /* Scrubber */
-.scrub-box { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; padding: 12px 14px; border-top: 1px solid var(--line); }
-.scrub-box label { font-weight: 600; white-space: nowrap; }
-.scrub-box input[type="range"] { width: 100%; accent-color: var(--focus); }
-.scrub-box output { font: 600 13px var(--mono); min-width: 12ch; text-align: right; }
-@media (max-width: 640px) { .scrub-box { grid-template-columns: 1fr auto; } .scrub-box label { grid-column: 1 / -1; } }
+/* the slider spans the same width as the years above it (the act column is 210px wide) */
+.scrub-box { display: grid; grid-template-columns: 210px 1fr; align-items: center; padding: 12px 0; border-top: 1px solid var(--line); }
+.scrub-box label { font-weight: 600; white-space: nowrap; padding-left: 14px; }
+.scrub-box output { font-weight: 600; margin-left: 6px; }
+.scrub-box input[type="range"] { width: 100%; margin: 0; accent-color: var(--s-accent); }
+@media (max-width: 640px) { .scrub-box { grid-template-columns: 1fr; gap: 6px; padding: 12px 14px; } .scrub-box label { padding: 0; } }
 
 /* Detail panel */
 .detail { position: sticky; top: 12px; padding: 16px 18px 18px; max-height: calc(100vh - 24px); overflow: auto; contain: content; }
 @media (max-width: 1080px) { .detail { position: static; max-height: none; } }
-.detail h3 { margin: 0 0 2px; font-size: 18px; line-height: 1.25; }
-.detail .meta { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
-.badge { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; padding: 3px 9px; border-radius: 999px; background: var(--cp); border: 1px solid var(--c); }
-.badge .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
-.detail h4 { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 16px 0 6px; }
+.detail h3 { margin: 0 0 2px; font: 600 20px/1.25 var(--s-serif); }
+.detail .meta { color: var(--muted); font-size: 14px; margin: 0 0 12px; }
+.badge { display: inline-flex; align-items: center; gap: 7px; font-size: 14.5px; font-weight: 600; }
+.badge .dot { width: 11px; height: 11px; background: var(--c); }
+.detail h4 { font-size: 15px; font-weight: 700; margin: 18px 0 6px; padding-bottom: 4px; border-bottom: 1.5px solid var(--s-rule); }
 .detail p { margin: 0 0 8px; }
 .ms-list { list-style: none; margin: 0; padding: 0; }
-.ms-list li { display: grid; grid-template-columns: 92px 1fr auto; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--grid); font-size: 14px; }
-.ms-list time { font: 12.5px var(--mono); color: var(--muted); padding-top: 1px; }
-.ms-list .rel { font: 12px var(--mono); color: var(--muted); white-space: nowrap; }
-.ms-list .past { color: var(--muted); }
-.ob-tag { font-size: 11px; font-weight: 600; color: var(--act); margin-left: 4px; }
-.empty { color: var(--muted); }
+.ms-list li { display: grid; grid-template-columns: 96px 1fr auto; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--line); font-size: 14.5px; }
+.ms-list time { font-weight: 600; padding-top: 1px; font-size: 14px; }
+.ms-list .rel { font-size: 13px; color: var(--muted); white-space: nowrap; }
+.ms-list .past, .ms-list .past time { color: var(--muted); font-weight: 400; }
+.ob-tag { font-size: 12.5px; font-weight: 600; color: var(--s-accent); margin-left: 4px; }
+.empty { color: var(--muted); font-weight: 400; }
 .close { float: right; }
 
 /* Table view */
 details.table-view { margin-top: 16px; }
 details.table-view summary { cursor: pointer; font-weight: 600; padding: 10px 14px; }
 .tbl-wrap { overflow-x: auto; }
-table { border-collapse: collapse; width: 100%; font-size: 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
 th, td { text-align: left; padding: 8px 12px; border-top: 1px solid var(--line); vertical-align: top; }
-th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
-footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.6; }
+th { font-size: 14px; font-weight: 700; }
+footer { color: var(--muted); font-size: 14px; margin-top: 24px; line-height: 1.6; max-width: 110ch; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 @media print {
   .tools, .scrub-box, .chips, details.table-view summary { display: none; }
   details.table-view { display: block; } details.table-view > * { display: block; }
   .layout { grid-template-columns: 1fr; } .detail { display: none; }
-  body { background: #fff; } .card { box-shadow: none; }
+  body { background: #fff; }
 }
 </style>
+<script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script>
 </head>
 <body>
 <div class="wrap">
-  <style>
-.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
-  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
-.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
-.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
-.sitenav a.item:hover { background: var(--chip, #eef1f6); }
-.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
-.sitenav .brandbox { display: inline-flex; flex-direction: column; line-height: 1.15; margin-right: 8px; }
-.sitenav .brandbox .brand { margin-right: 0; }
-.sitenav a.by { color: var(--muted, #5b646b); text-decoration: none; font-size: 12px; white-space: nowrap; }
-.sitenav a.by:hover, .sitenav a.by[aria-current="page"] { text-decoration: underline; }
-.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
-  text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
-.sitenav a.repo:hover { background: var(--chip, #eef1f6); }
-.sitenav a.repo span { display: none; }   /* the icon alone: room for the credit (tools/credit.py) */
-@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
-  .sitenav .brandbox .brand, .sitenav a.repo span { display: none; } }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a><a class="by" href="about.html">by Steffen Zimmermann</a></span><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+  <style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
+@media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
+:root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
+@media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
+
+.sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
+  border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
+.sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
+.sitenav a.item { color: var(--s-ink); text-decoration: none; padding: 6px 0; white-space: nowrap;
+  border-bottom: 2px solid transparent; }
+.sitenav a.item:hover { border-bottom-color: var(--s-hair); }
+.sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
+.sitenav .brandbox { display: inline-flex; margin-right: 10px; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+  text-decoration: none; padding: 6px 0; white-space: nowrap; }
+.sitenav a.repo span { display: none; }   /* the icon alone */
+.sitenav a:focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+@media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; } }
+/* phones: brand and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+@media (max-width: 640px) { .sitenav { gap: 2px 14px; }
+  .sitenav .brandbox { order: -2; flex: 1 0 calc(100% - 40px); margin-right: 0; }
+  .sitenav a.repo { order: -1; margin-left: 0; }
+  .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
+.sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
+  font: 14px/1.5 var(--s-sans); }
+.sitefoot a { color: var(--s-ink2); }
+.sitefoot a:hover { color: var(--s-accent); }
+::selection { background: var(--s-accent-tint); color: var(--s-ink); }
+html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
   <header class="top">
-    <div>
+    <div class="headline">
       <h1 id="title">EU digital and product regulation</h1>
-      <p class="sub" id="subtitle"></p>
-      <p class="sub dl" id="downloads"></p>
+      <span class="nowrap"><label for="profile">for a</label> <select id="profile"></select></span>
+      <span class="edition" id="edition"></span>
     </div>
     <div class="tools">
-      <label class="sr" for="profile">Company profile</label>
-      <select id="profile"></select>
       <label class="sr" for="q">Search acts</label>
       <input id="q" type="search" placeholder="Search acts, e.g. CRA" autocomplete="off">
       <kbd aria-hidden="true">/</kbd>
-      <button class="btn" type="button" id="theme" aria-label="Toggle dark mode">◐</button>
+      <button class="btn" type="button" id="theme" aria-label="Switch between light and dark">Dark</button>
       <output class="q-n" id="q-n" for="q" aria-live="polite"></output>
     </div>
   </header>
+  <p class="sub" id="subtitle"></p>
+  <p class="sub dl" id="downloads"></p>
+
+  <section class="lead" aria-labelledby="lead-line">
+    <div>
+      <h2 id="lead-line"></h2>
+      <p class="where" id="lead-where"></p>
+    </div>
+    <ul class="counts" id="counts" aria-label="Acts on the timeline today"></ul>
+  </section>
 
   <style>
-:root { --accent: var(--focus); --chip: rgba(127, 127, 127, .12); }
-.start { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 2fr); gap: 12px; margin: 0 0 14px; }
-.start .week { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 0 16px; }
-.start .views { display: inline-flex; gap: 4px; margin-left: 8px; vertical-align: 2px; }
-.start .views button { font: inherit; font-size: 12px; border: 1px solid var(--line); background: var(--chip);
-  color: var(--ink); border-radius: 999px; padding: 1px 9px; cursor: pointer; }
-.start .views button[aria-pressed="true"] { background: var(--focus); border-color: var(--focus); color: #fff; }
-/* the timeline's downloads and next deadlines, moved into the cards by the page script */
-.start .diy { margin: 12px 0 0; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--focus);
-  background: color-mix(in srgb, var(--focus) 8%, transparent); }
-.start .diy strong { display: block; } .start .diy span { display: block; color: var(--muted); margin: 2px 0 8px; }
-.start .diy .chipset { margin: 0; } .start .diy .chipset a.go { background: var(--focus); color: #fff; font-weight: 600; }
-.start #slot-downloads .dl { margin: 12px 0 0; font-size: 13px; color: var(--muted); }
-.start .strip { display: block; background: none; border: 0; box-shadow: none; padding: 0; margin: 14px 0 0; }
-.start .strip .label { display: block; font-size: 13px; color: var(--muted); font-weight: 600; margin: 0 0 4px; }
-.start .deadlines { flex-direction: column; gap: 4px; } .start .deadlines li { white-space: normal; }
-.start h3 { font-size: 13px; margin: 2px 0 4px; color: var(--muted); font-weight: 600; }
-.start .sc { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
-  box-shadow: var(--shadow); font-size: 14px; }
-.start h2 { font-size: 15px; margin: 0 0 4px; } .start p { margin: 0 0 8px; color: var(--muted); }
-.start .chipset { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 8px; }
-.start .chipset a { background: var(--chip); border-radius: 999px; padding: 3px 10px; text-decoration: none; color: var(--ink); }
-.start .chipset a:hover { background: var(--focus); color: #fff; }
-.start ul.latest { list-style: none; margin: 0 0 8px; padding: 0; }
-.start ul.latest li { margin: 0 0 6px; line-height: 1.35; }
-.start ul.latest .d { color: var(--muted); font-size: 12px; }
-.start .more { display: flex; flex-wrap: wrap; gap: 4px 12px; } .start .more a { white-space: nowrap; }
-.start p.lead { color: var(--ink); margin: 0 0 10px; } .start p.lead a { font-weight: 600; }
-.start p.lead span { display: block; font-size: 12px; color: var(--muted); }
-@media (max-width: 900px) { .start, .start .week { grid-template-columns: minmax(0, 1fr); } }
-</style><section class="start" aria-label="Start here"><div class="sc"><h2>The overview</h2><p>All acts on one timeline: when they apply, the next deadlines and a rating for your company profile.</p><div class="more"><a href="#tl">Explore the timeline ↓</a></div><div class="diy"><strong>Your own chart, e.g. for slides</strong><span>Pick the acts you need and download the timeline as PNG or SVG.</span><div class="chipset"><a href="chart.html#rows=cra%2Cred-cyber%2Ccsa%2Cai-act%2Cmachinery%2Cstandardisation">Cybersecurity of products</a><a href="chart.html#rows=machinery%2Ccra%2Cai-act%2Cgpsr%2Cpld%2Cmsr%2Cepa%2Cstandardisation%2Cdigitalisation">Product framework and standardisation</a><a href="chart.html#rows=cra%2Cred-cyber%2Cnis2%2Ccsa%2Cai-act%2Cmachinery">Cybersecurity incl. NIS-2</a><a href="chart.html#rows=ai-act">AI</a><a class="go" href="chart.html">Pick acts →</a></div></div><div id="slot-downloads"></div></div><div class="sc"><h2>One regulation</h2><p>Everything about an act: dates, pending changes, texts, standards, committees and its legislative procedure.</p><div class="chipset"><a href="acts/cra.html">CRA</a><a href="acts/machinery-regulation.html">MR</a><a href="acts/ai-act.html">AI Act</a><a href="acts/nis2.html">NIS-2</a><a href="acts/csa2.html">CSA2</a><a href="acts/digital-omnibus.html">Digital Omnibus</a><a href="acts/standardisation-revision.html">NSR</a><a href="acts/market-surveillance.html">MSR</a></div><div class="more"><a href="acts/index.html">All regulations →</a><a href="procedures/index.html">All legislative procedures →</a></div><div id="slot-deadlines"></div></div><div class="sc"><h2>This week in the EU<span class="views" id="week-views"></span></h2><p class="lead" id="news-lead" hidden></p><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div class="week" id="week" hidden><div><h3>Next 7 days</h3><ul class="latest" id="ahead"></ul></div><div><h3>Last 7 days, the main points</h3><ul class="latest" id="recap"></ul></div></div><div class="more"><a href="news/index.html">Regulation Desk →</a><a href="procedures/changes.html">Latest activity</a><a href="procedures/index.html#coming-up">Coming up</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a><a href="procedures/feed.xml">Atom feed</a></div></div></section><script>
+.start { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px 48px; padding: 18px 0 6px; }
+.start > div { display: flex; flex-direction: column; }
+.start .more { margin-top: auto; padding-top: 10px; }
+.start h2 { font-size: 16px; font-weight: 700; margin: 0; padding-bottom: 5px; border-bottom: 1.5px solid var(--s-rule);
+  display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline; }
+.start h3 { font-size: 15px; font-weight: 600; margin: 14px 0 0; color: var(--s-ink2); }
+.start .views { display: inline-flex; gap: 12px; font-weight: 400; }
+.start .views button { font: inherit; font-size: 14.5px; border: 0; border-bottom: 2px solid transparent; background: none;
+  color: var(--s-ink); padding: 0 0 1px; cursor: pointer; }
+.start .views button[aria-pressed="true"] { border-bottom-color: var(--s-accent); color: var(--s-accent); font-weight: 600; }
+.start ul.latest { list-style: none; margin: 0; padding: 0; }
+.start ul.latest li { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; padding: 8px 0;
+  border-bottom: 1px solid var(--s-hair); line-height: 1.4; }
+.start ul.latest li.d { display: block; color: var(--s-ink2); font-weight: 400; }
+.start ul.latest .d { font-weight: 600; white-space: nowrap; }
+.start ul.latest strong { font-weight: 600; margin-right: 4px; }
+.start ul.latest a { color: var(--s-ink); text-decoration-color: var(--s-accent); }
+.start .strip { margin: 14px 0 0; } .start .strip .label { font-size: 15px; font-weight: 600; color: var(--s-ink2);
+  border: 0; padding: 0; }
+.start p.news { margin: 10px 0 0; } .start p.news span { color: var(--s-ink2); margin-right: 6px; }
+.start .more { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 10px 0 0; font-size: 15px; }
+.ways { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px 48px; padding: 18px 0 4px;
+  border-bottom: 1px solid var(--s-hair); margin-bottom: 4px; }
+.ways h2 { font-size: 16px; font-weight: 700; margin: 0 0 4px; }
+.ways p { margin: 0 0 6px; color: var(--s-ink2); font-size: 15px; }
+.ways .list { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 15px; }
+.ways .list.col { flex-direction: column; align-items: flex-start; }
+.ways ul.acts { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 32px; font-size: 15px; }
+.ways ul.acts li { padding: 4px 0; border-bottom: 1px solid var(--s-hair); }
+.ways .abbr { color: var(--s-ink2); font-size: 14px; }
+@media (max-width: 560px) { .ways ul.acts { grid-template-columns: minmax(0, 1fr); } }
+.ways h3 { font-size: 15px; font-weight: 700; margin: 14px 0 2px; }
+.ways .list + .list { margin-top: 10px; }
+.ways ul.fc { list-style: none; margin: 0 0 8px; padding: 0; font-size: 15px; }
+.ways ul.fc li { display: flex; justify-content: space-between; gap: 12px; padding: 4px 0; border-bottom: 1px solid var(--s-hair); }
+.ways ul.fc .when { color: var(--s-ink2); white-space: nowrap; font-variant-numeric: tabular-nums; }
+@media (max-width: 900px) { .start, .ways { grid-template-columns: minmax(0, 1fr); } .start > div + div, .ways > div + div { margin-top: 22px; } }
+</style><section class="start" aria-label="This week in the EU"><div><h2>What happened this week<span class="views" id="week-views"></span></h2><p id="week-fallback"><a href="procedures/changes.html">New documents and events of the procedures, committees and expert groups</a></p><div id="week" hidden><ul class="latest" id="recap"></ul></div><p class="news" id="news-lead" hidden></p><div class="more"><a href="procedures/changes.html">Latest activity</a><a href="news/index.html">News</a><a href="procedures/feed.xml">Atom feed</a></div></div><div><h2>What comes next</h2><h3>In the next seven days</h3><ul class="latest" id="ahead"></ul><div id="slot-deadlines"></div><div class="more"><a href="procedures/index.html#coming-up">Coming up in the procedures</a><a href="procedures/committees.html">Committees</a><a href="procedures/standardisation.html">Standards</a></div></div></section><section class="ways" aria-label="Ways on"><div><h2>When will it be law?</h2><p>Our forecast for the open proposals, from the durations of all comparable EU laws since 2012 (median date in the Official Journal).</p><ul class="fc" id="fc"><li data-act="epa"><span><a href="forecast/epa.html">European Product Act</a> <span class="abbr">EPA</span></span><span class="when"></span></li><li data-act="standardisation-revision"><span><a href="forecast/standardisation-revision.html">New Standardisation Regulation</a> <span class="abbr">NSR</span></span><span class="when"></span></li><li data-act="digital-omnibus"><span><a href="forecast/digital-omnibus.html">Digital Omnibus</a></span><span class="when"></span></li><li data-act="csa2"><span><a href="forecast/csa2.html">Cybersecurity Act 2</a> <span class="abbr">CSA2</span></span><span class="when"></span></li><li data-act="public-procurement-act"><span><a href="forecast/public-procurement-act.html">Public Procurement Act</a> <span class="abbr">PPA</span></span><span class="when"></span></li></ul><div class="list"><a href="forecast/index.html"><strong>All forecasts</strong></a></div></div><div><h2>Regulations and topics</h2><p>A page per act: dates, pending changes, texts, standards and committees.</p><ul class="acts"><li><a href="acts/cra.html">Cyber Resilience Act</a> <span class="abbr">CRA</span></li><li><a href="acts/machinery-regulation.html">Machinery Regulation</a> <span class="abbr">MR</span></li><li><a href="acts/ai-act.html">Artificial Intelligence Act</a> <span class="abbr">AI Act</span></li><li><a href="acts/nis2.html">NIS 2 Directive</a> <span class="abbr">NIS-2</span></li><li><a href="acts/csa2.html">Cybersecurity Act 2</a> <span class="abbr">CSA2</span></li><li><a href="acts/digital-omnibus.html">Digital Omnibus</a></li><li><a href="acts/standardisation-revision.html">New Standardisation Regulation</a> <span class="abbr">NSR</span></li><li><a href="acts/market-surveillance.html">Market Surveillance Regulation</a> <span class="abbr">MSR</span></li></ul><h3>Topics of high interest</h3><p>One question across acts, with the provisions that matter.</p><div class="list col"><a href="acts/topic-high-risk-suppliers.html">High-risk suppliers</a><a href="acts/topic-standardisation-reform.html">New Standardisation Regulation – routes to presumption of conformity</a></div><div class="list"><a href="acts/index.html"><strong>All regulations and topics</strong></a></div></div></section><script>
 (function () {
   var box = document.getElementById("week");
   if (!box || !window.fetch) return;
@@ -261,19 +343,29 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       li.className = "d"; li.textContent = empty; ul.appendChild(li); return;
     }
     items.forEach(function (i) {
-      var li = document.createElement("li"), a = document.createElement("a"), s = document.createElement("div"),
-          b = document.createElement("strong");
-      b.textContent = i.act + " "; a.href = i.url; a.textContent = i.text;
+      var li = document.createElement("li"), a = document.createElement("a"), s = document.createElement("span"),
+          b = document.createElement("strong"), t = document.createElement("span");
+      b.textContent = i.act; a.href = i.url; a.textContent = i.text;
       s.className = "d"; s.textContent = day(i.date, asOf);
-      li.appendChild(s); li.appendChild(b); li.appendChild(a); ul.appendChild(li);
+      t.appendChild(b); t.appendChild(a); li.appendChild(s); li.appendChild(t); ul.appendChild(li);
     });
   }
+  // the forecast block: median date in the Official Journal per act (tools/forecast.py)
+  fetch("forecast/forecast.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+    if (!d || !d.results) return;
+    document.querySelectorAll("#fc li").forEach(function (li) {
+      var f = d.results[li.dataset.act], m = f && f.steps && f.steps.oj && f.steps.oj["0.5"];
+      if (!m) { li.hidden = true; return; }
+      var t = new Date(m + "T12:00:00Z");
+      li.querySelector(".when").textContent = "law around " + months[t.getUTCMonth()] + " " + t.getUTCFullYear();
+    });
+  }).catch(function () {});
   // the lead story of the news section (tools/news.py), above the week
   fetch("news/stories.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
     var s = d && d.stories && d.stories[0], p = document.getElementById("news-lead");
     if (!s || !p) return;
     var k = document.createElement("span"), a = document.createElement("a");
-    k.textContent = "Regulation Desk · " + (s.kicker || "") ; a.href = "news/index.html"; a.textContent = s.headline;
+    k.textContent = "In the news:"; a.href = "news/index.html"; a.textContent = s.headline;
     p.appendChild(k); p.appendChild(a); p.hidden = false;
   }).catch(function () {});
   function get() { try { return localStorage.getItem("week-view"); } catch (e) { return null; } }
@@ -284,8 +376,9 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     if (!d.views.some(function (v) { return v.key === current; })) current = d.views[0].key;
     function show() {
       var v = d.views.filter(function (x) { return x.key === current; })[0];
-      list("ahead", v.ahead || [], d.as_of, "No dated steps in the next seven days.");
-      list("recap", v.recap || [], d.as_of, "Nothing new in the last seven days.");
+      list("ahead", v.ahead || [], d.as_of, "No dated EU steps in the next seven days.");
+      list("recap", (v.recap || []).slice().sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; }),
+           d.as_of, "Nothing new in the last seven days.");
       Array.prototype.forEach.call(bar.children, function (b) {
         b.setAttribute("aria-pressed", b.dataset.key === current ? "true" : "false");
       });
@@ -304,12 +397,27 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
 })();
 </script>
   <section class="strip" aria-labelledby="dl-label">
-    <span class="label" id="dl-label">Next deadlines</span>
+    <span class="label" id="dl-label">Deadlines for this profile</span>
     <ul class="deadlines" id="deadlines"></ul>
   </section>
 
-  <ul class="chips" id="chips" aria-label="Filter by criticality"></ul>
-
+  <!-- two rows above the timeline: what colours and shapes mean (left), how to show and take it (right) -->
+  <div class="legend-row">
+    <ul class="chips" id="chips" aria-label="Filter by criticality"></ul>
+    <p class="palette" role="group" aria-label="Colours of the rating">Colours
+      <button type="button" data-palette="calm">one hue</button>
+      <button type="button" data-palette="rank">by rank</button></p>
+  </div>
+  <div class="legend-row second">
+    <ul class="key" aria-label="Key to the timeline">
+      <li><i class="sw pale"></i>in force, not yet applicable</li>
+      <li><i class="sw solid"></i>applies</li>
+      <li><i class="sw hatch"></i>proposal (not law)</li>
+      <li><i class="dm"></i>milestone</li>
+      <li><i class="dm ob"></i>obligations start</li>
+    </ul>
+    <p class="dl-near" id="dl-near"></p>
+  </div>
   <div class="layout">
     <section class="card" aria-label="Timeline">
       <div class="tl" id="tl">
@@ -321,9 +429,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
         </div>
       </div>
       <div class="scrub-box">
-        <label for="scrub">Status on date</label>
+        <label for="scrub">Status on <output id="scrub-out" for="scrub"></output></label>
         <input id="scrub" type="range" min="0" max="100" step="1">
-        <output id="scrub-out" for="scrub"></output>
       </div>
     </section>
 
@@ -336,10 +443,10 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   </details>
 
   <footer id="footer"></footer>
-</div>
+<footer class="sitefoot">EU regulation timeline, a private project by <a href="about.html">Steffen Zimmermann</a> · <a href="LICENSE.md">CC BY 4.0</a></footer></div>
 
 <script type="application/json" id="data">{
- "as_of": "2026-10-10",
+ "as_of": "2026-10-11",
  "horizon": {
   "start": "2024-01-01",
   "end": "2031-01-01"
@@ -441,6 +548,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Notified bodies",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "art": "Art. 71",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.en.md#art-71"
       },
       {
@@ -448,6 +556,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Reporting Art. 14",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "art": "Art. 71",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.en.md#art-71"
       },
       {
@@ -455,6 +564,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Full application",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "art": "Art. 71",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.en.md#art-71"
       }
      ],
@@ -559,6 +669,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Applies",
        "obligation": true,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2444",
+       "art": "Art. 1 Delegated Regulation 2023/2444",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red-cybersecurity-postponement/2023-10-27_oj.en.md#art-1"
       },
       {
@@ -566,6 +677,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Repealed, CRA takes over",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg_del/2026/339/oj",
+       "art": "Art. 1 Delegated Regulation 2026/339",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/red-cybersecurity-repeal/2026-04-29_oj.en.md#art-1"
       }
      ],
@@ -647,6 +759,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Transposition",
        "obligation": true,
        "url": "http://data.europa.eu/eli/dir/2022/2555/oj",
+       "art": "Art. 41",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2/2022-12-27_oj.en.md#art-41"
       },
       {
@@ -654,6 +767,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Amendment proposal",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-01-20_com-proposal.en.md"
       }
      ],
@@ -750,6 +864,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "CSA2 proposal",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0011",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-01-20_com-proposal.en.md"
       }
      ],
@@ -832,6 +947,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Prohibitions",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2024/1689/oj",
+       "art": "Art. 113",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-113"
       },
       {
@@ -839,6 +955,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "GPAI",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2024/1689/oj",
+       "art": "Art. 113",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-113"
       },
       {
@@ -846,6 +963,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "AI Omnibus",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.en.md"
       },
       {
@@ -853,6 +971,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "High-risk Annex III",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "art": "Art. 1 Digital Omnibus on AI",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.en.md#art-1"
       },
       {
@@ -860,6 +979,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "High-risk in products",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "art": "Art. 1 Digital Omnibus on AI",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.en.md#art-1"
       }
      ],
@@ -951,6 +1071,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Proposal",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2025-11-19_com-proposal.en.md"
       },
       {
@@ -958,6 +1079,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "EP draft report",
        "obligation": false,
        "url": "https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.docx",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md"
       }
      ],
@@ -1034,6 +1156,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Applies",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2023/1230/oj",
+       "art": "Art. 54",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/2023-06-29_oj.en.md#art-54"
       },
       {
@@ -1041,6 +1164,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "AI safety requirements",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2026/1744/oj",
+       "art": "Art. 3 Digital Omnibus on AI",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.en.md#art-3"
       }
      ],
@@ -1144,6 +1268,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Transposition",
        "obligation": true,
        "url": "http://data.europa.eu/eli/dir/2024/2853/oj",
+       "art": "Art. 22",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/pld/2024-11-18_oj.en.md#art-22"
       }
      ],
@@ -1220,6 +1345,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Applies",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2023/988/oj",
+       "art": "Art. 52",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/2023-05-23_oj.en.md#art-52"
       }
      ],
@@ -1289,6 +1415,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Applies",
        "obligation": true,
        "url": "http://data.europa.eu/eli/reg/2024/2747/oj",
+       "art": "Art. 48",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/imera/2024-11-08_oj.en.md#art-48"
       }
      ],
@@ -1437,6 +1564,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "EP resolution",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/epa/2025-10-21_ep-resolution.en.md"
       },
       {
@@ -1444,6 +1572,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Proposal expected by end 2026 (postponed)",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/epa/2025-10-21_ep-resolution.en.md"
       }
      ],
@@ -1531,6 +1660,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "COM(2026) 780",
        "obligation": false,
        "url": "http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md"
       }
      ],
@@ -1637,6 +1767,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "COM(2025) 503/504",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2025-05-21_com-proposal.en.md"
       },
       {
@@ -1644,6 +1775,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Council mandate",
        "obligation": false,
        "url": "https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2025-09-19_council-position-st-13018-25.en.md"
       },
       {
@@ -1651,6 +1783,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "EP mandate",
        "obligation": false,
        "url": "https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0024/A-10-2026-0024_en.docx",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2026-02-17_ep-report-a10-0024-2026.en.md"
       },
       {
@@ -1658,6 +1791,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Agreement",
        "obligation": false,
        "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md"
       }
      ],
@@ -1749,6 +1883,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Auctions: resilience and cyber criteria",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2024/1735/oj",
+       "art": "Art. 49",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nzia/2024-06-28_oj.en.md#art-49"
       },
       {
@@ -1756,6 +1891,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Procurement rules for all contracts",
        "obligation": false,
        "url": "http://data.europa.eu/eli/reg/2024/1735/oj",
+       "art": "Art. 49",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nzia/2024-06-28_oj.en.md#art-49"
       }
      ],
@@ -1843,6 +1979,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Proposal",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.en.md"
       }
      ],
@@ -1928,6 +2065,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
        "label": "Proposal",
        "obligation": false,
        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100",
+       "art": null,
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md"
       }
      ],
@@ -1980,7 +2118,8 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     }
    ]
   }
- }
+ },
+ "rank_files": true
 }</script>
 <script>
 (() => {
@@ -2009,13 +2148,25 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   const TODAY = (() => { const n = new Date(); return new Date(Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate())); })();
   const todayIso = TODAY.toISOString().slice(0, 10);
   const pct = d => Math.max(0, Math.min(100, (day(d) - T0) / (T1 - T0) * 100));
-  const fmt = d => day(d).toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric", timeZone: "UTC" });
+  const fmt = d => day(d).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
   const daysBetween = (a, b) => Math.round((b - a) / 864e5);
   const rel = d => {
     const n = daysBetween(TODAY, day(d));
     if (n === 0) return "today";
-    const a = Math.abs(n), s = a > 90 ? Math.round(a / 30.44) + " mo" : a + " d";
+    const a = Math.abs(n), m = Math.round(a / 30.44);
+    const s = a > 90 ? m + (m === 1 ? " month" : " months") : a + (a === 1 ? " day" : " days");
     return n > 0 ? "in " + s : s + " ago";
+  };
+  const isoWeek = d => {   // ISO 8601 week number
+    const t = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+    t.setUTCDate(t.getUTCDate() + 4 - (t.getUTCDay() || 7));
+    return Math.ceil(((t - new Date(Date.UTC(t.getUTCFullYear(), 0, 1))) / 864e5 + 1) / 7);
+  };
+  const relLong = d => {   // "In 60 days", "In 3 months": the lead line
+    const n = daysBetween(TODAY, day(d));
+    if (n === 0) return "Today";
+    if (n < 0) return rel(d);
+    return n > 90 ? "In " + Math.round(n / 30.44) + " months" : "In " + n + (n === 1 ? " day" : " days");
   };
   const store = {
     get(k) { try { return localStorage.getItem("rt:" + k); } catch { return null; } },
@@ -2031,13 +2182,28 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
   // Theme toggle (default follows the system)
   const savedTheme = store.get("theme");
   if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+  const themeNow = () => document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const themeLabel = () => { $("#theme").textContent = themeNow() === "dark" ? "Light" : "Dark"; };
+  themeLabel();
   $("#theme").addEventListener("click", () => {
-    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
-    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
-    const next = cur === "dark" ? "light" : "dark";
+    const next = themeNow() === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     store.set("theme", next);
+    themeLabel();
   });
+
+  // Colours of the rating: one hue (default) or by rank; remembered, and read by the act pages too
+  const paletteNow = () => document.documentElement.dataset.palette === "rank" ? "rank" : "calm";
+  const showPalette = () => document.querySelectorAll(".palette button").forEach(b =>
+    b.setAttribute("aria-pressed", String(b.dataset.palette === paletteNow())));
+  document.querySelectorAll(".palette button").forEach(b => b.addEventListener("click", () => {
+    if (b.dataset.palette === "rank") document.documentElement.dataset.palette = "rank";
+    else delete document.documentElement.dataset.palette;
+    store.set("palette", b.dataset.palette);
+    showPalette();
+    renderDownloads();
+  }));
+  showPalette();
 
   const P = () => D.profiles[profileKey];
   const rowsOf = () => P().rows;
@@ -2061,12 +2227,26 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     const sel = $("#profile");
     fill(sel, ...Object.entries(D.profiles).map(([k, p]) => el("option", { value: k, selected: k === profileKey }, p.title)));
     sel.disabled = Object.keys(D.profiles).length < 2;
-    $("#title").textContent = "EU digital and product regulation – " + P().title;
-    $("#subtitle").textContent = `${P().description} Criticality as of ${fmt(D.as_of)}, an orientation for planning, not a legal assessment.`;
-    document.title = "Regulation Timeline – " + P().title;
-    fill($("#downloads"), "This timeline as ", ...[["png", "image (PNG)"], ["pdf", "print (PDF, A3)"], ["svg", "SVG"], ["drawio", "draw.io"]]
-      .flatMap(([ext, label], i) => [i ? " · " : "", el("a", { href: profileKey + "." + ext, download: "" }, label)]),
+    $("#title").textContent = "Week " + isoWeek(ASOF);
+    $("#edition").textContent = "as of " + fmt(D.as_of);
+    $("#subtitle").textContent = `${P().description} The rating is as of ${fmt(D.as_of)}: an orientation for planning, not a legal assessment.`;
+    document.title = "EU regulation timeline – " + P().title;
+    renderDownloads();
+  }
+  // The downloads of the whole timeline, in the colours shown (the rank palette when it is switched on and the
+  // public build has the files): once near the palette switch, once in the start page's timeline block.
+  function renderDownloads() {
+    const suffix = D.rank_files && paletteNow() === "rank" ? "-rank" : "";
+    const links = (labels) => labels.flatMap(([ext, label], i) =>
+      [i ? " · " : "", el("a", { href: profileKey + suffix + "." + ext, download: "" }, label)]);
+    $("#downloads").hidden = !!D.rank_files;   // the public page has one download row, next to the colour switch
+    const slide = D.rank_files ? [" · ", el("a", { href: profileKey + "-slide" + suffix + ".png", download: "" }, "overview for a slide (16:9, PNG)")] : [];
+    fill($("#downloads"), "This timeline as ", ...links([["png", "image (PNG)"], ["pdf", "print (PDF, A3)"], ["svg", "SVG"], ["drawio", "draw.io"]]), ...slide,
+      D.rank_files ? " (in the colours shown)" : "",
       ...($("#slot-downloads") ? [] : [" · ", el("a", { href: "chart.html#profile=" + profileKey }, "only the acts you pick (PNG for slides)")]));
+    fill($("#dl-near"), "Download", ...links([["png", "PNG"], ["pdf", "PDF (A3)"], ["svg", "SVG"], ["drawio", "draw.io"]]).filter(x => x !== " · "),
+      D.rank_files ? el("a", { href: profileKey + "-slide" + suffix + ".png", download: "", title: "The whole timeline without the notes column, 16:9" }, "slide (16:9)") : null,
+      el("a", { href: "chart.html#profile=" + profileKey + (paletteNow() === "rank" ? "&colours=rank" : "") }, "pick acts"));
   }
   function renderChips() {
     const counts = Object.fromEntries(ORDER.map(k => [k, 0]));
@@ -2089,9 +2269,36 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
     items.sort((a, b) => day(a.m.date) - day(b.m.date));
     const list = items.slice(0, 4).map(({ r, m }) => el("li", {},
       el("span", { class: "days" }, rel(m.date)),
-      el("a", { href: "#act=" + r.id, onclick: e => { e.preventDefault(); select(r.id, true); } }, r.label.split(" – ")[0]),
-      ": " + m.label + " (" + fmt(m.date) + ")"));
+      el("span", {}, el("a", { href: "#act=" + r.id, onclick: e => { e.preventDefault(); select(r.id, true); } }, r.label.split(" – ")[0]),
+        ": " + m.label + " ", el("span", { class: "nowrap" }, "(" + fmt(m.date) + ")"))));
     fill($("#deadlines"), ...(list.length ? list : [el("li", { class: "empty" }, "No dated obligations ahead.")]));
+  }
+
+  // ---------- lead: the next obligation of the profile, and the counts of today
+  function nextObligations() {
+    const items = [];
+    rowsOf().forEach(r => r.milestones.forEach(m => {
+      if (m.obligation && day(m.date) >= TODAY && r.criticality !== "low") items.push({ r, m });
+    }));
+    return items.sort((a, b) => day(a.m.date) - day(b.m.date));
+  }
+  function renderLead() {
+    const n = nextObligations()[0];
+    if (!n) {
+      fill($("#lead-line"), el("span", { class: "what" }, "No dated obligation ahead for this profile."));
+      fill($("#lead-where"));
+    } else {
+      const name = n.r.label.split(" – ")[0];
+      fill($("#lead-line"), el("span", { class: "when" }, relLong(n.m.date)),
+        el("span", { class: "what" }, name + ": " + n.m.label));
+      fill($("#lead-where"), "Next deadline set by law for a " + P().title.toLowerCase() + " · " + fmt(n.m.date),
+        n.m.url ? [" · set by ", el("a", { href: n.m.url, target: "_blank", rel: "noopener", class: "ext" }, n.m.art || "the act")] : null,
+        n.r.page ? [" · ", el("a", { href: n.r.page }, "the " + name + " page")] : null);
+    }
+    const on = rowsOf().map(r => stateOn(r, todayIso));
+    const count = s => on.filter(x => x === s).length;
+    fill($("#counts"), ...[["applicable", "apply"], ["in-force", "in force, not yet applicable"], ["procedure", "proposals, not law"]]
+      .map(([s, label]) => el("li", {}, el("b", {}, String(count(s))), el("span", {}, label))));
   }
 
   // ---------- timeline
@@ -2290,14 +2497,62 @@ footer { color: var(--muted); font-size: 13px; margin-top: 22px; line-height: 1.
       })));
   }
 
+  // Labels: a flag that starts (or ends) at its diamond, above or below the bar. Each label takes the first free place
+  // of four (right of the diamond in its own lane, right in the other lane, left in its own, left in the other):
+  // free means not across the "today" line, not over the right edge, not over another label or the thin bar of a
+  // pending amendment. A diamond right at the line gets its flag on the free side of the line. A label with no free
+  // place is hidden: the diamond stays, its text in the tooltip and the detail panel. Measured after layout, and
+  // again on resize and once the fonts are in.
+  function placeLabels() {
+    const cur = document.querySelector("#overlay .cursor:not(.scrub)");
+    if (!cur) return;
+    const lx = cur.getBoundingClientRect().left + 1;   // the middle of the 2px line
+    const hit = (a, b, gap) => a.left < b.right + gap && b.left < a.right + gap;
+    const across = r => r.left < lx + 6 && r.right > lx - 6;   // at least 6px clear of the line
+    document.querySelectorAll("#rows .row").forEach(row => {
+      if (!row.offsetParent) return;
+      const edge = row.querySelector(".track").getBoundingClientRect().right;
+      const bars = [...row.querySelectorAll(".bar.amend")].map(b => b.getBoundingClientRect());
+      const taken = { up: [], down: [] };
+      const labels = [...row.querySelectorAll(".ms-l")].sort((p, q) => parseFloat(p.style.left) - parseFloat(q.style.left));
+      labels.forEach(l => {
+        const home = l.dataset.lane || (l.dataset.lane = l.classList.contains("up") ? "up" : "down");
+        const other = home === "up" ? "down" : "up";
+        l.style.visibility = ""; l.style.transform = "translateX(0px)";
+        l.classList.remove("up", "down"); l.classList.add(home);
+        const r0 = l.getBoundingClientRect(), x = r0.left, w = r0.width;   // x: the diamond's centre
+        const near = Math.abs(x - lx) < 14;
+        // right: the text starts 5px before the diamond's centre; left: it ends 2px before it
+        const dx = { right: near ? Math.max(-5, lx + 8 - x) : -5, left: near ? Math.min(-w - 6, lx - 8 - x - w) : -w - 6 };
+        const set = (lane, side) => {
+          l.classList.remove("up", "down"); l.classList.add(lane);
+          l.style.transform = `translateX(${dx[side]}px)`;
+          const r = l.getBoundingClientRect();
+          return { left: x + dx[side], right: x + dx[side] + w, top: r.top, bottom: r.bottom };
+        };
+        const spot = [[home, "right"], [other, "right"], [home, "left"], [other, "left"]].find(([lane, side]) => {
+          const r = set(lane, side);
+          return r.right <= edge && r.left >= row.querySelector(".track").getBoundingClientRect().left && !across(r)
+            && !taken[lane].some(q => hit(q, r, 6)) && !(lane === "down" && bars.some(q => hit(q, r, 1)));
+        });
+        if (spot) taken[spot[0]].push(set(...spot));
+        else { set(home, "right"); l.style.visibility = "hidden"; }
+      });
+    });
+  }
+  let placeTimer = 0;
+  addEventListener("resize", () => { clearTimeout(placeTimer); placeTimer = setTimeout(placeLabels, 120); });
+  if (document.fonts) document.fonts.ready.then(placeLabels);   // label widths change once the fonts are in
+
   function renderAll() {
-    renderHeader(); renderChips(); renderDeadlines(); renderAxis(); renderRows(); renderOverlay(); onScrub(); renderTable();
+    renderHeader(); renderLead(); renderChips(); renderDeadlines(); renderAxis(); renderRows(); renderOverlay(); onScrub(); renderTable();
+    requestAnimationFrame(placeLabels);
     fill($("#footer"),
       D.source.before,
       el("a", { href: D.source.url }, D.source.label),
       D.source.after,
       ...(D.source.links || []).flatMap(l => [" ", el("a", { href: l.url }, l.label), " ·"]),
-      " Legend: filled diamond = obligations start; pale bar = in force, not yet applicable; solid bar = applicable; hatched bar = legislative procedure (expected duration); thin hatched bar = pending amendment. Keyboard: / search, ↑/↓ move between acts, Enter select, Esc clear.");
+      " Keyboard: / search, ↑/↓ move between acts, Enter select, Esc clear.");
   }
 
   $("#profile").addEventListener("change", e => { profileKey = e.target.value; store.set("profile", profileKey); selected = null; renderAll(); });

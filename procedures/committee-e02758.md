@@ -1,6 +1,6 @@
 # European Multi-Stakeholder Platform on ICT Standardisation (MSP)
 
-Expert group E02758, CNECT. Act: [Standardisation Regulation](standardisation-regulation.md).
+Expert group E02758, CNECT. Act: [Regulation on European standardisation](standardisation-regulation.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2758). Back to [all committees](committees.md).
 

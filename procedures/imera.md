@@ -5,8 +5,8 @@ Drawing: [imera.svg](imera.svg), [imera.pdf](imera.pdf) · Web page: [imera.html
 
 ## Status and next steps
 
-- **Stage:** Completed, published 08 Nov 2024
-- **Latest activity:** 08 Nov 2024 · Signature and publication: Published in the Official Journal (CELEX 32024R2747)
+- **Stage:** Completed, published 8 Nov 2024
+- **Latest activity:** 8 Nov 2024 · Signature and publication: Published in the Official Journal (CELEX 32024R2747)
 
 ## Events
 

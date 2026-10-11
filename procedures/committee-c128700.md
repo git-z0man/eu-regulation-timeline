@@ -1,6 +1,6 @@
 # Machinery Committee
 
-Comitology committee C128700, GROW; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [MR](machinery-regulation.md).
+Comitology committee C128700, GROW; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Machinery Regulation](machinery-regulation.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C128700/consult). Back to [all committees](committees.md).
 

@@ -1,6 +1,6 @@
 # Digital Europe Programme Coordination Committee
 
-Comitology committee C70600, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [CSOA](cyber-solidarity-act.md).
+Comitology committee C70600, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Cyber Solidarity Act](cyber-solidarity-act.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C70600/consult). Back to [all committees](committees.md).
 

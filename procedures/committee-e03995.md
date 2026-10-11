@@ -1,6 +1,6 @@
-# EXPERT GROUP ON PRODUCT LIABILITY
+# Expert Group on Product Liability
 
-Expert group E03995, GROW. Act: [PLD](pld.md).
+Expert group E03995, GROW. Act: [Product Liability Directive](pld.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3995). Back to [all committees](committees.md).
 

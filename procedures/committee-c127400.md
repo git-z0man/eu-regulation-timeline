@@ -1,6 +1,6 @@
 # Cybersecurity Committee
 
-Comitology committee C127400, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [NIS-2](nis2.md).
+Comitology committee C127400, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [NIS 2 Directive](nis2.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C127400/consult). Back to [all committees](committees.md).
 

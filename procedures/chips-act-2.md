@@ -1,14 +1,14 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 09 Oct 2026.
+Procedure 2026/0139(COD), as of 9 Oct 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 14 Sep 2026
-- **Council:** working party, latest document 07 Oct 2026
-- **Latest activity:** 07 Oct 2026 · Council: 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies (ST 14073/26)
+- **Council:** working party, latest document 7 Oct 2026
+- **Latest activity:** 7 Oct 2026 · Council: 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies (ST 14073/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events

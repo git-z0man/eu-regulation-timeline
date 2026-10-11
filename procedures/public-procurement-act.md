@@ -1,14 +1,14 @@
 # Legislative procedure – PPA – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 09 Oct 2026.
+Procedure 2026/0265(COD), as of 9 Oct 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 09 Oct 2026
-- **Latest activity:** 09 Oct 2026 · Council: Public Procurement Act: (WK 14963/26)
+- **Council:** working party, latest document 9 Oct 2026
+- **Latest activity:** 9 Oct 2026 · Council: Public Procurement Act: (WK 14963/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events

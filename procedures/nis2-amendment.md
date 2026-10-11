@@ -1,13 +1,13 @@
 # Legislative procedure – NIS-2 amendment – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 06 Oct 2026.
+Procedure 2026/0012(COD), as of 6 Oct 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 24 Sep 2026
-- **Council:** working party, latest document 02 Jul 2026
+- **Council:** working party, latest document 2 Jul 2026
 - **Latest activity:** 24 Sep 2026 · European Parliament: ITRE draft report (PE792.221)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 

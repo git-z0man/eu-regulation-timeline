@@ -1,6 +1,6 @@
-# HIGH-LEVEL FORUM ON EUROPEAN STANDARDISATION (HLFS)
+# High-Level Forum on European Standardisation (HLFS)
 
-Expert group E03874, GROW. Act: [Standardisation Regulation](standardisation-regulation.md).
+Expert group E03874, GROW. Act: [Regulation on European standardisation](standardisation-regulation.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3874). Back to [all committees](committees.md).
 

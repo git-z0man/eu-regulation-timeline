@@ -1,6 +1,6 @@
 # Ecodesign for Sustainable Products Committee
 
-Comitology committee C130300, ENV; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [ESPR](espr.md).
+Comitology committee C130300, ENV; advisory procedure (Art. 4 of Regulation (EU) No 182/2011); examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Ecodesign for Sustainable Products Regulation](espr.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130300/consult). Back to [all committees](committees.md).
 

@@ -1,6 +1,6 @@
 # Consumer Safety Network (CSN)
 
-Expert group E00935, JUST. Act: [GPSR](gpsr.md).
+Expert group E00935, JUST. Act: [General Product Safety Regulation](gpsr.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=935). Back to [all committees](committees.md).
 

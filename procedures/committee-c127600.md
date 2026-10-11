@@ -1,6 +1,6 @@
 # General Product Safety Regulation Committee
 
-Comitology committee C127600, JUST; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: [GPSR](gpsr.md).
+Comitology committee C127600, JUST; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: [General Product Safety Regulation](gpsr.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C127600/consult). Back to [all committees](committees.md).
 

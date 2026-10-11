@@ -1,6 +1,6 @@
 # Artificial Intelligence Committee
 
-Comitology committee C129100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [AI Act](ai-act.md).
+Comitology committee C129100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Artificial Intelligence Act](ai-act.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C129100/consult). Back to [all committees](committees.md).
 

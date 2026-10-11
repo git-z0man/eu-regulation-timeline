@@ -1,6 +1,6 @@
 # Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)
 
-Comitology committee C03000, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: RED.
+Comitology committee C03000, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Act: Radio Equipment Directive.
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C03000/consult). Back to [all committees](committees.md).
 

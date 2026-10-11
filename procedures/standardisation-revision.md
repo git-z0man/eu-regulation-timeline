@@ -1,14 +1,14 @@
 # Legislative procedure – NSR – COM(2026) 780 (proposal)
 
-Procedure 2026/0307(COD), as of 09 Oct 2026.
+Procedure 2026/0307(COD), as of 9 Oct 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 08 Oct 2026
-- **Latest activity:** 08 Oct 2026 · Council: ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … (ST 14141/26 ADD 1)
+- **Council:** working party, latest document 8 Oct 2026
+- **Latest activity:** 8 Oct 2026 · Council: ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … (ST 14141/26 ADD 1)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events

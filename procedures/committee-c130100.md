@@ -1,6 +1,6 @@
 # Product Security Committee
 
-Comitology committee C130100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [CRA](cra.md).
+Comitology committee C130100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Cyber Resilience Act](cra.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C130100/consult). Back to [all committees](committees.md).
 

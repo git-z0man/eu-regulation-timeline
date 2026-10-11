@@ -1,6 +1,6 @@
 # NIS Cooperation Group
 
-Group set up by the act, Art. 14 NIS-2 (before: Art. 11 Directive (EU) 2016/1148). Act: [NIS-2](nis2.md).
+Group set up by the act, Art. 14 NIS-2 (before: Art. 11 Directive (EU) 2016/1148). Act: [NIS 2 Directive](nis2.md).
 
 Official source: [European Commission (digital-strategy.ec.europa.eu)](https://digital-strategy.ec.europa.eu/en/policies/nis-cooperation-group). Back to [all committees](committees.md).
 

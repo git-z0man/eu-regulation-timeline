@@ -1,6 +1,6 @@
 # Expert Group on Cybersecurity of Products with Digital Elements (CRA Expert Group)
 
-Expert group E03967, CNECT. Act: [CRA](cra.md).
+Expert group E03967, CNECT. Act: [Cyber Resilience Act](cra.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967). Back to [all committees](committees.md).
 

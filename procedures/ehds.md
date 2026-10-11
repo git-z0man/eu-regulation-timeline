@@ -5,8 +5,8 @@ Drawing: [ehds.svg](ehds.svg), [ehds.pdf](ehds.pdf) · Web page: [ehds.html](ehd
 
 ## Status and next steps
 
-- **Stage:** Completed, published 05 Mar 2025
-- **Latest activity:** 05 Mar 2025 · Signature and publication: Published in the Official Journal (CELEX 32025R0327)
+- **Stage:** Completed, published 5 Mar 2025
+- **Latest activity:** 5 Mar 2025 · Signature and publication: Published in the Official Journal (CELEX 32025R0327)
 
 ## Events
 

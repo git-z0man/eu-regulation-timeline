@@ -6,101 +6,157 @@
 <title>Procedure – Chips Act 2.0 – COM(2026) 504 (proposal)</title>
 <meta name="description" content="Legislative procedure 2026/0139(COD): Chips Act 2.0 – COM(2026) 504 (proposal)">
 <link rel="alternate" type="application/atom+xml" title="Latest activity" href="feed.xml">
+<script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script>
 <style>
-:root { --bg: #f7f7f4; --panel: #fff; --ink: #1d2327; --muted: #5b646b; --line: #e3e5e1; --accent: #2f5a9e; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
-  --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136; --accent: #7aa7ff; } }
-:root[data-theme="dark"] { --bg: #111416; --panel: #1a1e21; --ink: #e8ebed; --muted: #9aa3aa; --line: #2b3136;
-  --accent: #7aa7ff; }
+:root { --bg: var(--s-paper); --panel: var(--s-sheet); --ink: var(--s-ink); --muted: var(--s-ink2); --line: var(--s-hair);
+  --accent: var(--s-accent); --chip: var(--s-tint); --rule: var(--s-rule); }
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--ink);
-  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
-.wrap { max-width: 1440px; margin: 0 auto; padding: 20px 16px 40px; }
-a { color: var(--accent); }
-h1 { font-size: 24px; margin: 0 0 4px; } h2 { font-size: 18px; margin: 28px 0 8px; }
-.muted { color: var(--muted); }
-.figure { background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 8px; overflow-x: auto; }
-.figure img { display: block; width: 100%; min-width: 900px; height: auto; }
-.table { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
-table { border-collapse: collapse; width: 100%; font-size: 14px; }
-th, td { text-align: left; vertical-align: top; padding: 6px 10px; border-bottom: 1px solid var(--line); }
-th { font-weight: 600; white-space: nowrap; } td.nowrap { white-space: nowrap; }
-table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; }
-table.fixed th { white-space: normal; }
-.small { font-size: 13px; }
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; margin: 16px 0; }
-.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
-.card .label { color: var(--muted); font-size: 13px; } .card .value { font-size: 17px; font-weight: 600; }
-.card .value .small { font-weight: 400; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--s-sans); font-variant-numeric: tabular-nums; }
+a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+a:hover { text-decoration-color: currentColor; }
+a:focus-visible, button:focus-visible, summary:focus-visible, select:focus-visible, input:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px; }
+h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 6px 0 6px; text-wrap: balance; }
+h2 { font: 600 22px/1.25 var(--s-serif); margin: 40px 0 12px; padding-bottom: 6px; border-bottom: 3px solid var(--rule);
+  text-wrap: balance; }
+h3 { font-size: 16px; font-weight: 700; margin: 22px 0 6px; }
+p { max-width: 80ch; }
+.muted { color: var(--muted); } .small { font-size: 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 15px; background: var(--panel); }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--rule); }
+td.nowrap { white-space: nowrap; }
+tbody th { font-weight: 600; border-bottom: 1px solid var(--line); }   /* a row heading: a hairline, as every row */
+.table { overflow-x: auto; }
+/* phones: a wide table keeps readable columns and scrolls sideways inside its frame, the page does not */
+@media (max-width: 700px) { .table > table { min-width: 720px; } }
 details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
-footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
+td > details, td > details > summary { margin-top: 0; }   /* a fold-out in a cell starts on the row's first line */
+code { font: 0.92em ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+footer { color: var(--muted); font-size: 14px; margin-top: 36px; padding-top: 10px; border-top: 1px solid var(--line); }
+footer p { max-width: none; }
+/* a switch of several views or filters: text with an underline, not pills */
+.toggles button, button.toggle { font: inherit; color: var(--muted); background: none; border: 0; border-bottom: 2px solid transparent;
+  padding: 2px 0; cursor: pointer; }
+.toggles button:hover, button.toggle:hover { color: var(--ink); border-bottom-color: var(--line); }
+.toggles button[aria-pressed="true"], button.toggle[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+
+.wrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 56px; }
+@media (max-width: 700px) { .wrap { padding-inline: 16px; } }
+/* the drawing is rendered light only: a white sheet with one hairline frame */
+.figure { background: #fff; border: 1px solid var(--line); padding: 8px; overflow-x: auto; margin: 16px 0; }
+.figure img { display: block; width: 100%; min-width: 900px; height: auto; }
+table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; } table.fixed th { white-space: normal; }
+/* facts of a procedure: a ruled grid, not tiles */
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0 32px; margin: 16px 0;
+  border-top: 1.5px solid var(--rule); }
+.card { padding: 8px 0 9px; border-bottom: 1px solid var(--line); }
+.card .label { color: var(--muted); font-size: 14px; } .card .value { font-size: 17px; font-weight: 600; }
+.card .value .small { font-weight: 400; }
+/* the overview: one lead sentence, the related pages in one quiet line, counts beside the headings */
+p.lead { font-size: 18px; max-width: 70ch; margin: 4px 0 6px; }
+p.also { font-size: 14px; color: var(--muted); margin: 0 0 8px; max-width: none; }
+h2 .count { font: 400 15px var(--s-sans); color: var(--muted); margin-left: 6px; }
+.sub { display: block; font-size: 14px; color: var(--muted); font-weight: 400; }
+table.procs tbody th { white-space: normal; min-width: 180px; }
+/* phones: one block per procedure, each part with its label, instead of a table to scroll sideways */
+@media (max-width: 700px) {
+  .table > table.procs { min-width: 0; } table.procs thead { display: none; }
+  table.procs, table.procs tbody, table.procs tr, table.procs th, table.procs td { display: block; width: auto; min-width: 0; }
+  table.procs tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
+  table.procs th, table.procs td { border: 0; padding: 2px 0; }
+  table.procs td::before { content: attr(data-label); display: block; color: var(--muted); font-size: 14px; }
+}
+button.showmore { color: var(--accent); }
 </style>
 </head>
 <body><div class="wrap">
-<style>
-.sitenav { display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; margin: 0 0 12px; padding: 0 0 10px;
-  border-bottom: 1px solid var(--line, #e3e5e1); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
-.sitenav .brand { font-weight: 700; color: var(--ink, #1d2327); text-decoration: none; margin-right: 8px; white-space: nowrap; }
-.sitenav a.item { color: var(--ink, #1d2327); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
-.sitenav a.item:hover { background: var(--chip, #eef1f6); }
-.sitenav a.item[aria-current="page"] { background: var(--accent, #2f5a9e); color: #fff; }
-.sitenav .brandbox { display: inline-flex; flex-direction: column; line-height: 1.15; margin-right: 8px; }
-.sitenav .brandbox .brand { margin-right: 0; }
-.sitenav a.by { color: var(--muted, #5b646b); text-decoration: none; font-size: 12px; white-space: nowrap; }
-.sitenav a.by:hover, .sitenav a.by[aria-current="page"] { text-decoration: underline; }
-.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--ink, #1d2327);
-  text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
-.sitenav a.repo:hover { background: var(--chip, #eef1f6); }
-.sitenav a.repo span { display: none; }   /* the icon alone: room for the credit (tools/credit.py) */
-@media (max-width: 640px) { .sitenav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
-  .sitenav .brandbox .brand, .sitenav a.repo span { display: none; } }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a><a class="by" href="../about.html">by Steffen Zimmermann</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html" aria-current="page">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+<style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("../fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
+@media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
+:root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
+@media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
+
+.sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
+  border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
+.sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
+.sitenav a.item { color: var(--s-ink); text-decoration: none; padding: 6px 0; white-space: nowrap;
+  border-bottom: 2px solid transparent; }
+.sitenav a.item:hover { border-bottom-color: var(--s-hair); }
+.sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
+.sitenav .brandbox { display: inline-flex; margin-right: 10px; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+  text-decoration: none; padding: 6px 0; white-space: nowrap; }
+.sitenav a.repo span { display: none; }   /* the icon alone */
+.sitenav a:focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+@media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; } }
+/* phones: brand and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+@media (max-width: 640px) { .sitenav { gap: 2px 14px; }
+  .sitenav .brandbox { order: -2; flex: 1 0 calc(100% - 40px); margin-right: 0; }
+  .sitenav a.repo { order: -1; margin-left: 0; }
+  .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
+.sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
+  font: 14px/1.5 var(--s-sans); }
+.sitefoot a { color: var(--s-ink2); }
+.sitefoot a:hover { color: var(--s-accent); }
+::selection { background: var(--s-accent-tint); color: var(--s-ink); }
+html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html" aria-current="page">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
 
 <p class="muted"><a href="../index.html#act=chips-act-2">← Regulation timeline</a> › <a href="../index.html#act=chips-act-2">Chips Act 2.0</a> › Legislative procedure · <a href="index.html">All procedures</a></p>
 <h1>Chips Act 2.0 – COM(2026) 504 (proposal)</h1>
-<p class="muted">Procedure 2026/0139(COD), ongoing, as of 09 Oct 2026. Drawing: <a href="chips-act-2.svg">SVG</a> · <a href="chips-act-2.png">PNG</a> · <a href="chips-act-2.pdf">PDF (A3)</a> · <a href="chips-act-2.drawio">draw.io</a> · Page as Markdown: <a href="chips-act-2.md">chips-act-2.md</a></p>
-<div class="table" style="margin-bottom:16px"><table><tbody><tr><th>Stage</th><td>EP committee stage</td></tr><tr><th>Parliament</th><td>in committee since 14 Sep 2026</td></tr><tr><th>Council</th><td>working party, latest document 07 Oct 2026</td></tr><tr><th>Latest activity</th><td>07 Oct 2026 · Council: 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies (ST 14073/26)</td></tr><tr><th>Next steps</th><td>EP: rapporteur&#x27;s draft report; Council: working party towards a negotiating mandate</td></tr></tbody></table></div>
+<p class="muted">Procedure 2026/0139(COD), ongoing, as of 9 Oct 2026. Drawing: <a href="chips-act-2.svg">SVG</a> · <a href="chips-act-2.png">PNG</a> · <a href="chips-act-2.pdf">PDF (A3)</a> · <a href="chips-act-2.drawio">draw.io</a> · Page as Markdown: <a href="chips-act-2.md">chips-act-2.md</a></p>
+<div class="table" style="margin-bottom:16px"><table><tbody><tr><th>Stage</th><td>EP committee stage</td></tr><tr><th>Parliament</th><td>in committee since 14 Sep 2026</td></tr><tr><th>Council</th><td>working party, latest document 7 Oct 2026</td></tr><tr><th>Latest activity</th><td>7 Oct 2026 · Council: 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies (ST 14073/26)</td></tr><tr><th>Next steps</th><td>EP: rapporteur&#x27;s draft report; Council: working party towards a negotiating mandate</td></tr></tbody></table></div>
 <div class="figure"><img src="chips-act-2.svg" alt="Procedure Chips Act 2.0 – COM(2026) 504 (proposal)"></div>
 <h2>European Parliament committees</h2><div class="table"><table><thead><tr><th>Committee</th><th>Role</th><th>Rapporteur</th><th>Shadow rapporteurs</th></tr></thead><tbody><tr><td><b>ITRE</b><br><span class=small>Industry, Research and Energy</span></td><td>Responsible</td><td><a class="ext" href="https://www.europarl.europa.eu/meps/en/256979" target="_blank" rel="noopener">Oliver Schenk</a> (EPP), appointed 31 Aug 2026</td><td class=small><a class="ext" href="https://www.europarl.europa.eu/meps/en/256860" target="_blank" rel="noopener">András László</a> (PfE), <a class="ext" href="https://www.europarl.europa.eu/meps/en/257163" target="_blank" rel="noopener">Francesco Torselli</a> (ECR), <a class="ext" href="https://www.europarl.europa.eu/meps/en/197780" target="_blank" rel="noopener">Bart Groothuis</a> (Renew), <a class="ext" href="https://www.europarl.europa.eu/meps/en/201945" target="_blank" rel="noopener">Virginijus Sinkevičius</a> (Greens/EFA)</td></tr><tr><td><b>IMCO</b><br><span class=small>Internal Market and Consumer Protection</span></td><td>Opinion</td><td>not yet appointed</td><td class=small><a class="ext" href="https://www.europarl.europa.eu/meps/en/124785" target="_blank" rel="noopener">Maria Grapini</a> (S&amp;D)</td></tr><tr><td><b>JURI</b><br><span class=small>Legal Affairs</span></td><td>Opinion</td><td><a class="ext" href="https://www.europarl.europa.eu/meps/en/257043" target="_blank" rel="noopener">Maravillas Abadía Jover</a> (EPP), appointed 23 Jun 2026</td><td class=small>–</td></tr><tr><td><b>BUDG</b><br><span class=small>Budgets</span></td><td>Budgetary assessment: decided not to give an opinion</td><td>–</td><td class=small>–</td></tr></tbody></table></div><p class="small muted">Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member&#x27;s page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP&#x27;s order of participants, which groups each committee.</p>
 <h2>Events</h2>
 <div class="table"><table><thead><tr><th>Date</th><th>Actor</th><th>Event</th><th>Document</th><th>Source</th></tr></thead><tbody>
-<tr><td class="nowrap">2026-06-03</td><td>European Commission</td><td>Commission proposal (Art. 294(2) TFEU)</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504">COM(2026) 504</a> · <a href="../texts/chips-act-2/2026-06-03_com-proposal.en.md" title="Markdown">en.md</a> <a href="../texts/chips-act-2/2026-06-03_com-proposal.de.md" title="Markdown">de.md</a></td><td>Cellar (CELEX 52026PC0504)</td></tr>
-<tr><td class="nowrap">2026-08-31</td><td>European Parliament</td><td>ITRE rapporteur appointed (Oliver Schenk, PPE)</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2026-0139 (participation RAPPORTEUR)</td></tr>
-<tr><td class="nowrap">2026-09-14</td><td>European Parliament</td><td>Referral to committee announced in plenary</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2026-0139 (REFERRAL)</td></tr>
+<tr><td class="nowrap">3 Jun 2026</td><td>European Commission</td><td>Commission proposal (Art. 294(2) TFEU)</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504">COM(2026) 504</a> · <a href="../texts/chips-act-2/2026-06-03_com-proposal.en.md" title="Markdown">en.md</a> <a href="../texts/chips-act-2/2026-06-03_com-proposal.de.md" title="Markdown">de.md</a></td><td>Cellar (CELEX 52026PC0504)</td></tr>
+<tr><td class="nowrap">31 Aug 2026</td><td>European Parliament</td><td>ITRE rapporteur appointed (Oliver Schenk, PPE)</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2026-0139 (participation RAPPORTEUR)</td></tr>
+<tr><td class="nowrap">14 Sep 2026</td><td>European Parliament</td><td>Referral to committee announced in plenary</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2026-0139 (REFERRAL)</td></tr>
 </tbody></table></div>
 <h2>Documents</h2>
 <p class="muted">Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council&#x27;s public PDF (a technical date) or else the day our daily check found it public.</p>
 <div class="table"><table><thead><tr><th>Date</th><th>Document</th><th>Kind</th><th>Subject</th><th>Status</th><th>Released</th><th>Text</th></tr></thead><tbody>
-<tr><td class="nowrap">2026-06-03</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/ST-10094-2026-INIT/en/pdf">ST 10094/26</a></td><td>council-transmission</td><td>Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening the Union&#x27;s semiconductor ecosystem, …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-03</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/ST-10094-2026-ADD-1/en/pdf">ST 10094/26 ADD 1</a></td><td>council-transmission</td><td>ANNEXES to the PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening Europe&#x27;s semiconductor …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-05</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8015-2026-INIT/en/pdf">WK 8015/26</a></td><td>council-note</td><td>Impact Assessment indicative check list</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-18</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8405-2026-INIT/en/pdf">WK 8405/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 22 June 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-24</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8856-2026-INIT/en/pdf">WK 8856/26</a></td><td>council-note</td><td>Presentations by the Commission</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-24</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8857-2026-INIT/en/pdf">WK 8857/26</a></td><td>council-note</td><td>Evaluation of Regulation (EU) 2023/1781 establishing a framework of measures for strengthening Europe’s semiconductor ecosystem and amending Regulation (EU) …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-24</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8858-2026-INIT/en/pdf">WK 8858/26</a></td><td>council-note</td><td>Presentations by the Commission</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-06-26</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-9476-2026-INIT/en/pdf">WK 9476/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 01 July 2026 (afternoon session)</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-03</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-9988-2026-INIT/en/pdf">WK 9988/26</a></td><td>council-note</td><td>Presidency Flash for the Working Party on Competitiveness and Growth (Industry) on 8 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-08</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10223-2026-INIT/en/pdf">WK 10223/26</a></td><td>council-note</td><td>Proposal on Chips Act 2.0 - Recital-article correlation table</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-09</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10211-2026-INIT/en/pdf">WK 10211/26</a></td><td>council-note</td><td>Proposal on Chips Act 2.0 – Presentation by the Commission on Pillar I and II of the proposal</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-09</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10387-2026-INIT/en/pdf">WK 10387/26</a></td><td>council-note</td><td>Presidency Flash for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-15</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10618-2026-INIT/en/pdf">WK 10618/26</a></td><td>council-note</td><td>Presidency Flash for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-20</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10792-2026-INIT/en/pdf">WK 10792/26</a></td><td>council-note</td><td>Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 24 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-07-31</td><td class="nowrap">WK 11082/26</td><td>council-note</td><td>Presidency flash note for the month of September 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-08-28</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/89091">WK 13097/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 03 September 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-02</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/89464">ST 12586/26</a></td><td>council-note</td><td>Optional consultation of the Committee of the Regions</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-08</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/90358">WK 13713/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 September 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-11</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/ST-12887-2026-INIT/en/pdf">ST 12887/26</a></td><td>council-note</td><td>Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 24 September 2026 Regulation on a European Chips Act 2.0 - Policy …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-29</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/94343">ST 13545/26</a></td><td>council-compromise</td><td>Presidency compromise text</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-29</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/94374">WK 14830/26</a></td><td>council-note</td><td>Consolidated table with comments from the following Member States AT, BE, CY, CZ, DE, DK, EE, EL, ES, FI, FR, HR, IT, LT, MT, NL, PL, PT, SE, SI on Pillars I, …</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-29</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341">WK 14980/26</a></td><td>council-note</td><td>Explanatory Note on the first Presidency compromise text of the proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of …</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-30</td><td class="nowrap">WK 15026/26</td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 07 October 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-09-30</td><td class="nowrap">WK 15047/26</td><td>council-note</td><td>Presidency flash note for the month of October 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
-<tr><td class="nowrap">2026-10-07</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/95363">ST 14073/26</a></td><td>council-note</td><td>2026/0139 (COD) - Cover note from the Italian Chamber of Deputies</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">3 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/ST-10094-2026-INIT/en/pdf">ST 10094/26</a></td><td>council-transmission</td><td>Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening the Union&#x27;s semiconductor ecosystem, …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">3 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/ST-10094-2026-ADD-1/en/pdf">ST 10094/26 ADD 1</a></td><td>council-transmission</td><td>ANNEXES to the PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening Europe&#x27;s semiconductor …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">5 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8015-2026-INIT/en/pdf">WK 8015/26</a></td><td>council-note</td><td>Impact Assessment indicative check list</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">18 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8405-2026-INIT/en/pdf">WK 8405/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 22 June 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">24 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8856-2026-INIT/en/pdf">WK 8856/26</a></td><td>council-note</td><td>Presentations by the Commission</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">24 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8857-2026-INIT/en/pdf">WK 8857/26</a></td><td>council-note</td><td>Evaluation of Regulation (EU) 2023/1781 establishing a framework of measures for strengthening Europe’s semiconductor ecosystem and amending Regulation (EU) …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">24 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-8858-2026-INIT/en/pdf">WK 8858/26</a></td><td>council-note</td><td>Presentations by the Commission</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">26 Jun 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-9476-2026-INIT/en/pdf">WK 9476/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 01 July 2026 (afternoon session)</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">3 Jul 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-9988-2026-INIT/en/pdf">WK 9988/26</a></td><td>council-note</td><td>Presidency Flash for the Working Party on Competitiveness and Growth (Industry) on 8 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">8 Jul 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10223-2026-INIT/en/pdf">WK 10223/26</a></td><td>council-note</td><td>Proposal on Chips Act 2.0 - Recital-article correlation table</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">9 Jul 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10211-2026-INIT/en/pdf">WK 10211/26</a></td><td>council-note</td><td>Proposal on Chips Act 2.0 – Presentation by the Commission on Pillar I and II of the proposal</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">9 Jul 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10387-2026-INIT/en/pdf">WK 10387/26</a></td><td>council-note</td><td>Presidency Flash for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">15 Jul 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10618-2026-INIT/en/pdf">WK 10618/26</a></td><td>council-note</td><td>Presidency Flash for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">20 Jul 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/WK-10792-2026-INIT/en/pdf">WK 10792/26</a></td><td>council-note</td><td>Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 24 July 2026</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">31 Jul 2026</td><td class="nowrap">WK 11082/26</td><td>council-note</td><td>Presidency flash note for the month of September 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">28 Aug 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/89091">WK 13097/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 03 September 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">2 Sep 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/89464">ST 12586/26</a></td><td>council-note</td><td>Optional consultation of the Committee of the Regions</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">8 Sep 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/90358">WK 13713/26</a></td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 14 September 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">11 Sep 2026</td><td class="nowrap"><a href="https://data.consilium.europa.eu/doc/document/ST-12887-2026-INIT/en/pdf">ST 12887/26</a></td><td>council-note</td><td>Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 24 September 2026 Regulation on a European Chips Act 2.0 - Policy …</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">29 Sep 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/94343">ST 13545/26</a></td><td>council-compromise</td><td>Presidency compromise text</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">29 Sep 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/94374">WK 14830/26</a></td><td>council-note</td><td>Consolidated table with comments from the following Member States AT, BE, CY, CZ, DE, DK, EE, EL, ES, FI, FR, HR, IT, LT, MT, NL, PL, PT, SE, SI on Pillars I, …</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">29 Sep 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341">WK 14980/26</a></td><td>council-note</td><td>Explanatory Note on the first Presidency compromise text of the proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of …</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">30 Sep 2026</td><td class="nowrap">WK 15026/26</td><td>council-note</td><td>Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 07 October 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">30 Sep 2026</td><td class="nowrap">WK 15047/26</td><td>council-note</td><td>Presidency flash note for the month of October 2026</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
+<tr><td class="nowrap">7 Oct 2026</td><td class="nowrap"><a href="https://www.parlament.gv.at/gegenstand/XXVIII/EU/95363">ST 14073/26</a></td><td>council-note</td><td>2026/0139 (COD) - Cover note from the Italian Chamber of Deputies</td><td>not public*</td><td class="nowrap">–</td><td>–</td></tr>
 </tbody></table></div>
-<p class="muted small">* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.</p>
+<p class="muted small">* Not public: the registers are checked again daily until the document is released; last check 9 Oct 2026.</p>
 <h2>Texts as Markdown</h2>
 <p class="muted">Unofficial Markdown conversions for reading, searching and project folders; only the official document is authentic. &quot;Read&quot; opens the rendered text on GitHub, where a link to a provision (#art-13, #rec-12, #annex-i) jumps to it.</p>
 <div class="table"><table><thead><tr><th>Date</th><th>Stage</th><th>Document</th><th>Markdown</th><th>Read</th></tr></thead><tbody>
-<tr><td class="nowrap">2026-06-03</td><td>com-proposal</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504">CELEX 52026PC0504</a></td><td><a href="../texts/chips-act-2/2026-06-03_com-proposal.en.md">en</a> <a href="../texts/chips-act-2/2026-06-03_com-proposal.de.md">de</a></td><td><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-06-03_com-proposal.en.md">GitHub</a></td></tr>
+<tr><td class="nowrap">3 Jun 2026</td><td>com-proposal</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504">CELEX 52026PC0504</a></td><td><a href="../texts/chips-act-2/2026-06-03_com-proposal.en.md">en</a> <a href="../texts/chips-act-2/2026-06-03_com-proposal.de.md">de</a></td><td><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-06-03_com-proposal.en.md">GitHub</a></td></tr>
 </tbody></table></div>
-<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer></div></body></html>
+<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><footer class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></footer></div></body></html>

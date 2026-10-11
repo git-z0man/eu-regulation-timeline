@@ -5,8 +5,8 @@ Drawing: [csa.svg](csa.svg), [csa.pdf](csa.pdf) · Web page: [csa.html](csa.html
 
 ## Status and next steps
 
-- **Stage:** Completed, published 07 Jun 2019
-- **Latest activity:** 07 Jun 2019 · Signature and publication: Published in the Official Journal (CELEX 32019R0881)
+- **Stage:** Completed, published 7 Jun 2019
+- **Latest activity:** 7 Jun 2019 · Signature and publication: Published in the Official Journal (CELEX 32019R0881)
 
 ## Events
 

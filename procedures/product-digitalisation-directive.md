@@ -1,14 +1,14 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)
 
-Procedure 2025/0133(COD), as of 06 Oct 2026.
+Procedure 2025/0133(COD), as of 6 Oct 2026.
 Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive.svg), [product-digitalisation-directive.pdf](product-digitalisation-directive.pdf) · Web page: [product-digitalisation-directive.html](product-digitalisation-directive.html)
 
 ## Status and next steps
 
-- **Stage:** Provisional agreement (last trilogue 09 Jun 2026)
+- **Stage:** Provisional agreement (last trilogue 9 Jun 2026)
 - **Parliament:** mandate 11 Mar 2026
 - **Council:** mandate (ST 13233/25 of 26 Sep 2025)
-- **Latest activity:** 07 Sep 2026 · European Parliament: Committee opinion adopted
+- **Latest activity:** 7 Sep 2026 · European Parliament: Committee opinion adopted
 - **Next steps:** 23 Nov 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP plenary vote on the agreed text (Art. 294(3) TFEU), then Council adoption (Art. 294(4) TFEU), with legal-linguistic revision before or after the vote
 
 ## Events

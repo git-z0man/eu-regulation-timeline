@@ -1,6 +1,6 @@
 # Commission expert group on Radio Equipment (RED expert group)
 
-Expert group E03587, GROW. Act: RED DA 2022/30.
+Expert group E03587, GROW. Act: Radio Equipment Directive cybersecurity delegated act.
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3587). Back to [all committees](committees.md).
 

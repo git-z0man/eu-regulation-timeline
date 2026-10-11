@@ -1,6 +1,6 @@
 # Committee on market surveillance and compliance of products
 
-Comitology committee C52400, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [MSR](market-surveillance.md).
+Comitology committee C52400, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: [Market Surveillance Regulation](market-surveillance.md).
 
 Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C52400/consult). Back to [all committees](committees.md).
 

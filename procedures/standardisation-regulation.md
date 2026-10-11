@@ -56,7 +56,7 @@ Comitology committee C41700, GROW; examination procedure (Art. 5, 6 and 7 of Reg
 | 2024-11-15 | [29th meeting of the Committee on standards](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1862/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/102527/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/102528/1/consult) |
 | 2024-04-18 | [28th meeting of the Committee on standards](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)431/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/097450/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/097451/1/consult) |
 
-### [HIGH-LEVEL FORUM ON EUROPEAN STANDARDISATION (HLFS)](committee-e03874.md)
+### [High-Level Forum on European Standardisation (HLFS)](committee-e03874.md)
 
 Expert group E03874, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3874).
 

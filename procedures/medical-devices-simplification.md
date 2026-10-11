@@ -1,6 +1,6 @@
 # Legislative procedure – MDR/IVDR simplification – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 06 Oct 2026.
+Procedure 2025/0404(COD), as of 6 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps

@@ -1,6 +1,6 @@
 # Legislative procedure – CADA – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 07 Oct 2026.
+Procedure 2026/0138(COD), as of 7 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps

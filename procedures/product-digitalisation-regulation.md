@@ -1,11 +1,11 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)
 
-Procedure 2025/0134(COD), as of 06 Oct 2026.
+Procedure 2025/0134(COD), as of 6 Oct 2026.
 Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulation.svg), [product-digitalisation-regulation.pdf](product-digitalisation-regulation.pdf) · Web page: [product-digitalisation-regulation.html](product-digitalisation-regulation.html)
 
 ## Status and next steps
 
-- **Stage:** Provisional agreement (last trilogue 09 Jun 2026)
+- **Stage:** Provisional agreement (last trilogue 9 Jun 2026)
 - **Parliament:** mandate 11 Mar 2026
 - **Council:** mandate (ST 13232/25 of 26 Sep 2025)
 - **Latest activity:** 14 Jul 2026 · European Parliament: Committee approves provisional agreement (PE790.900)

@@ -1,6 +1,6 @@
 # Expert Group on the Internal Market for Products (IMP-EG)
 
-Expert group E02798, GROW. Act: [MSR](market-surveillance.md).
+Expert group E02798, GROW. Act: [Market Surveillance Regulation](market-surveillance.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2798). Back to [all committees](committees.md).
 

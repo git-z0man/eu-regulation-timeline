@@ -162,7 +162,7 @@ Comitology committee C16300, GROW; examination procedure (Art. 5, 6 and 7 of Reg
 | 2024-10-07 | [Invitation to the hybrid Advisory Committee for Public Contracts committee meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1701/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/105334/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/105335/1/consult) |
 | 2024-06-14 | [Written procedure concerning a Draft Commission Implementing Decision on the applicability of Article 34 of Directive 2014/25/EU of the European Parliament and of the Council to the award of contracts for the provision of commercially operated railway passenger services in Sweden](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1042/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/098199/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/098679/1/consult) |
 
-### [EXPERT GROUP ON NET-ZERO TECHNOLOGIES AND SUPPLY CHAINS](committee-e03968.md)
+### [Expert Group on Net-Zero Technologies and Supply Chains](committee-e03968.md)
 
 Expert group E03968, ENER, GROW. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3968).
 

@@ -1,6 +1,6 @@
 # Commission Expert Group on Machinery
 
-Expert group E03676, GROW. Act: [MR](machinery-regulation.md).
+Expert group E03676, GROW. Act: [Machinery Regulation](machinery-regulation.md).
 
 Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3676). Back to [all committees](committees.md).
 
