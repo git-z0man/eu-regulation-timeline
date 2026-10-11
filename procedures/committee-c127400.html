@@ -29,8 +29,11 @@ th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--rul
 td.nowrap { white-space: nowrap; }
 tbody th { font-weight: 600; border-bottom: 1px solid var(--line); }   /* a row heading: a hairline, as every row */
 .table { overflow-x: auto; }
-/* phones: a wide table keeps readable columns and scrolls sideways inside its frame, the page does not */
-@media (max-width: 700px) { .table > table { min-width: 720px; } }
+/* phones: a table of two or three columns fits the screen and wraps; a wider one is read as one block per row
+   (`phone-stack`, tools/sitenav.py); one that cannot be (merged cells) keeps readable columns and scrolls sideways
+   inside its frame, the page does not */
+@media (max-width: 700px) { .table > table:where(:has(tr > :nth-child(4)):not(.phone-stack)) { min-width: 720px; }
+  .table > table:where(:not(:has(tr > :nth-child(4)))) td { overflow-wrap: anywhere; } }
 details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
 td > details, td > details > summary { margin-top: 0; }   /* a fold-out in a cell starts on the row's first line */
 code { font: 0.92em ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
@@ -46,7 +49,7 @@ footer p { max-width: none; }
 @media (max-width: 700px) { .wrap { padding-inline: 16px; } }
 /* the drawing is rendered light only: a white sheet with one hairline frame */
 .figure { background: #fff; border: 1px solid var(--line); padding: 8px; overflow-x: auto; margin: 16px 0; }
-.figure img { display: block; width: 100%; min-width: 900px; height: auto; }
+.figure img { display: block; width: 1800px; max-width: none; height: auto; }   /* its natural size: labels readable, the frame scrolls (design review, 11 Oct 2026) */
 table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; } table.fixed th { white-space: normal; }
 /* facts of a procedure: a ruled grid, not tiles */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0 32px; margin: 16px 0;
@@ -108,23 +111,79 @@ button.showmore { color: var(--accent); }
   font: 14px/1.5 var(--s-sans); }
 .sitefoot a { color: var(--s-ink2); }
 .sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html" aria-current="page">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html" aria-current="page">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav><main id="main">
 
 <p class="muted"><a href="committees.html">Committees and expert groups</a> › Cybersecurity Committee · As Markdown: <a href="committee-c127400.md">committee-c127400.md</a></p>
 <h1>Cybersecurity Committee</h1>
-<p class="muted">Comitology committee C127400, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: <a href="../acts/nis2.html#committees">NIS 2 Directive</a>. Official source: <a href="https://ec.europa.eu/transparency/comitology-register/screen/committees/C127400/consult" target="_blank" rel="noopener">Comitology Register ↗</a></p>
-<div class="cards"><div class="card"><div class="label">Next meeting</div><div class="value"><span class="muted">none announced</span></div></div><div class="card"><div class="label">Last meeting</div><div class="value">2 Oct 2024<div class="small">Cybersecurity Committee - 3rd meeting<br><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/100188/1/consult" target="_blank" rel="noopener">agenda ↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/2/consult" target="_blank" rel="noopener">draft implementing act v2 ↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/3/consult" target="_blank" rel="noopener">draft implementing act v3 ↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/101077/1/consult" target="_blank" rel="noopener">voting sheet ↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult" target="_blank" rel="noopener">summary record ↗</a></div></div></div><div class="card"><div class="label">Meetings since 2024</div><div class="value">3</div></div><div class="card"><div class="label">Latest summary record</div><div class="value"><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult" target="_blank" rel="noopener">2 Oct 2024 ↗</a><div class="small">Cybersecurity Committee - 3rd meeting</div></div></div></div>
+<p class="muted">Comitology committee C127400, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Act: <a href="../acts/nis2.html#committees">NIS 2 Directive</a>. Official source: <a href="https://ec.europa.eu/transparency/comitology-register/screen/committees/C127400/consult" target="_blank" rel="noopener">Comitology Register&nbsp;↗</a></p>
+<div class="cards"><div class="card"><div class="label">Next meeting</div><div class="value"><span class="muted">none announced</span></div></div><div class="card"><div class="label">Last meeting</div><div class="value">2 Oct 2024<div class="small">Cybersecurity Committee - 3rd meeting<br><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/100188/1/consult" target="_blank" rel="noopener">agenda&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/2/consult" target="_blank" rel="noopener">draft implementing act v2&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/3/consult" target="_blank" rel="noopener">draft implementing act v3&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/101077/1/consult" target="_blank" rel="noopener">voting sheet&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult" target="_blank" rel="noopener">summary record&nbsp;↗</a></div></div></div><div class="card"><div class="label">Meetings since 2024</div><div class="value">3</div></div><div class="card"><div class="label">Latest summary record</div><div class="value"><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult" target="_blank" rel="noopener">2 Oct 2024&nbsp;↗</a><div class="small">Cybersecurity Committee - 3rd meeting</div></div></div></div>
 <h2 id="about">About</h2>
 <div class="table"><table><tbody>
 <tr><th style="width:160px">Procedures</th><td>examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011)</td></tr>
 </tbody></table></div>
 <h2 id="meetings">Meetings</h2>
-<div class="table"><table><thead><tr><th>Date</th><th>Meeting</th><th>Place</th><th>Agenda</th><th>Minutes or summary record</th><th>Other documents</th></tr></thead><tbody>
-<tr><td class="nowrap">2 Oct 2024</td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1672/consult" target="_blank" rel="noopener">Cybersecurity Committee - 3rd meeting ↗</a></td><td>–</td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/100188/1/consult" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult" target="_blank" rel="noopener">summary record ↗</a></td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/2/consult" target="_blank" rel="noopener">draft implementing act v2 ↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/3/consult" target="_blank" rel="noopener">draft implementing act v3 ↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/101077/1/consult" target="_blank" rel="noopener">voting sheet ↗</a></td></tr>
-<tr><td class="nowrap">9 Sep 2024</td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1540/consult" target="_blank" rel="noopener">2nd Cybersecurity Commitology ↗</a></td><td>–</td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/099646/1/consult" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/100864/1/consult" target="_blank" rel="noopener">summary record ↗</a></td><td>–</td></tr>
-<tr><td class="nowrap">11 Jul 2024</td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1186/consult" target="_blank" rel="noopener">1st Cybersecurity Commitee Meeting ↗</a></td><td>–</td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098443/1/consult" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/099645/1/consult" target="_blank" rel="noopener">summary record ↗</a></td><td><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/1/consult" target="_blank" rel="noopener">draft implementing act ↗</a></td></tr>
+<div class="table"><table class="phone-stack wide"><thead><tr><th>Date</th><th>Meeting</th><th data-gone>Place</th><th>Agenda</th><th>Minutes or summary record</th><th>Other documents</th></tr></thead><tbody>
+<tr><td class="nowrap" data-label="Date">2 Oct 2024</td><td data-label="Meeting"><a href="https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1672/consult" target="_blank" rel="noopener">Cybersecurity Committee - 3rd meeting&nbsp;↗</a></td><td data-label="Place" data-none data-gone>–</td><td data-label=""><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/100188/1/consult" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/104097/1/consult" target="_blank" rel="noopener">summary record&nbsp;↗</a></td><td data-label="Other documents"><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/2/consult" target="_blank" rel="noopener">draft implementing act v2&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/3/consult" target="_blank" rel="noopener">draft implementing act v3&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/101077/1/consult" target="_blank" rel="noopener">voting sheet&nbsp;↗</a></td></tr>
+<tr><td class="nowrap" data-label="Date">9 Sep 2024</td><td data-label="Meeting"><a href="https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1540/consult" target="_blank" rel="noopener">2nd Cybersecurity Commitology&nbsp;↗</a></td><td data-label="Place" data-none data-gone>–</td><td data-label=""><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/099646/1/consult" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/100864/1/consult" target="_blank" rel="noopener">summary record&nbsp;↗</a></td><td data-label="Other documents" data-none>–</td></tr>
+<tr><td class="nowrap" data-label="Date">11 Jul 2024</td><td data-label="Meeting"><a href="https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)1186/consult" target="_blank" rel="noopener">1st Cybersecurity Commitee Meeting&nbsp;↗</a></td><td data-label="Place" data-none data-gone>–</td><td data-label=""><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098443/1/consult" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/099645/1/consult" target="_blank" rel="noopener">summary record&nbsp;↗</a></td><td data-label="Other documents"><a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/098444/1/consult" target="_blank" rel="noopener">draft implementing act&nbsp;↗</a></td></tr>
 </tbody></table></div>
-<p class="muted small">Source: <a href="https://ec.europa.eu/transparency/comitology-register/screen/committees/C127400/consult" target="_blank" rel="noopener">Comitology Register ↗</a>, meetings from 2024 on.</p>
-<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><footer class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></footer></div></body></html>
+<p class="muted small">Source: <a href="https://ec.europa.eu/transparency/comitology-register/screen/committees/C127400/consult" target="_blank" rel="noopener">Comitology Register&nbsp;↗</a>, meetings from 2024 on.</p>
+<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><div class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></div></main></div></body></html>

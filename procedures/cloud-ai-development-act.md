@@ -1,4 +1,4 @@
-# Legislative procedure – CADA – COM(2026) 502 (proposal)
+# Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
 Procedure 2026/0138(COD), as of 7 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
@@ -26,12 +26,12 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-04 | [ST 10104/26](https://data.consilium.europa.eu/doc/document/ST-10104-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework of measures for strengthening Europe's cloud and AI ecosystem … | public | – | – |
-| 2026-06-04 | [ST 10104/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-1/en/pdf) | council-transmission | ANNEX to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework of measures for strengthening Europe's cloud and … | public | – | – |
-| 2026-06-04 | [ST 10104/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-2/en/pdf) | council-transmission | PART 1/2 COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE … | public | – | – |
-| 2026-06-04 | [ST 10104/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-4/en/pdf) | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN … | public | – | – |
+| 2026-06-04 | [ST 10104/26](https://data.consilium.europa.eu/doc/document/ST-10104-2026-INIT/en/pdf) | council-transmission | Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe's cloud and AI ecosystem … | public | – | – |
+| 2026-06-04 | [ST 10104/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-1/en/pdf) | council-transmission | Annex to the Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe's cloud and … | public | – | – |
+| 2026-06-04 | [ST 10104/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-2/en/pdf) | council-transmission | PART 1/2 Commission staff working document impact assessment report Accompanying the document Proposal for a Regulation of the European Parliament and of the … | public | – | – |
+| 2026-06-04 | [ST 10104/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-4/en/pdf) | council-transmission | Commission staff working document executive summary of the impact assessment report Accompanying the document Proposal for a Regulation of the European … | public | – | – |
 | 2026-06-04 | [ST 10104/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-5/en/pdf) | council-transmission | Regulatory Scrutiny Board Opinion | public | – | – |
-| 2026-06-05 | [ST 10104/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-3/en/pdf) | council-transmission | PART 2/2 COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE … | public | – | – |
+| 2026-06-05 | [ST 10104/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-3/en/pdf) | council-transmission | PART 2/2 Commission staff working document impact assessment report Accompanying the document Proposal for a Regulation of the European Parliament and of the … | public | – | – |
 | 2026-06-16 | WK 8754/26 | council-note | Cloud and AI Development Act (CADA) – Impact Assessment: Presentation | not public\* | – | – |
 | 2026-06-16 | WK 8757/26 | council-note | Claud and AI Development Act (CADA): Presentation | not public\* | – | – |
 | 2026-07-07 | [WK 10169/26](https://data.consilium.europa.eu/doc/document/WK-10169-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | public | – | – |

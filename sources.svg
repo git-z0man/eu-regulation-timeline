@@ -114,8 +114,9 @@
 <rect x="1460.0" y="359.0" width="260.0" height="136.0" fill="#e3eeef" stroke="#0f5a63"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1468.0" y="377.2">Analysis and public site</tspan></text>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="402.7">index.py · concepts.py · docdiff.py · factcheck.py</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="424.7">timeline.py · procedure.py · forecast.py</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="446.7">actpage.py · texts.py · news.py · figures.py · gallery.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="424.7">decisions.py · desk_apply.py · knowledge.py · forecast_record.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="446.7">timeline.py · procedure.py · forecast.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="468.7">actpage.py · texts.py · news.py · figures.py · gallery.py</tspan></text>
 <text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="1468.0" y="481.3">this site</tspan></text>
 <rect x="20.0" y="785.0" width="26.0" height="12.0" fill="#e3eeef" stroke="#0f5a63"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="54.0" y="794.5">EU institutions</tspan></text>

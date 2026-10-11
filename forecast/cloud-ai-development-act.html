@@ -12,7 +12,7 @@ body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(
 a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
 a:hover { text-decoration-color: currentColor; }
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-a.ext::after { content: " ↗"; font-size: 0.85em; }
+a.ext::after { content: "\00a0↗"; font-size: 0.85em; }
 .crumbs { font-size: 15px; color: var(--muted); margin: 6px 0 8px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 24px; }
 .crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
 h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 0 0 4px; }
@@ -46,6 +46,10 @@ nav.sections.on { visibility: visible; height: auto; padding-block: 8px; border-
 nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); font-size: 15px; padding: 2px 0;
   border-bottom: 2px solid transparent; }
 nav.sections a[aria-current="true"] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+/* wider screens: the bar wraps, so every section stays reachable (a topic page has more than fit on one line) */
+@media (min-width: 701px) { nav.sections { flex-wrap: wrap; overflow-x: visible; } }
+/* every section of a topic page opens over the same 3px rule as the act pages' sections */
+section > h2:first-child { border-bottom: 3px solid var(--s-rule); padding-bottom: 6px; margin-bottom: 12px; }
 section { margin-top: 40px; }
 section p, .why, .note, .change > p { max-width: 80ch; }
 .actpage .wrap { counter-reset: sec; }
@@ -120,7 +124,7 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
 
 /* one hue (DESIGN.md): the runs in petrol, the second series dark grey and dashed, the 2029 election break a grey
    hatch, the Commission's planning in ink */
-:root { --s1: var(--s-accent); --s2: var(--s-ink2); --b80: var(--s-act-pale); --wall: var(--s-monitor); --wall-t: var(--s-ink2);
+:root { --s1: var(--s-accent); --s2: var(--s-ink2); --b80: var(--s-operate); --wall: var(--s-monitor); --wall-t: var(--s-ink2);
   --hb: var(--s-tint); --hl: color-mix(in srgb, var(--s-ink) 22%, transparent); --chip2: color-mix(in srgb, var(--s-tint) 60%, var(--s-low-pale));
   --plan: var(--s-ink); }
 [hidden] { display: none !important; }
@@ -227,14 +231,70 @@ svg .nl-g-announced { fill: var(--s-low-pale); } svg .nl-g-pending { fill: var(-
   font: 14px/1.5 var(--s-sans); }
 .sitefoot a { color: var(--s-ink2); }
 .sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap"><main id="main">
 <div class="crumbs"><span><a href="index.html">Forecast</a> › Cloud and AI Development Act</span></div>
 <h1>Cloud and AI Development Act</h1><div class="muted">Proposal for a Regulation establishing a framework of measures for strengthening Europe&#x27;s cloud and AI ecosystem (Cloud and AI Development Act)</div>
-<div class="facts"><span class="chip">referred to committee since 17 Sep 2026</span><span class="chip">2026/0138(COD)</span><span class="chip"><a href="../procedures/cloud-ai-development-act.html">Procedure</a></span></div>
+<div class="facts"><span class="chip">referred to committee since 17 Sep 2026</span><span class="chip">2026/0138(COD)</span><span class="chip"><a href="../procedures/cloud-ai-development-act.html">Procedure</a></span></div>
 <section class="now"><h2>When will it be law?</h2>
-<div><div class="verdict"><div><div class="k">Official Journal, median</div><div class="v">May 2028</div><div class="small muted">half of the runs Oct 2027 to Jan 2029</div></div><div><div class="k">Eight in ten</div><div class="v">Jun 2027 – Apr 2030</div><div class="small muted">of the runs</div></div><div><div class="k">Before the 2029 elections</div><div class="v">83 %</div><div class="small muted">published before Parliament's last session</div></div></div><h3>Step by step</h3><div class="legend"><span><i class="lg-50"></i>half of the runs</span><span><i class="lg-80"></i>eight in ten</span><span><i class="lg-med"></i>median</span><span><i class="lg-fx"></i>step reached</span><span><i class="lg-pl"></i>Commission planning</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 478" role="img" aria-label="Forecast: Cloud and AI Development Act" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<div><div class="verdict"><div><div class="k">Official Journal, median</div><div class="v">May 2028</div><div class="small muted">half of the runs Oct 2027 to Jan 2029</div></div><div><div class="k">Eight in ten</div><div class="v">Jun 2027 – Apr 2030</div><div class="small muted">of the runs</div></div><div><div class="k">Before the 2029 elections</div><div class="v">83 %</div><div class="small muted">published before Parliament's last session</div></div></div><h3>Step by step</h3><div class="legend"><span><i class="lg-50"></i>half of the runs</span><span><i class="lg-80"></i>eight in ten</span><span><i class="lg-med"></i>median</span><span><i class="lg-fx"></i>step reached</span><span><i class="lg-pl"></i>Commission planning</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig" tabindex="0" role="region" aria-label="Forecast: Cloud and AI Development Act (drawing; scrolls sideways on narrow screens)"><svg viewBox="0 0 1000 478" role="img" aria-label="Forecast: Cloud and AI Development Act" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Forecast: Cloud and AI Development Act</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
 <rect x="250.0" y="4" width="34.2" height="16" rx="3" class="pb" data-tip="Council Presidency: IE, Jul 2026 to Dec 2026"/>
@@ -271,33 +331,33 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 <text x="610.7" y="452" font-size="12" font-weight="600" class="wt">EP elections 2029</text>
 <text x="240" y="16" text-anchor="end" font-size="11" class="mu">Council Presidency</text>
 <line x1="253.4" y1="26" x2="253.4" y2="436" class="td"/>
-<text x="257.4" y="452" font-size="11" class="mu">data of 10 Oct 2026</text>
+<text x="257.4" y="452" font-size="11" class="mu">data of 10 Oct 2026</text>
 <text x="984" y="474" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</text>
 <text x="238" y="96.0" text-anchor="end" font-weight="600" class="ink lnk">Commission proposal</text>
 <circle cx="250.0" cy="99.0" r="6" class="fx" data-tip="Commission proposal: 3 Jun 2026"/>
-<text x="260.0" y="103.0" font-size="12" class="ink">Jun 2026</text>
+<text x="260.0" y="103.0" font-size="12" class="ink">Jun 2026</text>
 <text x="238" y="170.0" text-anchor="end" font-weight="600" class="ink lnk">EP committee vote</text>
-<rect x="287.5" y="170.0" width="117.1" height="6" rx="3" class="b80" data-tip="EP committee vote: median May 2027; half of the runs Mar 2027 to Aug 2027; eight in ten Jan 2027 to Nov 2027"/>
-<rect x="309.3" y="164.0" width="59.7" height="18" rx="4" class="b50" data-tip="EP committee vote: median May 2027; half of the runs Mar 2027 to Aug 2027; eight in ten Jan 2027 to Nov 2027"/>
+<rect x="287.5" y="170.0" width="117.1" height="6" class="b80" data-tip="EP committee vote: median May 2027; half of the runs Mar 2027 to Aug 2027; eight in ten Jan 2027 to Nov 2027"/>
+<rect x="309.3" y="164.0" width="59.7" height="18" class="b50" data-tip="EP committee vote: median May 2027; half of the runs Mar 2027 to Aug 2027; eight in ten Jan 2027 to Nov 2027"/>
 <circle cx="334.2" cy="173.0" r="7" class="med" stroke-width="3" data-tip="EP committee vote: median May 2027; half of the runs Mar 2027 to Aug 2027; eight in ten Jan 2027 to Nov 2027"/>
-<text x="334.2" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">May 2027</text>
+<text x="334.2" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">May 2027</text>
 <text x="238" y="244.0" text-anchor="end" font-weight="600" class="ink lnk">Trilogues can start</text>
-<rect x="289.8" y="244.0" width="144.7" height="6" rx="3" class="b80" data-tip="Trilogues can start: median Jun 2027; half of the runs Apr 2027 to Sep 2027; eight in ten Jan 2027 to Jan 2028"/>
-<rect x="320.4" y="238.0" width="64.3" height="18" rx="4" class="b50" data-tip="Trilogues can start: median Jun 2027; half of the runs Apr 2027 to Sep 2027; eight in ten Jan 2027 to Jan 2028"/>
+<rect x="289.8" y="244.0" width="144.7" height="6" class="b80" data-tip="Trilogues can start: median Jun 2027; half of the runs Apr 2027 to Sep 2027; eight in ten Jan 2027 to Jan 2028"/>
+<rect x="320.4" y="238.0" width="64.3" height="18" class="b50" data-tip="Trilogues can start: median Jun 2027; half of the runs Apr 2027 to Sep 2027; eight in ten Jan 2027 to Jan 2028"/>
 <circle cx="344.5" cy="247.0" r="7" class="med" stroke-width="3" data-tip="Trilogues can start: median Jun 2027; half of the runs Apr 2027 to Sep 2027; eight in ten Jan 2027 to Jan 2028"/>
-<text x="344.5" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jun 2027</text>
+<text x="344.5" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jun 2027</text>
 <text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">Provisional agreement</text>
-<rect x="314.3" y="318.0" width="271.7" height="6" rx="3" class="b80" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Jun 2028; eight in ten Mar 2027 to Feb 2029"/>
-<rect x="356.8" y="312.0" width="126.7" height="18" rx="4" class="b50" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Jun 2028; eight in ten Mar 2027 to Feb 2029"/>
+<rect x="314.3" y="318.0" width="271.7" height="6" class="b80" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Jun 2028; eight in ten Mar 2027 to Feb 2029"/>
+<rect x="356.8" y="312.0" width="126.7" height="18" class="b50" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Jun 2028; eight in ten Mar 2027 to Feb 2029"/>
 <circle cx="404.2" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Nov 2027; half of the runs Jul 2027 to Jun 2028; eight in ten Mar 2027 to Feb 2029"/>
-<text x="404.2" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Nov 2027</text>
+<text x="404.2" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Nov 2027</text>
 <text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
-<rect x="343.4" y="392.0" width="402.2" height="6" rx="3" class="b80" data-tip="Official Journal: median May 2028; half of the runs Oct 2027 to Jan 2029; eight in ten Jun 2027 to Apr 2030"/>
-<rect x="398.1" y="386.0" width="169.9" height="18" rx="4" class="b50" data-tip="Official Journal: median May 2028; half of the runs Oct 2027 to Jan 2029; eight in ten Jun 2027 to Apr 2030"/>
+<rect x="343.4" y="392.0" width="402.2" height="6" class="b80" data-tip="Official Journal: median May 2028; half of the runs Oct 2027 to Jan 2029; eight in ten Jun 2027 to Apr 2030"/>
+<rect x="398.1" y="386.0" width="169.9" height="18" class="b50" data-tip="Official Journal: median May 2028; half of the runs Oct 2027 to Jan 2029; eight in ten Jun 2027 to Apr 2030"/>
 <circle cx="474.3" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median May 2028; half of the runs Oct 2027 to Jan 2029; eight in ten Jun 2027 to Apr 2030"/>
-<text x="474.3" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">May 2028</text>
+<text x="474.3" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">May 2028</text>
 </svg></div><h3>Three routes through the 2029 elections</h3><div class="routes"><div class="r1"><div class="p">83 %</div><div class="bar"><i style="width:83%"></i></div>Published before the 2029 elections</div><div class="r2"><div class="p">9 %</div><div class="bar"><i style="width:9%"></i></div>Agreed before the elections, published after</div><div class="r3"><div class="p">8 %</div><div class="bar"><i style="width:8%"></i></div>Not agreed before the elections: continued by the new Parliament</div></div></div>
-<h3>Chance of publication by date</h3><div class="legend"><span><i class="lg-s1"></i>Official Journal</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig"><svg viewBox="0 0 1000 316" role="img" aria-label="Chance of publication in the Official Journal by date" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<h3>Chance of publication by date</h3><div class="legend"><span><i class="lg-s1"></i>Official Journal</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig" tabindex="0" role="region" aria-label="Chance of publication in the Official Journal by date (drawing; scrolls sideways on narrow screens)"><svg viewBox="0 0 1000 316" role="img" aria-label="Chance of publication in the Official Journal by date" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Chance of publication in the Official Journal by date</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
 <line x1="56" y1="264.0" x2="810" y2="264.0" class="gr"/>
@@ -348,8 +408,8 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 <text x="984" y="312" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</text>
 </svg></div><p class="small">Official Journal: published by the end of 2027 <b>32 %</b> · 2028 <b>74 %</b> · 2029 <b>87 %</b> · 2030 <b>94 %</b></p>
 <h3>Where the file stands</h3><ol class="steps">
-<li class="done">Commission proposal<span>3 Jun 2026</span></li>
-<li class="done">Referral to EP committee<span>17 Sep 2026</span></li>
+<li class="done">Commission proposal<span>3 Jun 2026</span></li>
+<li class="done">Referral to EP committee<span>17 Sep 2026</span></li>
 <li>EP committee vote<span>open</span></li>
 <li>Trilogues can start<span>open</span></li>
 <li>Provisional agreement<span>open</span></li>
@@ -360,7 +420,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 <p class="small"><a href="../procedures/cloud-ai-development-act.html">Every step and document of the procedure</a></p>
 <p class="small muted">Compared with 861 files that reached the same step and had not moved on after as long.  <a href="index.html#method">How the forecast works</a></p>
 </section>
-<p class="small muted" style="margin-top:18px">Our own assessment from public sources, <a href="https://creativecommons.org/licenses/by/4.0/" class="ext" target="_blank" rel="noopener">CC BY 4.0</a>. Data of 10 October 2026. It describes how long comparable laws took; it does not say what the institutions will decide.</p><footer class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></footer></div><div id="tip" hidden></div><script>
+<p class="small muted" style="margin-top:18px">Our own assessment from public sources, <a href="https://creativecommons.org/licenses/by/4.0/" class="ext" target="_blank" rel="noopener">CC BY 4.0</a>. Data of 10 Oct 2026. It describes how long comparable laws took; it does not say what the institutions will decide.</p><div class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></div></main></div><div id="tip" hidden></div><script>
 const tip = document.getElementById('tip');
 document.addEventListener('pointermove', e => {
   const t = e.target.closest && e.target.closest('[data-tip]');
@@ -374,4 +434,18 @@ document.querySelectorAll('.toggle').forEach(g => g.addEventListener('click', e 
   g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
   document.querySelectorAll('[data-scn]').forEach(el => { el.hidden = el.dataset.scn !== b.dataset.show; });
 }));
+</script><script>
+(function () {
+  if (matchMedia("(max-width: 700px)").matches)
+    document.querySelectorAll("details.phone-open").forEach(function (d) { d.open = true; });
+  document.querySelectorAll(".fig, .figure, .preview").forEach(function (f) {
+    var next = f.nextElementSibling;
+    if (f.scrollWidth > f.clientWidth + 4 && !(next && next.classList.contains("scroll-hint"))) {
+      var p = document.createElement("p");
+      p.className = "scroll-hint";
+      p.textContent = "The drawing scrolls sideways →";
+      f.after(p);
+    }
+  });
+})();
 </script></body></html>

@@ -1,4 +1,4 @@
-# Legislative procedure – CSOA – Regulation (EU) 2025/38
+# Legislative procedure – Cyber Solidarity Act – Regulation (EU) 2025/38
 
 Procedure 2023/0109(COD).
 Drawing: [cyber-solidarity-act.svg](cyber-solidarity-act.svg), [cyber-solidarity-act.pdf](cyber-solidarity-act.pdf) · Web page: [cyber-solidarity-act.html](cyber-solidarity-act.html)
@@ -39,8 +39,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2023-04-21 | ST 8512/23 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down measures to strengthen solidarity and capacities in the Union to detect, … | public status unknown | – | – |
-| 2023-04-21 | ST 8512/23 ADD 1 | council-transmission | ANNEXES to the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down measures to strengthen solidarity and capacities in the Union to detect, … | public status unknown | – | – |
+| 2023-04-21 | ST 8512/23 | council-transmission | Proposal for a Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, … | public status unknown | – | – |
+| 2023-04-21 | ST 8512/23 ADD 1 | council-transmission | Annexes to the Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, … | public status unknown | – | – |
 | 2023-06-02 | ST 10011/23 | council-note | Optional consultation of the Committee of the Regions | public status unknown | – | – |
 | 2023-07-06 | ST 11525/23 | council-transmission | Opinion on the application of the Principles of Subsidiarity and Proportionality | public status unknown | – | – |
 | 2023-07-13 | [CELEX 52023AE2408](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023AE2408) | opinion | Opinion of the European Economic and Social Committee on ‘Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) … | public | – | – |
@@ -51,9 +51,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-09-04 | [PE752.795](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-752795/ITRE-PR-752795_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the … | public | – | – |
 | 2023-09-26 | [CELEX 52023AA0002](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023AA0002) | opinion | Opinion 02/2023 (pursuant to Article 322(1), TFEU) concerning the proposal for a Regulation of the European Parliament and of the Council laying down measures … | public | – | – |
 | 2023-10-05 | ST 13841/23 | council-note | European Court of Auditors' Opinion 02/2023 on a proposal for a Regulation of the European Parliament and of the Council laying down measures to strengthen … | public status unknown | – | – |
-| 2023-10-25 | [PE752.607](https://data.europarl.europa.eu/distribution/reds_iCmOp/TRAN-AD-752607/TRAN-AD-752607_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on Measures to strengthen solidarity and capacities in the Union to … | public | – | – |
-| 2023-10-27 | [PE750.145](https://data.europarl.europa.eu/distribution/reds_iCmOp/AFET-AD-750145/AFET-AD-750145_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the … | public | – | – |
-| 2023-12-08 | [A9-0426/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0426/A-9-2023-0426_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union … | public | – | – |
+| 2023-10-25 | [PE752.607](https://data.europarl.europa.eu/distribution/reds_iCmOp/TRAN-AD-752607/TRAN-AD-752607_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on Measures to strengthen solidarity and capacities in the Union to … | public | – | – |
+| 2023-10-27 | [PE750.145](https://data.europarl.europa.eu/distribution/reds_iCmOp/AFET-AD-750145/AFET-AD-750145_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the … | public | – | – |
+| 2023-12-08 | [A9-0426/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0426/A-9-2023-0426_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union … | public | – | – |
 | 2023-12-11 | ST 16649/23 | council-transmission | Opinion of the European Committee of the Regions | public status unknown | – | – |
 | 2023-12-15 | [ST 16392/23](https://data.consilium.europa.eu/doc/document/ST-16392-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | – |
 | 2023-12-20 | [ST 16996/23](https://data.consilium.europa.eu/doc/document/ST-16996-2023-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | – |
@@ -61,15 +61,15 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-01-11 | [ST 5315/24 COR 1](https://data.consilium.europa.eu/doc/document/ST-5315-2024-COR-1/en/pdf) | trilogue | 4-column table | public | – | – |
 | 2024-03-15 | [ST 7589/24](https://data.consilium.europa.eu/doc/document/ST-7589-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
 | 2024-03-20 | ST 8047/24 | council-note | Letter sent to the European Parliament | public status unknown | – | – |
-| 2024-03-21 | [PE760.882](https://data.europarl.europa.eu/distribution/reds_iTrInag/ITRE-AG-760882/ITRE-AG-760882_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation laying down measures to strengthen solidarity and capacities in … | public | – | – |
+| 2024-03-21 | [PE760.882](https://data.europarl.europa.eu/distribution/reds_iTrInag/ITRE-AG-760882/ITRE-AG-760882_en.pdf) | agreed-text | Provisional agreement resulting from interinstitutional negotiations Proposal for a regulation laying down measures to strengthen solidarity and capacities in … | public | – | – |
 | 2024-04-24 | [P9_TA(2024)0355](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0355_en.pdf) | ep-position | Cyber Solidarity Act | public | – | – |
 | 2024-06-18 | ST 10819/24 | council-note | Files under the ordinary legislative procedure expected to undergo the Corrigendum Procedure in the European Parliament (part II) | public status unknown | – | – |
 | 2024-06-26 | ST 10819/24 COR 1 | council-note | Proposals under the ordinary legislative procedure expected to undergo the Corrigendum Procedure in the European Parliament (part II) | public status unknown | – | – |
-| 2024-09-17 | PE 94/24 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and … | public status unknown | – | – |
-| 2024-11-22 | ST 15879/24 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for … | public status unknown | – | – |
-| 2024-11-22 | ST 15879/24 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for … | public status unknown | – | – |
-| 2024-12-02 | ST 16497/24 | council-note | Voting result REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down measures to strengthen solidarity and capacities in the Union to detect, … | public status unknown | – | – |
-| 2024-12-19 | PE 94/24 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN MEASURES TO STRENGTHEN SOLIDARITY AND CAPACITIES IN THE UNION TO DETECT, PREPARE FOR AND … | public status unknown | – | – |
+| 2024-09-17 | PE 94/24 | council-note | Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and … | public status unknown | – | – |
+| 2024-11-22 | ST 15879/24 | council-note | Draft Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for … | public status unknown | – | – |
+| 2024-11-22 | ST 15879/24 ADD 1 | council-note | Draft Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for … | public status unknown | – | – |
+| 2024-12-02 | ST 16497/24 | council-note | Voting result Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, … | public status unknown | – | – |
+| 2024-12-19 | PE 94/24 REV 1 | council-note | Regulation of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union to detect, prepare for and … | public status unknown | – | – |
 
 ## Texts as Markdown
 

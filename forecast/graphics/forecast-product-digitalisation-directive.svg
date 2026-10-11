@@ -53,8 +53,8 @@
 <circle cx="250.0" cy="321.0" r="6" class="fx" data-tip="Provisional agreement: 14 Jul 2026"/>
 <text x="260.0" y="325.0" font-size="12" class="ink">Jul 2026</text>
 <text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
-<rect x="274.1" y="392.0" width="23.7" height="6" rx="3" class="b80" data-tip="Official Journal: median Dec 2026; half of the runs Dec 2026 to Jan 2027; eight in ten Dec 2026 to Feb 2027"/>
-<rect x="277.9" y="386.0" width="9.9" height="18" rx="4" class="b50" data-tip="Official Journal: median Dec 2026; half of the runs Dec 2026 to Jan 2027; eight in ten Dec 2026 to Feb 2027"/>
+<rect x="274.1" y="392.0" width="23.7" height="6" class="b80" data-tip="Official Journal: median Dec 2026; half of the runs Dec 2026 to Jan 2027; eight in ten Dec 2026 to Feb 2027"/>
+<rect x="277.9" y="386.0" width="9.9" height="18" class="b50" data-tip="Official Journal: median Dec 2026; half of the runs Dec 2026 to Jan 2027; eight in ten Dec 2026 to Feb 2027"/>
 <circle cx="281.8" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median Dec 2026; half of the runs Dec 2026 to Jan 2027; eight in ten Dec 2026 to Feb 2027"/>
 <text x="281.8" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Dec 2026</text>
 </g><text x="20" y="604" font-size="12" class="mu">Source: EP Legislative Observatory, all COD files with trilogues since 2012; 4,000 runs per act.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text></svg>

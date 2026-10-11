@@ -17,7 +17,7 @@ body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(
 a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
 a:hover { text-decoration-color: currentColor; }
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-a.ext::after { content: " ↗"; font-size: 0.85em; }
+a.ext::after { content: "\00a0↗"; font-size: 0.85em; }
 .crumbs { font-size: 15px; color: var(--muted); margin: 6px 0 8px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 24px; }
 .crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
 h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 0 0 4px; }
@@ -51,6 +51,10 @@ nav.sections.on { visibility: visible; height: auto; padding-block: 8px; border-
 nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); font-size: 15px; padding: 2px 0;
   border-bottom: 2px solid transparent; }
 nav.sections a[aria-current="true"] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+/* wider screens: the bar wraps, so every section stays reachable (a topic page has more than fit on one line) */
+@media (min-width: 701px) { nav.sections { flex-wrap: wrap; overflow-x: visible; } }
+/* every section of a topic page opens over the same 3px rule as the act pages' sections */
+section > h2:first-child { border-bottom: 3px solid var(--s-rule); padding-bottom: 6px; margin-bottom: 12px; }
 section { margin-top: 40px; }
 section p, .why, .note, .change > p { max-width: 80ch; }
 .actpage .wrap { counter-reset: sec; }
@@ -158,26 +162,82 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
   font: 14px/1.5 var(--s-sans); }
 .sitefoot a { color: var(--s-ink2); }
 .sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap">
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap"><main id="main">
 <h1>Regulations</h1>
 <p class="muted">One page per act with everything about it: the next dates, pending changes, the texts, implementing and delegated acts, standardisation, committees and expert groups, and the legislative history. More acts on the <a href="../index.html">timeline</a> and in the <a href="../procedures/index.html">legislative procedures</a>.</p>
 <h2 style="margin-top:18px">Topics of high interest</h2>
 <p class="small muted">Concepts that run through several acts, with where they are defined and where they apply; our own assessment.</p>
 <div class="cards">
-<a class="card-link" href="topic-high-risk-suppliers.html"><div class="acard"><div class="small muted">Topic · as of 29 Sep 2026</div><h2>High-risk suppliers</h2><p class="small">&quot;High-risk supplier&quot; is on its way to becoming a horizontal eligibility filter in EU law: it would decide who may supply key ICT assets of essential and important entities, take part in public procurement and auctions, receive public support and EU funding, and take part in European standardisation, certification and conformity assessment.</p><p class="small"><strong>Where it applies:</strong> Definition and identification, Operators of key ICT assets (NIS-2 entities), Public procurement, Auctions and public support schemes, EU funding, European standardisation and common specifications, Certification and conformity assessment, Market surveillance of products</p></div></a>
-<a class="card-link" href="topic-standardisation-reform.html"><div class="acard"><div class="small muted">Topic · as of 6 Oct 2026</div><h2>New Standardisation Regulation – routes to presumption of conformity</h2><p class="small">On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.</p><p class="small"><strong>Where it applies:</strong> Instruments of presumption (harmonised standards, deliverables, common specifications), Standardisation requests and deadlines, Who develops the standards, Assessment, citation and withdrawal, Access to standards, Participation and inclusiveness, Financing of the standardisation system, International standardisation, Governance, entry into application and transition</p></div></a>
+<a class="card-link" href="topic-high-risk-suppliers.html"><div class="acard"><div class="small muted">Topic · as of 29 Sep 2026</div><h2>High-risk suppliers</h2><p class="small">&quot;High-risk supplier&quot; is on its way to becoming a horizontal eligibility filter in EU law: it would decide who may supply key ICT assets of essential and important entities, take part in public procurement and auctions, receive public support and EU funding, and take part in European standardisation, certification and conformity assessment.</p><p class="small"><strong>Where it applies:</strong> Definition and identification, Operators of key ICT assets (NIS-2 entities), Public procurement, Auctions and public support schemes, EU funding, European standardisation and common specifications, Certification and conformity assessment, Market surveillance of products</p></div></a>
+<a class="card-link" href="topic-standardisation-reform.html"><div class="acard"><div class="small muted">Topic · as of 11 Oct 2026</div><h2>New Standardisation Regulation – routes to presumption of conformity</h2><p class="small">On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.</p><p class="small"><strong>Where it applies:</strong> Instruments of presumption (harmonised standards, deliverables, common specifications), Standardisation requests and deadlines, Who develops the standards, Assessment, citation and withdrawal, Access to standards, Participation and inclusiveness, Financing of the standardisation system, International standardisation, Governance, entry into application and transition</p></div></a>
 </div>
 <h2 style="margin-top:18px">Regulations</h2>
 <div class="cards">
-<a class="card-link" href="cra.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>Cyber Resilience Act</h2><p class="small">Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements (CRA)</p><p class="small"><strong>Next:</strong> 30 Oct 2026 – M/606 deadline: 26 items</p><p class="small"><strong>Pending changes:</strong> PPA</p></div></a>
-<a class="card-link" href="machinery-regulation.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>Machinery Regulation</h2><p class="small">Regulation (EU) 2023/1230 on machinery (MR)</p><p class="small"><strong>Next:</strong> 20 Oct 2026 – Formal vote forecast: prEN IEC 62745:2025</p><p class="small"><strong>Pending changes:</strong> Omnibus IV – Digitalisation and common specifications (Regulation)</p></div></a>
-<a class="card-link" href="ai-act.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--prepare)"></span>Prepare</div><h2>Artificial Intelligence Act</h2><p class="small">Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act)</p><p class="small"><strong>Next:</strong> 30 Nov 2026 – Formal vote forecast: prEN 18229-1</p><p class="small"><strong>Pending changes:</strong> MDR/IVDR simplification</p></div></a>
+<a class="card-link" href="cra.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>Cyber Resilience Act</h2><p class="small">Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements (CRA)</p><p class="small"><strong>Next:</strong> 30 Oct 2026 – M/606 deadline: 26 items</p><p class="small"><strong>Pending changes:</strong> Public Procurement Act</p></div></a>
+<a class="card-link" href="machinery-regulation.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--act)"></span>Act now</div><h2>Machinery Regulation</h2><p class="small">Regulation (EU) 2023/1230 on machinery (MR)</p><p class="small"><strong>Next:</strong> 20 Oct 2026 – Formal vote forecast: prEN IEC 62745:2025</p><p class="small"><strong>Pending changes:</strong> Omnibus IV – Digitalisation and common specifications (Regulation)</p></div></a>
+<a class="card-link" href="ai-act.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--prepare)"></span>Prepare</div><h2>Artificial Intelligence Act</h2><p class="small">Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act)</p><p class="small"><strong>Next:</strong> 30 Nov 2026 – Formal vote forecast: prEN 18229-1</p><p class="small"><strong>Pending changes:</strong> MDR/IVDR simplification</p></div></a>
 <a class="card-link" href="nis2.html"><div class="acard"><div class="small muted">In force · <span class="dot" style="background:var(--operate)"></span>In operation</div><h2>NIS 2 Directive</h2><p class="small">Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union (NIS-2)</p><p class="small"><strong>Pending changes:</strong> NIS-2 amendment, Digital Omnibus</p></div></a>
 <a class="card-link" href="csa2.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>Cybersecurity Act 2</h2><p class="small">Proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881 (CSA2)</p></div></a>
 <a class="card-link" href="digital-omnibus.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>Digital Omnibus</h2><p class="small">Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework</p></div></a>
 <a class="card-link" href="standardisation-revision.html"><div class="acard"><div class="small muted">Proposal · <span class="dot" style="background:var(--monitor)"></span>Monitor</div><h2>New Standardisation Regulation</h2><p class="small">Proposal for a Regulation on European standardisation, repealing Regulation (EU) No 1025/2012 (NSR)</p></div></a>
 <a class="card-link" href="market-surveillance.html"><div class="acard"><div class="small muted">Applicable · <span class="dot" style="background:var(--operate)"></span>In operation</div><h2>Market Surveillance Regulation</h2><p class="small">Regulation (EU) 2019/1020 on market surveillance and compliance of products (MSR)</p></div></a>
 </div>
-<footer>Built from public sources only: EUR-Lex and Cellar, the Register of Commission documents, eNorm, the Comitology Register, the Register of Commission expert groups and the public work programmes of CEN-CENELEC and ETSI. Our own compilation, an orientation for planning, not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><footer class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></footer></div></body></html>
+<footer>Built from public sources only: EUR-Lex and Cellar, the Register of Commission documents, eNorm, the Comitology Register, the Register of Commission expert groups and the public work programmes of CEN-CENELEC and ETSI. Our own compilation, an orientation for planning, not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><div class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></div></main></div></body></html>

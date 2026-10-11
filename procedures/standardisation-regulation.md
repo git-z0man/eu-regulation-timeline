@@ -1,4 +1,4 @@
-# Legislative procedure – Standardisation Regulation – Regulation (EC) No 1025/2012
+# Legislative procedure – Regulation on European standardisation – Regulation (EC) No 1025/2012
 
 Procedure 2011/0150(COD).
 Drawing: [standardisation-regulation.svg](standardisation-regulation.svg), [standardisation-regulation.pdf](standardisation-regulation.pdf) · Web page: [standardisation-regulation.html](standardisation-regulation.html)
@@ -23,7 +23,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-7-2012-0069/A-7-2012-0069_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | public | – | – |
+| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-7-2012-0069/A-7-2012-0069_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | public | – | – |
 
 ## Texts as Markdown
 

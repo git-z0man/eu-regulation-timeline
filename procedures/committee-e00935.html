@@ -29,8 +29,11 @@ th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--rul
 td.nowrap { white-space: nowrap; }
 tbody th { font-weight: 600; border-bottom: 1px solid var(--line); }   /* a row heading: a hairline, as every row */
 .table { overflow-x: auto; }
-/* phones: a wide table keeps readable columns and scrolls sideways inside its frame, the page does not */
-@media (max-width: 700px) { .table > table { min-width: 720px; } }
+/* phones: a table of two or three columns fits the screen and wraps; a wider one is read as one block per row
+   (`phone-stack`, tools/sitenav.py); one that cannot be (merged cells) keeps readable columns and scrolls sideways
+   inside its frame, the page does not */
+@media (max-width: 700px) { .table > table:where(:has(tr > :nth-child(4)):not(.phone-stack)) { min-width: 720px; }
+  .table > table:where(:not(:has(tr > :nth-child(4)))) td { overflow-wrap: anywhere; } }
 details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
 td > details, td > details > summary { margin-top: 0; }   /* a fold-out in a cell starts on the row's first line */
 code { font: 0.92em ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
@@ -46,7 +49,7 @@ footer p { max-width: none; }
 @media (max-width: 700px) { .wrap { padding-inline: 16px; } }
 /* the drawing is rendered light only: a white sheet with one hairline frame */
 .figure { background: #fff; border: 1px solid var(--line); padding: 8px; overflow-x: auto; margin: 16px 0; }
-.figure img { display: block; width: 100%; min-width: 900px; height: auto; }
+.figure img { display: block; width: 1800px; max-width: none; height: auto; }   /* its natural size: labels readable, the frame scrolls (design review, 11 Oct 2026) */
 table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; } table.fixed th { white-space: normal; }
 /* facts of a procedure: a ruled grid, not tiles */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0 32px; margin: 16px 0;
@@ -108,38 +111,94 @@ button.showmore { color: var(--accent); }
   font: 14px/1.5 var(--s-sans); }
 .sitefoot a { color: var(--s-ink2); }
 .sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html" aria-current="page">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html" aria-current="page">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav><main id="main">
 
 <p class="muted"><a href="committees.html">Committees and expert groups</a> › CSN · As Markdown: <a href="committee-e00935.md">committee-e00935.md</a></p>
 <h1>Consumer Safety Network (CSN)</h1>
-<p class="muted">Expert group E00935, JUST. Act: <a href="gpsr.html#committees">General Product Safety Regulation</a>. Official source: <a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=935" target="_blank" rel="noopener">Register of Commission expert groups ↗</a></p>
-<div class="cards"><div class="card"><div class="label">Next meeting</div><div class="value"><span class="muted">none announced</span></div></div><div class="card"><div class="label">Last meeting</div><div class="value">27 Nov 2024<div class="small">CSN meeting<br><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130499/download" target="_blank" rel="noopener">agenda ↗</a> · <a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132426/download" target="_blank" rel="noopener">minutes ↗</a></div></div></div><div class="card"><div class="label">Meetings since 2024</div><div class="value">4</div></div><div class="card"><div class="label">Latest minutes</div><div class="value"><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132426/download" target="_blank" rel="noopener">27 Nov 2024 ↗</a><div class="small">CSN meeting</div></div></div><div class="card"><div class="label">Members</div><div class="value">30<div class="small">27 Member State authorities (type D); 3 other public entities (type E); 7 observers.</div></div></div></div>
+<p class="muted">Expert group E00935, JUST. Act: <a href="gpsr.html#committees">General Product Safety Regulation</a>. Official source: <a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=935" target="_blank" rel="noopener">Register of Commission expert groups&nbsp;↗</a></p>
+<div class="cards"><div class="card"><div class="label">Next meeting</div><div class="value"><span class="muted">none announced</span></div></div><div class="card"><div class="label">Last meeting</div><div class="value">27 Nov 2024<div class="small">CSN meeting<br><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130499/download" target="_blank" rel="noopener">agenda&nbsp;↗</a> · <a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132426/download" target="_blank" rel="noopener">minutes&nbsp;↗</a></div></div></div><div class="card"><div class="label">Meetings since 2024</div><div class="value">4</div></div><div class="card"><div class="label">Latest minutes</div><div class="value"><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132426/download" target="_blank" rel="noopener">27 Nov 2024&nbsp;↗</a><div class="small">CSN meeting</div></div></div><div class="card"><div class="label">Members</div><div class="value">30<div class="small">27 Member State authorities (type D); 3 other public entities (type E); 7 observers.</div></div></div></div>
 <h2 id="about">About</h2>
 <div class="table"><table><tbody>
 <tr><th style="width:160px">Type</th><td>Informal, Permanent, Limited</td></tr>
 <tr><th style="width:160px">Policy areas</th><td>Consumer affairs</td></tr>
 <tr><th style="width:160px">Tasks</th><td><ul><li>Coordinate with Member States, exchange of views</li><li>Provides expertise to the Commission when preparing implementing measures, i.e. before the Commission submits these draft measures to a comitology committee</li></ul></td></tr>
 <tr><th style="width:160px">Contact</th><td><a href="mailto:JUST-E4@ec.europa.eu">JUST-E4@ec.europa.eu</a></td></tr>
-<tr><th style="width:160px">Registered</th><td>29 Sep 2005; last updated 31 Aug 2026</td></tr>
-<tr><th style="width:160px">Links</th><td><a href="http://ec.europa.eu/consumers/consumers_safety/cooperation_with_stakeholders/index_en.htm" target="_blank" rel="noopener">ec.europa.eu/consumers/consumers_safety/cooperation_with_stakeholders/index_en.htm ↗</a></td></tr>
+<tr><th style="width:160px">Registered</th><td>29 Sep 2005; last updated 31 Aug 2026</td></tr>
+<tr><th style="width:160px">Links</th><td><a href="http://ec.europa.eu/consumers/consumers_safety/cooperation_with_stakeholders/index_en.htm" target="_blank" rel="noopener">ec.europa.eu/consumers/consumers_safety/cooperation_with_stakeholders/index_en.htm&nbsp;↗</a></td></tr>
 </tbody></table></div>
 <h2 id="documents">Documents of the group</h2>
 <div class="table"><table><thead><tr><th>Document</th><th>Kind</th><th>Date</th></tr></thead><tbody>
-<tr><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/expertGroupAddtitionalInfo/45008/download" target="_blank" rel="noopener">Terms of References ↗</a></td><td>terms of reference</td><td class="nowrap">–</td></tr>
-<tr><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/expertGroupAddtitionalInfo/36768/download" target="_blank" rel="noopener">The sub-group &#x27;Task Force on the Revision of the RAPEX Guidelines&quot; adopted its rules of procedure on 18 January 2018 ↗</a></td><td>rules of procedure</td><td class="nowrap">–</td></tr>
-<tr><td><a href="https://circabc.europa.eu/faces/jsp/extension/wai/navigation/container.jsp" target="_blank" rel="noopener">CSN Sub-group : The RAPEX Contact Points meets on average 1-2 times per year. Agendas and summary records of meetings held between 2014 and 2016 are accessible via the CIRCABC interest group &#x27;Consumer Safety Network and Subgroups (Public) &#x27; at the link below. Documents of meetings from 2017 onwards are accessible in the &quot;Meetings&quot; part of this register. ↗</a></td><td>activity report</td><td class="nowrap">–</td></tr>
-<tr><td><a href="https://circabc.europa.eu/w/browse/63000727-616d-429d-824d-f689471ee277" target="_blank" rel="noopener">The Consumer Safety Network (CSN) meets on average 2-3 times per year. Agendas and summary records of meetings are published as follows: - For meetings held from 2014 to end of 2016, documents are accessible via the CIRCABC interest group &#x27;Consumer Safety Network (Public)&#x27; at the link here below. - For meetings held from 2017 onwards, documents are accessible in the &quot;Meetings&quot; part of this register. ↗</a></td><td>activity report</td><td class="nowrap">–</td></tr>
-<tr><td><a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0095:EN:NOT" target="_blank" rel="noopener">General Product Safety Directive 2001/95/EC, Article 10 ↗</a></td><td>other document</td><td class="nowrap">–</td></tr>
-<tr><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/calls-application/35114/download" target="_blank" rel="noopener">Call for applications ↗</a></td><td>call for applications</td><td class="nowrap">3 Oct 2019, deadline: 31 Oct 2019</td></tr>
+<tr><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/expertGroupAddtitionalInfo/45008/download" target="_blank" rel="noopener">Terms of References&nbsp;↗</a></td><td>terms of reference</td><td class="nowrap">–</td></tr>
+<tr><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/expertGroupAddtitionalInfo/36768/download" target="_blank" rel="noopener">The sub-group &#x27;Task Force on the Revision of the RAPEX Guidelines&quot; adopted its rules of procedure on 18 January 2018&nbsp;↗</a></td><td>rules of procedure</td><td class="nowrap">–</td></tr>
+<tr><td><a href="https://circabc.europa.eu/faces/jsp/extension/wai/navigation/container.jsp" target="_blank" rel="noopener">CSN Sub-group : The RAPEX Contact Points meets on average 1-2 times per year. Agendas and summary records of meetings held between 2014 and 2016 are accessible via the CIRCABC interest group &#x27;Consumer Safety Network and Subgroups (Public) &#x27; at the link below. Documents of meetings from 2017 onwards are accessible in the &quot;Meetings&quot; part of this register.&nbsp;↗</a></td><td>activity report</td><td class="nowrap">–</td></tr>
+<tr><td><a href="https://circabc.europa.eu/w/browse/63000727-616d-429d-824d-f689471ee277" target="_blank" rel="noopener">The Consumer Safety Network (CSN) meets on average 2-3 times per year. Agendas and summary records of meetings are published as follows: - For meetings held from 2014 to end of 2016, documents are accessible via the CIRCABC interest group &#x27;Consumer Safety Network (Public)&#x27; at the link here below. - For meetings held from 2017 onwards, documents are accessible in the &quot;Meetings&quot; part of this register.&nbsp;↗</a></td><td>activity report</td><td class="nowrap">–</td></tr>
+<tr><td><a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0095:EN:NOT" target="_blank" rel="noopener">General Product Safety Directive 2001/95/EC, Article 10&nbsp;↗</a></td><td>other document</td><td class="nowrap">–</td></tr>
+<tr><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/calls-application/35114/download" target="_blank" rel="noopener">Call for applications&nbsp;↗</a></td><td>call for applications</td><td class="nowrap">3 Oct 2019, deadline: 31 Oct 2019</td></tr>
 </tbody></table></div>
 <h2 id="meetings">Meetings</h2>
-<div class="table"><table><thead><tr><th>Date</th><th>Meeting</th><th>Place</th><th>Agenda</th><th>Minutes or summary record</th><th>Other documents</th></tr></thead><tbody>
-<tr><td class="nowrap">27 Nov 2024</td><td>CSN meeting</td><td>Brussels</td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130499/download" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132426/download" target="_blank" rel="noopener">minutes ↗</a></td><td>–</td></tr>
-<tr><td class="nowrap">26 Nov 2024</td><td>Joint CSN-EUPCN meeting</td><td>Brussels</td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130491/download" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132398/download" target="_blank" rel="noopener">minutes ↗</a></td><td>–</td></tr>
-<tr><td class="nowrap">27 Jun 2024</td><td>CSN meeting</td><td>Virtual</td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130490/download" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132418/download" target="_blank" rel="noopener">minutes ↗</a></td><td>–</td></tr>
-<tr><td class="nowrap">17 Apr 2024</td><td>CSN meeting - GPSR Workshop</td><td>Brussels</td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130498/download" target="_blank" rel="noopener">agenda ↗</a></td><td><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132417/download" target="_blank" rel="noopener">minutes ↗</a></td><td>–</td></tr>
+<div class="table"><table class="phone-stack wide"><thead><tr><th>Date</th><th>Meeting</th><th>Place</th><th>Agenda</th><th>Minutes or summary record</th><th data-gone>Other documents</th></tr></thead><tbody>
+<tr><td class="nowrap" data-label="Date">27 Nov 2024</td><td data-label="Meeting">CSN meeting</td><td data-label="Place">Brussels</td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130499/download" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132426/download" target="_blank" rel="noopener">minutes&nbsp;↗</a></td><td data-label="Other documents" data-none data-gone>–</td></tr>
+<tr><td class="nowrap" data-label="Date">26 Nov 2024</td><td data-label="Meeting">Joint CSN-EUPCN meeting</td><td data-label="Place">Brussels</td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130491/download" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132398/download" target="_blank" rel="noopener">minutes&nbsp;↗</a></td><td data-label="Other documents" data-none data-gone>–</td></tr>
+<tr><td class="nowrap" data-label="Date">27 Jun 2024</td><td data-label="Meeting">CSN meeting</td><td data-label="Place">Virtual</td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130490/download" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132418/download" target="_blank" rel="noopener">minutes&nbsp;↗</a></td><td data-label="Other documents" data-none data-gone>–</td></tr>
+<tr><td class="nowrap" data-label="Date">17 Apr 2024</td><td data-label="Meeting">CSN meeting - GPSR Workshop</td><td data-label="Place">Brussels</td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130498/download" target="_blank" rel="noopener">agenda&nbsp;↗</a></td><td data-label=""><a href="https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132417/download" target="_blank" rel="noopener">minutes&nbsp;↗</a></td><td data-label="Other documents" data-none data-gone>–</td></tr>
 </tbody></table></div>
 <h2 id="members">Members</h2>
 <p>30 members: 27 Member State authorities (type D); 3 other public entities (type E); 7 observers.</p>
@@ -155,31 +214,31 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 <tr><td class="nowrap">Estonia</td><td>Ministry of Economic Affairs and Communications</td><td>Member</td></tr>
 <tr><td class="nowrap">Finland</td><td>Finnish Safety &amp; Chemicals Agency (TUKES); Ministry of Employment and the Economy</td><td>Member</td></tr>
 <tr><td class="nowrap">France</td><td>Direction générale de la Concurrence, de la Consommation et de la Répression des Fraudes - Bureau &quot;Sécurité et réseaux d&#x27;alerte&quot;</td><td>Member</td></tr>
-<tr><td class="nowrap">Germany</td><td>Bavarian Ministry for Labour, Social Affairs, Family &amp; Women; Bündesministerium für Ernährung und Landwirtschaft under Verbraucherschutz</td><td>Member</td></tr>
-<tr><td class="nowrap">Greece</td><td>Ministry of Economy, Competitiveness and Shipping - General Secretariat for Consumer Affairs</td><td>Member</td></tr>
-<tr><td class="nowrap">Hungary</td><td>Ministry for National Economy - Consumer Department; Hungarian Authority for Consumer Protection</td><td>Member</td></tr>
-<tr><td class="nowrap">Ireland</td><td>National Consumer Agency</td><td>Member</td></tr>
-<tr><td class="nowrap">Italy</td><td>Ministero dello Sviluppo Economico</td><td>Member</td></tr>
-<tr><td class="nowrap">Latvia</td><td>Consumer Rights Protection Centre; Ministry of Economics of Latvia - Competition, Trade &amp; Consumer Rights Division</td><td>Member</td></tr>
-<tr><td class="nowrap">Lithuania</td><td>The State Non-Food Products Inspectorate under the Ministry of Economy</td><td>Member</td></tr>
-<tr><td class="nowrap">Luxembourg</td><td>ILNAS - Surveillance du Marché</td><td>Member</td></tr>
-<tr><td class="nowrap">Malta</td><td>Malta Standards Authority</td><td>Member</td></tr>
-<tr><td class="nowrap">Netherlands</td><td>Food and Consumer Product Safety Authority; Dutch Ministry of Economic Affairs</td><td>Member</td></tr>
-<tr><td class="nowrap">Poland</td><td>Office of Competition and Consumer Protection</td><td>Member</td></tr>
-<tr><td class="nowrap">Portugal</td><td>Ministry of Economy - Direcção-Geral do Consumidor</td><td>Member</td></tr>
-<tr><td class="nowrap">Romania</td><td>National Authority for Consumer Protection</td><td>Member</td></tr>
-<tr><td class="nowrap">Slovakia</td><td>Ministry of the Economy of the Slovak Republic</td><td>Member</td></tr>
-<tr><td class="nowrap">Slovenia</td><td>Ministry of the Economy</td><td>Member</td></tr>
-<tr><td class="nowrap">Spain</td><td>Instituto Nacional del Consumo - M° Sanidad y Consumo</td><td>Member</td></tr>
-<tr><td class="nowrap">Sweden</td><td>Swedish Consumer Agency (Konsumentverket)</td><td>Member</td></tr>
-</tbody></table></div></details>
+<tr class="more"><td class="nowrap">Germany</td><td>Bavarian Ministry for Labour, Social Affairs, Family &amp; Women; Bündesministerium für Ernährung und Landwirtschaft under Verbraucherschutz</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Greece</td><td>Ministry of Economy, Competitiveness and Shipping - General Secretariat for Consumer Affairs</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Hungary</td><td>Ministry for National Economy - Consumer Department; Hungarian Authority for Consumer Protection</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Ireland</td><td>National Consumer Agency</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Italy</td><td>Ministero dello Sviluppo Economico</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Latvia</td><td>Consumer Rights Protection Centre; Ministry of Economics of Latvia - Competition, Trade &amp; Consumer Rights Division</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Lithuania</td><td>The State Non-Food Products Inspectorate under the Ministry of Economy</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Luxembourg</td><td>ILNAS - Surveillance du Marché</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Malta</td><td>Malta Standards Authority</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Netherlands</td><td>Food and Consumer Product Safety Authority; Dutch Ministry of Economic Affairs</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Poland</td><td>Office of Competition and Consumer Protection</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Portugal</td><td>Ministry of Economy - Direcção-Geral do Consumidor</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Romania</td><td>National Authority for Consumer Protection</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Slovakia</td><td>Ministry of the Economy of the Slovak Republic</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Slovenia</td><td>Ministry of the Economy</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Spain</td><td>Instituto Nacional del Consumo - M° Sanidad y Consumo</td><td>Member</td></tr>
+<tr class="more"><td class="nowrap">Sweden</td><td>Swedish Consumer Agency (Konsumentverket)</td><td>Member</td></tr>
+</tbody></table></div><p class="showmore"><button type="button" class="toggle showmore" aria-expanded="false" hidden>Show all 27</button></p></details>
 <details open><summary>Organisations (5)</summary>
-<div class="table"><table><thead><tr><th>Organisation</th><th>Category</th><th>Represents</th><th>Status</th><th>Transparency Register</th></tr></thead><tbody>
-<tr><td>Bureau Européen des Unions de Consommateurs (BEUC)</td><td>NGOs</td><td>European</td><td>Observer</td><td><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=9505781573-45" target="_blank" rel="noopener">entry ↗</a></td></tr>
-<tr><td>EuroCommerce</td><td>Trade and business associations</td><td>European</td><td>Observer</td><td><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=84973761187-60" target="_blank" rel="noopener">entry ↗</a></td></tr>
-<tr><td>European Association for the Co-ordination of Consumer Representation in Standardisation (ANEC)</td><td>NGOs</td><td>European</td><td>Observer</td><td><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=507800799-30" target="_blank" rel="noopener">entry ↗</a></td></tr>
-<tr><td>European Committee for Standardization (CEN)</td><td>Other Organisations</td><td>European</td><td>Observer</td><td><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=63623305522-13" target="_blank" rel="noopener">entry ↗</a></td></tr>
-<tr><td>SMEunited aisbl (SMEunited)</td><td>Trade and business associations</td><td>European</td><td>Observer</td><td><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=55820581197-35" target="_blank" rel="noopener">entry ↗</a></td></tr>
+<div class="table"><table class="phone-stack"><thead><tr><th>Organisation</th><th>Category</th><th>Represents</th><th>Status</th><th>Transparency Register</th></tr></thead><tbody>
+<tr><td data-label="Organisation">Bureau Européen des Unions de Consommateurs (BEUC)</td><td data-label="Category">NGOs</td><td data-label="Represents">European</td><td data-label="Status">Observer</td><td data-label="Transparency Register"><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=9505781573-45" target="_blank" rel="noopener">entry&nbsp;↗</a></td></tr>
+<tr><td data-label="Organisation">EuroCommerce</td><td data-label="Category">Trade and business associations</td><td data-label="Represents">European</td><td data-label="Status">Observer</td><td data-label="Transparency Register"><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=84973761187-60" target="_blank" rel="noopener">entry&nbsp;↗</a></td></tr>
+<tr><td data-label="Organisation">European Association for the Co-ordination of Consumer Representation in Standardisation (ANEC)</td><td data-label="Category">NGOs</td><td data-label="Represents">European</td><td data-label="Status">Observer</td><td data-label="Transparency Register"><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=507800799-30" target="_blank" rel="noopener">entry&nbsp;↗</a></td></tr>
+<tr><td data-label="Organisation">European Committee for Standardization (CEN)</td><td data-label="Category">Other Organisations</td><td data-label="Represents">European</td><td data-label="Status">Observer</td><td data-label="Transparency Register"><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=63623305522-13" target="_blank" rel="noopener">entry&nbsp;↗</a></td></tr>
+<tr><td data-label="Organisation">SMEunited aisbl (SMEunited)</td><td data-label="Category">Trade and business associations</td><td data-label="Represents">European</td><td data-label="Status">Observer</td><td data-label="Transparency Register"><a href="https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=55820581197-35" target="_blank" rel="noopener">entry&nbsp;↗</a></td></tr>
 </tbody></table></div></details>
 <details open><summary>Other public entities (5)</summary>
 <div class="table"><table><thead><tr><th>Entity</th><th>Type</th><th>Status</th></tr></thead><tbody>
@@ -191,13 +250,25 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 </tbody></table></div></details>
 <h2 id="subgroups">Subgroups</h2>
 <ul>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100129" target="_blank" rel="noopener">RAPEX Contact Point Network ↗</a> <span class="muted">E00935/3, Active</span></li>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100875" target="_blank" rel="noopener">Sub-Group on Artifical Intelligence (AI), connected products and other new challenges in product safety ↗</a> <span class="muted">E00935/6, Active</span></li>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100116" target="_blank" rel="noopener">Task Force on the revision of the FIPD ↗</a> <span class="muted">E00935/2, Closed</span></li>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100518" target="_blank" rel="noopener">Task Force on the revision of the RAPEX Guidelines ↗</a> <span class="muted">E00935/5, Closed</span></li>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100399" target="_blank" rel="noopener">The safety of products sold online ↗</a> <span class="muted">E00935/4, Closed</span></li>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100033" target="_blank" rel="noopener">Working group of experts on tattoos ↗</a> <span class="muted">E00935/1, Closed</span></li>
-<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=104072" target="_blank" rel="noopener">Working Group on Risk Assessment ↗</a> <span class="muted">E00935/7, Active</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100129" target="_blank" rel="noopener">RAPEX Contact Point Network&nbsp;↗</a> <span class="muted">E00935/3, Active</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100875" target="_blank" rel="noopener">Sub-Group on Artifical Intelligence (AI), connected products and other new challenges in product safety&nbsp;↗</a> <span class="muted">E00935/6, Active</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100116" target="_blank" rel="noopener">Task Force on the revision of the FIPD&nbsp;↗</a> <span class="muted">E00935/2, Closed</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100518" target="_blank" rel="noopener">Task Force on the revision of the RAPEX Guidelines&nbsp;↗</a> <span class="muted">E00935/5, Closed</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100399" target="_blank" rel="noopener">The safety of products sold online&nbsp;↗</a> <span class="muted">E00935/4, Closed</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=100033" target="_blank" rel="noopener">Working group of experts on tattoos&nbsp;↗</a> <span class="muted">E00935/1, Closed</span></li>
+<li><a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=104072" target="_blank" rel="noopener">Working Group on Risk Assessment&nbsp;↗</a> <span class="muted">E00935/7, Active</span></li>
 </ul>
-<p class="muted small">Source: <a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=935" target="_blank" rel="noopener">Register of Commission expert groups ↗</a>, meetings from 2024 on.</p>
-<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><footer class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></footer></div></body></html>
+<p class="muted small">Source: <a href="https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&amp;groupId=935" target="_blank" rel="noopener">Register of Commission expert groups&nbsp;↗</a>, meetings from 2024 on.</p>
+<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><div class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></div></main></div><script>
+document.querySelectorAll("button.showmore").forEach(function (b) {
+  var rows = b.parentNode.previousElementSibling.querySelectorAll("tr.more"), label = b.textContent;
+  rows.forEach(function (r) { r.hidden = true; });
+  b.hidden = false;
+  b.addEventListener("click", function () {
+    var open = b.getAttribute("aria-expanded") !== "true";
+    b.setAttribute("aria-expanded", String(open));
+    b.textContent = open ? "Show fewer" : label;
+    rows.forEach(function (r) { r.hidden = !open; });
+  });
+});
+</script></body></html>

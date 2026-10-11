@@ -41,23 +41,23 @@
 <circle cx="250.0" cy="99.0" r="6" class="fx" data-tip="Commission proposal: 9 Sep 2026"/>
 <text x="260.0" y="103.0" font-size="12" class="ink">Sep 2026</text>
 <text x="238" y="170.0" text-anchor="end" font-weight="600" class="ink lnk">EP committee vote</text>
-<rect x="303.2" y="170.0" width="163.0" height="6" rx="3" class="b80" data-tip="EP committee vote: median Jul 2027; half of the runs Apr 2027 to Nov 2027; eight in ten Feb 2027 to Apr 2028"/>
-<rect x="329.6" y="164.0" width="73.1" height="18" rx="4" class="b50" data-tip="EP committee vote: median Jul 2027; half of the runs Apr 2027 to Nov 2027; eight in ten Feb 2027 to Apr 2028"/>
+<rect x="303.2" y="170.0" width="163.0" height="6" class="b80" data-tip="EP committee vote: median Jul 2027; half of the runs Apr 2027 to Nov 2027; eight in ten Feb 2027 to Apr 2028"/>
+<rect x="329.6" y="164.0" width="73.1" height="18" class="b50" data-tip="EP committee vote: median Jul 2027; half of the runs Apr 2027 to Nov 2027; eight in ten Feb 2027 to Apr 2028"/>
 <circle cx="359.1" cy="173.0" r="7" class="med" stroke-width="3" data-tip="EP committee vote: median Jul 2027; half of the runs Apr 2027 to Nov 2027; eight in ten Feb 2027 to Apr 2028"/>
 <text x="359.1" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jul 2027</text>
 <text x="238" y="244.0" text-anchor="end" font-weight="600" class="ink lnk">Trilogues can start</text>
-<rect x="308.2" y="244.0" width="182.5" height="6" rx="3" class="b80" data-tip="Trilogues can start: median Aug 2027; half of the runs Jun 2027 to Dec 2027; eight in ten Mar 2027 to Jun 2028"/>
-<rect x="343.4" y="238.0" width="75.0" height="18" rx="4" class="b50" data-tip="Trilogues can start: median Aug 2027; half of the runs Jun 2027 to Dec 2027; eight in ten Mar 2027 to Jun 2028"/>
+<rect x="308.2" y="244.0" width="182.5" height="6" class="b80" data-tip="Trilogues can start: median Aug 2027; half of the runs Jun 2027 to Dec 2027; eight in ten Mar 2027 to Jun 2028"/>
+<rect x="343.4" y="238.0" width="75.0" height="18" class="b50" data-tip="Trilogues can start: median Aug 2027; half of the runs Jun 2027 to Dec 2027; eight in ten Mar 2027 to Jun 2028"/>
 <circle cx="370.5" cy="247.0" r="7" class="med" stroke-width="3" data-tip="Trilogues can start: median Aug 2027; half of the runs Jun 2027 to Dec 2027; eight in ten Mar 2027 to Jun 2028"/>
 <text x="370.5" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Aug 2027</text>
 <text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">Provisional agreement</text>
-<rect x="338.0" y="318.0" width="405.3" height="6" rx="3" class="b80" data-tip="Provisional agreement: median Mar 2028; half of the runs Sep 2027 to Oct 2028; eight in ten May 2027 to Apr 2030"/>
-<rect x="380.9" y="312.0" width="150.4" height="18" rx="4" class="b50" data-tip="Provisional agreement: median Mar 2028; half of the runs Sep 2027 to Oct 2028; eight in ten May 2027 to Apr 2030"/>
+<rect x="338.0" y="318.0" width="405.3" height="6" class="b80" data-tip="Provisional agreement: median Mar 2028; half of the runs Sep 2027 to Oct 2028; eight in ten May 2027 to Apr 2030"/>
+<rect x="380.9" y="312.0" width="150.4" height="18" class="b50" data-tip="Provisional agreement: median Mar 2028; half of the runs Sep 2027 to Oct 2028; eight in ten May 2027 to Apr 2030"/>
 <circle cx="452.4" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Mar 2028; half of the runs Sep 2027 to Oct 2028; eight in ten May 2027 to Apr 2030"/>
 <text x="452.4" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Mar 2028</text>
 <text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
-<rect x="370.9" y="392.0" width="437.0" height="6" rx="3" class="b80" data-tip="Official Journal: median Aug 2028; half of the runs Jan 2028 to Feb 2029; eight in ten Aug 2027 to Sep 2030"/>
-<rect x="434.5" y="386.0" width="144.3" height="18" rx="4" class="b50" data-tip="Official Journal: median Aug 2028; half of the runs Jan 2028 to Feb 2029; eight in ten Aug 2027 to Sep 2030"/>
+<rect x="370.9" y="392.0" width="437.0" height="6" class="b80" data-tip="Official Journal: median Aug 2028; half of the runs Jan 2028 to Feb 2029; eight in ten Aug 2027 to Sep 2030"/>
+<rect x="434.5" y="386.0" width="144.3" height="18" class="b50" data-tip="Official Journal: median Aug 2028; half of the runs Jan 2028 to Feb 2029; eight in ten Aug 2027 to Sep 2030"/>
 <circle cx="509.1" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median Aug 2028; half of the runs Jan 2028 to Feb 2029; eight in ten Aug 2027 to Sep 2030"/>
 <text x="509.1" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Aug 2028</text>
 </g><text x="20" y="604" font-size="12" class="mu">Source: EP Legislative Observatory, all COD files with trilogues since 2012; 4,000 runs per act.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text></svg>

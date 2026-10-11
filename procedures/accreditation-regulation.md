@@ -1,4 +1,4 @@
-# Legislative procedure – Reg. 765/2008 – Regulation (EC) No 765/2008
+# Legislative procedure – Accreditation and CE marking Regulation – Regulation (EC) No 765/2008
 
 Procedure 2007/0029(COD).
 Drawing: [accreditation-regulation.svg](accreditation-regulation.svg), [accreditation-regulation.pdf](accreditation-regulation.pdf) · Web page: [accreditation-regulation.html](accreditation-regulation.html)
@@ -23,7 +23,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – | – |
+| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – | – |
 
 ## Texts as Markdown
 

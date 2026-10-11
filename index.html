@@ -57,7 +57,7 @@ select { font-weight: 600; }
 .btn { cursor: pointer; }
 .btn:hover { border-color: var(--ink); }
 input[type="search"] { width: min(230px, 70vw); }
-a.ext::after { content: " \2197"; font-size: .85em; }
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
 .open-page { display: inline-block; margin: 6px 0 10px; padding: 7px 12px; border-radius: var(--radius); background: var(--s-accent);
   color: var(--s-sheet); text-decoration: none; font-weight: 600; }
 .open-page:hover { filter: brightness(1.1); }
@@ -112,33 +112,36 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
 .key .sw { width: 22px; height: 10px; border: 1px solid var(--s-operate); display: inline-block; }
 .key .sw.pale { background: var(--s-operate-pale); } .key .sw.solid { background: var(--s-operate); }
 .key .sw.hatch { border-style: dashed; background: repeating-linear-gradient(135deg, color-mix(in srgb, var(--s-operate) 45%, transparent) 0 2px, transparent 2px 7px); }
+.key .sw.band { background: var(--band); border-color: transparent; }
 .key .dm { width: 9px; height: 9px; transform: rotate(45deg); border: 1.5px solid var(--ink); background: var(--panel); display: inline-block; margin: 0 2px; }
 .key .dm.ob { background: var(--ink); }
 .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; align-items: start; }
 .layout > * { min-width: 0; }
 @media (max-width: 1080px) { .layout { grid-template-columns: 1fr; } }
-@media (max-width: 640px) { .axis, .row, .grp { grid-template-columns: 130px 1fr; } .overlay { left: 130px; }
-  .row .name { font-size: 13.5px; padding-left: 8px; } .axis .corner { padding-left: 8px; } }
 .card { background: var(--panel); border: 1px solid var(--line); }
 
 /* Timeline */
 .tl { overflow-x: auto; overscroll-behavior-x: contain; }
 .tl-inner { min-width: 860px; position: relative; padding: 0 0 8px; }
 .axis, .row, .grp { display: grid; grid-template-columns: 210px 1fr; }
-.axis { position: sticky; top: 0; z-index: 3; background: var(--panel); border-bottom: 1.5px solid var(--s-rule); height: 34px; }
+.axis { position: sticky; top: 0; z-index: 6; background: var(--panel); border-bottom: 1.5px solid var(--s-rule); height: 34px; }
 .axis .years { position: relative; }
 .axis .yr { position: absolute; top: 0; height: 34px; display: flex; align-items: center; justify-content: center; font-weight: 600; font-size: 14px; }
 .axis .corner { display: flex; align-items: center; padding-left: 14px; font-weight: 600; font-size: 14px; }
 .grp { background: var(--s-tint); }
-.grp h2 { grid-column: 1 / -1; margin: 0; font-size: 14px; font-weight: 700; padding: 6px 14px; }
+.grp h2 { grid-column: 1 / -1; margin: 0; font-size: 14px; font-weight: 700; padding: 6px 14px;
+  position: sticky; left: 0; z-index: 5; width: max-content; background: var(--s-tint); }   /* above the today band */
 .row {
   position: relative; min-height: 50px; border-bottom: 1px solid var(--grid); cursor: pointer; background: none;
   width: 100%; border-left: 0; border-right: 0; border-top: 0; padding: 0; text-align: left; font: inherit; color: inherit;
 }
 .row .bar, .row .ms { transition: opacity .18s ease; }
+/* the act names stay at the left while the chart scrolls sideways: above the bars, milestones, their labels and the
+  today line (z-index 2-3), with a rule that separates them from the drawing */
 .row .name { display: flex; align-items: center; gap: 9px; padding: 6px 10px 6px 14px; font-size: 15px; line-height: 1.25;
-  position: sticky; left: 0; z-index: 2; background: var(--panel); }
-.axis .corner { position: sticky; left: 0; z-index: 4; background: var(--panel); }
+  position: sticky; left: 0; z-index: 5; background: var(--panel); border-right: 1px solid var(--grid);
+  border-bottom: 1px solid var(--grid); margin-bottom: -1px; }   /* covers the row's own rule, so no line shows through */
+.axis .corner { position: sticky; left: 0; z-index: 7; background: var(--panel); border-right: 1px solid var(--grid); }
 .row .name .dot { width: 10px; height: 10px; background: var(--c); flex: none; }
 .row .track { position: relative; }
 .row:hover, .row[aria-current="true"] { background: var(--s-tint); }
@@ -169,6 +172,9 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
 .ms-l.up { top: 1px; } .ms-l.down { bottom: 0; }
 .gridline { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--grid); pointer-events: none; }
 .overlay { position: absolute; top: 34px; bottom: 8px; left: 210px; right: 0; pointer-events: none; z-index: 2; }
+/* phones: a narrower name column, after the rules it overrides (it came first before 11 Oct 2026 and never applied) */
+@media (max-width: 640px) { .axis, .row, .grp { grid-template-columns: 130px 1fr; } .overlay { left: 130px; }
+  .row .name { font-size: 13.5px; padding-left: 12px; } .axis .corner, .grp h2 { padding-left: 12px; } }
 .band { position: absolute; top: 0; bottom: 0; background: var(--band); }
 .cursor { position: absolute; top: 0; bottom: 0; width: 0; border-left: 2px solid var(--asof); }
 .cursor.scrub { border-left: 2px dashed var(--ink); }
@@ -258,9 +264,65 @@ footer { color: var(--muted); font-size: 14px; margin-top: 24px; line-height: 1.
   font: 14px/1.5 var(--s-sans); }
 .sitefoot a { color: var(--s-ink2); }
 .sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav><main id="main">
   <header class="top">
     <div class="headline">
       <h1 id="title">EU digital and product regulation</h1>
@@ -415,6 +477,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
       <li><i class="sw hatch"></i>proposal (not law)</li>
       <li><i class="dm"></i>milestone</li>
       <li><i class="dm ob"></i>obligations start</li>
+      <li><i class="sw band"></i>shaded: the next 12 months</li>
     </ul>
     <p class="dl-near" id="dl-near"></p>
   </div>
@@ -423,7 +486,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
       <div class="tl" id="tl">
         <div class="tl-inner" id="tl-inner">
           <div class="axis" aria-hidden="true"><div class="corner">Act</div><div class="years" id="years"></div></div>
-          <div id="rows" role="list"></div>
+          <div id="rows"></div>
           <p class="nohit" id="nohit" hidden></p>
           <div class="overlay" id="overlay" aria-hidden="true"></div>
         </div>
@@ -443,7 +506,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
   </details>
 
   <footer id="footer"></footer>
-<footer class="sitefoot">EU regulation timeline, a private project by <a href="about.html">Steffen Zimmermann</a> · <a href="LICENSE.md">CC BY 4.0</a></footer></div>
+<div class="sitefoot">EU regulation timeline, a private project by <a href="about.html">Steffen Zimmermann</a> · <a href="LICENSE.md">CC BY 4.0</a></div></main></div>
 
 <script type="application/json" id="data">{
  "as_of": "2026-10-11",
@@ -512,6 +575,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "cra",
      "label": "CRA – Reg. 2024/2847",
      "group": "Cybersecurity",
+     "name": "Cyber Resilience Act",
      "act_title": "Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements",
      "names": "cra CRA Cyber Resilience Act 32024R2847",
      "act_url": "http://data.europa.eu/eli/reg/2024/2847/oj",
@@ -633,6 +697,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "red-cyber",
      "label": "RED cyber DA 2022/30",
      "group": "Cybersecurity",
+     "name": "Radio Equipment Directive cybersecurity delegated act",
      "act_title": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f), of that Directive",
      "names": "red-cybersecurity RED DA 2022/30 Radio Equipment Directive cybersecurity delegated act 32022R0030",
      "act_url": "http://data.europa.eu/eli/reg_del/2022/30/oj",
@@ -718,6 +783,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "nis2",
      "label": "NIS-2 – Dir. 2022/2555",
      "group": "Cybersecurity",
+     "name": "NIS 2 Directive",
      "act_title": "Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union",
      "names": "nis2 NIS-2 NIS 2 Directive 32022L2555",
      "act_url": "http://data.europa.eu/eli/dir/2022/2555/oj",
@@ -828,6 +894,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "csa",
      "label": "CSA 2019/881 → CSA2",
      "group": "Cybersecurity",
+     "name": "Cybersecurity Act",
      "act_title": "Regulation (EU) 2019/881 on ENISA and on information and communications technology cybersecurity certification",
      "names": "csa CSA Cybersecurity Act 32019R0881",
      "act_url": "http://data.europa.eu/eli/reg/2019/881/oj",
@@ -911,6 +978,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "ai-act",
      "label": "AI Act – Reg. 2024/1689",
      "group": "AI and digital",
+     "name": "Artificial Intelligence Act",
      "act_title": "Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence",
      "names": "ai-act AI Act Artificial Intelligence Act 32024R1689",
      "act_url": "http://data.europa.eu/eli/reg/2024/1689/oj",
@@ -1040,6 +1108,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "omnibus",
      "label": "Digital Omnibus (data, incident reporting)",
      "group": "AI and digital",
+     "name": "Digital Omnibus",
      "act_title": "Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework",
      "names": "digital-omnibus Digital Omnibus Digital Omnibus 52025PC0837",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
@@ -1120,6 +1189,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "machinery",
      "label": "Machinery Reg. 2023/1230",
      "group": "Product framework",
+     "name": "Machinery Regulation",
      "act_title": "Regulation (EU) 2023/1230 on machinery",
      "names": "machinery-regulation MR Machinery Regulation 32023R1230",
      "act_url": "http://data.europa.eu/eli/reg/2023/1230/oj",
@@ -1232,6 +1302,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "pld",
      "label": "PLD – Dir. 2024/2853",
      "group": "Product framework",
+     "name": "Product Liability Directive",
      "act_title": "Directive (EU) 2024/2853 on liability for defective products",
      "names": "pld PLD Product Liability Directive 32024L2853",
      "act_url": "http://data.europa.eu/eli/dir/2024/2853/oj",
@@ -1309,6 +1380,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "gpsr",
      "label": "GPSR – Reg. 2023/988",
      "group": "Product framework",
+     "name": "General Product Safety Regulation",
      "act_title": "Regulation (EU) 2023/988 on general product safety",
      "names": "gpsr GPSR General Product Safety Regulation 32023R0988",
      "act_url": "http://data.europa.eu/eli/reg/2023/988/oj",
@@ -1379,6 +1451,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "imera",
      "label": "IMERA – Reg. 2024/2747",
      "group": "Product framework",
+     "name": "Internal Market Emergency and Resilience Act",
      "act_title": "Regulation (EU) 2024/2747 establishing a framework of measures related to an internal market emergency and to the resilience of the internal market",
      "names": "imera IMERA Internal Market Emergency and Resilience Act 32024R2747",
      "act_url": "http://data.europa.eu/eli/reg/2024/2747/oj",
@@ -1463,6 +1536,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "msr",
      "label": "MSR – Reg. 2019/1020",
      "group": "Product framework",
+     "name": "Market Surveillance Regulation",
      "act_title": "Regulation (EU) 2019/1020 on market surveillance and compliance of products",
      "names": "market-surveillance MSR Market Surveillance Regulation 32019R1020",
      "act_url": "http://data.europa.eu/eli/reg/2019/1020/oj",
@@ -1533,6 +1607,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "epa",
      "label": "EPA (NLF revision)",
      "group": "Product framework",
+     "name": "European Product Act",
      "act_title": "European Product Act",
      "names": "epa EPA European Product Act",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025IP0242",
@@ -1634,6 +1709,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "standardisation",
      "label": "NSR (revision of Reg. 1025/2012)",
      "group": "Product framework",
+     "name": "New Standardisation Regulation",
      "act_title": "Proposal for a Regulation on European standardisation, repealing Regulation (EU) No 1025/2012",
      "names": "standardisation-revision NSR New Standardisation Regulation 52026PC0780",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780",
@@ -1736,6 +1812,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "digitalisation",
      "label": "Digitalisation & common specs",
      "group": "Product framework",
+     "name": "Omnibus IV – Digitalisation and common specifications (Regulation)",
      "act_title": "Proposal for a Regulation amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications",
      "names": "product-digitalisation-regulation Omnibus IV – Digitalisation and common specifications (Regulation) Digitalisation and common specifications in product legislation (Regulation) 52025PC0504",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0504",
@@ -1852,6 +1929,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "nzia",
      "label": "Net Zero Industry Act",
      "group": "Industrial policy",
+     "name": "Net Zero Industry Act",
      "act_title": "Regulation (EU) 2024/1735 on establishing a framework of measures for strengthening Europe's net-zero technology manufacturing ecosystem",
      "names": "nzia NZIA Net Zero Industry Act 32024R1735",
      "act_url": "http://data.europa.eu/eli/reg/2024/1735/oj",
@@ -1953,6 +2031,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "ppa",
      "label": "Public Procurement Act",
      "group": "Industrial policy",
+     "name": "Public Procurement Act",
      "act_title": "Proposal for a Regulation on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU",
      "names": "public-procurement-act PPA Public Procurement Act 52026PC0590",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
@@ -2034,6 +2113,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
      "id": "iaa",
      "label": "Industrial Accelerator Act",
      "group": "Industrial policy",
+     "name": "Industrial Accelerator Act",
      "act_title": "Proposal for a Regulation establishing a framework of measures for the acceleration of industrial capacity and decarbonisation in strategic sectors",
      "names": "industrial-accelerator-act IAA Industrial Accelerator Act 52026PC0100",
      "act_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100",
@@ -2148,7 +2228,8 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
   const TODAY = (() => { const n = new Date(); return new Date(Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate())); })();
   const todayIso = TODAY.toISOString().slice(0, 10);
   const pct = d => Math.max(0, Math.min(100, (day(d) - T0) / (T1 - T0) * 100));
-  const fmt = d => day(d).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
+  // a date never breaks across lines: "9 Dec 2026" with non-breaking spaces
+  const fmt = d => day(d).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).replace(/ /g, "\u00a0");
   const daysBetween = (a, b) => Math.round((b - a) / 864e5);
   const rel = d => {
     const n = daysBetween(TODAY, day(d));
@@ -2269,7 +2350,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
     items.sort((a, b) => day(a.m.date) - day(b.m.date));
     const list = items.slice(0, 4).map(({ r, m }) => el("li", {},
       el("span", { class: "days" }, rel(m.date)),
-      el("span", {}, el("a", { href: "#act=" + r.id, onclick: e => { e.preventDefault(); select(r.id, true); } }, r.label.split(" – ")[0]),
+      el("span", {}, el("a", { href: "#act=" + r.id, onclick: e => { e.preventDefault(); select(r.id, true); } }, r.name || r.label.split(" – ")[0]),
         ": " + m.label + " ", el("span", { class: "nowrap" }, "(" + fmt(m.date) + ")"))));
     fill($("#deadlines"), ...(list.length ? list : [el("li", { class: "empty" }, "No dated obligations ahead.")]));
   }
@@ -2288,7 +2369,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
       fill($("#lead-line"), el("span", { class: "what" }, "No dated obligation ahead for this profile."));
       fill($("#lead-where"));
     } else {
-      const name = n.r.label.split(" – ")[0];
+      const name = n.r.name || n.r.label.split(" – ")[0];
       fill($("#lead-line"), el("span", { class: "when" }, relLong(n.m.date)),
         el("span", { class: "what" }, name + ": " + n.m.label));
       fill($("#lead-where"), "Next deadline set by law for a " + P().title.toLowerCase() + " · " + fmt(n.m.date),
@@ -2334,7 +2415,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
           track.append(el("span", { class: "ms-l " + (j % 2 ? "down" : "up"), style: `left:${x}%` }, m.label));
         });
         const btn = el("button", {
-          type: "button", class: "row", role: "listitem", style: cvars(r.criticality), "data-id": r.id,
+          type: "button", class: "row", style: cvars(r.criticality), "data-id": r.id,
           "aria-label": `${r.label}. ${CRIT[r.criticality].label}: ${r.reason}.`,
           onclick: () => select(r.id),
           onmouseenter: () => spot(r.id), onmouseleave: () => spot(null), onfocus: () => spot(r.id), onblur: () => spot(null),
@@ -2450,7 +2531,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
       el("button", { type: "button", class: "btn close", "aria-label": "Close details", onclick: () => select(null) }, "✕"),
       el("h3", {}, r.page ? el("a", { href: r.page }, r.label) : r.label),
       el("p", { class: "meta" }, r.act_title),
-      r.page ? el("a", { href: r.page, class: "open-page" }, "Open the " + r.label.split(" – ")[0] + " page →") : null,
+      r.page ? el("a", { href: r.page, class: "open-page" }, "Open the " + (r.name || r.label.split(" – ")[0]) + " page →") : null,
       el("p", { class: "meta" },
         r.act_url ? el("a", { href: r.act_url, target: "_blank", rel: "noopener", class: "ext" }, "EUR-Lex") : null,
         ...((r.act_md || []).length ? [r.act_url ? " · Text: " : "Text: ",
@@ -2567,10 +2648,20 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
     if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); }
     if (e.key === "Escape") {
       if (document.activeElement === $("#q") && query) { $("#q").value = ""; query = ""; applyFilter(); return; }
-      if (selected) select(null); else if (active.size) { active.clear(); renderChips(); applyFilter(); }
+      // one thing at a time: the panel, then the search (as the hint says), then the rating filter
+      if (selected) select(null);
+      else if (query) { $("#q").value = ""; query = ""; applyFilter(); }
+      else if (active.size) { active.clear(); renderChips(); applyFilter(); }
     }
   });
   renderAll();
+  // phones and narrow windows: the timeline scrolls sideways, so it opens at today rather than at 2024
+  requestAnimationFrame(() => {
+    const tl = $("#tl"), cur = document.querySelector("#overlay .cursor:not(.scrub)");
+    if (!tl || !cur || tl.scrollWidth <= tl.clientWidth) return;
+    const name = document.querySelector("#rows .row .name");
+    tl.scrollLeft = cur.getBoundingClientRect().left - tl.getBoundingClientRect().left - (name ? name.offsetWidth : 0) - 24;
+  });
 })();
 </script>
 </body>

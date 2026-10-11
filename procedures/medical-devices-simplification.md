@@ -1,4 +1,4 @@
-# Legislative procedure – MDR/IVDR simplification – COM(2025) 1023 (proposal)
+# Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
 Procedure 2025/0404(COD), as of 6 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
@@ -50,7 +50,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-03-12 | [WK 3870/26](https://data.consilium.europa.eu/doc/document/WK-3870-2026-INIT/en/pdf) | council-note | Planning and sequence of topics for the examination of the proposal | public | – | – |
 | 2026-03-12 | [WK 3916/26](https://data.consilium.europa.eu/doc/document/WK-3916-2026-INIT/en/pdf) | council-note | Presentation by the Commission | public | – | – |
 | 2026-03-13 | [ST 7161/26](https://data.consilium.europa.eu/doc/document/ST-7161-2026-INIT/en/pdf) | council-note | cluster 1 | public | – | – |
-| 2026-03-18 | [ST 16919/25](https://data.consilium.europa.eu/doc/document/ST-16919-2025-INIT/en/pdf) | council-note | Vorschlag für eine VERORDNUNG DES EUROPÄISCHEN PARLAMENTS UND DES RATES zur Änderung der Verordnungen (EU) 2017/745 und (EU) 2017/746 zwecks Vereinfachung der … | public | – | – |
+| 2026-03-18 | [ST 16919/25](https://data.consilium.europa.eu/doc/document/ST-16919-2025-INIT/en/pdf) | council-note | Vorschlag für eine VERORDNUNG DES EUROPÄISCHEN parlaments und des rates zur Änderung der Verordnungen (EU) 2017/745 und (EU) 2017/746 zwecks Vereinfachung der … | public | – | – |
 | 2026-03-19 | [WK 4250/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/64389) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-03-23 | [WK 4453/26](https://data.consilium.europa.eu/doc/document/WK-4453-2026-INIT/en/pdf) | council-note | Commission presentation | public | – | – |
 | 2026-03-30 | [ST 7252/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/65959) | council-note | cluster 2 | not public\* | – | – |

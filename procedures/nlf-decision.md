@@ -1,4 +1,4 @@
-# Legislative procedure – NLF Decision – Decision 768/2008
+# Legislative procedure – New Legislative Framework Decision – Decision 768/2008
 
 Procedure 2007/0030(COD).
 Drawing: [nlf-decision.svg](nlf-decision.svg), [nlf-decision.pdf](nlf-decision.pdf) · Web page: [nlf-decision.html](nlf-decision.html)

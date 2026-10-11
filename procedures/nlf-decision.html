@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Procedure – NLF Decision – Decision 768/2008</title>
-<meta name="description" content="Legislative procedure 2007/0030(COD): NLF Decision – Decision 768/2008">
+<title>Procedure – New Legislative Framework Decision – Decision 768/2008</title>
+<meta name="description" content="Legislative procedure 2007/0030(COD): New Legislative Framework Decision – Decision 768/2008">
 <link rel="alternate" type="application/atom+xml" title="Latest activity" href="feed.xml">
 <script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script>
 <style>
@@ -29,8 +29,11 @@ th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--rul
 td.nowrap { white-space: nowrap; }
 tbody th { font-weight: 600; border-bottom: 1px solid var(--line); }   /* a row heading: a hairline, as every row */
 .table { overflow-x: auto; }
-/* phones: a wide table keeps readable columns and scrolls sideways inside its frame, the page does not */
-@media (max-width: 700px) { .table > table { min-width: 720px; } }
+/* phones: a table of two or three columns fits the screen and wraps; a wider one is read as one block per row
+   (`phone-stack`, tools/sitenav.py); one that cannot be (merged cells) keeps readable columns and scrolls sideways
+   inside its frame, the page does not */
+@media (max-width: 700px) { .table > table:where(:has(tr > :nth-child(4)):not(.phone-stack)) { min-width: 720px; }
+  .table > table:where(:not(:has(tr > :nth-child(4)))) td { overflow-wrap: anywhere; } }
 details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
 td > details, td > details > summary { margin-top: 0; }   /* a fold-out in a cell starts on the row's first line */
 code { font: 0.92em ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
@@ -46,7 +49,7 @@ footer p { max-width: none; }
 @media (max-width: 700px) { .wrap { padding-inline: 16px; } }
 /* the drawing is rendered light only: a white sheet with one hairline frame */
 .figure { background: #fff; border: 1px solid var(--line); padding: 8px; overflow-x: auto; margin: 16px 0; }
-.figure img { display: block; width: 100%; min-width: 900px; height: auto; }
+.figure img { display: block; width: 1800px; max-width: none; height: auto; }   /* its natural size: labels readable, the frame scrolls (design review, 11 Oct 2026) */
 table.fixed { table-layout: fixed; } table.fixed td { overflow-wrap: anywhere; } table.fixed th { white-space: normal; }
 /* facts of a procedure: a ruled grid, not tiles */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0 32px; margin: 16px 0;
@@ -108,32 +111,102 @@ button.showmore { color: var(--accent); }
   font: 14px/1.5 var(--s-sans); }
 .sitefoot a { color: var(--s-ink2); }
 .sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html" aria-current="page">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav>
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html" aria-current="page">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav><main id="main">
 
-<p class="muted"><a href="../index.html#act=nlf-decision">← Regulation timeline</a> › <a href="../index.html#act=nlf-decision">NLF Decision</a> › Legislative procedure · <a href="index.html">All procedures</a></p>
-<h1>NLF Decision – Decision 768/2008</h1>
+<p class="muted"><a href="../index.html#act=nlf-decision">← Regulation timeline</a> › <a href="../index.html#act=nlf-decision">New Legislative Framework Decision</a> › Legislative procedure · <a href="index.html">All procedures</a></p>
+<h1>New Legislative Framework Decision – Decision 768/2008</h1>
 <p class="muted">Procedure 2007/0030(COD), completed. Drawing: <a href="nlf-decision.svg">SVG</a> · <a href="nlf-decision.png">PNG</a> · <a href="nlf-decision.pdf">PDF (A3)</a> · <a href="nlf-decision.drawio">draw.io</a> · Page as Markdown: <a href="nlf-decision.md">nlf-decision.md</a></p>
-<div class="table" style="margin-bottom:16px"><table><tbody><tr><th>Stage</th><td>Completed, published 13 Aug 2008</td></tr><tr><th>Route (Art. 294 TFEU)</th><td>Agreement at first reading: the Council approved the EP position</td></tr><tr><th>Latest activity</th><td>13 Aug 2008 · Signature and publication: Published in the Official Journal (CELEX 32008D0768)</td></tr></tbody></table></div>
-<div class="figure"><img src="nlf-decision.svg" alt="Procedure NLF Decision – Decision 768/2008"></div>
+<div class="table" style="margin-bottom:16px"><table><tbody><tr><th>Stage</th><td>Completed, published 13 Aug 2008</td></tr><tr><th>Route (Art. 294 TFEU)</th><td>Agreement at first reading: the Council approved the EP position</td></tr><tr><th>Latest activity</th><td>13 Aug 2008 · Signature and publication: Published in the Official Journal (CELEX 32008D0768)</td></tr></tbody></table></div>
+<div class="figure" tabindex="0" role="region" aria-label="Procedure New Legislative Framework Decision – Decision 768/2008 (drawing; scrolls sideways on narrow screens)"><img src="nlf-decision.svg" alt="Procedure New Legislative Framework Decision – Decision 768/2008"></div>
 
 <h2>Events</h2>
-<div class="table"><table><thead><tr><th>Date</th><th>Actor</th><th>Event</th><th>Document</th><th>Source</th></tr></thead><tbody>
-<tr><td class="nowrap">13 Mar 2007</td><td>European Parliament</td><td>Referral to committee announced in plenary</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2007-0030 (REFERRAL)</td></tr>
-<tr><td class="nowrap">21 Feb 2008</td><td>European Parliament</td><td>EP position at first reading (Art. 294(3) TFEU)</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2007-0030 (PLENARY_AMEND_PROPOSAL)</td></tr>
-<tr><td class="nowrap">9 Jul 2008</td><td>Signature and publication</td><td>Signature by the Presidents of EP and Council</td><td class="nowrap"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29">EP procedure file</a></td><td>EP Open Data API, procedure 2007-0030 (SIGNATURE)</td></tr>
-<tr><td class="nowrap">13 Aug 2008</td><td>Signature and publication</td><td>Published in the Official Journal</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768">CELEX 32008D0768</a> · <a href="../texts/nlf-decision/2008-08-13_oj.en.md" title="Markdown">en.md</a> <a href="../texts/nlf-decision/2008-08-13_oj.de.md" title="Markdown">de.md</a></td><td>EP Open Data API, procedure 2007-0030 (PUBLICATION_OFFICIAL_JOURNAL)</td></tr>
+<div class="table"><table class="phone-stack"><thead><tr><th>Date</th><th>Actor</th><th>Event</th><th>Document</th><th>Source</th></tr></thead><tbody>
+<tr><td class="nowrap" data-label="Date">13 Mar 2007</td><td data-label="Actor">European Parliament</td><td data-label="Event">Referral to committee announced in plenary</td><td class="nowrap" data-label="Document"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29" target="_blank" rel="noopener" class="ext">EP procedure file</a></td><td data-label="Source">EP Open Data API, procedure 2007-0030 (referral)</td></tr>
+<tr><td class="nowrap" data-label="Date">21 Feb 2008</td><td data-label="Actor">European Parliament</td><td data-label="Event">EP position at first reading (Art. 294(3) TFEU)</td><td class="nowrap" data-label="Document"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29" target="_blank" rel="noopener" class="ext">EP procedure file</a></td><td data-label="Source">EP Open Data API, procedure 2007-0030 (plenary amend proposal)</td></tr>
+<tr><td class="nowrap" data-label="Date">9 Jul 2008</td><td data-label="Actor">Signature and publication</td><td data-label="Event">Signature by the Presidents of EP and Council</td><td class="nowrap" data-label="Document"><a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2007/0030%28COD%29" target="_blank" rel="noopener" class="ext">EP procedure file</a></td><td data-label="Source">EP Open Data API, procedure 2007-0030 (signature)</td></tr>
+<tr><td class="nowrap" data-label="Date">13 Aug 2008</td><td data-label="Actor">Signature and publication</td><td data-label="Event">Published in the Official Journal</td><td class="nowrap" data-label="Document"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768" target="_blank" rel="noopener" class="ext">CELEX 32008D0768</a> · <a href="../texts/nlf-decision/2008-08-13_oj.en.md" title="Markdown">en.md</a> <a href="../texts/nlf-decision/2008-08-13_oj.de.md" title="Markdown">de.md</a></td><td data-label="Source">EP Open Data API, procedure 2007-0030 (publication official journal)</td></tr>
 </tbody></table></div>
 <h2>Documents</h2>
 <p class="muted">Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council&#x27;s public PDF (a technical date) or else the day our daily check found it public.</p>
-<div class="table"><table><thead><tr><th>Date</th><th>Document</th><th>Kind</th><th>Subject</th><th>Status</th><th>Released</th><th>Text</th></tr></thead><tbody>
-<tr><td class="nowrap">4 Dec 2007</td><td class="nowrap"><a href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf">A6-0490/2007</a></td><td>ep-report</td><td>Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products</td><td>public</td><td class="nowrap">–</td><td>–</td></tr>
+<div class="table"><table class="phone-stack wide"><thead><tr><th>Date</th><th>Document</th><th>Kind</th><th>Subject</th><th>Status</th><th>Released</th><th>Text</th></tr></thead><tbody>
+<tr><td class="nowrap" data-label="Date">4 Dec 2007</td><td class="nowrap" data-label="Document"><a href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf" target="_blank" rel="noopener" class="ext">A6-0490/2007</a></td><td data-label="Kind">EP committee report</td><td data-label="Subject">Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products</td><td data-label="Status">public</td><td class="nowrap" data-label="Released" data-none>–</td><td data-label="Text" data-none>–</td></tr>
 </tbody></table></div>
 <h2>Texts as Markdown</h2>
 <p class="muted">Unofficial Markdown conversions for reading, searching and project folders; only the official document is authentic. &quot;Read&quot; opens the rendered text on GitHub, where a link to a provision (#art-13, #rec-12, #annex-i) jumps to it.</p>
-<div class="table"><table><thead><tr><th>Date</th><th>Stage</th><th>Document</th><th>Markdown</th><th>Read</th></tr></thead><tbody>
-<tr><td class="nowrap">13 Aug 2008</td><td>oj</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768">CELEX 32008D0768</a></td><td><a href="../texts/nlf-decision/2008-08-13_oj.en.md">en</a> <a href="../texts/nlf-decision/2008-08-13_oj.de.md">de</a></td><td><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nlf-decision/2008-08-13_oj.en.md">GitHub</a></td></tr>
-<tr><td class="nowrap">22 Oct 2025</td><td>corrigendum</td><td class="nowrap"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768R(04)">CELEX 32008D0768R(04)</a></td><td><a href="../texts/nlf-decision/2025-10-22_corrigendum-04.de.md">de</a></td><td><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nlf-decision/2025-10-22_corrigendum-04.de.md">GitHub</a></td></tr>
+<div class="table"><table class="phone-stack"><thead><tr><th>Date</th><th>Stage</th><th>Document</th><th>Markdown</th><th>Read</th></tr></thead><tbody>
+<tr><td class="nowrap" data-label="Date">13 Aug 2008</td><td data-label="Stage">Official Journal</td><td class="nowrap" data-label="Document"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768" target="_blank" rel="noopener" class="ext">CELEX 32008D0768</a></td><td data-label="Markdown"><a href="../texts/nlf-decision/2008-08-13_oj.en.md">en</a> <a href="../texts/nlf-decision/2008-08-13_oj.de.md">de</a></td><td data-label="Read"><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nlf-decision/2008-08-13_oj.en.md" target="_blank" rel="noopener" class="ext">GitHub</a></td></tr>
+<tr><td class="nowrap" data-label="Date">22 Oct 2025</td><td data-label="Stage">Corrigendum</td><td class="nowrap" data-label="Document"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0768R(04)" target="_blank" rel="noopener" class="ext">CELEX 32008D0768R(04)</a></td><td data-label="Markdown"><a href="../texts/nlf-decision/2025-10-22_corrigendum-04.de.md">de</a></td><td data-label="Read"><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nlf-decision/2025-10-22_corrigendum-04.de.md" target="_blank" rel="noopener" class="ext">GitHub</a></td></tr>
 </tbody></table></div>
-<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><footer class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></footer></div></body></html>
+<footer>Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice. Content: <a href="../LICENSE.md">CC BY 4.0</a>; EU documents: © European Union, reused under the rules of the institutions (source acknowledged).</footer><div class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></div></main></div><script>
+(function () {
+  if (matchMedia("(max-width: 700px)").matches)
+    document.querySelectorAll("details.phone-open").forEach(function (d) { d.open = true; });
+  document.querySelectorAll(".fig, .figure, .preview").forEach(function (f) {
+    var next = f.nextElementSibling;
+    if (f.scrollWidth > f.clientWidth + 4 && !(next && next.classList.contains("scroll-hint"))) {
+      var p = document.createElement("p");
+      p.className = "scroll-hint";
+      p.textContent = "The drawing scrolls sideways →";
+      f.after(p);
+    }
+  });
+})();
+</script></body></html>

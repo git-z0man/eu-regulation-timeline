@@ -1,4 +1,4 @@
-# Legislative procedure – EHDS – Regulation (EU) 2025/327
+# Legislative procedure – European Health Data Space Regulation – Regulation (EU) 2025/327
 
 Procedure 2022/0140(COD).
 Drawing: [ehds.svg](ehds.svg), [ehds.pdf](ehds.pdf) · Web page: [ehds.html](ehds.html)
@@ -43,16 +43,16 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2022-05-06 | ST 8751/22 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 1 | council-transmission | ANNEXES to the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 2 | council-transmission | COMMISSION STAFF WORKING DOCUMENT SUBSIDIARITY GRID Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the … | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 4 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 5 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 6 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on … | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 7 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document PROPOSAL FOR A REGULATION OF THE EUROPEAN … | public status unknown | – | – |
-| 2022-05-06 | ST 8751/22 ADD 8 | council-transmission | REGULATORY SCRUTINY BOARD OPINION Proposal for a Regulation of the European Parliament and of the Council on the European Health Data Space | public status unknown | – | – |
-| 2022-05-06 | ST 8828/22 | council-transmission | COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL A European Health Data Space: harnessing the power of health data for people, … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 | council-transmission | Proposal for a Regulation of the European Parliament and of the Council on the European Health Data Space | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 1 | council-transmission | Annexes to the Regulation of the European Parliament and of the Council on the European Health Data Space | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 2 | council-transmission | Commission staff working document subsidiarity grid Accompanying the document proposal for a Regulation of the European Parliament and of the Council on the … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 3 | council-transmission | Commission staff working document impact assessment report Accompanying the document proposal for a Regulation of the European Parliament and of the Council on … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 4 | council-transmission | Commission staff working document impact assessment report Accompanying the document proposal for a Regulation of the European Parliament and of the Council on … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 5 | council-transmission | Commission staff working document impact assessment report Accompanying the document proposal for a Regulation of the European Parliament and of the Council on … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 6 | council-transmission | Commission staff working document impact assessment report Accompanying the document proposal for a Regulation of the European Parliament and of the Council on … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 7 | council-transmission | Commission staff working document executive summary of the impact assessment report Accompanying the document proposal for a Regulation of the European … | public status unknown | – | – |
+| 2022-05-06 | ST 8751/22 ADD 8 | council-transmission | Regulatory scrutiny board opinion Proposal for a Regulation of the European Parliament and of the Council on the European Health Data Space | public status unknown | – | – |
+| 2022-05-06 | ST 8828/22 | council-transmission | Communication from the Commission to the European Parliament and the Council a European Health Data Space: harnessing the power of health data for people, … | public status unknown | – | – |
 | 2022-05-30 | [ST 9461/22 REV 1](https://data.consilium.europa.eu/doc/document/ST-9461-2022-REV-1/en/pdf) | council-text | Proposal for a Regulation on the European Health Data Space | public | – | – |
 | 2022-06-23 | ST 10566/22 | council-text | – | not public\* | – | – |
 | 2022-07-14 | ST 11351/22 | council-transmission | Joint Opinion of the European Data Protection Board and the European Data Protection Supervisor on the Proposal for a regulation on the European Health Data … | public status unknown | – | – |
@@ -79,22 +79,22 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-03-29 | PE745.532 | ep-amendments | – | public status unknown | – | – |
 | 2023-04-05 | PE745.471 | ep-amendments | – | public status unknown | – | – |
 | 2023-04-05 | PE745.533 | ep-amendments | – | public status unknown | – | – |
-| 2023-05-23 | [PE742.310](https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space | public | – | – |
-| 2023-05-25 | [PE740.773](https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – | – |
+| 2023-05-23 | [PE742.310](https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space | public | – | – |
+| 2023-05-25 | [PE740.773](https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – | – |
 | 2023-05-26 | [ST 9368/23](https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf) | council-progress-report | Progress report | public | – | – |
-| 2023-12-05 | [A9-0395/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0395/A-9-2023-0395_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – | – |
+| 2023-12-05 | [A9-0395/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0395/A-9-2023-0395_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – | – |
 | 2023-12-07 | [ST 16048/23 REV 1](https://data.consilium.europa.eu/doc/document/ST-16048-2023-REV-1/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | – |
 | 2023-12-13 | [P9_TA(2023)0462](https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0462/TA-9-2023-0462-FNL_en.pdf) | ep-position | European Health Data Space | public | – | – |
 | 2024-01-12 | [ST 5368/24](https://data.consilium.europa.eu/doc/document/ST-5368-2024-INIT/en/pdf) | trilogue | 4-column table | public | – | – |
 | 2024-03-18 | [ST 7553/24](https://data.consilium.europa.eu/doc/document/ST-7553-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
-| 2024-03-22 | [PE760.905](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ43-AG-760905/CJ43-AG-760905_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation the European Parliament and the Council of the European Union on … | public | – | – |
+| 2024-03-22 | [PE760.905](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ43-AG-760905/CJ43-AG-760905_en.pdf) | agreed-text | Provisional agreement resulting from interinstitutional negotiations Proposal for a regulation the European Parliament and the Council of the European Union on … | public | – | – |
 | 2024-03-22 | ST 7567/24 | council-note | Letter to the Chairs of the European Parliament Committees on Environment, Public Health and Food Safety (ENVI) and on Civil Liberties, Justice and Home … | public status unknown | – | – |
 | 2024-04-24 | [P9_TA(2024)0331](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0331_en.pdf) | ep-position | European Health Data Space | public | – | – |
 | 2024-06-18 | ST 10078/24 | council-note | Proposals under the ordinary legislative procedure expected to undergo the Corrigendum Procedure in the European Parliament (part I) | public status unknown | – | – |
-| 2024-07-25 | PE 76/24 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847 | public status unknown | – | – |
-| 2025-01-10 | ST 5142/25 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
-| 2025-01-14 | ST 5142/25 ADD 1 REV 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
-| 2025-01-21 | ST 5541/25 | council-note | Voting result REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
+| 2024-07-25 | PE 76/24 | council-note | Regulation of the European Parliament and of the Council on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847 | public status unknown | – | – |
+| 2025-01-10 | ST 5142/25 | council-note | Draft Regulation of the European Parliament and of the Council on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
+| 2025-01-14 | ST 5142/25 ADD 1 REV 1 | council-note | Draft Regulation of the European Parliament and of the Council on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
+| 2025-01-21 | ST 5541/25 | council-note | Voting result Regulation of the European Parliament and of the Council on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
 
 \* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 

@@ -7,7 +7,7 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "NSR",
+   "kicker": "New Standardisation Regulation",
    "kicker_de": "NSR",
    "headline": "Commission proposes a new Standardisation Regulation",
    "deck": "COM(2026) 780 would replace Regulation (EU) No 1025/2012: deadlines for every standardisation request, interim deliverables with a presumption of conformity, designated standards bodies besides CEN, CENELEC and ETSI when they are late, and free online access to every cited standard.",
@@ -42,7 +42,7 @@
    "score": 105,
    "crumbs": {
     "en": [
-     "NSR",
+     "New Standardisation Regulation",
      "Legislation"
     ],
     "de": [
@@ -112,7 +112,7 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "epa",
-   "kicker": "EPA",
+   "kicker": "European Product Act",
    "kicker_de": "EPA",
    "headline": "European Product Act proposal postponed to later in 2026",
    "deck": "Planned for 6 October 2026 together with the Standardisation Regulation; the Commission now expects to present it later this year, with the changes to sector legislation. Date to be confirmed.",
@@ -141,7 +141,7 @@
    "score": 70,
    "crumbs": {
     "en": [
-     "EPA",
+     "European Product Act",
      "Legislation"
     ],
     "de": [
@@ -156,9 +156,9 @@
    "desk": "Legislation",
    "date": "2026-10-05",
    "act": "industrial-accelerator-act",
-   "kicker": "IAA",
+   "kicker": "Industrial Accelerator Act",
    "kicker_de": "IAA",
-   "headline": "IAA: Committee opinion adopted",
+   "headline": "Industrial Accelerator Act: Committee opinion adopted",
    "deck": "European Parliament.",
    "headline_de": "IAA: Stellungnahme eines Ausschusses angenommen",
    "deck_de": "Europäisches Parlament.",
@@ -179,7 +179,7 @@
    "score": 58,
    "crumbs": {
     "en": [
-     "IAA",
+     "Industrial Accelerator Act",
      "Legislation"
     ],
     "de": [
@@ -194,19 +194,19 @@
    "desk": "Analysis",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "NSR",
+   "kicker": "New Standardisation Regulation",
    "kicker_de": "NSR",
    "headline": "New topic page: New Standardisation Regulation – routes to presumption of conformity",
    "deck": "On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.",
    "headline_de": "Neue Themenseite: Neue Normungsverordnung – Wege zur Konformitätsvermutung",
    "deck_de": "Am 6. Oktober 2026 hat die Kommission eine neue Normungsverordnung vorgeschlagen (COM(2026) 780), die die Verordnung (EU) Nr. 1025/2012 ersetzen soll.",
    "facts": [
-    "31 provisions",
-    "4 stakeholder views"
+    "33 provisions",
+    "5 stakeholder views"
    ],
    "facts_de": [
-    "31 Fundstellen",
-    "4 Sichten"
+    "33 Fundstellen",
+    "5 Sichten"
    ],
    "links": [
     [
@@ -219,7 +219,7 @@
    "score": 55,
    "crumbs": {
     "en": [
-     "NSR",
+     "New Standardisation Regulation",
      "Analysis"
     ],
     "de": [
@@ -278,9 +278,9 @@
    "desk": "Legislation",
    "date": "2026-10-02",
    "act": "csa2",
-   "kicker": "CSA2",
+   "kicker": "Cybersecurity Act 2",
    "kicker_de": "CSA2",
-   "headline": "CSA2: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public)",
+   "headline": "Cybersecurity Act 2: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public)",
    "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
    "headline_de": "CSA2: Kompromisstext der Präsidentschaft",
    "deck_de": "Titel im Original: Presidency third compromise text on Title III (European Cybersecurity Certification … (not public). Vorschlag der Präsidentschaft, nicht die Position des Rates.",
@@ -305,7 +305,7 @@
    "score": 52,
    "crumbs": {
     "en": [
-     "CSA2",
+     "Cybersecurity Act 2",
      "Legislation"
     ],
     "de": [
@@ -320,9 +320,9 @@
    "desk": "Standards",
    "date": "2026-10-09",
    "act": "machinery-regulation",
-   "kicker": "MR",
+   "kicker": "Machinery Regulation",
    "kicker_de": "MVO",
-   "headline": "MR · M/605: new status for FprEN 50742:2026",
+   "headline": "Machinery Regulation · M/605: new status for FprEN 50742:2026",
    "deck": "Safety of machinery - Protection against corruption. Step 6 of 8: Adoption EN.",
    "headline_de": "MVO · M/605: neuer Status für FprEN 50742:2026",
    "deck_de": "Safety of machinery - Protection against corruption. Schritt 6 von 8: Annahme EN.",
@@ -376,7 +376,7 @@
    },
    "crumbs": {
     "en": [
-     "MR",
+     "Machinery Regulation",
      "Standards",
      "M/605",
      "CEN-CENELEC"
@@ -395,9 +395,9 @@
    "desk": "Legislation",
    "date": "2026-10-06",
    "act": "standardisation-revision",
-   "kicker": "NSR",
+   "kicker": "New Standardisation Regulation",
    "kicker_de": "NSR",
-   "headline": "NSR: Commission proposal (Art. 294(2) TFEU)",
+   "headline": "New Standardisation Regulation: Commission proposal (Art. 294(2) TFEU)",
    "deck": "European Commission.",
    "headline_de": "NSR: neuer Schritt im Verfahren",
    "deck_de": "Europäische Kommission (im Original): Commission proposal (Art. 294(2) TFEU)",
@@ -418,7 +418,7 @@
    "score": 45,
    "crumbs": {
     "en": [
-     "NSR",
+     "New Standardisation Regulation",
      "Legislation"
     ],
     "de": [
@@ -433,9 +433,9 @@
    "desk": "Documents",
    "date": "2026-10-02",
    "act": "csa2",
-   "kicker": "CSA2",
+   "kicker": "Cybersecurity Act 2",
    "kicker_de": "CSA2",
-   "headline": "Council releases 13 CSA2 documents",
+   "headline": "Council releases 13 Cybersecurity Act 2 documents",
    "deck": "1 compromise text, 1 progress report, 11 notes. Listed as not public since 25 Sep 2026; now public in the register.",
    "headline_de": "Rat gibt 13 Dokumente zu CSA2 frei",
    "deck_de": "1 Kompromisstext, 1 Fortschrittsbericht, 11 Vermerke. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
@@ -574,7 +574,7 @@
    "score": 42,
    "crumbs": {
     "en": [
-     "CSA2",
+     "Cybersecurity Act 2",
      "Legislation"
     ],
     "de": [
@@ -589,7 +589,7 @@
    "desk": "Analysis",
    "date": "2026-09-29",
    "act": "csa2",
-   "kicker": "CSA2",
+   "kicker": "Cybersecurity Act 2",
    "kicker_de": "CSA2",
    "headline": "New topic page: High-risk suppliers",
    "deck": "\"High-risk supplier\" is on its way to becoming a horizontal eligibility filter in EU law: it would decide who may supply key ICT assets of essential and important entities, take part in public procurement and auctions, receive public support and EU funding, and take part in European standardisation, certification and conformity assessment.",
@@ -614,7 +614,7 @@
    "score": 41,
    "crumbs": {
     "en": [
-     "CSA2",
+     "Cybersecurity Act 2",
      "Analysis"
     ],
     "de": [
@@ -629,9 +629,9 @@
    "desk": "Documents",
    "date": "2026-10-08",
    "act": "industrial-accelerator-act",
-   "kicker": "IAA",
+   "kicker": "Industrial Accelerator Act",
    "kicker_de": "IAA",
-   "headline": "Council releases 1 IAA document",
+   "headline": "Council releases 1 Industrial Accelerator Act document",
    "deck": "1 compromise text. Listed as not public since 25 Sep 2026; now public in the register.",
    "headline_de": "Rat gibt 1 Dokument zu IAA frei",
    "deck_de": "1 Kompromisstext. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
@@ -658,7 +658,7 @@
    "score": 39,
    "crumbs": {
     "en": [
-     "IAA",
+     "Industrial Accelerator Act",
      "Legislation"
     ],
     "de": [
@@ -673,9 +673,9 @@
    "desk": "Standards",
    "date": "2026-10-07",
    "act": "cra",
-   "kicker": "CRA",
+   "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
-   "headline": "CRA · M/606: new status for EN 304 636",
+   "headline": "Cyber Resilience Act · M/606: new status for EN 304 636",
    "deck": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems. Step 4 of 8: Drafting EN.",
    "headline_de": "CRA · M/606: neuer Status für EN 304 636",
    "deck_de": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems. Schritt 4 von 8: Entwurf EN.",
@@ -729,7 +729,7 @@
    },
    "crumbs": {
     "en": [
-     "CRA",
+     "Cyber Resilience Act",
      "Standards",
      "M/606",
      "ETSI"
@@ -790,9 +790,9 @@
    "desk": "Standards",
    "date": "2026-10-01",
    "act": "machinery-regulation",
-   "kicker": "MR",
+   "kicker": "Machinery Regulation",
    "kicker_de": "MVO",
-   "headline": "MR · M/605: 1 project a step further in week 40",
+   "headline": "Machinery Regulation · M/605: 1 project a step further in week 40",
    "deck": "Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026). Step 4 of 8: Drafting EN.",
    "headline_de": "MVO · M/605: 1 Projekt in KW 40 einen Schritt weiter",
    "deck_de": "Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026). Schritt 4 von 8: Entwurf EN.",
@@ -854,7 +854,7 @@
    },
    "crumbs": {
     "en": [
-     "MR",
+     "Machinery Regulation",
      "Standards",
      "M/605",
      "CEN-CENELEC"
@@ -873,7 +873,7 @@
    "desk": "Committees",
    "date": "2026-10-08",
    "act": "cra",
-   "kicker": "CRA",
+   "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
    "headline": "6th meeting of the CRA Expert Group",
    "deck": "CRA Expert Group.",
@@ -892,7 +892,7 @@
    "score": 29,
    "crumbs": {
     "en": [
-     "CRA",
+     "Cyber Resilience Act",
      "Committees"
     ],
     "de": [
@@ -907,9 +907,9 @@
    "desk": "Standards",
    "date": "2026-10-02",
    "act": "cra",
-   "kicker": "CRA",
+   "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
-   "headline": "CRA · M/606: 8 status updates in week 40",
+   "headline": "Cyber Resilience Act · M/606: 8 status updates in week 40",
    "deck": "ETSI 6 · CEN-CENELEC 2. Furthest step: Drafting EN.",
    "headline_de": "CRA · M/606: 8 Statusänderungen in KW 40",
    "deck_de": "ETSI 6 · CEN-CENELEC 2. Weitester Schritt: Entwurf EN.",
@@ -1115,7 +1115,7 @@
    },
    "crumbs": {
     "en": [
-     "CRA",
+     "Cyber Resilience Act",
      "Standards",
      "M/606"
     ],
@@ -1221,9 +1221,9 @@
    "desk": "Standards",
    "date": "2026-10-01",
    "act": "ai-act",
-   "kicker": "AI Act",
+   "kicker": "Artificial Intelligence Act",
    "kicker_de": "KI-VO",
-   "headline": "AI Act · M/613: new status for prEN 18283",
+   "headline": "Artificial Intelligence Act · M/613: new status for prEN 18283",
    "deck": "Artificial Intelligence - Concepts, measures and requirements for managing bias in AI systems. Step 3 of 8: Voting prEN.",
    "headline_de": "KI-VO · M/613: neuer Status für prEN 18283",
    "deck_de": "Artificial Intelligence - Concepts, measures and requirements for managing bias in AI systems. Schritt 3 von 8: Umfrage prEN.",
@@ -1283,7 +1283,7 @@
    },
    "crumbs": {
     "en": [
-     "AI Act",
+     "Artificial Intelligence Act",
      "Standards",
      "M/613",
      "CEN-CENELEC"
@@ -1302,7 +1302,7 @@
    "desk": "Committees",
    "date": "2026-10-09",
    "act": "ai-act",
-   "kicker": "AI Act",
+   "kicker": "Artificial Intelligence Act",
    "kicker_de": "KI-VO",
    "headline": "Voting sheet published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
    "deck": "Artificial Intelligence Committee.",
@@ -1321,7 +1321,7 @@
    "score": 16,
    "crumbs": {
     "en": [
-     "AI Act",
+     "Artificial Intelligence Act",
      "Committees"
     ],
     "de": [
@@ -1331,12 +1331,108 @@
    }
   },
   {
+   "id": "site/2026-10-11/phone-tablet-views",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-11",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "Easier to read on phones and tablets: wide tables as one block per entry, long tables folded",
+   "deck": "The timeline on a phone opens at today; dates no longer break across lines; links to other sites open in a new tab with ↗; drawings are dimmed in dark mode.",
+   "headline_de": "Besser lesbar auf Smartphone und Tablet: breite Tabellen als ein Block je Eintrag, lange Tabellen eingeklappt",
+   "deck_de": "Die Zeitleiste öffnet auf dem Smartphone beim heutigen Tag; Daten brechen nicht mehr um; Links auf andere Seiten öffnen mit ↗ in einem neuen Tab; Grafiken werden im dunklen Modus gedämpft.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../procedures/committees.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
+   "id": "site/2026-10-11/stakeholder-organisations",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-11",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "New: who may speak for SMEs, consumers, the environment and workers in European standardisation",
+   "deck": "The criteria of the proposed Standardisation Regulation for the four European stakeholder organisations, side by side with today's, and the organisations that could be designated.",
+   "headline_de": "Neu: Wer in der europäischen Normung für KMU, Verbraucher, Umwelt und Beschäftigte sprechen darf",
+   "deck_de": "Die Kriterien der vorgeschlagenen Normungsverordnung für die vier europäischen Interessenorganisationen, neben den heutigen, und die Organisationen, die benannt werden könnten.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../acts/topic-standardisation-reform.html#criteria-stakeholder-organisations"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
+   "id": "site/2026-10-11/texts-by-act",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-11",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "The texts are now grouped by act, and the latest activity opens with the last 14 days",
+   "deck": "Each act with its texts and its zip; acts are called by their name throughout; the committees and standardisation pages open with the next meeting and the next deadline.",
+   "headline_de": "Die Texte sind jetzt nach Rechtsakt gegliedert, und die letzten Aktivitäten beginnen mit den letzten 14 Tagen",
+   "deck_de": "Jeder Rechtsakt mit seinen Texten und seinem Zip; Rechtsakte heißen überall bei ihrem Namen; die Seiten zu Ausschüssen und Normung beginnen mit der nächsten Sitzung und der nächsten Frist.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../texts/index.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 15,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
    "id": "ai-act/committee/2026-10-08",
    "kind": "committee",
    "desk": "Committees",
    "date": "2026-10-08",
    "act": "ai-act",
-   "kicker": "AI Act",
+   "kicker": "Artificial Intelligence Act",
    "kicker_de": "KI-VO",
    "headline": "Draft implementing act published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
    "deck": "Artificial Intelligence Committee.",
@@ -1355,7 +1451,7 @@
    "score": 14,
    "crumbs": {
     "en": [
-     "AI Act",
+     "Artificial Intelligence Act",
      "Committees"
     ],
     "de": [
@@ -1498,7 +1594,7 @@
    "desk": "Committees",
    "date": "2026-10-06",
    "act": "machinery-regulation",
-   "kicker": "MR",
+   "kicker": "Machinery Regulation",
    "kicker_de": "MVO",
    "headline": "Agenda published: COM Expert Group on Machinery (2026-04-27)",
    "deck": "Commission Expert Group on Machinery.",
@@ -1517,7 +1613,7 @@
    "score": 10,
    "crumbs": {
     "en": [
-     "MR",
+     "Machinery Regulation",
      "Committees"
     ],
     "de": [
@@ -1532,9 +1628,9 @@
    "desk": "Committees",
    "date": "2026-09-28",
    "act": "csa2",
-   "kicker": "CSA2",
+   "kicker": "Cybersecurity Act 2",
    "kicker_de": "CSA2",
-   "headline": "CSA2: Council working party meeting",
+   "headline": "Cybersecurity Act 2: Council working party meeting",
    "deck": "Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1)",
    "headline_de": "CSA2: Sitzung einer Ratsarbeitsgruppe",
    "deck_de": "Tagesordnung des Rates (Titel im Original): Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1)",
@@ -1555,7 +1651,7 @@
    "score": 9,
    "crumbs": {
     "en": [
-     "CSA2",
+     "Cybersecurity Act 2",
      "Committees"
     ],
     "de": [
@@ -1666,9 +1762,9 @@
    "desk": "Committees",
    "date": "2026-10-02",
    "act": "public-procurement-act",
-   "kicker": "PPA",
+   "kicker": "Public Procurement Act",
    "kicker_de": "Vergabe-Rechtsakt (PPA)",
-   "headline": "PPA: Council working party meeting",
+   "headline": "Public Procurement Act: Council working party meeting",
    "deck": "Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and …",
    "headline_de": "Vergabe-Rechtsakt (PPA): Sitzung einer Ratsarbeitsgruppe",
    "deck_de": "Tagesordnung des Rates (Titel im Original): Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and …",
@@ -1689,7 +1785,7 @@
    "score": 2,
    "crumbs": {
     "en": [
-     "PPA",
+     "Public Procurement Act",
      "Committees"
     ],
     "de": [
@@ -1704,7 +1800,7 @@
    "desk": "Committees",
    "date": "2026-09-29",
    "act": "ai-act",
-   "kicker": "AI Act",
+   "kicker": "Artificial Intelligence Act",
    "kicker_de": "KI-VO",
    "headline": "Summary record published: AI Committee meeting (2026-05-21)",
    "deck": "Artificial Intelligence Committee.",
@@ -1723,7 +1819,7 @@
    "score": -4,
    "crumbs": {
     "en": [
-     "AI Act",
+     "Artificial Intelligence Act",
      "Committees"
     ],
     "de": [

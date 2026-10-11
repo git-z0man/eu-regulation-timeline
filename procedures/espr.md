@@ -1,4 +1,4 @@
-# Legislative procedure – ESPR – Regulation (EU) 2024/1781
+# Legislative procedure – Ecodesign for Sustainable Products Regulation – Regulation (EU) 2024/1781
 
 Procedure 2022/0095(COD).
 Drawing: [espr.svg](espr.svg), [espr.pdf](espr.pdf) · Web page: [espr.html](espr.html)
@@ -39,15 +39,15 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2022-04-04 | ST 7854/22 | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework for setting ecodesign requirements for sustainable products … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 1 | council-transmission | ANNEXES to the Commission proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 2 | council-transmission | REGULATORY SCRUTINY BOARD OPINION Sustainable Products Initiative | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 3 | council-transmission | COMMISSION STAFF WORKING DOCUMENT Subsidiarity Grid Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 4 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 5 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 6 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 7 | council-transmission | COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
-| 2022-04-04 | ST 7854/22 ADD 8 | council-transmission | COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT Accompanying the document Proposal for a Regulation of the European Parliament and … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 | council-transmission | Proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements for sustainable products … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 1 | council-transmission | Annexes to the Commission proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 2 | council-transmission | Regulatory scrutiny board opinion Sustainable Products Initiative | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 3 | council-transmission | Commission staff working document Subsidiarity Grid Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 4 | council-transmission | Commission staff working document impact assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 5 | council-transmission | Commission staff working document impact assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 6 | council-transmission | Commission staff working document impact assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 7 | council-transmission | Commission staff working document impact assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council … | public status unknown | – | – |
+| 2022-04-04 | ST 7854/22 ADD 8 | council-transmission | Commission staff working document executive summary of the impact assessment Accompanying the document Proposal for a Regulation of the European Parliament and … | public status unknown | – | – |
 | 2022-05-04 | ST 7854/22 REV 1 | council-transmission | – | public status unknown | – | – |
 | 2022-07-14 | [CELEX 52022AE0598](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022AE0598) | opinion | Opinion of the European Economic and Social Committee on the communication from the Commission to the European Parliament, the Council, the European Economic … | public | – | – |
 | 2022-07-19 | ST 11495/22 | council-transmission | Opinion of the European Economic and Social Committee on the Proposal for a Regulation of the European Parliament and of the Council establishing a framework … | public status unknown | – | – |
@@ -66,8 +66,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2022-12-22 | ST 16348/22 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market) in the fourth quarter of 2022 | public status unknown | – | – |
 | 2022-12-22 | ST 16349/22 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market-Ecodesign) in the fourth quarter of 2022 | public status unknown | – | – |
 | 2023-03-17 | ST 7289/23 | council-note | Guidance for further work | public status unknown | – | – |
-| 2023-03-31 | [PE738.514](https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-738514/ITRE-AD-738514_en.pdf) | ep-opinion | OPINION on the proposal for a regulation of the European Parliament and of the Council on Establishing a framework for setting ecodesign requirements for … | public | – | – |
-| 2023-04-27 | [PE737.400](https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-737400/IMCO-AD-737400_en.pdf) | ep-opinion | OPINION on the proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements for … | public | – | – |
+| 2023-03-31 | [PE738.514](https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-738514/ITRE-AD-738514_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on Establishing a framework for setting ecodesign requirements for … | public | – | – |
+| 2023-04-27 | [PE737.400](https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-737400/IMCO-AD-737400_en.pdf) | ep-opinion | Opinion on the proposal for a Regulation of the European Parliament and of the Council establishing a framework for setting ecodesign requirements for … | public | – | – |
 | 2023-05-15 | [ST 9014/23](https://data.consilium.europa.eu/doc/document/ST-9014-2023-INIT/en/pdf) | council-position | General approach | public | – | – |
 | 2023-05-15 | ST 9014/23 ADD 1 | council-note | Statement | public status unknown | – | – |
 | 2023-05-15 | ST 9014/23 ADD 1 REV 1 | council-note | Statement | public status unknown | – | – |
@@ -76,25 +76,25 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-05-16 | ST 9477/23 | council-note | List of working papers (WK) distributed in the Working Party on Competitiveness and Growth (Internal Market - Ecodesign) in the first quarter of 2023 | public status unknown | – | – |
 | 2023-05-22 | ST 9014/23 ADD 2 | council-note | Statement | public status unknown | – | – |
 | 2023-05-23 | [ST 9649/23](https://data.consilium.europa.eu/doc/document/ST-9649-2023-INIT/en/pdf) | council-position | General approach | public | – | – |
-| 2023-06-22 | [A9-0218/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0218/A-9-2023-0218_en.pdf) | ep-report | REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … | public | – | – |
+| 2023-06-22 | [A9-0218/2023](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0218/A-9-2023-0218_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council establishing a framework for setting eco-design requirements for … | public | – | – |
 | 2023-07-11 | ST 9648/23 REV 1 | council-note | – | public status unknown | – | – |
 | 2023-07-12 | [P9_TA(2023)0272](https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0272/TA-9-2023-0272-FNL_en.pdf) | ep-position | Ecodesign Regulation | public | – | – |
 | 2023-07-17 | ST 11881/23 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market-Attachés) in the second quarter of 2023. | public status unknown | – | – |
 | 2023-07-17 | ST 11896/23 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market) in the second quarter of 2023. | public status unknown | – | – |
 | 2023-07-17 | ST 11901/23 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market - Ecodesign) in the second quarter of 2023. | public status unknown | – | – |
 | 2023-12-19 | [ST 16723/23](https://data.consilium.europa.eu/doc/document/ST-16723-2023-INIT/en/pdf) | agreed-text | Regulation establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC - Analysis of the final … | public | – | – |
-| 2023-12-22 | [PE758.076](https://data.europarl.europa.eu/distribution/reds_iTrInag/ENVI-AG-758076/ENVI-AG-758076_en.pdf) | agreed-text | PROVISIONAL AGREEMENT RESULTING FROM INTERINSTITUTIONAL NEGOTIATIONS Proposal for a regulation of the European Parliament and of the Council establishing a … | public | – | – |
+| 2023-12-22 | [PE758.076](https://data.europarl.europa.eu/distribution/reds_iTrInag/ENVI-AG-758076/ENVI-AG-758076_en.pdf) | agreed-text | Provisional agreement resulting from interinstitutional negotiations Proposal for a regulation of the European Parliament and of the Council establishing a … | public | – | – |
 | 2024-01-09 | ST 5147/24 | council-note | Regulation establishing a framework for setting ecodesign requirements for sustainable products and repealing Directive 2009/125/EC - Letter to the Chair of … | public status unknown | – | – |
-| 2024-02-23 | PE 106/23 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework for the setting of ecodesign requirements for sustainable products, amending … | public status unknown | – | – |
+| 2024-02-23 | PE 106/23 | council-note | Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable products, amending … | public status unknown | – | – |
 | 2024-03-18 | ST 7925/24 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market - Ecodesign) in the third quarter of 2023. | public status unknown | – | – |
 | 2024-03-18 | ST 7954/24 | council-note | List of working papers (WK) distributed to the Working Party on Competitiveness and Growth (Internal Market - Ecodesign) in the fourth quarter of 2023. | public status unknown | – | – |
 | 2024-04-23 | [P9_TA(2024)0303](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0303_en.pdf) | ep-position | Ecodesign Regulation | public | – | – |
 | 2024-04-29 | ST 9221/24 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 22 to 25 April 2024) | public status unknown | – | – |
-| 2024-05-21 | ST 9266/24 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework for the setting of ecodesign requirements for sustainable products, … | public status unknown | – | – |
-| 2024-05-21 | ST 9266/24 ADD 1 | council-note | Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework for the setting of ecodesign requirements for sustainable products, … | public status unknown | – | – |
+| 2024-05-21 | ST 9266/24 | council-note | Draft Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable products, … | public status unknown | – | – |
+| 2024-05-21 | ST 9266/24 ADD 1 | council-note | Draft Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable products, … | public status unknown | – | – |
 | 2024-05-24 | ST 9266/24 COR 1 | council-note | – | public status unknown | – | – |
 | 2024-05-28 | ST 10389/24 | council-note | Voting result Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable … | public status unknown | – | – |
-| 2024-06-14 | PE 106/23 REV 1 | council-note | REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ESTABLISHING A FRAMEWORK FOR THE SETTING OF ECODESIGN REQUIREMENTS FOR SUSTAINABLE PRODUCTS, AMENDING … | public status unknown | – | – |
+| 2024-06-14 | PE 106/23 REV 1 | council-note | Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable products, amending … | public status unknown | – | – |
 
 \* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
 

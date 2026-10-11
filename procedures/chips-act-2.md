@@ -25,8 +25,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-03 | [ST 10094/26](https://data.consilium.europa.eu/doc/document/ST-10094-2026-INIT/en/pdf) | council-transmission | Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening the Union's semiconductor ecosystem, … | public | – | – |
-| 2026-06-03 | [ST 10094/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-10094-2026-ADD-1/en/pdf) | council-transmission | ANNEXES to the PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening Europe's semiconductor … | public | – | – |
+| 2026-06-03 | [ST 10094/26](https://data.consilium.europa.eu/doc/document/ST-10094-2026-INIT/en/pdf) | council-transmission | Proposal for a Regulation of the European Parliament and of the Council on a framework of measures for strengthening the Union's semiconductor ecosystem, … | public | – | – |
+| 2026-06-03 | [ST 10094/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-10094-2026-ADD-1/en/pdf) | council-transmission | Annexes to the proposal for a Regulation of the European Parliament and of the Council on a framework of measures for strengthening Europe's semiconductor … | public | – | – |
 | 2026-06-05 | [WK 8015/26](https://data.consilium.europa.eu/doc/document/WK-8015-2026-INIT/en/pdf) | council-note | Impact Assessment indicative check list | public | – | – |
 | 2026-06-18 | [WK 8405/26](https://data.consilium.europa.eu/doc/document/WK-8405-2026-INIT/en/pdf) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 22 June 2026 | public | – | – |
 | 2026-06-24 | [WK 8856/26](https://data.consilium.europa.eu/doc/document/WK-8856-2026-INIT/en/pdf) | council-note | Presentations by the Commission | public | – | – |
@@ -46,7 +46,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [ST 12887/26](https://data.consilium.europa.eu/doc/document/ST-12887-2026-INIT/en/pdf) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research and Space) on 24 September 2026 Regulation on a European Chips Act 2.0 - Policy … | public | – | – |
 | 2026-09-29 | [ST 13545/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94343) | council-compromise | Presidency compromise text | not public\* | – | – |
 | 2026-09-29 | [WK 14830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94374) | council-note | Consolidated table with comments from the following Member States AT, BE, CY, CZ, DE, DK, EE, EL, ES, FI, FR, HR, IT, LT, MT, NL, PL, PT, SE, SI on Pillars I, … | not public\* | – | – |
-| 2026-09-29 | [WK 14980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of … | not public\* | – | – |
+| 2026-09-29 | [WK 14980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94341) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a Regulation of the European Parliament and of the Council on a framework of … | not public\* | – | – |
 | 2026-09-30 | WK 15026/26 | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 07 October 2026 | not public\* | – | – |
 | 2026-09-30 | WK 15047/26 | council-note | Presidency flash note for the month of October 2026 | not public\* | – | – |
 | 2026-10-07 | [ST 14073/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95363) | council-note | 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies | not public\* | – | – |
