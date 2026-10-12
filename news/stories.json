@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-11",
+ "edition": "2026-10-12",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 105,
+   "score": 103,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -94,7 +94,7 @@
     "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
     "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
    },
-   "score": 73,
+   "score": 71,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -138,7 +138,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 70,
+   "score": 68,
    "crumbs": {
     "en": [
      "European Product Act",
@@ -176,7 +176,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -216,7 +216,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 55,
+   "score": 53,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -260,7 +260,7 @@
     }
    ],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -302,7 +302,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 52,
+   "score": 50,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -347,7 +347,7 @@
     }
    ],
    "brief": null,
-   "score": 47,
+   "score": 45,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -415,7 +415,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -571,7 +571,7 @@
     "en": "The released papers include Member States' comments on the certification rules (Articles 71-97) and the Presidency's second compromise text on Title III: the basis for reading the third compromise text when it is published.",
     "de": "Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist."
    },
-   "score": 42,
+   "score": 40,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -611,7 +611,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -655,7 +655,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -700,7 +700,7 @@
     }
    ],
    "brief": null,
-   "score": 33,
+   "score": 31,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -772,7 +772,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -821,7 +821,7 @@
     "en": "A step further: prEN ISO 14159 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN ISO 14159 auf Entwurf EN."
    },
-   "score": 29,
+   "score": 27,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -889,7 +889,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -966,7 +966,7 @@
     "en": "4 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 627, EN 304 619, EN 40000-1-2:2026 …).",
     "de": "4 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 627, EN 304 619, EN 40000-1-2:2026 …)."
    },
-   "score": 28,
+   "score": 26,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1203,7 +1203,7 @@
     }
    ],
    "brief": null,
-   "score": 27,
+   "score": 25,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1248,7 +1248,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1318,7 +1318,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 16,
+   "score": 14,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1352,7 +1352,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "crumbs": {
     "en": [
      "This site"
@@ -1384,7 +1384,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "crumbs": {
     "en": [
      "This site"
@@ -1416,7 +1416,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "crumbs": {
     "en": [
      "This site"
@@ -1448,7 +1448,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1482,7 +1482,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1514,7 +1514,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1546,7 +1546,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1578,7 +1578,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1610,7 +1610,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 10,
+   "score": 8,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -1648,7 +1648,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1682,7 +1682,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -1714,7 +1714,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -1746,7 +1746,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -1782,7 +1782,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 2,
+   "score": 0,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1816,7 +1816,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",

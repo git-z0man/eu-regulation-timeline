@@ -314,6 +314,16 @@ All texts of this act as one file: [ehds.zip](downloads/ehds.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-03-05_oj | oj | 32025R0327 | [en](ehds/2025-03-05_oj.en.md) | [de](ehds/2025-03-05_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ehds/2025-03-05_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R0327) |
 
+## EMC Directive
+
+`emc` – Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility
+
+All texts of this act as one file: [emc.zip](downloads/emc.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2014-03-29_oj | oj | 32014L0030 | [en](emc/2014-03-29_oj.en.md) | [de](emc/2014-03-29_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/emc/2014-03-29_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0030) |
+
 ## EPA
 
 `epa` – European Product Act
@@ -490,6 +500,18 @@ All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2015-11-25_commission-decision | commission-decision | – | [en](gpsr/sreq-m538/2015-11-25_commission-decision.en.md) | [de](gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=de) |
 
+## Blue Guide 2022
+
+`guidance/commission/blue-guide-2022` – Commission notice – The 'Blue Guide' on the implementation of EU product rules 2022 (2022/C 247/01), C/2022/3637, OJ C 247, 29.6.2022, p. 1
+
+All texts of this act as one file: [guidance-commission-blue-guide-2022.zip](downloads/guidance-commission-blue-guide-2022.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-29_final | final | 52022XC0629(04) | [en](guidance/commission/blue-guide-2022/2022-06-29_final.en.md) | [de](guidance/commission/blue-guide-2022/2022-06-29_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/blue-guide-2022/2022-06-29_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022XC0629(04)) |
+| 2023-10-26_corrigendum-01 | corrigendum | 52022XC0629(04)R(01) | – | [de](guidance/commission/blue-guide-2022/2023-10-26_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/blue-guide-2022/2023-10-26_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022XC0629(04)R(01)) |
+| 2026-09-24_corrigendum-02 | corrigendum | 52022XC0629(04)R(02) | [en](guidance/commission/blue-guide-2022/2026-09-24_corrigendum-02.en.md) | [de](guidance/commission/blue-guide-2022/2026-09-24_corrigendum-02.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/blue-guide-2022/2026-09-24_corrigendum-02.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022XC0629(04)R(02)) |
+
 ## Communication C(2023) 4049
 
 `guidance/commission/c-2023-4049` – Communication from the Commission – Implementation of the 5G cybersecurity Toolbox, C(2023) 4049 final of 15 June 2023
@@ -625,6 +647,16 @@ All texts of this act as one file: [internal-market-emergency-omnibus.zip](downl
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-11-08_oj | oj | 32024R2748 | [en](internal-market-emergency-omnibus/2024-11-08_oj.en.md) | [de](internal-market-emergency-omnibus/2024-11-08_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/internal-market-emergency-omnibus/2024-11-08_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2748) |
 | 2025-04-22_corrigendum-01 | corrigendum | 32024R2748R(01) | [en](internal-market-emergency-omnibus/2025-04-22_corrigendum-01.en.md) | [de](internal-market-emergency-omnibus/2025-04-22_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/internal-market-emergency-omnibus/2025-04-22_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2748R(01)) |
+
+## LVD
+
+`lvd` – Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits
+
+All texts of this act as one file: [lvd.zip](downloads/lvd.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2014-03-29_oj | oj | 32014L0035 | [en](lvd/2014-03-29_oj.en.md) | [de](lvd/2014-03-29_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/lvd/2014-03-29_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0035) |
 
 ## MR
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1740" height="848" viewBox="0 0 1740 848" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1740" height="904" viewBox="0 0 1740 904" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="1740" height="848" fill="#ffffff"/>
+<rect width="1740" height="904" fill="#ffffff"/>
 <text font-size="20" fill="#222222" text-anchor="start" font-family='"Source Serif 4", Georgia, serif' font-weight="600"><tspan x="24.0" y="29.0">Where the information comes from</tspan></text>
 <text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="49.0">Sources (left) are read by the tools (middle), which write the files of the repository (right); the analysis and the public site are built from them. A routine runs the tools on weekdays at</tspan><tspan x="24.0" y="62.8">05:15 UTC and merges its pull request once the checks pass; a second one builds and publishes this site every day at 06:47 UTC.</tspan></text>
 <rect x="20.0" y="96.0" width="420.0" height="46.0" fill="#e3eeef" stroke="#0f5a63"/>
@@ -39,6 +39,9 @@
 <rect x="20.0" y="712.0" width="420.0" height="46.0" fill="#f6f6f4" stroke="#8a9096"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="728.2">gesetze-im-internet.de</tspan></text>
 <text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="28.0" y="747.3">German federal law (e.g. BSIG)</tspan></text>
+<rect x="20.0" y="768.0" width="420.0" height="46.0" fill="#f6f6f4" stroke="#8a9096"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="784.2">Deutscher Bundestag</tspan></text>
+<text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="28.0" y="803.3">Drucksachen: bills with explanatory memorandum, committee reports</tspan></text>
 <polyline points="440.0,119.0 464.0,119.0 464.0,119.0 600.0,119.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,119.0 591.0,123.5 591.0,114.5" fill="#8a96a3"/>
 <rect x="600.0" y="96.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="112.2">discover.py · scan.py · fetch.py</tspan></text>
@@ -47,83 +50,84 @@
 <rect x="990.0" y="96.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
 <text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="122.7">Acts, proposals, corrigenda, implementing acts and their texts</tspan></text>
 <line x1="1350.0" y1="119.0" x2="1370.0" y2="119.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,175.0 476.0,175.0 476.0,207.0 600.0,207.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,207.0 591.0,211.5 591.0,202.5" fill="#8a96a3"/>
-<polyline points="440.0,231.0 476.0,231.0 476.0,207.0 600.0,207.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,207.0 591.0,211.5 591.0,202.5" fill="#8a96a3"/>
-<polyline points="440.0,287.0 476.0,287.0 476.0,207.0 600.0,207.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,207.0 591.0,211.5 591.0,202.5" fill="#8a96a3"/>
-<polyline points="440.0,119.0 476.0,119.0 476.0,207.0 600.0,207.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,207.0 591.0,211.5 591.0,202.5" fill="#8a96a3"/>
-<rect x="600.0" y="184.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="200.2">negotiations.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="219.5">weekdays</tspan></text>
-<polyline points="870.0,207.0 990.0,207.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,207.0 981.0,211.5 981.0,202.5" fill="#14181c"/>
-<rect x="990.0" y="184.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="210.7">Procedure registers; EP and Council positions in full</tspan></text>
-<line x1="1350.0" y1="207.0" x2="1370.0" y2="207.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,343.0 488.0,343.0 488.0,295.0 600.0,295.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,295.0 591.0,299.5 591.0,290.5" fill="#8a96a3"/>
-<rect x="600.0" y="272.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="288.2">regdel.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="307.5">weekdays</tspan></text>
-<polyline points="870.0,295.0 990.0,295.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,295.0 981.0,299.5 981.0,290.5" fill="#14181c"/>
-<rect x="990.0" y="272.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="298.7">Delegated and implementing acts in preparation</tspan></text>
-<line x1="1350.0" y1="295.0" x2="1370.0" y2="295.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,399.0 500.0,399.0 500.0,383.0 600.0,383.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,383.0 591.0,387.5 591.0,378.5" fill="#8a96a3"/>
-<polyline points="440.0,455.0 500.0,455.0 500.0,383.0 600.0,383.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,383.0 591.0,387.5 591.0,378.5" fill="#8a96a3"/>
-<polyline points="440.0,511.0 500.0,511.0 500.0,383.0 600.0,383.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,383.0 591.0,387.5 591.0,378.5" fill="#8a96a3"/>
-<rect x="600.0" y="360.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="376.2">committees.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="395.5">weekdays</tspan></text>
-<polyline points="870.0,383.0 990.0,383.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,383.0 981.0,387.5 981.0,378.5" fill="#14181c"/>
-<rect x="990.0" y="360.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="386.7">Committees and expert groups: meetings and documents</tspan></text>
-<line x1="1350.0" y1="383.0" x2="1370.0" y2="383.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,567.0 512.0,567.0 512.0,471.0 600.0,471.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,471.0 591.0,475.5 591.0,466.5" fill="#8a96a3"/>
-<rect x="600.0" y="448.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="464.2">sreq.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="483.5">weekdays</tspan></text>
-<polyline points="870.0,471.0 990.0,471.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,471.0 981.0,475.5 981.0,466.5" fill="#14181c"/>
-<rect x="990.0" y="448.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="474.7">Standardisation requests and planned requests</tspan></text>
-<line x1="1350.0" y1="471.0" x2="1370.0" y2="471.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,623.0 524.0,623.0 524.0,559.0 600.0,559.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,559.0 591.0,563.5 591.0,554.5" fill="#8a96a3"/>
-<polyline points="440.0,679.0 524.0,679.0 524.0,559.0 600.0,559.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,559.0 591.0,563.5 591.0,554.5" fill="#8a96a3"/>
-<rect x="600.0" y="536.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="552.2">eso.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="571.5">weekdays</tspan></text>
-<polyline points="870.0,559.0 990.0,559.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,559.0 981.0,563.5 981.0,554.5" fill="#14181c"/>
-<rect x="990.0" y="536.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="562.7">Standardisation projects and their status</tspan></text>
-<line x1="1350.0" y1="559.0" x2="1370.0" y2="559.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,735.0 536.0,735.0 536.0,647.0 600.0,647.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,647.0 591.0,651.5 591.0,642.5" fill="#8a96a3"/>
-<rect x="600.0" y="624.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="640.2">fetch.py (gii2md.py)</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="659.5">on demand</tspan></text>
-<polyline points="870.0,647.0 990.0,647.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,647.0 981.0,651.5 981.0,642.5" fill="#14181c"/>
-<rect x="990.0" y="624.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="650.7">National law</tspan></text>
-<line x1="1350.0" y1="647.0" x2="1370.0" y2="647.0" stroke="#14181c" stroke-width="1.2"/>
-<polyline points="440.0,175.0 548.0,175.0 548.0,735.0 600.0,735.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,735.0 591.0,739.5 591.0,730.5" fill="#8a96a3"/>
-<rect x="600.0" y="712.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="728.2">durations.py · forecast.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="747.5">weekdays</tspan></text>
-<polyline points="870.0,735.0 990.0,735.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,735.0 981.0,739.5 981.0,730.5" fill="#14181c"/>
-<rect x="990.0" y="712.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="732.1">How long procedures take; forecast per open procedure; NLF</tspan><tspan x="998.0" y="745.2">overview</tspan></text>
-<line x1="1350.0" y1="735.0" x2="1370.0" y2="735.0" stroke="#14181c" stroke-width="1.2"/>
-<line x1="1370.0" y1="96.0" x2="1370.0" y2="758.0" stroke="#14181c" stroke-width="2"/>
-<polyline points="1370.0,427.0 1460.0,427.0" fill="none" stroke="#14181c" stroke-width="2"/><polygon points="1460.0,427.0 1451.0,431.5 1451.0,422.5" fill="#14181c"/>
-<rect x="1460.0" y="359.0" width="260.0" height="136.0" fill="#e3eeef" stroke="#0f5a63"/>
-<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1468.0" y="377.2">Analysis and public site</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="402.7">index.py · concepts.py · docdiff.py · factcheck.py</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="424.7">decisions.py · desk_apply.py · knowledge.py · forecast_record.py</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="446.7">timeline.py · procedure.py · forecast.py</tspan></text>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="468.7">actpage.py · texts.py · news.py · figures.py · gallery.py</tspan></text>
-<text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="1468.0" y="481.3">this site</tspan></text>
-<rect x="20.0" y="785.0" width="26.0" height="12.0" fill="#e3eeef" stroke="#0f5a63"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="54.0" y="794.5">EU institutions</tspan></text>
-<rect x="300.0" y="785.0" width="26.0" height="12.0" fill="#eef2f2" stroke="#4f6f73"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="334.0" y="794.5">Standardisation organisations</tspan></text>
-<rect x="580.0" y="785.0" width="26.0" height="12.0" fill="#f6f6f4" stroke="#8a9096"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="614.0" y="794.5">National law</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="24.0" y="816.5">Built from public sources only; the private sources of the repository are not shown.</tspan></text>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1716.0" y="839.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<polyline points="440.0,175.0 476.0,175.0 476.0,215.0 600.0,215.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,215.0 591.0,219.5 591.0,210.5" fill="#8a96a3"/>
+<polyline points="440.0,231.0 476.0,231.0 476.0,215.0 600.0,215.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,215.0 591.0,219.5 591.0,210.5" fill="#8a96a3"/>
+<polyline points="440.0,287.0 476.0,287.0 476.0,215.0 600.0,215.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,215.0 591.0,219.5 591.0,210.5" fill="#8a96a3"/>
+<polyline points="440.0,119.0 476.0,119.0 476.0,215.0 600.0,215.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,215.0 591.0,219.5 591.0,210.5" fill="#8a96a3"/>
+<rect x="600.0" y="192.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="208.2">negotiations.py</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="227.5">weekdays</tspan></text>
+<polyline points="870.0,215.0 990.0,215.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,215.0 981.0,219.5 981.0,210.5" fill="#14181c"/>
+<rect x="990.0" y="192.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="218.7">Procedure registers; EP and Council positions in full</tspan></text>
+<line x1="1350.0" y1="215.0" x2="1370.0" y2="215.0" stroke="#14181c" stroke-width="1.2"/>
+<polyline points="440.0,343.0 488.0,343.0 488.0,311.0 600.0,311.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,311.0 591.0,315.5 591.0,306.5" fill="#8a96a3"/>
+<rect x="600.0" y="288.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="304.2">regdel.py</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="323.5">weekdays</tspan></text>
+<polyline points="870.0,311.0 990.0,311.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,311.0 981.0,315.5 981.0,306.5" fill="#14181c"/>
+<rect x="990.0" y="288.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="314.7">Delegated and implementing acts in preparation</tspan></text>
+<line x1="1350.0" y1="311.0" x2="1370.0" y2="311.0" stroke="#14181c" stroke-width="1.2"/>
+<polyline points="440.0,399.0 500.0,399.0 500.0,407.0 600.0,407.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,407.0 591.0,411.5 591.0,402.5" fill="#8a96a3"/>
+<polyline points="440.0,455.0 500.0,455.0 500.0,407.0 600.0,407.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,407.0 591.0,411.5 591.0,402.5" fill="#8a96a3"/>
+<polyline points="440.0,511.0 500.0,511.0 500.0,407.0 600.0,407.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,407.0 591.0,411.5 591.0,402.5" fill="#8a96a3"/>
+<rect x="600.0" y="384.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="400.2">committees.py</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="419.5">weekdays</tspan></text>
+<polyline points="870.0,407.0 990.0,407.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,407.0 981.0,411.5 981.0,402.5" fill="#14181c"/>
+<rect x="990.0" y="384.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="410.7">Committees and expert groups: meetings and documents</tspan></text>
+<line x1="1350.0" y1="407.0" x2="1370.0" y2="407.0" stroke="#14181c" stroke-width="1.2"/>
+<polyline points="440.0,567.0 512.0,567.0 512.0,503.0 600.0,503.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,503.0 591.0,507.5 591.0,498.5" fill="#8a96a3"/>
+<rect x="600.0" y="480.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="496.2">sreq.py</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="515.5">weekdays</tspan></text>
+<polyline points="870.0,503.0 990.0,503.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,503.0 981.0,507.5 981.0,498.5" fill="#14181c"/>
+<rect x="990.0" y="480.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="506.7">Standardisation requests and planned requests</tspan></text>
+<line x1="1350.0" y1="503.0" x2="1370.0" y2="503.0" stroke="#14181c" stroke-width="1.2"/>
+<polyline points="440.0,623.0 524.0,623.0 524.0,599.0 600.0,599.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,599.0 591.0,603.5 591.0,594.5" fill="#8a96a3"/>
+<polyline points="440.0,679.0 524.0,679.0 524.0,599.0 600.0,599.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,599.0 591.0,603.5 591.0,594.5" fill="#8a96a3"/>
+<rect x="600.0" y="576.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="592.2">eso.py</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="611.5">weekdays</tspan></text>
+<polyline points="870.0,599.0 990.0,599.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,599.0 981.0,603.5 981.0,594.5" fill="#14181c"/>
+<rect x="990.0" y="576.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="602.7">Standardisation projects and their status</tspan></text>
+<line x1="1350.0" y1="599.0" x2="1370.0" y2="599.0" stroke="#14181c" stroke-width="1.2"/>
+<polyline points="440.0,735.0 536.0,735.0 536.0,695.0 600.0,695.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,695.0 591.0,699.5 591.0,690.5" fill="#8a96a3"/>
+<polyline points="440.0,791.0 536.0,791.0 536.0,695.0 600.0,695.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,695.0 591.0,699.5 591.0,690.5" fill="#8a96a3"/>
+<rect x="600.0" y="672.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="688.2">fetch.py (gii2md.py, pdf2md.py)</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="707.5">on demand</tspan></text>
+<polyline points="870.0,695.0 990.0,695.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,695.0 981.0,699.5 981.0,690.5" fill="#14181c"/>
+<rect x="990.0" y="672.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="698.7">National law and its legislative materials</tspan></text>
+<line x1="1350.0" y1="695.0" x2="1370.0" y2="695.0" stroke="#14181c" stroke-width="1.2"/>
+<polyline points="440.0,175.0 548.0,175.0 548.0,791.0 600.0,791.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,791.0 591.0,795.5 591.0,786.5" fill="#8a96a3"/>
+<rect x="600.0" y="768.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="784.2">durations.py · forecast.py</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="803.5">weekdays</tspan></text>
+<polyline points="870.0,791.0 990.0,791.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,791.0 981.0,795.5 981.0,786.5" fill="#14181c"/>
+<rect x="990.0" y="768.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="788.1">How long procedures take; forecast per open procedure; NLF</tspan><tspan x="998.0" y="801.2">overview</tspan></text>
+<line x1="1350.0" y1="791.0" x2="1370.0" y2="791.0" stroke="#14181c" stroke-width="1.2"/>
+<line x1="1370.0" y1="96.0" x2="1370.0" y2="814.0" stroke="#14181c" stroke-width="2"/>
+<polyline points="1370.0,455.0 1460.0,455.0" fill="none" stroke="#14181c" stroke-width="2"/><polygon points="1460.0,455.0 1451.0,459.5 1451.0,450.5" fill="#14181c"/>
+<rect x="1460.0" y="387.0" width="260.0" height="136.0" fill="#e3eeef" stroke="#0f5a63"/>
+<text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="1468.0" y="405.2">Analysis and public site</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="430.7">index.py · concepts.py · docdiff.py · factcheck.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="452.7">decisions.py · desk_apply.py · knowledge.py · forecast_record.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="474.7">timeline.py · procedure.py · forecast.py</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="1468.0" y="496.7">actpage.py · texts.py · news.py · figures.py · gallery.py</tspan></text>
+<text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="1468.0" y="509.3">this site</tspan></text>
+<rect x="20.0" y="841.0" width="26.0" height="12.0" fill="#e3eeef" stroke="#0f5a63"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="54.0" y="850.5">EU institutions</tspan></text>
+<rect x="300.0" y="841.0" width="26.0" height="12.0" fill="#eef2f2" stroke="#4f6f73"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="334.0" y="850.5">Standardisation organisations</tspan></text>
+<rect x="580.0" y="841.0" width="26.0" height="12.0" fill="#f6f6f4" stroke="#8a9096"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="614.0" y="850.5">National law</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="24.0" y="872.5">Built from public sources only; the private sources of the repository are not shown.</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1716.0" y="895.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </svg>
