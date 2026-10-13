@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "date": "2026-10-12",
+   "act": "nis2",
+   "title": "NIS-2",
+   "actor": "NIS Cooperation Group",
+   "label": "Agenda published: 40th meeting (2026-10-05)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/newsroom/dae/redirection/document/133294",
+   "key": "NIS-CG-https://ec.europa.eu/newsroom/dae/redirection/document/133294",
+   "page": "nis2",
+   "type": "Committees"
+  },
+  {
    "date": "2026-10-09",
    "act": "machinery-regulation",
    "title": "MR",
@@ -120,6 +132,24 @@
    "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download",
    "key": "E03676-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download",
    "page": "machinery-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-05",
+   "act": "nis2",
+   "title": "NIS-2",
+   "actor": "NIS Cooperation Group",
+   "label": "40th meeting",
+   "doc": "agenda",
+   "url": "https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas",
+   "key": "NIS-CG-NIS-CG-40",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/newsroom/dae/redirection/document/133294"
+    ]
+   ],
+   "page": "nis2",
    "type": "Committees"
   },
   {
@@ -1523,6 +1553,18 @@
    "key": "CM 3481/26",
    "page": "medical-devices-simplification",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-07-16",
+   "act": "emc",
+   "title": "EMC Directive",
+   "actor": "ERM WGEMC",
+   "label": "EN 300 386 – Harmonised Standard for ElectroMagnetic Compatibility (EMC) requirements: Delivery to the EC",
+   "doc": "EN 300 386",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68579",
+   "key": "eso-REN/ERM-EMC-422-2026-07-16",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-07-16",
@@ -4869,6 +4911,18 @@
    "doc": "summary record",
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/112510/1/consult",
    "key": "C03000-S112510/1",
+   "page": null,
+   "type": "Committees"
+  },
+  {
+   "date": "2026-01-13",
+   "act": "lvd",
+   "title": "LVD",
+   "actor": "Committee on Electrical Equipment",
+   "label": "Summary record published: Committee on Electrical Equipment (2025-06-25)",
+   "doc": "summary record",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/112509/1/consult",
+   "key": "C47700-S112509/1",
    "page": null,
    "type": "Committees"
   },

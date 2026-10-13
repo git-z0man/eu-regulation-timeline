@@ -7,13 +7,14 @@ Official source: [European Commission (digital-strategy.ec.europa.eu)](https://d
 ## At a glance
 
 - Next meeting: none announced
-- Last meeting: 2026-05-21 – 39th meeting ([agenda](https://ec.europa.eu/newsroom/dae/redirection/document/128827))
-- Meetings since 2024: 10
+- Last meeting: 2026-10-05 – 40th meeting ([agenda](https://ec.europa.eu/newsroom/dae/redirection/document/133294))
+- Meetings since 2024: 11
 
 ## Meetings
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-05 | [40th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | – | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/133294) | – | – |
 | 2026-05-21 | [39th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | – | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/128827) | – | – |
 | 2026-02-12 | [38th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | – | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/128826) | – | – |
 | 2025-11-12 | [37th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | – | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/121620) | – | – |

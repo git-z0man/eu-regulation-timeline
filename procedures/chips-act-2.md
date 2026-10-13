@@ -51,7 +51,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-30 | WK 15047/26 | council-note | Presidency flash note for the month of October 2026 | not public\* | – | – |
 | 2026-10-07 | [ST 14073/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95363) | council-note | 2026/0139 (COD) - Cover note from the Italian Chamber of Deputies | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-09.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-12.
 
 ## Texts as Markdown
 

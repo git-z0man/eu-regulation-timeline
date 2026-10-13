@@ -85,6 +85,7 @@ Group set up by the act, Art. 14 NIS-2 (before: Art. 11 Directive (EU) 2016/1148
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
+| 2026-10-05 | [40th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/133294) |
 | 2026-05-21 | [39th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/128827) |
 | 2026-02-12 | [38th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/128826) |
 | 2025-11-12 | [37th meeting](https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas) | [agenda](https://ec.europa.eu/newsroom/dae/redirection/document/121620) |

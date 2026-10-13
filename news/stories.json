@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-12",
+ "edition": "2026-10-13",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 103,
+   "score": 101,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -94,7 +94,7 @@
     "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
     "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
    },
-   "score": 71,
+   "score": 69,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -138,7 +138,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 68,
+   "score": 66,
    "crumbs": {
     "en": [
      "European Product Act",
@@ -146,6 +146,50 @@
     ],
     "de": [
      "EPA",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "ai-act/hys-19292-26258",
+   "kind": "consultation",
+   "desk": "Legislation",
+   "date": "2026-10-12",
+   "act": "ai-act",
+   "kicker": "Artificial Intelligence Act",
+   "kicker_de": "KI-VO",
+   "headline": "Artificial Intelligence Act: draft implementing regulation open for feedback",
+   "deck": "Articles 75c – 75d AI Act Implementing Act: a draft by the Commission services, not adopted; feedback until 9 Nov 2026.",
+   "headline_de": "KI-VO: Entwurf zur Konsultation",
+   "deck_de": "Articles 75c – 75d AI Act Implementing Act: Entwurf der Kommissionsdienststellen, nicht angenommen; Rückmeldungen bis 9. Nov. 2026.",
+   "facts": [
+    "Ares(2026)9589403",
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Ares(2026)9589403",
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Act page",
+     "../acts/ai-act.html"
+    ],
+    [
+     "Have your say",
+     "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19292_en"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 63,
+   "crumbs": {
+    "en": [
+     "Artificial Intelligence Act",
+     "Legislation"
+    ],
+    "de": [
+     "KI-VO",
      "Gesetzgebung"
     ]
    }
@@ -176,7 +220,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -216,7 +260,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 53,
+   "score": 51,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -260,7 +304,7 @@
     }
    ],
    "brief": null,
-   "score": 52,
+   "score": 50,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -302,7 +346,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -347,7 +391,7 @@
     }
    ],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -415,7 +459,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -571,7 +615,7 @@
     "en": "The released papers include Member States' comments on the certification rules (Articles 71-97) and the Presidency's second compromise text on Title III: the basis for reading the third compromise text when it is published.",
     "de": "Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist."
    },
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -611,7 +655,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -655,7 +699,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -664,6 +708,40 @@
     "de": [
      "IAA",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "nis2/committee/2026-10-12",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-12",
+   "act": "nis2",
+   "kicker": "NIS 2 Directive",
+   "kicker_de": "NIS-2",
+   "headline": "Agenda published: 40th meeting (2026-10-05)",
+   "deck": "NIS Cooperation Group.",
+   "headline_de": "NIS-2: Ausschussdokument veröffentlicht",
+   "deck_de": "NIS Cooperation Group (Titel im Original): Agenda published: 40th meeting (2026-10-05)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/nis2.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 33,
+   "crumbs": {
+    "en": [
+     "NIS 2 Directive",
+     "Committees"
+    ],
+    "de": [
+     "NIS-2",
+     "Ausschüsse"
     ]
    }
   },
@@ -700,7 +778,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -772,7 +850,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -821,7 +899,7 @@
     "en": "A step further: prEN ISO 14159 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN ISO 14159 auf Entwurf EN."
    },
-   "score": 27,
+   "score": 25,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -889,7 +967,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 27,
+   "score": 25,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -966,7 +1044,7 @@
     "en": "4 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 627, EN 304 619, EN 40000-1-2:2026 …).",
     "de": "4 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 627, EN 304 619, EN 40000-1-2:2026 …)."
    },
-   "score": 26,
+   "score": 24,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1203,7 +1281,7 @@
     }
    ],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1212,6 +1290,40 @@
     "de": [
      "NIS-2-Änderung",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "nis2/committee/2026-10-05",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-05",
+   "act": "nis2",
+   "kicker": "NIS 2 Directive",
+   "kicker_de": "NIS-2",
+   "headline": "40th meeting",
+   "deck": "NIS Cooperation Group.",
+   "headline_de": "NIS-2: Ausschussdokument veröffentlicht",
+   "deck_de": "NIS Cooperation Group (Titel im Original): 40th meeting",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/nis2.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 19,
+   "crumbs": {
+    "en": [
+     "NIS 2 Directive",
+     "Committees"
+    ],
+    "de": [
+     "NIS-2",
+     "Ausschüsse"
     ]
    }
   },
@@ -1248,7 +1360,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1318,7 +1430,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1352,7 +1464,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1384,7 +1496,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1416,7 +1528,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -1448,7 +1560,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1482,7 +1594,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1514,7 +1626,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1546,7 +1658,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1578,7 +1690,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1610,7 +1722,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -1618,44 +1730,6 @@
     ],
     "de": [
      "MVO",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "csa2/meeting/2026-09-28",
-   "kind": "meeting",
-   "desk": "Committees",
-   "date": "2026-09-28",
-   "act": "csa2",
-   "kicker": "Cybersecurity Act 2",
-   "kicker_de": "CSA2",
-   "headline": "Cybersecurity Act 2: Council working party meeting",
-   "deck": "Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1)",
-   "headline_de": "CSA2: Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/csa2.html"
-    ],
-    [
-     "Document",
-     "https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 7,
-   "crumbs": {
-    "en": [
-     "Cybersecurity Act 2",
-     "Committees"
-    ],
-    "de": [
-     "CSA2",
      "Ausschüsse"
     ]
    }
@@ -1682,7 +1756,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -1714,7 +1788,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -1746,7 +1820,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 3,
+   "score": 1,
    "crumbs": {
     "en": [
      "This site"
@@ -1782,7 +1856,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 0,
+   "score": -2,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1816,7 +1890,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -6,
+   "score": -8,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1829,7 +1903,14 @@
    }
   }
  ],
- "ahead": [],
+ "ahead": [
+  {
+   "date": "2026-10-15",
+   "act": "Ecodesign for Sustainable Products Regulation",
+   "text": "Feedback closes: Proposal for a regulation, Omnibus simplification of energy-efficient product legislation",
+   "url": "../procedures/espr.html"
+  }
+ ],
  "groups": {
   "en": {
    "horizontal": "horizontal (Annex I, Part I)",

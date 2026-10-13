@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "date": "2026-10-12",
+   "title": "NIS-2",
+   "actor": "NIS Cooperation Group",
+   "label": "Agenda published: 40th meeting (2026-10-05)",
+   "doc": "agenda",
+   "page": "nis2.html"
+  },
+  {
    "date": "2026-10-09",
    "title": "MR",
    "actor": "CLC/TC 44X",
@@ -55,14 +63,6 @@
    "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Comments categorisation assessed",
    "doc": "EN 304 636",
    "page": "cra.html"
-  },
-  {
-   "date": "2026-10-06",
-   "title": "New Standardisation Regulation – COM(2026) 780 (proposal)",
-   "actor": "European Commission",
-   "label": "Commission proposal (Art. 294(2) TFEU)",
-   "doc": "COM(2026) 780",
-   "page": "standardisation-revision.html"
   }
  ]
 }

@@ -1,14 +1,14 @@
 # Legislative procedure – New Standardisation Regulation – COM(2026) 780 (proposal)
 
-Procedure 2026/0307(COD), as of 9 Oct 2026.
+Procedure 2026/0307(COD), as of 12 Oct 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 8 Oct 2026
-- **Latest activity:** 8 Oct 2026 · Council: Annexes to the Proposal for a Regulation of the European Parliament and of the Council on … (ST 14141/26 ADD 1)
+- **Council:** working party, latest document 9 Oct 2026
+- **Latest activity:** 9 Oct 2026 · Council: Proposal for a Regulation of the European Parliament and of the Council on European … (ST 14141/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -24,6 +24,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-10-08 | [ST 14141/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-1/en/pdf) | council-note | Annexes to the Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012 of … | public | – | – |
+| 2026-10-09 | [ST 14141/26](https://data.consilium.europa.eu/doc/document/ST-14141-2026-INIT/en/pdf) | council-note | Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012 of the European … | public | – | – |
 
 ## Texts as Markdown
 

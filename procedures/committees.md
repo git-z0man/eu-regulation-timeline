@@ -12,16 +12,18 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cybersecurity Act](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 4 | 2026-03-19 | – |
+| [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
 | [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 10 | 2026-06-23 | 2026-10-22 |
 | [General Product Safety Regulation](gpsr.md) | [General Product Safety Regulation Committee](committee-c127600.md) | Comitology committee | 7 | 2024-10-22 | – |
 | [General Product Safety Regulation](gpsr.md) | [CSN](committee-e00935.md) | Expert group | 4 | 2024-11-27 | – |
 | [Internal Market Emergency and Resilience Act](imera.md) | [Internal Market Emergency and Resilience Committee](committee-c131800.md) | Comitology committee | 0 | – | – |
+| [Low Voltage Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0035) – No legislative procedure page; applies from 2016-04-20; [meetings](#low-voltage-directive) | [Committee on Electrical Equipment](committee-c47700.md) | Comitology committee | 2 | 2025-06-25 | – |
 | [Machinery Regulation](machinery-regulation.md) | [Machinery Committee](committee-c128700.md) | Comitology committee | 1 | 2024-06-27 | – |
 | [Machinery Regulation](machinery-regulation.md) | [Commission Expert Group on Machinery](committee-e03676.md) | Expert group | 7 | 2026-04-27 | 2026-10-22 |
 | [Market Surveillance Regulation](market-surveillance.md) | [Committee on market surveillance and compliance of products](committee-c52400.md) | Comitology committee | 1 | 2024-06-27 | – |
 | [Market Surveillance Regulation](market-surveillance.md) | [IMP-EG](committee-e02798.md) | Expert group | 0 | – | – |
 | [NIS 2 Directive](nis2.md) | [Cybersecurity Committee](committee-c127400.md) | Comitology committee | 3 | 2024-10-02 | – |
-| [NIS 2 Directive](nis2.md) | [NIS Cooperation Group](committee-nis-cg.md) | Group set up by the act | 10 | 2026-05-21 | – |
+| [NIS 2 Directive](nis2.md) | [NIS Cooperation Group](committee-nis-cg.md) | Group set up by the act | 11 | 2026-10-05 | – |
 | [Net Zero Industry Act](nzia.md) | [Energy Union Committee](committee-c51000.md) | Comitology committee | 5 | 2026-06-09 | – |
 | [Net Zero Industry Act](nzia.md) | [Net-zero technologies committee](committee-c129000.md) | Comitology committee | 4 | 2025-07-04 | – |
 | [Net Zero Industry Act](nzia.md) | [Advisory Committee for Public Contracts](committee-c16300.md) | Comitology committee | 9 | 2026-02-11 | – |
@@ -33,6 +35,29 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Regulation on European standardisation](standardisation-regulation.md) | [HLFS](committee-e03874.md) | Expert group | 2 | 2026-03-19 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [MSP](committee-e02758.md) | Expert group | 5 | 2025-10-23 | – |
 | [Toy Safety Regulation](toy-safety-regulation.md) | [Expert Group on Toys Safety](committee-e01360.md) | Expert group | 5 | 2026-09-10 | – |
+
+## Electromagnetic Compatibility Directive
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
+
+### [Committee on Electromagnetic Compatibility](committee-c48300.md)
+
+Comitology committee C48300, GROW; advisory procedure (Art. 4 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C48300/consult).
+
+No meetings listed.
+
+## Low Voltage Directive
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
+
+### [Committee on Electrical Equipment](committee-c47700.md)
+
+Comitology committee C47700, GROW; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011); urgent examination procedure (Art. 5 and 8 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C47700/consult).
+
+| Date | Meeting | Documents |
+| --- | --- | --- |
+| 2025-06-25 | [Committee on Electrical Equipment](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)999/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/107637/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112509/1/consult) |
+| 2024-06-25 | [11TH MEETING OF THE COMMITTEE ON ELECTRICAL EQUIPMENT 25/06/2024](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)935/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/099015/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/104223/1/consult) |
 
 ## Radio Equipment Directive
 

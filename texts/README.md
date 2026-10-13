@@ -1,10 +1,10 @@
 # Texts
 
-The official EU documents of the regulation timeline and the legislative procedures as Markdown: legal acts and proposals (EUR-Lex), Council documents released by the Council register, EP documents from the EP Open Data Portal. Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
+The official EU documents of the regulation timeline and the legislative procedures as Markdown: legal acts and proposals (EUR-Lex), Council documents released by the Council register, EP documents from the EP Open Data Portal, Commission drafts published for feedback on "Have your say" (drafts, not law). Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
 
 EN and DE link the Markdown files (for download and project folders); "GitHub" opens the rendered text, where a link to a provision (`#art-13`, `#rec-12`, `#annex-i`) jumps to it.
 
-Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6.
+Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Reg. 765/2008
 
@@ -67,6 +67,26 @@ All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-02-14_oj | oj | 32024D01459 | [en](ai-act/decision-2024-1459/2024-02-14_oj.en.md) | [de](ai-act/decision-2024-1459/2024-02-14_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/decision-2024-1459/2024-02-14_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024D01459) |
 | 2024-04-30_corrigendum-01 | corrigendum | 32024D01459R(01) | – | [de](ai-act/decision-2024-1459/2024-04-30_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/decision-2024-1459/2024-04-30_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024D01459R(01)) |
+
+## Implementing Regulation on AI Regulatory Sandboxes
+
+`ai-act/hys-15952` – COMMISSION IMPLEMENTING REGULATION (EU) …/... laying down rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment, development, implementation, operation and supervision of AI regulatory sandboxes
+
+All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-02_hys-draft | hys-draft | Ares(2025)10569703 | [en](ai-act/hys-15952/2025-12-02_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/hys-15952/2025-12-02_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e525d99e9c) |
+
+## Articles 75c – 75d AI Act Implementing Act
+
+`ai-act/hys-19292` – COMMISSION IMPLEMENTING REGULATION (EU) …/... on practical and specific arrangements for the conduct of certain proceedings by the Commission pursuant to Article 75c and Article 75d of Regulation (EU) 2024/1689 of the European Parliament and of the Council
+
+All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-12_hys-draft | hys-draft | Ares(2026)9589403 | [en](ai-act/hys-19292/2026-10-12_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/hys-19292/2026-10-12_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e534f8b82e) |
 
 ## Implementing Regulation (EU) 2025/454
 
@@ -314,6 +334,16 @@ All texts of this act as one file: [ehds.zip](downloads/ehds.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-03-05_oj | oj | 32025R0327 | [en](ehds/2025-03-05_oj.en.md) | [de](ehds/2025-03-05_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ehds/2025-03-05_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R0327) |
 
+## European Health Data Space dataset descriptions
+
+`ehds/hys-15673` – COMMISSION IMPLEMENTING REGULATION (EU) …/... laying down the minimum metadata elements and their characteristics to be provided by health data holders for dataset descriptions for the secondary use of electronic health data under Article 77(1) of Regulation (EU) 2025/327 establishing the European Health Data Space
+
+All texts of this act as one file: [ehds.zip](downloads/ehds.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-14_hys-draft | hys-draft | Ares(2026)3843449 | [en](ehds/hys-15673/2026-04-14_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ehds/hys-15673/2026-04-14_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e52c14c6f2) |
+
 ## EMC Directive
 
 `emc` – Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility
@@ -323,6 +353,16 @@ All texts of this act as one file: [emc.zip](downloads/emc.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2014-03-29_oj | oj | 32014L0030 | [en](emc/2014-03-29_oj.en.md) | [de](emc/2014-03-29_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/emc/2014-03-29_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0030) |
+
+## M/552 – C(2016)7641
+
+`emc/sreq-m552` – COMMISSION IMPLEMENTING DECISION of 30.11.2016 on a standardisation request to the European Committee for Standardisation, to the European Committee for Electrotechnical Standardisation and to the European Telecommunications Standards Institute as regards harmonised standards in support of Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility
+
+All texts of this act as one file: [emc.zip](downloads/emc.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2016-12-01_commission-decision | commission-decision | – | [en](emc/sreq-m552/2016-12-01_commission-decision.en.md) | [de](emc/sreq-m552/2016-12-01_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/emc/sreq-m552/2016-12-01_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2016)7641&lang=de) |
 
 ## EPA
 
