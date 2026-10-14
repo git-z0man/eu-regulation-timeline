@@ -6,18 +6,18 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 ## At a glance
 
-- Next meeting: none announced
+- Next meeting: 2026-10-21 – Ecodesign Forum
 - Last meeting: 2026-03-19 – Ecodesign Forum - Digital Product Passport (DPP) ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132242/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133412/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download))
-- Meetings since 2024: 4
+- Meetings since 2024: 7
 - Latest minutes: [Ecodesign Forum - Digital Product Passport (DPP) (2026-03-19)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download)
-- Members: 137 members: 27 Member State authorities (type D); 110 organisations (type C); 11 observers.
+- Members: 139 members: 27 Member State authorities (type D); 112 organisations (type C); 11 observers.
 - Contact: [EC-ECODESIGN-FORUM@ec.europa.eu](mailto:EC-ECODESIGN-FORUM@ec.europa.eu)
 
 ## About
 
 - Type: Formal, Permanent, Broad
 - Policy areas: Energy, Enterprise, Environment, Internal Market
-- Registered: 2024-11-07; last updated: 2026-06-04
+- Registered: 2024-11-07; last updated: 2026-10-13
 - Link: <https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en>
 
 Tasks:
@@ -41,6 +41,9 @@ Tasks:
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-06 | Ecodesign Forum | BE Centre Albert Borschette (36, rue Froissart-1049 Bruxelles) Room 0.D, Belgium | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139736/download) | – | [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139737/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139738/download) |
+| 2026-11-03 | Ecodesign Forum | BE Centre Albert Borschette (36, rue Froissart-1049 Bruxelles) Room 3.A, Belgium | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139735/download) | – | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139733/download) |
+| 2026-10-21 | Ecodesign Forum | BE Centre Albert Borschette  (36, rue Froissart-1049 Bruxelles) Room 2.A | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download) | – | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download) |
 | 2026-03-19 | Ecodesign Forum - Digital Product Passport (DPP) | BE BRUSSELS BREYDEL 2 building, Avenue d’Auderghem 19, 1040 Bruxelles | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132242/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133412/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download) | – |
 | 2025-11-24 | Ecodesign Forum | BE BRUSSELS Centre Albert Borschette  (36, rue Froissart-1049 Bruxelles) Room 0.A | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123803/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127016/download) | – |
 | 2025-04-01 | Meeting of the "Group of Experts on Ecodesign for Sustainable Products and Energy Labelling" on Electronic Displays of 1 April 2025 | VIRTUAL | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115418/download) | – | – |
@@ -48,7 +51,7 @@ Tasks:
 
 ## Members
 
-137 members: 27 Member State authorities (type D); 110 organisations (type C); 11 observers.
+139 members: 27 Member State authorities (type D); 112 organisations (type C); 11 observers.
 
 ### Member State authorities
 
@@ -161,9 +164,11 @@ Tasks:
 | [Halte à l'obsolescence programmée (HOP) (HOP)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=421243348073-71) | NGOs | European | Member |
 | [I&P Europe - Imaging and Printing Association e.V. (I&P Europe)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=03883572935-58) | Trade and business associations | European | Member |
 | [Independent Retail Europe (formerly UGAL - Union of Groups of Independent Retailers of Europe)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=034546859-02) | Trade and business associations | European | Member |
+| [industriAll European Trade Union (industriAll Europe)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=358284014848-82) | Trade Unions | European | Member |
 | [Institute for European Environmental Policy (IEEP)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=934329423960-72) | Academia, Research Institute and Think Tanks | European | Member |
 | [International Association of Lighting Designers Europe (IALD Europe)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=017514515406-70) | Professionals' Associations | United States of America | Member |
 | [International Wool Textile Organisation (IWTO)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=483986023726-90) | Trade and business associations | International | Member |
+| [IPC International, Inc.(operating as Global Electronics Association)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=390331424747-18) | Trade and business associations | International | Member |
 | [ITI - The Information Technology Industry Council (ITI)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=061601915428-87) | Trade and business associations | International | Member |
 | [Japan Business Council in Europe (JBCE)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=68368571120-55) | Trade and business associations | Japan | Observer |
 | [Korea International Trade Association (KITA)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=832390748861-69) | Trade and business associations | Korea,  South | Observer |

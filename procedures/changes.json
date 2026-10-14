@@ -2,6 +2,22 @@
  "items": [
   {
    "date": "2026-10-13",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-03 (Presidency flash note for the meeting of the Working Party on Competitiveness and Growth …), listed as not public since 2026-09-25",
+   "doc": "WK 13373/26",
+   "page": "industrial-accelerator-act.html"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-09-03 (Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …), listed as not public since 2026-09-25",
+   "doc": "WK 13361/26",
+   "page": "industrial-accelerator-act.html"
+  },
+  {
+   "date": "2026-10-13",
    "title": "CRA",
    "actor": "CYBER EUSR",
    "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – Stable draft",
@@ -47,22 +63,6 @@
    "label": "Agenda published: 40th meeting (2026-10-05)",
    "doc": "agenda",
    "page": "nis2.html"
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council compromise of 2026-07-30 (Second Presidency compromise text), listed as not public since 2026-09-25",
-   "doc": "ST 12236/26",
-   "page": "industrial-accelerator-act.html"
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-09-07 (Interplay between CADA and CSA2 - Presentation), listed as not public since 2026-09-25",
-   "doc": "WK 13637/26",
-   "page": "csa2.html"
   }
  ]
 }

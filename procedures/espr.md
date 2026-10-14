@@ -96,7 +96,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-05-28 | ST 10389/24 | council-note | Voting result Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable … | public status unknown | – | – |
 | 2024-06-14 | PE 106/23 REV 1 | council-note | Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable products, amending … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
 
 ## Texts as Markdown
 
@@ -147,6 +147,9 @@ Expert group E03969, ENER, ENV, GROW. Official source: [Register of Commission e
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
+| 2026-11-06 | Ecodesign Forum | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139736/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139737/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139738/download) |
+| 2026-11-03 | Ecodesign Forum | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139735/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139733/download) |
+| 2026-10-21 | Ecodesign Forum | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download) |
 | 2026-03-19 | Ecodesign Forum - Digital Product Passport (DPP) | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132242/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133412/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download) |
 | 2025-11-24 | Ecodesign Forum | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123803/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127016/download) |
 | 2025-04-01 | Meeting of the "Group of Experts on Ecodesign for Sustainable Products and Energy Labelling" on Electronic Displays of 1 April 2025 | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115418/download) |

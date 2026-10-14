@@ -2,6 +2,38 @@
  "items": [
   {
    "date": "2026-10-13",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-03 (Presidency flash note for the meeting of the Working Party on Competitiveness and Growth …), listed as not public since 2026-09-25",
+   "doc": "WK 13373/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13373-2026-INIT/en/pdf",
+   "key": "WK 13373/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-03",
+   "doc_title": "Presidency flash note for the meeting of the Working Party on Competitiveness and Growth …",
+   "withheld_since": "2026-09-25",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-09-03 (Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …), listed as not public since 2026-09-25",
+   "doc": "WK 13361/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf",
+   "key": "WK 13361/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-09-03",
+   "doc_title": "Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …",
+   "withheld_since": "2026-09-25",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-10-13",
    "act": "cra",
    "title": "CRA",
    "actor": "CYBER EUSR",
@@ -103,6 +135,18 @@
    "doc_title": "Interplay between CADA and CSA2 - Presentation",
    "withheld_since": "2026-09-25",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
+   "date": "2026-10-12",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26)",
+   "doc": "CM 4436/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf",
+   "key": "CM 4436/26",
+   "page": "csa2",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-12",
@@ -1243,13 +1287,12 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the … (not public)",
+   "label": "Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …",
    "doc": "WK 13361/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/89581",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf",
    "key": "WK 13361/26",
    "page": "industrial-accelerator-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-09-03",

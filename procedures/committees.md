@@ -11,7 +11,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 16 | 2026-03-04 | – |
 | [Cybersecurity Act](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
-| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 4 | 2026-03-19 | – |
+| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-03-19 | 2026-10-21 |
 | [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
 | [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 10 | 2026-06-23 | 2026-10-22 |
 | [General Product Safety Regulation](gpsr.md) | [General Product Safety Regulation Committee](committee-c127600.md) | Comitology committee | 7 | 2024-10-22 | – |
@@ -96,10 +96,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Horizontal Working Party on Cyber Issues
 
-22 meetings on the acts we follow.
+23 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Cybersecurity Act 2](csa2.md) | Title III (Certification), Articles 71-97 – Discussion ([WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127)) | [CM 4436/26](https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf) |
 | 2026-09-28 | [Cybersecurity Act 2](csa2.md) | Title IV (ICT Supply Chain) – Discussion ([WK 14487/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92913) + [ADD1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92999)) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) |
 | 2026-09-21 | [Cybersecurity Act 2](csa2.md) | Title II (ENISA) – Presentation and discussion ([WK 13671/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90341)) | [CM 4178/26](https://data.consilium.europa.eu/doc/document/CM-4178-2026-INIT/en/pdf) |
 | 2026-09-14 | [Cybersecurity Act 2](csa2.md) | Title III (Certification) – Presentation and discussion ([WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf)) | [CM 3971/26](https://data.consilium.europa.eu/doc/document/CM-3971-2026-INIT/en/pdf) |

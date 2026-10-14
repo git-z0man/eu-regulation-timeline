@@ -40,7 +40,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 | 2026-10-09 | [WK 14963/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95971) | council-note | Comments from Member States | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
 
 ## Texts as Markdown
 

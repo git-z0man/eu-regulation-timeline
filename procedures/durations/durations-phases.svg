@@ -56,20 +56,20 @@
 <text x="695.0" y="806.0" font-size="14" fill="#454c53" text-anchor="middle">months since the Commission proposal</text>
 <rect x="40" y="338" width="12" height="12" rx="2" fill="#dbe9ea"/>
 <text x="60.0" y="349.0" font-size="14" fill="#14181c" text-anchor="start">1. end of: Referral to committee</text>
-<line x1="335.3" y1="342" x2="349.5" y2="342" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<line x1="335.6" y1="342" x2="349.3" y2="342" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
 <circle cx="341.1" cy="342" r="6" fill="#6f757b"/>
-<text x="359.5" y="347.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">0.8</text>
-<line x1="337.3" y1="364" x2="357.1" y2="364" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="345.8" cy="364" r="6" fill="#0f5a63"/>
-<text x="367.1" y="369.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">1.2</text>
+<text x="359.3" y="347.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">0.8</text>
+<line x1="337.1" y1="364" x2="357.1" y2="364" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="345.5" cy="364" r="6" fill="#0f5a63"/>
+<text x="367.1" y="369.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">1.1</text>
 <rect x="40" y="400" width="12" height="12" rx="2" fill="#a9cdd1"/>
 <text x="60.0" y="411.0" font-size="14" fill="#14181c" text-anchor="start">2. end of: Committee report</text>
-<line x1="419.1" y1="404" x2="488.6" y2="404" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="445.5" cy="404" r="6" fill="#6f757b"/>
-<text x="498.6" y="409.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">8.5</text>
-<line x1="420.5" y1="426" x2="498.2" y2="426" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="465.7" cy="426" r="6" fill="#0f5a63"/>
-<text x="508.2" y="431.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">10.0</text>
+<line x1="417.1" y1="404" x2="487.7" y2="404" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="444.6" cy="404" r="6" fill="#6f757b"/>
+<text x="497.7" y="409.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">8.5</text>
+<line x1="419.7" y1="426" x2="497.9" y2="426" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="464.1" cy="426" r="6" fill="#0f5a63"/>
+<text x="507.9" y="431.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">9.9</text>
 <rect x="40" y="462" width="12" height="12" rx="2" fill="#5d969c"/>
 <text x="60.0" y="473.0" font-size="14" fill="#14181c" text-anchor="start">3. end of: Plenary mandate</text>
 <line x1="434.4" y1="466" x2="512.1" y2="466" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
@@ -88,45 +88,45 @@
 <text x="622.5" y="555.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">15.2</text>
 <rect x="40" y="586" width="12" height="12" rx="2" fill="#b9c1c4"/>
 <text x="60.0" y="597.0" font-size="14" fill="#14181c" text-anchor="start">5. end of: EP plenary vote</text>
-<line x1="478.3" y1="590" x2="641.8" y2="590" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="544.1" cy="590" r="6" fill="#6f757b"/>
-<text x="651.8" y="595.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">15.8</text>
-<line x1="491.7" y1="612" x2="640.5" y2="612" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="559.6" cy="612" r="6" fill="#0f5a63"/>
-<text x="650.5" y="617.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">17.0</text>
+<line x1="476.2" y1="590" x2="629.1" y2="590" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="531.9" cy="590" r="6" fill="#6f757b"/>
+<text x="639.1" y="595.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">14.9</text>
+<line x1="490.8" y1="612" x2="638.8" y2="612" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="557.6" cy="612" r="6" fill="#0f5a63"/>
+<text x="648.8" y="617.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">16.8</text>
 <rect x="40" y="648" width="12" height="12" rx="2" fill="#6e777d"/>
 <text x="60.0" y="659.0" font-size="14" fill="#14181c" text-anchor="start">6. end of: Council adoption</text>
-<line x1="503.7" y1="652" x2="674.2" y2="652" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="565.8" cy="652" r="6" fill="#6f757b"/>
-<text x="684.2" y="657.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">17.4</text>
-<line x1="512.1" y1="674" x2="659.1" y2="674" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="606.3" cy="674" r="6" fill="#0f5a63"/>
-<text x="669.1" y="679.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">20.4</text>
+<line x1="499.0" y1="652" x2="656.0" y2="652" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="560.1" cy="652" r="6" fill="#6f757b"/>
+<text x="666.0" y="657.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">17.0</text>
+<line x1="509.9" y1="674" x2="658.4" y2="674" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="605.8" cy="674" r="6" fill="#0f5a63"/>
+<text x="668.4" y="679.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">20.4</text>
 <rect x="40" y="710" width="12" height="12" rx="2" fill="#dfe3e5"/>
 <text x="60.0" y="721.0" font-size="14" fill="#14181c" text-anchor="start">7. end of: Signature and publication</text>
-<line x1="513.4" y1="714" x2="676.4" y2="714" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="575.6" cy="714" r="6" fill="#6f757b"/>
-<text x="686.4" y="719.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">18.2</text>
-<line x1="520.1" y1="736" x2="677.0" y2="736" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
-<circle cx="618.7" cy="736" r="6" fill="#0f5a63"/>
-<text x="687.0" y="741.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">21.4</text>
+<line x1="508.5" y1="714" x2="664.9" y2="714" stroke="#6f757b" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="570.7" cy="714" r="6" fill="#6f757b"/>
+<text x="674.9" y="719.0" font-size="12" fill="#6f757b" text-anchor="start" font-weight="bold">17.8</text>
+<line x1="520.1" y1="736" x2="676.9" y2="736" stroke="#0f5a63" stroke-width="9" stroke-linecap="round" opacity="0.35"/>
+<circle cx="616.9" cy="736" r="6" fill="#0f5a63"/>
+<text x="686.9" y="741.0" font-size="12" fill="#0f5a63" text-anchor="start" font-weight="bold">21.2</text>
 <circle cx="336" cy="296" r="6" fill="#6f757b"/>
-<text x="348.0" y="301.0" font-size="14" fill="#14181c" text-anchor="start">proposals 2014–2019 (253)</text>
+<text x="348.0" y="301.0" font-size="14" fill="#14181c" text-anchor="start">proposals 2014–2019 (267)</text>
 <circle cx="596" cy="296" r="6" fill="#0f5a63"/>
-<text x="608.0" y="301.0" font-size="14" fill="#14181c" text-anchor="start">proposals 2019–2024 (272)</text>
+<text x="608.0" y="301.0" font-size="14" fill="#14181c" text-anchor="start">proposals 2019–2024 (275)</text>
 <text x="1120.0" y="304.0" font-size="15" fill="#14181c" text-anchor="start" font-weight="bold">Each phase on its own (median months, middle half)</text>
 <text x="1400.0" y="326.0" font-size="13" fill="#6f757b" text-anchor="end" font-weight="bold">2014–2019</text>
 <text x="1540.0" y="326.0" font-size="13" fill="#0f5a63" text-anchor="end" font-weight="bold">2019–2024</text>
 <text x="1120.0" y="348.0" font-size="14" fill="#14181c" text-anchor="start">Referral to committee</text>
 <text x="1400.0" y="348.0" font-size="15" fill="#6f757b" text-anchor="end" font-weight="bold">0.8</text>
 <text x="1400.0" y="366.0" font-size="12" fill="#454c53" text-anchor="end">0.4–1.4</text>
-<text x="1540.0" y="348.0" font-size="15" fill="#0f5a63" text-anchor="end" font-weight="bold">1.2</text>
+<text x="1540.0" y="348.0" font-size="15" fill="#0f5a63" text-anchor="end" font-weight="bold">1.1</text>
 <text x="1540.0" y="366.0" font-size="12" fill="#454c53" text-anchor="end">0.5–2.0</text>
 <text x="1120.0" y="410.0" font-size="14" fill="#14181c" text-anchor="start">Committee report</text>
 <text x="1400.0" y="410.0" font-size="15" fill="#6f757b" text-anchor="end" font-weight="bold">7.4</text>
-<text x="1400.0" y="428.0" font-size="12" fill="#454c53" text-anchor="end">5.6–10.1</text>
+<text x="1400.0" y="428.0" font-size="12" fill="#454c53" text-anchor="end">5.5–10.1</text>
 <text x="1540.0" y="410.0" font-size="15" fill="#0f5a63" text-anchor="end" font-weight="bold">8.1</text>
-<text x="1540.0" y="428.0" font-size="12" fill="#454c53" text-anchor="end">5.7–11.5</text>
+<text x="1540.0" y="428.0" font-size="12" fill="#454c53" text-anchor="end">5.5–11.5</text>
 <text x="1120.0" y="472.0" font-size="14" fill="#14181c" text-anchor="start">Plenary mandate</text>
 <text x="1400.0" y="472.0" font-size="15" fill="#6f757b" text-anchor="end" font-weight="bold">0.6</text>
 <text x="1400.0" y="490.0" font-size="12" fill="#454c53" text-anchor="end">0.4–0.9</text>
@@ -144,13 +144,13 @@
 <text x="1540.0" y="614.0" font-size="12" fill="#454c53" text-anchor="end">1.1–2.6</text>
 <text x="1120.0" y="658.0" font-size="14" fill="#14181c" text-anchor="start">Council adoption</text>
 <text x="1400.0" y="658.0" font-size="15" fill="#6f757b" text-anchor="end" font-weight="bold">0.9</text>
-<text x="1400.0" y="676.0" font-size="12" fill="#454c53" text-anchor="end">0.6–1.5</text>
+<text x="1400.0" y="676.0" font-size="12" fill="#454c53" text-anchor="end">0.6–1.4</text>
 <text x="1540.0" y="658.0" font-size="15" fill="#0f5a63" text-anchor="end" font-weight="bold">0.7</text>
 <text x="1540.0" y="676.0" font-size="12" fill="#454c53" text-anchor="end">0.5–1.2</text>
 <text x="1120.0" y="720.0" font-size="14" fill="#14181c" text-anchor="start">Signature and publication</text>
 <text x="1400.0" y="720.0" font-size="15" fill="#6f757b" text-anchor="end" font-weight="bold">0.8</text>
-<text x="1400.0" y="738.0" font-size="12" fill="#454c53" text-anchor="end">0.5–1.1</text>
+<text x="1400.0" y="738.0" font-size="12" fill="#454c53" text-anchor="end">0.5–1.2</text>
 <text x="1540.0" y="720.0" font-size="15" fill="#0f5a63" text-anchor="end" font-weight="bold">0.8</text>
 <text x="1540.0" y="738.0" font-size="12" fill="#454c53" text-anchor="end">0.5–1.1</text>
-<text x="40" y="884" font-size="12" fill="#5b646b">Source: EP Legislative Observatory (OEIL), key events of 1076 COD files proposed 2014–2026, as of 10 Oct 2026; own calculation. Not an official statistic.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text x="40" y="884" font-size="12" fill="#5b646b">Source: EP Legislative Observatory (OEIL), key events of 1078 COD files proposed 2014–2026, as of 14 Oct 2026; own calculation. Not an official statistic.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </svg>

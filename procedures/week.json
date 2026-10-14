@@ -20,9 +20,9 @@
    ],
    "recap": [
     {
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "act": "Industrial Accelerator Act",
-     "text": "Council released 2 documents listed as not public, incl. Second Presidency compromise text",
+     "text": "Council released 4 documents listed as not public, incl. Second Presidency compromise text (compare version …",
      "url": "procedures/industrial-accelerator-act.html"
     },
     {
@@ -40,14 +40,14 @@
     {
      "date": "2026-10-12",
      "act": "Cybersecurity Act 2",
-     "text": "Council released 1 document listed as not public",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion …",
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-08",
-     "act": "Digital Omnibus",
+     "date": "2026-10-12",
+     "act": "Cybersecurity Act 2",
      "text": "Council released 1 document listed as not public",
-     "url": "procedures/digital-omnibus.html"
+     "url": "procedures/csa2.html"
     }
    ]
   },
@@ -78,6 +78,12 @@
     {
      "date": "2026-10-12",
      "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion …",
+     "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-10-12",
+     "act": "Cybersecurity Act 2",
      "text": "Council released 1 document listed as not public",
      "url": "procedures/csa2.html"
     },
@@ -86,12 +92,6 @@
      "act": "Digital Omnibus",
      "text": "Council released 1 document listed as not public",
      "url": "procedures/digital-omnibus.html"
-    },
-    {
-     "date": "2026-10-08",
-     "act": "Cyber Resilience Act",
-     "text": "CRA Expert Group: 6th meeting of the CRA Expert Group",
-     "url": "acts/cra.html#committees"
     }
    ]
   }

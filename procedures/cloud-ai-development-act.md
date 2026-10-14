@@ -1,14 +1,14 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 13 Oct 2026.
+Procedure 2026/0138(COD), as of 14 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 17 Sep 2026
-- **Council:** working party, latest document 10 Oct 2026
-- **Latest activity:** 10 Oct 2026 · Council: Comments from Italy (WK 15710/26)
+- **Council:** working party, latest document 12 Oct 2026
+- **Latest activity:** 12 Oct 2026 · Council: Schlussfolgerungen zu inklusiver demokratischer Teilhabe und zu Resilienz von … (ST 13980/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -46,8 +46,12 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-10 | [WK 15724/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96901) | council-note | Comments from Denmark | not public\* | – | – |
 | 2026-10-10 | [WK 15725/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96904) | council-note | Comments from Hungary | not public\* | – | – |
 | 2026-10-10 | [WK 15729/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96908) | council-note | Comments from Sweden | not public\* | – | – |
+| 2026-10-12 | [ST 13980/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97135) | council-note | Schlussfolgerungen zu inklusiver demokratischer Teilhabe und zu Resilienz von Gesellschaften und Gemeinschaften ­– Billigung | not public\* | – | – |
+| 2026-10-12 | [WK 15777/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97133) | council-note | Comments from Spain | not public\* | – | – |
+| 2026-10-12 | [WK 15778/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97136) | council-note | Comments from Greece | not public\* | – | – |
+| 2026-10-12 | [WK 15836/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97343) | council-note | Comments from Latvia | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
 
 ## Texts as Markdown
 

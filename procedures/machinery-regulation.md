@@ -52,7 +52,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the Council of … | public status unknown | – | – |
 | 2023-06-14 | PE 6/23 REV 1 | council-note | Regulation of the European Parliament and of the Council on machinery and repealing Directive 2006/42/ec of the European Parliament and of the Council and … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
 
 ## Texts as Markdown
 

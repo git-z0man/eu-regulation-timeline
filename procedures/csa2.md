@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 13 Oct 2026.
+Procedure 2026/0011(COD), as of 14 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
 - **Council:** working party, latest document 12 Oct 2026
-- **Latest activity:** 12 Oct 2026 · Council: Title III (Certification) (WK 15801/26)
+- **Latest activity:** 12 Oct 2026 · Council: Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26) (CM 4436/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -44,6 +44,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-09-10 | Council | Horizontal Working Party on Cyber Issues: Cyber posture – Presentation by the Commission and discussion | [CM 3845/26](https://data.consilium.europa.eu/doc/document/CM-3845-2026-INIT/en/pdf) | Council register, CM 3845/26 (notice of meeting and provisional agenda) |
 | 2026-09-18 | European Parliament | ITRE draft report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) · [en.md](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de.md](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | EP Open Data API (ITRE-PR-792222) |
 | 2026-09-28 | Council | Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) | Council register, CM 4269/26 (notice of meeting and provisional agenda) |
+| 2026-10-12 | Council | Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26) | [CM 4436/26](https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf) | Council register, CM 4436/26 (notice of meeting and provisional agenda) |
 
 ## Notes
 
@@ -115,14 +116,14 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-22 | [WK 14500/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92916) | council-note | Explanatory note on Title IV (Security of ICT Supply Chains) | not public\* | – | – |
 | 2026-09-22 | [WK 14518/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93046) | council-note | Template for the submission of drafting suggestions for the recitals and Articles 98-122 of the first Presidency compromise | not public\* | – | – |
 | 2026-09-24 | [WK 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93429) | council-note | Template for the submission of drafting suggestions on the first Presidency compromise (Recitals and Title IV) | not public\* | – | – |
-| 2026-09-25 | [WK 14801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93813) | council-note | Consolidated comments from Austria and other Member States on Presidency second compromise text on Title III (Certification), Article 71-97 | not public\* | – | – |
+| 2026-09-25 | [WK 14801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93813) | council-note | Member States' consolidated comments on Presidency second compromise text on Title III (Certification), Articles 71-97 | not public\* | – | – |
 | 2026-09-29 | [WK 14896/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94268) | council-note | Comments from Austria and other Member States on Recitals 1-172 and Articles 1-70 of the second Presidency compromise text | not public\* | – | – |
 | 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Title IV (ICT Supply Chain) - Presentation by the Presidency | not public\* | – | – |
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
-| 2026-10-12 | [WK 15801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97261) | council-note | Title III (Certification) | not public\* | – | – |
+| 2026-10-12 | [WK 15801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97261) | council-note | Presentation | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
 
 ## Texts as Markdown
 

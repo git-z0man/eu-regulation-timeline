@@ -195,6 +195,78 @@
    }
   },
   {
+   "id": "article/forecast-method",
+   "kind": "article",
+   "desk": "Analysis",
+   "date": "2026-10-14",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "How our forecast is made, and how to read it",
+   "deck": "When will a law that is still being negotiated be in the Official Journal? Our forecast answers with what comparable EU laws actually took, not with plans. This memo explains where it comes from, how it works, how often it was right in the past and what it cannot know.",
+   "headline_de": "Wie unser Forecast entsteht und wie man ihn liest",
+   "deck_de": "Wann steht ein Gesetz, über das noch verhandelt wird, im Amtsblatt? Unser Forecast antwortet mit dem, was vergleichbare EU-Gesetze tatsächlich gebraucht haben, nicht mit Plänen. Dieses Memo erklärt, woher er kommt, wie er rechnet, wie oft er in der Vergangenheit richtig lag und was er nicht wissen kann.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Read the article",
+     "articles/forecast-method.html"
+    ],
+    [
+     "Open",
+     "../forecast/index.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 60,
+   "crumbs": {
+    "en": [
+     "Analysis"
+    ],
+    "de": [
+     "Analyse"
+    ]
+   }
+  },
+  {
+   "id": "article/forecast-statistics",
+   "kind": "article",
+   "desk": "Analysis",
+   "date": "2026-10-14",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "The forecast for statisticians: estimand, algorithm, evaluation and limits",
+   "deck": "A technical note on our forecast of EU legislative procedures: a conditional, non-parametric reference class forecast with a size neighbourhood and a calendar transformation. Evaluated out of sample with PIT, interval coverage and the CRPS, including a check for look-ahead in our own backtest. What holds up, what does not, and where we would welcome advice.",
+   "headline_de": "Der Forecast für Statistiker: Schätzgröße, Algorithmus, Evaluation und Grenzen",
+   "deck_de": "Eine technische Notiz zu unserer Prognose von EU-Gesetzgebungsverfahren: eine bedingte, nichtparametrische Referenzklassenprognose mit Größennachbarschaft und Kalendertransformation. Außerhalb der Stichprobe geprüft mit PIT, Intervallabdeckung und CRPS, einschließlich einer Prüfung auf Look-ahead im eigenen Backtest. Was trägt, was nicht, und wo wir Rat begrüßen.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Read the article",
+     "articles/forecast-statistics.html"
+    ],
+    [
+     "Open",
+     "../forecast/index.html#method"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 60,
+   "crumbs": {
+    "en": [
+     "Analysis"
+    ],
+    "de": [
+     "Analyse"
+    ]
+   }
+  },
+  {
    "id": "article/forecast-size",
    "kind": "article",
    "desk": "Analysis",
@@ -586,6 +658,59 @@
      "Normen",
      "M/606",
      "ETSI"
+    ]
+   }
+  },
+  {
+   "id": "industrial-accelerator-act/released/2026-10-13",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-13",
+   "act": "industrial-accelerator-act",
+   "kicker": "Industrial Accelerator Act",
+   "kicker_de": "IAA",
+   "headline": "Council releases 2 Industrial Accelerator Act documents",
+   "deck": "1 compromise text, 1 note. Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 2 Dokumente zu IAA frei",
+   "deck_de": "1 Kompromisstext, 1 Vermerk. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/industrial-accelerator-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "compromise text",
+     "type_de": "Kompromisstext",
+     "rank": 0,
+     "ref": "WK 13361/26",
+     "date": "2026-09-03",
+     "title": "Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf"
+    },
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 13373/26",
+     "date": "2026-09-03",
+     "title": "Presidency flash note for the meeting of the Working Party on Competitiveness and Growth …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13373-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 43,
+   "crumbs": {
+    "en": [
+     "Industrial Accelerator Act",
+     "Legislation"
+    ],
+    "de": [
+     "IAA",
+     "Gesetzgebung"
     ]
    }
   },
@@ -996,6 +1121,44 @@
     "de": [
      "IAA",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "csa2/meeting/2026-10-12",
+   "kind": "meeting",
+   "desk": "Committees",
+   "date": "2026-10-12",
+   "act": "csa2",
+   "kicker": "Cybersecurity Act 2",
+   "kicker_de": "CSA2",
+   "headline": "Cybersecurity Act 2: Council working party meeting",
+   "deck": "Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26)",
+   "headline_de": "CSA2: Sitzung einer Ratsarbeitsgruppe",
+   "deck_de": "Tagesordnung des Rates (Titel im Original): Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/csa2.html"
+    ],
+    [
+     "Document",
+     "https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 31,
+   "crumbs": {
+    "en": [
+     "Cybersecurity Act 2",
+     "Committees"
+    ],
+    "de": [
+     "CSA2",
+     "Ausschüsse"
     ]
    }
   },
