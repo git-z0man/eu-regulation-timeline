@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "date": "2026-10-13",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – Stable draft",
+   "doc": "EN 304 634",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 633",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 632",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 631",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 619",
+   "page": "cra.html"
+  },
+  {
    "date": "2026-10-12",
    "title": "NIS-2",
    "actor": "NIS Cooperation Group",
@@ -9,60 +49,20 @@
    "page": "nis2.html"
   },
   {
-   "date": "2026-10-09",
-   "title": "MR",
-   "actor": "CLC/TC 44X",
-   "label": "FprEN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
-   "doc": "FprEN 50742:2026",
-   "page": "machinery-regulation.html"
-  },
-  {
-   "date": "2026-10-09",
-   "title": "AI Act",
-   "actor": "Artificial Intelligence Committee",
-   "label": "Voting sheet published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
-   "doc": "voting sheet",
-   "page": "ai-act.html"
-  },
-  {
-   "date": "2026-10-08",
+   "date": "2026-10-12",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Released: Council compromise of 2026-09-02 (Second Presidency compromise text), listed as not public since 2026-09-25",
-   "doc": "ST 12236/26 REV 1",
+   "label": "Released: Council compromise of 2026-07-30 (Second Presidency compromise text), listed as not public since 2026-09-25",
+   "doc": "ST 12236/26",
    "page": "industrial-accelerator-act.html"
   },
   {
-   "date": "2026-10-08",
-   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "date": "2026-10-12",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
-   "label": "Released: Council note of 2026-08-20 (Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus …), listed as not public since 2026-09-30",
-   "doc": "WK 12980/26",
-   "page": "digital-omnibus.html"
-  },
-  {
-   "date": "2026-10-08",
-   "title": "CRA",
-   "actor": "CRA Expert Group",
-   "label": "6th meeting of the CRA Expert Group",
-   "doc": "agenda",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-08",
-   "title": "AI Act",
-   "actor": "Artificial Intelligence Committee",
-   "label": "Draft implementing act published: Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures (2026-05-22)",
-   "doc": "draft implementing act v2",
-   "page": "ai-act.html"
-  },
-  {
-   "date": "2026-10-07",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 636",
-   "page": "cra.html"
+   "label": "Released: Council note of 2026-09-07 (Interplay between CADA and CSA2 - Presentation), listed as not public since 2026-09-25",
+   "doc": "WK 13637/26",
+   "page": "csa2.html"
   }
  ]
 }

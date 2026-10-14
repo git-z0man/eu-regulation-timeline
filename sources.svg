@@ -77,10 +77,10 @@
 <polyline points="440.0,343.0 500.0,343.0 500.0,341.0 600.0,341.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,341.0 591.0,345.5 591.0,336.5" fill="#8a96a3"/>
 <rect x="600.0" y="318.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="334.2">forecast_factors.py</tspan></text>
-<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="353.5">on demand</tspan></text>
+<text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="353.5">weekdays (sizes)</tspan></text>
 <polyline points="870.0,341.0 990.0,341.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,341.0 981.0,345.5 981.0,336.5" fill="#14181c"/>
 <rect x="990.0" y="318.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="344.7">Research: which properties went with the duration of procedures</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="338.1">The size of each Commission proposal for the forecast; research</tspan><tspan x="998.0" y="351.2">on what else goes with the duration</tspan></text>
 <line x1="1350.0" y1="341.0" x2="1370.0" y2="341.0" stroke="#14181c" stroke-width="1.2"/>
 <polyline points="440.0,343.0 512.0,343.0 512.0,395.0 600.0,395.0" fill="none" stroke="#8a96a3" stroke-width="1.2"/><polygon points="600.0,395.0 591.0,399.5 591.0,390.5" fill="#8a96a3"/>
 <rect x="600.0" y="372.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>

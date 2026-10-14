@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="810" viewBox="0 0 1800 810" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="823" viewBox="0 0 1800 823" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="1800" height="810" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-12">
+<rect width="1800" height="823" fill="#ffffff"/>
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-13">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0068(COD). State as of 12 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see industrial-accelerator-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0068(COD). State as of 13 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see industrial-accelerator-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -72,20 +72,20 @@
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
 <line x1="1470.0" y1="388.0" x2="1470.0" y2="403.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
-<line x1="210.0" y1="440.0" x2="210.0" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="369.1" y1="440.0" x2="369.1" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="210.0" y1="440.0" x2="210.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="369.1" y1="440.0" x2="369.1" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="369.1" y="435.1">Apr</tspan></text>
-<line x1="523.0" y1="440.0" x2="523.0" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="682.0" y1="440.0" x2="682.0" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="835.9" y1="440.0" x2="835.9" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="523.0" y1="440.0" x2="523.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="682.0" y1="440.0" x2="682.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="835.9" y1="440.0" x2="835.9" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="835.9" y="435.1">Jul</tspan></text>
-<line x1="995.0" y1="440.0" x2="995.0" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1154.1" y1="440.0" x2="1154.1" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1308.0" y1="440.0" x2="1308.0" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="995.0" y1="440.0" x2="995.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1154.1" y1="440.0" x2="1154.1" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1308.0" y1="440.0" x2="1308.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1308.0" y="435.1">Oct</tspan></text>
-<line x1="1467.0" y1="440.0" x2="1467.0" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1620.9" y1="440.0" x2="1620.9" y2="726.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1780.0" y1="440.0" x2="1780.0" y2="726.0" stroke="#b5bac0" stroke-width="1"/>
+<line x1="1467.0" y1="440.0" x2="1467.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1620.9" y1="440.0" x2="1620.9" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="739.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="435.1">Jan 2027</tspan></text>
 <rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
@@ -101,15 +101,15 @@
 <rect x="20.0" y="611.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="624.9">Trilogues (informal)</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="624.1">no events yet</tspan></text>
-<rect x="20.0" y="635.0" width="1760.0" height="63.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="639.0" width="6.0" height="55.0" fill="#4a3aa7" stroke="none"/>
-<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="670.4">Council</tspan></text>
-<rect x="20.0" y="698.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="702.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
-<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="715.9">Signature and publication</tspan></text>
-<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="715.1">no events yet</tspan></text>
-<line x1="1364.4" y1="440.0" x2="1364.4" y2="726.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1364.4" y="736.1">as of 12 Oct 2026</tspan></text>
+<rect x="20.0" y="635.0" width="1760.0" height="76.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="639.0" width="6.0" height="68.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="676.9">Council</tspan></text>
+<rect x="20.0" y="711.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="715.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="728.9">Signature and publication</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="728.1">no events yet</tspan></text>
+<line x1="1369.5" y1="440.0" x2="1369.5" y2="739.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1369.5" y="749.1">as of 13 Oct 2026</tspan></text>
 <rect x="221.4" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="225.4" y="462.1">04 Mar 2026 · Commission proposal (COM(2026) 100)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100" target="_blank"><title>4 Mar 2026: Commission proposal – COM(2026) 100</title><polygon points="225.3921568627451,465 233.3921568627451,473 225.3921568627451,481 217.3921568627451,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -133,19 +133,23 @@
 <g><title>30 Apr 2026: Referral to committee announced in plenary</title><polygon points="517.8431372549019,558.5 523.3431372549019,564 517.8431372549019,569.5 512.3431372549019,564" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf" target="_blank"><title>11 Sep 2026: CJ80 draft report – PE792.067</title><polygon points="1205.3594771241828,558.5 1210.8594771241828,564 1205.3594771241828,569.5 1199.8594771241828,564" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <g><title>5 Oct 2026: Committee opinion adopted</title><polygon points="1328.4967320261437,558.5 1333.9967320261437,564 1328.4967320261437,569.5 1322.9967320261437,564" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
-<rect x="790.9" y="648.0" width="299.4" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="794.9" y="657.1">23 Jun 2026 · Partial Presidency compromise text (ST 10817/26)</tspan></text></a>
-<rect x="806.3" y="677.0" width="299.4" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="810.3" y="686.1">26 Jun 2026 · Partial Presidency compromise text (ST 11237/26)</tspan></text></a>
-<rect x="1155.2" y="648.0" width="322.9" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1159.2" y="657.1">02 Sep 2026 · Second Presidency compromise text (ST 12236/26 REV 1)</tspan></text></a>
-<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="343.4" y="656.9">Working Party on Competitiveness and Growth: 1 meeting (27 Mar 2026 – 27 Mar 2026; ● each)</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2064-2026-INIT/en/pdf" target="_blank"><title>27 Mar 2026: Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission, followed by … – CM 2064/26</title><polygon points="343.39869281045753,664.5 346.89869281045753,668 343.39869281045753,671.5 339.89869281045753,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf" target="_blank"><title>23 Jun 2026: Partial Presidency compromise text – ST 10817/26</title><polygon points="794.9019607843137,662.5 800.4019607843137,668 794.9019607843137,673.5 789.4019607843137,668" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf" target="_blank"><title>26 Jun 2026: Partial Presidency compromise text – ST 11237/26</title><polygon points="810.2941176470588,662.5 815.7941176470588,668 810.2941176470588,673.5 804.7941176470588,668" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf" target="_blank"><title>2 Sep 2026: Second Presidency compromise text – ST 12236/26 REV 1</title><polygon points="1159.1830065359477,662.5 1164.6830065359477,668 1159.1830065359477,673.5 1153.6830065359477,668" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="757.9">Notes</tspan></text>
-<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="775.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
+<line x1="984.7" y1="661.0" x2="984.7" y2="675.0" stroke="#c3c8cd" stroke-width="1"/>
+<rect x="790.9" y="661.0" width="299.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="794.9" y="670.1">23 Jun 2026 · Partial Presidency compromise text (ST 10817/26)</tspan></text></a>
+<rect x="806.3" y="690.0" width="299.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="810.3" y="699.1">26 Jun 2026 · Partial Presidency compromise text (ST 11237/26)</tspan></text></a>
+<rect x="980.7" y="648.0" width="294.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="984.7" y="657.1">30 Jul 2026 · Second Presidency compromise text (ST 12236/26)</tspan></text></a>
+<rect x="1155.2" y="661.0" width="322.9" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1159.2" y="670.1">02 Sep 2026 · Second Presidency compromise text (ST 12236/26 REV 1)</tspan></text></a>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="343.4" y="669.9">Working Party on Competitiveness and Growth: 1 meeting (27 Mar 2026 – 27 Mar 2026; ● each)</tspan></text>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2064-2026-INIT/en/pdf" target="_blank"><title>27 Mar 2026: Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission, followed by … – CM 2064/26</title><polygon points="343.39869281045753,677.5 346.89869281045753,681 343.39869281045753,684.5 339.89869281045753,681" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf" target="_blank"><title>23 Jun 2026: Partial Presidency compromise text – ST 10817/26</title><polygon points="794.9019607843137,675.5 800.4019607843137,681 794.9019607843137,686.5 789.4019607843137,681" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf" target="_blank"><title>26 Jun 2026: Partial Presidency compromise text – ST 11237/26</title><polygon points="810.2941176470588,675.5 815.7941176470588,681 810.2941176470588,686.5 804.7941176470588,681" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf" target="_blank"><title>30 Jul 2026: Second Presidency compromise text – ST 12236/26</title><polygon points="984.7385620915034,675.5 990.2385620915034,681 984.7385620915034,686.5 979.2385620915034,681" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf" target="_blank"><title>2 Sep 2026: Second Presidency compromise text – ST 12236/26 REV 1</title><polygon points="1159.1830065359477,675.5 1164.6830065359477,681 1159.1830065359477,686.5 1153.6830065359477,681" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="770.9">Notes</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="788.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="801.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="814.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </svg>

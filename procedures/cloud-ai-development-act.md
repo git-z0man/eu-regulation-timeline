@@ -1,14 +1,14 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 12 Oct 2026.
+Procedure 2026/0138(COD), as of 13 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 17 Sep 2026
-- **Council:** working party, latest document 29 Sep 2026
-- **Latest activity:** 29 Sep 2026 · Council: Cloud and AI Development Act: Presentation (WK 15040/26)
+- **Council:** working party, latest document 10 Oct 2026
+- **Latest activity:** 10 Oct 2026 · Council: Comments from Italy (WK 15710/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -32,8 +32,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-06-04 | [ST 10104/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-4/en/pdf) | council-transmission | Commission staff working document executive summary of the impact assessment report Accompanying the document Proposal for a Regulation of the European … | public | – | – |
 | 2026-06-04 | [ST 10104/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-5/en/pdf) | council-transmission | Regulatory Scrutiny Board Opinion | public | – | – |
 | 2026-06-05 | [ST 10104/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-10104-2026-ADD-3/en/pdf) | council-transmission | PART 2/2 Commission staff working document impact assessment report Accompanying the document Proposal for a Regulation of the European Parliament and of the … | public | – | – |
-| 2026-06-16 | WK 8754/26 | council-note | Cloud and AI Development Act (CADA) – Impact Assessment: Presentation | not public\* | – | – |
-| 2026-06-16 | WK 8757/26 | council-note | Claud and AI Development Act (CADA): Presentation | not public\* | – | – |
+| 2026-06-16 | [WK 8754/26](https://data.consilium.europa.eu/doc/document/WK-8754-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act (CADA) – Impact Assessment: Presentation | public | 2026-10-12 | – |
+| 2026-06-16 | [WK 8757/26](https://data.consilium.europa.eu/doc/document/WK-8757-2026-INIT/en/pdf) | council-note | Claud and AI Development Act (CADA): Presentation | public | 2026-10-12 | – |
 | 2026-07-07 | [WK 10169/26](https://data.consilium.europa.eu/doc/document/WK-10169-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | public | – | – |
 | 2026-08-24 | [WK 13042/26](https://data.consilium.europa.eu/doc/document/WK-13042-2026-INIT/en/pdf) | council-note | EDPS Opinion on the Proposal for a Regulation establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development … | public | – | – |
 | 2026-09-09 | [WK 13788/26](https://data.consilium.europa.eu/doc/document/WK-13788-2026-INIT/en/pdf) | council-note | Cloud and AI Development Act: Presentation | public | – | – |
@@ -41,8 +41,13 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-28 | [ST 13557/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93992) | council-note | Optional consultation of the Committee of the Regions | not public\* | – | – |
 | 2026-09-28 | [ST 13682/26](https://data.consilium.europa.eu/doc/document/ST-13682-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | public | – | – |
 | 2026-09-29 | WK 15040/26 | council-note | Cloud and AI Development Act: Presentation | not public\* | – | – |
+| 2026-10-10 | [WK 15710/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96852) | council-note | Comments from Italy | not public\* | – | – |
+| 2026-10-10 | [WK 15723/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96898) | council-note | Comments from Bulgaria | not public\* | – | – |
+| 2026-10-10 | [WK 15724/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96901) | council-note | Comments from Denmark | not public\* | – | – |
+| 2026-10-10 | [WK 15725/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96904) | council-note | Comments from Hungary | not public\* | – | – |
+| 2026-10-10 | [WK 15729/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96908) | council-note | Comments from Sweden | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-12.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
 
 ## Texts as Markdown
 

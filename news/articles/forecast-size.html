@@ -1,0 +1,176 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Large laws take longer: our forecast now compares like with like – EU regulation timeline</title><meta name="description" content="We tested which properties of a proposal go with how long the EU takes to adopt it. Size wins clearly; commas, consultations and the State of the Union address do not. Since 13 October the forecast compares each file with files of similar size, and most dates move later."><style>
+:root { --bg: var(--s-paper); --panel: var(--s-sheet); --ink: var(--s-ink); --muted: var(--s-ink2); --line: var(--s-hair);
+  --accent: var(--s-accent); --chip: var(--s-tint); --rule: var(--s-rule); }
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--s-sans); font-variant-numeric: tabular-nums; }
+a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+a:hover { text-decoration-color: currentColor; }
+a:focus-visible, button:focus-visible, summary:focus-visible, select:focus-visible, input:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px; }
+h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 6px 0 6px; text-wrap: balance; }
+h2 { font: 600 22px/1.25 var(--s-serif); margin: 40px 0 12px; padding-bottom: 6px; border-bottom: 3px solid var(--rule);
+  text-wrap: balance; }
+h3 { font-size: 16px; font-weight: 700; margin: 22px 0 6px; }
+p { max-width: 80ch; }
+.muted { color: var(--muted); } .small { font-size: 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 15px; background: var(--panel); }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--rule); }
+td.nowrap { white-space: nowrap; }
+tbody th { font-weight: 600; border-bottom: 1px solid var(--line); }   /* a row heading: a hairline, as every row */
+.table { overflow-x: auto; }
+/* phones: a table of two or three columns fits the screen and wraps; a wider one is read as one block per row
+   (`phone-stack`, tools/sitenav.py); one that cannot be (merged cells) keeps readable columns and scrolls sideways
+   inside its frame, the page does not */
+@media (max-width: 700px) { .table > table:where(:has(tr > :nth-child(4)):not(.phone-stack)) { min-width: 720px; }
+  .table > table:where(:not(:has(tr > :nth-child(4)))) td { overflow-wrap: anywhere; } }
+details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
+td > details, td > details > summary { margin-top: 0; }   /* a fold-out in a cell starts on the row's first line */
+code { font: 0.92em ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+footer { color: var(--muted); font-size: 14px; margin-top: 36px; padding-top: 10px; border-top: 1px solid var(--line); }
+footer p { max-width: none; }
+/* a switch of several views or filters: text with an underline, not pills */
+.toggles button, button.toggle { font: inherit; color: var(--muted); background: none; border: 0; border-bottom: 2px solid transparent;
+  padding: 2px 0; cursor: pointer; }
+.toggles button:hover, button.toggle:hover { color: var(--ink); border-bottom-color: var(--line); }
+.toggles button[aria-pressed="true"], button.toggle[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 18px 16px 48px; }
+.crumbs { font-size: 14px; color: var(--muted); }
+.deck { font: 400 19px/1.5 var(--s-serif); color: var(--muted); max-width: 70ch; margin: 8px 0 4px; }
+.meta { font-size: 14px; color: var(--muted); margin: 0 0 10px; }
+.lang { margin: 6px 0 0; } .lang button { margin-right: 14px; }
+li { margin: 6px 0; max-width: 78ch; }
+td:not(:first-child), th:not(:first-child) { white-space: nowrap; }
+</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script></head><body><style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("../../fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("../../fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("../../fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("../../fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
+@media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
+:root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
+@media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
+
+.sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
+  border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
+.sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
+.sitenav a.item { color: var(--s-ink); text-decoration: none; padding: 6px 0; white-space: nowrap;
+  border-bottom: 2px solid transparent; }
+.sitenav a.item:hover { border-bottom-color: var(--s-hair); }
+.sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
+.sitenav .brandbox { display: inline-flex; margin-right: 10px; }
+.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+  text-decoration: none; padding: 6px 0; white-space: nowrap; }
+.sitenav a.repo span { display: none; }   /* the icon alone */
+.sitenav a:focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+@media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; } }
+/* phones: brand and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+@media (max-width: 640px) { .sitenav { gap: 2px 14px; }
+  .sitenav .brandbox { order: -2; flex: 1 0 calc(100% - 40px); margin-right: 0; }
+  .sitenav a.repo { order: -1; margin-left: 0; }
+  .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
+.sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
+  font: 14px/1.5 var(--s-sans); }
+.sitefoot a { color: var(--s-ink2); }
+.sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
+::selection { background: var(--s-accent-tint); color: var(--s-ink); }
+html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
+</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../../index.html">EU regulation timeline</a></span><a class="item" href="../../index.html">Timeline</a><a class="item" href="../../acts/index.html">Regulations</a><a class="item" href="../../procedures/index.html">Procedures</a><a class="item" href="../../forecast/index.html">Forecast</a><a class="item" href="../../news/index.html" aria-current="page">News</a><a class="item" href="../../procedures/changes.html">Latest activity</a><a class="item" href="../../procedures/standardisation.html">Standards</a><a class="item" href="../../procedures/committees.html">Committees</a><a class="item" href="../../texts/index.html">Texts</a><a class="item" href="../../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav><div class="wrap"><main id="main"><div class="lang toggles" role="group" aria-label="Language"><button type="button" data-set="en">English</button><button type="button" data-set="de">Deutsch</button></div><article data-lang="en" lang="en"><div class="crumbs"><a href="../index.html">Regulation Desk</a> › Analysis</div><h1>Large laws take longer: our forecast now compares like with like</h1><p class="deck">We tested which properties of a proposal go with how long the EU takes to adopt it. Size wins clearly; commas, consultations and the State of the Union address do not. Since 13 October the forecast compares each file with files of similar size, and most dates move later.</p><p class="meta">13 Oct 2026</p><h2>Where we started</h2>
+<p>On 10 October we published a <a href="../../forecast/index.html">forecast</a> of when the open EU legislative procedures we follow are likely to reach the Official Journal. It compares each file with every file of the ordinary legislative procedure since 2012 that was negotiated in trilogues, from the step the file has reached. It also said what it did not know: political priority, the size of a file, deals between the institutions and crises.</p>
+<h2>An expert's question</h2>
+<p>An expert of VDMA, the German mechanical engineering industry association, suggested looking at complexity: the number of articles, the amount of legal text, the number of commas or commas per article. The hunch was that this would give a better model than looking at the past alone. The second question was whether proposals are becoming more complex.</p>
+<h2>What we measured</h2>
+<p>For all 1,347 files of the ordinary legislative procedure since 2012 in the European Parliament's Legislative Observatory, we measured the English text of the Commission proposal in the same way for every year: recitals, articles and annexes, words and commas. 1,288 of 1,330 proposals could be measured. We added the committees, rapporteurs and political groups, the consultations on "Have your say", the State of the Union addresses, the Joint Declarations on legislative priorities, crises and the election calendar.</p>
+<p>Each candidate was tested twice. First, how it went with the durations. Second, on files it had not seen: a model built on the proposals of 2012 to 2017 had to say which of the proposals of 2018 to 2022 would be finished first. Only the second test shows whether a factor would make a forecast better.</p>
+<h2>What we found</h2>
+<ul><li><b>Size matters most.</b> Proposals in the smallest quarter by words of legal text, up to about 3,700 words, took a median of 14 months of working time to the Official Journal. Those in the largest quarter, from about 16,800 words, took 28 months. Recitals, articles, words and commas all measure the same thing: size.</li><li><b>Commas as such do not.</b> Commas per 100 words, a measure of how dense the wording is, show no link with the duration. Commas only count because long texts have many of them.</li><li><b>The election deadline shapes the calendar.</b> In the three months before Parliament's last session before an election, it voted on about six times as many files at first reading as in an average month of the term. Of the proposals made in the last year before that deadline, 69 to 82 % were carried over into the next term.</li><li><b>Packages finish together.</b> Proposals sent to the same committee on the same day took longer, but their provisional agreements were a median of 0.4 months apart.</li><li><b>Priority helps, but not always.</b> Files on the Joint Declarations for 2021 and 2022 reached agreement about three times as fast as comparable files that were not listed. For 2023/24 there was no difference.</li><li><b>Crises create a class of their own.</b> Urgent procedures and votes without a committee report took weeks, not years. Most of them had no trilogues, so they are outside the files the forecast compares with.</li><li><b>No clear link</b> for the State of the Union address, the number of responses on "Have your say", or the rapporteur's political group once size is taken into account.</li></ul>
+<h2>Before and after: the backtest</h2>
+<p>A correlation is not enough; what counts is whether the forecast gets better. We forecast each of the 421 files proposed in 2016 to 2021 again from the day of its proposal, with only what was known on that day: once as before, and once comparing each file only with the 40 % of files nearest to it in size.</p>
+<div class="table"><table><thead><tr><th></th><th>Before</th><th>By size</th></tr></thead><tbody><tr><td>Median error</td><td>8.4 months</td><td>7.6 months</td></tr><tr><td>Largest quarter of proposals: forecast too early by (median)</td><td>6.2 months</td><td>2.3 months</td></tr><tr><td>Smallest quarter: forecast too late by (median)</td><td>9.4 months</td><td>5.9 months</td></tr><tr><td>Real date in the middle half of the forecast (target 50 %)</td><td>52 %</td><td>51 %</td></tr><tr><td>Real date in the eight-in-ten range (target 80 %)</td><td>75 %</td><td>73 %</td></tr></tbody></table></div>
+<p>The error by size shrinks, and the ranges stay about as reliable as before. We tried two variants; the other one, with only the files of the same size quarter, had a smaller median error (7.1 months) but ranges that were too narrow. Choosing the better of two makes the result slightly optimistic.</p>
+<h2>What changes in the forecast</h2>
+<p>Since 13 October the public forecast compares each file with files of similar size. Almost all open files we follow are among the largest proposals since 2012, so most dates move later. The Chips Act 2.0 moves from May to October 2028 and the Cloud and AI Development Act from May to September 2028. The Cybersecurity Act 2, the Industrial Accelerator Act and the simplification of the medical devices rules move from February to May 2028. The Public Procurement Act moves from August to November 2028, and the New Standardisation Regulation from July to October 2028. The NIS-2 amendment, a short proposal, moves from February to January 2028. The European Product Act has not been proposed yet, so it is still compared with files of every size. All thirteen remain more likely than not to be published before the 2029 elections. The earlier forecast stays in the <a href="../../forecast/archive/2026-10-10/index.html">archive</a>.</p>
+<h2>Are proposals getting more complex?</h2>
+<p>The typical proposal had about 4,000 to 5,400 words of legal text in 2012 to 2017, and about 7,100 to 9,400 in 2021 to 2023. Commas per 100 words rose from 3.2–3.5 to 4.0–4.5. The trend is weak but clear: the rank correlation with the year is +0.14 for the words and +0.31 for the density of commas. Files from before 2012 would make this firmer; we have not measured them yet.</p>
+<h2>What it cannot say</h2>
+<p>A correlation is not a cause: size may also stand for importance or for conflict, and the data cannot separate them. The forecast describes how long comparable laws took; it does not say what Parliament and Council will decide. Political deals and new crises remain outside it.</p><p class="small muted"><b>Sources:</b> EP Legislative Observatory, procedure files of all COD files since 2012 (data of 10 Oct 2026); Commission proposals (COM), English text in EUR-Lex/Cellar; Better Regulation portal &quot;Have your say&quot;; Joint Declarations on the EU&#x27;s legislative priorities for 2021, 2022, 2023/24 and 2026. Our own assessment from public sources, CC BY 4.0.</p></article><article data-lang="de" lang="de"><div class="crumbs"><a href="../index.html">Regulation Desk</a> › Analyse</div><h1>Große Gesetze brauchen länger: Unser Forecast vergleicht jetzt Gleiches mit Gleichem</h1><p class="deck">Wir haben geprüft, welche Merkmale eines Vorschlags mit der Dauer bis zur Verabschiedung zusammenhängen. Der Umfang gewinnt deutlich; Kommas, Konsultationen und die State-of-the-Union-Rede nicht. Seit dem 13. Oktober vergleicht der Forecast jedes Verfahren mit Verfahren ähnlicher Größe, und die meisten Termine rücken nach hinten.</p><p class="meta">13. Okt. 2026</p><h2>Der Ausgangspunkt</h2>
+<p>Am 10. Oktober haben wir einen <a href="../../forecast/index.html">Forecast</a> veröffentlicht: wann die laufenden EU-Gesetzgebungsverfahren, die wir verfolgen, voraussichtlich im Amtsblatt stehen. Er vergleicht jedes Verfahren mit allen Verfahren des ordentlichen Gesetzgebungsverfahrens seit 2012, die im Trilog verhandelt wurden, und zwar ab dem Schritt, den das Verfahren erreicht hat. Er sagte auch, was er nicht weiß: politische Priorität, den Umfang eines Verfahrens, Deals zwischen den Institutionen und Krisen.</p>
+<h2>Die Frage eines Experten</h2>
+<p>Ein Experte des VDMA, des Verbands Deutscher Maschinen- und Anlagenbau, regte an, die Komplexität zu prüfen: die Zahl der Artikel, die Menge an Rechtstext, die Zahl der Kommas oder die Kommas pro Artikel. Seine Vermutung war, so entstehe ein besseres Modell als mit dem Blick auf die Vergangenheit allein. Die zweite Frage war, ob die Vorschläge komplexer werden.</p>
+<h2>Was wir gemessen haben</h2>
+<p>Für alle 1.347 Verfahren des ordentlichen Gesetzgebungsverfahrens seit 2012 in der Legislative Observatory des Europäischen Parlaments haben wir den englischen Text des Kommissionsvorschlags für jeden Jahrgang gleich vermessen: Erwägungsgründe, Artikel und Anhänge, Wörter und Kommas. 1.288 von 1.330 Vorschlägen ließen sich messen. Dazu kamen die Ausschüsse, Berichterstatter und Fraktionen, die Konsultationen auf „Have your say“, die State-of-the-Union-Reden, die Gemeinsamen Erklärungen zu den Gesetzgebungsprioritäten, Krisen und der Wahlkalender.</p>
+<p>Jeder Kandidat wurde zweimal geprüft. Erstens, wie er mit der Dauer zusammenhing. Zweitens an Verfahren, die er nicht kannte: Ein Modell aus den Vorschlägen von 2012 bis 2017 musste sagen, welche der Vorschläge von 2018 bis 2022 zuerst fertig werden. Nur die zweite Prüfung zeigt, ob ein Merkmal eine Prognose besser machen würde.</p>
+<h2>Was wir gefunden haben</h2>
+<ul><li><b>Der Umfang zählt am meisten.</b> Vorschläge im kleinsten Viertel nach Wörtern Rechtstext, bis etwa 3.700 Wörter, brauchten im Median 14 Arbeitsmonate bis zum Amtsblatt. Die im größten Viertel, ab etwa 16.800 Wörtern, brauchten 28 Monate. Erwägungsgründe, Artikel, Wörter und Kommas messen alle dasselbe: die Größe.</li><li><b>Kommas an sich zählen nicht.</b> Kommas pro 100 Wörter, ein Maß dafür, wie dicht der Text formuliert ist, hängen nicht mit der Dauer zusammen. Kommas zählen nur, weil lange Texte viele davon haben.</li><li><b>Die Wahlfrist prägt den Kalender.</b> In den drei Monaten vor der letzten Plenartagung vor einer Europawahl stimmte das Parlament über etwa sechsmal so viele Verfahren in erster Lesung ab wie im Durchschnittsmonat der Wahlperiode. Von den Vorschlägen aus dem letzten Jahr vor dieser Frist wurden 69 bis 82 % in die nächste Wahlperiode übertragen.</li><li><b>Pakete werden gemeinsam fertig.</b> Vorschläge, die am selben Tag an denselben Ausschuss gingen, dauerten länger, aber ihre vorläufigen Einigungen lagen im Median 0,4 Monate auseinander.</li><li><b>Priorität hilft, aber nicht immer.</b> Verfahren auf den Gemeinsamen Erklärungen für 2021 und 2022 einigten sich etwa dreimal so schnell wie vergleichbare, die nicht gelistet waren. Für 2023/24 gab es keinen Unterschied.</li><li><b>Krisen bilden eine eigene Klasse.</b> Dringlichkeitsverfahren und Abstimmungen ohne Ausschussbericht dauerten Wochen, nicht Jahre. Die meisten kamen ohne Trilog aus und liegen damit außerhalb der Verfahren, mit denen der Forecast vergleicht.</li><li><b>Kein klarer Zusammenhang</b> bei der State-of-the-Union-Rede, der Zahl der Rückmeldungen auf „Have your say“ und der Fraktion des Berichterstatters, sobald man die Größe berücksichtigt.</li></ul>
+<h2>Vorher und nachher: der Rückblick-Test</h2>
+<p>Ein Zusammenhang reicht nicht; entscheidend ist, ob der Forecast besser wird. Wir haben jedes der 421 Verfahren, die 2016 bis 2021 vorgeschlagen wurden, noch einmal vom Tag seines Vorschlags aus prognostiziert, mit nur dem, was an jenem Tag bekannt war: einmal wie bisher und einmal nur im Vergleich mit den 40 % der Verfahren, die ihm in der Größe am nächsten sind.</p>
+<div class="table"><table><thead><tr><th></th><th>Vorher</th><th>Nach Größe</th></tr></thead><tbody><tr><td>Medianfehler</td><td>8,4 Monate</td><td>7,6 Monate</td></tr><tr><td>Größtes Viertel der Vorschläge: Prognose zu früh um (Median)</td><td>6,2 Monate</td><td>2,3 Monate</td></tr><tr><td>Kleinstes Viertel: Prognose zu spät um (Median)</td><td>9,4 Monate</td><td>5,9 Monate</td></tr><tr><td>Tatsächlicher Termin in der mittleren Hälfte der Prognose (Soll 50 %)</td><td>52 %</td><td>51 %</td></tr><tr><td>Tatsächlicher Termin in acht von zehn (Soll 80 %)</td><td>75 %</td><td>73 %</td></tr></tbody></table></div>
+<p>Der Fehler nach Größe schrumpft, und die Spannen bleiben etwa so verlässlich wie zuvor. Wir haben zwei Varianten probiert; die andere, nur mit den Verfahren desselben Größenviertels, hatte einen kleineren Medianfehler (7,1 Monate), aber zu schmale Spannen. Die bessere von zwei zu wählen, macht das Ergebnis leicht optimistisch.</p>
+<h2>Was sich im Forecast ändert</h2>
+<p>Seit dem 13. Oktober vergleicht der öffentliche Forecast jedes Verfahren mit Verfahren ähnlicher Größe. Fast alle laufenden Verfahren, die wir verfolgen, gehören zu den größten Vorschlägen seit 2012, deshalb rücken die meisten Termine nach hinten. Der Chips Act 2.0 rückt von Mai auf Oktober 2028, der Cloud and AI Development Act von Mai auf September 2028. Der Cybersecurity Act 2, der Industrial Accelerator Act und die Vereinfachung der Medizinprodukte-Regeln rücken von Februar auf Mai 2028. Der Public Procurement Act rückt von August auf November 2028, die neue Normungsverordnung von Juli auf Oktober 2028. Die NIS-2-Änderung, ein kurzer Vorschlag, rückt von Februar auf Januar 2028 vor. Der European Product Act ist noch nicht vorgeschlagen; er wird deshalb weiter mit Verfahren jeder Größe verglichen. Bei allen dreizehn bleibt eine Veröffentlichung vor der Europawahl 2029 wahrscheinlicher als nicht. Der bisherige Forecast bleibt im <a href="../../forecast/archive/2026-10-10/index.html">Archiv</a>.</p>
+<h2>Werden die Vorschläge komplexer?</h2>
+<p>Der typische Vorschlag hatte 2012 bis 2017 etwa 4.000 bis 5.400 Wörter Rechtstext, 2021 bis 2023 etwa 7.100 bis 9.400. Die Kommas pro 100 Wörter stiegen von 3,2–3,5 auf 4,0–4,5. Der Trend ist schwach, aber deutlich: Die Rangkorrelation mit dem Jahr beträgt +0,14 bei den Wörtern und +0,31 bei der Kommadichte. Verfahren vor 2012 würden die Aussage belastbarer machen; sie sind noch nicht vermessen.</p>
+<h2>Was er nicht sagen kann</h2>
+<p>Ein Zusammenhang ist keine Ursache: Die Größe kann auch für Bedeutung oder Streit stehen, und die Daten können das nicht trennen. Der Forecast beschreibt, wie lange vergleichbare Gesetze brauchten; er sagt nicht, was Parlament und Rat entscheiden werden. Politische Deals und neue Krisen bleiben außerhalb.</p><p class="small muted"><b>Quellen:</b> EP Legislative Observatory, procedure files of all COD files since 2012 (data of 10 Oct 2026); Commission proposals (COM), English text in EUR-Lex/Cellar; Better Regulation portal &quot;Have your say&quot;; Joint Declarations on the EU&#x27;s legislative priorities for 2021, 2022, 2023/24 and 2026. Unsere eigene Einschätzung aus öffentlichen Quellen, CC BY 4.0.</p></article><div class="sitefoot">EU regulation timeline, a private project by <a href="../../about.html">Steffen Zimmermann</a> · <a href="../../LICENSE.md">CC BY 4.0</a></div></main></div><script>let lang = 'en'; try { lang = localStorage.getItem('desk-lang') || 'en'; } catch (e) {}const show = l => { lang = l; document.documentElement.lang = l; document.querySelectorAll('article[data-lang]').forEach(x => { x.hidden = x.dataset.lang !== l; }); document.querySelectorAll('[data-set]').forEach(b => b.setAttribute('aria-pressed', b.dataset.set === l)); try { localStorage.setItem('desk-lang', l); } catch (e) {} };document.querySelectorAll('[data-set]').forEach(b => b.addEventListener('click', () => show(b.dataset.set)));show(lang);</script></body></html>

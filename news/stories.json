@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-13",
+ "edition": "2026-10-14",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 101,
+   "score": 99,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -94,7 +94,7 @@
     "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
     "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
    },
-   "score": 69,
+   "score": 67,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -138,7 +138,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 66,
+   "score": 64,
    "crumbs": {
     "en": [
      "European Product Act",
@@ -182,7 +182,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 63,
+   "score": 61,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -190,6 +190,86 @@
     ],
     "de": [
      "KI-VO",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "article/forecast-size",
+   "kind": "article",
+   "desk": "Analysis",
+   "date": "2026-10-13",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "Large laws take longer: our forecast now compares like with like",
+   "deck": "We tested which properties of a proposal go with how long the EU takes to adopt it. Size wins clearly; commas, consultations and the State of the Union address do not. Since 13 October the forecast compares each file with files of similar size, and most dates move later.",
+   "headline_de": "Große Gesetze brauchen länger: Unser Forecast vergleicht jetzt Gleiches mit Gleichem",
+   "deck_de": "Wir haben geprüft, welche Merkmale eines Vorschlags mit der Dauer bis zur Verabschiedung zusammenhängen. Der Umfang gewinnt deutlich; Kommas, Konsultationen und die State-of-the-Union-Rede nicht. Seit dem 13. Oktober vergleicht der Forecast jedes Verfahren mit Verfahren ähnlicher Größe, und die meisten Termine rücken nach hinten.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Read the article",
+     "articles/forecast-size.html"
+    ],
+    [
+     "Open",
+     "../forecast/index.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 58,
+   "crumbs": {
+    "en": [
+     "Analysis"
+    ],
+    "de": [
+     "Analyse"
+    ]
+   }
+  },
+  {
+   "id": "csa2/released/2026-10-12",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-12",
+   "act": "csa2",
+   "kicker": "Cybersecurity Act 2",
+   "kicker_de": "CSA2",
+   "headline": "Council releases 1 Cybersecurity Act 2 document",
+   "deck": "1 note. Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu CSA2 frei",
+   "deck_de": "1 Vermerk. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/csa2.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 13637/26",
+     "date": "2026-09-07",
+     "title": "Interplay between CADA and CSA2 - Presentation",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13637-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 56,
+   "crumbs": {
+    "en": [
+     "Cybersecurity Act 2",
+     "Legislation"
+    ],
+    "de": [
+     "CSA2",
      "Gesetzgebung"
     ]
    }
@@ -220,7 +300,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -260,7 +340,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 51,
+   "score": 49,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -304,7 +384,7 @@
     }
    ],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -346,7 +426,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -355,6 +435,157 @@
     "de": [
      "CSA2",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "cra/standards/M606/2026-W42",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-13",
+   "act": "cra",
+   "kicker": "Cyber Resilience Act",
+   "kicker_de": "CRA",
+   "headline": "Cyber Resilience Act · M/606: 5 status updates this week",
+   "deck": "ETSI 5. Furthest step: Drafting prEN.",
+   "headline_de": "CRA · M/606: 5 Statusänderungen diese Woche",
+   "deck_de": "ETSI 5. Weitester Schritt: Entwurf prEN.",
+   "facts": [
+    "M/606",
+    "Request expires 30 Nov 2027"
+   ],
+   "facts_de": [
+    "M/606",
+    "Auftrag läuft aus 30. Nov. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 304 634: Drafting Stage – Stable draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419"
+    },
+    {
+     "label": "EN 304 633: Approval Stage – Closing of approval procedure",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418"
+    },
+    {
+     "label": "EN 304 632: Approval Stage – Closing of approval procedure",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417"
+    },
+    {
+     "label": "EN 304 631: Approval Stage – Closing of approval procedure",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420"
+    },
+    {
+     "label": "EN 304 619: Approval Stage – Closing of approval procedure",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411"
+    }
+   ],
+   "brief": null,
+   "score": 43,
+   "tree": {
+    "vertical": {
+     "ETSI": {
+      "CYBER EUSR": [
+       {
+        "project": "EN 304 634",
+        "title": "Cybersecurity requirements for personal wearable",
+        "now": "Drafting Stage – Stable draft",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": [
+         2,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 304 633",
+        "title": "Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC that have social interactive features (e.g. speaking or filming) or that have location tracking features CRA Internet connected toys Topic # 33 full scope",
+        "now": "Approval Stage – Closing of approval procedure",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
+        "step": null,
+        "prev": [
+         2,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 304 632",
+        "title": "Cybersecurity requirements for smart home products with security functionalities; including smart door locks, security cameras, baby monitoring systems and alarm systems CRA Smart home security products Topic # 32 full",
+        "now": "Approval Stage – Closing of approval procedure",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
+        "step": null,
+        "prev": [
+         2,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 304 631",
+        "title": "Cybersecurity requirements for smart home general purpose virtual assistants",
+        "now": "Approval Stage – Closing of approval procedure",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
+        "step": null,
+        "prev": [
+         2,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 304 619",
+        "title": "Cybersecurity requirements for software that searches for, removes, or quarantines malicious software",
+        "now": "Approval Stage – Closing of approval procedure",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
+        "step": null,
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/606",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Cyber Resilience Act",
+     "Standards",
+     "M/606",
+     "ETSI"
+    ],
+    "de": [
+     "CRA",
+     "Normen",
+     "M/606",
+     "ETSI"
     ]
    }
   },
@@ -391,7 +622,7 @@
     }
    ],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -434,6 +665,103 @@
    }
   },
   {
+   "id": "cloud-ai-development-act/released/2026-10-12",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-12",
+   "act": "cloud-ai-development-act",
+   "kicker": "Cloud and AI Development Act",
+   "kicker_de": "CADA",
+   "headline": "Council releases 2 Cloud and AI Development Act documents",
+   "deck": "2 notes. Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 2 Dokumente zu CADA frei",
+   "deck_de": "2 Vermerke. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/cloud-ai-development-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 8757/26",
+     "date": "2026-06-16",
+     "title": "Claud and AI Development Act (CADA): Presentation",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-8757-2026-INIT/en/pdf"
+    },
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 8754/26",
+     "date": "2026-06-16",
+     "title": "Cloud and AI Development Act (CADA) – Impact Assessment: Presentation",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-8754-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 41,
+   "crumbs": {
+    "en": [
+     "Cloud and AI Development Act",
+     "Legislation"
+    ],
+    "de": [
+     "CADA",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "industrial-accelerator-act/released/2026-10-12",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-12",
+   "act": "industrial-accelerator-act",
+   "kicker": "Industrial Accelerator Act",
+   "kicker_de": "IAA",
+   "headline": "Council releases 1 Industrial Accelerator Act document",
+   "deck": "1 compromise text. Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu IAA frei",
+   "deck_de": "1 Kompromisstext. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/industrial-accelerator-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "compromise text",
+     "type_de": "Kompromisstext",
+     "rank": 0,
+     "ref": "ST 12236/26",
+     "date": "2026-07-30",
+     "title": "Second Presidency compromise text",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 41,
+   "crumbs": {
+    "en": [
+     "Industrial Accelerator Act",
+     "Legislation"
+    ],
+    "de": [
+     "IAA",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
    "id": "standardisation-revision/legislation/COM-2026-780",
    "kind": "legislation",
    "desk": "Legislation",
@@ -459,7 +787,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -615,7 +943,7 @@
     "en": "The released papers include Member States' comments on the certification rules (Articles 71-97) and the Presidency's second compromise text on Title III: the basis for reading the third compromise text when it is published.",
     "de": "Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist."
    },
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -624,46 +952,6 @@
     "de": [
      "CSA2",
      "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "topic/high-risk-suppliers",
-   "kind": "topic",
-   "desk": "Analysis",
-   "date": "2026-09-29",
-   "act": "csa2",
-   "kicker": "Cybersecurity Act 2",
-   "kicker_de": "CSA2",
-   "headline": "New topic page: High-risk suppliers",
-   "deck": "\"High-risk supplier\" is on its way to becoming a horizontal eligibility filter in EU law: it would decide who may supply key ICT assets of essential and important entities, take part in public procurement and auctions, receive public support and EU funding, and take part in European standardisation, certification and conformity assessment.",
-   "headline_de": "Neue Themenseite: Hochrisiko-Lieferanten",
-   "deck_de": "„Hochrisiko-Lieferant“ wird zu einem horizontalen Filter im EU-Recht: Er entscheidet, wer wichtige IKT-Komponenten wesentlicher und wichtiger Einrichtungen liefern, an Vergaben und Auktionen teilnehmen, öffentliche Förderung und EU-Mittel erhalten und an europäischer Normung, Zertifizierung und Konformitätsbewertung mitwirken darf.",
-   "facts": [
-    "53 provisions",
-    "4 stakeholder views"
-   ],
-   "facts_de": [
-    "53 Fundstellen",
-    "4 Sichten"
-   ],
-   "links": [
-    [
-     "Read the topic",
-     "../acts/topic-high-risk-suppliers.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 37,
-   "crumbs": {
-    "en": [
-     "Cybersecurity Act 2",
-     "Analysis"
-    ],
-    "de": [
-     "CSA2",
-     "Analyse"
     ]
    }
   },
@@ -699,7 +987,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -733,7 +1021,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 33,
+   "score": 31,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -778,7 +1066,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -821,48 +1109,6 @@
    }
   },
   {
-   "id": "chips-act-2/compromise/ST-13545-26",
-   "kind": "compromise",
-   "desk": "Legislation",
-   "date": "2026-09-29",
-   "act": "chips-act-2",
-   "kicker": "Chips Act 2.0",
-   "kicker_de": "Chips-Gesetz 2.0",
-   "headline": "Chips Act 2.0: Presidency compromise text (not public)",
-   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
-   "headline_de": "Chips-Gesetz 2.0: Kompromisstext der Präsidentschaft",
-   "deck_de": "Titel im Original: Presidency compromise text (not public). Vorschlag der Präsidentschaft, nicht die Position des Rates.",
-   "facts": [
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/chips-act-2.html"
-    ],
-    [
-     "Document",
-     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/94343"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 27,
-   "crumbs": {
-    "en": [
-     "Chips Act 2.0",
-     "Legislation"
-    ],
-    "de": [
-     "Chips-Gesetz 2.0",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
    "id": "machinery-regulation/standards/M605/2026-W40",
    "kind": "standard",
    "desk": "Standards",
@@ -899,7 +1145,7 @@
     "en": "A step further: prEN ISO 14159 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN ISO 14159 auf Entwurf EN."
    },
-   "score": 25,
+   "score": 23,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -967,7 +1213,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -976,231 +1222,6 @@
     "de": [
      "CRA",
      "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "cra/standards/M606/2026-W40",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-10-02",
-   "act": "cra",
-   "kicker": "Cyber Resilience Act",
-   "kicker_de": "CRA",
-   "headline": "Cyber Resilience Act · M/606: 8 status updates in week 40",
-   "deck": "ETSI 6 · CEN-CENELEC 2. Furthest step: Drafting EN.",
-   "headline_de": "CRA · M/606: 8 Statusänderungen in KW 40",
-   "deck_de": "ETSI 6 · CEN-CENELEC 2. Weitester Schritt: Entwurf EN.",
-   "facts": [
-    "M/606",
-    "Request expires 30 Nov 2027"
-   ],
-   "facts_de": [
-    "M/606",
-    "Auftrag läuft aus 30. Nov. 2027"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/cra.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 304 627: Approval Stage – Comments categorisation assessed",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416"
-    },
-    {
-     "label": "EN 304 619: Drafting Stage – Stable draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411"
-    },
-    {
-     "label": "EN 40000-1-2:2026: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073"
-    },
-    {
-     "label": "EN 40000-1-1:2026: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B"
-    },
-    {
-     "label": "EN 304 626: Drafting Stage – 7 VR – EC assessment before EV received",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415"
-    },
-    {
-     "label": "EN 304 625: Drafting Stage – 7 VR – EC assessment before EV received",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
-    },
-    {
-     "label": "EN 304 620: Drafting Stage – 7 VR – EC assessment before EV received",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409"
-    },
-    {
-     "label": "EN 304 617: Drafting Stage – 7 VR – EC assessment before EV received",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "4 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 627, EN 304 619, EN 40000-1-2:2026 …).",
-    "de": "4 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 627, EN 304 619, EN 40000-1-2:2026 …)."
-   },
-   "score": 24,
-   "tree": {
-    "vertical": {
-     "ETSI": {
-      "CYBER EUSR": [
-       {
-        "project": "EN 304 627",
-        "title": "Cybersecurity requirements for routers, modems intended for the connection to the internet, and switches",
-        "now": "Approval Stage – Comments categorisation assessed",
-        "date": "2026-10-02",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416",
-        "step": [
-         3,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 304 619",
-        "title": "Cybersecurity requirements for software that searches for, removes, or quarantines malicious software",
-        "now": "Drafting Stage – Stable draft",
-        "date": "2026-10-02",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 304 626",
-        "title": "Cybersecurity requirements for operating systems",
-        "now": "Drafting Stage – 7 VR – EC assessment before EV received",
-        "date": "2026-09-29",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 304 625",
-        "title": "Cybersecurity requirements for physical and virtual network interfaces",
-        "now": "Drafting Stage – 7 VR – EC assessment before EV received",
-        "date": "2026-09-29",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 304 620",
-        "title": "Cybersecurity requirements for Virtual Private Networks (VPNs)",
-        "now": "Drafting Stage – 7 VR – EC assessment before EV received",
-        "date": "2026-09-29",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 304 617",
-        "title": "Cybersecurity requirements for browsers",
-        "now": "Drafting Stage – 7 VR – EC assessment before EV received",
-        "date": "2026-09-29",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    },
-    "horizontal": {
-     "CEN-CENELEC": {
-      "CEN/CLC/JTC 13": [
-       {
-        "project": "EN 40000-1-2:2026",
-        "title": "Cybersecurity requirements for products with digital elements - Part 1-2: Principles, product risk management, and lifecycle activities",
-        "now": "Under Approval",
-        "date": "2026-10-01",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
-        "step": [
-         3,
-         false,
-         false
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 40000-1-1:2026",
-        "title": "Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary",
-        "now": "Under Approval",
-        "date": "2026-10-01",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
-        "step": [
-         3,
-         false,
-         false
-        ],
-        "prev": null,
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/606",
-    "org": null
-   },
-   "crumbs": {
-    "en": [
-     "Cyber Resilience Act",
-     "Standards",
-     "M/606"
-    ],
-    "de": [
-     "CRA",
-     "Normen",
-     "M/606"
     ]
    }
   },
@@ -1281,7 +1302,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1290,6 +1311,121 @@
     "de": [
      "NIS-2-Änderung",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "cra/standards/M606/2026-W40",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-02",
+   "act": "cra",
+   "kicker": "Cyber Resilience Act",
+   "kicker_de": "CRA",
+   "headline": "Cyber Resilience Act · M/606: 3 status updates in week 40",
+   "deck": "ETSI 1 · CEN-CENELEC 2. Furthest step: Drafting EN.",
+   "headline_de": "CRA · M/606: 3 Statusänderungen in KW 40",
+   "deck_de": "ETSI 1 · CEN-CENELEC 2. Weitester Schritt: Entwurf EN.",
+   "facts": [
+    "M/606",
+    "Request expires 30 Nov 2027"
+   ],
+   "facts_de": [
+    "M/606",
+    "Auftrag läuft aus 30. Nov. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 304 627: Approval Stage – Comments categorisation assessed",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416"
+    },
+    {
+     "label": "EN 40000-1-2:2026: Under Approval",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073"
+    },
+    {
+     "label": "EN 40000-1-1:2026: Under Approval",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B"
+    }
+   ],
+   "brief": null,
+   "score": 19,
+   "tree": {
+    "vertical": {
+     "ETSI": {
+      "CYBER EUSR": [
+       {
+        "project": "EN 304 627",
+        "title": "Cybersecurity requirements for routers, modems intended for the connection to the internet, and switches",
+        "now": "Approval Stage – Comments categorisation assessed",
+        "date": "2026-10-02",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416",
+        "step": [
+         3,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    },
+    "horizontal": {
+     "CEN-CENELEC": {
+      "CEN/CLC/JTC 13": [
+       {
+        "project": "EN 40000-1-2:2026",
+        "title": "Cybersecurity requirements for products with digital elements - Part 1-2: Principles, product risk management, and lifecycle activities",
+        "now": "Under Approval",
+        "date": "2026-10-01",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
+        "step": [
+         3,
+         false,
+         false
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 40000-1-1:2026",
+        "title": "Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary",
+        "now": "Under Approval",
+        "date": "2026-10-01",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
+        "step": [
+         3,
+         false,
+         false
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/606",
+    "org": null
+   },
+   "crumbs": {
+    "en": [
+     "Cyber Resilience Act",
+     "Standards",
+     "M/606"
+    ],
+    "de": [
+     "CRA",
+     "Normen",
+     "M/606"
     ]
    }
   },
@@ -1315,7 +1451,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1360,7 +1496,7 @@
     }
    ],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1430,7 +1566,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1464,7 +1600,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1496,7 +1632,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1528,7 +1664,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -1560,7 +1696,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 10,
+   "score": 8,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1594,7 +1730,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -1626,7 +1762,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -1658,7 +1794,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -1690,7 +1826,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -1722,7 +1858,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 6,
+   "score": 4,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -1756,7 +1892,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -1788,7 +1924,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 3,
+   "score": 1,
    "crumbs": {
     "en": [
      "This site"
@@ -1820,7 +1956,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 1,
+   "score": -1,
    "crumbs": {
     "en": [
      "This site"
@@ -1856,7 +1992,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1864,40 +2000,6 @@
     ],
     "de": [
      "Vergabe-Rechtsakt (PPA)",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "ai-act/committee/2026-09-29",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-09-29",
-   "act": "ai-act",
-   "kicker": "Artificial Intelligence Act",
-   "kicker_de": "KI-VO",
-   "headline": "Summary record published: AI Committee meeting (2026-05-21)",
-   "deck": "Artificial Intelligence Committee.",
-   "headline_de": "KI-VO: Ausschussdokument veröffentlicht",
-   "deck_de": "Artificial Intelligence Committee (Titel im Original): Summary record published: AI Committee meeting (2026-05-21)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/ai-act.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "Artificial Intelligence Act",
-     "Committees"
-    ],
-    "de": [
-     "KI-VO",
      "Ausschüsse"
     ]
    }
@@ -1909,6 +2011,12 @@
    "act": "Ecodesign for Sustainable Products Regulation",
    "text": "Feedback closes: Proposal for a regulation, Omnibus simplification of energy-efficient product legislation",
    "url": "../procedures/espr.html"
+  },
+  {
+   "date": "2026-10-20",
+   "act": "Machinery Regulation",
+   "text": "Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025",
+   "url": "../acts/machinery-regulation.html"
   }
  ],
  "groups": {

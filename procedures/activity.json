@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "date": "2026-10-13",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – Stable draft",
+   "doc": "EN 304 634",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
+   "key": "eso-DEN/CYBER-EUS-003-2026-10-13",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 633",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
+   "key": "eso-DEN/CYBER-EUS-004-2026-10-13",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 632",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
+   "key": "eso-DEN/CYBER-EUS-0014-2026-10-13",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 631",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
+   "key": "eso-DEN/CYBER-EUS-0011-2026-10-13",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 619",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
+   "key": "eso-DEN/CYBER-EUS-0018-2026-10-13",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-12",
    "act": "nis2",
    "title": "NIS-2",
@@ -11,6 +71,70 @@
    "key": "NIS-CG-https://ec.europa.eu/newsroom/dae/redirection/document/133294",
    "page": "nis2",
    "type": "Committees"
+  },
+  {
+   "date": "2026-10-12",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-07-30 (Second Presidency compromise text), listed as not public since 2026-09-25",
+   "doc": "ST 12236/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf",
+   "key": "ST 12236/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-07-30",
+   "doc_title": "Second Presidency compromise text",
+   "withheld_since": "2026-09-25",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-10-12",
+   "act": "csa2",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-07 (Interplay between CADA and CSA2 - Presentation), listed as not public since 2026-09-25",
+   "doc": "WK 13637/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13637-2026-INIT/en/pdf",
+   "key": "WK 13637/26-released",
+   "page": "csa2",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-07",
+   "doc_title": "Interplay between CADA and CSA2 - Presentation",
+   "withheld_since": "2026-09-25",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
+   "date": "2026-10-12",
+   "act": "cloud-ai-development-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-06-16 (Cloud and AI Development Act (CADA) – Impact Assessment: Presentation), listed as not public since 2026-09-25",
+   "doc": "WK 8754/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-8754-2026-INIT/en/pdf",
+   "key": "WK 8754/26-released",
+   "page": "cloud-ai-development-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-06-16",
+   "doc_title": "Cloud and AI Development Act (CADA) – Impact Assessment: Presentation",
+   "withheld_since": "2026-09-25",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)"
+  },
+  {
+   "date": "2026-10-12",
+   "act": "cloud-ai-development-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-06-16 (Claud and AI Development Act (CADA): Presentation), listed as not public since 2026-09-25",
+   "doc": "WK 8757/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-8757-2026-INIT/en/pdf",
+   "key": "WK 8757/26-released",
+   "page": "cloud-ai-development-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-06-16",
+   "doc_title": "Claud and AI Development Act (CADA): Presentation",
+   "withheld_since": "2026-09-25",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)"
   },
   {
    "date": "2026-10-09",
@@ -532,18 +656,6 @@
    "type": "Standardisation"
   },
   {
-   "date": "2026-10-02",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Drafting Stage – Stable draft",
-   "doc": "EN 304 619",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
-   "key": "eso-DEN/CYBER-EUS-0018-2026-10-02",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-10-01",
    "act": "machinery-regulation",
    "title": "MR",
@@ -797,18 +909,6 @@
    "type": "Committees"
   },
   {
-   "date": "2026-09-23",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 634",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
-   "key": "eso-DEN/CYBER-EUS-003-2026-09-23",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-09-22",
    "act": "standardisation-regulation",
    "title": "Standardisation Regulation",
@@ -916,18 +1016,6 @@
    "doc": "EN 304 635",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74858",
    "key": "eso-DEN/CYBER-EUS-0016-2026-09-17",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-17",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 631",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
-   "key": "eso-DEN/CYBER-EUS-0011-2026-09-17",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -1063,30 +1151,6 @@
    "key": "CM 3999/26",
    "page": "space-act",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-09-11",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 633",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
-   "key": "eso-DEN/CYBER-EUS-004-2026-09-11",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-11",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 632",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
-   "key": "eso-DEN/CYBER-EUS-0014-2026-09-11",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-09-10",
@@ -1400,19 +1464,6 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Second Presidency compromise text (not public)",
-   "doc": "ST 12236/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/86106",
-   "key": "ST 12236/26",
-   "page": "industrial-accelerator-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
-  },
-  {
-   "date": "2026-07-30",
-   "act": "industrial-accelerator-act",
-   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
-   "actor": "Council",
    "label": "Second Presidency compromise text (compare version of doc ST 12236/26 to the Commission … (not public)",
    "doc": "WK 11078/26",
    "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/86111",
@@ -1433,6 +1484,18 @@
    "page": "industrial-accelerator-act",
    "type": "Legislation",
    "listed": "council-compromise"
+  },
+  {
+   "date": "2026-07-30",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Second Presidency compromise text",
+   "doc": "ST 12236/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf",
+   "key": "ST 12236/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-07-30",
@@ -5935,42 +5998,6 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4496-2025-INIT/en/pdf",
    "key": "CM 4496/25",
    "page": "space-act",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-10-13",
-   "act": "toy-safety-regulation",
-   "title": "Toy Safety Regulation – Regulation (EU) 2025/2509",
-   "actor": "Council",
-   "label": "Council adopts its position at first reading (Art. 294(5) TFEU)",
-   "doc": "ST 9663/25 REV 1",
-   "url": null,
-   "key": "ST 9663/25 REV 1",
-   "page": "toy-safety-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-10-13",
-   "act": "product-digitalisation-regulation",
-   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
-   "actor": "Council",
-   "label": "Omnibus simplification legislative packages - Progress report",
-   "doc": "ST 13787/25",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-13787-2025-INIT/en/pdf",
-   "key": "ST 13787/25",
-   "page": "product-digitalisation-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-10-13",
-   "act": "product-digitalisation-directive",
-   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
-   "actor": "Council",
-   "label": "Omnibus simplification legislative packages - Progress report",
-   "doc": "ST 13787/25",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-13787-2025-INIT/en/pdf",
-   "key": "ST 13787/25",
-   "page": "product-digitalisation-directive",
    "type": "Legislation"
   }
  ]

@@ -1,14 +1,14 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 7 Oct 2026.
+Procedure 2026/0011(COD), as of 13 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
-- **Council:** working party, latest document 2 Oct 2026
-- **Latest activity:** 2 Oct 2026 · Council: Presidency third compromise text on Title III (European Cybersecurity Certification … (WK 15236/26)
+- **Council:** working party, latest document 12 Oct 2026
+- **Latest activity:** 12 Oct 2026 · Council: Title III (Certification) (WK 15801/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -99,7 +99,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-08-07 | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | council-compromise | Presidency second compromise text Title III<br>*Our summary:* Presidency second compromise text of 7 August 2026 on Title III of the CSA2 proposal (European cybersecurity certification framework, Articles 71-97), following WK 7571/26; a draft, not law. It changes 42 provisions, mainly on how certification schemes are requested and prepared: feasibility studies by ENISA move from the recitals into Article 72, the ECCG can ask the Commission to request a candidate scheme (Article 73), ENISA has 12 months to prepare one unless the request sets another timeframe (Article 74), and the appeal against decisions of notified conformity assessment bodies becomes a separate Article 94a. Title IV (ICT supply chain security, high-risk suppliers) is reproduced unchanged from the Commission proposal, so the higher number of mentions of high-risk suppliers reflects a wider text, not a change. | public | 2026-10-02 | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
 | 2026-08-07 | [WK 11265/26](https://data.consilium.europa.eu/doc/document/WK-11265-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on the Presidency second compromise text on Title III (European Cybersecurity Certification Framework, … | public | 2026-10-02 | – |
 | 2026-09-04 | [WK 13545/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89949) | council-note | Cybersecurity Act 2: explanatory note on Title III (European Cybersecurity Certification Framework) | not public\* | – | – |
-| 2026-09-07 | WK 13637/26 | council-note | Interplay between CADA and CSA2 - Presentation | not public\* | – | – |
+| 2026-09-07 | [WK 13637/26](https://data.consilium.europa.eu/doc/document/WK-13637-2026-INIT/en/pdf) | council-note | Interplay between CADA and CSA2 - Presentation | public | 2026-10-12 | – |
 | 2026-09-08 | [WK 13671/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90341) | council-compromise | Presidency second compromise text Title II (ENISA) | not public\* | – | – |
 | 2026-09-08 | [WK 13734/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90471) | council-note | Template for the submission of drafting suggestions | not public\* | – | – |
 | 2026-09-10 | [WK 13885/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90897) | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Member States' answers | not public\* | – | – |
@@ -120,8 +120,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Title IV (ICT Supply Chain) - Presentation by the Presidency | not public\* | – | – |
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
+| 2026-10-12 | [WK 15801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97261) | council-note | Title III (Certification) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-12.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-13.
 
 ## Texts as Markdown
 
