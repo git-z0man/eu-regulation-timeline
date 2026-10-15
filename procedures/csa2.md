@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 14 Oct 2026.
+Procedure 2026/0011(COD), as of 15 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
 - **Council:** working party, latest document 12 Oct 2026
-- **Latest activity:** 12 Oct 2026 · Council: Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26) (CM 4436/26)
+- **Latest activity:** 13 Oct 2026 · European Parliament: EP amendments (PE796.470)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -122,8 +122,12 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
 | 2026-10-12 | [WK 15801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97261) | council-note | Presentation | not public\* | – | – |
+| 2026-10-13 | PE796.470 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-13 | PE796.484 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-13 | PE796.485 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-13 | PE796.501 | ep-amendments | – | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-15.
 
 ## Texts as Markdown
 

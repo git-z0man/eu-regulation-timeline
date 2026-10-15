@@ -53,7 +53,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-09 | WK 15711/26 | council-note | Presidency flash note for the meetings of the Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0) on 12 and 13 October 2026 | not public\* | – | – |
 | 2026-10-12 | [WK 15830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97385) | council-note | Proposal on Chips Act 2.0 – Presentation by the Commission on certain provisions of Pillar II of the proposal | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-15.
 
 ## Texts as Markdown
 

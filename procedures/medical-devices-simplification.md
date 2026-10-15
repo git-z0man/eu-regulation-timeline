@@ -1,6 +1,6 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 14 Oct 2026.
+Procedure 2025/0404(COD), as of 15 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
@@ -111,7 +111,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-17 | [WK 14267/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92154) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-10-09 | [ST 12919/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96980) | council-note | Regulation to simplify rules on medical and in vitro diagnostic medical devices - Guidance for future work | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-14.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-15.
 
 ## Texts as Markdown
 

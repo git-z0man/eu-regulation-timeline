@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-14",
+ "as_of": "2026-10-15",
  "views": [
   {
    "key": "all",
@@ -16,6 +16,12 @@
      "act": "Machinery Regulation",
      "text": "Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025",
      "url": "acts/machinery-regulation.html"
+    },
+    {
+     "date": "2026-10-21",
+     "act": "Ecodesign for Sustainable Products Regulation",
+     "text": "Ecodesign Forum: Ecodesign Forum",
+     "url": "procedures/committee-e03969.html"
     }
    ],
    "recap": [
@@ -26,15 +32,15 @@
      "url": "procedures/industrial-accelerator-act.html"
     },
     {
-     "date": "2026-10-13",
+     "date": "2026-10-15",
      "act": "Cyber Resilience Act",
-     "text": "6 standardisation projects moved on, e.g. EN 304 633: Approval Stage – Closing of approval procedure",
+     "text": "7 standardisation projects moved on, e.g. EN 304 633: Approval Stage – Comments categorisation assessed",
      "url": "acts/cra.html#standardisation"
     },
     {
      "date": "2026-10-09",
      "act": "Machinery Regulation",
-     "text": "Standardisation: FprEN 50742:2026: Under Approval",
+     "text": "Standardisation: EN 50742:2026: Under Approval",
      "url": "acts/machinery-regulation.html#standardisation"
     },
     {
@@ -64,15 +70,15 @@
    ],
    "recap": [
     {
-     "date": "2026-10-13",
+     "date": "2026-10-15",
      "act": "Cyber Resilience Act",
-     "text": "6 standardisation projects moved on, e.g. EN 304 633: Approval Stage – Closing of approval procedure",
+     "text": "7 standardisation projects moved on, e.g. EN 304 633: Approval Stage – Comments categorisation assessed",
      "url": "acts/cra.html#standardisation"
     },
     {
      "date": "2026-10-09",
      "act": "Machinery Regulation",
-     "text": "Standardisation: FprEN 50742:2026: Under Approval",
+     "text": "Standardisation: EN 50742:2026: Under Approval",
      "url": "acts/machinery-regulation.html#standardisation"
     },
     {

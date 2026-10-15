@@ -6,9 +6,9 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 ## At a glance
 
-- Next meeting: none announced
+- Next meeting: 2026-10-26 – 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE
 - Last meeting: 2025-07-04 – Invitation to the 4th meeting of the Net-Zero Technologies Committee ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/112850/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112851/1/consult))
-- Meetings since 2024: 4
+- Meetings since 2024: 5
 - Latest summary record: [Invitation to the 4th meeting of the Net-Zero Technologies Committee (2025-07-04)](https://ec.europa.eu/transparency/comitology-register/screen/documents/112851/1/consult)
 
 ## About
@@ -19,6 +19,7 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-26 | [5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1743/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118491/1/consult) | – | – |
 | 2025-07-04 | [Invitation to the 4th meeting of the Net-Zero Technologies Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1222/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/112850/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112851/1/consult) | – |
 | 2025-04-09 | [3rd meeting of the Net-Zero Technologies Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)626/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/106652/1/consult) | – | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/106653/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/106709/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/113623/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/113624/1/consult) |
 | 2025-02-12 | [2nd meeting Net-zero technologies Comitology Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)275/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/104947/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112849/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/104948/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/104949/1/consult) |

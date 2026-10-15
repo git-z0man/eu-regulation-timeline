@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "date": "2026-10-15",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 633",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 632",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 631",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 624",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 621",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 619",
+   "page": "cra.html"
+  },
+  {
    "date": "2026-10-13",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
@@ -15,54 +63,6 @@
    "label": "Released: Council compromise of 2026-09-03 (Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …), listed as not public since 2026-09-25",
    "doc": "WK 13361/26",
    "page": "industrial-accelerator-act.html"
-  },
-  {
-   "date": "2026-10-13",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – Stable draft",
-   "doc": "EN 304 634",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-13",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 633",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-13",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 632",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-13",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 631",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-13",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 619",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-12",
-   "title": "NIS-2",
-   "actor": "NIS Cooperation Group",
-   "label": "Agenda published: 40th meeting (2026-10-05)",
-   "doc": "agenda",
-   "page": "nis2.html"
   }
  ]
 }

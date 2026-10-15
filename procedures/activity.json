@@ -1,6 +1,78 @@
 {
  "items": [
   {
+   "date": "2026-10-15",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 633",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
+   "key": "eso-DEN/CYBER-EUS-004-2026-10-15",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-15",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 632",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
+   "key": "eso-DEN/CYBER-EUS-0014-2026-10-15",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-15",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 631",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
+   "key": "eso-DEN/CYBER-EUS-0011-2026-10-15",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-15",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 624",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837",
+   "key": "eso-DEN/CYBER-EUS-0015-2026-10-15",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-15",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 621",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
+   "key": "eso-DEN/CYBER-EUS-009-2026-10-15",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-15",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 619",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
+   "key": "eso-DEN/CYBER-EUS-0018-2026-10-15",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-13",
    "act": "industrial-accelerator-act",
    "actor": "Council",
@@ -41,54 +113,6 @@
    "doc": "EN 304 634",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
    "key": "eso-DEN/CYBER-EUS-003-2026-10-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 633",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
-   "key": "eso-DEN/CYBER-EUS-004-2026-10-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 632",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
-   "key": "eso-DEN/CYBER-EUS-0014-2026-10-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 631",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
-   "key": "eso-DEN/CYBER-EUS-0011-2026-10-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 619",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
-   "key": "eso-DEN/CYBER-EUS-0018-2026-10-13",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -185,10 +209,10 @@
    "act": "machinery-regulation",
    "title": "MR",
    "actor": "CLC/TC 44X",
-   "label": "FprEN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
-   "doc": "FprEN 50742:2026",
+   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
+   "doc": "EN 50742:2026",
    "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
-   "key": "eso-FprEN 50742:2026-2026-10-09",
+   "key": "eso-EN 50742:2026-2026-10-09",
    "page": "machinery-regulation",
    "type": "Standardisation"
   },
@@ -1410,30 +1434,6 @@
    "doc": "EN 304 622",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
    "key": "eso-DEN/CYBER-EUS-0010-2026-08-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-08-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 304 621",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
-   "key": "eso-DEN/CYBER-EUS-009-2026-08-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-08-10",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Drafting Stage – 7 V – EC assessment before EV requested",
-   "doc": "EN 304 624",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837",
-   "key": "eso-DEN/CYBER-EUS-0015-2026-08-10",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -6030,18 +6030,6 @@
    ],
    "page": "nzia",
    "type": "Committees"
-  },
-  {
-   "date": "2025-10-14",
-   "act": "space-act",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "Council",
-   "label": "Space Working Party meeting: Examination (doc. ) (10935/25+ADD 1)",
-   "doc": "CM 4496/25",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4496-2025-INIT/en/pdf",
-   "key": "CM 4496/25",
-   "page": "space-act",
-   "type": "Legislation"
   }
  ]
 }

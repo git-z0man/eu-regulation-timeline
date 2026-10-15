@@ -25,7 +25,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [NIS 2 Directive](nis2.md) | [Cybersecurity Committee](committee-c127400.md) | Comitology committee | 3 | 2024-10-02 | – |
 | [NIS 2 Directive](nis2.md) | [NIS Cooperation Group](committee-nis-cg.md) | Group set up by the act | 11 | 2026-10-05 | – |
 | [Net Zero Industry Act](nzia.md) | [Energy Union Committee](committee-c51000.md) | Comitology committee | 5 | 2026-06-09 | – |
-| [Net Zero Industry Act](nzia.md) | [Net-zero technologies committee](committee-c129000.md) | Comitology committee | 4 | 2025-07-04 | – |
+| [Net Zero Industry Act](nzia.md) | [Net-zero technologies committee](committee-c129000.md) | Comitology committee | 5 | 2025-07-04 | 2026-10-26 |
 | [Net Zero Industry Act](nzia.md) | [Advisory Committee for Public Contracts](committee-c16300.md) | Comitology committee | 9 | 2026-02-11 | – |
 | [Net Zero Industry Act](nzia.md) | [Expert Group on Net-Zero Technologies and Supply Chains](committee-e03968.md) | Expert group | 5 | 2025-04-09 | – |
 | [Product Liability Directive](pld.md) | [Expert Group on Product Liability](committee-e03995.md) | Expert group | 0 | – | – |

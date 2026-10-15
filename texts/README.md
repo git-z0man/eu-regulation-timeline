@@ -88,6 +88,16 @@ All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-10-12_hys-draft | hys-draft | Ares(2026)9589403 | [en](ai-act/hys-19292/2026-10-12_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/hys-19292/2026-10-12_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e534f8b82e) |
 
+## Implementing Decision (EU) 2026/2274 (harmonised standards, high-risk AI)
+
+`ai-act/implementing-decision-2026-2274` – Commission Implementing Decision (EU) 2026/2274 of 12 October 2026 on the harmonised standards for high-risk AI systems drafted in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council
+
+All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-13_oj | oj | 32026D2274 | [en](ai-act/implementing-decision-2026-2274/2026-10-13_oj.en.md) | [de](ai-act/implementing-decision-2026-2274/2026-10-13_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/implementing-decision-2026-2274/2026-10-13_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026D2274) |
+
 ## Implementing Regulation (EU) 2025/454
 
 `ai-act/implementing-regulation-2025-454` – Commission Implementing Regulation (EU) 2025/454 of 7 March 2025 laying down the rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment of a scientific panel of independent experts in the field of artificial intelligence
@@ -940,6 +950,16 @@ All texts of this act as one file: [nzia.zip](downloads/nzia.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-07-25_oj | oj | 32025R1477 | [en](nzia/delegated-regulation-2025-1477/2025-07-25_oj.en.md) | [de](nzia/delegated-regulation-2025-1477/2025-07-25_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nzia/delegated-regulation-2025-1477/2025-07-25_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R1477) |
+
+## Implementing Regulation on a standardised reporting template for Member States’ monitoring of the NZIA
+
+`nzia/hys-19174` – COMMISSION IMPLEMENTING REGULATION (EU) …/... laying down rules for the application of Regulation (EU) 2024/1735 of the European Parliament and of the Council as regards the template for Member States’ reporting
+
+All texts of this act as one file: [nzia.zip](downloads/nzia.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-14_hys-draft | hys-draft | Ares(2026)9691390 | [en](nzia/hys-19174/2026-10-14_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nzia/hys-19174/2026-10-14_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e53532304a) |
 
 ## Implementing Decision (EU) 2025/1100
 
