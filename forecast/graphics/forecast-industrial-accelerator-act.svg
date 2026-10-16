@@ -47,17 +47,17 @@
 <text x="301.3" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2027</text>
 <text x="238" y="244.0" text-anchor="end" font-weight="600" class="ink lnk">Trilogues can start</text>
 <rect x="275.3" y="244.0" width="155.0" height="6" class="b80" data-tip="Trilogues can start: median Mar 2027; half of the runs Jan 2027 to Jun 2027; eight in ten Dec 2026 to Jan 2028"/>
-<rect x="290.2" y="238.0" width="60.5" height="18" class="b50" data-tip="Trilogues can start: median Mar 2027; half of the runs Jan 2027 to Jun 2027; eight in ten Dec 2026 to Jan 2028"/>
+<rect x="289.8" y="238.0" width="60.5" height="18" class="b50" data-tip="Trilogues can start: median Mar 2027; half of the runs Jan 2027 to Jun 2027; eight in ten Dec 2026 to Jan 2028"/>
 <circle cx="317.0" cy="247.0" r="7" class="med" stroke-width="3" data-tip="Trilogues can start: median Mar 2027; half of the runs Jan 2027 to Jun 2027; eight in ten Dec 2026 to Jan 2028"/>
 <text x="317.0" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Mar 2027</text>
 <text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">Provisional agreement</text>
-<rect x="320.0" y="318.0" width="379.2" height="6" class="b80" data-tip="Provisional agreement: median Nov 2027; half of the runs Jun 2027 to Jun 2028; eight in ten Apr 2027 to Dec 2029"/>
-<rect x="344.9" y="312.0" width="138.5" height="18" class="b50" data-tip="Provisional agreement: median Nov 2027; half of the runs Jun 2027 to Jun 2028; eight in ten Apr 2027 to Dec 2029"/>
-<circle cx="405.4" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Nov 2027; half of the runs Jun 2027 to Jun 2028; eight in ten Apr 2027 to Dec 2029"/>
+<rect x="320.0" y="318.0" width="379.2" height="6" class="b80" data-tip="Provisional agreement: median Nov 2027; half of the runs Jun 2027 to May 2028; eight in ten Apr 2027 to Dec 2029"/>
+<rect x="344.9" y="312.0" width="135.9" height="18" class="b50" data-tip="Provisional agreement: median Nov 2027; half of the runs Jun 2027 to May 2028; eight in ten Apr 2027 to Dec 2029"/>
+<circle cx="405.4" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Nov 2027; half of the runs Jun 2027 to May 2028; eight in ten Apr 2027 to Dec 2029"/>
 <text x="405.4" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Nov 2027</text>
 <text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
 <rect x="366.3" y="392.0" width="412.9" height="6" class="b80" data-tip="Official Journal: median May 2028; half of the runs Nov 2027 to Nov 2028; eight in ten Aug 2027 to Jul 2030"/>
-<rect x="405.4" y="386.0" width="144.7" height="18" class="b50" data-tip="Official Journal: median May 2028; half of the runs Nov 2027 to Nov 2028; eight in ten Aug 2027 to Jul 2030"/>
+<rect x="405.4" y="386.0" width="143.5" height="18" class="b50" data-tip="Official Journal: median May 2028; half of the runs Nov 2027 to Nov 2028; eight in ten Aug 2027 to Jul 2030"/>
 <circle cx="474.3" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median May 2028; half of the runs Nov 2027 to Nov 2028; eight in ten Aug 2027 to Jul 2030"/>
 <text x="474.3" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">May 2028</text>
 </g><text x="20" y="604" font-size="12" class="mu">Source: EP Legislative Observatory, COD files with trilogues since 2012 (the 40 % nearest in size where the proposal&#x27;s size is known); 4,000 runs per act.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text></svg>

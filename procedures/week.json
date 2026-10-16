@@ -1,16 +1,10 @@
 {
- "as_of": "2026-10-15",
+ "as_of": "2026-10-16",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
-    {
-     "date": "2026-10-15",
-     "act": "Ecodesign for Sustainable Products Regulation",
-     "text": "Feedback closes: Proposal for a regulation, Omnibus simplification of energy-efficient product legislation",
-     "url": "procedures/espr.html"
-    },
     {
      "date": "2026-10-20",
      "act": "Machinery Regulation",
@@ -22,13 +16,31 @@
      "act": "Ecodesign for Sustainable Products Regulation",
      "text": "Ecodesign Forum: Ecodesign Forum",
      "url": "procedures/committee-e03969.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "European Health Data Space Regulation",
+     "text": "Committee on the European Health Data Space: 11th meeting: Committee on the European Health Data Space (EHDS)",
+     "url": "procedures/committee-c131500.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "Machinery Regulation",
+     "text": "Commission Expert Group on Machinery: COM Expert Group on Machinery",
+     "url": "procedures/committee-e03676.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "Machinery Regulation",
+     "text": "Commission Expert Group on Machinery: Commission Expert Group on MACHINERY",
+     "url": "procedures/committee-e03676.html"
     }
    ],
    "recap": [
     {
      "date": "2026-10-13",
      "act": "Industrial Accelerator Act",
-     "text": "Council released 4 documents listed as not public, incl. Second Presidency compromise text (compare version …",
+     "text": "Council released 3 documents listed as not public, incl. Second Presidency compromise text (compare version …",
      "url": "procedures/industrial-accelerator-act.html"
     },
     {
@@ -66,6 +78,18 @@
      "act": "Machinery Regulation",
      "text": "Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025",
      "url": "acts/machinery-regulation.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "Machinery Regulation",
+     "text": "Commission Expert Group on Machinery: COM Expert Group on Machinery",
+     "url": "procedures/committee-e03676.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "Machinery Regulation",
+     "text": "Commission Expert Group on Machinery: Commission Expert Group on MACHINERY",
+     "url": "procedures/committee-e03676.html"
     }
    ],
    "recap": [
@@ -94,10 +118,10 @@
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-08",
-     "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/digital-omnibus.html"
+     "date": "2026-10-09",
+     "act": "Artificial Intelligence Act",
+     "text": "Artificial Intelligence Committee: Voting sheet published: Written consultation on Implementing Act on …",
+     "url": "acts/ai-act.html#committees"
     }
    ]
   }

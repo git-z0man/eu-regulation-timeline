@@ -109,6 +109,7 @@ From the Commission's Register of delegated acts (RegDel): planned (adoption qua
 | [European Health Data Space Regulation – Regulation (EU) 2025/327](ehds.md) | 2022/0140(COD) | Completed, published 5 Mar 2025 |
 | [General Product Safety Regulation – Regulation (EU) 2023/988](gpsr.md) | 2021/0170(COD) | Completed, published 23 May 2023 |
 | [Internal Market Emergency and Resilience Act – Regulation (EU) 2024/2747](imera.md) | 2022/0278(COD) | Completed, published 8 Nov 2024 |
+| [Internal market emergency directive – Directive (EU) 2024/2749](internal-market-emergency-directive.md) | 2022/0280(COD) | Completed, published 8 Nov 2024 |
 | [Internal market emergency omnibus – Regulation (EU) 2024/2748](internal-market-emergency-omnibus.md) | 2022/0279(COD) | Completed, published 8 Nov 2024 |
 | [Machinery Regulation – Regulation (EU) 2023/1230](machinery-regulation.md) | 2021/0105(COD) | Completed, published 29 Jun 2023 |
 | [Market Surveillance Regulation – Regulation (EU) 2019/1020](market-surveillance.md) | 2017/0353(COD) | Completed, published 25 Jun 2019 |

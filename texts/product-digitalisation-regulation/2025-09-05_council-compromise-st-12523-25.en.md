@@ -75,21 +75,21 @@ Whereas:
 (6) In accordance with the Regulations concerned, manufacturers are to draw up an EU declaration of conformity stating that the fulfilment of essential requirements set out in the applicable Regulations has been demonstrated. In order to enable seamless electronic processes, the EU declaration of conformity should be drawn up only in electronic form.
 
 <a id="rec-7"></a>
-(7) Moreover, Regulations (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, and (EU) 2023/1230 require that a copy of the EU declaration of conformity accompanies the product. Considering the evolution of digitalisation, it is essential to modernise this obligation by requiring that such EU declaration of conformity ~~electronically~~ accompany the product **in electronic form**. The manufacturer ~~will~~**should therefore** ensure that the EU declaration of conformity is directly accessible through an internet address or a machine-readable code, free of charge, without the need for providing any personal data, downloading ~~an application,~~**additional applications specific to the economic operator** or the obligation to register solely to access the EU declaration of conformity.
+(7) Moreover, Regulations (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, and (EU) 2023/1230 require that a copy of the EU declaration of conformity accompanies the product. Considering the evolution of digitalisation, it is essential to modernise this obligation by requiring that such EU declaration of conformity ~~electronically~~ accompany the product **in electronic form**. The manufacturer ~~will~~ **should therefore** ensure that the EU declaration of conformity is directly accessible through an internet address or a machine-readable code, free of charge, without the need for providing any personal data, downloading ~~an application,~~ **additional applications specific to the economic operator** or the obligation to register solely to access the EU declaration of conformity.
 
 <a id="rec-8"></a>
-(8) Taking into account that in 2024 no less than 94% of EU households had access to internet ^(10), the paper format of the instructions accompanying the products under the scope of the Regulations concerned is becoming less important and not aligned with current technologies, the practices of consumers or the green objectives. Consequently, the possibility for a digital format of the instructions should be introduced in the Regulations concerned. This will allow manufacturers to provide instructions in digital format, if they wish to do so. Where manufacturers choose to provide instructions in digital format, ~~in~~ ~~order to protect the safety of~~**specific safeguards for** consumers **should ensure that they**, **as lay persons, are still able to access and understand the information, in contrast to** **professional users, who are expected to possess the expertise and knowledge necessary** **for the correct use and handling of products.** ~~the~~ Safety information, including instructions having an impact on ~~product safety, should~~**the safe use of the products,** **might** be provided **in digital format where a product is used solely by professional** **users, namely persons acquiring the product as professional end users in the course of** **their industrial or professional activities. However, where it is reasonably foreseeable** **that a product, even if primarily intended for professional use, could also be used by** **consumers, manufacturers should provide the safety information** in paper format or ~~marked~~**mark it directly** on the product**. The definition of ‘consumer’ forms part of the** **notion of ‘end user’ as laid down in Regulation (EU) 2019/1020 on market** **surveillance, which applies to the Regulations concerned, and refers to any natural** **person acting for purposes outside their trade, business, craft or profession. This** **requirement ensures that all consumers, including vulnerable consumers such as** **elderly persons, persons with disabilities or those with limited digital literacy, are able** **to access and understand the safety information. Such information should therefore** **be easily visible and legible, thereby guaranteeing a high level of consumer protection** **and safeguarding public safety**. Instructions and safety information provided in digital format should be directly accessible **in line with Annex I of Directive (EU) 2019/882 of** **the European Parliament and of the Council ^(11)** through an internet address or a machine-readable code, free of charge, without the need for providing any personal data, downloading ~~an application,~~**additional applications specific to the economic operator** or the obligation to register solely to access the instructions and safety information**. This is in** **line with the overarching vision of digital inclusion, as set out in the European** **Declaration on Digital Rights and Principles for the Digital Decade, notably chapter** **II on Solidarity and inclusion**. Moreover, end-users should be able to obtain a paper copy of the instructions for use or safety information, upon request – at the time of purchase and for a certain period of time after their purchase.
+(8) Taking into account that in 2024 no less than 94% of EU households had access to internet ^(10), the paper format of the instructions accompanying the products under the scope of the Regulations concerned is becoming less important and not aligned with current technologies, the practices of consumers or the green objectives. Consequently, the possibility for a digital format of the instructions should be introduced in the Regulations concerned. This will allow manufacturers to provide instructions in digital format, if they wish to do so. Where manufacturers choose to provide instructions in digital format, ~~in~~ ~~order to protect the safety of~~ **specific safeguards for** consumers **should ensure that they**, **as lay persons, are still able to access and understand the information, in contrast to** **professional users, who are expected to possess the expertise and knowledge necessary** **for the correct use and handling of products.** ~~the~~ Safety information, including instructions having an impact on ~~product safety, should~~ **the safe use of the products,** **might** be provided **in digital format where a product is used solely by professional** **users, namely persons acquiring the product as professional end users in the course of** **their industrial or professional activities. However, where it is reasonably foreseeable** **that a product, even if primarily intended for professional use, could also be used by** **consumers, manufacturers should provide the safety information** in paper format or ~~marked~~ **mark it directly** on the product**. The definition of ‘consumer’ forms part of the** **notion of ‘end user’ as laid down in Regulation (EU) 2019/1020 on market** **surveillance, which applies to the Regulations concerned, and refers to any natural** **person acting for purposes outside their trade, business, craft or profession. This** **requirement ensures that all consumers, including vulnerable consumers such as** **elderly persons, persons with disabilities or those with limited digital literacy, are able** **to access and understand the safety information. Such information should therefore** **be easily visible and legible, thereby guaranteeing a high level of consumer protection** **and safeguarding public safety**. Instructions and safety information provided in digital format should be directly accessible **in line with Annex I of Directive (EU) 2019/882 of** **the European Parliament and of the Council ^(11)** through an internet address or a machine-readable code, free of charge, without the need for providing any personal data, downloading ~~an application,~~ **additional applications specific to the economic operator** or the obligation to register solely to access the instructions and safety information**. This is in** **line with the overarching vision of digital inclusion, as set out in the European** **Declaration on Digital Rights and Principles for the Digital Decade, notably chapter** **II on Solidarity and inclusion**. Moreover, end-users should be able to obtain a paper copy of the instructions for use or safety information, upon request – at the time of purchase and for a certain period of time after their purchase.
 
 **(8a)** Regulation (EU) 2016/425 contains certain sectoral specificities, including the fact that the entirety of the instructions and information set out in point 1.4 of Annex II are related to the safe use of the product. Thus, in order to protect the safety of consumers, where the product is intended for, or can be reasonably foreseen to be used by, consumers, all the instructions and information set out in point 1.4 of Annex II should be provided in a paper format or made visible on the packaging
 
 <a id="rec-9"></a>
-(9) In order to facilitate communication between economic operators and national competent authorities and end-users, the indication of a digital contact of the manufacturer on the product and in the EU declaration of conformity is necessary to enhance the effectiveness of market surveillance and to expedite the process of tracing non-compliant products. Currently, economic operators are required to indicate their postal address on the product, but this is not always sufficient to ensure that competent authorities can establish rapid contact. It is therefore necessary to require economic operators to provide both a postal address and a digital contact on the product and in the EU declaration of conformity. Such a digital contact should be defined in the Regulations concerned. The digital contact should allow consumers and competent authorities to ~~communicate with~~**contact** economic operators directly, and should be accessible free of charge, without the ~~obligation to~~ ~~provide~~**need for providing any** personal data, ~~download~~**downloading** additional ~~specific~~ applications **specific to the economic operator** or the obligation to register solely to contact the economic operator. Such digital contact may include, for example, an email address or ~~a contact form on a website~~**other direct means of digital communication** **without intermediate steps and allowing for traceability of exchanges**. However, it should not be understood as encompassing automatic replies to queries, chatbots, fax numbers, or telephone lines. The term ‘digital contact’, similarly to the term ‘electronic address’ in Regulation (EU) 2023/988 ~~on general product safety~~**of the European** **Parliament and of the Council ^(12)**, should be interpreted in a technologically neutral manner, capable of evolving with future technological developments, and should cover all forms of direct digital communication.
+(9) In order to facilitate communication between economic operators and national competent authorities and end-users, the indication of a digital contact of the manufacturer on the product and in the EU declaration of conformity is necessary to enhance the effectiveness of market surveillance and to expedite the process of tracing non-compliant products. Currently, economic operators are required to indicate their postal address on the product, but this is not always sufficient to ensure that competent authorities can establish rapid contact. It is therefore necessary to require economic operators to provide both a postal address and a digital contact on the product and in the EU declaration of conformity. Such a digital contact should be defined in the Regulations concerned. The digital contact should allow consumers and competent authorities to ~~communicate with~~ **contact** economic operators directly, and should be accessible free of charge, without the ~~obligation to~~ ~~provide~~ **need for providing any** personal data, ~~download~~ **downloading** additional ~~specific~~ applications **specific to the economic operator** or the obligation to register solely to contact the economic operator. Such digital contact may include, for example, an email address or ~~a contact form on a website~~ **other direct means of digital communication** **without intermediate steps and allowing for traceability of exchanges**. However, it should not be understood as encompassing automatic replies to queries, chatbots, fax numbers, or telephone lines. The term ‘digital contact’, similarly to the term ‘electronic address’ in Regulation (EU) 2023/988 ~~on general product safety~~ **of the European** **Parliament and of the Council ^(12)**, should be interpreted in a technologically neutral manner, capable of evolving with future technological developments, and should cover all forms of direct digital communication.
 
 <a id="rec-10"></a>
 (10) The Regulations concerned require that economic operators provide, upon a reasoned request from a competent national authority, all information and documentation necessary to demonstrate the conformity of the concerned products with the respective Regulations, in paper or electronic form. The paper-based form is becoming less important, while electronic communication enhances interaction between authorities and businesses, streamlining processes and reducing administrative burdens. In order to achieve the digitalisation of reporting requirements and to reduce administrative burden for economic operators**, in particular SMEs,** and competent authorities, the economic operators should be required to provide the necessary information and documentation in electronic form only. Documentation provided in electronic form could be made available, for example, in a digital printable format, which allows the possibility to print, download and save the documentation on an electronic device.
 
 <a id="rec-11"></a>
-(11) The current Union standardisation framework, which is based on Regulation (EU) No 1025/2012 of the European Parliament and of the Council ^(13), represents the framework by default to elaborate standards that provide for a presumption of conformity with the relevant essential health and safety requirements of the Regulations ~~amended by this~~ ~~Regulation~~**concerned**. However, in the ~~absense~~**absence** of relevant references to harmonised standards~~,~~, the Commission should be able to adopt implementing acts establishing common specifications for the essential health and safety ~~or other~~ requirements of the Regulations ~~amended by this Regulation~~**concerned**, provided that in doing so it duly respects the role and functions of the European standardisation organisations, as an exceptional fall-back solution to facilitate the manufacturer’s obligation to comply with those health and safety requirements of the Regulations ~~amended by this Regulation~~**concerned**.
+(11) The current Union standardisation framework, which is based on Regulation (EU) No 1025/2012 of the European Parliament and of the Council ^(13), represents the framework by default to elaborate standards that provide for a presumption of conformity with the relevant essential health and safety requirements of the Regulations ~~amended by this~~ ~~Regulation~~ **concerned**. However, in the ~~absense~~ **absence** of relevant references to harmonised standards ~~,~~, the Commission should be able to adopt implementing acts establishing common specifications for the essential health and safety ~~or other~~ requirements of the Regulations ~~amended by this Regulation~~ **concerned**, provided that in doing so it duly respects the role and functions of the European standardisation organisations, as an exceptional fall-back solution to facilitate the manufacturer’s obligation to comply with those health and safety requirements of the Regulations ~~amended by this Regulation~~ **concerned**.
 
 <a id="rec-12"></a>
 (12) As the digital product passport is foreseen in certain EU legislation, such as Regulation (EU) 2023/1542 ^(14), it is essential to require economic operators to store the information contained in the EU declaration of conformity and instructions in the digital product passport where a product is covered by multiple pieces of legislation. This approach would reduce the administrative burden on manufacturers, as they would no longer need to maintain separate storage locations for compliance documents - such as declarations of conformity - required under the various pieces of product legislation that may apply to the same product, thereby upholding the principle of a single declaration of conformity. In addition, instructions provided in electronic form would be stored together with the declaration of conformity. By storing the documentation in one place, all necessary documents demonstrating product compliance would be easily accessible, ensuring transparency and facilitating compliance. This streamlined approach would enhance the overall efficiency of the regulatory framework, and it aligns with the principle that where several pieces of Union harmonisation legislation apply to a product, the manufacturer or other economic operator, where appropriate, should provide a single EU declaration of conformity.
@@ -109,15 +109,15 @@ Whereas:
 HAVE ADOPTED THIS REGULATION:
 
 <a id="art-1"></a>
-### Article 1 – Amendments to Regulation (EU) 765/2008
+### Article 1 – ~~Amendments to Regulation (EU) 765/2008~~
 
 ~~Regulation (EU) 765/2008 is amended as follows:~~ ~~requirements including those set out in relevant sectoral schemes, to carry out a~~ ~~specific conformity assessment activity;;’~~
 
-- (2) ~~in Article 10, paragraph 5 is replaced by the following:~~
+- ~~(2) in Article 10, paragraph 5 is replaced by the following:~~
 
 ~~‘5. Peer evaluation shall ascertain whether the national accreditation bodies meet the~~ ~~requirements laid down in Article 8, taking into account the relevant harmonised~~ ~~standards or common specifications referred to in Article 11.;’~~
 
-- (3) ~~in Article 11, paragraph 1 is replaced by the following:~~
+- ~~(3) in Article 11, paragraph 1 is replaced by the following:~~
 
 ~~‘1. National accreditation bodies that demonstrate conformity with the criteria laid down~~ ~~in the relevant harmonised standard, the reference of which has been published in the~~ ~~Official Journal of the European Union, or with the criteria laid down in common~~ ~~specifications, by having successfully undergone peer evaluation under Article 10~~ ~~shall be presumed to fulfil the requirements laid down in Article 8..’~~
 
@@ -130,11 +130,11 @@ Regulation (EU) 2016/424 is amended as follows:
 
   - (a) the following point (17a) is inserted:
 
-**‘(17a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application~~**download additional applications specific to the economic** **operator**;’
+**‘(17a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application~~ **download additional applications specific to the economic** **operator**;’
 
   - (b) the following point (19a) is inserted:
 
-**‘(19a)** ‘common ~~specifications~~**specification**’ means a ~~set of~~ technical ~~specifications~~**specification**, other than a standard, that provide means of complying with the essential requirements set out in Annex II of this Regulation applicable to a subsystem or safety component;’
+**‘(19a)** ‘common ~~specifications~~ **specification**’ means a ~~set of~~ technical ~~specifications~~ **specification**, other than a standard, that provide means of complying with the essential requirements set out in Annex II of this Regulation applicable to a subsystem or safety component;’
 
 - (2) Article 11 is amended as follows:
 
@@ -154,7 +154,7 @@ Regulation (EU) 2016/424 is amended as follows:
 
 **‘7.** Manufacturers shall ensure that the subsystem or the safety component is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed and by the instructions and safety information, in a language which can be easily understood by users, as determined by the Member State concerned. The instructions and safety information may be provided in electronic form. Such instructions and safety information shall be clear, understandable and intelligible.
 
-The manufacturer shall take into account the intended use and the foreseeable user of the ~~product~~**subsystem or the safety component** when deciding the specific format for the instructions and safety information. When drafting instructions and the safety information, the manufacturers shall take account of the intended use and foreseeable misuse by the user, as well as the role which the instructions play for ensuring safety.
+The manufacturer shall take into account the intended use and the foreseeable user of the ~~product~~ **subsystem or the safety component** when deciding the specific format for the instructions and safety information. When drafting instructions and the safety information, the manufacturers shall take account of the intended use and foreseeable misuse by the user, as well as the role which the instructions play for ensuring safety.
 
 However, where a large number of subsystems or safety components are delivered to a single economic operator or user, the batch or consignment concerned may be accompanied by a single internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed.
 
@@ -222,7 +222,7 @@ Common Specifications
 
       - (c) do not satisfy the requirements they aim to cover.
 
-  - (c) ~~where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
+  - ~~(c) where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(3).
 
@@ -267,11 +267,11 @@ Regulation (EU) No 2016/425 is amended as follows:
 
   - (a) the following point (8a) is inserted:
 
-**‘(8a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to download ~~an application;~~**additional applications specific to the economic** **operator**;’
+**‘(8a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to download ~~an application;~~ **additional applications specific to the economic** **operator**;’
 
   - (b) the following point (10a) is inserted:
 
-**‘(10a)** ‘common ~~specifications~~**specification**’ means a ~~set of~~ technical ~~specifications~~**specification**, other than a standard, that provides a means of complying with the essential requirements set out in Annex II of this Regulation applicable to PPE;’
+**‘(10a)** ‘common ~~specifications~~ **specification**’ means a ~~set of~~ technical ~~specifications~~ **specification**, other than a standard, that provides a means of complying with the essential requirements set out in Annex II of this Regulation applicable to PPE;’
 
 - (2) Article 8 is amended as follows:
 
@@ -353,7 +353,7 @@ Common Specifications
 
       - (c) do not satisfy the requirements they aim to cover.
 
-  - (c) ~~where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant PPE.~~
+  - ~~(c) where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant PPE.~~
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(3).
 
@@ -369,7 +369,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 - (7) in Article 15, the following paragraph 5 is added:
 
-**‘5.** Where other Union legislation applicable to the PPE requires the economic operator to include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EU declaration of conformity or instructions in a digital product passport, the information required in Annex IX to be included in the EU declaration of conformity or, as appropriate, the EU declaration of conformity required in Article 15, and the instructions referred to in Article 8(7) shall be provided only in that digital product passport.~~;~~ **This does not** **affect the obligation to provide the information set out in point 1.4 of Annex II,** **which are related to the safe use of the PPE, in paper format according to** **Article 8 (7).’**
+**‘5.** Where other Union legislation applicable to the PPE requires the economic operator to include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EU declaration of conformity or instructions in a digital product passport, the information required in Annex IX to be included in the EU declaration of conformity or, as appropriate, the EU declaration of conformity required in Article 15, and the instructions referred to in Article 8(7) shall be provided only in that digital product passport. ~~;~~ **This does not** **affect the obligation to provide the information set out in point 1.4 of Annex II,** **which are related to the safe use of the PPE, in paper format according to** **Article 8 (7).’**
 
 - (8) in Article 19, the following paragraph is added:
 
@@ -379,7 +379,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 **‘(c)** appropriate knowledge and understanding of the essential health and safety requirements set out in Annex II, of the applicable harmonised standards or common specifications, and of the relevant provisions of Union harmonisation legislation and of national legislation;’
 
-- (10) ~~Article 25 is replaced by the following:~~
+- ~~(10) Article 25 is replaced by the following:~~
 
 ~~‘Where a conformity assessment body demonstrates its conformity with the criteria laid down~~ ~~in the relevant harmonised standards or common specifications or parts thereof the references~~ ~~of which have been published in the Official Journal of the European Union, it shall be~~ ~~presumed to comply with the requirements set out in Article 24 in so far as the applicable~~ ~~harmonised standards or common specifications cover those requirements.;’~~
 
@@ -398,11 +398,11 @@ Regulation (EU) No 2016/426 is amended as follows:
 
   - (a) the following point (21a) is inserted:
 
-**‘(21a) ‘**digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application~~**download additional applications specific to the economic** **operator**;’
+**‘(21a) ‘**digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application~~ **download additional applications specific to the economic** **operator**;’
 
   - (b) the following point (23a) is inserted:
 
-**‘(23a)** ‘common ~~specifications~~**specification**’ means a ~~set of~~ technical ~~specifications~~**specification**, other than a standard, that provides a means of complying with the essential requirements set out in Annex I of this Regulation applicable to an appliance ~~or a fitting;’~~
+**‘(23a)** ‘common ~~specifications~~ **specification**’ means a ~~set of~~ technical ~~specifications~~ **specification**, other than a standard, that provides a means of complying with the essential requirements set out in Annex I of this Regulation applicable to an appliance ~~or a fitting;’~~
 
 - (2) Article 7 is amended as follows:
 
@@ -422,13 +422,13 @@ Manufacturers shall indicate on the fitting their name, registered trade name or
 
 **7.** Manufacturers shall ensure that the appliance is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned. The instructions and safety information may be provided in an electronic form. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
 
-Manufacturers shall take into account the intended use and the foreseeable end-user of the ~~product~~**appliance** when deciding the specific format for the instructions and safety information.
+Manufacturers shall take into account the intended use and the foreseeable end-user of the ~~product~~ **appliance** when deciding the specific format for the instructions and safety information.
 
-In the case of **an** appliance ~~or fitting~~ intended for consumers or that can, under reasonably foreseeable conditions, be used by consumers, even if not intended for them, the manufacturer shall provide, in paper format, or mark on the ~~equipment~~**appliance**, the safety information. Such safety information shall be easily visible and legible for consumers.
+In the case of **an** appliance ~~or fitting~~ intended for consumers or that can, under reasonably foreseeable conditions, be used by consumers, even if not intended for them, the manufacturer shall provide, in paper format, or mark on the ~~equipment~~ **appliance**, the safety information. Such safety information shall be easily visible and legible for consumers.
 
 When drafting the safety information, the manufacturers shall take account of the intended use and foreseeable misuse by the end-user, as well as the role which the instructions play for ensuring safety.
 
-Manufacturers shall ensure that the fitting is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be ~~accessed~~ directly **accessed and that it is accompanied** **by**~~and~~ the instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I, in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned. The instructions may be provided in electronic form.
+Manufacturers shall ensure that the fitting is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be ~~accessed~~ directly **accessed and that it is accompanied** **by** ~~and~~ the instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I, in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned. The instructions may be provided in electronic form.
 
 However, where a large number of fittings are delivered to a single end-user, the batch or consignment concerned may be accompanied by a single internet address or machine-readable code through which the EU declaration of conformity can be directly accessed.
 
@@ -502,7 +502,7 @@ Common Specifications
 
       - (c) do not satisfy the requirements they aim to cover.
 
-  - (c) ~~where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
+  - ~~(c) where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(3).
 
@@ -546,7 +546,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 - (12) in Article 40(1), point (f) is replaced by the following:
 
-**‘(f)** the fitting is not accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed;~~;’~~
+**‘(f)** the fitting is not accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be **directly** accessed; ~~;’~~
 
 - (13) Annexes III and V are amended in accordance with Annex III to this Regulation.
 
@@ -557,7 +557,7 @@ Regulation (EU) 2023/1230 is amended as follows:
 
 - (1) in Article 3, the following point (22a) is inserted:
 
-**‘(22a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application.~~**download additional applications specific to the economic operator**;’
+**‘(22a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application.~~ **download additional applications specific to the economic operator**;’
 
 - (2) Article 10 is amended as follows:
 
@@ -638,7 +638,7 @@ Regulation (EU) 2023/1542 is amended as follows:
 
 - (1) in Article 3 the following point (23a) is inserted:
 
-**‘(23a)** ‘digital contact’ means any up-to-date and ~~such as email addresses~~**freely** accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an application.~~**download additional applications specific to the economic** **operator**;’
+**‘(23a)** ‘digital contact’ means any up-to-date and ~~such as email addresses~~ **freely** accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an application.~~ **download additional applications specific to the economic** **operator**;’
 
 - (2) Article 17 is amended as follows:
 
@@ -709,7 +709,7 @@ Regulation (EU) 2024/1781 is amended as follows:
 
 - (1) in Article 2, the following point (46a) is inserted:
 
-**‘(46a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application;~~**download additional applications specific to the economic operator**;’
+**‘(46a)** ‘digital contact’ means any up-to-date and freely accessible online communication channel such as email addresses through which economic operators can be contacted ~~or engaged~~ without the need to register or to ~~use an~~ ~~application;~~ **download additional applications specific to the economic operator**;’
 
 - (2) in Article 24(2), the second sentence is replaced by the following:
 
@@ -751,7 +751,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 Article 5 and Annex IV shall apply from 20 January 2027.
 
-The following provisions shall apply from [OP: please insert ~~24~~**30** months after entry into force of this amending Regulation]:
+The following provisions shall apply from [OP: please insert ~~24~~ **30** months after entry into force of this amending Regulation]:
 
 - (a) Article 2, point(1)(a), point (2)(a), (c), (d) and (e), and points (3), (4), (5), (7), (8) and (11);
 

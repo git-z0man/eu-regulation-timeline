@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-15",
+ "edition": "2026-10-16",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 97,
+   "score": 95,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -94,7 +94,7 @@
     "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
     "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
    },
-   "score": 65,
+   "score": 63,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -138,7 +138,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 62,
+   "score": 60,
    "crumbs": {
     "en": [
      "European Product Act",
@@ -182,7 +182,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 59,
+   "score": 57,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -220,7 +220,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Analysis"
@@ -256,7 +256,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Analysis"
@@ -292,7 +292,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Analysis"
@@ -334,7 +334,7 @@
     }
    ],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -372,7 +372,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -416,7 +416,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -456,7 +456,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 47,
+   "score": 45,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -500,7 +500,7 @@
     }
    ],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -573,7 +573,7 @@
     "en": "2 only changed status within their step (Voting prEN); 5 without an earlier status on record (EN 304 633, EN 304 632, EN 304 631 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Umfrage prEN); 5 ohne früheren Stand in den Daten (EN 304 633, EN 304 632, EN 304 631 …)."
    },
-   "score": 46,
+   "score": 44,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -741,7 +741,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -794,7 +794,7 @@
     }
    ],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -847,7 +847,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -891,7 +891,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -929,7 +929,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -1085,7 +1085,7 @@
     "en": "The released papers include Member States' comments on the certification rules (Articles 71-97) and the Presidency's second compromise text on Title III: the basis for reading the third compromise text when it is published.",
     "de": "Freigegeben sind unter anderem die Kommentare der Mitgliedstaaten zu den Zertifizierungsregeln (Art. 71-97) und der zweite Kompromisstext der Präsidentschaft zu Titel III: die Grundlage, um den dritten Kompromisstext einzuordnen, sobald er veröffentlicht ist."
    },
-   "score": 34,
+   "score": 32,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1129,7 +1129,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1174,7 +1174,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1217,6 +1217,285 @@
    }
   },
   {
+   "id": "red/standards/M536/2026-W41",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-09",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive · M/536: 12 status updates in week 41",
+   "deck": "ETSI 12. Furthest step: Adoption EN.",
+   "headline_de": "Funkanlagenrichtlinie · M/536: 12 Statusänderungen in KW 41",
+   "deck_de": "ETSI 12. Weitester Schritt: Annahme EN.",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 302 574-2: Drafting Stage – Final draft registered by ETSI Secretariat",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67519"
+    },
+    {
+     "label": "EN 300 328: Drafting Stage – Stable draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73699"
+    },
+    {
+     "label": "EN 305 550-8: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73776"
+    },
+    {
+     "label": "EN 302 686: Drafting Stage – Draft receipt by ETSI Secretariat",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=46542"
+    },
+    {
+     "label": "EN 302 574-3: Drafting Stage – Final draft registered by ETSI Secretari",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51243"
+    },
+    {
+     "label": "DEN/ERM-WGUWB-643EN302065-2-6: Drafting Stage – Work Item proposal endorsed by TG",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79425"
+    },
+    {
+     "label": "EN 302 574-1: Drafting Stage – Final draft registered by ETSI Secretari",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518"
+    },
+    {
+     "label": "EN 301 443: Publication",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017"
+    },
+    {
+     "label": "EN 301 442: Drafting Stage – Final draft registered by ETSI Secretari",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016"
+    },
+    {
+     "label": "EN 302 571: Drafting Stage – Stable draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51356"
+    },
+    {
+     "label": "EN 301 783: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491"
+    },
+    {
+     "label": "EN 301 444: Drafting Stage – Final draft registered by ETSI Secretariat",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63964"
+    }
+   ],
+   "brief": null,
+   "score": 27,
+   "tree": {
+    "": {
+     "ETSI": {
+      "SES HARM": [
+       {
+        "project": "EN 302 574-2",
+        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1 980 MHz to 2 010 MHz (earth-to-space) and 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands; Part 2: User Equipment (UE) for wideband systems; Harmonised Standard for access to radio spectrum Rev EN302 574-2 Conventional CGC",
+        "now": "Drafting Stage – Final draft registered by ETSI Secretariat",
+        "date": "2026-10-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67519",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 302 574-3",
+        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1 980 MHz to 2 010 MHz (earth-to-space) and 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands; Part 3: User Equipment (UE) for narrowband systems; Harmonised Standard for access to radio spectrum MES 1980-2010 MHz (earth-to-space) and 2170-2200 MHz (space-to-earth) UE for narrowband systems",
+        "now": "Drafting Stage – Final draft registered by ETSI Secretari",
+        "date": "2026-10-08",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51243",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 302 574-1",
+        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) transmitting in the 1 980 MHz to 2 010 MHz (earth-to-space) and receiving in the 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands; Part 1: Complementary Ground Component (CGC) for wideband systems; Harmonised Standard for access to radio spectrum rev EN 302 574-1 Conventional CGC",
+        "now": "Drafting Stage – Final draft registered by ETSI Secretari",
+        "date": "2026-10-06",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 301 443",
+        "title": "Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-only, transmit-and-receive, receive-only satellite earth stations operating in the 4 GHz and 6 GHz frequency bands; Harmonised Standard for access to radio spectrum C-band VSAT 4 GHz and 6 GHz",
+        "now": "Publication",
+        "date": "2026-10-06",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017",
+        "step": [
+         5,
+         true,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 301 442",
+        "title": "Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including handheld earth stations, for Satellite Personal Communications Networks (S-PCN) operating in the 1 980 MHz to 2 010 MHz (earth-to-space) and 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands under the Mobile Satellite Service (MSS); Harmonised Standard for access to radio spectrum Satellite Personal Communications Networks (S-PCN) in the 2,0 GHz",
+        "now": "Drafting Stage – Final draft registered by ETSI Secretari",
+        "date": "2026-10-06",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 301 444",
+        "title": "Satellite Earth Stations and Systems (SES); Land Mobile Earth Stations (LMES) and Maritime Mobile Earth Stations (MMES) providing voice and/or data communications, operating in the 1,5 GHz and 1,6 GHz frequency bands; Harmonised Standard for access to radio spectrum LMES operating in the 1,5 GHz and 1,6 GHz L- and extended L-band.",
+        "now": "Drafting Stage – Final draft registered by ETSI Secretariat",
+        "date": "2026-10-05",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63964",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WG11": [
+       {
+        "project": "EN 300 328",
+        "title": "Data transmission equipment operating in the 2,4 GHz band; Harmonised Standard for access to radio spectrum HS Wideband transmission systems 2,4 GHz",
+        "now": "Drafting Stage – Stable draft",
+        "date": "2026-10-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73699",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WGUWB": [
+       {
+        "project": "EN 305 550-8",
+        "title": "Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised Standard for access to radio spectrum; Part 8: exterior radiodetermination devices using FMCW modulation on vehicles within 122,25 GHz to 130 GHz and 134 GHz to 148,5 GHz 140 GHz Exterior (EN 305 550-8)",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-10-08",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73776",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "DEN/ERM-WGUWB-643EN302065-2-6",
+        "title": "Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for access to radio spectrum; Part 2: Ultra Wide Band location tracking devices; Sub-part 6: Requirements for Location tracking application for emergency and disaster situations (LAES) operating within 1,0 GHz to 10,6 GHz. LAES",
+        "now": "Drafting Stage – Work Item proposal endorsed by TG",
+        "date": "2026-10-08",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79425",
+        "step": [
+         4,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WG37": [
+       {
+        "project": "EN 302 686",
+        "title": "Radiocommunications equipment operating in the 63,72 GHz to 65,88 GHz frequency band; Harmonised Standard for access to radio spectrum HS ITS 60 GHz",
+        "now": "Drafting Stage – Draft receipt by ETSI Secretariat",
+        "date": "2026-10-08",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=46542",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 302 571",
+        "title": "Radiocommunications equipment operating in the 5 855 MHz to 5 925 MHz frequency band; Harmonised Standard for access to radio spectrum C-ITS HS",
+        "now": "Drafting Stage – Stable draft",
+        "date": "2026-10-05",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51356",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WGMARINE": [
+       {
+        "project": "EN 301 783",
+        "title": "Commercially available amateur radio equipment; Harmonised Standard for access to the radio spectrum",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-10-05",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
+    ]
+   }
+  },
+  {
    "id": "csa2/meeting/2026-10-12",
    "kind": "meeting",
    "desk": "Committees",
@@ -1242,7 +1521,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1276,7 +1555,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1285,6 +1564,137 @@
     "de": [
      "NIS-2",
      "Ausschüsse"
+    ]
+   }
+  },
+  {
+   "id": "red/standards/M536/2026-W42",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-14",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive · M/536: 4 status updates this week",
+   "deck": "ETSI 4. Furthest step: Drafting prEN.",
+   "headline_de": "Funkanlagenrichtlinie · M/536: 4 Statusänderungen diese Woche",
+   "deck_de": "ETSI 4. Weitester Schritt: Entwurf prEN.",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 300 422-1: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73027"
+    },
+    {
+     "label": "EN 303 132: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74967"
+    },
+    {
+     "label": "EN 302 454: Drafting Stage – Final draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361"
+    },
+    {
+     "label": "EN 302 054: Drafting Stage – Final draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360"
+    }
+   ],
+   "brief": null,
+   "score": 25,
+   "tree": {
+    "": {
+     "ETSI": {
+      "ERM WG17 WP3": [
+       {
+        "project": "EN 300 422-1",
+        "title": "Harmonised Standard for access to radio spectrum Wireless microphones, Audio PMSE up to 3 GHz Part 1",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-10-14",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73027",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WGMARINE": [
+       {
+        "project": "EN 303 132",
+        "title": "Maritime VHF survivor locating devices employing Digital Selective Calling (DSC Class M); Harmonised Standard for access to radio spectrum and for features for emergency services",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74967",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WGAERO": [
+       {
+        "project": "EN 302 454",
+        "title": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1500 mW; Harmonised Standard for access to radio spectrum",
+        "now": "Drafting Stage – Final draft",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 302 054",
+        "title": "Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels ranging up to 200 mW; Harmonised Standard for access to radio spectrum Radiosondes (400,15 MHz to 406 MHz), harmonised standard ( Art 3.2)",
+        "now": "Drafting Stage – Final draft",
+        "date": "2026-10-13",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
     ]
    }
   },
@@ -1321,7 +1731,7 @@
     }
    ],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1364,89 +1774,6 @@
    }
   },
   {
-   "id": "machinery-regulation/standards/M605/2026-W40",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-10-01",
-   "act": "machinery-regulation",
-   "kicker": "Machinery Regulation",
-   "kicker_de": "MVO",
-   "headline": "Machinery Regulation · M/605: 1 project a step further in week 40",
-   "deck": "Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026). Step 4 of 8: Drafting EN.",
-   "headline_de": "MVO · M/605: 1 Projekt in KW 40 einen Schritt weiter",
-   "deck_de": "Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026). Schritt 4 von 8: Entwurf EN.",
-   "facts": [
-    "M/605",
-    "Request expires 20 Jan 2035"
-   ],
-   "facts_de": [
-    "M/605",
-    "Auftrag läuft aus 20. Jan. 2035"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/machinery-regulation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "prEN ISO 14159: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79118,25&cs=14615C5D026E520460547A546B360D9E7"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "A step further: prEN ISO 14159 to Drafting EN.",
-    "de": "Einen Schritt weiter: prEN ISO 14159 auf Entwurf EN."
-   },
-   "score": 21,
-   "tree": {
-    "": {
-     "CEN-CENELEC": {
-      "CEN/TC 114": [
-       {
-        "project": "prEN ISO 14159",
-        "title": "Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026)",
-        "now": "Under Approval",
-        "date": "2026-10-01",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79118,25&cs=14615C5D026E520460547A546B360D9E7",
-        "step": [
-         3,
-         false,
-         true
-        ],
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/605",
-    "org": "CEN-CENELEC"
-   },
-   "crumbs": {
-    "en": [
-     "Machinery Regulation",
-     "Standards",
-     "M/605",
-     "CEN-CENELEC"
-    ],
-    "de": [
-     "MVO",
-     "Normen",
-     "M/605",
-     "CEN-CENELEC"
-    ]
-   }
-  },
-  {
    "id": "cra/committee/2026-10-08",
    "kind": "committee",
    "desk": "Committees",
@@ -1468,7 +1795,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -1557,7 +1884,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1577,10 +1904,10 @@
    "act": "cra",
    "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
-   "headline": "Cyber Resilience Act · M/606: 3 status updates in week 40",
-   "deck": "ETSI 1 · CEN-CENELEC 2. Furthest step: Drafting EN.",
-   "headline_de": "CRA · M/606: 3 Statusänderungen in KW 40",
-   "deck_de": "ETSI 1 · CEN-CENELEC 2. Weitester Schritt: Entwurf EN.",
+   "headline": "Cyber Resilience Act · M/606: new status for EN 304 627",
+   "deck": "Cybersecurity requirements for routers, modems intended for the connection to the internet, and switches. Step 4 of 8: Drafting EN.",
+   "headline_de": "CRA · M/606: neuer Status für EN 304 627",
+   "deck_de": "Cybersecurity requirements for routers, modems intended for the connection to the internet, and switches. Schritt 4 von 8: Entwurf EN.",
    "facts": [
     "M/606",
     "Request expires 30 Nov 2027"
@@ -1599,18 +1926,10 @@
     {
      "label": "EN 304 627: Approval Stage – Comments categorisation assessed",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416"
-    },
-    {
-     "label": "EN 40000-1-2:2026: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073"
-    },
-    {
-     "label": "EN 40000-1-1:2026: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B"
     }
    ],
    "brief": null,
-   "score": 17,
+   "score": 13,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1631,56 +1950,24 @@
        }
       ]
      }
-    },
-    "horizontal": {
-     "CEN-CENELEC": {
-      "CEN/CLC/JTC 13": [
-       {
-        "project": "EN 40000-1-2:2026",
-        "title": "Cybersecurity requirements for products with digital elements - Part 1-2: Principles, product risk management, and lifecycle activities",
-        "now": "Under Approval",
-        "date": "2026-10-01",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
-        "step": [
-         3,
-         false,
-         false
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 40000-1-1:2026",
-        "title": "Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary",
-        "now": "Under Approval",
-        "date": "2026-10-01",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
-        "step": [
-         3,
-         false,
-         false
-        ],
-        "prev": null,
-        "also": []
-       }
-      ]
-     }
     }
    },
    "ladder": {
     "request": "M/606",
-    "org": null
+    "org": "ETSI"
    },
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
      "Standards",
-     "M/606"
+     "M/606",
+     "ETSI"
     ],
     "de": [
      "CRA",
      "Normen",
-     "M/606"
+     "M/606",
+     "ETSI"
     ]
    }
   },
@@ -1706,7 +1993,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1719,83 +2006,123 @@
    }
   },
   {
-   "id": "ai-act/standards/M613/2026-W40",
+   "id": "site/2026-10-15/links-and-ratings",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-10-15",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "Easier to see and to tap: links keep a clearer underline, and \"Low relevance\" is an outline square",
+   "deck": "Links in lists and tables are at least 24 pixels high; the rating \"Low relevance\" no longer looks like \"Monitor\", on the pages and in the timeline drawings.",
+   "headline_de": "Besser zu sehen und zu treffen: Links sind deutlicher unterstrichen, und „Low relevance“ ist ein leeres Quadrat",
+   "deck_de": "Links in Listen und Tabellen sind mindestens 24 Pixel hoch; die Einstufung „Low relevance“ sieht nicht mehr aus wie „Monitor“, auf den Seiten und in den Zeitleisten-Grafiken.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../index.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 13,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   }
+  },
+  {
+   "id": "red/standards/M536/2026-W40",
    "kind": "standard",
    "desk": "Standards",
-   "date": "2026-10-01",
-   "act": "ai-act",
-   "kicker": "Artificial Intelligence Act",
-   "kicker_de": "KI-VO",
-   "headline": "Artificial Intelligence Act · M/613: new status for prEN 18283",
-   "deck": "Artificial Intelligence - Concepts, measures and requirements for managing bias in AI systems. Step 3 of 8: Voting prEN.",
-   "headline_de": "KI-VO · M/613: neuer Status für prEN 18283",
-   "deck_de": "Artificial Intelligence - Concepts, measures and requirements for managing bias in AI systems. Schritt 3 von 8: Umfrage prEN.",
+   "date": "2026-10-02",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive · M/536: 2 status updates in week 40",
+   "deck": "ETSI 2. Furthest step: Adoption EN.",
+   "headline_de": "Funkanlagenrichtlinie · M/536: 2 Statusänderungen in KW 40",
+   "deck_de": "ETSI 2. Weitester Schritt: Annahme EN.",
    "facts": [
-    "M/613",
-    "Request expires 28 Feb 2027"
+    "M/536"
    ],
    "facts_de": [
-    "M/613",
-    "Auftrag läuft aus 28. Feb. 2027"
+    "M/536"
    ],
    "links": [
     [
      "Standards on the act page",
-     "../acts/ai-act.html"
+     "../procedures/standardisation.html"
     ]
    ],
    "items": [
     {
-     "label": "prEN 18283: Under Enquiry",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80353,25&cs=1A0A0C0DBC7B012D69EA9AAAF8D5DFDA3"
+     "label": "EN 303 699: Publication",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=64335"
+    },
+    {
+     "label": "EN 301 843-2: Delivery to the EC",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66904"
     }
    ],
    "brief": null,
-   "score": 13,
+   "score": 9,
    "tree": {
     "": {
-     "CEN-CENELEC": {
-      "CEN/CLC/JTC 21": [
+     "ETSI": {
+      "SES HARM": [
        {
-        "project": "prEN 18283",
-        "title": "Artificial Intelligence - Concepts, measures and requirements for managing bias in AI systems",
-        "now": "Under Enquiry",
-        "date": "2026-10-01",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80353,25&cs=1A0A0C0DBC7B012D69EA9AAAF8D5DFDA3",
+        "project": "EN 303 699",
+        "title": "Satellite Earth Stations and Systems (SES); Fixed earth stations communicating with non-geostationary satellite systems in the 20 GHz and 30 GHz FSS bands; Harmonised Standard for access to radio spectrum Harmonised Standard in the Ka band for NGSO fixed ES",
+        "now": "Publication",
+        "date": "2026-10-02",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=64335",
         "step": [
-         2,
-         false,
+         5,
+         true,
          true
         ],
-        "prev": [
-         3,
-         false,
-         true
-        ],
-        "also": [
-         "M/593"
-        ]
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WGEMC": [
+       {
+        "project": "EN 301 843-2",
+        "title": "ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harmonised Standard for electromagnetic compatibility; Part 2: Specific conditions for VHF radiotelephone transmitters and receivers operating in the frequency range 156 MHz to 174 MHz EMC for marine VHF radiotelephone",
+        "now": "Delivery to the EC",
+        "date": "2026-10-02",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66904",
+        "step": null,
+        "prev": null,
+        "also": []
        }
       ]
      }
     }
    },
    "ladder": {
-    "request": "M/613",
-    "org": "CEN-CENELEC"
+    "request": "M/536",
+    "org": "ETSI"
    },
    "crumbs": {
     "en": [
-     "Artificial Intelligence Act",
+     "Radio Equipment Directive",
      "Standards",
-     "M/613",
-     "CEN-CENELEC"
+     "M/536",
+     "ETSI"
     ],
     "de": [
-     "KI-VO",
+     "Funkanlagenrichtlinie",
      "Normen",
-     "M/613",
-     "CEN-CENELEC"
+     "M/536",
+     "ETSI"
     ]
    }
   },
@@ -1821,7 +2148,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1855,7 +2182,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -1887,7 +2214,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -1919,7 +2246,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -1951,7 +2278,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 6,
+   "score": 4,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1985,7 +2312,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -2017,7 +2344,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -2049,7 +2376,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -2081,7 +2408,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -2113,7 +2440,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 2,
+   "score": 0,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -2147,7 +2474,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 1,
+   "score": -1,
    "crumbs": {
     "en": [
      "This site"
@@ -2179,7 +2506,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -1,
+   "score": -3,
    "crumbs": {
     "en": [
      "This site"
@@ -2211,7 +2538,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -2247,7 +2574,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -6,
+   "score": -8,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2262,12 +2589,6 @@
  ],
  "ahead": [
   {
-   "date": "2026-10-15",
-   "act": "Ecodesign for Sustainable Products Regulation",
-   "text": "Feedback closes: Proposal for a regulation, Omnibus simplification of energy-efficient product legislation",
-   "url": "../procedures/espr.html"
-  },
-  {
    "date": "2026-10-20",
    "act": "Machinery Regulation",
    "text": "Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025",
@@ -2278,6 +2599,24 @@
    "act": "Ecodesign for Sustainable Products Regulation",
    "text": "Ecodesign Forum: Ecodesign Forum",
    "url": "../procedures/committee-e03969.html"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "European Health Data Space Regulation",
+   "text": "Committee on the European Health Data Space: 11th meeting: Committee on the European Health Data Space (EHDS)",
+   "url": "../procedures/committee-c131500.html"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "Machinery Regulation",
+   "text": "Commission Expert Group on Machinery: COM Expert Group on Machinery",
+   "url": "../procedures/committee-e03676.html"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "Machinery Regulation",
+   "text": "Commission Expert Group on Machinery: Commission Expert Group on MACHINERY",
+   "url": "../procedures/committee-e03676.html"
   }
  ],
  "groups": {
@@ -2389,12 +2728,12 @@
   {
    "lang": "en",
    "file": "weekly.en.xml",
-   "label": "Regulation Desk – week to 9 Oct 2026"
+   "label": "Regulation Desk – week to 16 Oct 2026"
   },
   {
    "lang": "de",
    "file": "weekly.de.xml",
-   "label": "Regulation Desk – Woche bis 9. Okt. 2026"
+   "label": "Regulation Desk – Woche bis 16. Okt. 2026"
   },
   {
    "lang": "en",

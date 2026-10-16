@@ -4,7 +4,7 @@ version: 2026-05-29_council-compromise-st-9845-26
 stage: council-compromise
 language: en
 document: ST 9845/26
-title: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2019/1150, (EU) 2023/2854, (EU) 2022/2554, and (EU) 910/20142023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)
+title: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2019/1150, (EU) 2023/2854, (EU) 2022/2554, and (EU) 910/2014 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)
 retrieved: '2026-09-25'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2019/1150, (EU) 2023/2854, (EU) 2022/2554, and (EU) 910/20142023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)
+# Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2019/1150, (EU) 2023/2854, (EU) 2022/2554, and (EU) 910/2014 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)
 
 **Council of the** **European Union** **Brussels, 29 May 2026** **(OR. en)**
 
@@ -32,7 +32,7 @@ Proposal for a
 
 **REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
-**amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2019/1150, (EU)** **2023/2854, (EU) 2022/2554, and (EU) 910/2014****~~2023/2854~~** **and Directives 2002/58/EC, (EU)** **2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative** **framework, and repealing Regulations (EU) 2018/1807, (EU)** **~~2019/1150, (EU)~~** **2022/868, and** **Directive (EU) 2019/1024 (Digital Omnibus)**
+**amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2019/1150, (EU)** **2023/2854, (EU) 2022/2554, and (EU) 910/2014** **~~2023/2854~~** **and Directives 2002/58/EC, (EU)** **2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative** **framework, and repealing Regulations (EU) 2018/1807, (EU)** **~~2019/1150, (EU)~~** **2022/868, and** **Directive (EU) 2019/1024 (Digital Omnibus)**
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -67,7 +67,7 @@ Whereas:
 (4) Given the foundational role of data in driving value-creation in the digital economy, and pursuant to the objectives of the Communication for a European Data Union Strategy, the amendments presented in this Regulation to the legislative framework regarding data seek to build a coherent and cohesive regulatory framework for the availability and use of data, streamlining and consolidating the data regulatory framework into only two legal acts, namely Regulations (EU) 2016/679 ^(5) and (EU) 2023/2854 ^(6) of the European Parliament and of the Council, from currently five different applicable acts. The amendments seek to cut unnecessary administrative costs and stimulate the availability of data as a prerequisite for supporting competitive digital businesses in the Union, while maintaining the highest standard of protections for privacy, personal data protection, and fair business practices, and ensuring core regulatory objectives, including compliance with EU and national competition law.
 
 <a id="rec-5"></a>
-(5) Acknowledging the iterative evolution of horizontal and sector-specific rules, it is indispensable to address also overlaps in specific provisions that result in unnecessary duplications of administrative burdens. This is the case in requirements across several rules for reporting following cybersecurity and related incidents, where digital solutions~~, as~~ ~~proposed in this Regulation,~~ can bring an immediate relief to businesses across all concerned sectors.
+(5) Acknowledging the iterative evolution of horizontal and sector-specific rules, it is indispensable to address also overlaps in specific provisions that result in unnecessary duplications of administrative burdens. This is the case in requirements across several rules for reporting following cybersecurity and related incidents, where digital solutions ~~, as~~ ~~proposed in this Regulation,~~ can bring an immediate relief to businesses across all concerned sectors.
 
 <a id="rec-6"></a>
 (6) Similarly, with the iterative regulation of online platforms over the past years, more recent rules have established a clearer and more ambitious framework than some of the predating rules, rendering them obsolete. It is therefore necessary that the legal framework evolves, eliminating any unnecessary duplications that add legal complexity.
@@ -85,7 +85,7 @@ Whereas:
 (10) Chapter II of Regulation (EU) 2023/2854 requires data holders to make data available, including data protected as trade secrets, to users and their selected third parties, provided confidentiality measures established by the data holder are maintained. This requirement of maintaining confidentiality complements Directive (EU) 2016/943 of the European Parliament and of the Council ^(10), which sets the standard for protecting trade secrets within the Union. However, disclosure of trade secrets to third-country entities may increase risks to their integrity and confidentiality where there is exposure to jurisdictions with inadequate protections or difficulties in their actual enforcement, potentially resulting in unauthorised use, economic damage and legal uncertainty.
 
 <a id="rec-11"></a>
-(11) It is necessary to strengthen Regulation (EU) 2023/2854 by introducing an additional ground for data holders to refuse **access to data where such access could lead to** the disclosure of trade secrets, supplementing existing provisions which allow refusal based on the data holder’s demonstration of a high likelihood of serious economic damage. Under the new provision, data holders may refuse **a request to access to data**~~to disclose trade~~ ~~secrets~~ if they demonstrate a high risk of unlawful acquisition, use, or disclosure to entities subject to regimes with inadequate protection, non-equivalent, or weaker legal frameworks than the applicable Union rules. The new provision also covers instances where the third country legal framework, in theory, is robust or exceeds such Union rules, but lacks appropriate enforcement in practice. Such risks highlight the possibility that trade secrets could be acquired, used, or disclosed in violation of Union law, threatening the integrity and confidentiality of trade secrets.
+(11) It is necessary to strengthen Regulation (EU) 2023/2854 by introducing an additional ground for data holders to refuse **access to data where such access could lead to** the disclosure of trade secrets, supplementing existing provisions which allow refusal based on the data holder’s demonstration of a high likelihood of serious economic damage. Under the new provision, data holders may refuse **a request to access to data** ~~to disclose trade~~ ~~secrets~~ if they demonstrate a high risk of unlawful acquisition, use, or disclosure to entities subject to regimes with inadequate protection, non-equivalent, or weaker legal frameworks than the applicable Union rules. The new provision also covers instances where the third country legal framework, in theory, is robust or exceeds such Union rules, but lacks appropriate enforcement in practice. Such risks highlight the possibility that trade secrets could be acquired, used, or disclosed in violation of Union law, threatening the integrity and confidentiality of trade secrets.
 
 <a id="rec-12"></a>
 (12) The activation of the refusal mechanism should remain voluntary, and the demonstration done only upon its activation. Data holders should not be required to conduct a full-scale analysis or demonstration of the level of trade secret protection in third countries or by a third country entity as a precondition to be able to substantiate their refusal to sharing data or to disclose trade secrets. In their demonstration, data holders may take into consideration various factors, such as insufficient or inadequate legal standards, poor or arbitrary enforcement, historical infringements, foreign disclosure obligations conflicting with Union law, limited legal recourse or remedies for Union entities, the strategic misuse of procedural tactics to undermine competitors, or undue political influence. Given the diverse range of entities, third countries, and data sharing scenarios involved, data holders should focus their assessment and demonstration on pertinent risks and act accordingly, including by setting appropriate safeguards or activating the refusal mechanism. Refusals should be clear, proportionate, and tailored to the specific circumstances of each case, rather than being applied systematically or in a generalized manner across **entities of** an entire third country.
@@ -97,7 +97,7 @@ Whereas:
 (14) Protecting trade secrets from those vulnerabilities is essential for European ~~industries~~ **businesses** to sustain their market position and competitive advantage. While data holders may exercise discretion in protecting their trade secrets, refusals to share data should be limited to justified, exceptional circumstances, in order to preserve the objectives of Regulation (EU) 2023/2854 of fostering data-driven innovation and a thriving digital economy in the Union. Safeguards against misuse of the refusal mechanism should remain in place, including the data holder’s obligation to demonstrate in a duly substantiated manner that disclosure poses a high risk and to notify competent authorities. This demonstration should be provided in writing without undue delay to the user or third party and proportionate to the case at hand. All parties involved should treat the decision and supporting demonstration as confidential in order to uphold the confidential nature of the trade secrets concerned. Users and third parties, as the case may be, may challenge the data holder’s decision with the competent authority, in court, or through dispute settlement bodies.
 
 <a id="rec-15"></a>
-(15) To simplify the business-to-government data sharing framework under Regulation (EU) 2023/2854 and to clarify ambiguities that previously imposed broader obligations on businesses, it is necessary to narrow the scope of Chapter V of that Regulation from ‘exceptional need’ to ‘public emergencies’. The concept of ‘public emergencies’, which is defined under Article 2(29) of Regulation (EU) 2023/2854, ~~thus~~ ensures that the obligations laid down in that Chapter are invoked only ~~under~~**in** well-defined, urgent situations, reducing the technical, administrative and legal challenges that ~~business~~**businesses** faced under the previous regime. This would ensure that data requests are relevant and proportionate to responding, ~~mitigating,~~ or supporting the recovery from **public emergencies. While ‘responding to’ a public emergency presupposes an** **ongoing public emergency, which has been determined or officially declared in** **accordance with the relevant procedures under Union or national law, ‘supporting** **the recovery from’ a public emergency covers measures undertaken after the public** **emergency has been determined or officially declared over. The third alternative of** **‘mitigating’ a public emergency under Regulation (EU) 2023/2854 should be deleted** **because it is already covered by the notion of ‘responding to’** public emergencies. Since the updated Union framework on European statistics under Regulation (EC) No 223/2009 of the European Parliament and of the Council ^(11) does not address public emergencies, it is essential to preserve the role of official statistics under Chapter V of Regulation (EU) 2023/2854 to ensure clarity and effectiveness in such situations. It is also necessary to clarify the compensation regime for situations where microenterprises and small enterprises are required to provide data to address a public emergency, in which case such enterprises are allowed to claim compensation.
+(15) To simplify the business-to-government data sharing framework under Regulation (EU) 2023/2854 and to clarify ambiguities that previously imposed broader obligations on businesses, it is necessary to narrow the scope of Chapter V of that Regulation from ‘exceptional need’ to ‘public emergencies’. The concept of ‘public emergencies’, which is defined under Article 2(29) of Regulation (EU) 2023/2854, ~~thus~~ ensures that the obligations laid down in that Chapter are invoked only ~~under~~ **in** well-defined, urgent situations, reducing the technical, administrative and legal challenges that ~~business~~ **businesses** faced under the previous regime. This would ensure that data requests are relevant and proportionate to responding, ~~mitigating,~~ or supporting the recovery from **public emergencies. While ‘responding to’ a public emergency presupposes an** **ongoing public emergency, which has been determined or officially declared in** **accordance with the relevant procedures under Union or national law, ‘supporting** **the recovery from’ a public emergency covers measures undertaken after the public** **emergency has been determined or officially declared over. The third alternative of** **‘mitigating’ a public emergency under Regulation (EU) 2023/2854 should be deleted** **because it is already covered by the notion of ‘responding to’** public emergencies. Since the updated Union framework on European statistics under Regulation (EC) No 223/2009 of the European Parliament and of the Council ^(11) does not address public emergencies, it is essential to preserve the role of official statistics under Chapter V of Regulation (EU) 2023/2854 to ensure clarity and effectiveness in such situations. It is also necessary to clarify the compensation regime for situations where microenterprises and small enterprises are required to provide data to address a public emergency, in which case such enterprises are allowed to claim compensation.
 
 <a id="rec-16"></a>
 (16) In order to mitigate legal uncertainties that could discourage innovative business models, it is necessary to address the substantial compliance ambiguities and burdens associated with the provisions on smart contracts executing data sharing agreements under Article 36 of Regulation (EU) 2023/2854. The absence of harmonised standards and clear definitions for key concepts such as ‘robustness’, ‘access control’, and ‘consistency with contractual terms’, combined with the requirement for a ‘safe termination or interruption mechanism’ potentially incompatible with decentralised or public blockchain architectures built on immutable ledgers, posed challenges to innovators from a cost and opportunity perspective. Additionally, the ambiguity surrounding the performance of the conformity assessment under Article 36(2) of that Regulation risks imposing disproportionate burdens. The elimination of Article 36 of Regulation (EU) 2023/2854 would therefore promote the development and market introduction of new business models, foster innovation, and reduce barriers for emerging technologies.
@@ -109,7 +109,7 @@ Whereas:
 (18) For reasons relating to financial planning and attracting investment, providers of data processing services, especially SMEs and SMCs, may prefer and offer contracts of a fixed duration. It is necessary to clarify that providers of data processing services may include provisions on proportionate early termination penalties in those contracts as long as they do not constitute an obstacle to switching. In addition, providers of data processing services that are SMEs or SMCs are particularly burdened by the need to align existing contracts for the provision of data processing services to Regulation (EU) 2023/2854. It is therefore necessary to establish a specific regime for those providers if they provide data processing services, other than IaaS, based on contracts concluded before or on 12 September 2025. Taking into account the aim of Regulation (EU) 2023/2854 to enable switching between data processing services and given that switching charges, including egress charges, constitute a serious obstacle to switching, the new lighter regimes for data processing services that are custom-made or are provided by SMEs or SMCs should not undermine the gradual withdrawal of those charges. Contractual provisions running contrary to that objective should be considered to never have existed, if they are included in contractual agreements on the provision of services falling within the scope of those two new specific regimes.
 
 <a id="rec-19"></a>
-(19) Regulation (EU) 2018/1807 of the European Parliament and of the Council ^(12) introduced a key principle for supporting the data-driven economy within the Union, underpinning in concrete terms the freedom of establishment and freedom to provide a service. ‘Free flow of data’ ~~in~~**within** the Union, clarified through the prohibition to impose data localisation, remains a fundamental principle, providing legal certainty to businesses, and should be retained in Regulation (EU) 2023/2854**. The Commission should continue monitoring** **deviations from this principle**. The provision does not affect the data processing in so far as it is carried out as part of an activity which falls outside the scope of Union law, in particular as regards national security, in accordance with Article 4 of the Treaty on European Union. At the same time, other provisions of Regulation (EU) 2018/1807 are superseded by more recent rules. Notably, Chapter VI of Regulation (EU) 2023/2854 introduced a modern horizontal legal framework addressing switching between data processing services and rendered Article 6 of Regulation (EU) 2018/1807 practically obsolete. The co-existence of those provisions has increased legal complexity for businesses. Therefore, Regulation (EU) 2018/1807 should be repealed.
+(19) Regulation (EU) 2018/1807 of the European Parliament and of the Council ^(12) introduced a key principle for supporting the data-driven economy within the Union, underpinning in concrete terms the freedom of establishment and freedom to provide a service. ‘Free flow of data’ ~~in~~ **within** the Union, clarified through the prohibition to impose data localisation, remains a fundamental principle, providing legal certainty to businesses, and should be retained in Regulation (EU) 2023/2854**. The Commission should continue monitoring** **deviations from this principle**. The provision does not affect the data processing in so far as it is carried out as part of an activity which falls outside the scope of Union law, in particular as regards national security, in accordance with Article 4 of the Treaty on European Union. At the same time, other provisions of Regulation (EU) 2018/1807 are superseded by more recent rules. Notably, Chapter VI of Regulation (EU) 2023/2854 introduced a modern horizontal legal framework addressing switching between data processing services and rendered Article 6 of Regulation (EU) 2018/1807 practically obsolete. The co-existence of those provisions has increased legal complexity for businesses. Therefore, Regulation (EU) 2018/1807 should be repealed.
 
 <a id="rec-20"></a>
 (20) The concept of ‘public security’, within the meaning of Article 52 TFEU and as interpreted by the Court of Justice, covers both the internal and external security of a Member State, as well as issues of public safety, in order, in particular, to facilitate the investigation, detection and prosecution of criminal offences. It presupposes the existence of a genuine and sufficiently serious threat affecting one of the fundamental interests of society, such as a threat to the functioning of institutions and essential public services and the survival of the population, as well as the risk of a serious disturbance to foreign relations or the peaceful coexistence of nations, or a risk to military interests. In compliance with the principle of proportionality, data localisation requirements that are justified on grounds of public security should be suitable for attaining the objective pursued, and should not go beyond what is necessary to attain that objective.
@@ -118,7 +118,7 @@ Whereas:
 (21) Both Directive (EU) 2019/1024 and Chapter II of Regulation (EU) 2022/868 regulate the re-use of public sector information for innovation purposes. The interplay of the two sets of rules has created legal uncertainty, mainly for public sector bodies. An alignment of the rules in one legal instrument is therefore necessary to bring further legal coherence and certainty.
 
 <a id="rec-22"></a>
-(22) Since both Directive (EU) 2019/1024 and Regulation (EU) 2022/868 share the goal of enhancing the re-use of public sector information, and ~~inn~~**in** order to simplify rules from the perspective of both public sector bodies and ~~of~~ re-users of public sector information, it is rational to repeal Directive (EU) 2019/1024 and Regulation (EU) 2022/868 ~~and~~**,** align the two regimes and consolidate the rules in a single Chapter under this Regulation. This solution will increase harmonisation of those rules across the Union, reduce the administrative burden associated with interpreting and implementing national legislation and make it easier for businesses to develop cross-border services and products. **However,** **the consolidation respects and allows to maintain national organisational specificities** **to ensure flexibility for national, regional and local administrations.** When designating competent bodies, Member States should ensure that even where sector-specific competent bodies are designated, all relevant sectors are ultimately covered. The amendments in this Regulation should be understood not to alter the interpretation of the different definition and terms, unless clearly specified. **In line with this rationale, it should be recalled that** **the intellectual property rights of third parties are not affected by Chapter VIIc. The** **term ‘intellectual property rights’ refers to copyright and related rights only,** **including sui generis forms of protection. Section 2 of Chapter VIIc does not apply to** **data or documents covered by industrial property rights, such as patents and** **registered designs and trade marks.**
+(22) Since both Directive (EU) 2019/1024 and Regulation (EU) 2022/868 share the goal of enhancing the re-use of public sector information, and ~~inn~~ **in** order to simplify rules from the perspective of both public sector bodies and ~~of~~ re-users of public sector information, it is rational to repeal Directive (EU) 2019/1024 and Regulation (EU) 2022/868 ~~and~~ **,** align the two regimes and consolidate the rules in a single Chapter under this Regulation. This solution will increase harmonisation of those rules across the Union, reduce the administrative burden associated with interpreting and implementing national legislation and make it easier for businesses to develop cross-border services and products. **However,** **the consolidation respects and allows to maintain national organisational specificities** **to ensure flexibility for national, regional and local administrations.** When designating competent bodies, Member States should ensure that even where sector-specific competent bodies are designated, all relevant sectors are ultimately covered. The amendments in this Regulation should be understood not to alter the interpretation of the different definition and terms, unless clearly specified. **In line with this rationale, it should be recalled that** **the intellectual property rights of third parties are not affected by Chapter VIIc. The** **term ‘intellectual property rights’ refers to copyright and related rights only,** **including sui generis forms of protection. Section 2 of Chapter VIIc does not apply to** **data or documents covered by industrial property rights, such as patents and** **registered designs and trade marks.**
 
 <a id="rec-23"></a>
 (23) Data and documents, which can be made publicly available for reuse, and data and documents, which are protected on the grounds of commercial confidentiality, including business, professional and company secrets, statistical confidentiality, the protection of intellectual property rights of third parties or the protection of personal data, are often held by the same public sector bodies. Therefore, it is necessary to align definitions and common principles applying to all public sector information and **to** address questions regarding the interplay of the two sets of rules.
@@ -129,7 +129,7 @@ Whereas:
 **(24a) The consolidation of the rules should in particular maintain the principle that the** **rules under Section 3 of Chapter VIIc should not create an obligation to allow the re-** **use of certain categories of protected data held by public sector bodies. In particular,** **Member States should therefore be able to decide whether such protected data is** **made accessible for re-use, also in terms of the purposes and scope of such access.** **This Regulation should complement and be without prejudice to more specific** **obligations on public sector bodies to allow re-use of protected data laid down in** **sector-specific Union or national law. Public access to official documents may be** **considered to be in the public interest. Taking into account the role of public access to** **official documents and transparency in a democratic society, this Regulation should** **also be without prejudice to Union or national law on granting access to and** **disclosing official documents. Access to official documents may in particular be** **granted in accordance with national law without imposing specific conditions or by** **imposing specific conditions that are not provided by this Regulation.** **The re-use regime provided for under Section 3 of Chapter VIIc should apply to** **protected data the supply of which forms part of the public tasks of the public sector** **bodies concerned under law or other binding rules in the Member States. In the** **absence of such rules, the public tasks should be defined in accordance with common** **administrative practice in the Member States, provided that the scope of the public** **tasks is transparent and subject to review. The public tasks could be defined** **generally or on a case-by-case basis for individual public sector bodies. The protected** **data held by public undertakings should not be covered by this Regulation. Protected** **data held by cultural establishments, such as libraries, archives and museums as well** **as orchestras, operas, ballets and theatres, and by educational establishments should** **not be covered by the rules under Section 3 of Chapter VIIc, since the works and** **other documents they hold are predominantly covered by third party intellectual** **property rights. Research-performing organisations and research-funding** **organisations could also be organised as public sector bodies or bodies governed by** **public law. The rules relating to protected data should apply to such hybrid** **organisations only in their capacity as research-performing organisations. If a** **research-performing organisation holds protected data as a part of a specific public-** **private association with private sector organisations or other public sector bodies,** **bodies governed by public law or hybrid research-performing organisations, i.e.** **organised as either public sector bodies or public undertakings, with the main** **purpose of pursuing research, those protected data should also not be covered by the** **rules governing the re-use of protected data. Where relevant, Member States should** **be able to apply the rules on protected data under Section 3 Chapter VIIc to public** **undertakings or private undertakings that exercise public sector duties or provide** **services of general interest. The exchange of protected data, purely in pursuit of their** **public tasks, among public sector bodies in the Union or between public sector bodies** **in the Union and public sector bodies in third countries or international** **organisations, as well as the exchange of protected data between researchers for non-** **commercial scientific research purposes, should not be subject to the provisions** **concerning the re-use of certain categories of protected data held by public sector** **bodies.**
 
 <a id="rec-25"></a>
-(25) Start-ups, small enterprises and enterprises that qualify as medium-sized enterprises under ~~Article~~**point** 2 of the Annex to Commission Recommendation 2003/361/EC ^(13) and enterprises from sectors with less-developed digital capabilities struggle to re-use data and documents. At the same time a few very large entities have emerged with considerable economic power in the digital economy through the accumulation and aggregation of vast volumes of data and the technological infrastructure for monetising them. Those very large enterprises include undertakings that provide core platform services and are designated as gatekeepers under Regulation (EU) 2022/1925 of the European Parliament and of the Council ^(14) and subject to special obligations to address the imbalances. To address those imbalances and strengthen competition and innovation, public sector bodies should be able to introduce special conditions in licences pertaining to the re-use of data and documents by very large enterprises. **Member States may further specify the criteria for what** **constitutes a very large enterprise for the purpose of Regulation (EU) 2023/2854.** Any such conditions should be proportionate, be based on objective criteria, taking into consideration the economic power, the entity’s ability to acquire data or the designation as a gatekeeper under Regulation ~~€~~**(EU)** 2022/1925, other such criteria, where appropriate. Such special conditions may, inter alia, pertain to the charges and fees or the purposes of re-use.
+(25) Start-ups, small enterprises and enterprises that qualify as medium-sized enterprises under ~~Article~~ **point** 2 of the Annex to Commission Recommendation 2003/361/EC ^(13) and enterprises from sectors with less-developed digital capabilities struggle to re-use data and documents. At the same time a few very large entities have emerged with considerable economic power in the digital economy through the accumulation and aggregation of vast volumes of data and the technological infrastructure for monetising them. Those very large enterprises include undertakings that provide core platform services and are designated as gatekeepers under Regulation (EU) 2022/1925 of the European Parliament and of the Council ^(14) and subject to special obligations to address the imbalances. To address those imbalances and strengthen competition and innovation, public sector bodies should be able to introduce special conditions in licences pertaining to the re-use of data and documents by very large enterprises. **Member States may further specify the criteria for what** **constitutes a very large enterprise for the purpose of Regulation (EU) 2023/2854.** Any such conditions should be proportionate, be based on objective criteria, taking into consideration the economic power, the entity’s ability to acquire data or the designation as a gatekeeper under Regulation ~~€~~ **(EU)** 2022/1925, other such criteria, where appropriate. Such special conditions may, inter alia, pertain to the charges and fees or the purposes of re-use.
 
 <a id="rec-26"></a>
 (26) In the spirit of fostering innovation and maintaining fair competition within the Union’s digital market, it is imperative to ensure that access to and reuse of public sector data benefit a wide range of market participants and do not inadvertently reinforce existing dominant positions. Very large enterprises, and in particular undertakings designated as gatekeepers under Regulation (EU) 2022/1925, hold significant power and influence over the internal market. To prevent such entities from leveraging their substantial means to the detriment of fair competition and innovation, public sector bodies should be able to set out higher charges and fees for the re-use of **public sector** open ~~government~~ data and protected data. Such higher charges and fees should be proportionate and should be based on objective criteria, taking into consideration the economic power and the entity’s ability to acquire data. This measure serves to safeguard opportunities for smaller businesses and new market entrants to innovate and compete in the digital economy.
@@ -173,17 +173,17 @@ Regulation (EU) 2023/2854 is amended as follows:
 
   - (h) Chapter VIIb applies to any non-personal data;
 
-  - (i) ~~Chapter VIIc applies to personal and non-personal data, namely the following:~~
+  - ~~(i) Chapter VIIc applies to personal and non-personal data, namely the following:~~
 
-    - (i) ~~documents held by public sector bodies of Member States as referred~~
+    - ~~(i) documents held by public sector bodies of Member States as referred~~
 
-      - (1) ~~to in Article 32i(1), point (a) or by public undertakings as referred~~
+      - ~~(1) to in Article 32i(1), point (a) or by public undertakings as referred~~
 
-      - (2) ~~to in Article 32i(1), point (b);~~
+      - ~~(2) to in Article 32i(1), point (b);~~
 
-    - (ii) ~~research data as referred to in Article 32i(1), point (c);~~
+    - ~~(ii) research data as referred to in Article 32i(1), point (c);~~
 
-    - (iii) ~~certain categories of protected data as referred to in Article 32i(1), point~~ ~~(a).’~~
+    - ~~(iii) certain categories of protected data as referred to in Article 32i(1), point~~ ~~(a).’~~
 
 - (c) in paragraph 3, point (g) is replaced by the following:
 
@@ -213,7 +213,7 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
   - (4b) ‘permission’ **in the context of Chapters VIIa and VIIc** means giving data users the right to the processing of non-personal data;
 
-  - (4c) ~~‘access’ means data use, in accordance with specific technical, legal or~~ ~~organisational requirements, without necessarily implying the transmission or~~ ~~downloading of data;~~
+  - ~~(4c) ‘access’ means data use, in accordance with specific technical, legal or~~ ~~organisational requirements, without necessarily implying the transmission or~~ ~~downloading of data;~~
 
   - (b) **point (10) is replaced by the following:**
 
@@ -229,31 +229,31 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
 - (c) the following points (28a) and (28b) are inserted:
 
-‘(28a) ‘bodies governed by public law’ means bodies ~~that have all of the following~~ ~~characteristics:~~**as defined in Article 2(1)(4) of Directive 2014/24/EU.**
+‘(28a) ‘bodies governed by public law’ means bodies ~~that have all of the following~~ ~~characteristics:~~ **as defined in Article 2(1)(4) of Directive 2014/24/EU.**
 
-  - (a) ~~they are established for the specific purpose of meeting needs in the~~ ~~general interest, not having an industrial or commercial character;~~
+  - ~~(a) they are established for the specific purpose of meeting needs in the~~ ~~general interest, not having an industrial or commercial character;~~
 
-  - (b) ~~they have legal personality;~~
+  - ~~(b) they have legal personality;~~
 
-  - (c) ~~they are financed, for the most part by the State, regional or local~~ ~~authorities, or by other bodies governed by public law; or are subject to~~ ~~management supervision by those authorities or bodies; or have an~~ ~~administrative, managerial or supervisory board, more than half of whose~~ ~~members are appointed by the State, regional or local authorities, or by~~ ~~other bodies governed by public law;~~
+  - ~~(c) they are financed, for the most part by the State, regional or local~~ ~~authorities, or by other bodies governed by public law; or are subject to~~ ~~management supervision by those authorities or bodies; or have an~~ ~~administrative, managerial or supervisory board, more than half of whose~~ ~~members are appointed by the State, regional or local authorities, or by~~ ~~other bodies governed by public law;~~
 
-  - (28b) ‘public undertaking’ means any undertaking ~~over which a public sector body~~ ~~may exercise directly or indirectly a dominant influence by virtue of their~~ ~~ownership of it, their financial participation therein, or the rules which govern~~ ~~it~~**as defined in Article 4(2) of Directive 2014/25/EU**. ~~A dominant influence~~ ~~on the part of the public sector bodies shall be presumed in any of the~~ ~~following cases in which those bodies, directly or indirectly:~~
+  - (28b) ‘public undertaking’ means any undertaking ~~over which a public sector body~~ ~~may exercise directly or indirectly a dominant influence by virtue of their~~ ~~ownership of it, their financial participation therein, or the rules which govern~~ ~~it~~ **as defined in Article 4(2) of Directive 2014/25/EU**. ~~A dominant influence~~ ~~on the part of the public sector bodies shall be presumed in any of the~~ ~~following cases in which those bodies, directly or indirectly:~~
 
-    - (a) ~~hold the majority of the undertaking's subscribed capital;~~
+    - ~~(a) hold the majority of the undertaking's subscribed capital;~~
 
-    - (b) ~~control the majority of the votes attaching to shares issued by the~~ ~~undertaking;~~
+    - ~~(b) control the majority of the votes attaching to shares issued by the~~ ~~undertaking;~~
 
-    - (c) ~~can appoint more than half of the undertaking's administrative,~~ ~~management or supervisory body;;’~~
+    - ~~(c) can appoint more than half of the undertaking's administrative,~~ ~~management or supervisory body;;’~~
 
-~~(d)~~**(e)** the following ~~points (38a) and (38b) are~~**point (38a) is** inserted:
+- (e) ~~(d)~~ the following ~~points (38a) and (38b) are~~ **point (38a) is** inserted:
 
 ~~‘(38a) ‘data intermediation service’ means a service which aims to establish~~ ~~relationships of an economic character for the purposes of data sharing~~ ~~between an undetermined number of data subjects or data holders and data~~ ~~users, through technical, legal or other means, including for the purpose of~~ ~~exercising the rights of data subjects in relation to personal data, and which:~~
 
-    - (1) ~~do not have as their main purpose the intermediation of copyright-~~ ~~protected content;~~
+  - ~~(1) do not have as their main purpose the intermediation of copyright-~~ ~~protected content;~~
 
-    - (2) ~~are not jointly procured by several legal persons for exclusive use among~~ ~~them;~~
+  - ~~(2) are not jointly procured by several legal persons for exclusive use among~~ ~~them;~~
 
-(~~38b~~**38a**) ‘data altruism’ means the voluntary sharing of data on the basis of the consent of data subjects to process personal data pertaining to them, or of permissions of data holders to allow the use of their non-personal data without seeking or receiving a reward that goes beyond compensation related to the costs that they incur where they make their data available for objectives of general interest as provided for in national law, where applicable, such as healthcare, combating climate change, improving mobility, facilitating the development, production and dissemination of official statistics, improving the provision of public services, public policy making or scientific research purposes in the general interest;
+(~~38b~~ **38a**) ‘data altruism’ means the voluntary sharing of data on the basis of the consent of data subjects to process personal data pertaining to them, or of permissions of data holders to allow the use of their non-personal data without seeking or receiving a reward that goes beyond compensation related to the costs that they incur where they make their data available for objectives of general interest as provided for in national law, where applicable, such as healthcare, combating climate change, improving mobility, facilitating the development, production and dissemination of official statistics, improving the provision of public services, public policy making or scientific research purposes in the general interest;
 
   - (ea) **point (39) is deleted.**
 
@@ -261,13 +261,13 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
     - (42) **‘common specifications’ means a set of technical requirements, other** **than a standard, that provides means of complying with certain** **requirements and obligations established under this Regulation.’**
 
-- (e) the following points (44) to (~~63~~**62**) are added:
+- (e) the following points (44) to (~~63~~ **62**) are added:
 
-‘(44) ‘medium-sized enterprise’ means a medium-sized enterprise as defined in ~~Article~~**point** 2 of Annex I to Recommendation 2003/361/EC;
+‘(44) ‘medium-sized enterprise’ means a medium-sized enterprise as defined in ~~Article~~ **point** 2 of Annex I to Recommendation 2003/361/EC;
 
-  - (45) ‘small mid-cap’ or ‘SMC’ means a small mid-cap enterprise as defined in ~~Article~~**point** 2 of the Annex to Commission Recommendation (EU) 2025/1099;
+  - (45) ‘small mid-cap’ or ‘SMC’ means a small mid-cap enterprise as defined in ~~Article~~ **point** 2 of the Annex to Commission Recommendation (EU) 2025/1099;
 
-  - (46) ‘university’ means ~~a~~**any** public sector body that provides post-secondaryschool higher education leading to academic degrees;
+  - (46) ‘university’ means ~~a~~ **any** public sector body that provides post-secondaryschool higher education leading to academic degrees;
 
   - (47) ‘standard licence’ means a set of predefined re-use conditions in a digital format, preferably compatible with standardised public licences available online;
 
@@ -279,9 +279,9 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
   - (49) ‘dynamic data’ **in the context of Chapter VIIc** means data ~~and documents in a~~ ~~digital form~~, subject to frequent or real-time updates, in particular because of their volatility or rapid obsolescence; data generated by sensors are typically considered to be dynamic data;
 
-  - (50) ‘research data’ means data, other than scientific publications, which are collected or produced in the course of scientific research activities and are used as evidence in the research process, or are commonly accepted in the research community as necessary to validate research findings ~~and~~**or** results;
+  - (50) ‘research data’ means data, other than scientific publications, which are collected or produced in the course of scientific research activities and are used as evidence in the research process, or are commonly accepted in the research community as necessary to validate research findings ~~and~~ **or** results;
 
-  - (51) ‘re-use’ means the use by natural ~~persons~~ or legal ~~entities of~~**persons of data or** documents held by:
+  - (51) ‘re-use’ means the use by natural ~~persons~~ or legal ~~entities of~~ **persons of data or** documents held by:
 
     - (a) public sector bodies, for commercial or non-commercial purposes other than the initial purpose within the public task for which the **data or** documents were produced, except for the exchange of **data or** documents between public sector bodies purely in pursuit of their public tasks; or
 
@@ -305,7 +305,7 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
   - (56) ‘machine-readable format’ means a file format structured so that software applications can easily identify, recognise and extract specific data, including individual statements of fact, and their internal structure;
 
-  - (57) ‘open format’ means a ~~file~~ format that is platform-independent and made available to the public without any restriction that impedes the re-use of ~~documents~~**data**;
+  - (57) ‘open format’ means a ~~file~~ format that is platform-independent and made available to the public without any restriction that impedes the re-use of ~~documents~~ **data**;
 
   - (58) ‘formal open standard’ means a standard which has been laid down in written form, detailing specifications for the requirements on how to ensure software interoperability;
 
@@ -315,15 +315,15 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
   - (61) **‘draft act’ means a text drafted for the purpose of being enacted as a law,** **regulation or administrative provision of a general nature, the text being** **at the stage of preparation at which substantive amendments can still be** **made;**
 
-  - (6162) ‘pseudonymisation’ means pseudonymisation as referred to under Article 4(5) of Regulation (EU) 2016/679.’
+(~~61~~ **62**) ‘pseudonymisation’ means pseudonymisation as referred to under Article 4(5) of Regulation (EU) 2016/679.’
 
 3. in Article 4, paragraph 8 is replaced by the following:
 
-‘8. In exceptional circumstances, where the data holder who is a trade secret holder is able to demonstrate that, despite the technical and organisational measures taken by the user pursuant to paragraph 6 of this Article, it is highly likely to suffer serious economic damage from the disclosure of trade secrets or that the disclosure of trade secrets to the user poses a high risk of unlawful acquisition, use, or disclosure to third country entities, or entities established in the Union under the direct or indirect control of such entities, which are subject to jurisdictions offering weaker or non-equivalent protection compared to that under Union law, that data holder may refuse on a case-by-case basis a request for access to the specific data in question. That demonstration shall be duly substantiated on the basis of objective elements, such as the enforceability of trade secrets protection in third countries, the nature and level of confidentiality of the data requested, and the uniqueness and novelty of the connected product. It shall be provided in writing to the user without undue delay. Where the data holder refuses to share data pursuant to this paragraph, it shall notify the competent authority designated pursuant to Article 37.~~;~~ **The Commission shall** **issue guidance, in consultation with the European Data Innovation Board** **(EDIB), on the application of this paragraph, such as the assessment of serious** **economic damage, and the enforceability of trade secrets protection in third** **countries.’**
+‘8. In exceptional circumstances, where the data holder who is a trade secret holder is able to demonstrate that, despite the technical and organisational measures taken by the user pursuant to paragraph 6 of this Article, it is highly likely to suffer serious economic damage from the disclosure of trade secrets or that the disclosure of trade secrets to the user poses a high risk of unlawful acquisition, use, or disclosure to third country entities, or entities established in the Union under the direct or indirect control of such entities, which are subject to jurisdictions offering weaker or non-equivalent protection compared to that under Union law, that data holder may refuse on a case-by-case basis a request for access to the specific data in question. That demonstration shall be duly substantiated on the basis of objective elements, such as the enforceability of trade secrets protection in third countries, the nature and level of confidentiality of the data requested, and the uniqueness and novelty of the connected product. It shall be provided in writing to the user without undue delay. Where the data holder refuses to share data pursuant to this paragraph, it shall notify the competent authority designated pursuant to Article 37. ~~;~~ **The Commission shall** **issue guidance, in consultation with the European Data Innovation Board** **(EDIB), on the application of this paragraph, such as the assessment of serious** **economic damage, and the enforceability of trade secrets protection in third** **countries.’**
 
 4. in Article 5, paragraph 11 is replaced by the following:
 
-‘11. In exceptional circumstances, where the data holder who is a trade secret holder is able to demonstrate that, despite the technical and organisational measures taken by the third party pursuant to paragraph 9 of this Article, it is highly likely to suffer serious economic damage from the disclosure of trade secrets or that the disclosure of trade secrets to the third party poses a high risk of unlawful acquisition, use, or disclosure to third country entities, or entities established in the Union under the direct or indirect control of such entities, which are subject to jurisdictions offering weaker or non-equivalent protection compared to that under Union law, that data holder may refuse on a case-by-case basis a request for access to the specific data in question. That demonstration shall be duly substantiated on the basis of objective elements, such as the enforceability of trade secrets protection in third countries, the nature and level of confidentiality of the data requested, and the uniqueness and novelty of the connected product. It shall be provided in writing to the third party without undue delay. Where the data holder refuses to share data pursuant to this paragraph, it shall notify the competent authority designated pursuant to Article 37.~~;~~ **The Commission shall issue guidance, in consultation with the European Data** **Innovation Board (EDIB), on the application of this paragraph, such as the** **assessment of serious economic damage, and the enforceability of trade secrets** **protection in third countries.'**
+‘11. In exceptional circumstances, where the data holder who is a trade secret holder is able to demonstrate that, despite the technical and organisational measures taken by the third party pursuant to paragraph 9 of this Article, it is highly likely to suffer serious economic damage from the disclosure of trade secrets or that the disclosure of trade secrets to the third party poses a high risk of unlawful acquisition, use, or disclosure to third country entities, or entities established in the Union under the direct or indirect control of such entities, which are subject to jurisdictions offering weaker or non-equivalent protection compared to that under Union law, that data holder may refuse on a case-by-case basis a request for access to the specific data in question. That demonstration shall be duly substantiated on the basis of objective elements, such as the enforceability of trade secrets protection in third countries, the nature and level of confidentiality of the data requested, and the uniqueness and novelty of the connected product. It shall be provided in writing to the third party without undue delay. Where the data holder refuses to share data pursuant to this paragraph, it shall notify the competent authority designated pursuant to Article 37. ~~;~~ **The Commission shall issue guidance, in consultation with the European Data** **Innovation Board (EDIB), on the application of this paragraph, such as the** **assessment of serious economic damage, and the enforceability of trade secrets** **protection in third countries.'**
 
 **4a. in Article 11 paragraph 1 is replaced by the following:**
 
@@ -341,9 +341,9 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
 Obligation for data holders to make data available on the basis of a public emergency
 
-1. Where a public sector body, the Commission, the European Central Bank or a Union body demonstrates ~~an exceptional~~**the** need to use certain data to carry out its statutory duties in the public interest when responding to, ~~mitigating,~~ or supporting the recovery from a public emergency, it may request from data holders that are legal persons, other than public sectors bodies, to make available those data, including the metadata necessary to interpret and use those data. Upon such duly reasoned request, data holders shall make the data and metadata available to the requesting public sector body, the Commission, the European Central Bank or Union body. Such requests may also be made where the production of official statistics is required in relation to a public emergency.
+1. Where a public sector body, the Commission, the European Central Bank or a Union body demonstrates ~~an exceptional~~ **the** need to use certain data to carry out its statutory duties in the public interest when responding to, ~~mitigating,~~ or supporting the recovery from a public emergency, it may request from data holders that are legal persons, other than public sectors bodies, to make available those data, including the metadata necessary to interpret and use those data. Upon such duly reasoned request, data holders shall make the data and metadata available to the requesting public sector body, the Commission, the European Central Bank or Union body. Such requests may also be made where the production of official statistics is required in relation to a public emergency.
 
-2. Where the data requested are necessary to respond to a public emergency, and the requesting body pursuant to paragraph 1 is unable to obtain such data by other means in a timely and effective manner under equivalent conditions, the request shall concern non-personal data. Where the provision of non-personal data is insufficient to ~~address~~**respond to** the public emergency, personal data may also be requested and, ~~where possible~~, made available in ~~pseudonymized~~**pseudonymised** form, subject to appropriate technical and organisational measures to ensure their protection.
+2. Where the data requested are necessary to respond to a public emergency, and the requesting body pursuant to paragraph 1 is unable to obtain such data by other means in a timely and effective manner under equivalent conditions, the request shall concern non-personal data. Where the provision of non-personal data is insufficient to ~~address~~ **respond to** the public emergency, personal data may also be requested and, ~~where possible~~, made available in ~~pseudonymized~~ **pseudonymised** form, subject to appropriate technical and organisational measures to ensure their protection.
 
 3. Where the data requested are necessary to ~~mitigate or~~ support the recovery from a public emergency, a requesting body pursuant to paragraph 1 acting on the basis of Union or national law, may request specific non-personal data, the lack of which prevent it from ~~mitigating or~~ supporting the recovery from a public emergency. Such requests shall not be made to microenterprises and small enterprises.;’
 
@@ -455,7 +455,7 @@ The provider of such data processing services shall not be required to renegotia
 
 Where the provider of data processing service is a small and medium-sized enterprise or a small mid-cap, the obligations laid down in Chapter VI, with the exception of Article 29, and in Article 34 shall not apply to data processing services other than those referred to in Article 30(1), if the provision of such services is based on a contract concluded before or on 12 September 2025.
 
-Where the provider of a data processing service is a small and medium-sized enterprise or a small mid-cap, the provider shall not be required to renegotiate or amend a contract for the provision of a data processing service other than those referred to in Article 30(1) before its expiry 1 if that contract was concluded before or on 12 September 2025. Any contractual provision contained in that contract that is contrary to Article 29(1), (2), or (3) shall be considered null and void.~~;~~
+Where the provider of a data processing service is a small and medium-sized enterprise or a small mid-cap, the provider shall not be required to renegotiate or amend a contract for the provision of a data processing service other than those referred to in Article 30(1) before its expiry 1 if that contract was concluded before or on 12 September 2025. Any contractual provision contained in that contract that is contrary to Article 29(1), (2), or (3) shall be considered null and void. ~~;~~
 
 **1c.**
 
@@ -512,25 +512,25 @@ Where the provider of a data processing service is a small and medium-sized ente
 <a id="art-32c"></a>
 ### Article 32c – General requirements for registration of recognised data intermediation services providers
 
-In order to qualify for registration in the public Union register referred to in Article 32a paragraph 1 point (a), ~~a~~ data intermediation services ~~provider~~**providers** shall meet all of the following requirements:
+In order to qualify for registration in the public Union register referred to in Article 32a paragraph 1 point (a), ~~a~~ data intermediation services ~~provider~~ **providers** shall meet all of the following requirements:
 
 - (a) they do not use the data for which it provides data intermediation services for purposes other than to put them at the disposal of data users;
 
-- (b) the data they collect with respect to any activity of a natural or legal person for the purpose of the provision of the data intermediation service, including the date, time and geolocation data, duration of activity and connections to other natural or legal persons established by the person who uses the data intermediation service, are used only for the development of that data intermediation service~~;~~**, which may entail the use of data for the detection of** **fraud or cybersecurity.**
+- (b) the data they collect with respect to any activity of a natural or legal person for the purpose of the provision of the data intermediation service, including the date, time and geolocation data, duration of activity and connections to other natural or legal persons established by the person who uses the data intermediation service, are used only for the development of that data intermediation service ~~;~~ **, which may entail the use of data for the detection of** **fraud or cybersecurity.**
 
-- (c) where they offer additional tools and services to data holders ~~or~~**,** data subjects **or data users** for the specific purpose of facilitating the exchange of data, such as temporary storage, curation, conversion, encryption, anonymisation and pseudonymisation **or other relevant privacy-enhancing technologies**, such tools and services are used only at the explicit request or approval of the data holder or data subject **or data user**;
+- (c) where they offer additional tools and services to data holders ~~or~~ **,** data subjects **or data users** for the specific purpose of facilitating the exchange of data, such as temporary storage, curation, conversion, encryption, anonymisation and pseudonymisation **or other relevant privacy-enhancing technologies**, such tools and services are used only at the explicit request or approval of the data holder or data subject **or data user**;
 
-- (d) where data intermediation service providers ~~which are not micro and small~~ ~~sized enterprises~~ offer ~~value-added~~ services to their clients other than **data** **intermediation services and the additional tools and**~~the~~ services referred to in point (c), they fulfil the following conditions:
+- (d) where data intermediation service providers ~~which are not micro and small~~ ~~sized enterprises~~ offer ~~value-added~~ services to their clients other than **data** **intermediation services and the additional tools and** ~~the~~ services referred to in point (c), they fulfil the following conditions:
 
-  - (i) ~~the value-added~~**such other** services are explicitly requested by the **data** **holder, data subject or data** user;
+  - (i) ~~the value-added~~ **such other** services are explicitly requested by the **data** **holder, data subject or data** user;
 
-  - (ii) the data are not used for other purposes than performing the ~~value-~~ ~~added~~**requested** service;
+  - (ii) the data are not used for other purposes than performing the ~~value-~~ ~~added~~ **requested** service;
 
-  - (iii) the ~~value-added~~**data intermediation** services are offered through ~~a~~**an** **entity** functionally separate ~~entity~~**from entities offering other services**;
+  - (iii) the ~~value-added~~ **data intermediation** services are offered through ~~a~~ **an** **entity** functionally separate ~~entity~~ **from entities offering other services**;
 
-  - (iv) the undertaking seeking to offer the ~~value-added~~**other** services is not designated as a gatekeeper pursuant to Article 3 of Regulation (EU) 2022/1925;
+  - (iv) the undertaking seeking to offer the ~~value-added~~ **other** services is not designated as a gatekeeper pursuant to Article 3 of Regulation (EU) 2022/1925;
 
-  - (v) the commercial terms, including pricing, for the provision of data intermediation services to a data holder or data user are not dependent upon whether the data holder or data user uses ~~value-added~~**other** services provided by the data intermediation services provider or by a related entity;
+  - (v) the commercial terms, including pricing, for the provision of data intermediation services to a data holder or data user are not dependent upon whether the data holder or data user uses ~~value-added~~ **other** services provided by the data intermediation services provider or by a related entity;
 
 - (e) the data intermediation services provider offering services to data subjects acts in the data subjects’ best interest where it facilitates the exercise of their rights, in particular by informing and, where appropriate, advising data subjects in a concise, transparent, intelligible and easily accessible manner about intended data uses by data users and standard terms and conditions attached to such uses before data subjects give consent.
 
@@ -570,7 +570,7 @@ The data intermediation services provider or data altruism organisation shall be
 
 - (4) Where a data intermediation services provider has submitted all necessary information pursuant to paragraph 3 of this Article, and complies with the requirements set out in Article 32c, the competent authority shall, within 12 weeks after the receipt of the application for registration, take a decision on whether the provider complies with the criteria set out in Article 32c. Where the **competent** **authority requests the applicant to provide additional information necessary to** **assess compliance with Article 32c, the time limit shall be suspended until the** **competent authority has received that information. In duly justified cases,** **where the assessment of compliance requires additional time due to the** **complexity or novelty of the services, the competent authority may extend the** **time limit once by a maximum of 12 weeks and shall inform the applicant** **accordingly, stating reasons. Where the** provider complies with the criteria, the competent authority shall submit the relevant information to the Commission which shall register the providers in the public Union register as a recognised data intermediation services provider.
 
-The first subparagraph shall also apply where a data altruism organisation has submitted all necessary information pursuant to paragraph ~~2~~**3**, and complies with the registration requirements set out in Article 32d.
+The first subparagraph shall also apply where a data altruism organisation has submitted all necessary information pursuant to paragraph ~~2~~ **3**, and complies with the registration requirements set out in Article 32d.
 
 The registration in the public Union register shall be valid in all Member States.
 
@@ -600,7 +600,7 @@ The registration in the public Union register shall be valid in all Member State
 <a id="art-32g"></a>
 ### Article 32g – Monitoring of compliance
 
-- (1) The competent authorities referred to in Article 32b shall~~, either on their own~~ ~~initiative or on a request by a natural or legal person, monitor and~~ supervise whether recognised data intermediation services providers and recognised data altruism organisations comply with the requirements laid down in this Chapter, including whether they continue to comply with the requirements for registration laid down therein. **Those competent authorities may also monitor and supervise the** **compliance of data intermediation services providers and recognised data** **altruism organisations, on the basis of a request by a natural or legal person.**
+- (1) The competent authorities referred to in Article 32b shall ~~, either on their own~~ ~~initiative or on a request by a natural or legal person, monitor and~~ supervise whether recognised data intermediation services providers and recognised data altruism organisations comply with the requirements laid down in this Chapter, including whether they continue to comply with the requirements for registration laid down therein. **Those competent authorities may also monitor and supervise the** **compliance of data intermediation services providers and recognised data** **altruism organisations, on the basis of a request by a natural or legal person.**
 
 - (2) The competent authorities shall have the power to request from recognised data intermediation services providers or recognised data altruism organisations, or their legal representative, all the information that is necessary to verify compliance with the requirements laid down in this Chapter. Any request for information shall be proportionate to the performance of the task and shall be reasoned.
 
@@ -614,12 +614,12 @@ The registration in the public Union register shall be valid in all Member State
 
   - (b) be removed from the public Union register referred to in Article 32a.
 
-Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall** **be notified to the Commission. The Commission shall remove the entity from** **the public Union register.**~~.~~
+Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall** **be notified to the Commission. The Commission shall remove the entity from** **the public Union register.** ~~.~~
 
 <a id="chapter-vii"></a>
 ## Chapter VII – b
 
-Free flow of non-personal data ~~in~~**within** the Union’
+Free flow of non-personal data ~~in~~ **within** the Union’
 
 <a id="art-32h"></a>
 ### Article 32h – Prohibition of localisation requirements for non-personal data within the Union
@@ -679,19 +679,19 @@ Free flow of non-personal data ~~in~~**within** the Union’
 
     - (i) including cases whereby citizens or legal entities have to prove a particular interest to obtain access to documents;
 
-    - (ii) on grounds of protection of personal data, ~~and~~**as well as** parts of data or documents accessible ~~by virtue of~~**under** those regimes which contain personal data the re-use of which has been defined by law as being incompatible with the ~~law concerning~~**legal framework for** the protection of individuals with regard to the processing of personal data or as undermining the protection of privacy and the integrity of the individual, in particular ~~in accordance with~~**under** Union or national law regarding the protection of personal data; ~~logos, crests and insignia;~~
+    - (ii) on grounds of protection of personal data, ~~and~~ **as well as** parts of data or documents accessible ~~by virtue of~~ **under** those regimes which contain personal data the re-use of which has been defined by law as being incompatible with the ~~law concerning~~ **legal framework for** the protection of individuals with regard to the processing of personal data or as undermining the protection of privacy and the integrity of the individual, in particular ~~in accordance with~~ **under** Union or national law regarding the protection of personal data; ~~logos, crests and insignia;~~
 
     - (c) **logos, crests and insignia;**
 
-~~(c)~~**(d)** data or documents for which third parties hold intellectual **or industrial** property rights;
+  - (d) ~~(c)~~ data or documents for which third parties hold intellectual **or industrial** property rights;
 
-~~(d)~~**(e)** data or documents held by cultural establishments other than libraries, including university libraries, museums and archives;
+  - (e) ~~(d)~~ data or documents held by cultural establishments other than libraries, including university libraries, museums and archives;
 
-~~(e)~~**(f)** data or documents held by educational establishments of secondary level and below, and, in the case of all other educational establishments, data other than those referred to in paragraph 1, point (c);
+  - (f) ~~(e)~~ data or documents held by educational establishments of secondary level and below, and, in the case of all other educational establishments, data other than those referred to in paragraph 1, point (c);
 
-~~(f)~~**(g)** data or documents other than those referred to in paragraph 1, point (c), held by research performing organisations and research funding organisations, including organisations established for the transfer of research results;
+  - (g) ~~(f)~~ data or documents other than those referred to in paragraph 1, point (c), held by research performing organisations and research funding organisations, including organisations established for the transfer of research results;
 
-~~(g)~~**(h)** data or documents access to which is excluded or restricted on grounds of critical entity or critical infrastructure protection related information as defined in points (1) and (4) of Article 2 of Directive (EU) 2022/2557.
+  - (h) ~~(g)~~ data or documents access to which is excluded or restricted on grounds of critical entity or critical infrastructure protection related information as defined in points (1) and (4) of Article 2 of Directive (EU) 2022/2557.
 
 - (4) Section 3 of this Chapter does not apply to:
 
@@ -713,7 +713,7 @@ Free flow of non-personal data ~~in~~**within** the Union’
 
 - (8) This Chapter governs the re-use of existing data and documents held by public sector bodies and public undertakings of the Member States, including data and documents to which Directive 2007/2/EC of the European Parliament and of the Council applies.
 
-- (9) This Chapter is without prejudice to Union and national law and international agreements to which the Union or Member States are party on the protection of categories of data or documents referred to in Article 2(~~54~~**53**).
+- (9) This Chapter is without prejudice to Union and national law and international agreements to which the Union or Member States are party on the protection of categories of data or documents referred to in Article 2(~~54~~ **53**).
 
 - (10) **This Chapter shall enter into application as of [18 months after the publication** **in the Official Journal of the European Union of this Regulation].**
 
@@ -733,7 +733,7 @@ Free flow of non-personal data ~~in~~**within** the Union’
 
   - (a) the exclusive right is granted through an administrative act or contractual agreement in accordance with applicable Union and national law and in compliance with the principles of transparency, equal treatment and non-discrimination.
 
-  - (b) the agreements **or administrative acts** granting the exclusive right, including the reasons as to why it is necessary to grant such a right, ~~is~~**shall be** transparent and **shall be** made publicly available online, in a form that complies with relevant Union law on public procurement and national law.
+  - (b) the agreements **or administrative acts** granting the exclusive right, including the reasons as to why it is necessary to grant such a right, ~~is~~ **shall be** transparent and **shall be** made publicly available online, in a form that complies with relevant Union law on public procurement and national law.
 
   - (c) except for exclusive rights related to the digitisation of cultural resources, the validity of the reason for granting exclusive rights concerning data and documents within the scope of Section 2 shall be subject to regular review, and shall in any event, be reviewed every three years.
 
@@ -743,13 +743,13 @@ Free flow of non-personal data ~~in~~**within** the Union’
 
 - (4) In the case of an exclusive right referred to in paragraph 3, the public sector body concerned shall be provided free of charge with a copy of the digitised cultural resources as part of those arrangements. That copy shall be available for re-use at the end of the period of exclusivity.
 
-- (5) For certain categories of protected data, the duration of an exclusive right to re-use data shall not exceed 12 months. Where a contract is concluded **or administrative** **act is adopted**, the duration of the ~~contract~~**arrangement** shall be the same as the duration of the exclusive right.
+- (5) For certain categories of protected data, the duration of an exclusive right to re-use data shall not exceed 12 months. Where a contract is concluded **or administrative** **act is adopted**, the duration of the ~~contract~~ **arrangement** shall be the same as the duration of the exclusive right.
 
-- (6) Agreements or other arrangements or practices that, without expressly granting an exclusive right, aim at, or could reasonably be expected to lead to, a restricted availability for the re-use of data and documents within the scope of Section 2 by entities other than parties to such ~~arrangementsshall~~**arrangements shall** be made publicly available online at least two months before their coming into effect. The effect of such legal or practical arrangements on the availability of data for re-use shall be subject to regular reviews and shall, in any event, be reviewed every three years. The final terms of such arrangements shall be transparent and made publicly available online.
+- (6) Agreements or other arrangements or practices that, without expressly granting an exclusive right, aim at, or could reasonably be expected to lead to, a restricted availability for the re-use of data and documents within the scope of Section 2 by entities other than parties to such ~~arrangementsshall~~ **arrangements shall** be made publicly available online at least two months before their coming into effect. The effect of such legal or practical arrangements on the availability of data for re-use shall be subject to regular reviews and shall, in any event, be reviewed every three years. The final terms of such arrangements shall be transparent and made publicly available online.
 
 - (7) For existing exclusive arrangements, the following shall apply:
 
-  - (a) exclusive arrangements concerning data and documents within the scope of Section ~~2existing~~**2 existing** on 17 July 2013 that do not qualify for the exceptions set out in paragraphs 2 and 3 and that were entered into by public sector bodies shall be terminated at the end of the contract and in any event not later than 18 July 2043;
+  - (a) exclusive arrangements concerning data and documents within the scope of Section ~~2existing~~ **2 existing** on 17 July 2013 that do not qualify for the exceptions set out in paragraphs 2 and 3 and that were entered into by public sector bodies shall be terminated at the end of the contract and in any event not later than 18 July 2043;
 
   - (b) exclusive arrangements concerning data and documents within the scope of Section 2 existing on 16 July 2019 that do not qualify for the exceptions set out in paragraphs 2 and 3, and that were entered into by public undertakings, shall be terminated at the end of the contract and in any event not later than 17 July 2049;
 
@@ -760,7 +760,7 @@ Free flow of non-personal data ~~in~~**within** the Union’
 
 - (2) In the case of standard charges for the re-use of data or documents, any applicable conditions and the actual amount of those charges, including the calculation basis for such charges, shall be established in advance and published, through electronic means ~~where possible and appropriate~~.
 
-- (3) In the case of charges for the re-use other than those referred to in paragraph ~~1~~**2**, the factors that are taken into account in the calculation of those charges shall be indicated at the outset. Upon request, the holder of the data or documents in question shall also indicate the way in which such charges have been calculated in relation to a specific re-use request.
+- (3) In the case of charges for the re-use other than those referred to in paragraph ~~1~~ **2**, the factors that are taken into account in the calculation of those charges shall be indicated at the outset. Upon request, the holder of the data or documents in question shall also indicate the way in which such charges have been calculated in relation to a specific re-use request.
 
 - (4) Public sector bodies shall ensure that any charges can also be paid online through widely available cross-border payment services, without discrimination based on the place of establishment of the payment service provider, the place of issue of the payment instrument or the location of the payment account within the Union.
 
@@ -787,14 +787,14 @@ Free flow of non-personal data ~~in~~**within** the Union’
 Public sector bodies shall ensure that applicants for re-use of data or documents are informed of available means of redress relating to decisions or practices affecting them. **Any decision on re-use shall contain a reference to the means of redress** **where the applicant wishes to challenge the decision.**
 
 <a id="chapter-viic-section-2"></a>
-## Section 2 – Re-use of public sector open government data
+## Section 2 – Re-use of public sector open ~~government~~ data
 
 Subsection 1
 
 Scope and General Principles
 
 <a id="art-32n"></a>
-### Article 32n – General principle for re-use of public sector open government data
+### Article 32n – General principle for re-use of public sector open ~~government~~ data
 
 - (1) Data or documents in scope of this Section shall be re-usable for commercial or non-commercial purposes in accordance with Section 1 and Section 2 Subsection 3.
 
@@ -805,23 +805,23 @@ Scope and General Principles
 ~~Requests for re-use~~
 
 <a id="art-32o"></a>
-### Article 32o – Processing requests for re-use
+### Article 32o – ~~Processing requests for re-use~~
 
-- (1) ~~Public sector bodies shall, through electronic means where possible and appropriate,~~ ~~process requests for re-use and shall make the document available for re-use to the~~ ~~applicant or, if a licence is needed, finalise the licence offer to the applicant within a~~ ~~reasonable time that is consistent with the time frames laid down for the processing~~ ~~of requests for access to data or documents.~~
+- ~~(1) Public sector bodies shall, through electronic means where possible and appropriate,~~ ~~process requests for re-use and shall make the document available for re-use to the~~ ~~applicant or, if a licence is needed, finalise the licence offer to the applicant within a~~ ~~reasonable time that is consistent with the time frames laid down for the processing~~ ~~of requests for access to data or documents.~~
 
-- (2) ~~Where no time limits or other rules regulating the timely provision of data or~~ ~~documents have been established, public sector bodies shall process the request and~~ ~~shall deliver the data or documents for re-use to the applicant or, if a licence is~~ ~~needed, finalise the licence offer to the applicant as soon as possible, and in any~~ ~~event within 20 working days of receipt. That time frame may be extended by a~~ ~~further 20 working days in the case of extensive or complex requests. In such cases,~~ ~~the applicant shall be notified as soon as possible, and in any event within three~~ ~~weeks of the initial request, that more time is needed to process the request and the~~ ~~reasons why.~~
+- ~~(2) Where no time limits or other rules regulating the timely provision of data or~~ ~~documents have been established, public sector bodies shall process the request and~~ ~~shall deliver the data or documents for re-use to the applicant or, if a licence is~~ ~~needed, finalise the licence offer to the applicant as soon as possible, and in any~~ ~~event within 20 working days of receipt. That time frame may be extended by a~~ ~~further 20 working days in the case of extensive or complex requests. In such cases,~~ ~~the applicant shall be notified as soon as possible, and in any event within three~~ ~~weeks of the initial request, that more time is needed to process the request and the~~ ~~reasons why.~~
 
-- (3) ~~In the event of a negative decision, the public sector bodies shall communicate the~~ ~~grounds for refusal to the applicant on the basis of the relevant provisions of the~~ ~~access regime in that Member State or the provisions of this Regulation, in particular~~ ~~points (a) to (c) of paragraph 2 of Article 32i and points (a) to (d) of paragraph 3 of~~ ~~Article 32i or Article 32n (general principle ODD Section). Where a negative~~ ~~decision is based on point (d) of paragraph 3 of Article 32i, the public sector body~~ ~~shall include a reference to the natural or legal person who is the rightsholder, where~~ ~~known, or alternatively to the licensor from which the public sector body has~~ ~~obtained the relevant material. Libraries, including university libraries, museums and~~ ~~archives, shall not be required to include such a reference.~~
+- ~~(3) In the event of a negative decision, the public sector bodies shall communicate the~~ ~~grounds for refusal to the applicant on the basis of the relevant provisions of the~~ ~~access regime in that Member State or the provisions of this Regulation, in particular~~ ~~points (a) to (c) of paragraph 2 of Article 32i and points (a) to (d) of paragraph 3 of~~ ~~Article 32i or Article 32n (general principle ODD Section). Where a negative~~ ~~decision is based on point (d) of paragraph 3 of Article 32i, the public sector body~~ ~~shall include a reference to the natural or legal person who is the rightsholder, where~~ ~~known, or alternatively to the licensor from which the public sector body has~~ ~~obtained the relevant material. Libraries, including university libraries, museums and~~ ~~archives, shall not be required to include such a reference.~~
 
-- (4) ~~The means of redress shall include the possibility of review by an impartial review~~ ~~body with the appropriate expertise, such as the national competition authority, the~~ ~~relevant access to data or documents authority, the supervisory authority established~~ ~~in accordance with Regulation (EU) 2016/679 or a national judicial authority, whose~~ ~~decisions are binding upon the public sector body concerned.~~
+- ~~(4) The means of redress shall include the possibility of review by an impartial review~~ ~~body with the appropriate expertise, such as the national competition authority, the~~ ~~relevant access to data or documents authority, the supervisory authority established~~ ~~in accordance with Regulation (EU) 2016/679 or a national judicial authority, whose~~ ~~decisions are binding upon the public sector body concerned.~~
 
-- (5) ~~For the purposes of this Article, Member States shall establish practical arrangements~~ ~~to facilitate effective re-use of data or documents. Those arrangements may in~~ ~~particular include the means to supply adequate information on the rights provided~~ ~~for in this Regulation and to offer relevant assistance and guidance.~~
+- ~~(5) For the purposes of this Article, Member States shall establish practical arrangements~~ ~~to facilitate effective re-use of data or documents. Those arrangements may in~~ ~~particular include the means to supply adequate information on the rights provided~~ ~~for in this Regulation and to offer relevant assistance and guidance.~~
 
-- (6) ~~This Article shall not apply to the following entities:~~
+- ~~(6) This Article shall not apply to the following entities:~~
 
-  - (a) ~~public undertakings;~~
+  - ~~(a) public undertakings;~~
 
-  - (b) ~~educational establishments, research performing organisations and research~~ ~~funding organisations.~~
+  - ~~(b) educational establishments, research performing organisations and research~~ ~~funding organisations.~~
 
 Subsection 3
 
@@ -832,7 +832,7 @@ Conditions for re-use
 
 - (1) Without prejudice to Subsection 5, public sector bodies and public undertakings shall make their data ~~or documents~~ available in any pre-existing format or language ~~and,~~ ~~where possible and appropriate,~~ by electronic means, in formats that are open, machine-readable, accessible, findable and re-usable, together with their metadata. Both the format and the metadata shall, where possible, comply with formal open standards. **Public sector bodies and public undertakings shall make their** **documents available in any pre-existing format or language.**
 
-- (2) ~~Member States shall encourage~~**Wherever possible and appropriate,** public sector bodies and public undertakings ~~to~~ **shall** produce and make available data or documents falling within the scope of this Section in accordance with the principle of ‘open by design and by default**’**.
+- (2) ~~Member States shall encourage~~ **Wherever possible and appropriate,** public sector bodies and public undertakings ~~to~~ **shall** produce and make available data or documents falling within the scope of this Section in accordance with the principle of ‘open by design and by default**’**.
 
 - (3) Paragraph 1 shall not imply an obligation for public sector bodies to create or adapt data or documents or provide extracts in order to comply with that paragraph where this would involve disproportionate effort, going beyond a simple operation.
 
@@ -847,7 +847,7 @@ Conditions for re-use
 - (8) The high-value datasets, as listed in accordance with Article 32v(1) shall be made available for re-use in machine- readable format, via suitable APIs and, where relevant, as a bulk download.’
 
 <a id="art-32q"></a>
-### Article 32q – Principles governing charging for public sector open government data
+### Article 32q – Principles governing charging for public sector open ~~government~~ data
 
 - (1) The re-use of data or documents within the scope of this Section shall be free of charge. However, the recovery by the public sector body holding the data **or** **documents** of the marginal costs incurred for the reproduction, provision**, extensive** **searches** and dissemination of such data or documents as well as for anonymisation of personal data and measures taken to protect commercially confidential information **and other information protected by law** may be allowed.
 
@@ -865,9 +865,9 @@ Conditions for re-use
 
 - (5) Where charges are made by the public sector bodies referred to in paragraph 2, point (b), the total income from supplying and allowing the re-use of data or documents over the appropriate accounting period shall not exceed the cost of collection, production, reproduction, dissemination, data storage, preservation and rights clearance and, where applicable, the anonymisation of personal data and measures taken to protect commercially confidential information, together with a reasonable return on investment. Charges shall be calculated in accordance with the accounting principles applicable to the public sector bodies involved.
 
-- (6) ~~Public sector bodies may set out~~**Charges** higher **than the** charges **provided for in** **paragraphs 1, 4 and 5 may be set out** for the re-use of data and documents by very large enterprises ~~than the charges provided for in paragraphs 1, 4 and 5~~. Any such charges shall be proportionate and based on objective criteria, taking into account the economic power, or the ability of the entity to acquire data, including in particular a designation as a gatekeeper under Regulation (EU) 2022/1925. In addition to the elements listed in paragraph 1 of this Article, such charges may cover the cost of collection, production, reproduction dissemination and data storage and where applicable the cost of anonymisation or measures to protect the confidentiality of the data or documents, together with a reasonable return on investment.
+- (6) ~~Public sector bodies may set out~~ **Charges** higher **than the** charges **provided for in** **paragraphs 1, 4 and 5 may be set out** for the re-use of data and documents by very large enterprises ~~than the charges provided for in paragraphs 1, 4 and 5~~. Any such charges shall be proportionate and based on objective criteria, taking into account the economic power, or the ability of the entity to acquire data, including in particular a designation as a gatekeeper under Regulation (EU) 2022/1925. In addition to the elements listed in paragraph 1 of this Article, such charges may cover the cost of collection, production, reproduction dissemination and data storage and where applicable the cost of anonymisation or measures to protect the confidentiality of the data or documents, together with a reasonable return on investment.
 
-- (7) The re-use of the following shall be free of charge for the ~~user~~**re-user**:
+- (7) The re-use of the following shall be free of charge for the ~~user~~ **re-user**:
 
   - (a) subject to Article 32v paragraph (3), (4) and (5), the high-value datasets, as listed in accordance with paragraph 1 of that Article;
 
@@ -891,7 +891,7 @@ Conditions for re-use
 
 Member States shall also encourage public sector bodies to make practical arrangements facilitating the preservation of data or documents available for re-use.
 
-- (2) Member States shall, in cooperation with the Commission, ~~continue efforts to~~ ~~simplify~~**ensure simple** access to datasets, in particular by providing a single point of access and by progressively making available suitable datasets held by public sector bodies with regard to the data or documents to which this Section applies, as well as to data held by Union institutions, in formats that are accessible, readily findable and re-usable by electronic means.
+- (2) Member States shall, in cooperation with the Commission, ~~continue efforts to~~ ~~simplify~~ **ensure simple** access to datasets, in particular by providing a single point of access and by progressively making available suitable datasets held by public sector bodies with regard to the data or documents to which this Section applies, as well as to data held by Union institutions, in formats that are accessible, readily findable and re-usable by electronic means.
 
 Subsection 4
 
@@ -902,7 +902,7 @@ Research data
 
 - (1) Member States shall support the availability of research data by adopting national policies and relevant actions aiming at making publicly funded research data openly available (‘open access policies’), following the principle of ‘open by default’ and compatible with the FAIR principles. In that context, concerns relating to intellectual property rights, personal data protection and confidentiality, security and legitimate commercial interests, shall be taken into account in accordance with the principle of ‘as open as possible, as closed as necessary’. Those open access policies shall be addressed to research performing organisations and research funding organisations.
 
-- (2) Without prejudice to Article ~~32n~~**32i**, paragraph 3, point (d), research data shall be re-usable for commercial or non-commercial purposes in accordance with Section 1 and Section 2 Subsection 3, insofar as they are publicly funded and researchers, research performing organisations or research funding organisations have already made them publicly available through an institutional or subject-based repository. In that context, legitimate commercial interests, knowledge transfer activities and pre-existing intellectual property rights shall be taken into account.
+- (2) Without prejudice to Article ~~32n~~ **32i**, paragraph 3, point (d), research data shall be re-usable for commercial or non-commercial purposes in accordance with Section 1 and Section 2 Subsection 3, insofar as they are publicly funded and researchers, research performing organisations or research funding organisations have already made them publicly available through an institutional or subject-based repository. In that context, legitimate commercial interests, knowledge transfer activities and pre-existing intellectual property rights shall be taken into account.
 
 Subsection 5
 
@@ -913,7 +913,7 @@ High-value datasets
 
 - (1) The thematic categories of high-value datasets shall be as set out in Annex I.
 
-- (2) The Commission is empowered to adopt delegated acts in accordance with Article ~~45(2a)~~**45(2)** in order to amend Annex I by adding new thematic categories of high-value datasets reflecting technological and market developments.
+- (2) The Commission is empowered to adopt delegated acts in accordance with Article ~~45(2a)~~ **45(2)** in order to amend Annex I by adding new thematic categories of high-value datasets reflecting technological and market developments.
 
 <a id="art-32v"></a>
 ### Article 32v – Specific high-value datasets and arrangements for publication and re-use
@@ -952,7 +952,7 @@ For the purpose of identifying such specific high-value datasets, the Commission
 
 - (4) The requirement to make high-value datasets available free of charge pursuant to point (a) of the second subparagraph of paragraph 1 shall not apply to libraries, including university libraries, museums and archives.
 
-- (5) ~~Where making high-value datasets available free of charge by public sector bodies~~ ~~that are required to generate revenue to cover a substantial part of their costs relating~~ ~~to the performance of their public tasks would lead to a substantial impact on the~~ ~~budget of the bodies involved, Member States may exempt those bodies from the~~ ~~requirement to make those high-value datasets available free of charge for a period of~~ ~~no more than two years following the entry into force of the relevant implementing~~ ~~act adopted in accordance with paragraph 1.~~
+- ~~(5) Where making high-value datasets available free of charge by public sector bodies~~ ~~that are required to generate revenue to cover a substantial part of their costs relating~~ ~~to the performance of their public tasks would lead to a substantial impact on the~~ ~~budget of the bodies involved, Member States may exempt those bodies from the~~ ~~requirement to make those high-value datasets available free of charge for a period of~~ ~~no more than two years following the entry into force of the relevant implementing~~ ~~act adopted in accordance with paragraph 1.~~
 
 <a id="chapter-viic-section-3"></a>
 ## Section 3 – Re-use of certain categories of protected data held by public sector bodies
@@ -968,7 +968,7 @@ Member States shall ensure that public sector bodies are equipped with the neces
 
   - (a) in compliance with intellectual property rights.
 
-  - (b) if data **or documents that are**~~that is~~ considered confidential in accordance with Union or national law on commercial or statistical confidentiality, ~~is~~**are** not disclosed, as a result of allowing re-use, unless such re-use is allowed based on the data ~~subject’s consent or the data~~ holder’s permission in accordance with paragraph 5.
+  - (b) if data **or documents that are** ~~that is~~ considered confidential in accordance with Union or national law on commercial or statistical confidentiality, ~~is~~ **are** not disclosed, as a result of allowing re-use, unless such re-use is allowed based on the data ~~subject’s consent or the data~~ holder’s permission in accordance with paragraph 5.
 
   - (c) in compliance with Regulation (EU) 2016/679.
 
@@ -978,7 +978,7 @@ Member States shall ensure that public sector bodies are equipped with the neces
 
     - (i) anonymised, in the case of personal data;
 
-    - (ii) ~~subject to other forms of preparation of personal data;~~
+    - ~~(ii) subject to other forms of preparation of personal data;~~
 
     - (iii) modified, aggregated or treated by any other method of disclosure control, in the case of commercially confidential information, including trade secrets or content protected by intellectual property rights;
 
@@ -996,9 +996,9 @@ Unless national law provides for specific safeguards on applicable confidentiali
 
 - (5) Where the re-use of data or documents **that are protected on the grounds of** **commercial or statistical confidentiality or of intellectual property rights of** **third parties** cannot be allowed in accordance with paragraphs 3 and 4, re-use shall only be possible:
 
-  - (a) ~~where there is no legal basis other than consent for transmitting the data under~~ ~~Regulation (EU) 2016/679, with the consent of the data subjects;~~
+  - ~~(a) where there is no legal basis other than consent for transmitting the data under~~ ~~Regulation (EU) 2016/679, with the consent of the data subjects;~~
 
-  - (b) with the permission from the data holders whose rights and interests may be affected by such re-use.
+  - ~~(b)~~ with the permission from the data holders whose rights and interests may be affected by such re-use.
 
 The public sector body shall make best efforts, in accordance with Union and national law, to provide assistance to potential re-users in seeking ~~consent of the data~~ ~~subjects or~~ permission from the data holders whose rights and interests may be affected by such re-use, where this is feasible without a disproportionate burden on the public sector body.
 
@@ -1009,7 +1009,7 @@ Where it provides such assistance, the public sector body may be assisted by the
 
 - (1) Where a re-user intends to transfer certain categories of protected data that are non-personal to a third country, it shall inform the public sector body of its intention to transfer such data and the purpose of such transfer at the time of requesting the re-use ~~of the data~~. In the case of re-use based on the data holder’s permission the re-user shall, where appropriate with the assistance of the public sector body, inform the natural or legal person whose rights and interests may be affected of that intention, purpose and the appropriate safeguards. The public sector body shall not allow the re-use unless the natural or legal person gives permission for the transfer.
 
-- (2) Public sector bodies shall transmit non-personal confidential data or data protected by intellectual property rights to a re-user which intends to transfer those data to a third country other than a country designated in accordance with paragraph ~~7~~**5** only if the re-user contractually commits to:
+- (2) Public sector bodies shall transmit non-personal confidential data or data protected by intellectual property rights to a re-user which intends to transfer those data to a third country other than a country designated in accordance with paragraph ~~7~~ **5** only if the re-user contractually commits to:
 
   - (a) complying with the obligations imposed in accordance with intellectual property rights and Union or national law on commercial or statistical confidentiality even after the data is transferred to the third country;
 
@@ -1040,7 +1040,7 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
 - (1) Public sector bodies which allow re-use of certain categories of protected data may charge fees for allowing the re-use of such data.
 
-- (2) Where ~~public sector bodies charge~~ fees **are charged, Member States**~~, they~~ shall take measures to provide incentives for the re-use of certain categories of protected data for non-commercial purposes, such as scientific research purposes, and by start-ups, SMEs and SMCs in accordance with Union State aid rules. In that regard, public sector bodies may ~~also~~ make the data available at a discounted fee or free of charge, in particular to start-ups, SMEs and SMCs, civil society, research and educational establishments. To that end, ~~public sector bodies may establish~~ a list of categories of re-users to which data or documents for re-use is made available at a discounted fee or free of charge **may be established**. That list, together with the criteria used to establish it, shall be made public.
+- (2) Where ~~public sector bodies charge~~ fees **are charged, Member States** ~~, they~~ shall take measures to provide incentives for the re-use of certain categories of protected data for non-commercial purposes, such as scientific research purposes, and by start-ups, SMEs and SMCs in accordance with Union State aid rules. In that regard, public sector bodies may ~~also~~ make the data available at a discounted fee or free of charge, in particular to start-ups, SMEs and SMCs, civil society, research and educational establishments. To that end, ~~public sector bodies may establish~~ a list of categories of re-users to which data or documents for re-use is made available at a discounted fee or free of charge **may be established**. That list, together with the criteria used to establish it, shall be made public.
 
 - (3) Any fees shall be derived from the costs related to conducting the procedure for requests for the re-use of certain categories of protected data and limited to the necessary costs in relation to:
 
@@ -1048,7 +1048,7 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
   - (b) the clearance of rights;
 
-  - (c) anonymisation ~~or other forms of preparation~~ of personal data and **preparation** **of** commercially confidential data as provided for in Article 32w(3)~~[conditions~~ ~~for re-use]~~;
+  - (c) anonymisation ~~or other forms of preparation~~ of personal data and **preparation** **of** commercially confidential data as provided for in Article 32w(3) ~~[conditions~~ ~~for re-use]~~;
 
   - (d) the maintenance of the secure processing environment;
 
@@ -1067,19 +1067,19 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
 - (2) The competent bodies may be empowered to grant access for the re-use of certain categories of protected data pursuant to Union or national law which provides for such access to be granted. ~~Where they grant or refuse access for re-use, those~~ ~~competent bodies shall be subject to Articles 32k, 32w, 32x, 32y and 32ab.~~
 
-- (3) ~~The competent bodies shall have adequate legal, financial, technical and human~~ ~~resources to carry out the tasks assigned to them, including the necessary technical~~ ~~knowledge to be able to comply with relevant Union or national law concerning the~~ ~~access regimes for the categories of protected data referred to in in Article 2(54).~~
+- ~~(3) The competent bodies shall have adequate legal, financial, technical and human~~ ~~resources to carry out the tasks assigned to them, including the necessary technical~~ ~~knowledge to be able to comply with relevant Union or national law concerning the~~ ~~access regimes for the categories of protected data referred to in in Article 2(54).~~
 
-~~(4)~~**(3)** The assistance referred to in paragraph 1 shall include, where necessary:
+- (3) ~~(4)~~ The assistance referred to in paragraph 1 shall include, where necessary:
 
-- (a) providing technical support by making available a secure processing environment for providing access for the re-use of data or documents;
+  - (a) providing technical support by making available a secure processing environment for providing access for the re-use of data or documents;
 
-- (b) providing guidance and technical support on how to best structure and store data to make that those data or documents easily accessible;
+  - (b) providing guidance and technical support on how to best structure and store data to make that those data or documents easily accessible;
 
-- (c) providing technical support for anonymization, pseudonymisation and state-ofthe-art privacy-preserving methods~~. not limited to personal data, but also to~~**,** **and the** commercially confidential information, including trade secrets or content protected by intellectual property rights;
+  - (c) providing technical support for anonymization, pseudonymisation and state-ofthe-art privacy-preserving methods ~~. not limited to personal data, but also to~~ **,** **and the** commercially confidential information, including trade secrets or content protected by intellectual property rights;
 
-- (d) assisting the public sector bodies, where relevant, to provide support to re-users in requesting consent for re-use from data subjects or permission from data holders in line with their specific decisions, including on the jurisdiction in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow the transmission of requests for consent or permission from re-users, where practically feasible;
+  - (d) assisting the public sector bodies, where relevant, to provide support to re-users in requesting consent for re-use from data subjects or permission from data holders in line with their specific decisions, including on the jurisdiction in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow the transmission of requests for consent or permission from re-users, where practically feasible;
 
-- (e) providing public sector bodies with assistance in assessing the adequacy of contractual commitments made by a re-user pursuant to Article 32x(2).
+  - (e) providing public sector bodies with assistance in assessing the adequacy of contractual commitments made by a re-user pursuant to Article 32x(2).
 
 <a id="art-32aa"></a>
 ### Article 32aa – Single information point
@@ -1090,18 +1090,18 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
 - (3) The single information point may include a separate, simplified and welldocumented information channel for SMEs, SMCs, start-ups and research establishments addressing their needs and capabilities in requesting the re-use of ~~the~~ **certain** categories of data referred to in Article 2(54).
 
-- (4) The single information point shall make available by electronic means a searchable asset list containing an overview of all available **data and** document resources including, where relevant, those document resources that are available at sectoral, regional or local information points~~,~~ with relevant information describing the available data or documents, including at least ~~the data format and size and~~ the conditions for their re-use.
+- (4) The single information point shall make available by electronic means a searchable asset list containing an overview of all available **data and** document resources including, where relevant, those document resources that are available at sectoral, regional or local information points ~~,~~ with relevant information describing the available data or documents, including at least ~~the data format and size and~~ the conditions for their re-use.
 
 - (5) The Commission shall establish a European single access point offering a searchable electronic register of data or documents available in the national single information points and further information on how to request data or documents via those national single information points.
 
 <a id="art-32ab"></a>
-### Article 32ab – Procedure for requests for re-use
+### Article 32ab – ~~Procedure for requests for re-use~~
 
-- (1) ~~Unless shorter time limits have been established in accordance with national law, the~~ ~~competent public sector bodies or the competent bodies referred to in paragraph 1 of~~ ~~Article 32z shall adopt a decision on the request for the re-use of certain categories of~~ ~~protected data within two months of the date of receipt of the request.~~
+- ~~(1) Unless shorter time limits have been established in accordance with national law, the~~ ~~competent public sector bodies or the competent bodies referred to in paragraph 1 of~~ ~~Article 32z shall adopt a decision on the request for the re-use of certain categories of~~ ~~protected data within two months of the date of receipt of the request.~~
 
-- (2) ~~In the case of exceptionally extensive and complex requests for re-use, that two-~~ ~~month period may be extended by up to 30 days. In such cases the competent public~~ ~~sector bodies or the competent bodies referred to in paragraph 1 of Article 32z shall~~ ~~notify the applicant as soon as possible that more time is needed for conducting the~~ ~~procedure, together with the reasons for the delay.~~
+- ~~(2) In the case of exceptionally extensive and complex requests for re-use, that two-~~ ~~month period may be extended by up to 30 days. In such cases the competent public~~ ~~sector bodies or the competent bodies referred to in paragraph 1 of Article 32z shall~~ ~~notify the applicant as soon as possible that more time is needed for conducting the~~ ~~procedure, together with the reasons for the delay.~~
 
-- (3) ~~Any natural or legal person directly affected by a decision as referred to in~~ ~~paragraph 1 shall have an effective right of redress in the Member State where the~~ ~~relevant body is located. Such a right of redress shall be laid down in national law~~ ~~and shall include the possibility of review by an impartial body with the appropriate~~ ~~expertise, such as the national competition authority, the relevant access-to-~~ ~~documents authority, the supervisory authority established in accordance with~~ ~~Regulation (EU) 2016/679 or a national judicial authority, whose decisions are~~ ~~binding upon the public sector body or the competent body concerned.~~
+- ~~(3) Any natural or legal person directly affected by a decision as referred to in~~ ~~paragraph 1 shall have an effective right of redress in the Member State where the~~ ~~relevant body is located. Such a right of redress shall be laid down in national law~~ ~~and shall include the possibility of review by an impartial body with the appropriate~~ ~~expertise, such as the national competition authority, the relevant access-to-~~ ~~documents authority, the supervisory authority established in accordance with~~ ~~Regulation (EU) 2016/679 or a national judicial authority, whose decisions are~~ ~~binding upon the public sector body or the competent body concerned.~~
 
 **18aa. Article 33 is amended as follows:**
 
@@ -1163,9 +1163,9 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
 **'(4) This Article shall not apply to Chapters VIIb and VIIc.’’**
 
-20. ~~in~~ Article 40, paragraph ~~(6) is inserted~~**(4) is replaced by the following**:
+20. ~~in~~ Article 40, paragraph ~~(6) is inserted~~ **(4) is replaced by the following**:
 
-~~‘6.~~**(4)** This Article shall not apply to Chapter **VIIa, VIIb and** VIIc.
+~~‘6.~~ **(4)** This Article shall not apply to Chapter **VIIa, VIIb and** VIIc.
 
 - (b) **paragraph 5 is deleted. ’**
 
@@ -1267,15 +1267,15 @@ The report shall assess, in particular:
 
   - (d) the extent of the increase in re-use of public sector documents to which Section 2 of Chapter VIIc applies, especially by SMEs and SMCs;
 
-~~(e)~~**(ii)** the impact of the high-value datasets;
+  - (ii) ~~(e)~~ the impact of the high-value datasets;
 
-~~(f)~~**(iii)** the interaction between data protection rules and re-use possibilities;
+  - (iii) ~~(f)~~ the interaction between data protection rules and re-use possibilities;
 
   - (g) Member States shall provide the Commission with the Information necessary for the preparation of that report.’
 
-- (c) paragraph ~~5~~**4** is replaced by the following:
+- (c) paragraph ~~5~~ **4** is replaced by the following:
 
-~~‘5~~**4**. On the basis of the reports referred to in paragraphs 1, ~~and~~ 2 and 2a, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.’
+~~‘5~~ **4**. On the basis of the reports referred to in paragraphs 1, ~~and~~ 2 and 2a, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.’
 
 27. Annex I is added as set out in the Annex II to this Regulation.
 
@@ -1291,25 +1291,25 @@ Life events Procedures Expected output subject to an assessment of the applicati
 <a id="art-10"></a>
 ### Article 10 – Amendments, repeals and transitory clauses
 
-- – 1. Regulation 2019/1150/EU is ~~repealed with effect from [date = entry into application~~ ~~of this Regulation].~~**amended as follows:**
+- – 1. Regulation 2019/1150/EU is ~~repealed with effect from [date = entry into application~~ ~~of this Regulation].~~ **amended as follows:**
 
 **Articles 2(11), 2(12), 6, 8 to 10, 12 to 14, and 16 to 18, are deleted as of [date of entry into** **force].**
 
 - – ~~2. By way of derogation from paragraph 1, the following provisions shall continue to~~ ~~apply until 31 December 2032:~~
 
-  - (a) ~~Article 2, point (1);~~
+  - ~~(a) Article 2, point (1);~~
 
-  - (b) ~~Article 2, point (2);~~
+  - ~~(b) Article 2, point (2);~~
 
-  - (c) ~~Article 2, point (5);~~
+  - ~~(c) Article 2, point (5);~~
 
-  - (d) ~~Article 4;~~
+  - ~~(d) Article 4;~~
 
-  - (e) ~~Article 11;~~
+  - ~~(e) Article 11;~~
 
-  - (f) ~~Article 15.~~
+  - ~~(f) Article 15.~~
 
-- – ~~3~~**2**. The following acts are repealed~~, with effect from [Date, aligned with the entry into~~ ~~application of the amendments]~~:
+- – ~~3~~ **2**. The following acts are repealed ~~, with effect from [Date, aligned with the entry into~~ ~~application of the amendments]~~:
 
 a) **Chapters III, IV, V, VI, VII of** Regulation (EU) 2022/868;
 
@@ -1328,9 +1328,9 @@ This Regulation shall enter into force on the third day following that of its pu
 
 ~~Deviating from paragraph 3,~~ Article 5(2) shall enter into application 6 months after the publication in the Official Journal of the European Union.
 
-**By way of derogation from paragraph 1,** Article 3(8), points (a) to (c), Articles 6 (2) and (3) and 7 to 9, shall enter into application 18 months from the entry into force of this Regulation. ~~Deviating~~**By way of derogation** from the first sentence~~, where the Commission finds in its~~ ~~assessment pursuant to Article 23a (7) of Directive (EU) 2022/2555 that the single-entry point does~~ ~~not ensure the proper functioning, reliability, integrity or confidentiality~~, the obligations to report via the ~~single-entry~~**national entry** point set out in Article ~~23(4)~~**23b** of Directive (EU) 2022/2555,
+**By way of derogation from paragraph 1,** Article 3(8), points (a) to (c), Articles 6 (2) and (3) and 7 to 9, shall enter into application 18 months from the entry into force of this Regulation. ~~Deviating~~ **By way of derogation** from the first sentence ~~, where the Commission finds in its~~ ~~assessment pursuant to Article 23a (7) of Directive (EU) 2022/2555 that the single-entry point does~~ ~~not ensure the proper functioning, reliability, integrity or confidentiality~~, the obligations to report via the ~~single-entry~~ **national entry** point set out in Article ~~23(4)~~ **23b** of Directive (EU) 2022/2555,
 
-Article 19a (1a), Article 24 (2a) and Article 45a (3a) of Regulation (EU) 910/2014, Article 33 (1) of Regulation (EU) 2016/679, Article 19 (1) and (2) of Regulation (EU) 2022/2554, and Article 15(1) of Directive (EU) 2022/2557 shall enter into application ~~24~~**30** months from the entry into force of this Regulation.
+Article 19a (1a), Article 24 (2a) and Article 45a (3a) of Regulation (EU) 910/2014, Article 33 (1) of Regulation (EU) 2016/679, Article 19 (1) and (2) of Regulation (EU) 2022/2554, and Article 15(1) of Directive (EU) 2022/2557 shall enter into application ~~24~~ **30** months from the entry into force of this Regulation.
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -1360,7 +1360,7 @@ For the European Parliament For the Council The President The President
 
 ^(10) Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.6.2016, p. 1).
 
-^(11) Regulation (EC) No 223/2009No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164, ELI: http://data.europa.eu/eli/reg/2009/223/oj).
+^(11) Regulation (EC) No 223/2009 No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164, ELI: http://data.europa.eu/eli/reg/2009/223/oj).
 
 ^(12) Regulation (EU) 2018/1807 of the European Parliament and of the Council of 14 November
 

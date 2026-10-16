@@ -73,6 +73,54 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-10-14",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG17 WP3",
+   "label": "EN 300 422-1 – Harmonised Standard for access to radio spectrum Wireless microphones, Audio PMSE up to 3 : Drafting Stage – Early draft",
+   "doc": "EN 300 422-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73027",
+   "key": "eso-REN/ERM-WG17WP3-27-2026-10-14",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 303 132 – Maritime VHF survivor locating devices employing Digital Selective Calling (DSC Class M); : Drafting Stage – Early draft",
+   "doc": "EN 303 132",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74967",
+   "key": "eso-REN/ERM-TGMAR-643-2026-10-13",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft",
+   "doc": "EN 302 454",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
+   "key": "eso-REN/ERM-WGAERO-201-2026-10-13",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft",
+   "doc": "EN 302 054",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+   "key": "eso-REN/ERM-WGAERO-200-2026-10-13",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-13",
    "act": "industrial-accelerator-act",
    "actor": "Council",
@@ -206,6 +254,30 @@
   },
   {
    "date": "2026-10-09",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 574-2 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Final draft registered by ETSI Secretariat",
+   "doc": "EN 302 574-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67519",
+   "key": "eso-REN/SES-00466-2026-10-09",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-09",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG11",
+   "label": "EN 300 328 – Data transmission equipment operating in the 2,4 GHz band; Harmonised Standard for access : Drafting Stage – Stable draft",
+   "doc": "EN 300 328",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73699",
+   "key": "eso-REN/ERM-WG11-13-2026-10-09",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-09",
    "act": "machinery-regulation",
    "title": "MR",
    "actor": "CLC/TC 44X",
@@ -227,6 +299,54 @@
    "key": "C129100-V118408/1",
    "page": "ai-act",
    "type": "Committees"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-8 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
+   "doc": "EN 305 550-8",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73776",
+   "key": "eso-DEN/ERM-WGUWB-633-2026-10-08",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG37",
+   "label": "EN 302 686 – Radiocommunications equipment operating in the 63,72 GHz to 65,88 GHz frequency band; Harm: Drafting Stage – Draft receipt by ETSI Secretariat",
+   "doc": "EN 302 686",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=46542",
+   "key": "eso-REN/ERM-WG37-25-2026-10-08",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 574-3 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Final draft registered by ETSI Secretari",
+   "doc": "EN 302 574-3",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51243",
+   "key": "eso-REN/SES-00441-2026-10-08",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-08",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "DEN/ERM-WGUWB-643EN302065-2-6 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – Work Item proposal endorsed by TG",
+   "doc": "DEN/ERM-WGUWB-643EN302065-2-6",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79425",
+   "key": "eso-DEN/ERM-WGUWB-643EN302065-2-6-2026-10-08",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-10-08",
@@ -304,6 +424,42 @@
   },
   {
    "date": "2026-10-06",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 574-1 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) transmitting in th: Drafting Stage – Final draft registered by ETSI Secretari",
+   "doc": "EN 302 574-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518",
+   "key": "eso-REN/SES-00465-2026-10-06",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-06",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 443 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Publication",
+   "doc": "EN 301 443",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017",
+   "key": "eso-REN/SES-00432-2026-10-06",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-06",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 442 – Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including han: Drafting Stage – Final draft registered by ETSI Secretari",
+   "doc": "EN 301 442",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016",
+   "key": "eso-REN/SES-00431-2026-10-06",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-06",
    "act": "standardisation-revision",
    "title": "New Standardisation Regulation – COM(2026) 780 (proposal)",
    "actor": "European Commission",
@@ -325,6 +481,42 @@
    "key": "E03676-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download",
    "page": "machinery-regulation",
    "type": "Committees"
+  },
+  {
+   "date": "2026-10-05",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG37",
+   "label": "EN 302 571 – Radiocommunications equipment operating in the 5 855 MHz to 5 925 MHz frequency band; Harm: Drafting Stage – Stable draft",
+   "doc": "EN 302 571",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51356",
+   "key": "eso-REN/ERM-WG37-270-2026-10-05",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-05",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 301 783 – Commercially available amateur radio equipment; Harmonised Standard for access to the radi: Drafting Stage – Early draft",
+   "doc": "EN 301 783",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491",
+   "key": "eso-REN/ERM-WGMAR-618-2026-10-05",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-05",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 444 – Satellite Earth Stations and Systems (SES); Land Mobile Earth Stations (LMES) and Maritime: Drafting Stage – Final draft registered by ETSI Secretariat",
+   "doc": "EN 301 444",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63964",
+   "key": "eso-REN/SES-00461-2026-10-05",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-10-05",
@@ -464,6 +656,30 @@
    "doc_title": "Optional consultation of the Committee of the Regions",
    "withheld_since": "2026-09-30",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)"
+  },
+  {
+   "date": "2026-10-02",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 303 699 – Satellite Earth Stations and Systems (SES); Fixed earth stations communicating with non-ge: Publication",
+   "doc": "EN 303 699",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=64335",
+   "key": "eso-REN/SES-00462-2026-10-02",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-02",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-2 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Delivery to the EC",
+   "doc": "EN 301 843-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66904",
+   "key": "eso-REN/ERM-EMC-414-2026-10-02",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-10-02",
@@ -772,6 +988,30 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-09-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 721 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) providing Low Bit : Publication",
+   "doc": "EN 301 721",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020",
+   "key": "eso-REN/SES-00434-2026-09-30",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 441 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES), including handhel: Publication",
+   "doc": "EN 301 441",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923",
+   "key": "eso-REN/SES-00442-2026-09-30",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-09-29",
    "act": "chips-act-2",
    "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
@@ -846,6 +1086,30 @@
   },
   {
    "date": "2026-09-28",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 302 885 – Portable Very High Frequency (VHF) radiotelephone equipment for the maritime mobile servic: Drafting Stage – Early draft",
+   "doc": "EN 302 885",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728",
+   "key": "eso-REN/ERM-WGMAR-626-2026-09-28",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-28",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG34",
+   "label": "EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Drafting Stage – Final draft endorsed by the Working Group",
+   "doc": "EN 302 208",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657",
+   "key": "eso-REN/ERM-WG34-272-2026-09-28",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-28",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -867,6 +1131,18 @@
    "key": "CM 4059/26",
    "page": "medical-devices-simplification",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-09-25",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 489-9 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 9: Spe: Publication",
+   "doc": "EN 301 489-9",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459",
+   "key": "eso-REN/ERM-EMC-425-2026-09-25",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-09-24",
@@ -977,6 +1253,42 @@
    "type": "Committees"
   },
   {
+   "date": "2026-09-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-15 – Harmonised Standard for access to radio spectrum; Part 15: Evolved Universal Terrestrial R: Drafting Stage – Final draft",
+   "doc": "EN 301 908-15",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74981",
+   "key": "eso-REN/MSG-TFES-1514-2026-09-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-13 – Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial R: Delivery to the EC",
+   "doc": "EN 301 908-13",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=70073",
+   "key": "eso-REN/MSG-TFES-1512-2026-09-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Drafting Stage – Stable draft",
+   "doc": "EN 301 908-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
+   "key": "eso-REN/MSG-TFES-1516-2026-09-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-09-22",
    "act": "standardisation-regulation",
    "title": "Standardisation Regulation",
@@ -987,6 +1299,18 @@
    "key": "C41700-D118113/1",
    "page": "standardisation-regulation",
    "type": "Committees"
+  },
+  {
+   "date": "2026-09-22",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 301 929 – VHF transmitters and receivers as Coast Stations for GMDSS and other applications in the m: Drafting Stage – Early draft",
+   "doc": "EN 301 929",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68727",
+   "key": "eso-REN/ERM-TGMAR-625-2026-09-22",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-09-22",
@@ -1011,6 +1335,42 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74410",
    "key": "eso-DEN/CYBER-EUS-007-2026-09-22",
    "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 302 961 – Maritime Personal Homing Beacon intended for use on the frequency 121,5 MHz for search and: Drafting Stage – Early draft",
+   "doc": "EN 302 961",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73764",
+   "key": "eso-REN/ERM-TGMAR-640-2026-09-21",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 340 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 340",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51022",
+   "key": "eso-REN/SES-00436-2026-09-21",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 427 – Satellite Earth Stations and Systems (SES); Low data rate Mobile Earth Stations (MES) exce: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 427",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51013",
+   "key": "eso-REN/SES-00428-2026-09-21",
+   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1040,6 +1400,30 @@
    "listed": "council-note"
   },
   {
+   "date": "2026-09-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-27 – Harmonised Standard for access to radio spectrum; Part 27: New Radio (NR) Repeater Release: Drafting Stage – Stable draft",
+   "doc": "EN 301 908-27",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=70090",
+   "key": "eso-DEN/MSG-TFES-1511-2026-09-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-18",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-3 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services Harmo: Drafting Stage – Early draft",
+   "doc": "EN 301 843-3",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=54009",
+   "key": "eso-DEN/ERM-EMC-396-2026-09-18",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-09-18",
    "act": "public-procurement-act",
    "title": "Public Procurement Act – COM(2026) 590 (proposal)",
@@ -1062,6 +1446,42 @@
    "key": "PE792.222",
    "page": "csa2",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-09-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 448 – Satellite Earth Stations and Systems (SES); Earth Stations on Trains (ESTs) operating in t: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 448",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51023",
+   "key": "eso-REN/SES-00437-2026-09-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Stable draft",
+   "doc": "EN 301 843-7",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66908",
+   "key": "eso-REN/ERM-EMC-418-2026-09-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-4 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
+   "doc": "EN 301 843-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66905",
+   "key": "eso-REN/ERM-EMC-415-2026-09-17",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-09-17",
@@ -1125,6 +1545,18 @@
   },
   {
    "date": "2026-09-16",
+   "act": "red",
+   "title": "RED",
+   "actor": "DECT",
+   "label": "EN 301 406-2 – Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to rad: Drafting Stage – Final draft",
+   "doc": "EN 301 406-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499",
+   "key": "eso-REN/DECT-00437-2026-09-16",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-16",
    "act": "cra",
    "title": "CRA",
    "actor": "CYBER EUSR",
@@ -1133,6 +1565,18 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74414",
    "key": "eso-DEN/CYBER-EUS-008-2026-09-16",
    "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-15",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-23 – Harmonised Standard for access to radio spectrum; Part 23: Active Antenna System (AAS) Bas: Drafting Stage – Final draft",
+   "doc": "EN 301 908-23",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69968",
+   "key": "eso-REN/MSG-TFES-1508-2026-09-15",
+   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1157,6 +1601,18 @@
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79119,25&cs=1E895BDE91FF1EF11D8AA26C89B19B09A",
    "key": "eso-00114190-2026-09-15",
    "page": "machinery-regulation",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-14",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG30",
+   "label": "EN 304 118 – Medical implantable Wireless Power Transmission (WPT) equipment; Harmonised Standard for a: Approval Stage – Final deliverable registered for formal",
+   "doc": "EN 304 118",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73697",
+   "key": "eso-DEN/ERM-WG30-325-2026-09-14",
+   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1198,6 +1654,18 @@
   },
   {
    "date": "2026-09-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGSRR",
+   "label": "EN 302 858 – Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 G: Drafting Stage – Early draft",
+   "doc": "EN 302 858",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
+   "key": "eso-REN/ERM-TGSRR-581-2026-09-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-11",
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "European Parliament",
@@ -1232,6 +1700,54 @@
    "links": [],
    "page": "toy-safety-regulation",
    "type": "Committees"
+  },
+  {
+   "date": "2026-09-10",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-3-1 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Stable draft",
+   "doc": "EN 305 550-3-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58455",
+   "key": "eso-DEN/ERM-TGUWB-598-2026-09-10",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-10",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-3-2 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Drafting Stage – Early draft",
+   "doc": "EN 302 065-3-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63966",
+   "key": "eso-DEN/ERM-WGUWB-614-2026-09-10",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-10",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-1-1 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – Stable draft",
+   "doc": "EN 302 065-1-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55068",
+   "key": "eso-REN/ERM-WGUWB-150-1-1-2026-09-10",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-10",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 428 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Drafting Stage – Final draft registered by ETSI Secretariat",
+   "doc": "EN 301 428",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74297",
+   "key": "eso-REN/SES-00476-2026-09-10",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-09-10",
@@ -1272,6 +1788,162 @@
   },
   {
    "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Citation in the OJ",
+   "doc": "EN 305 550-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=59468",
+   "key": "eso-DEN/ERM-TGUWB-605-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-1 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range Harmonised S: Drafting Stage – Early draft",
+   "doc": "EN 305 550-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58453",
+   "key": "eso-REN/ERM-TGUWB-596-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 303 364-1-1 – Harmonised Standard for access to radio spectrum; Part 1: Air Traffic Control (ATC) PSR se: Citation in the OJ",
+   "doc": "EN 303 364-1-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=49550",
+   "key": "eso-DEN/ERM-TGAERO-31-1-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG17",
+   "label": "EN 303 354 – Amplifiers and active antennas for TV broadcast reception in domestic premises; Harmonised: Citation in the OJ",
+   "doc": "EN 303 354",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=54738",
+   "key": "eso-REN/ERM-TG17-163-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 303 135 – Coastal Surveillance, Vessel Traffic Services and Harbour Radars (CS/VTS/HR); Harmonised S: Citation in the OJ",
+   "doc": "EN 303 135",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51216",
+   "key": "eso-REN/ERM-TGMAR-535-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 372 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Citation in the OJ",
+   "doc": "EN 302 372",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55075",
+   "key": "eso-REN/ERM-TGUWB-151-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ATTM TM4",
+   "label": "EN 302 217-2 – Characteristics and requirements for point-to-point equipment and antennas; Part 2: Digita: Citation in the OJ",
+   "doc": "EN 302 217-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66067",
+   "key": "eso-REN/ATTM-0458-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-4-4 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Citation in the OJ",
+   "doc": "EN 302 065-4-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67455",
+   "key": "eso-REN/ERM-TGUWB-617-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-3-3 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Citation in the OJ",
+   "doc": "EN 302 065-3-3",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=64295",
+   "key": "eso-DEN/ERM-TGUWB-615-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 489-50 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 50: Sp: Citation in the OJ",
+   "doc": "EN 301 489-50",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63883",
+   "key": "eso-REN/ERM-EMC-410-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 489-5 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 5: Spe: Citation in the OJ",
+   "doc": "EN 301 489-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67956",
+   "key": "eso-REN/ERM-EMC-419-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 489-13 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 13: Sp: Citation in the OJ",
+   "doc": "EN 301 489-13",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53844",
+   "key": "eso-REN/ERM-EMC-394-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG28",
+   "label": "EN 300 440-2 – Short Range Devices (SRD) operating in 1 GHz to 40 GHz; Harmonised Standard for access to : Citation in the OJ",
+   "doc": "EN 300 440-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=57423",
+   "key": "eso-REN/ERM-TG28-563-2026-09-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-07",
    "act": "product-digitalisation-directive",
    "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
    "actor": "European Parliament",
@@ -1305,6 +1977,18 @@
    "key": "C41700-D117711/1",
    "page": "standardisation-regulation",
    "type": "Committees"
+  },
+  {
+   "date": "2026-09-03",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Work item adopted",
+   "doc": "EN 305 550-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
+   "key": "eso-REN/ERM-TGUWB-640-2026-09-03",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-09-03",
@@ -1357,6 +2041,30 @@
   },
   {
    "date": "2026-09-01",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 303 489 – Wide Area Multilateration (WAM) systems operating at 1 030 MHz and 1 090 MHz; Harmonised S: Drafting Stage – Work item adopted",
+   "doc": "EN 303 489",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79353",
+   "key": "eso-REN/ERM-WGAERO-204-2026-09-01",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-01",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGSRR",
+   "label": "EN 301 091-2 – Radar equipment operating in the 76 GHz to 77 GHz range; Harmonised Standard covering the : Drafting Stage – Early draft",
+   "doc": "EN 301 091-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=59543",
+   "key": "eso-REN/ERM-TGSRR-580-2026-09-01",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-09-01",
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
@@ -1366,6 +2074,18 @@
    "key": "CM 3875/26",
    "page": "space-act",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-08-31",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-2-4 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Drafting Stage – Stable draft",
+   "doc": "EN 302 065-2-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68002",
+   "key": "eso-DEN/ERM-TGUWB-621-2026-08-31",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-08-31",
@@ -1381,6 +2101,30 @@
   },
   {
    "date": "2026-08-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 977",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
+   "key": "eso-REN/SES-00438-2026-08-27",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-26 – Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aeri: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 908-26",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
+   "key": "eso-DEN/MSG-TFES-1505-2026-08-27",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-27",
    "act": "ai-act",
    "title": "AI Act",
    "actor": "CEN/CLC/JTC 21",
@@ -1389,6 +2133,30 @@
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587",
    "key": "eso-JT021021-2026-08-27",
    "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 186",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
+   "key": "eso-REN/SES-00477-2026-08-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 447",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+   "key": "eso-REN/SES-00433-2026-08-20",
+   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1435,6 +2203,54 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
    "key": "eso-DEN/CYBER-EUS-0010-2026-08-13",
    "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "DECT",
+   "label": "EN 301 406-1 – Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to rad: Delivery to the EC",
+   "doc": "EN 301 406-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69303",
+   "key": "eso-REN/DECT-00411-2026-08-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG30",
+   "label": "EN 304 661 – Low Power Hearing Implant (LP-HI) systems operating in the frequency ranges 2000-3000 kHz : Drafting Stage – Early draft",
+   "doc": "EN 304 661",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78881",
+   "key": "eso-DEN/ERM-TG30-329-2026-08-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG30",
+   "label": "EN 304 660 – Low Power Active Medical Implants (LP-AMI) and associated Peripherals (LP-AMI-P), Low Powe: Drafting Stage – Early draft",
+   "doc": "EN 304 660",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78777",
+   "key": "eso-DEN/ERM-TG30-327-2026-08-07",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG30",
+   "label": "EN 302 510 – Ultra Low Power Active Medical Membrane Implants (ULP-AMI-M) and Peripherals (ULP-AMI-M-P): Drafting Stage – Early draft",
+   "doc": "EN 302 510",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78774",
+   "key": "eso-REN/ERM-TG30-328-2026-08-07",
+   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1488,6 +2304,18 @@
    },
    "key": "eso-rapporteur-DEN/CYBER-EUS-0010-2026-08-06",
    "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-08-03",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-6 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
+   "doc": "EN 301 843-6",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66907",
+   "key": "eso-REN/ERM-EMC-417-2026-08-03",
+   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1637,6 +2465,30 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-07-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-9 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Stable draft",
+   "doc": "EN 305 550-9",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73777",
+   "key": "eso-DEN/ERM-TGUWB-634-2026-07-21",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-07-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-24 – Harmonised Standard for access to radio spectrum; Part 24: New Radio (NR) Base Stations (B: Drafting Stage – Stable draft",
+   "doc": "EN 301 908-24",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69967",
+   "key": "eso-REN/MSG-TFES-1507-2026-07-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-07-20",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
@@ -1710,6 +2562,18 @@
   },
   {
    "date": "2026-07-14",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG30",
+   "label": "EN 300 224 – Radio Equipment for use in a Paging Service operating within the frequency range 25 MHz - : Work item stopping initiated",
+   "doc": "EN 300 224",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58902",
+   "key": "eso-REN/ERM-TG30-324-2026-07-14",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-07-14",
    "act": "product-digitalisation-regulation",
    "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
    "actor": "European Parliament",
@@ -1767,6 +2631,18 @@
    "key": "CM 3526/26 REV 1",
    "page": "space-act",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-07-09",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-4 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range Harmonised S: Drafting Stage – Early draft",
+   "doc": "EN 305 550-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58456",
+   "key": "eso-DEN/ERM-TGUWB-599EN 305 550-4-2026-07-09",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-07-09",
@@ -1863,6 +2739,18 @@
    "key": "Signature by the Presidents of EP and Council",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-07-07",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 302 194-1 – Navigation radars used on inland waterways; Harmonised Standard for access to radio spectr: Delivery to the EC",
+   "doc": "EN 302 194-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51395",
+   "key": "eso-DEN/ERM-TGMAR-540-2026-07-07",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-07-06",
@@ -1976,6 +2864,18 @@
   },
   {
    "date": "2026-06-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-25 – Harmonised Standard for access to radio spectrum; Part 25: New Radio (NR) User Equipment (: Drafting Stage – Mature draft",
+   "doc": "EN 301 908-25",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74271",
+   "key": "eso-REN/MSG-TFES-1513-2026-06-30",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-06-30",
    "act": "espr",
    "title": "ESPR",
    "actor": "Ecodesign for Sustainable Products Committee",
@@ -2006,6 +2906,18 @@
   },
   {
    "date": "2026-06-29",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGSRR",
+   "label": "EN 301 091-1 – Radar equipment operating in the 76 GHz to 77 GHz range; Harmonised Standard covering the : Drafting Stage – Early draft",
+   "doc": "EN 301 091-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=59542",
+   "key": "eso-REN/ERM-TGSRR-579-2026-06-29",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-06-29",
    "act": "ehds",
    "title": "EHDS",
    "actor": "Committee on the European Health Data Space",
@@ -2027,6 +2939,30 @@
    "key": "C131500-D116761/1",
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-06-26",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES SCN",
+   "label": "EN 304 122 – NR-NTN (New Radio Non Terrestrial Networks) capable User Equipment operating in Frequency : Drafting Stage – Stable draft",
+   "doc": "EN 304 122",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73754",
+   "key": "eso-DEN/SES-00475-2026-06-26",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-06-26",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES SCN",
+   "label": "EN 304 121 – IoT-NTN (Internet of Things Non Terrestrial Networks) capable User Equipment operating in : Drafting Stage – Early draft",
+   "doc": "EN 304 121",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73755",
+   "key": "eso-DEN/SES-00474-2026-06-26",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-06-26",
@@ -2440,6 +3376,18 @@
   },
   {
    "date": "2026-06-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 302 194-2 – Navigation radar used on inland waterways; Harmonised Standard for access to radio spectru: Drafting Stage – Early draft",
+   "doc": "EN 302 194-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=54530",
+   "key": "eso-DEN/ERM-WGMAR-600-2026-06-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-06-11",
    "act": "ai-act",
    "title": "AI Act",
    "actor": "CEN/CLC/JTC 21",
@@ -2471,6 +3419,18 @@
    ],
    "page": "ai-act",
    "type": "Committees"
+  },
+  {
+   "date": "2026-06-10",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-3-2 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
+   "doc": "EN 305 550-3-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78286",
+   "key": "eso-DEN/ERM-TGUWB-641-2026-06-10",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-06-10",
@@ -2529,6 +3489,18 @@
    ],
    "page": "cra",
    "type": "Committees"
+  },
+  {
+   "date": "2026-06-09",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 303 402 – Maritime mobile transmitters and receivers for use in the MF and HF bands; Harmonised Stan: Drafting Stage – Start of work",
+   "doc": "EN 303 402",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73762",
+   "key": "eso-REN/ERM-TGMAR-638-2026-06-09",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-06-09",
@@ -3034,6 +4006,54 @@
    "type": "Committees"
   },
   {
+   "date": "2026-05-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 729-2 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Delivery to the EC",
+   "doc": "EN 302 729-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=57435",
+   "key": "eso-REN/ERM-TGUWB-590-2026-05-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-05-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 303 940-2 – Short Range Devices (SRDs) using Ultra Wide Band technology (UWB); Harmonised Standard for: Drafting Stage – Early draft",
+   "doc": "EN 303 940-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62032",
+   "key": "eso-DEN/ERM-TGUWB-610-2026-05-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-05-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-2-5 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Delivery to the EC",
+   "doc": "EN 302 065-2-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68003",
+   "key": "eso-DEN/ERM-TGUWB-622-2026-05-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-05-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 489-55 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 55: Sp: Delivery to the EC",
+   "doc": "EN 301 489-55",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62349",
+   "key": "eso-DEN/ERM-EMC-408-2026-05-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-05-18",
    "act": "toy-safety-regulation",
    "title": "TSR",
@@ -3081,6 +4101,18 @@
   },
   {
    "date": "2026-05-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG17",
+   "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Start of pre-processing",
+   "doc": "EN 300 422-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
+   "key": "eso-REN/ERM-TG17-158-2026-05-13",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-05-13",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -3090,6 +4122,18 @@
    "key": "ST 9121/26",
    "page": "csa2",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-05-12",
+   "act": "red",
+   "title": "RED",
+   "actor": "ATTM TM4",
+   "label": "EN 302 326-2 – Part 2: Harmonised Standard for access to radio spectrum HS Digital Multipoint Radio Equip: Delivery to the EC",
+   "doc": "EN 302 326-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67472",
+   "key": "eso-REN/ATTM-0461-2026-05-12",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-05-12",
@@ -3212,6 +4256,30 @@
    "key": "CM 2635/26",
    "page": "space-act",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-05-04",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-7 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Work item change closed",
+   "doc": "EN 305 550-7",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73775",
+   "key": "eso-DEN/ERM-TGUWB-632-2026-05-04",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-05-04",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG28",
+   "label": "EN 300 440-1 – Short Range Devices (SRD) operating in 1 GHz to 40 GHz; Harmonised Standard for access to : Drafting Stage – Early draft",
+   "doc": "EN 300 440-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=57422",
+   "key": "eso-REN/ERM-TG28-562-2026-05-04",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-05-04",
@@ -3366,6 +4434,18 @@
    "key": "Trilogue",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-04-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-2 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range Harmonised S: Drafting Stage – Stable draft",
+   "doc": "EN 305 550-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58454",
+   "key": "eso-REN/ERM-TGUWB-597-2026-04-27",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-04-27",
@@ -3542,6 +4622,18 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-04-08",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG30",
+   "label": "EN 302 195 – Ultra Low Power Active Medical Implants (ULP-AMI) and their associated Peripherals (ULP-AM: Drafting Stage – Stable draft",
+   "doc": "EN 302 195",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=54438",
+   "key": "eso-REN/ERM-TG30-318-2026-04-08",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-04-01",
    "act": "ehds",
    "title": "EHDS",
@@ -3552,6 +4644,30 @@
    "key": "C131500-S114545/1",
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-03-31",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 489-57 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 57: Sp: Drafting Stage – Start of work",
+   "doc": "EN 301 489-57",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=77487",
+   "key": "eso-DEN/ERM-EMC-429-2026-03-31",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-03-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-8 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Publication",
+   "doc": "EN 301 843-8",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68037",
+   "key": "eso-DEN/ERM-EMC-421-2026-03-30",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-03-30",
@@ -4194,6 +5310,18 @@
   },
   {
    "date": "2026-03-04",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 303 098 – Harmonised Standard for access to radio spectrum: Drafting Stage – Early draft",
+   "doc": "EN 303 098",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73759",
+   "key": "eso-REN/ERM-TGMAR-637-2026-03-04",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-03-04",
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "European Commission",
@@ -4310,6 +5438,18 @@
   },
   {
    "date": "2026-02-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 303 940-1 – Short Range Devices (SRDs) using Ultra Wide Band technology (UWB); Harmonised standard for: Publication",
+   "doc": "EN 303 940-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62031",
+   "key": "eso-DEN/ERM-TGUWB-609-2026-02-27",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-02-27",
    "act": "nzia",
    "title": "NZIA",
    "actor": "Advisory Committee for Public Contracts",
@@ -4409,6 +5549,18 @@
    "key": "ITRE rapporteur appointed (Aura Salla, PPE)",
    "page": "digital-omnibus",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-02-24",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-4-2 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – Early draft",
+   "doc": "EN 302 065-4-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58040",
+   "key": "eso-DEN/ERM-TGUWB-594-2026-02-24",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-02-24",
@@ -4595,6 +5747,18 @@
    "key": "SANT rapporteur appointed (Oliver Schenk, PPE)",
    "page": "medical-devices-simplification",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-02-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 645 – Global Navigation Satellite Systems (GNSS) Repeaters; Harmonised Standard for access to ra: Drafting Stage – Mature draft",
+   "doc": "EN 302 645",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75176",
+   "key": "eso-REN/SES-00478-2026-02-13",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-02-13",
@@ -4863,6 +6027,18 @@
    "key": "ST 5638/26",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-01-22",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 303 489 – Wide Area Multilateration (WAM) systems operating at 1 030 MHz and 1 090 MHz; Harmonised S: Publication",
+   "doc": "EN 303 489",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=50826",
+   "key": "eso-DEN/ERM-TGAERO-36-2026-01-22",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-01-22",
@@ -5181,6 +6357,66 @@
    "key": "CELEX 32025R2509",
    "page": "toy-safety-regulation",
    "type": "Legislation"
+  },
+  {
+   "date": "2025-12-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-6 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Citation in the OJ",
+   "doc": "EN 305 550-6",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68008",
+   "key": "eso-DEN/ERM-TGUWB-627-2025-12-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2025-12-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG28",
+   "label": "EN 303 659 – Short Range Devices (SRD) in Data Networks; Radio equipment to be used in the frequency ra: Citation in the OJ",
+   "doc": "EN 303 659",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=57420",
+   "key": "eso-DEN/ERM-TG28-561-2025-12-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2025-12-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 729-1 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised standard for : Citation in the OJ",
+   "doc": "EN 302 729-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55076",
+   "key": "eso-REN/ERM-TGUWB-152-2025-12-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2025-12-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 302 480 – Mobile Communication On Board Aircraft (MCOBA) systems; Harmonised Standard for access to : Citation in the OJ",
+   "doc": "EN 302 480",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62020",
+   "key": "eso-REN/MSG-TFES-1138-2025-12-11",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2025-12-11",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG28",
+   "label": "EN 300 220-2 – Short Range Devices (SRD) operating in the frequency range 25 MHz to 1 000 MHz with power : Citation in the OJ",
+   "doc": "EN 300 220-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58934",
+   "key": "eso-REN/ERM-TG28-566-2025-12-11",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2025-12-11",

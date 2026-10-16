@@ -12,14 +12,11 @@ html { scroll-padding-top: 56px; }
 [hidden] { display: none !important; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--s-sans); font-variant-numeric: tabular-nums; }
 .wrap { max-width: 1320px; margin: 0 auto; padding: 0 24px 56px; }
-/* the site navigation at the same place as on the start page */
-.navwrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 0; }
-a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent); }
 a:hover { text-decoration-color: currentColor; }
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 a.ext::after { content: "\00a0↗"; font-size: 0.85em; }
 .crumbs { font-size: 15px; color: var(--muted); margin: 6px 0 8px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 24px; }
-.crumbs a { text-decoration: none; } .crumbs a:hover { text-decoration: underline; }
 h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 0 0 4px; }
 h2 { font: 600 22px/1.25 var(--s-serif); margin: 0; }
 h3 { font-size: 16px; font-weight: 700; margin: 20px 0 6px; }
@@ -79,7 +76,7 @@ th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--s-r
 .tag { font-size: 14px; color: var(--accent); font-weight: 600; }
 .note { border-top: 1px solid var(--line); padding: 8px 0 0; font-size: 15px; margin: 12px 0; }
 .sec-head + .note { border-top: 0; padding-top: 0; }   /* the heading rule is enough */
-details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 15px; }
+details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 15px; padding: 2px 0; }
 .stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
 .past, tr.past td { color: var(--muted); }
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0 32px; margin-top: 12px; }
@@ -98,7 +95,10 @@ a.card-link:hover .acard h2 { text-decoration: underline; text-decoration-color:
   font-size: 15px; }
 .feed .when time { display: block; font-weight: 600; white-space: nowrap; }
 .feed .kind { display: block; }
-.feed li > div a { text-decoration: none; } .feed li > div a:hover { text-decoration: underline; }
+/* WCAG 2.2 SC 2.5.8: the entry's link and its source link are targets at least 24px tall, on lines far enough apart
+   that they never overlap (2px above and below the text, which does not move the line) */
+.feed li > div { line-height: 1.7; } .feed li > div a { padding-block: 2px; }
+.feed li > div .small a { white-space: nowrap; }   /* a document number never breaks around the entry's link */
 .feed details { margin-top: 2px; }
 .linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit; font-size: 15px; padding: 8px 0 0; }
 .badge { font-size: 14px; font-weight: 600; padding: 1px 0; margin-left: 6px; color: var(--ink); }
@@ -124,7 +124,7 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
 @media print { .sitenav, nav.sections, .top, .linkbtn, .contents-h, .contents { display: none !important; }
   body { background: #fff; color: #000; font-size: 11pt; } a { color: #000; } section { break-inside: auto; margin-top: 18pt; }
   .feed li.more { display: grid !important; } details > * { display: block; } }
-@media (max-width: 700px) { .head { grid-template-columns: 1fr; } .official { text-align: left; } .wrap, .navwrap { padding-inline: 16px; }
+@media (max-width: 700px) { .head { grid-template-columns: 1fr; } .official { text-align: left; } .wrap { padding-inline: 16px; }
   nav.sections { margin: 0 -16px; padding-inline: 16px; } th, td { padding: 6px 8px; } }
 
 .steps { display: flex; gap: 2px; margin: 5px 0 1px; } .steps i { width: 15px; height: 8px;
@@ -135,20 +135,26 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
 .steps i.na { border-style: dashed; opacity: .5; }
 .small .steps { display: inline-flex; vertical-align: middle; margin: 0 4px; }
 .stepn { font-size: 12px; color: var(--muted); }
-</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script></head><body class="actpage"><div class="navwrap"><style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script></head><body class="actpage"><style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("../fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
-:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
-:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; }
 :root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
 @media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
 :root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
 @media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
-  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; }
   html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
 
+/* the bar sits in its own wrapper, a direct child of <body>, at the same place on every page: the 1320px column of
+   the start page and the act pages, 24px gutter, 16px at 700px and below (owner's report of 15 Oct 2026) */
+.navwrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 0; }
+@media (max-width: 700px) { .navwrap { padding-inline: 16px; } }
+.navwrap + .wrap { padding-top: 0; }   /* the bar's wrapper gives the space above; the content column follows 14px below */
+@media print { .navwrap { display: none !important; } }
 .sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
   border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
 .sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
@@ -157,15 +163,28 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
 .sitenav a.item:hover { border-bottom-color: var(--s-hair); }
 .sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
 .sitenav .brandbox { display: inline-flex; margin-right: 10px; }
-.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+/* the theme choice and the GitHub mark, kept together at the right */
+.sitenav .navend { margin-left: auto; display: inline-flex; align-items: center; gap: 14px; }
+.sitenav a.repo { display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
   text-decoration: none; padding: 6px 0; white-space: nowrap; }
 .sitenav a.repo span { display: none; }   /* the icon alone */
-.sitenav a:focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+/* light, dark or as the system: three quiet icon buttons, the chosen one petrol and underlined like the current
+   section; shown only with JavaScript, which applies and stores the choice (rt:theme, read by sitestyle.PREFS_JS) */
+.sitenav .theme { display: inline-flex; align-items: center; gap: 2px; }
+.sitenav .theme button { display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px;
+  padding: 0; margin: 0; font: inherit; color: var(--s-ink2); background: none; border: 0;
+  border-bottom: 2px solid transparent; border-radius: 0; cursor: pointer; }
+.sitenav .theme button:hover { color: var(--s-ink); border-bottom-color: var(--s-hair); }
+.sitenav .theme button[aria-pressed="true"] { color: var(--s-accent); border-bottom-color: var(--s-accent); }
+.sitenav .theme svg { display: block; }
+.sitenav .brk { display: none; }
+.sitenav :is(a, button):focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
 @media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; } }
-/* phones: brand and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+/* phones: brand, theme and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
 @media (max-width: 640px) { .sitenav { gap: 2px 14px; }
-  .sitenav .brandbox { order: -2; flex: 1 0 calc(100% - 40px); margin-right: 0; }
-  .sitenav a.repo { order: -1; margin-left: 0; }
+  .sitenav .brandbox { order: -3; flex: 1 0 auto; margin-right: 0; }
+  .sitenav .navend { order: -2; }
+  .sitenav .brk { display: block; order: -1; flex-basis: 100%; height: 0; }
   .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
 .sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
   font: 14px/1.5 var(--s-sans); }
@@ -180,12 +199,14 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
 /* a column with nothing in any row (sitestyle.phone_tables) */
 [data-gone] { display: none !important; }
+/* WCAG 2.2 SC 2.5.8: a short link side by side with another (a language, a lone ↗) is a target of at least 24 by 24px */
+a.tgt { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; text-align: center; }
 /* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
 a.ext::after { content: "\00a0\2197"; font-size: .85em; }
 /* "Show all n" under a folded table (sitestyle.fold_tables) */
 p.showmore { margin: 6px 0 0; }
 button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
-  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent);
   text-underline-offset: 3px; }
 button.showmore:hover { text-decoration-color: currentColor; }
 /* phones: headings and dates of a narrow table wrap rather than run off the screen */
@@ -229,8 +250,8 @@ button.showmore:hover { text-decoration-color: currentColor; }
 @media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav></div><div class="wrap"><main id="main">
-<p class="crumbs"><span><a href="../index.html#act=nis2">Regulation timeline</a> › Cybersecurity › <strong>NIS-2</strong></span><span class="edition">Week 42 · as of 15 Oct 2026</span></p>
+</style><div class="navwrap"><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html" aria-current="page">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><span class="navend"><span class="theme" role="group" aria-label="Colour scheme" hidden><button type="button" data-scheme="light" aria-pressed="false" aria-label="Light" title="Light"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="3"/><path d="M8 1v2M8 13v2M1 8h2M13 8h2M3 3l1.4 1.4M11.6 11.6 13 13M3 13l1.4-1.4M11.6 4.4 13 3" stroke-linecap="round"/></svg></button><button type="button" data-scheme="dark" aria-pressed="false" aria-label="Dark" title="Dark"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 9.5A5.5 5.5 0 0 1 6.5 2.5a5.5 5.5 0 1 0 7 7z" stroke-linejoin="round"/></svg></button><button type="button" data-scheme="" aria-pressed="false" aria-label="As the system setting" title="As the system setting"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><path d="M8 2a6 6 0 0 1 0 12z" fill="currentColor" stroke="none"/></svg></button></span><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></span><span class="brk" aria-hidden="true"></span></nav><script>(function(){var d=document.documentElement,w=document.currentScript.parentNode,g=w&&w.querySelector('.theme');if(!g)return;var bs=g.querySelectorAll('button');function show(){var t=d.dataset.theme||'';bs.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.scheme===t));});}function apply(t){if(t)d.dataset.theme=t;else delete d.dataset.theme;show();try{document.dispatchEvent(new CustomEvent('rt:theme',{detail:t}));}catch(e){}}bs.forEach(function(b){b.addEventListener('click',function(){var t=b.dataset.scheme;try{if(t)localStorage.setItem('rt:theme',t);else localStorage.removeItem('rt:theme');}catch(e){}apply(t);});});addEventListener('storage',function(e){if(e.key==='rt:theme')apply(e.newValue||'');});g.hidden=false;show();})();</script></div><div class="wrap"><main id="main">
+<p class="crumbs"><span><a href="../index.html#act=nis2">Regulation timeline</a> › Cybersecurity › <strong>NIS-2</strong></span><span class="edition">Week 42 · as of 16 Oct 2026</span></p>
 <div class="head"><div>
 <h1>NIS 2 Directive</h1>
 <p class="muted">Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union</p>

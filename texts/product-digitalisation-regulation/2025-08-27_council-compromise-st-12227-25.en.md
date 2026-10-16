@@ -75,10 +75,10 @@ Whereas:
 (6) In accordance with the Regulations concerned, manufacturers are to draw up an EU declaration of conformity stating that the fulfilment of essential requirements set out in the applicable Regulations has been demonstrated. In order to enable seamless electronic processes, the EU declaration of conformity should be drawn up only in electronic form.
 
 <a id="rec-7"></a>
-(7) Moreover, Regulations (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, and (EU) 2023/1230 require that a copy of the **EU** declaration of conformity accompanies the product. Considering the evolution of digitalisation, it is essential to modernise this obligation by requiring that such EU declaration of conformity electronically accompany the product. The manufacturer will ~~make sure~~**ensure** that the EU declaration of conformity is **directly** accessible through an internet address or a machine-readable code**, free of** **charge, without the need for providing any personal data, downloading an** **application, or the obligation to register solely to access the EU declaration of** **conformity**.
+(7) Moreover, Regulations (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, and (EU) 2023/1230 require that a copy of the **EU** declaration of conformity accompanies the product. Considering the evolution of digitalisation, it is essential to modernise this obligation by requiring that such EU declaration of conformity electronically accompany the product. The manufacturer will ~~make sure~~ **ensure** that the EU declaration of conformity is **directly** accessible through an internet address or a machine-readable code**, free of** **charge, without the need for providing any personal data, downloading an** **application, or the obligation to register solely to access the EU declaration of** **conformity**.
 
 <a id="rec-8"></a>
-(8) Taking into account that in 2024 no less than 94% of EU households had access to internet ^(10), the paper format of the instructions accompanying the products under the scope of the Regulations concerned is ~~outdated~~**becoming less important** and not aligned with ~~the~~ current technologies, the ~~practice~~**practices** of consumers ~~nor with~~**or the** green objectives. Consequently, the possibility for a digital format of the instructions should be introduced in the Regulations concerned. This will allow manufacturers to provide instructions in digital format, if they wish to do so. Where manufacturers choose to provide instructions in digital format, in order to ~~still~~ protect the safety of consumers, the safety information, including instructions having **an** impact on product safety, should be provided in paper format or marked on the product**. Instructions and safety information provided** **in digital format should be directly accessible through an internet address or a** **machine-readable code, free of charge, without the need for providing any personal** **data, downloading an application, or the obligation to register solely to access the** **instructions and safety information**. Moreover, end-users should be able to obtain a paper copy of the instructions for use or safety information, upon request – at the time of ~~the~~ purchase and for a certain period of time after their purchase.
+(8) Taking into account that in 2024 no less than 94% of EU households had access to internet ^(10), the paper format of the instructions accompanying the products under the scope of the Regulations concerned is ~~outdated~~ **becoming less important** and not aligned with ~~the~~ current technologies, the ~~practice~~ **practices** of consumers ~~nor with~~ **or the** green objectives. Consequently, the possibility for a digital format of the instructions should be introduced in the Regulations concerned. This will allow manufacturers to provide instructions in digital format, if they wish to do so. Where manufacturers choose to provide instructions in digital format, in order to ~~still~~ protect the safety of consumers, the safety information, including instructions having **an** impact on product safety, should be provided in paper format or marked on the product**. Instructions and safety information provided** **in digital format should be directly accessible through an internet address or a** **machine-readable code, free of charge, without the need for providing any personal** **data, downloading an application, or the obligation to register solely to access the** **instructions and safety information**. Moreover, end-users should be able to obtain a paper copy of the instructions for use or safety information, upon request – at the time of ~~the~~ purchase and for a certain period of time after their purchase.
 
 **(-9) Regulation (EU) 2016/425 contains certain sectoral specificities, including the fact** **that the entirety of the instructions and information set out in point 1.4 of Annex II** **are related to the safe use of the product. Thus, in order to protect the safety of** **consumers, where the product is intended for, or can be reasonably foreseen to be** **used by, consumers, all the instructions and information set out in point 1.4 of Annex** **II should be provided in a paper format or made visible on the packaging**
 
@@ -86,10 +86,10 @@ Whereas:
 (9) In order to facilitate communication between economic operators and national competent authorities and end-users, the indication of a digital contact of the manufacturer on the product and in the EU declaration of conformity is necessary to enhance the effectiveness of market surveillance and to expedite the process of tracing non-compliant products. Currently, economic operators are required to indicate their postal address on the product, but this is not always sufficient to ensure that competent authorities can establish rapid contact. It is therefore necessary to require economic operators to provide both a postal address and a digital contact on the product and in the EU declaration of conformity. Such **a** digital contact should be defined in the Regulations concerned. **The digital contact** **should allow consumers and competent authorities to communicate with economic** **operators directly, and should be accessible free of charge, without the obligation to** **provide personal data, download additional specific applications or the obligation to** **register solely to contact the economic operator. Such digital contact may include, for** **example, an email address or a contact form on a website. However, it should not be** **understood as encompassing automatic replies to queries, chatbots, fax numbers, or** **telephone lines. The term ‘digital contact’, similarly to the term ‘electronic address’** **in Regulation (EU) 2023/988 on general product safety, should be interpreted in a** **technologically neutral manner, capable of evolving with future technological** **developments, and should cover all forms of direct digital communication.**
 
 <a id="rec-10"></a>
-(10) The Regulations concerned require that economic operators provide, ~~on~~**upon** a reasoned request from a competent national authority, all information and documentation necessary to demonstrate the conformity of the concerned products with the respective Regulations, in paper or electronic form. The paper-based form is ~~an outdated requirement~~**becoming** **less important**, while electronic communication enhances interaction between authorities and businesses, streamlining processes and reducing administrative burdens. In order to achieve the digitalisation of reporting requirements and to reduce administrative burden for economic operators and competent authorities, the economic operators should be required to provide the necessary information and documentation in electronic form only. Documentation provided in electronic form could be made available, for example, in a digital printable format, which allows the possibility to print, download and save the documentation on an electronic device.
+(10) The Regulations concerned require that economic operators provide, ~~on~~ **upon** a reasoned request from a competent national authority, all information and documentation necessary to demonstrate the conformity of the concerned products with the respective Regulations, in paper or electronic form. The paper-based form is ~~an outdated requirement~~ **becoming** **less important**, while electronic communication enhances interaction between authorities and businesses, streamlining processes and reducing administrative burdens. In order to achieve the digitalisation of reporting requirements and to reduce administrative burden for economic operators and competent authorities, the economic operators should be required to provide the necessary information and documentation in electronic form only. Documentation provided in electronic form could be made available, for example, in a digital printable format, which allows the possibility to print, download and save the documentation on an electronic device.
 
 <a id="rec-11"></a>
-(11) The current Union standardisation framework, which is based on Regulation (EU) No 1025/2012 of the European Parliament and of the Council ^(11), represents the framework by default to elaborate standards that provide for a presumption of conformity with the relevant essential health and safety ~~or other~~ requirements~~.~~ **of the Regulations amended** **by this Regulation.** However, ~~where no~~**in the absense of relevant references to** harmonised standards ~~exist or where they are insufficient~~**,**, the Commission should be able to adopt implementing acts establishing common specifications for the essential health and safety or other requirements **of the Regulations amended by this Regulation, provided** **that in doing so it duly respects the role and functions of the European** **standardisation organisations**, as an exceptional fall-back solution to facilitate the manufacturer’s obligation to comply with those health and safety ~~or other~~ requirements **of** **the Regulations amended by this Regulation**.
+(11) The current Union standardisation framework, which is based on Regulation (EU) No 1025/2012 of the European Parliament and of the Council ^(11), represents the framework by default to elaborate standards that provide for a presumption of conformity with the relevant essential health and safety ~~or other~~ requirements ~~.~~ **of the Regulations amended** **by this Regulation.** However, ~~where no~~ **in the absense of relevant references to** harmonised standards ~~exist or where they are insufficient~~ **,**, the Commission should be able to adopt implementing acts establishing common specifications for the essential health and safety or other requirements **of the Regulations amended by this Regulation, provided** **that in doing so it duly respects the role and functions of the European** **standardisation organisations**, as an exceptional fall-back solution to facilitate the manufacturer’s obligation to comply with those health and safety ~~or other~~ requirements **of** **the Regulations amended by this Regulation**.
 
 <a id="rec-12"></a>
 (12) As the digital product passport is foreseen in certain EU legislation, such as Regulation (EU) 2023/1542 ^(12), it is essential to require economic operators to store the information contained in the EU declaration of conformity and instructions in the digital product passport where a product is covered by multiple pieces of legislation. This approach would reduce the administrative burden on manufacturers, as they would no longer need to maintain separate storage locations for compliance documents **- such as declarations of** **conformity - required under the various pieces of product legislation that may apply** **to the same product, thereby upholding the principle of a single declaration of** **conformity. In addition, instructions provided in electronic form would be stored** **together with the declaration of conformity**. By storing the documentation in one place, all necessary documents demonstrating product compliance would be easily accessible, ensuring transparency and facilitating compliance. This streamlined approach would enhance the overall efficiency of the regulatory framework, and it aligns with the principle that where several pieces of Union harmonisation legislation apply to a product, the manufacturer or other economic operator, where appropriate, should provide a single EU declaration of conformity.
@@ -101,33 +101,33 @@ Whereas:
 (14) To ensure a smooth and effective transition, to minimize disruptions, and to provide a reasonable timeframe for industries to adjust to the new requirements amendments to Regulations ~~(EU) 765/2008,~~ (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2019/1009, (EU) 2023/1542 and (EU) 2024/1781 concerning digitalisation should be deferred. Amendments to Regulation (EU) 2023/1230 should apply from the date of application of that Regulation.
 
 <a id="rec-15"></a>
-(15) In order to enable economic operators to supply stock of products that have been placed on the market before the date of application of amendments to Regulations (EU) ~~765/2008,~~ ~~(EU)~~ 2016/424, (EU) 2016/425, (EU) 2016/426~~, (EU) 2019/1009~~, (EU) 2023/1542 and (EU) 2024/1781 concerning digitalisation, it is necessary to provide for reasonable transitional arrangements that do not impede the making available on the market of products that have been placed on the market in accordance with those Regulations in their version applicable before that date.
+(15) In order to enable economic operators to supply stock of products that have been placed on the market before the date of application of amendments to Regulations (EU) ~~765/2008,~~ ~~(EU)~~ 2016/424, (EU) 2016/425, (EU) 2016/426 ~~, (EU) 2019/1009~~, (EU) 2023/1542 and (EU) 2024/1781 concerning digitalisation, it is necessary to provide for reasonable transitional arrangements that do not impede the making available on the market of products that have been placed on the market in accordance with those Regulations in their version applicable before that date.
 
 <a id="rec-16"></a>
-(16) Regulations ~~(EU) 765/2008,~~ (EU) 2016/424, (EU) 2016/425, (EU) 2016/426~~, (EU)~~ ~~2019/1009~~, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 should therefore be amended accordingly,
+(16) Regulations ~~(EU) 765/2008,~~ (EU) 2016/424, (EU) 2016/425, (EU) 2016/426 ~~, (EU)~~ ~~2019/1009~~, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 should therefore be amended accordingly,
 
 HAVE ADOPTED THIS REGULATION:
 
 <a id="art-1"></a>
-### Article 1 – Amendments to Regulation (EU) 765/2008
+### Article 1 – ~~Amendments to Regulation (EU) 765/2008~~
 
 ~~Regulation (EU) 765/2008 is amended as follows:~~
 
-- (1) ~~Article 2 is amended as follows:~~
+- ~~(1) Article 2 is amended as follows:~~
 
-  - (a) ~~the following point (9a) is inserted:~~
+  - ~~(a) the following point (9a) is inserted:~~
 
 ~~‘(9a) ‘a common specification’ means a set of technical requirements, other than a~~ ~~standard, that provides a means of complying with the legal obligations~~ ~~applicable to a product, device, service, process or system;;’~~
 
-  - (b) ~~paragraph 10 is replaced by the following:~~
+  - ~~(b) paragraph 10 is replaced by the following:~~
 
 ~~‘10. ‘accreditation’ shall mean an attestation by a national accreditation body that a~~ ~~conformity assessment body meets the requirements set by harmonised~~ ~~standards or common specifications and, where applicable, any additional~~ ~~requirements including those set out in relevant sectoral schemes, to carry out a~~ ~~specific conformity assessment activity;;’~~
 
-- (2) ~~in Article 10, paragraph 5 is replaced by the following:~~
+- ~~(2) in Article 10, paragraph 5 is replaced by the following:~~
 
 ~~‘5. Peer evaluation shall ascertain whether the national accreditation bodies meet the~~ ~~requirements laid down in Article 8, taking into account the relevant harmonised~~ ~~standards or common specifications referred to in Article 11.;’~~
 
-- (3) ~~in Article 11, paragraph 1 is replaced by the following:~~
+- ~~(3) in Article 11, paragraph 1 is replaced by the following:~~
 
 ~~‘1. National accreditation bodies that demonstrate conformity with the criteria laid down~~ ~~in the relevant harmonised standard, the reference of which has been published in the~~ ~~Official Journal of the European Union, or with the criteria laid down in common~~ ~~specifications, by having successfully undergone peer evaluation under Article 10~~ ~~shall be presumed to fulfil the requirements laid down in Article 8..’~~
 
@@ -140,17 +140,17 @@ Regulation (EU) 2016/424 is amended as follows:
 
   - (a) the following point (17a) is inserted:
 
-‘(17a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~**contacted** or engaged without the need to register or to ~~download~~**use** an application;~~;’~~
+‘(17a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~ **contacted** or engaged without the need to register or to ~~download~~ **use** an application; ~~;’~~
 
   - (b) the following point (19a) is inserted:
 
-‘(19a) ‘common specifications’ means a set of technical ~~requirements~~**specifications**, other than a standard, that provide means of complying with the essential requirements **set out in Annex II of this Regulation** applicable to a ~~product,~~ ~~device, service, process or system;~~**subsystem or safety component**;’
+‘(19a) ‘common specifications’ means a set of technical ~~requirements~~ **specifications**, other than a standard, that provide means of complying with the essential requirements **set out in Annex II of this Regulation** applicable to a ~~product,~~ ~~device, service, process or system;~~ **subsystem or safety component**;’
 
 - (2) Article 11 is amended as follows:
 
   - (a) in paragraph 2, the second subparagraph is replaced by the following:
 
-‘Where compliance of a subsystem or a safety component with the applicable requirements has been demonstrated by the procedure referred to in the first subparagraph, manufacturers shall draw up an EU declaration of conformity **referred to** **in Article 19**, in electronic form, and affix the CE marking~~.~~ **referred to in Article 20**;’
+‘Where compliance of a subsystem or a safety component with the applicable requirements has been demonstrated by the procedure referred to in the first subparagraph, manufacturers shall draw up an EU declaration of conformity **referred to** **in Article 19**, in electronic form, and affix the CE marking ~~.~~ **referred to in Article 20**;’
 
   - (b) in paragraph 4, first subparagraph, the second sentence is replaced by the following:
 
@@ -158,25 +158,25 @@ Regulation (EU) 2016/424 is amended as follows:
 
   - (c) in paragraph 6, the first and second sentences are replaced by the following:
 
-‘Manufacturers shall indicate on the subsystem or the safety component their name, registered trade name or registered trademark as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the subsystem or safety component. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted or engaged**.;’
+‘Manufacturers shall indicate on the subsystem or the safety component their name, registered trade name or registered trademark as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the subsystem or safety component. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~ **contacted or engaged**.;’
 
   - (d) paragraph 7 is replaced by the following:
 
-‘7. Manufacturers shall ensure that the subsystem or the safety component is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be accessed and by the instructions and safety information, in a language which can be easily understood by ~~end-~~ ~~users~~**users**, as determined by the Member State concerned. The instructions and safety information may be provided in electronic form. Such instructions and safety information shall be clear, understandable and intelligible.
+‘7. Manufacturers shall ensure that the subsystem or the safety component is accompanied by the internet address or machine-readable code through which the EU declaration of conformity can be accessed and by the instructions and safety information, in a language which can be easily understood by ~~end-~~ ~~users~~ **users**, as determined by the Member State concerned. The instructions and safety information may be provided in electronic form. Such instructions and safety information shall be clear, understandable and intelligible.
 
-The manufacturer shall take into account the intended use and the foreseeable ~~end-user~~**user** of the product when deciding the specific format for the instructions and safety information. When drafting **instructions and** the safety information, the manufacturers shall take account of the intended use and foreseeable misuse by the ~~end-user~~**user**, as well as the role which the instructions play for ensuring safety.
+The manufacturer shall take into account the intended use and the foreseeable ~~end-user~~ **user** of the product when deciding the specific format for the instructions and safety information. When drafting **instructions and** the safety information, the manufacturers shall take account of the intended use and foreseeable misuse by the ~~end-user~~ **user**, as well as the role which the instructions play for ensuring safety.
 
-However, where a large number of subsystems or safety components are delivered to a single economic operator or ~~end-user~~**user**, the batch or consignment concerned may be accompanied by a single internet address or machine-readable code through which the EU declaration of conformity can be accessed.
+However, where a large number of subsystems or safety components are delivered to a single economic operator or ~~end-user~~ **user**, the batch or consignment concerned may be accompanied by a single internet address or machine-readable code through which the EU declaration of conformity can be accessed.
 
 When the instructions **and safety information**, referred to in the first subparagraph, are provided in electronic form the manufacturer shall:
 
     - (a) mark on the subsystem or the safety component, or, where that is not possible, on its packaging or in an accompanying document, how to access them **directly** and how to request them in paper format;
 
-    - (b) present them in a format that makes it possible for the ~~end-user~~**user** to print and download the instructions **and safety information** and save them on an electronic device so that the ~~end-user~~**user** can access them at all times, in particular during a breakdown of the subsystem or the safety component; this requirement also applies where the instructions **and** **safety information** are embedded in the software of the subsystem or the safety component;
+    - (b) present them in a format that makes it possible for the ~~end-user~~ **user** to print and download the instructions **and safety information** and save them on an electronic device so that the ~~end-user~~ **user** can access them at all times, in particular during a breakdown of the subsystem or the safety component; this requirement also applies where the instructions **and** **safety information** are embedded in the software of the subsystem or the safety component;
 
     - (c) make them accessible online during the expected lifetime of the subsystem or the safety component and for at least 30 years after the placing on the market of the subsystem or the safety component.
 
-However, the ~~end-user~~**user** may, at time of the purchase of the ~~product~~**subsystem or the safety component**, or up to six months after that purchase, request the instructions or safety information in paper format. Where the ~~end-user~~**user** requests those instructions or safety information, the manufacturer shall provide them to the ~~end-user~~**user**, free of charge, within one month of receiving the request.;’
+However, the ~~end-user~~ **user** may, at time of the purchase of the ~~product~~ **subsystem or the safety component**, or up to six months after that purchase, request the instructions or safety information in paper format. Where the ~~end-user~~ **user** requests those instructions or safety information, the manufacturer shall provide them to the ~~end-user~~ **user**, free of charge, within one month of receiving the request.;’
 
   - (e) paragraph 9 is replaced by the following:
 
@@ -216,11 +216,11 @@ However, the ~~end-user~~**user** may, at time of the purchase of the ~~product~
 
 Common Specifications
 
-1. **In exceptional cases,** the Commission may ~~by means of~~**adopt** implementing acts ~~adopt~~**establishing** common specifications ~~that enable compliance with the~~ ~~essential~~**covering** requirements ~~set out in Annex II in any of~~**that provide a means to** **comply with the applicable essential safety requirements. Those implementing** **acts shall only be adopted where** the following ~~cases~~**conditions are fulfilled**:
+1. **In exceptional cases,** the Commission may ~~by means of~~ **adopt** implementing acts ~~adopt~~ **establishing** common specifications ~~that enable compliance with the~~ ~~essential~~ **covering** requirements ~~set out in Annex II in any of~~ **that provide a means to** **comply with the applicable essential safety requirements. Those implementing** **acts shall only be adopted where** the following ~~cases~~ **conditions are fulfilled**:
 
-  - (a) **there is no harmonised standard covering those** requirements ~~set out in~~ ~~Annex II are not covered by harmonised standards, or parts thereof, the~~ ~~references~~**the reference** of which ~~have been~~**is** published in the Official Journal of the European Union **and no such reference is expected to be published** **within a reasonable period**;
+  - (a) **there is no harmonised standard covering those** requirements ~~set out in~~ ~~Annex II are not covered by harmonised standards, or parts thereof, the~~ ~~references~~ **the reference** of which ~~have been~~ **is** published in the Official Journal of the European Union **and no such reference is expected to be published** **within a reasonable period**;
 
-  - (b) ~~requirements set out in Annex II are covered by harmonised standards~~**the** **Commission has requested, pursuant to Article 10(1) of Regulation** **1025/2012**, **one or more** ~~or parts thereof, the references of which have been~~ ~~published in the Official Journal of the~~ European ~~Union, but application of~~ ~~those~~**standardisation organisations to draft or to revise European** standards ~~or parts thereof result in non-compliance of a product with the essential~~**for** **those** requirements ~~set out in Annex II; or~~**and:**
+  - (b) ~~requirements set out in Annex II are covered by harmonised standards~~ **the** **Commission has requested, pursuant to Article 10(1) of Regulation** **1025/2012**, **one or more** ~~or parts thereof, the references of which have been~~ ~~published in the Official Journal of the~~ European ~~Union, but application of~~ ~~those~~ **standardisation organisations to draft or to revise European** standards ~~or parts thereof result in non-compliance of a product with the essential~~ **for** **those** requirements ~~set out in Annex II; or~~ **and:**
 
     - (1) **the request has not been accepted by any of the European** **standardisation organisations to which the request was addressed; or**
 
@@ -232,9 +232,9 @@ Common Specifications
 
       - (c) **do not satisfy the requirements they aim to cover.**
 
-  - (c) ~~where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
+  - ~~(c) where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
 
-Those implementing acts shall be adopted in accordance with the ~~advisory~~**examination** procedure referred to in Article ~~44(2)~~**44(3)**.
+Those implementing acts shall be adopted in accordance with the ~~advisory~~ **examination** procedure referred to in Article ~~44(2)~~ **44(3)**.
 
 2. Subsystems and safety components that are in conformity with common specifications or parts thereof shall be presumed to be in conformity with essential requirements covered by those specifications or parts thereof, set out in Annex II.;
 
@@ -252,11 +252,11 @@ Those implementing acts shall be adopted in accordance with the ~~advisory~~**ex
 
 - (8) in Article 19, the following paragraph 5 is added:
 
-‘5. Where other Union legislation applicable to **the** subsystem or ~~a~~ safety ~~component~~**components** requires the economic operator to include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EU declaration of conformity or instructions in a digital product passport, the information required in ~~in~~ Annex IX to be included in the EU declaration of conformity **or, as appropriate, the EU declaration of** **conformity required in Article 19, and the instructions and safety information** ~~and~~ referred to in Article 11(7) shall be provided only in that digital product passport.;’
+‘5. Where other Union legislation applicable to **the** subsystem or ~~a~~ safety ~~component~~ **components** requires the economic operator to include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EU declaration of conformity or instructions in a digital product passport, the information required in ~~in~~ Annex IX to be included in the EU declaration of conformity **or, as appropriate, the EU declaration of** **conformity required in Article 19, and the instructions and safety information** ~~and~~ referred to in Article 11(7) shall be provided only in that digital product passport.;’
 
 - (9) in Article 26, paragraph 7, point (c) is replaced by the following:
 
-‘(c) appropriate knowledge and understanding of the essential requirements set out in Annex II, of the applicable harmonised standards ~~or~~**and** common specifications and of the relevant provisions of Union harmonisation legislation and of national legislation;;’
+‘(c) appropriate knowledge and understanding of the essential requirements set out in Annex II, of the applicable harmonised standards ~~or~~ **and** common specifications and of the relevant provisions of Union harmonisation legislation and of national legislation;;’
 
 - (10) in Article 34, paragraph 3 is replaced by the following:
 
@@ -277,11 +277,11 @@ Regulation (EU) No 2016/425 is amended as follows:
 
   - (a) the following point (8a) is inserted:
 
-‘(8a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~**contacted** or engaged without the need to register or to download an application;;’
+‘(8a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~ **contacted** or engaged without the need to register or to download an application;;’
 
   - (b) the following point (10a) is inserted:
 
-‘(10a) ‘common specifications’ means a set of technical ~~requirements~~**specifications**, other than a standard, that provides a means of complying with the essential requirements **set out in Annex II of this Regulation** applicable to ~~a product,~~ ~~device, service, process or system~~**PPE**;~~;’~~
+‘(10a) ‘common specifications’ means a set of technical ~~requirements~~ **specifications**, other than a standard, that provides a means of complying with the essential requirements **set out in Annex II of this Regulation** applicable to ~~a product,~~ ~~device, service, process or system~~ **PPE**; ~~;’~~
 
 - (2) Article 8 is amended as follows:
 
@@ -295,7 +295,7 @@ Regulation (EU) No 2016/425 is amended as follows:
 
   - (c) in paragraph 6, the first and second sentences are replaced by the following:
 
-‘Manufacturers shall indicate, on the PPE, their name, registered trade name or registered trademark as well as their postal address and digital contact or, where that is not possible, on its packaging or in a document accompanying the PPE. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted or engaged**.;’
+‘Manufacturers shall indicate, on the PPE, their name, registered trade name or registered trademark as well as their postal address and digital contact or, where that is not possible, on its packaging or in a document accompanying the PPE. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~ **contacted or engaged**.;’
 
   - (d) paragraphs 7 and 8 are replaced by the following:
 
@@ -303,7 +303,7 @@ Regulation (EU) No 2016/425 is amended as follows:
 
 The manufacturer shall take into account the intended use and the foreseeable end-user of the PPE when deciding the specific format for the instructions and information set out in point 1.4 of Annex II.
 
-In the case of PPE intended for consumers or that can, under reasonably foreseeable conditions, be used by consumers, even if not intended for them, the manufacturer shall provide, in paper format, or make ~~them~~ visible on the packaging, the instructions and information set out in point 1.4 of Annex II~~.~~**,** **which are related to the safe use of the PPE**. Such information shall be easily visible and legible for consumers.
+In the case of PPE intended for consumers or that can, under reasonably foreseeable conditions, be used by consumers, even if not intended for them, the manufacturer shall provide, in paper format, or make ~~them~~ visible on the packaging, the instructions and information set out in point 1.4 of Annex II ~~.~~ **,** **which are related to the safe use of the PPE**. Such information shall be easily visible and legible for consumers.
 
 When drafting the instructions and information set out in point 1.4 of Annex II**,** **which are related to the safe use of the PPE**, the manufacturers shall take account of the intended use and foreseeable misuse by the end-user.
 
@@ -331,11 +331,11 @@ However, the end-user may, at time of the purchase of the PPE, or up to six mont
 
   - (a) in paragraph 3, the first sentence is replaced by the following:
 
-‘Importers shall indicate, on the PPE, their name, registered trade name or registered trademark as well as their postal address and digital contact through which they can be ~~reached~~**contacted or engaged** or, where that is not possible, on its packaging or in a document accompanying the PPE.;’
+‘Importers shall indicate, on the PPE, their name, registered trade name or registered trademark as well as their postal address and digital contact through which they can be ~~reached~~ **contacted or engaged** or, where that is not possible, on its packaging or in a document accompanying the PPE.;’
 
   - (b) in paragraph 9, the first sentence is replaced by the following:
 
-‘Importers shall, further to a reasoned request from a competent national authority, provide it, in electronic form, with all the information and documentation necessary to demonstrate the conformity of PPE **with this Regulation** in a language which can be easily understood by that authority~~.~~;’
+‘Importers shall, further to a reasoned request from a competent national authority, provide it, in electronic form, with all the information and documentation necessary to demonstrate the conformity of PPE **with this Regulation** in a language which can be easily understood by that authority ~~.~~;’
 
 - (5) in Article 11(5) the first sentence is replaced by the following:
 
@@ -347,11 +347,11 @@ However, the end-user may, at time of the purchase of the PPE, or up to six mont
 
 Common Specifications
 
-1. **In exceptional cases,** the Commission may ~~by means of~~**adopt** implementing acts ~~adopt~~**establishing** common specifications ~~that enable compliance with~~ ~~essential~~**covering** requirements ~~set out in Annex II in any of~~**that provide a means to** **comply with the applicable essential safety requirements. Those implementing** **acts shall only be adopted where** the following ~~cases~~**conditions are fulfilled**:
+1. **In exceptional cases,** the Commission may ~~by means of~~ **adopt** implementing acts ~~adopt~~ **establishing** common specifications ~~that enable compliance with~~ ~~essential~~ **covering** requirements ~~set out in Annex II in any of~~ **that provide a means to** **comply with the applicable essential safety requirements. Those implementing** **acts shall only be adopted where** the following ~~cases~~ **conditions are fulfilled**:
 
-  - (a) **there is no harmonised standard covering those** requirements ~~set out in~~ ~~Annex II are not covered by harmonised standards, or parts thereof, the~~ ~~references~~**the reference** of which ~~have been~~**is** published in the Official Journal of the European Union **and no such reference is expected to be published** **within a reasonable period**;
+  - (a) **there is no harmonised standard covering those** requirements ~~set out in~~ ~~Annex II are not covered by harmonised standards, or parts thereof, the~~ ~~references~~ **the reference** of which ~~have been~~ **is** published in the Official Journal of the European Union **and no such reference is expected to be published** **within a reasonable period**;
 
-  - (b) ~~requirements set out in Annex II are covered by harmonised standards~~**the** **Commission has requested, pursuant to Article 10(1) of Regulation** **1025/2012**, **one or more** ~~or parts thereof, the references of which have been~~ ~~published in the Official Journal of the~~ European ~~Union, but application of~~ ~~those~~**standardisation organisations to draft or to revise European** standards ~~or parts thereof result in non-compliance of PPE with the~~**for those** requirements ~~set out in Annex II, or~~**and:**
+  - (b) ~~requirements set out in Annex II are covered by harmonised standards~~ **the** **Commission has requested, pursuant to Article 10(1) of Regulation** **1025/2012**, **one or more** ~~or parts thereof, the references of which have been~~ ~~published in the Official Journal of the~~ European ~~Union, but application of~~ ~~those~~ **standardisation organisations to draft or to revise European** standards ~~or parts thereof result in non-compliance of PPE with the~~ **for those** requirements ~~set out in Annex II, or~~ **and:**
 
     - (1) **the request has not been accepted by any of the European** **standardisation organisations to which the request was addressed; or**
 
@@ -363,9 +363,9 @@ Common Specifications
 
       - (c) **do not satisfy the requirements they aim to cover.**
 
-  - (c) ~~where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant PPE.~~
+  - ~~(c) where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant PPE.~~
 
-Those implementing acts shall be adopted in accordance with the ~~advisory~~**examination** procedure referred to in Article ~~44(2)~~**44(3)**.
+Those implementing acts shall be adopted in accordance with the ~~advisory~~ **examination** procedure referred to in Article ~~44(2)~~ **44(3)**.
 
 2. PPE that is in conformity with common specifications or parts thereof shall be presumed to be in conformity with the essential requirements covered by those specifications or parts thereof, set out in Annex II.;
 
@@ -391,7 +391,7 @@ Those implementing acts shall be adopted in accordance with the ~~advisory~~**ex
 
 - (10) Article 25 is replaced by the following:
 
-‘Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or common specifications or parts thereof the references of which have been published in the ~~Official Journal of the European Union~~**Official Journal** **of the European Union**, it shall be presumed to comply with the requirements set out in Article 24 in so far as the applicable harmonised standards **or common specifications** cover those requirements.;’
+‘Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or common specifications or parts thereof the references of which have been published in the ~~Official Journal of the European Union~~ **Official Journal** **of the European Union**, it shall be presumed to comply with the requirements set out in Article 24 in so far as the applicable harmonised standards **or common specifications** cover those requirements.;’
 
 - (11) In Article 32, paragraph 3 is replaced by the following:
 
@@ -408,11 +408,11 @@ Regulation (EU) No 2016/426 is amended as follows:
 
   - (a) the following point (21a) is inserted:
 
-‘(21a) digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~**contacted** or engaged without the need to register or to ~~download~~**use** an application;’
+‘(21a) digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~ **contacted** or engaged without the need to register or to ~~download~~ **use** an application;’
 
   - (b) the following point (23a) is inserted:
 
-‘(23a) ‘common specifications’ means a set of technical ~~requirements~~**specifications**, other than a standard, that provides a means of complying with the essential requirements **set out in Annex I of this Regulation** applicable to ~~a product,~~ ~~device, service, process or system;~~**an appliance or a fitting**;’
+‘(23a) ‘common specifications’ means a set of technical ~~requirements~~ **specifications**, other than a standard, that provides a means of complying with the essential requirements **set out in Annex I of this Regulation** applicable to ~~a product,~~ ~~device, service, process or system;~~ **an appliance or a fitting**;’
 
 - (2) Article 7 is amended as follows:
 
@@ -426,9 +426,9 @@ Regulation (EU) No 2016/426 is amended as follows:
 
   - (c) paragraphs 6 and 7 are replaced by the following:
 
-‘6. Manufacturers shall indicate on the appliance their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the appliance. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted or engaged**. The contact details shall be in a language easily understood by consumers and other end-users and the market surveillance authorities.
+‘6. Manufacturers shall indicate on the appliance their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the appliance. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~ **contacted or engaged**. The contact details shall be in a language easily understood by consumers and other end-users and the market surveillance authorities.
 
-Manufacturers shall indicate on the fitting their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the fitting. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~**contacted or engaged**. The contact details shall be in a language easily understood by appliance manufacturers and the market surveillance authorities.
+Manufacturers shall indicate on the fitting their name, registered trade name or registered trademark, as well as their postal address and digital contact or, where that is not possible, on the packaging or in a document accompanying the fitting. The postal address and digital contact shall indicate a single point through which the manufacturer can be ~~reached~~ **contacted or engaged**. The contact details shall be in a language easily understood by appliance manufacturers and the market surveillance authorities.
 
 7. Manufacturers shall ensure that the appliance is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned. The instructions and safety information may be provided in an electronic form. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
 
@@ -496,11 +496,11 @@ Importers shall indicate on the fitting their name, registered trade name or reg
 
 Common Specifications
 
-1. **In exceptional cases,** the Commission may ~~by means of~~**adopt** implementing acts ~~adopt~~**establishing** common specifications ~~that enable compliance with~~ ~~essential~~**covering** requirements ~~set out in Annex I in any of~~**that provide a means to** **comply with the applicable essential safety requirements. Those implementing** **acts shall only be adopted where** the following ~~cases~~**conditions are fulfilled**:
+1. **In exceptional cases,** the Commission may ~~by means of~~ **adopt** implementing acts ~~adopt~~ **establishing** common specifications ~~that enable compliance with~~ ~~essential~~ **covering** requirements ~~set out in Annex I in any of~~ **that provide a means to** **comply with the applicable essential safety requirements. Those implementing** **acts shall only be adopted where** the following ~~cases~~ **conditions are fulfilled**:
 
-  - (a) **there is no harmonised standard covering those** requirements ~~set out in~~ ~~Annex I are not covered by harmonised standards, or parts thereof, the~~ ~~references~~**the reference** of which ~~have been~~**is** published in the Official Journal of the European Union **and no such reference is expected to be published** **within a reasonable period**;
+  - (a) **there is no harmonised standard covering those** requirements ~~set out in~~ ~~Annex I are not covered by harmonised standards, or parts thereof, the~~ ~~references~~ **the reference** of which ~~have been~~ **is** published in the Official Journal of the European Union **and no such reference is expected to be published** **within a reasonable period**;
 
-  - (b) ~~requirements set out in Annex I are covered by harmonised standards~~**the** **Commission has requested, pursuant to Article 10(1) of Regulation** **1025/2012**, **one or more** ~~or parts thereof, the references of which have been~~ ~~published in the Official Journal of the~~ European ~~Union, but application of~~ ~~those~~**standardisation organisations to draft or to revise European** standards ~~or parts thereof result in non-compliance of appliances and fittings with the~~**for** **those** requirements ~~set out in Annex I, or~~**and:**
+  - (b) ~~requirements set out in Annex I are covered by harmonised standards~~ **the** **Commission has requested, pursuant to Article 10(1) of Regulation** **1025/2012**, **one or more** ~~or parts thereof, the references of which have been~~ ~~published in the Official Journal of the~~ European ~~Union, but application of~~ ~~those~~ **standardisation organisations to draft or to revise European** standards ~~or parts thereof result in non-compliance of appliances and fittings with the~~ **for** **those** requirements ~~set out in Annex I, or~~ **and:**
 
     - (1) **the request has not been accepted by any of the European** **standardisation organisations to which the request was addressed; or**
 
@@ -512,9 +512,9 @@ Common Specifications
 
       - (c) **do not satisfy the requirements they aim to cover.**
 
-  - (c) ~~where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
+  - ~~(c) where the Commission considers that there is a need to address an urgent~~ ~~concern with regard to non-compliant subsystems and safety components.~~
 
-Those implementing acts shall be adopted in accordance with the ~~advisory~~**examination** procedure ~~as provided for~~**referred to** in Article ~~42(2)~~**42(3)**.
+Those implementing acts shall be adopted in accordance with the ~~advisory~~ **examination** procedure ~~as provided for~~ **referred to** in Article ~~42(2)~~ **42(3)**.
 
 2. Appliances and fittings that are in conformity with common specifications or parts thereof shall be presumed to be in conformity with the essential requirements covered by those **common** specifications or parts thereof, set out in Annex I.;
 
@@ -544,11 +544,11 @@ Those implementing acts shall be adopted in accordance with the ~~advisory~~**ex
 
   - (b) the following paragraph 7 is added:
 
-‘7. Where other Union legislation applicable to an appliance or a fitting requires the economic operator to include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EU declaration of conformity or instructions in a digital product passport, the information required in Annex ~~II~~**V** to be included in the EU declaration of conformity**, or as appropriate, the EU declaration of** **conformity required in Article 15,** and the instructions **and safety** **information** referred to in Article 7(7) shall be provided only in that digital product passport. **This does not affect the obligation to provide the safety** **information in paper format according to Article 7(7)**;’
+‘7. Where other Union legislation applicable to an appliance or a fitting requires the economic operator to include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EU declaration of conformity or instructions in a digital product passport, the information required in Annex ~~II~~ **V** to be included in the EU declaration of conformity**, or as appropriate, the EU declaration of** **conformity required in Article 15,** and the instructions **and safety** **information** referred to in Article 7(7) shall be provided only in that digital product passport. **This does not affect the obligation to provide the safety** **information in paper format according to Article 7(7)**;’
 
 - (10) in Article 23(7), point (c) is replaced by the following:
 
-‘(c) appropriate knowledge and understanding of the essential requirements set out in Annex I, of the applicable harmonised standards ~~or~~**and** common specifications and of the relevant provisions of Union harmonisation legislation and of national legislation;;’
+‘(c) appropriate knowledge and understanding of the essential requirements set out in Annex I, of the applicable harmonised standards ~~or~~ **and** common specifications and of the relevant provisions of Union harmonisation legislation and of national legislation;;’
 
 - (11) in Article 31, paragraph 3 is replaced by the following:
 
@@ -567,7 +567,7 @@ Regulation (EU) 2023/1230 is amended as follows:
 
 - (1) in Article 3, the following point (22a) is inserted:
 
-‘(22a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~**contacted** or engaged without the need to register or to ~~download~~**use** an application.;’
+‘(22a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~ **contacted** or engaged without the need to register or to ~~download~~ **use** an application.;’
 
 - (2) Article 10 is amended as follows:
 
@@ -613,7 +613,7 @@ Regulation (EU) 2023/1230 is amended as follows:
 
   - (a) in paragraph 2, point (b) is replaced by the following:
 
-‘(b) the machinery or related product is accompanied by the internet address or machine-readable code through which the EU declaration of conformity referred to in Article 10(8) can be accessed;~~;’~~
+‘(b) the machinery or related product is accompanied by the internet address or machine-readable code through which the EU declaration of conformity referred to in Article 10(8) can be accessed; ~~;’~~
 
   - (b) in paragraph 6, the first sentence is replaced by the following:
 
@@ -644,7 +644,7 @@ Regulation (EU) 2023/1542 is amended as follows:
 
 - (1) in Article 3 the following point (23a) is inserted:
 
-‘(23a) ‘digital contact’ means any up-to-date and **such as email addresses** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~**contacted** or engaged without the need to register or to ~~download~~**use** an application.;’
+‘(23a) ‘digital contact’ means any up-to-date and **such as email addresses** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~ **contacted** or engaged without the need to register or to ~~download~~ **use** an application.;’
 
 - (2) Article 17 is amended as follows:
 
@@ -715,7 +715,7 @@ Regulation (EU) 2024/1781 is amended as follows:
 
 - (1) in Article 2, the following point (46a) is inserted:
 
-‘(46a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~**contacted** or engaged without the need to register or to ~~download~~**use** an application;;’
+‘(46a) ‘digital contact’ means any up-to-date and **freely** accessible online communication channel **such as email addresses** through which economic operators can be ~~reached~~ **contacted** or engaged without the need to register or to ~~download~~ **use** an application;;’
 
 - (2) in Article 24(2), the second sentence is replaced by the following:
 
@@ -866,7 +866,7 @@ ANNEX I GIP.B **LIMITE EN** ‘(b) the technical design specifications, includin
 
 - (6) in Annex VIII, point 2, point (c) is replaced by the following:
 
-‘(c) a list of the harmonised standards referred to in Article 17, applied in full or in part, the references of which have been published in the Official Journal of the European Union, ~~or~~**and** a list of common specifications **referred to in Article 17a**, applied in full or in part, and where those harmonised standards or common specifications, have not been applied descriptions of the solutions adopted to meet the essential requirements of this Regulation including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;;’
+‘(c) a list of the harmonised standards referred to in Article 17, applied in full or in part, the references of which have been published in the Official Journal of the European Union, ~~or~~ **and** a list of common specifications **referred to in Article 17a**, applied in full or in part, and where those harmonised standards or common specifications, have not been applied descriptions of the solutions adopted to meet the essential requirements of this Regulation including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;;’
 
 - (7) Annex IX is amended as follows:
 
@@ -899,7 +899,7 @@ Annexes II, III, V, VII, VIII, and IX to Regulation (EU) 2016/425 are amended as
 
 - (2) in Annex III, points (f) and (g) are replaced by the following:
 
-‘(f) the references of the harmonised standards referred to in Article 14 ~~or~~**and** the common specifications referred to in Article 14a that have been applied for the design and manufacture of the PPE. In the event of partial application of harmonised standards or common specifications, the documentation shall specify the parts which have been applied;
+‘(f) the references of the harmonised standards referred to in Article 14 ~~or~~ **and** the common specifications referred to in Article 14a that have been applied for the design and manufacture of the PPE. In the event of partial application of harmonised standards or common specifications, the documentation shall specify the parts which have been applied;
 
   - (g) where harmonised standards or common specifications have not been applied or have been only partially applied, descriptions of the other technical specifications that have been applied in order to satisfy the applicable essential health and safety requirements;;’
 
@@ -986,7 +986,7 @@ Annexes III and V to Regulation (EU) 2016/426 are amended as follows:
 
     - (ii) in point (c), point (4) is replaced by the following:
 
-‘(4) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union ~~or~~**and** a list of common specifications, applied in full or in part, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;;’
+‘(4) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union ~~or~~ **and** a list of common specifications, applied in full or in part, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;;’
 
     - (iii) in point (e), the second sentence is replaced by the following:
 
@@ -1034,7 +1034,7 @@ In the absence of such a harmonised standard or common specification, the notifi
 
 - (k) in point 6.2.1., point (d) is replaced by the following:
 
-ANNEX III GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, ~~or~~**and** a list of common specifications, applied in full or in part, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied.;’
+ANNEX III GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, ~~or~~ **and** a list of common specifications, applied in full or in part, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied.;’
 
 - (l) in point 6.4., the first subparagraph is replaced by the following:
 

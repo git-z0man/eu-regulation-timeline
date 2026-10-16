@@ -49,7 +49,7 @@ Whereas:
 […]
 
 <a id="rec-10"></a>
-(10) The unpredictability, complexity and, at times, excessive length of national permit-granting procedures undermine the cost-effectiveness of investments necessary for the development of industrial activities. Therefore, and in order to ensure and speed up the effective implementation of industrial manufacturing activities, Member States should apply streamlined and digitalised permit-granting processes. ~~A competent~~**An** authority should coordinate all permit granting processes and ~~issue a comprehensive decision~~**ensure** **that all relevant decisions are adopted** within the applicable time limit. **The permit-** **granting procedure in this Regulation refers to any administrative authorisations** **required for the completion of a project that are issued by Member States' competent** **authorities, such as any prerequisites needed to obtain the grid connection permit. As** **such, any non-administrative authorisation (i.e. grid connection permit) issued by the** **system operator’s are not covered.**
+(10) The unpredictability, complexity and, at times, excessive length of national permit-granting procedures undermine the cost-effectiveness of investments necessary for the development of industrial activities. Therefore, and in order to ensure and speed up the effective implementation of industrial manufacturing activities, Member States should apply streamlined and digitalised permit-granting processes. ~~A competent~~ **An** authority should coordinate all permit granting processes and ~~issue a comprehensive decision~~ **ensure** **that all relevant decisions are adopted** within the applicable time limit. **The permit-** **granting procedure in this Regulation refers to any administrative authorisations** **required for the completion of a project that are issued by Member States' competent** **authorities, such as any prerequisites needed to obtain the grid connection permit. As** **such, any non-administrative authorisation (i.e. grid connection permit) issued by the** **system operator’s are not covered.**
 
 **(10a) Digitalisation is a key tool to speed up procedures and to increase efficiency for all** **parties involved. It allows a faster handling of applications by the relevant authorities,** **and it allows project promoters to have quick access to clear information on process** **steps and requirements from the outset, therefore ensuring transparency and** **monitoring. However, digitalisation of permit-granting procedures is lagging behind, as** **it is often scattered among permit-granting procedures and steps across different** **competent authorities and in most Member States there is no unified digital process.** **Member States should set up a digital single portal that will serve as a single access point** **for all the steps of the permit-granting procedures for industrial manufacturing projects.** **It would contribute to more uniform digitalisation, accountability and transparency** **across different permitting authorities in Member States and ultimately speed up permit-** **granting procedures. It is also intended to simplify the process by allowing applicants to** **file their application in a single portal that can automatically route the applications to** **the competent authority. The portal should present features allowing authorities and** **applicants to check the status of the application and where delays are, as well as check** **compliance with applicable permitting deadlines. In addition, it should enable the** **interoperable and automated data exchange between authorities and re-use of data** **already held by public authorities, in line with the once-only principle.**
 
@@ -62,7 +62,7 @@ Whereas:
 […]
 
 <a id="rec-14"></a>
-(14) Regulation (EU) 2024/1735 sets out provisions that streamline administrative and permit-granting processes for net-zero technology manufacturing projects. Some specific components in the supply chain of net-zero technologies are produced through energy-intensive production processes. Energy-intensive industry decarbonisation projects fall within the scope of Regulation (EU) 2024/1735 **only** where the relevant facilities produce components that are part of the supply chain of a net-zero technology. ~~However~~**Furthermore**, **the definition of** energy-intensive ~~facilities that do not produce~~ ~~components that are used in net-zero technologies are currently excluded from the~~ ~~scope of~~**industry decarbonisation projects, as laid down in** Regulation (EU) 2024/1735 **is** **not comprehensive**. This creates ~~the~~**a** risk of uneven conditions ~~of~~ between energy-intensive industries and slows down decarbonisation efforts. All energy-intensive **industry** decarbonisation projects should therefore be subject to the same permit-granting processes.
+(14) Regulation (EU) 2024/1735 sets out provisions that streamline administrative and permit-granting processes for net-zero technology manufacturing projects. Some specific components in the supply chain of net-zero technologies are produced through energy-intensive production processes. Energy-intensive industry decarbonisation projects fall within the scope of Regulation (EU) 2024/1735 **only** where the relevant facilities produce components that are part of the supply chain of a net-zero technology. ~~However~~ **Furthermore**, **the definition of** energy-intensive ~~facilities that do not produce~~ ~~components that are used in net-zero technologies are currently excluded from the~~ ~~scope of~~ **industry decarbonisation projects, as laid down in** Regulation (EU) 2024/1735 **is** **not comprehensive**. This creates ~~the~~ **a** risk of uneven conditions ~~of~~ between energy-intensive industries and slows down decarbonisation efforts. All energy-intensive **industry** decarbonisation projects should therefore be subject to the same permit-granting processes.
 
 […]
 
@@ -75,7 +75,7 @@ Whereas:
 (57) Where industrial manufacturing acceleration areas are set up, their designation should correspond to the potential to access or organise education and training opportunities to ensure the availability of skilled labour**, which is essential for developing manufacturing** **activity in line with the objectives of this Regulation**. **Member States should therefore,** **where appropriate, exchange information on the skills needed in those areas, on** **potential shortages of such skills and on best practices applied therein, within the** **framework of the Industrial Forum expert group established pursuant to the** **Commission Communication on a New Industrial Strategy for Europe ^(4). Furthermore,** **Member States should also ensure synergies with, and promote the benefits provided** **under, the Pact for Skills established pursuant to the Commission Communication on a** **European Skills Agenda ^(5) for sustainable competitiveness, social fairness and resilience** **for entities established in the acceleration areas, paying particular attention to the** **Large-Scale Skills Partnerships and Regional Skills Partnerships set up thereunder..**
 
 <a id="rec-58"></a>
-(58) To promote the development of industrial manufacturing acceleration areas and to expedite the permit-granting procedures necessary for industrial activities within those areas, Member States should establish **and issue** an aggregated baseline permit reflecting the specific characteristics of each identified industrial acceleration area and tailored to the industrial manufacturing sector or sectors to be deployed therein. That aggregated baseline permit issued by public authorities should cover the permits commonly required for ~~such~~ activities within the area **as well as cross-sectoral permits that a project developer must** **obtain irrespective of the specific sector. These may include, without being limited to,** **authorisations relating to building and construction, zoning and land-use planning and** **pre-conditions for business establishment such as depollution requirements. As the** **baseline permit will necessarily follow Member States' respective permit-granting** **procedures, its scope and content may vary from one Member State to another. The** **aggregated baseline permit cannot include**~~, excluding those~~ permits that are installation specific, such as those required under Directive 2010/75/EU of the European Parliament and of the Council ^(6) and the grid connection permit. Consequently, project promoters should be required to obtain additional permits only for activities not covered by the aggregated baseline permit as well as environmental assessments where required. In case of activities potentially affecting Union and nationally protected sites, relevant permits should be granted only after having ensured that the activities are compatible with the conservation objectives of these sites. Such approach should significantly accelerate permit-granting procedures and reduce the administrative burden associated with them whilst maintaining high level of environmental standards.
+(58) To promote the development of industrial manufacturing acceleration areas and to expedite the permit-granting procedures necessary for industrial activities within those areas, Member States should establish **and issue** an aggregated baseline permit reflecting the specific characteristics of each identified industrial acceleration area and tailored to the industrial manufacturing sector or sectors to be deployed therein. That aggregated baseline permit issued by public authorities should cover the permits commonly required for ~~such~~ activities within the area **as well as cross-sectoral permits that a project developer must** **obtain irrespective of the specific sector. These may include, without being limited to,** **authorisations relating to building and construction, zoning and land-use planning and** **pre-conditions for business establishment such as depollution requirements. As the** **baseline permit will necessarily follow Member States' respective permit-granting** **procedures, its scope and content may vary from one Member State to another. The** **aggregated baseline permit cannot include** ~~, excluding those~~ permits that are installation specific, such as those required under Directive 2010/75/EU of the European Parliament and of the Council ^(6) and the grid connection permit. Consequently, project promoters should be required to obtain additional permits only for activities not covered by the aggregated baseline permit as well as environmental assessments where required. In case of activities potentially affecting Union and nationally protected sites, relevant permits should be granted only after having ensured that the activities are compatible with the conservation objectives of these sites. Such approach should significantly accelerate permit-granting procedures and reduce the administrative burden associated with them whilst maintaining high level of environmental standards.
 
 […]
 
@@ -91,22 +91,22 @@ Whereas:
 <a id="art-1"></a>
 ### Article 1 – Subject matter and scope
 
-1. This Regulation aims ~~at improving~~**to improve** the functioning of the internal market **and** **ensure a level playing field** by establishing a **harmonised** framework to support the development, competitiveness and resilience of the Union's manufacturing sector, with a focus on selected strategic sectors, while contributing to the Union’s climate objective, economic security**, the attractiveness of investment conditions in the Union** and the creation, retention of, and transition into high-quality jobs**, while avoiding unnecessary** **administrative burden**.
+1. This Regulation aims ~~at improving~~ **to improve** the functioning of the internal market **and** **ensure a level playing field** by establishing a **harmonised** framework to support the development, competitiveness and resilience of the Union's manufacturing sector, with a focus on selected strategic sectors, while contributing to the Union’s climate objective, economic security**, the attractiveness of investment conditions in the Union** and the creation, retention of, and transition into high-quality jobs**, while avoiding unnecessary** **administrative burden**.
 
 2. To achieve the general objective referred to in paragraph 1, this Regulation lays down measures aiming to
 
 - (a) speed-up permit-granting procedures for industrial manufacturing projects, including energy-intensive industry decarbonisation projects;
 
-- (b) create lead ~~market~~**markets** for certain products in strategic sectors, by laying down Union origin requirements, low-carbon requirements, or both, in the context of public procurement, **auctions and** public support schemes;
+- (b) create lead ~~market~~ **markets** for certain products in strategic sectors, by laying down Union origin requirements, low-carbon requirements, or both, in the context of public procurement, **auctions and** public support schemes;
 
-- (c) ~~set~~**establish a Union framework setting** conditions ~~on~~**for the development of** foreign direct investments in emerging strategic sectors;
+- (c) ~~set~~ **establish a Union framework setting** conditions ~~on~~ **for the development of** foreign direct investments in emerging strategic sectors;
 
-- (d) ~~designate~~**set common conditions for the development of** industrial manufacturing acceleration areas by Member States ~~for the purposes of boosting industrial~~ ~~activities~~.
+- (d) ~~designate~~ **set common conditions for the development of** industrial manufacturing acceleration areas by Member States ~~for the purposes of boosting industrial~~ ~~activities~~.
 
 **This Regulation contributes to the shared objective of the Union and Member States of** **increasing the manufacturing sector’s share of the Union’s GDP by 2035.**
 
 <a id="art-2"></a>
-### Article 2 – Industrialisation objective
+### Article 2 – ~~Industrialisation objective~~
 
 ~~The Union and Member States shall seek to ensure that by 2035 the manufacturing industry of the~~ ~~Union accounts for at least 20% of the Union’s gross domestic product.~~
 
@@ -119,7 +119,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (2) ‘energy- intensive industries’ means the industries listed in point 1 of Annex I;
 
-- (3) ~~‘energy~~‘energy-intensive industry decarbonisation projects’ means the construction or conversion of the commercial facility of an energy-intensive business as defined in Article 17(1), point (a), of Council Directive 2003/96/EC ^(7) in the energy- intensive industries listed in point 1 of Annex I to this Regulation that reduce emission rates of CO2 -eq of industrial processes significantly and permanently to an extent which is technically feasible;
+- (3) ~~‘energy~~ ‘energy-intensive industry decarbonisation projects’ means the construction or conversion of the commercial facility of an energy-intensive business as defined in Article 17(1), point (a), of Council Directive 2003/96/EC ^(7) in the energy- intensive industries listed in point 1 of Annex I to this Regulation that reduce emission rates of CO2 -eq of industrial processes significantly and permanently to an extent which is technically feasible;
 
 - (4) ‘permit-granting procedure’ means a process **at the appropriate administrative level** **within each Member State** that covers all relevant permits to build, expand, convert and operate industrial manufacturing projects, including building, chemical and grid connection permits as defined in Article 1 of [the Proposal for a Directive amending Directives (EU) 2018/2001, (EU) 2019/944, (EU) 2024/1788 as regards acceleration of permit-granting procedures ^(8) ], and environmental assessments and authorisations where required, and encompassing all applications and procedures from the acknowledgement that the application is complete to the notification of the ~~comprehensive decision on the~~ outcome of the procedure;
 
@@ -131,11 +131,11 @@ For the purposes of this Regulation, the following definitions apply:
 ## Chapter II – ENABLING CONDITIONS FOR INDUSTRIAL PRODUCTION AND DECARBONISATION
 
 <a id="art-4"></a>
-### Article 4 – Digital single access pointspoint
+### Article 4 – Digital single access ~~points~~ point
 
-1. Member States shall set up **or make available through existing structures a digital**~~a~~ single access point ~~at national level~~ for the submission by project promoters of the single application **within the permit-granting procedure** for industrial manufacturing projects referred to in Article 5(1).
+1. Member States shall set up **or make available through existing structures a digital** ~~a~~ single access point ~~at national level~~ for the submission by project promoters of the single application **within the permit-granting procedure** for industrial manufacturing projects referred to in Article 5(1).
 
-2. The **digital** single access ~~points~~**point** shall ~~automatically attribute~~**route** the permit applications to the relevant authority, inform the applicant about all steps of the permit-granting procedure, the status of the procedure and of the decisions of the relevant authorities, and enable the applicant to check compliance with applicable deadlines. To that effect the **digital** single access ~~points~~**point** shall use **the core functionalities of** the European Business Wallets established pursuant to [Proposal for a Regulation on the establishment of European Business Wallets]~~.~~**, and enable:**
+2. The **digital** single access ~~points~~ **point** shall ~~automatically attribute~~ **route** the permit applications to the relevant authority, inform the applicant about all steps of the permit-granting procedure, the status of the procedure and of the decisions of the relevant authorities, and enable the applicant to check compliance with applicable deadlines. To that effect the **digital** single access ~~points~~ **point** shall use **the core functionalities of** the European Business Wallets established pursuant to [Proposal for a Regulation on the establishment of European Business Wallets] ~~.~~ **, and enable:**
 
 ~~Through the use of European Business Wallets, the single access points shall enable:~~
 
@@ -147,23 +147,23 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (d) transparency and accountability of the permit-granting procedure.
 
-3. When ~~setting up the~~**providing the digital** single access ~~points~~**point**, Member States shall, where appropriate, make use of existing Union digital infrastructure, catalogues and building blocks established by Union law.
+3. When ~~setting up the~~ **providing the digital** single access ~~points~~ **point**, Member States shall, where appropriate, make use of existing Union digital infrastructure, catalogues and building blocks established by Union law.
 
 **Permit-granting procedure**
 
 1. Member States shall establish a single permit-granting procedure based on a single application covering all permits required for industrial manufacturing projects. **The use of** **that single permit-granting procedure shall be at the discretion of the project promoter.**
 
-2. Member States shall designate a ~~competent~~**coordinating** authority to ~~coordinate~~**facilitate** **timely decision-making in the context of** the permit-granting procedure ~~referred to in~~ ~~paragraph 1 in order to ensure the adoption and issue of a comprehensive decision within~~ ~~the applicable time limit~~**by Member States' competent authorities in accordance with** **Union and national law**.
+2. Member States shall designate a ~~competent~~ **coordinating** authority to ~~coordinate~~ **facilitate** **timely decision-making in the context of** the permit-granting procedure ~~referred to in~~ ~~paragraph 1 in order to ensure the adoption and issue of a comprehensive decision within~~ ~~the applicable time limit~~ **by Member States' competent authorities in accordance with** **Union and national law**.
 
-3. No later than 45 days from the receipt of the application for a permit for industrial manufacturing projects, the ~~competent~~**coordinating** authority **referred to in paragraph 2** shall either acknowledge that the application is complete or request any missing information needed to process the application **via the digital single access point**.
+3. No later than 45 days from the receipt of the application for a permit for industrial manufacturing projects, the ~~competent~~ **coordinating** authority **referred to in paragraph 2** shall either acknowledge that the application is complete or request any missing information needed to process the application **via the digital single access point**.
 
-Where, after the submission of any missing information, the application is still deemed to be incomplete, the ~~competent~~**coordinating** authority **referred to in paragraph 2** may, within 30 days of the submission of the requested missing information, make a second request for any information still missing. The ~~competent~~**coordinating** authority **referred to in paragraph 2** shall not request information in areas not covered in the first request for additional information and shall request further information only as necessary to cover the missing information.
+Where, after the submission of any missing information, the application is still deemed to be incomplete, the ~~competent~~ **coordinating** authority **referred to in paragraph 2** may, within 30 days of the submission of the requested missing information, make a second request for any information still missing. The ~~competent~~ **coordinating** authority **referred to in paragraph 2** shall not request information in areas not covered in the first request for additional information and shall request further information only as necessary to cover the missing information.
 
 4. The provisions of this Article shall not apply where rules to streamline the administrative and permit-granting processes are established in other Union legislative acts for specific industrial manufacturing sectors.
 
 **Permit-granting procedure for energy-intensive industry decarbonisation projects**
 
-1. **Member States shall apply the streamlined administrative and permit-granting processes** **set out in** Chapter II, Section II, of Regulation (EU) 2024/1735 ~~shall apply to all~~**to** energy-intensive industry decarbonisation projects **as defined in Article 3, point (3) of this** **Regulation**.
+1. **Member States shall apply the streamlined administrative and permit-granting processes** **set out in** Chapter II, Section II, of Regulation (EU) 2024/1735 ~~shall apply to all~~ **to** energy-intensive industry decarbonisation projects **as defined in Article 3, point (3) of this** **Regulation**.
 
 2. ~~All~~ Energy-intensive industry decarbonisation projects **as defined in Article 3, point (3) of** **this Regulation** shall be considered strategic projects contributing to resilience and decarbonisation or resource efficiency for the purposes of [Article 14 of Proposal for a Regulation on speeding-up environmental assessment]. **[**Points 1, 2 and 3 of the Annex**]** in that Regulation shall apply.
 
@@ -173,55 +173,55 @@ Where, after the submission of any missing information, the application is still
 ## Chapter V – INDUSTRIAL MANUFACTURING ACCELERATION AREAS
 
 <a id="art-25"></a>
-### Article 25 – Designating nationalDesignation of industrial manufacturing acceleration areas
+### Article 25 – ~~Designating national~~ Designation of industrial manufacturing acceleration areas
 
-1. Member States shall designate at least one industrial manufacturing acceleration area on their territory by [OP please insert date: ~~12~~**24** months following the entry into force of this Regulation] to cluster industrial manufacturing projects ~~in one or several~~**with the objective** **to enhance the functioning** of the **single market, increase production capacity and** **security of supply of** strategic sectors listed in Annex I**, in alignment with strategic** **projects and other initiatives, including net zero Acceleration Valleys**. **Member States** **may cooperate to designate cross-border industrial manufacturing acceleration areas.**
+1. Member States shall designate at least one industrial manufacturing acceleration area on their territory by [OP please insert date: ~~12~~ **24** months following the entry into force of this Regulation] to cluster industrial manufacturing projects ~~in one or several~~ **with the objective** **to enhance the functioning** of the **single market, increase production capacity and** **security of supply of** strategic sectors listed in Annex I**, in alignment with strategic** **projects and other initiatives, including net zero Acceleration Valleys**. **Member States** **may cooperate to designate cross-border industrial manufacturing acceleration areas.**
 
-~~3~~**1a**. When designating industrial manufacturing acceleration areas, Member States shall:
+~~3~~ **1a**. When designating industrial manufacturing acceleration areas, Member States shall:
 
 - (a) define a clear geographic scope for the acceleration area **taking account of the** **Member States' regions' levels of development, including least developed areas,** **regions in transition, and those undergoing industrial transformation**;
 
-~~(a)~~**(b) consider** the infrastructural **and supply chain** needs of the acceleration area**, with** **particular attention to the feasibility of connecting the industrial manufacturing** **acceleration area with sufficient low carbon energy supply for the industrial** **manufacturing activities foreseen**;
+- (b) ~~(a)~~ **consider** the infrastructural **and supply chain** needs of the acceleration area**, with** **particular attention to the feasibility of connecting the industrial manufacturing** **acceleration area with sufficient low carbon energy supply for the industrial** **manufacturing activities foreseen**;
 
-~~(b)~~**(c)** prioritise locations where the deployment of a specific sector or sectors of industrial manufacturing projects is not expected to have a significant environmental **and** **climate** impact;
+- (c) ~~(b)~~ prioritise locations where the deployment of a specific sector or sectors of industrial manufacturing projects is not expected to have a significant environmental **and** **climate** impact;
 
-- (c) ~~prioritise locations outside Natura 2000 sites and outside areas designated under~~ ~~national protection schemes for nature and biodiversity conservation, as well as other~~ ~~areas identified on the basis of sensitivity maps and outside protected areas as~~ ~~referred to in Article 6 of Directive 2000/60/EC;~~
+- ~~(c) prioritise locations outside Natura 2000 sites and outside areas designated under~~ ~~national protection schemes for nature and biodiversity conservation, as well as other~~ ~~areas identified on the basis of sensitivity maps and outside protected areas as~~ ~~referred to in Article 6 of Directive 2000/60/EC;~~
 
-- (d) ~~take into account climate risks in the areas designated;~~**[moved to point (c)]**
+- ~~(d) take into account climate risks in the areas designated;~~ **[moved to point (c)]**
 
-~~(e)~~**(d)** prioritise artificial and built surfaces, industrial sites~~,~~ and brownfield sites, as well as already identified strategic projects pursuant to other Union legislation **with a** **particular focus on projects that would have cross-border benefits beyond the** **Member State concerned**.
+- (d) ~~(e)~~ prioritise artificial and built surfaces, industrial sites ~~,~~ and brownfield sites, as well as already identified strategic projects pursuant to other Union legislation **with a** **particular focus on projects that would have cross-border benefits beyond the** **Member State concerned**.
 
 2. ~~Member States shall designate industrial manufacturing acceleration areas by decision, on~~ ~~the basis of the following elements:~~
 
 - (a) ~~the impact of the industrial manufacturing acceleration area's production on the~~ ~~security of the Union's supply for the strategic sectors listed in Annex I;~~
 
-- (b) ~~the potential of the industrial manufacturing acceleration area to support the~~ ~~deployment of production capacity in the strategic sectors listed in Annex I, to~~ ~~strengthen Union value chains and the Union’s innovation potential to accelerate~~ ~~sustainable manufacturing industrial activities, including decarbonisation and~~ ~~circular business practices, and to foster the functioning of the internal market, in~~ ~~alignment with strategic projects and other initiatives, including as Net Zero~~ ~~Acceleration Valleys, carried out pursuant to other Union legislation;~~**[partly moved** **to Art. 25(1)]**
+- (b) ~~the potential of the industrial manufacturing acceleration area to support the~~ ~~deployment of production capacity in the strategic sectors listed in Annex I, to~~ ~~strengthen Union value chains and the Union’s innovation potential to accelerate~~ ~~sustainable manufacturing industrial activities, including decarbonisation and~~ ~~circular business practices, and to foster the functioning of the internal market, in~~ ~~alignment with strategic projects and other initiatives, including as Net Zero~~ ~~Acceleration Valleys, carried out pursuant to other Union legislation;~~ **[partly moved** **to Art. 25(1)]**
 
 - (c) ~~the number of SMEs and SMCs that would benefit from the provisions of this~~ ~~Chapter within the industrial acceleration area;~~
 
-- (d) ~~the Member State’s regions’ level of development, including least developed areas,~~ ~~regions in transition, and those undergoing industrial transformation.~~**[moved to** **Article 25(1a)(a)]**
+- (d) ~~the Member State’s regions’ level of development, including least developed areas,~~ ~~regions in transition, and those undergoing industrial transformation.~~ **[moved to** **Article 25(1a)(a)]**
 
-3. ~~When designating industrial manufacturing acceleration areas, Member States~~ ~~shall:~~**[moved to Article 25(1a)]**
+3. ~~When designating industrial manufacturing acceleration areas, Member States~~ ~~shall:~~ **[moved to Article 25(1a)]**
 
-- (a) ~~define a clear geographic scope for the acceleration area;~~**[moved to Article 25(1a)(a)]**
+- (a) ~~define a clear geographic scope for the acceleration area;~~ **[moved to Article 25(1a)(a)]**
 
-- (b) ~~prioritise locations where the deployment of a specific sector or sectors of industrial~~ ~~manufacturing projects is not expected to have a significant environmental~~ ~~impact;~~**[moved to Article 25(1a)(d)]**
+- (b) ~~prioritise locations where the deployment of a specific sector or sectors of industrial~~ ~~manufacturing projects is not expected to have a significant environmental~~ ~~impact;~~ **[moved to Article 25(1a)(d)]**
 
 - (c) ~~prioritise locations outside Natura 2000 sites and outside areas designated under~~ ~~national protection schemes for nature and biodiversity conservation, as well as other~~ ~~areas identified on the basis of sensitivity maps and outside protected areas as~~ ~~referred to in Article 6 of Directive 2000/60/EC;~~
 
-- (d) ~~take into account climate risks in the areas designated;~~**[partially moved to Article** **25(1a)(c)]**
+- (d) ~~take into account climate risks in the areas designated;~~ **[partially moved to Article** **25(1a)(c)]**
 
-- (e) ~~prioritise artificial and built surfaces, industrial sites, and brownfield sites, as well as~~ ~~already identified strategic projects pursuant to other Union legislation.~~**[moved to** **Article 25(1a)(d)]**
+- (e) ~~prioritise artificial and built surfaces, industrial sites, and brownfield sites, as well as~~ ~~already identified strategic projects pursuant to other Union legislation.~~ **[moved to** **Article 25(1a)(d)]**
 
 4. ~~When designating industrial manufacturing acceleration areas, Member States shall take~~ ~~into account, as relevant, the following considerations:~~
 
-- (a) ~~the infrastructural needs of the acceleration area;~~**[moved to Article 25(1a)(b)]**
+- (a) ~~the infrastructural needs of the acceleration area;~~ **[moved to Article 25(1a)(b)]**
 
 - (b) ~~the financing needs of manufacturing industry located in the acceleration area and~~ ~~the possibility to support that industry, where applicable, in accordance with~~ ~~applicable State aid rules;~~
 
-- (c) ~~the supply chain needs within the acceleration area and the essential materials,~~ ~~particularly secondary materials, necessary for manufacturing activities;~~**[moved to** **Article 25(1a)(b)]**
+- (c) ~~the supply chain needs within the acceleration area and the essential materials,~~ ~~particularly secondary materials, necessary for manufacturing activities;~~ **[moved to** **Article 25(1a)(b)]**
 
-- (d) ~~the feasibility of connecting the acceleration area with sufficient low-carbon energy~~ ~~supply for the acceleration of industrial manufacturing activity;~~**[moved to Article** **25(1a)(b)]**
+- (d) ~~the feasibility of connecting the acceleration area with sufficient low-carbon energy~~ ~~supply for the acceleration of industrial manufacturing activity;~~ **[moved to Article** **25(1a)(b)]**
 
 - (e) ~~skill needs, the shortages and employment trends and support measures to achieve~~ ~~the adequate reskilling and upskilling of the local workforce;~~
 
@@ -231,20 +231,20 @@ Where, after the submission of any missing information, the application is still
 
 - (h) ~~relevant location-specific information made publicly available by industry, including~~ ~~corporate climate transition plans, related targets and actions, investment needs, and~~ ~~required enabling policy frameworks.~~
 
-5. Before their adoption, the plans or programmes on the designation of the industrial manufacturing acceleration areas shall be subject to ~~an~~ environmental assessment ~~pursuant~~ ~~to Directive 2001/42/EC of the European Parliament and of the Council ^(9), and, if they are~~ ~~likely to have a significant impact on Natura 2000 sites, to the appropriate assessment~~ ~~pursuant to Article 6(3) of Council Directive 92/43/EEC ^(10) and, where~~**in accordance with** **the** applicable~~, to the relevant assessment to comply with Article 4(7) of Directive~~ ~~2000/60/EC of the European Parliament and of the Council ^(11)~~ **Union legislation**.
+5. Before their adoption, the plans or programmes on the designation of the industrial manufacturing acceleration areas shall be subject to ~~an~~ environmental assessment ~~pursuant~~ ~~to Directive 2001/42/EC of the European Parliament and of the Council ^(9), and, if they are~~ ~~likely to have a significant impact on Natura 2000 sites, to the appropriate assessment~~ ~~pursuant to Article 6(3) of Council Directive 92/43/EEC ^(10) and, where~~ **in accordance with** **the** applicable ~~, to the relevant assessment to comply with Article 4(7) of Directive~~ ~~2000/60/EC of the European Parliament and of the Council ^(11)~~ **Union legislation**.
 
 6. Member States shall inform the Commission of the designation of an industrial manufacturing acceleration area, within 30 days from the adoption of the relevant decision.
 
 <a id="art-26"></a>
 ### Article 26 – Enabling conditions
 
-**Where appropriate for the long-term development and effective operation of industrial activities** **within the industrial manufacturing acceleration areas,** Member States shall take the following measures~~, where appropriate, to facilitate the development of industrial manufacturing acceleration~~ ~~areas~~:
+**Where appropriate for the long-term development and effective operation of industrial activities** **within the industrial manufacturing acceleration areas,** Member States shall take the following measures ~~, where appropriate, to facilitate the development of industrial manufacturing acceleration~~ ~~areas~~:
 
 - (a) facilitate **access to** financing of projects in the acceleration areas by ensuring coordination between authorities and streamlining internal procedures, in synergy with Union programmes and in accordance with existing State aid rules where applicable, taking into account the participation of SMEs and SMCs;
 
 - (b) promote research and innovation investments**, including investments in technology testing** **and demonstration facilities,** to accelerate the innovative potential and Union’s competitiveness and technology leadership in the acceleration areas;
 
-- (c) conduct~~, and review at least every three years,~~ a comprehensive analysis of the **immediate** **and long-term** energy needs of each acceleration area and ~~identifying~~ the required energy infrastructure capacity for the proper functioning and development of industrial manufacturing projects ~~located~~ in the acceleration area**, in line with Union's** **decarbonisation pathway, and review the analysis, when appropriate**.
+- (c) conduct ~~, and review at least every three years,~~ a comprehensive analysis of the **immediate** **and long-term** energy needs of each acceleration area and ~~identifying~~ the required energy infrastructure capacity for the proper functioning and development of industrial manufacturing projects ~~located~~ in the acceleration area**, in line with Union's** **decarbonisation pathway, and review the analysis, when appropriate**.
 
 ~~Such analysis shall be conducted, at least, when designating the industrial acceleration area~~ ~~and for the milestones of years 2030, 2040 and 2050, ensuring alignment with the Union’s~~ ~~decarbonisation pathway;~~
 
@@ -279,15 +279,15 @@ Where, after the submission of any missing information, the application is still
 
 By [OP: Please insert the date = two years after the date of entry into force of this Regulation], and every three years thereafter, the Commission shall carry out an evaluation of this Regulation ~~and of~~ ~~its contribution to the functioning of the internal market~~. The evaluation shall consider:
 
-- (a) ~~progress made in achieving~~**whether** the objectives **of this Regulation** specified in Article 1 **have been achieved, in particular its contribution to the functioning of the internal** **market, and to supporting the**~~, particularly on~~ resilience~~, economic security~~ and decarbonisation of ~~industrial production~~**the Union's manufacturing sector and the** **Union's economic security**;
+- (a) ~~progress made in achieving~~ **whether** the objectives **of this Regulation** specified in Article 1 **have been achieved, in particular its contribution to the functioning of the internal** **market, and to supporting the** ~~, particularly on~~ resilience ~~, economic security~~ and decarbonisation of ~~industrial production~~ **the Union's manufacturing sector and the** **Union's economic security**;
 
-- (b) progress made in achieving the ~~industrialisation~~ objective ~~pursuant to~~**referred to in** Article ~~2, taking into account the challenges and opportunities in the internal market and global~~ ~~markets~~**1(2), second subparagraph**;
+- (b) progress made in achieving the ~~industrialisation~~ objective ~~pursuant to~~ **referred to in** Article ~~2, taking into account the challenges and opportunities in the internal market and global~~ ~~markets~~ **1(2), second subparagraph**;
 
-- (c) the related administrative costs **for public and private sectors**, economic impacts on downstream sectors, ~~small and medium enterprises and~~**SMEs, SMCs and consumers, as** **well as** impacts on public budgets.
+- (c) the related administrative costs **for public and private sectors**, economic impacts on downstream sectors, ~~small and medium enterprises and~~ **SMEs, SMCs and consumers, as** **well as** impacts on public budgets.
 
 **Review**
 
-By [OP: Please insert the date three years after the date of entry into force this Regulation], the Commission shall assess the necessity of amending **this Regulation, in particular** Chapters III and IV~~. The Commission may submit a legislative proposal in order to repeal or amend this Regulation~~ **thereof**. That review shall be carried out periodically every three years after the first review.
+By [OP: Please insert the date three years after the date of entry into force this Regulation], the Commission shall assess the necessity of amending **this Regulation, in particular** Chapters III and IV ~~. The Commission may submit a legislative proposal in order to repeal or amend this Regulation~~ **thereof**. That review shall be carried out periodically every three years after the first review.
 
 **[**When carrying out its review, the Commission shall pay particular attention to the effectiveness of this Regulation and the persistence of the circumstances that have justified the adoption of this Regulation and to the necessity to introduce Union origin requirements for products from certain sectors critical to the Union’s economic security, notably the building of ships and of rail rolling stock.**]**
 
@@ -318,20 +318,20 @@ Member States shall lay down rules on penalties applicable to infringements of t
 <a id="art-33"></a>
 ### Article 33 – Amendments to Regulation (EU) 2018/1724
 
-Annexes I and II to Regulation (EU) 2018/1724 are amended in accordance with Annex ~~V~~**IV** to this Regulation.
+Annexes I and II to Regulation (EU) 2018/1724 are amended in accordance with Annex ~~V~~ **IV** to this Regulation.
 
 **Amendments to Regulation (EU) 2024/3110**
 
 In Article 22(9) of Regulation (EU) 2024/3110, the first subparagraph is replaced by the following:
 
-‘In order to ensure transparency for users and to promote sustainable products, the Commission is empowered to adopt delegated acts in accordance with Article 89 to supplement this Regulation, by establishing specific environmental sustainability labelling requirements for particular product families and product categories.~~.’~~
+‘In order to ensure transparency for users and to promote sustainable products, the Commission is empowered to adopt delegated acts in accordance with Article 89 to supplement this Regulation, by establishing specific environmental sustainability labelling requirements for particular product families and product categories. ~~.’~~
 
 <a id="art-36"></a>
 ### Article 36 – Entry into force and application
 
 This Regulation shall enter into force **and apply** on the day following that of its publication in the Official Journal of the European Union.
 
-Articles 4 and 5 shall apply from [OP: Please insert the date = [~~one~~**x**] year after the date of entry into force of this Regulation].
+Articles 4 and 5 shall apply from [OP: Please insert the date = [ ~~one~~ **x**] year after the date of entry into force of this Regulation].
 
 This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
 
@@ -340,7 +340,7 @@ Done at Brussels,
 For the European Parliament For the Council The President The President
 
 <a id="annex-i"></a>
-## Annex I – Strategic sectors for industrial manufacturing acceleration areas
+## Annex I – Strategic sectors for industrial manufacturing acceleration ~~areas~~
 
 1. Energy-intensive industries:
 

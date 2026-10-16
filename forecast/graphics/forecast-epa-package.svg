@@ -39,10 +39,10 @@
 
 <text x="238" y="96.0" text-anchor="end" font-weight="600" class="ink lnk"><title>New Standardisation Regulation</title>New Standardisation Regulation</text>
 <text x="238" y="112.0" text-anchor="end" font-size="11" class="mu">proposal since 6 Oct 2026</text>
-<rect x="407.3" y="96.0" width="424.4" height="6" class="b80" data-tip="New Standardisation Regulation: median Sep 2028; half of the runs Apr 2028 to Oct 2029; eight in ten Nov 2027 to Nov 2030"/>
-<rect x="467.0" y="90.0" width="203.2" height="18" class="b50" data-tip="New Standardisation Regulation: median Sep 2028; half of the runs Apr 2028 to Oct 2029; eight in ten Nov 2027 to Nov 2030"/>
-<circle cx="525.9" cy="99.0" r="7" class="med" stroke-width="3" data-tip="New Standardisation Regulation: median Sep 2028; half of the runs Apr 2028 to Oct 2029; eight in ten Nov 2027 to Nov 2030"/>
-<text x="525.9" y="122.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Sep 2028</text>
+<rect x="408.4" y="96.0" width="409.9" height="6" class="b80" data-tip="New Standardisation Regulation: median Sep 2028; half of the runs Apr 2028 to Oct 2029; eight in ten Nov 2027 to Oct 2030"/>
+<rect x="467.4" y="90.0" width="207.0" height="18" class="b50" data-tip="New Standardisation Regulation: median Sep 2028; half of the runs Apr 2028 to Oct 2029; eight in ten Nov 2027 to Oct 2030"/>
+<circle cx="526.3" cy="99.0" r="7" class="med" stroke-width="3" data-tip="New Standardisation Regulation: median Sep 2028; half of the runs Apr 2028 to Oct 2029; eight in ten Nov 2027 to Oct 2030"/>
+<text x="526.3" y="122.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Sep 2028</text>
 <text x="238" y="170.0" text-anchor="end" font-weight="600" class="ink lnk">European Product Act</text>
 <text x="238" y="186.0" text-anchor="end" font-size="11" class="mu">proposal assumed Dec 2026</text>
 <rect x="383.6" y="170.0" width="427.8" height="6" class="b80" data-tip="European Product Act: median Aug 2028; half of the runs Jan 2028 to Oct 2029; eight in ten Sep 2027 to Oct 2030"/>
@@ -57,8 +57,8 @@
 <text x="510.2" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Aug 2028</text>
 <text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">All published</text>
 <text x="238" y="334.0" text-anchor="end" font-size="11" class="mu">the whole package in the Official Journal</text>
-<rect x="507.6" y="318.0" width="476.4" height="6" class="b80" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Dec 2030; eight in ten Aug 2028 to Dec 2033"/>
-<rect x="565.7" y="312.0" width="271.3" height="18" class="b50" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Dec 2030; eight in ten Aug 2028 to Dec 2033"/>
-<circle cx="693.9" cy="321.0" r="7" class="med" stroke-width="3" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Dec 2030; eight in ten Aug 2028 to Dec 2033"/>
+<rect x="509.8" y="318.0" width="474.2" height="6" class="b80" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Nov 2030; eight in ten Aug 2028 to Oct 2032"/>
+<rect x="565.7" y="312.0" width="266.0" height="18" class="b50" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Nov 2030; eight in ten Aug 2028 to Oct 2032"/>
+<circle cx="693.9" cy="321.0" r="7" class="med" stroke-width="3" data-tip="All published: median Dec 2029; half of the runs Jan 2029 to Nov 2030; eight in ten Aug 2028 to Oct 2032"/>
 <text x="693.9" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Dec 2029</text>
 </g><text x="20" y="530" font-size="12" class="mu">Source: EP Legislative Observatory, COD files with trilogues since 2012 (the 40 % nearest in size where the proposal&#x27;s size is known); 4,000 runs per act.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text></svg>

@@ -9,7 +9,7 @@ retrieved: '2026-10-09'
 converter: tools/pdf2md.py
 counts:
   recitals: 78
-  articles: 50
+  articles: 53
   annexes: 4
 official_source: https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
@@ -76,14 +76,14 @@ Whereas:
 (9) **The automotive industry is a cornerstone of the Union economy. With a view to** **delivering on the Union’s climate and environmental policy objectives, over the past** **years, the European automotive industry has been investing heavily in the** **development of cleaner vehicles and innovative components. Electric vehicles and** **electric vehicle components, including traction batteries, e-powertrain components** **and electronic systems, are essential technologies for advancing the decarbonisation** **of road transport. However, as a result of costs disadvantage and the transformation** **of the value chain with an increasing value share for batteries, e-powertrain and** **electronics, the level of Union content in vehicles produced in the Union is decreasing.** **It is no longer possible to postpone effective measures to avoid the risk of local** **production being displaced. In the absence of such measures, the current** **circumstances would lead to a full reliance on third countries for key vehicle** **components. That would be a serious threat to the Union’s economic security and** **future resilience, as well as for its climate and environmental goals.**
 
 <a id="rec-10"></a>
-(10) The unpredictability, complexity and, at times, excessive length of national permit-granting procedures undermine the cost-effectiveness of investments necessary for the development of industrial activities. Therefore, and in order to ensure and speed up the effective implementation of industrial manufacturing activities, Member States should apply streamlined and digitalised permit-granting processes~~. An authority should~~ ~~coordinate all permit granting processes~~ and ensure that ~~all relevant decisions are adopted~~ ~~within the applicable time limit~~**application procedures for industrial manufacturing** **projects are simplified, without undermining the Union’s climate and environmental** **objectives**. The permit-granting procedure in this Regulation refers to any administrative authorisations required for the completion of a project that are issued by Member States' competent authorities~~, such as any~~ **including any potential** prerequisites **or** **authorisations** needed to **request or** obtain the grid connection ~~permit. As such, any non-~~ ~~administrative authorisation (i.e. grid connection permit) issued~~**. However, the process for** **connecting to the grid which is handled** by the system ~~operator’s~~**operators and their** **final agreement to connect to the grid** are not covered **in this regulation**. **In order to** **ensure streamlined and simplified permit-granting procedures, a single application** **procedure covering all relevant permits should be provided for industrial** **manufacturing projects, except for the tobacco manufacturing sector. It should not** **apply where specific permit-granting or licensing procedures or requirements are** **established in Union legislation for other manufacturing sectors such as, but not** **exclusively to Regulations (EU) 2024/1735 and (EU) 2024/1252 of the European** **Parliament and of the Council. Sectorial Union legislation governing medicines and** **medical devices has recently undergone or is undergoing further streamlining of** **harmonised rules and timelines for authorisations and certifications, with options to** **speed up the process if necessary. Those rules should therefore not be considered** **permit-granting procedures within the context of this initiative.**
+(10) The unpredictability, complexity and, at times, excessive length of national permit-granting procedures undermine the cost-effectiveness of investments necessary for the development of industrial activities. Therefore, and in order to ensure and speed up the effective implementation of industrial manufacturing activities, Member States should apply streamlined and digitalised permit-granting processes ~~. An authority should~~ ~~coordinate all permit granting processes~~ and ensure that ~~all relevant decisions are adopted~~ ~~within the applicable time limit~~ **application procedures for industrial manufacturing** **projects are simplified, without undermining the Union’s climate and environmental** **objectives**. The permit-granting procedure in this Regulation refers to any administrative authorisations required for the completion of a project that are issued by Member States' competent authorities ~~, such as any~~ **including any potential** prerequisites **or** **authorisations** needed to **request or** obtain the grid connection ~~permit. As such, any non-~~ ~~administrative authorisation (i.e. grid connection permit) issued~~ **. However, the process for** **connecting to the grid which is handled** by the system ~~operator’s~~ **operators and their** **final agreement to connect to the grid** are not covered **in this regulation**. **In order to** **ensure streamlined and simplified permit-granting procedures, a single application** **procedure covering all relevant permits should be provided for industrial** **manufacturing projects, except for the tobacco manufacturing sector. It should not** **apply where specific permit-granting or licensing procedures or requirements are** **established in Union legislation for other manufacturing sectors such as, but not** **exclusively to Regulations (EU) 2024/1735 and (EU) 2024/1252 of the European** **Parliament and of the Council. Sectorial Union legislation governing medicines and** **medical devices has recently undergone or is undergoing further streamlining of** **harmonised rules and timelines for authorisations and certifications, with options to** **speed up the process if necessary. Those rules should therefore not be considered** **permit-granting procedures within the context of this initiative.**
 
 **(10a) Member States should designate at least one coordinating authority to establish and** **maintain, through a single digital access point, a permitting application procedure** **that enables a single submission of the information required to apply for all permits** **relevant to a specific industrial manufacturing project. Enabling the designation of** **more than one coordinating authority reflects the needs for Member States to be able,** **in light of their internal organisation, to choose whether to designate coordinating** **authorities at local, regional or national level, or at any other relevant administrative** **level. The designation by a Member State of a coordinating authority, for the** **purposes of the single application for permitting, should not confer on that authority** **any decision-making power in the permit-granting procedure. The coordinating** **authority may, however, also be a competent authority with decision-making powers** **for specific permit-granting procedures.**
 
-(~~10a~~**10b**) Digitalisation is a key tool to speed up procedures and to increase efficiency for all parties involved. It allows **for** a faster handling of applications by the relevant authorities, and it allows project promoters to have quick access to clear information on process steps and requirements from the outset, therefore ensuring transparency and monitoring. However, **progress on** digitalisation of permit-granting procedures is lagging behind, ~~as it~~ ~~is~~**and application steps are** often ~~scattered among permit-granting procedures and~~ ~~steps~~**spread** across different competent authorities ~~and~~**.** In most Member States there is no unified digital process. **To reduce administrative burden and streamline application** **procedures,** Member States should set up **or make available** a digital ~~single portal that~~ ~~will serve as a~~ single access point ~~for all the steps~~**to serve as the entry point for the** **single submission** of the ~~permit-granting procedures for~~**information required to apply** **for all permits relevant to** industrial manufacturing projects. It ~~would~~**should** contribute to more uniform digitalisation, accountability and transparency across different permitting authorities in Member States and ultimately speed up permit-granting procedures. ~~It is also~~ ~~intended to simplify the process by allowing applicants to file their application in a single~~ ~~portal that can automatically route the applications to the competent authority. The portal~~ ~~should present features allowing authorities and applicants to check the status of the~~ ~~application and where delays are, as well as check compliance with applicable permitting~~ ~~deadlines. In addition, it should enable the interoperable and automated data exchange~~ ~~between authorities and re-use of data already held by public authorities, in line with the~~ ~~once-only principle.~~
+(~~10a~~ **10b**) Digitalisation is a key tool to speed up procedures and to increase efficiency for all parties involved. It allows **for** a faster handling of applications by the relevant authorities, and it allows project promoters to have quick access to clear information on process steps and requirements from the outset, therefore ensuring transparency and monitoring. However, **progress on** digitalisation of permit-granting procedures is lagging behind, ~~as it~~ ~~is~~ **and application steps are** often ~~scattered among permit-granting procedures and~~ ~~steps~~ **spread** across different competent authorities ~~and~~ **.** In most Member States there is no unified digital process. **To reduce administrative burden and streamline application** **procedures,** Member States should set up **or make available** a digital ~~single portal that~~ ~~will serve as a~~ single access point ~~for all the steps~~ **to serve as the entry point for the** **single submission** of the ~~permit-granting procedures for~~ **information required to apply** **for all permits relevant to** industrial manufacturing projects. It ~~would~~ **should** contribute to more uniform digitalisation, accountability and transparency across different permitting authorities in Member States and ultimately speed up permit-granting procedures. ~~It is also~~ ~~intended to simplify the process by allowing applicants to file their application in a single~~ ~~portal that can automatically route the applications to the competent authority. The portal~~ ~~should present features allowing authorities and applicants to check the status of the~~ ~~application and where delays are, as well as check compliance with applicable permitting~~ ~~deadlines. In addition, it should enable the interoperable and automated data exchange~~ ~~between authorities and re-use of data already held by public authorities, in line with the~~ ~~once-only principle.~~
 
 <a id="rec-11"></a>
-(11) The ~~implementation of~~ digital single access ~~points~~**point** should ~~be based on the core~~ ~~functionalities~~**enable the use** of the European Business Wallets established pursuant to [Proposal for a Regulation on the establishment of European Business Wallets ^(6) ], as ~~they~~ ~~provide a secure, standardised, and interoperable platform for businesses to interact~~ ~~with~~**part of the underlying technical infrastructure for authorities and applicants to** **check the status of the application and identify delays, as well as verify compliance** **with any applicable permitting deadlines. By channelling these interactions through** **the European Business Wallets,** public sector bodies **can advance digitisation,** **streamline processes and reduce unnecessary administrative burden while allowing** **businesses to use a singular tool for permit-granting procedures across the internal** **market. In addition, the digital single access point**~~. This~~ should enable the ~~efficient and~~ ~~effective~~**interoperable and automated data exchange between authorities and re-use** **of data already held by public authorities, in line with the once-only principle for the** submission of applications, while ensuring a high level of data protection, cybersecurity, and integrity of information. The ~~European Business Wallets will also enable the~~ ~~streamlining of investments that were made and the avoidance of unnecessary duplications,~~ ~~allowing for the optimisation of resources and the reduction of administrative burdens for~~ ~~businesses. The~~ implementation of digital single access points should ~~also~~, to the extent possible, use existing Union digital infrastructures, catalogues and building blocks, including those developed under the Once-Only Technical System and its implementing acts. This would promote complementarity, interoperability and the efficient use of public resources, while avoiding duplication of existing digital solutions.
+(11) The ~~implementation of~~ digital single access ~~points~~ **point** should ~~be based on the core~~ ~~functionalities~~ **enable the use** of the European Business Wallets established pursuant to [Proposal for a Regulation on the establishment of European Business Wallets ^(6) ], as ~~they~~ ~~provide a secure, standardised, and interoperable platform for businesses to interact~~ ~~with~~ **part of the underlying technical infrastructure for authorities and applicants to** **check the status of the application and identify delays, as well as verify compliance** **with any applicable permitting deadlines. By channelling these interactions through** **the European Business Wallets,** public sector bodies **can advance digitisation,** **streamline processes and reduce unnecessary administrative burden while allowing** **businesses to use a singular tool for permit-granting procedures across the internal** **market. In addition, the digital single access point** ~~. This~~ should enable the ~~efficient and~~ ~~effective~~ **interoperable and automated data exchange between authorities and re-use** **of data already held by public authorities, in line with the once-only principle for the** submission of applications, while ensuring a high level of data protection, cybersecurity, and integrity of information. The ~~European Business Wallets will also enable the~~ ~~streamlining of investments that were made and the avoidance of unnecessary duplications,~~ ~~allowing for the optimisation of resources and the reduction of administrative burdens for~~ ~~businesses. The~~ implementation of digital single access points should ~~also~~, to the extent possible, use existing Union digital infrastructures, catalogues and building blocks, including those developed under the Once-Only Technical System and its implementing acts. This would promote complementarity, interoperability and the efficient use of public resources, while avoiding duplication of existing digital solutions.
 
 <a id="rec-12"></a>
 (12) ~~In order to ensure streamlined and simplified permit-granting procedures, a single~~ ~~application covering all necessary permits should be provided for all industrial~~ ~~manufacturing projects except for the manufacturing sector under the C12 code. Project~~ ~~promoters would not be precluded from using existing permit-granting procedures.~~ ~~Moreover, it should not apply where specific permit-granting or licensing procedures or~~ ~~requirements are established in Union harmonisation legislation for industrial~~ ~~manufacturing projects, such as pursuant to Regulations (EU) 2024/1735 ^(7) and (EU)~~ ~~2024/1252 ^(8) of the European Parliament and of the Council. Sectorial Union legislation~~ ~~governing medicines and medical devices has recently undergone or is undergoing further~~ ~~streamlining of harmonised rules and timelines for authorisations and certifications, with~~ ~~options to speed up the process if necessary. Those rules should therefore not be~~ ~~considered permit-granting procedures within the context of this initiative.~~
@@ -92,7 +92,7 @@ Whereas:
 (13) **Regulation (EU) [202X/XX] of […] ^(9) establishes a common acceleration framework for** **environmental assessments. Procedures linked to environmental assessments should** **be accelerated and streamlined for plans, programmes and projects across all sectors** **of the economy while maintaining high levels of protection of human health and of the** **environment. Some sectors may, however, require yet faster environmental** **assessments. Therefore, and in order to safeguard the coherence of the legal** **framework of environmental assessments, while allowing for the additional needs for** **acceleration in certain strategic sectors, Regulation (EU) [202X/XX] establishes a** **dedicated toolbox that should therefore be used in the context of this Regulation.** **Given their essential role in ensuring the achievement of the Union’s climate** **objectives, and their contribution to the Union’s resilience and economic security,** **energy-intensive industry decarbonisation projects, industrial manufacturing** **projects located in industrial manufacturing acceleration areas, and net-zero** **technology projects should be considered strategic projects within the meaning of** **Regulation (EU) [202X/XX] and therefore benefit from the dedicated toolbox** **established under that Regulation.**
 
 <a id="rec-14"></a>
-(14) Regulation (EU) 2024/1735 sets out provisions that streamline administrative and permit-granting processes for net-zero technology manufacturing projects. Some specific components in the supply chain of net-zero technologies are produced through energy-intensive production processes. Energy-intensive industry decarbonisation projects fall within the scope of Regulation (EU) 2024/1735 only where the relevant facilities produce components that are part of the supply chain of a net-zero technology. ~~Furthermore~~**However**, ~~the definition of~~ energy-intensive ~~industry decarbonisation projects,~~ ~~as laid down in~~**facilities that do not produce components that are used in net-zero** **technologies are currently excluded from the scope of** Regulation (EU) 2024/1735 ~~is not~~ ~~comprehensive~~. This creates ~~a~~**the** risk of uneven conditions **of** between energy-intensive industries and slows down decarbonisation efforts. **This Regulation will ensure that** all energy-intensive industry decarbonisation projects ~~should therefore~~**will** be subject to the same permit-granting processes.
+(14) Regulation (EU) 2024/1735 sets out provisions that streamline administrative and permit-granting processes for net-zero technology manufacturing projects. Some specific components in the supply chain of net-zero technologies are produced through energy-intensive production processes. Energy-intensive industry decarbonisation projects fall within the scope of Regulation (EU) 2024/1735 only where the relevant facilities produce components that are part of the supply chain of a net-zero technology. ~~Furthermore~~ **However**, ~~the definition of~~ energy-intensive ~~industry decarbonisation projects,~~ ~~as laid down in~~ **facilities that do not produce components that are used in net-zero** **technologies are currently excluded from the scope of** Regulation (EU) 2024/1735 ~~is not~~ ~~comprehensive~~. This creates ~~a~~ **the** risk of uneven conditions **of** between energy-intensive industries and slows down decarbonisation efforts. **This Regulation will ensure that** all energy-intensive industry decarbonisation projects ~~should therefore~~ **will** be subject to the same permit-granting processes.
 
 **(14a) Clustering industrial manufacturing activity can contribute substantially to achieving** **the objectives of this Regulation and to strengthening certain strategic sectors in the** **internal market. Enabling the voluntary designation of industrial manufacturing** **acceleration areas by Member States is intended to stimulate and concentrate** **manufacturing activity across the Union and boost the industrial manufacturing** **sector in the Union economy. Such areas should be limited in geographical scope in** **order to foster industrial symbiosis. When designating industrial manufacturing** **acceleration areas, Member States should, in cooperation with regional authorities** **where appropriate, take into account industrial production (in particular for certain** **priority sectors) and their regions’ general level of development, with a focus on the** **less developed regions and those in transition. Member States may cooperate to** **designate cross-border industrial manufacturing acceleration areas to aggregate the** **advantages of scale and collaboration and to ensure efficient allocation of resources.** **Such cross-border initiatives have the potential to become important instruments for** **speeding up industrial decarbonisation and strengthening resilience.**
 
@@ -112,7 +112,7 @@ Whereas:
 (15) **The Union should adopt a more strategic approach in leveraging its economic weight** **and the value of access to its internal market. In that context, the strategic use of** **public intervention is essential to prevent critical dependencies in the Union. Public** **procurement amounts to 15% of the Union’s GDP. Contracting authorities and** **entities should therefore, where appropriate, ensure that public procurement** **requirements foster economic security and resilience of supply chains. Public support** **schemes also play an important role in stimulating demand in downstream sectors** **that account for a significant share of demand for certain strategic products and** **technologies. Such schemes should therefore favour beneficiaries that make a greater** **contribution to strengthening the Union’s resilience and advancing its** **decarbonisation objectives. Auctions are crucial for the deployment of net-zero** **technologies and should be designed to foster demand for such technologies including** **components originating from the Union.**
 
 <a id="rec-16"></a>
-(16) The Union and Member States maintain an open investment environment, as enshrined in the Treaty on the Functioning of the European Union (TFEU) and embedded in their international commitments. This includes commitments under the World Trade Organisation Agreement on Government Procurement (GPA) ^(12), as well as bilateral trade agreements, to open public procurement procedures and other forms of public intervention. At the same time, the Union retains the right to apply general or security exceptions **and to** **take into account the reciprocity of access granted by third countries to Union** **products**. The Commission will regularly assess ~~whether the conditions for excluding a~~ ~~third country from the scope~~**the implementation** of the ~~provisions deeming content~~ ~~originating in third countries to be equivalent to Union origin, are in place, and~~ ~~will~~**relevant international agreements and** take appropriate action~~. Where the relevant~~ ~~agreements provide for dedicated dispute settlement mechanisms, any outcome arising~~ ~~from such mechanisms should be adhered to~~ **when creating and maintaining the lists of** **third countries whose products will be considered of partner origin**. Economic security aims ~~at protecting and strengthening~~**to protect and strengthen** the internal market **vis-à-** **vis third countries**. Member States cannot rely on economic security to prevent, condition, or otherwise hinder in any way investments coming from other Member States.
+(16) The Union and Member States maintain an open investment environment, as enshrined in the Treaty on the Functioning of the European Union (TFEU) and embedded in their international commitments. This includes commitments under the World Trade Organisation Agreement on Government Procurement (GPA) ^(12), as well as bilateral trade agreements, to open public procurement procedures and other forms of public intervention. At the same time, the Union retains the right to apply general or security exceptions **and to** **take into account the reciprocity of access granted by third countries to Union** **products**. The Commission will regularly assess ~~whether the conditions for excluding a~~ ~~third country from the scope~~ **the implementation** of the ~~provisions deeming content~~ ~~originating in third countries to be equivalent to Union origin, are in place, and~~ ~~will~~ **relevant international agreements and** take appropriate action ~~. Where the relevant~~ ~~agreements provide for dedicated dispute settlement mechanisms, any outcome arising~~ ~~from such mechanisms should be adhered to~~ **when creating and maintaining the lists of** **third countries whose products will be considered of partner origin**. Economic security aims ~~at protecting and strengthening~~ **to protect and strengthen** the internal market **vis-à-** **vis third countries**. Member States cannot rely on economic security to prevent, condition, or otherwise hinder in any way investments coming from other Member States.
 
 <a id="rec-17"></a>
 (17) **The progressive integration of candidate countries and potential candidates into the** **Union’s internal market, including through their gradual participation in Union** **policies and programmes, is essential to support their alignment with the acquis,** **strengthen their competitiveness, promote their deeper integration into Union value** **chains and enhance the Union’s economic security. This Regulation should therefore** **contribute to fostering such gradual integration, including by facilitating the** **participation of economic operators from those countries in Union-wide value chains,** **Union public procurement, public support schemes and auctions where appropriate** **and in line with the Union’s interests, bilateral commitments, and objectives.**
@@ -323,7 +323,7 @@ Whereas:
 
 - (b) create lead markets for certain products in strategic sectors, by laying down Union origin requirements, low-carbon requirements, or both, in the context of public procurement, auctions and public support schemes;
 
-- (c) establish a Union framework setting conditions for the development of foreign direct investments in ~~emerging~~**targeted** strategic sectors;
+- (c) establish a Union framework setting conditions for the development of foreign direct investments in ~~emerging~~ **targeted** strategic sectors;
 
 - (d) set common conditions for the development of industrial manufacturing acceleration areas by Member States.
 
@@ -359,7 +359,7 @@ For the purposes of this Regulation, the following definitions apply:
 
   - (a) a procedure for the award of works or a service concession covered by Directive 2014/23/EU;
 
-  - (b) any type of award procedure covered by Directive 2014/24/EU for the ~~conclusion~~**award** of a public contract or Directive 2014/25/EU for the ~~conclusion~~**award** of a supply, works and service contract with the exception of procedures concerning lots according to Article 5(10) of Directive 2014/24/EU and Article 16(10) of Directive 2014/25/EU;
+  - (b) any type of award procedure covered by Directive 2014/24/EU for the ~~conclusion~~ **award** of a public contract or Directive 2014/25/EU for the ~~conclusion~~ **award** of a supply, works and service contract with the exception of procedures concerning lots according to Article 5(10) of Directive 2014/24/EU and Article 16(10) of Directive 2014/25/EU;
 
 - (10a) **'motor vehicle version' means a ‘version’ within a variant that groups vehicles that** **have features in common as defined in Annex I, Part B, point 2.2 of Regulation (EC)** **Regulation 2018/858.**
 
@@ -399,7 +399,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (28) ‘vehicle component’ means any part of a vehicle, including processed material;
 
-- (29) ‘assembled’ means the process of ~~the~~**carrying out body parts stamping, body-in-white** **assembly, body protection and painting, and** final assembly of the vehicle **in the** **manufacturing site**;
+- (29) ‘assembled’ means the process of ~~the~~ **carrying out body parts stamping, body-in-white** **assembly, body protection and painting, and** final assembly of the vehicle **in the** **manufacturing site**;
 
 - (30) ‘vehicle manufacturer’ means a natural or legal person who is responsible for all aspects of the type-approval of a vehicle, system, component or separate technical unit, or the individual vehicle approval, or the authorisation process for parts and equipment, for ensuring conformity of production and for market surveillance matters regarding that vehicle, system, component, separate technical unit, part and equipment produced, irrespective of whether or not that person is directly involved in all stages of the design and construction of that vehicle, system, component or separate technical unit concerned;
 
@@ -448,7 +448,7 @@ For the purposes of this Regulation, the following definitions apply:
 <a id="art-4"></a>
 ### Article 4 – Digital single access point
 
-1. Member States shall set up**,** or make available through existing structures**, including those** **established by Member States or Union law,** a digital single access point for the **single** submission **of information** by project promoters ~~of the single application within the~~ ~~permit-granting procedure for industrial manufacturing projects~~ referred to in Article ~~5(1)~~**3a**.
+1. Member States shall set up**,** or make available through existing structures**, including those** **established by Member States or Union law,** a digital single access point for the **single** submission **of information** by project promoters ~~of the single application within the~~ ~~permit-granting procedure for industrial manufacturing projects~~ referred to in Article ~~5(1)~~ **3a**.
 
 2. The digital single access point shall ~~route the permit applications to the relevant authority,~~ ~~inform the applicant about all steps of the permit-granting procedure, the status of the~~ ~~procedure and of the decisions of the relevant authorities, and enable the applicant to check~~ ~~compliance with applicable deadlines. To that effect the digital single access point shall~~ ~~use the core functionalities of the European Business Wallets established pursuant to~~ ~~[Proposal for a Regulation on the establishment of European Business Wallets], and~~ enable:
 
@@ -469,7 +469,7 @@ For the purposes of this Regulation, the following definitions apply:
 3. When providing the digital single access point, Member States shall **enable the use of the** **European Business Wallet in accordance with [Proposal for a Regulation on the** **establishment of European Business Wallets], and**, where appropriate, make use of existing Union digital infrastructure, catalogues and building blocks established by Union law.
 
 <a id="art-5"></a>
-### Article 5 – Permit-granting procedure
+### Article 5 – ~~Permit-granting procedure~~
 
 ~~1. Member States shall establish a single permit-granting procedure based on a single~~ ~~application covering all permits required for industrial manufacturing projects. The use of~~ ~~that single permit-granting procedure shall be at the discretion of the project promoter.~~
 
@@ -499,7 +499,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 - (b) consider the infrastructural and supply chain needs of the acceleration area, with particular attention to the feasibility of connecting the industrial manufacturing acceleration area with sufficient low carbon energy supply for the industrial manufacturing activities foreseen;
 
-~~(d)~~**(c) prioritise locations outside Natura 2000 sites and outside areas designated under** **national protection schemes for nature and biodiversity conservation, as well as** **other areas identified on the basis of sensitivity maps and outside protected** **areas as referred to in Article 6 of Directive 2000/60/EC, and take into account** **climate risks in the areas designated;**
+- (c) ~~(d)~~ **prioritise locations outside Natura 2000 sites and outside areas designated under** **national protection schemes for nature and biodiversity conservation, as well as** **other areas identified on the basis of sensitivity maps and outside protected** **areas as referred to in Article 6 of Directive 2000/60/EC, and take into account** **climate risks in the areas designated;**
 
 - (d) prioritise artificial and built surfaces, industrial sites and brownfield sites, as well as already identified strategic projects pursuant to other Union legislation ~~with a~~ ~~particular focus on projects that would have cross-border benefits beyond the~~ ~~Member State concerned~~.
 
@@ -536,9 +536,10 @@ For the purposes of this Regulation, the following definitions apply:
 <a id="chapter-iii"></a>
 ## Chapter III – STRENGTHENING THE UNION’S STRATEGIC INDUSTRIAL VALUE CHAINS
 
-**Article 6a6d Scope**
+<a id="art-6d"></a>
+### Article ~~6a~~ 6d – Scope
 
-~~1. The~~**This** chapter shall apply to, as relevant;
+~~1. The~~ **This** chapter shall apply to, as relevant;
 
 - (a) steel, and any product the performance of which depends mainly on steel, intended for use in buildings, infrastructure and **new** motor vehicles for civil purposes;
 
@@ -580,9 +581,10 @@ For the purposes of this Regulation, the following definitions apply:
 
 **3. The Commission shall subsequently amend the lists of countries if required, through** **additional implementing acts in accordance with Article 31(3), where a third country** **becomes a party to an existing agreement or concludes a new agreement falling** **within the categories of agreements listed in paragraph 1 and/or an amendment is** **justified by an assessment of the criteria set out in paragraph 2.**
 
-**4.** Those implementing acts shall set out the procedure for the regular monitoring of the criteria set out in **paragraphs 2 and 3.** The first ~~subparagraph of this paragraph. The~~ ~~Commission shall repeal any such~~ implementing act ~~if those criteria are no longer met~~**that** **establishes the lists of countries that provide content of partner origin shall be** **adopted within [OP: Please insert the date = 6 months after entry into force of this** **Regulation]**.
+**4.** Those implementing acts shall set out the procedure for the regular monitoring of the criteria set out in **paragraphs 2 and 3.** The first ~~subparagraph of this paragraph. The~~ ~~Commission shall repeal any such~~ implementing act ~~if those criteria are no longer met~~ **that** **establishes the lists of countries that provide content of partner origin shall be** **adopted within [OP: Please insert the date = 6 months after entry into force of this** **Regulation]**.
 
-**Article 7a7b Low-carbon products**
+<a id="art-7b"></a>
+### Article ~~7a~~ 7b – Low-carbon products
 
 1. For the purposes of this Chapter, a product covered by Annex II shall be considered low-carbon when it complies with the requirements set out in delegated acts, as follows:
 
@@ -593,23 +595,23 @@ For the purposes of this Regulation, the following definitions apply:
 <a id="art-8"></a>
 ### Article 8 – Public procurement
 
-1. Notwithstanding Article 7, for the purposes of public procurement, ~~content originating in~~ ~~third countries with which the Union has concluded an agreement establishing a free trade~~ ~~area or a customs union, or that are parties to the Agreement on Government Procurement,~~ ~~where relevant obligations of the Union exist under that agreement~~**partner origin, as** **defined in Article 7a**, shall ~~also be deemed to be of~~**be treated as** Union origin.
+1. Notwithstanding Article 7, for the purposes of public procurement, ~~content originating in~~ ~~third countries with which the Union has concluded an agreement establishing a free trade~~ ~~area or a customs union, or that are parties to the Agreement on Government Procurement,~~ ~~where relevant obligations of the Union exist under that agreement~~ **partner origin, as** **defined in Article 7a**, shall ~~also be deemed to be of~~ **be treated as** Union origin.
 
 ~~2. The Commission shall adopt implementing acts in accordance with Article 31(3) to~~ ~~exclude, in whole or in part, a third country from the scope of paragraph 1 if any of the~~ ~~following criteria is met:~~
 
-- (a) ~~that third country has failed to provide national treatment related to Union products~~ ~~or entities under the agreements referred to in paragraph 1 in relation to any of the~~ ~~sectors listed in Annex I;~~
+- ~~(a) that third country has failed to provide national treatment related to Union products~~ ~~or entities under the agreements referred to in paragraph 1 in relation to any of the~~ ~~sectors listed in Annex I;~~
 
-- (b) ~~such exclusion is justified to avoid dependencies or any other developments that may~~ ~~threaten the security of supply in the Union of the products in question;~~
+- ~~(b) such exclusion is justified to avoid dependencies or any other developments that may~~ ~~threaten the security of supply in the Union of the products in question;~~
 
-- (c) ~~such exclusion is justified under any other exception under the applicable agreement.~~
+- ~~(c) such exclusion is justified under any other exception under the applicable agreement.~~
 
-2a. From the date of entry into force of ~~this Regulation~~**the implementing act referred to in** **Article 7a(4)**, the Commission shall make available and maintain**, through the** **Access2Markets portal,** a freely accessible digital tool that lists ~~third~~**by product the** **relevant partner origin** countries referred to in paragraph 1 ~~and, where appropriate, third~~ ~~countries referred to in paragraph 2~~, in order to assist contracting authorities, contracting entities and economic operators with the implementation of this Article. **Incorrect** **determination of coverage arising solely from the use of the digital tool shall not be** **considered as an infringement of Union law in the field of public procurement.**
+2a. From the date of entry into force of ~~this Regulation~~ **the implementing act referred to in** **Article 7a(4)**, the Commission shall make available and maintain**, through the** **Access2Markets portal,** a freely accessible digital tool that lists ~~third~~ **by product the** **relevant partner origin** countries referred to in paragraph 1 ~~and, where appropriate, third~~ ~~countries referred to in paragraph 2~~, in order to assist contracting authorities, contracting entities and economic operators with the implementation of this Article. **Incorrect** **determination of coverage arising solely from the use of the digital tool shall not be** **considered as an infringement of Union law in the field of public procurement.**
 
-2b. Contracting authorities and contracting entities shall exclude access to procurement procedures referred to in Part I of Annex II and Part ~~I~~**II** of Annex III by economic operators owned or controlled **within the meaning of Article 3(2) of Regulation** **139/2004** by an entity established in third countries which have not concluded an international agreement with the Union guaranteeing such access.
+2b. Contracting authorities and contracting entities shall exclude access to procurement procedures referred to in Part I of Annex II and Part ~~I~~ **II** of Annex III by economic operators owned or controlled **within the meaning of Article 3(2) of Regulation** **139/2004** by an entity established in third countries which have not concluded an international agreement with the Union guaranteeing such access.
 
-2c. For public procurement procedures referred to in Part I of Annex II and Part ~~I~~**II** of Annex III, contracting authorities and contracting entities shall apply the Union origin requirements and low-carbon requirements laid down therein in accordance with ~~paragraphs 1 and 2~~**paragraph 1** of this Article and Article ~~7a~~**7b**.
+2c. For public procurement procedures referred to in Part I of Annex II and Part ~~I~~ **II** of Annex III, contracting authorities and contracting entities shall apply the Union origin requirements and low-carbon requirements laid down therein in accordance with ~~paragraphs 1 and 2~~ **paragraph 1** of this Article and Article ~~7a~~ **7b**.
 
-2d. Contracting authorities and contracting entities may decide not to apply the requirements set out in ~~Annexes II and III~~**this Article** where any of the following conditions are fulfilled:
+2d. Contracting authorities and contracting entities may decide not to apply the requirements set out in ~~Annexes II and III~~ **this Article** where any of the following conditions are fulfilled:
 
 - (a) the required products or **works, work concessions or transport** services can only be supplied by one specific economic operator, and no reasonable alternative or substitute exists, and the absence of competition is not the result of an artificial narrowing down of the parameters of the public procurement procedure;
 
@@ -621,16 +623,16 @@ For the purposes of this Regulation, the following definitions apply:
 
 7. Contracting authorities and contracting entities shall require economic operators supplying products or services to submit a self-declaration, or an equivalent document, demonstrating compliance with the requirements set out in this Article.
 
-~~[~~Legal remedies against the award decision of a third party shall not have any suspensive effect within the meaning of Article 2(1) point a and Article 3(3) of Directive 89/665/EEC as far as the compliance with the requirements of this Article covered by the self-declaration, or an equivalent document is concerned.~~]~~
+~~[~~ Legal remedies against the award decision of a third party shall not have any suspensive effect within the meaning of Article 2(1) point a and Article 3(3) of Directive 89/665/EEC as far as the compliance with the requirements of this Article covered by the self-declaration, or an equivalent document is concerned. ~~]~~
 
 <a id="art-9"></a>
 ### Article 9 – Other forms of public intervention
 
--1. Without prejudice to Articles 107 and 108 TFEU, when deciding to set up new public support schemes or to update existing schemes, Member States shall design those schemes to contribute to the objective of strengthening the Union’s strategic industrial value chains through the application of Union origin or low-carbon requirements, or both, laid down in Part II of Annex II and Part ~~II~~**III** of Annex III, in accordance with paragraphs 1 and 2 of this Article and Article 7a. This is without prejudice to Article 13.
+-1. Without prejudice to Articles 107 and 108 TFEU, when deciding to set up new public support schemes or to update existing schemes, Member States shall design those schemes to contribute to the objective of strengthening the Union’s strategic industrial value chains through the application of Union origin or low-carbon requirements, or both, laid down in Part II of Annex II and Part ~~II~~ **III** of Annex III, in accordance with paragraphs 1 and 2 of this Article and Article 7a. This is without prejudice to Article 13.
 
-Member States shall apply the requirements referred to in the first subparagraph to public support schemes accounting for at least 45% of the total national budget allocated to the public support schemes covered by Part II of Annex II and accounting for 100% of the total national budget allocated to the public support schemes covered by Part ~~II~~**III** of Annex III.
+Member States shall apply the requirements referred to in the first subparagraph to public support schemes accounting for at least 45% of the total national budget allocated to the public support schemes covered by Part II of Annex II and accounting for 100% of the total national budget allocated to the public support schemes covered by Part ~~II~~ **III** of Annex III.
 
-1. Notwithstanding Article 7, for the purposes of public support schemes~~,~~ **partner origin** content**, as defined in Article 7a,** ~~originating in third countries with which the Union has~~ ~~concluded an agreement establishing a free trade area or a customs union~~ shall ~~also be~~ ~~deemed to be of~~**be treated as** Union origin.
+1. Notwithstanding Article 7, for the purposes of public support schemes ~~,~~ **partner origin** content**, as defined in Article 7a,** ~~originating in third countries with which the Union has~~ ~~concluded an agreement establishing a free trade area or a customs union~~ shall ~~also be~~ ~~deemed to be of~~ **be treated as** Union origin.
 
 1a. The digital tool referred to in Article 8(2a) shall assist relevant public authorities with the implementation of this Article.
 
@@ -644,16 +646,16 @@ Member States shall apply the requirements referred to in the first subparagraph
 
 ~~Those implementing acts shall set out the procedure for the regular monitoring of the criteria~~ ~~set out in the first subparagraph of this paragraph. The Commission shall repeal any such~~ ~~implementing act if those criteria are no longer met.~~
 
-The competent authority may implement support schemes that do not meet the requirements laid down in Part II of Annex II and Part ~~II~~**III** of Annex III, in whole or in part, if the application of such requirements:
+The competent authority may implement support schemes that do not meet the requirements laid down in Part II of Annex II and Part ~~II~~ **III** of Annex III, in whole or in part, if the application of such requirements:
 
 - (a) would lead to significant delays due to the unavailability of the required components or final products. Estimated delays in excess of seven months, based on objective, transparent and verifiable data, may be presumed to be significant;
 
 - (b) would incur disproportionate costs. Disproportionate costs shall be presumed to exist where, based on objective, transparent and verifiable data, compliance would increase the cost of the underlying final product or technology by more than 30%.
 
-2b. When designing and implementing a public support scheme covered by Part II of Annex II and Part ~~II~~**III** of Annex III, the competent authority shall assess the contribution of products and technologies to the overall target laid down therein on the basis of an open, non-discriminatory and transparent process.
+2b. When designing and implementing a public support scheme covered by Part II of Annex II and Part ~~II~~ **III** of Annex III, the competent authority shall assess the contribution of products and technologies to the overall target laid down therein on the basis of an open, non-discriminatory and transparent process.
 
 <a id="art-10"></a>
-### Article 10 – [paragraph 1 moved to Article 7a7b; paragraph 2 moved to Article 15a15b]
+### Article 10 – [paragraph 1 moved to Article ~~7a~~ 7b; paragraph 2 moved to Article ~~15a~~ 15b]
 
 <a id="art-11"></a>
 ### Article 11 – [Paragraphs 1 to 4 were moved to Article 8 paragraphs 2b, 2c, 2d and 7]
@@ -664,34 +666,35 @@ The competent authority may implement support schemes that do not meet the requi
 <a id="art-13"></a>
 ### Article 13 – Financial support for corporate vehicles
 
-For the purposes of Article 4 of the [Proposal for a Regulation of 16 December 2025 on clean corporate vehicles], the ‘made in the European Union’ criterion for providing financial support for the uptake of **new zero- and low-emission** corporate cars and vans shall comply with the criteria set out in Part ~~II~~**I** of Annex III to this Regulation.
+For the purposes of Article 4 of the [Proposal for a Regulation of 16 December 2025 on clean corporate vehicles], the ‘made in the European Union’ criterion for providing financial support for the uptake of **new zero- and low-emission** corporate cars and vans shall comply with the criteria set out in Part ~~II~~ **I** of Annex III to this Regulation.
 
 For the purposes of this Article, the ‘made in the European Union’ criterion refers to content originating in the Union as laid down in Article 7. ~~The origin of products and components shall be~~ ~~determined in accordance with Regulation (EU) No 952/2013 of the European Parliament and of the~~ ~~Council.~~
 
 <a id="art-14"></a>
 ### Article 14 – CO2 emission performance standards credits
 
-1. For the purposes of Article 5(1) and (2) of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission performance standards for new light duty vehicles and vehicle labelling], the ‘made in the EU’ criterion for small zero-emission vehicles shall comply with the criteria set out in Part ~~III~~**IV** of Annex III to this Regulation.
+1. For the purposes of Article 5(1) and (2) of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission performance standards for new light duty vehicles and vehicle labelling], the ‘made in the EU’ criterion for small zero-emission vehicles shall comply with the criteria set out in Part ~~III~~ **IV** of Annex III to this Regulation.
 
 For the purposes of this Article, ‘made in the EU’ refers to content originating in the Union as laid down in Article 7. ~~The origin of products and components shall be determined in~~ ~~accordance with Regulation (EU) No 952/2013 of the European Parliament and of the~~ ~~Council.~~
 
 2. For the purposes of Article 5b of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission standards for new light duty vehicles and vehicle labelling], ‘low-carbon steel made in the EU’ shall be understood as follows:
 
-- (a) ‘low-carbon’ shall comply with the conditions ~~referred to~~**laid down** in Article ~~7a~~**7b**(1) of this Regulation;
+- (a) ‘low-carbon’ shall comply with the conditions ~~referred to~~ **laid down** in Article ~~7a~~ **7b**(1) of this Regulation;
 
-- (b) 'content of Union origin' refers to content originating in the Union~~; the origin of~~ ~~products and components shall be determined in accordance with~~ **laid down in** **Article 7 of this** Regulation ~~(EU) No 952/2013 of the European Parliament and of~~ ~~the Council~~.
+- (b) 'content of Union origin' refers to content originating in the Union ~~; the origin of~~ ~~products and components shall be determined in accordance with~~ **laid down in** **Article 7 of this** Regulation ~~(EU) No 952/2013 of the European Parliament and of~~ ~~the Council~~.
 
 <a id="art-15"></a>
 ### Article 15 – Certification of a motor vehicle’s compliance with Union origin requirements
 
-From [OP please insert date: six months after entry into force], when issuing a motor vehicle’s certificate of conformity in accordance with Articles 36 and 37 of Regulation (EU) 2018/858, for motor vehicles in compliance with the relevant Union origin requirements laid down in ~~Annex~~**Annexes II and** III to this Regulation, vehicle manufacturers shall provide an accompanying document certifying the compliance of the motor vehicle **version with those requirements**. **Manufacturer-issued documentation shall be deemed sufficient evidence of compliance unless** **substantiated doubts arise over the correctness of the certificate.**
+From [OP please insert date: six months after entry into force], when issuing a motor vehicle’s certificate of conformity in accordance with Articles 36 and 37 of Regulation (EU) 2018/858, for motor vehicles in compliance with the relevant Union origin requirements laid down in ~~Annex~~ **Annexes II and** III to this Regulation, vehicle manufacturers shall provide an accompanying document certifying the compliance of the motor vehicle **version with those requirements**. **Manufacturer-issued documentation shall be deemed sufficient evidence of compliance unless** **substantiated doubts arise over the correctness of the certificate.**
 
 <a id="art-15a"></a>
 ### Article 15a – Flexibility mechanism
 
 **As an alternative to the requirements for motor vehicles set out in Annex III, Parts II and III** **and in Article 13, all PEV, OVC-HEV or FCV from a vehicle manufacturer can be considered** **compliant, for a period of twelve months, with the Union origin requirements if the** **manufacturer provides a self-declaration that the PEV, OVC-HEC or FCV vehicles compliant** **with the Union origin requirements set out in Annex III, Part I assembled by that vehicle** **manufacturer during the period comprised between 1 January and 31 December (included) of** **the previous year represent a percentage equal or greater than 85% of the total number of** **PEV, OVC-HEV or FCV from the same vehicle manufacturer that were registered within the** **Union in the same period.**
 
-**Article 15a15b Classification systems for creating lead markets**
+<a id="art-15b"></a>
+### Article ~~15a~~ 15b – Classification systems for creating lead markets
 
 To support the creation of lead markets by informing investment **and purchasing** decisions towards products granted a lower greenhouse gas intensity performance class, the Commission is empowered to adopt delegated acts in accordance with Article 30 in order to supplement this Regulation by establishing voluntary classification systems based on the greenhouse gas intensity for products manufactured through activities listed in Annex I of Directive 2003/87/EC (‘industrial products’) when they are placed on the Union market, to the extent that these products are not already regulated by a Delegated Act under Regulation (EU) 2024/1781 or included in the working plans adopted in accordance with that Regulation.
 
@@ -728,7 +731,7 @@ In developing those rules, the Commission shall at least take into account:
 <a id="art-16"></a>
 ### Article 16 – Delegation of powers
 
-1. ~~[~~**In order to enable the decarbonisation of the chemicals sector, while strengthening** **production capacity of substances of Union origin derived from sustainable carbon** **sources, and supporting the use of such substances in products and mixtures made** **available on the market,** the Commission is empowered to adopt delegated acts in accordance with Article 30 to supplement this Regulation by laying down ~~Union-level~~ ~~demand-side measures, including but not limited to any instrument or mechanism at Union~~ ~~level promoting the use of sustainable carbon sources, including the obligation for~~ ~~manufacturers and downstream users of chemical substances and mixtures to include a~~ ~~given share of~~**Union-origin and** sustainable carbon sources ~~in their production and~~ ~~supply,~~**requirements** for products ~~from the chemical industry in order to promote the~~ ~~following activities:]~~**and mixtures put on the Union market.**
+1. ~~[~~ **In order to enable the decarbonisation of the chemicals sector, while strengthening** **production capacity of substances of Union origin derived from sustainable carbon** **sources, and supporting the use of such substances in products and mixtures made** **available on the market,** the Commission is empowered to adopt delegated acts in accordance with Article 30 to supplement this Regulation by laying down ~~Union-level~~ ~~demand-side measures, including but not limited to any instrument or mechanism at Union~~ ~~level promoting the use of sustainable carbon sources, including the obligation for~~ ~~manufacturers and downstream users of chemical substances and mixtures to include a~~ ~~given share of~~ **Union-origin and** sustainable carbon sources ~~in their production and~~ ~~supply,~~ **requirements** for products ~~from the chemical industry in order to promote the~~ ~~following activities:]~~ **and mixtures put on the Union market.**
 
 **In the preparation of the delegated acts, the Commission shall take into account** **evidence, obtained through monitoring activities or input by relevant stakeholders,** **including Member States and the industry sector, demonstrating:**
 
@@ -772,7 +775,7 @@ In developing those rules, the Commission shall at least take into account:
 <a id="art-17"></a>
 ### Article 17 – Scope
 
-1. This Chapter shall apply to foreign direct investments ~~exceeding a value of EUR 100~~ ~~million in the emerging strategic manufacturing sectors referred to in paragraph 2, where~~ ~~more than 40 %~~**that meet the conditions set out in each** of the ~~global manufacturing~~ ~~capacity is held by the third country of which the foreign investor is a national or~~ ~~undertaking~~**subparagraphs (a), (b), and (c) of this Article**.
+1. This Chapter shall apply to foreign direct investments ~~exceeding a value of EUR 100~~ ~~million in the emerging strategic manufacturing sectors referred to in paragraph 2, where~~ ~~more than 40 %~~ **that meet the conditions set out in each** of the ~~global manufacturing~~ ~~capacity is held by the third country of which the foreign investor is a national or~~ ~~undertaking~~ **subparagraphs (a), (b), and (c) of this Article**.
 
 ~~Such investments shall not be implemented unless explicitly approved by the Investment~~ ~~Authority referred to in Article 17a, or the European Commission, in accordance with the~~ ~~provisions laid down in this Chapter.~~
 
@@ -794,15 +797,15 @@ In developing those rules, the Commission shall at least take into account:
 
   - (ii) **30 percent or more of ownership of a Union asset, and leasehold or other** **rights conferring control over a Union asset.**
 
-2. ~~This Chapter shall apply to foreign direct investments in manufacturing in any of the~~ ~~following emerging strategic sectors:~~**[content moved to paragraph (1), point b]**
+2. ~~This Chapter shall apply to foreign direct investments in manufacturing in any of the~~ ~~following emerging strategic sectors:~~ **[content moved to paragraph (1), point b]**
 
-- (a) ~~battery technologies, including the value chain for battery energy storage systems;~~
+- ~~(a) battery technologies, including the value chain for battery energy storage systems;~~
 
-- (b) ~~pure electric vehicles, off-vehicle charging hybrid electric vehicles and fuel-cell~~ ~~electric vehicles, including components related to electrification and digitalisation;~~
+- ~~(b) pure electric vehicles, off-vehicle charging hybrid electric vehicles and fuel-cell~~ ~~electric vehicles, including components related to electrification and digitalisation;~~
 
-- (c) ~~solar PV technologies;~~
+- ~~(c) solar PV technologies;~~
 
-- (d) ~~extraction, processing and recycling of critical raw materials.~~
+- ~~(d) extraction, processing and recycling of critical raw materials.~~
 
 3. This Chapter shall not apply to:
 
@@ -821,13 +824,13 @@ In developing those rules, the Commission shall at least take into account:
 
 Member States shall provide that Investment Authority with the necessary resources, legal and administrative means for performing the tasks set out in this Regulation.
 
-2. A foreign investor**, or the foreign investor’s subsidiary, from [OP insert date: 12** **months after entry into force of this Regulation],** shall notify any planned direct investment within the scope of Article 17 to the Investment Authority of the Member State where the Union target or Union asset is located~~, and which would result in control over~~ ~~the Union target or Union asset as laid down in paragraph 4~~.
+2. A foreign investor**, or the foreign investor’s subsidiary, from [OP insert date: 12** **months after entry into force of this Regulation],** shall notify any planned direct investment within the scope of Article 17 to the Investment Authority of the Member State where the Union target or Union asset is located ~~, and which would result in control over~~ ~~the Union target or Union asset as laid down in paragraph 4~~.
 
 The notification shall contain all necessary information to allow the Investment Authority to perform the assessment and approval process pursuant to Articles 20 and 20a.
 
-3. For the purposes of determining whether ~~the investment value reaches the threshold~~**either** **of the thresholds** set out in Article ~~17(1), only previous investments of a~~**17(1)(c) have** **been reached collectively by** foreign ~~investor made in the same Union target or Union~~ ~~asset by the~~**investors or foreign investors’ subsidiaries, interests held directly or** **indirectly, including through affiliates, chains of ownership or by** foreign ~~investor~~**investors acting in concert shall be aggregated** from [OP please insert the date = the date of the entry into force of this Regulation] ~~shall be aggregated~~.
+3. For the purposes of determining whether ~~the investment value reaches the threshold~~ **either** **of the thresholds** set out in Article ~~17(1), only previous investments of a~~ **17(1)(c) have** **been reached collectively by** foreign ~~investor made in the same Union target or Union~~ ~~asset by the~~ **investors or foreign investors’ subsidiaries, interests held directly or** **indirectly, including through affiliates, chains of ownership or by** foreign ~~investor~~ **investors acting in concert shall be aggregated** from [OP please insert the date = the date of the entry into force of this Regulation] ~~shall be aggregated~~.
 
-4. ~~Foreign investors shall be considered to have control, where the investment in question~~ ~~reaches either of the following threshold:~~**[moved to Article 17, paragraph 1, point c)]**
+4. ~~Foreign investors shall be considered to have control, where the investment in question~~ ~~reaches either of the following threshold:~~ **[moved to Article 17, paragraph 1, point c)]**
 
 - (a) ~~30 percent or more share capital or voting rights in a Union target;~~
 
@@ -842,21 +845,21 @@ The notification shall contain all necessary information to allow the Investment
 <a id="art-18"></a>
 ### Article 18 – Value added foreign direct investment criteria
 
-~~1.~~ 1. When notifying the foreign direct investment in accordance with Article 17a(2), the foreign investor **and the foreign investor’s subsidiary** shall comply with the condition under point (a) and at least three of the conditions of their choice under points (b) to (f) of this paragraph~~. This is without prejudice to paragraph 2 of this Article~~. From [OP insert date: 12 months after entry into force of this Regulation], Investment Authorities shall only approve foreign direct investments made directly by foreign investors that fulfil point (a) and three or more of the following six conditions:
+~~1.~~ 1. When notifying the foreign direct investment in accordance with Article 17a(2), the foreign investor **and the foreign investor’s subsidiary** shall comply with the condition under point (a) and at least three of the conditions of their choice under points (b) to (f) of this paragraph ~~. This is without prejudice to paragraph 2 of this Article~~. From [OP insert date: 12 months after entry into force of this Regulation], Investment Authorities shall only approve foreign direct investments made directly by foreign investors that fulfil point (a) and three or more of the following six conditions:
 
-- (a) at least 50% of the **average annual full time equivalent** workforce**,** employed in the context of the foreign direct investment, at the time of its implementation and continuously throughout its operation, shall be made up of Union workers **whose** **Union-worker status has not been obtained in direct connection with, or with** **the purpose of, the employment related to the implementation of the foreign** **direct investment. Those Union workers shall be employed** across all categories of the workforce, including operational, technical, supervisory, and managerial positions. ~~Such employment~~**The foreign investor** shall ~~be accompanied by~~ ~~adequate~~**commit to providing** training and ~~capacity-building measures~~**capacity** **building for staff to support Union based skills and workforce resilience**. Where a Union target or Union asset already performing manufacturing activities before the investment is acquired, including after bankruptcy, maintaining the existing workforce or re-employment of the former workforce shall be prioritised, in accordance with national law and the application of collective agreements. In the event that the foreign investor, the Union target or the Union asset receives public funding, without prejudice to Articles 107 and 108 TFEU, it shall commit ~~not to~~ ~~decrease the number~~**to maintain the share of** Union workers for a period of five years ~~on pain of~~**, failing which that funding will be subject to** recovery ~~by the~~ ~~relevant national authorities of the funding awarded~~;
+- (a) at least 50% of the **average annual full time equivalent** workforce**,** employed in the context of the foreign direct investment, at the time of its implementation and continuously throughout its operation, shall be made up of Union workers **whose** **Union-worker status has not been obtained in direct connection with, or with** **the purpose of, the employment related to the implementation of the foreign** **direct investment. Those Union workers shall be employed** across all categories of the workforce, including operational, technical, supervisory, and managerial positions. ~~Such employment~~ **The foreign investor** shall ~~be accompanied by~~ ~~adequate~~ **commit to providing** training and ~~capacity-building measures~~ **capacity** **building for staff to support Union based skills and workforce resilience**. Where a Union target or Union asset already performing manufacturing activities before the investment is acquired, including after bankruptcy, maintaining the existing workforce or re-employment of the former workforce shall be prioritised, in accordance with national law and the application of collective agreements. In the event that the foreign investor, the Union target or the Union asset receives public funding, without prejudice to Articles 107 and 108 TFEU, it shall commit ~~not to~~ ~~decrease the number~~ **to maintain the share of** Union workers for a period of five years ~~on pain of~~ **, failing which that funding will be subject to** recovery ~~by the~~ ~~relevant national authorities of the funding awarded~~;
 
 - (b) foreign investors do not acquire, hold, or exercise ownership interests representing more than 49% of the share capital, voting rights, or equivalent ownership interests in any Union target, or equivalent ownership, leasehold or other rights conferring control over a Union asset;
 
 - (c) the foreign investor undertakes the direct investment through a joint venture with one or more Union entities, with the foreign investor holding no more than 49% of the share capital, voting rights, or equivalent ownership interests or other rights conferring control in any of the Union entities participating in the joint venture. Such joint ventures shall be structured to ensure effective participation of Union partners in management, technology transfer, and capacity building;
 
-- (d) foreign investors have entered into agreements providing for the licensing of their intellectual property rights and of their know-how**,** to the benefit of the Union target, or the Union asset, to enable it to carry out its economic activities in the context of the foreign direct investment. All intellectual property rights or assets developed by the Union target or the legal entity owning the Union asset prior to the foreign investment or without the collaboration of the foreign investor shall be fully and exclusively owned by the Union target or the legal entity owning the Union asset prior to the foreign direct investment. All intellectual property rights or assets either developed in that context as a result of a collaboration with the foreign investor’s other business assets, or in the case of point ~~c~~**(c)**, developed by the joint venture, shall be owned jointly by the foreign investor and the Union target, the joint venture defined in point ~~c~~**(c)** or the legal entity owning the Union asset;
+- (d) foreign investors have entered into agreements providing for the licensing of their intellectual property rights and of their know-how**,** to the benefit of the Union target, or the Union asset, to enable it to carry out its economic activities in the context of the foreign direct investment. All intellectual property rights or assets developed by the Union target or the legal entity owning the Union asset prior to the foreign investment or without the collaboration of the foreign investor shall be fully and exclusively owned by the Union target or the legal entity owning the Union asset prior to the foreign direct investment. All intellectual property rights or assets either developed in that context as a result of a collaboration with the foreign investor’s other business assets, or in the case of point ~~c~~ **(c)**, developed by the joint venture, shall be owned jointly by the foreign investor and the Union target, the joint venture defined in point ~~c~~ **(c)** or the legal entity owning the Union asset;
 
 - (e) the foreign investor annually directs to research and development spending in the Union an amount equivalent to at least 1% of the gross annual revenue of the Union target, or the gross annual revenue generated by the Union asset, as applied in proportion to the foreign investor’s share of control;
 
-- (e) (f) in the context of the foreign direct investment, the foreign investor prepares and publishes on its website a strategy for enhancing Union value chains and prioritising the sourcing of inputs for the manufacturing activity from the Union**. The foreign** **investor shall demonstrate** ~~and~~ endeavours to source from the Union a minimum of 30% of inputs used for the products placed on the Union market.
+- (f) ~~(e)~~ in the context of the foreign direct investment, the foreign investor prepares and publishes on its website a strategy for enhancing Union value chains and prioritising the sourcing of inputs for the manufacturing activity from the Union**. The foreign** **investor shall demonstrate** ~~and~~ endeavours to source from the Union a minimum of 30% of inputs used for the products placed on the Union market.
 
-2. Foreign direct investments made within the Union by foreign investors' subsidiaries **established in third countries with which the Union has concluded an agreement** **establishing a free trade area or a customs union, where relevant obligations of the** **Union exist under that agreement,** are not required to comply with the conditions laid down in paragraph 1 of this Article at the time of their notification in accordance with Article 17a~~(1)~~**(2)**. The Investment Authorities may apply some or all of the conditions set out in paragraph 1 to those direct investments where it is essential to achieve the objectives of this Regulation, under the following conditions:
+2. Foreign direct investments made within the Union by foreign investors' subsidiaries **established in third countries with which the Union has concluded an agreement** **establishing a free trade area or a customs union, where relevant obligations of the** **Union exist under that agreement,** are not required to comply with the conditions laid down in paragraph 1 of this Article at the time of their notification in accordance with Article 17a ~~(1)~~ **(2)**. The Investment Authorities may apply some or all of the conditions set out in paragraph 1 to those direct investments where it is essential to achieve the objectives of this Regulation, under the following conditions:
 
 - (a) preventing the circumvention of this Regulation by the foreign investor; or
 
@@ -864,7 +867,7 @@ The notification shall contain all necessary information to allow the Investment
 
 3. Foreign direct investment notified pursuant to Article 17a(7) shall comply with the conditions laid down in this Article in all Member States concerned.
 
-4. The Commission shall adopt an implementing act, by [OP please insert date: 6 months after entry into force of this Regulation]~~)~~**,** to specify the detailed rules for verifying the compliance with the conditions laid down in paragraph ~~2~~**1**, including the documents that are necessary to demonstrate compliance with those conditions at the time of the notification of the foreign direct investment. ~~Those~~**That** implementing ~~acts~~**act** shall be adopted in accordance with the examination procedure referred to in Article 31(3).
+4. The Commission shall adopt an implementing act, by [OP please insert date: 6 months after entry into force of this Regulation] ~~)~~ **,** to specify the detailed rules for verifying the compliance with the conditions laid down in paragraph ~~2~~ **1**, including the documents that are necessary to demonstrate compliance with those conditions at the time of the notification of the foreign direct investment. ~~Those~~ **That** implementing ~~acts~~ **act** shall be adopted in accordance with the examination procedure referred to in Article 31(3).
 
 <a id="art-19"></a>
 ### Article 19
@@ -872,33 +875,33 @@ The notification shall contain all necessary information to allow the Investment
 <a id="art-20"></a>
 ### Article 20 – Admissibility assessment
 
-1. The Investment Authority shall decide on the admissibility of the notification pursuant to Articles 17 and 17a within ~~30~~**45** days of receiving ~~the~~**a complete** notification. ~~That~~ ~~deadline may be extended by a further 15 days where the Investment Authority~~ ~~demonstrates satisfactorily that an extension is justified by the circumstances.~~
+1. The Investment Authority shall decide on the admissibility of the notification pursuant to Articles 17 and 17a within ~~30~~ **45** days of receiving ~~the~~ **a complete** notification. ~~That~~ ~~deadline may be extended by a further 15 days where the Investment Authority~~ ~~demonstrates satisfactorily that an extension is justified by the circumstances.~~
 
 Where deemed admissible by the Investment Authority, it shall without delay transmit the full notification to the Commission including all documents received.
 
 <a id="art-20a"></a>
 ### Article 20a – Approval process
 
-1. Within 30 days ~~after~~**of** receiving the notification, the Commission may issue a written opinion on whether the foreign direct investment falls within the scope of ~~Articles 17 and~~ ~~17a~~**Article 17**, whether it fulfils the conditions laid out in Article 18(1), and whether the Investment Authority should approve the investment or not.
+1. Within 30 days ~~after~~ **of** receiving the notification, the Commission may issue a written opinion on whether the foreign direct investment falls within the scope of ~~Articles 17 and~~ ~~17a~~ **Article 17**, whether it fulfils the conditions laid out in Article 18(1), and whether the Investment Authority should approve the investment or not.
 
 Where the Commission issues a written opinion, it shall transmit it to the Investment Authority without delay **and may publish the written opinion on its official website, with** **due regard to confidentiality**.
 
 2. The Investment Authority shall offer its reasoned decision no later than 45 days after receiving the Commission’s opinion or after the lapse of the deadline referred to in paragraph 1 of this article. The deadline for issuing the reasoned decision may be extended by a further 30 days where the Investment Authority demonstrates satisfactorily that an extension is justified by the circumstances.
 
-The Investment Authority shall, in ~~their~~**its** reasoned decision issued pursuant to this paragraph, indicate how the opinion of the Commission was taken into account.
+The Investment Authority shall, in ~~their~~ **its** reasoned decision issued pursuant to this paragraph, indicate how the opinion of the Commission was taken into account.
 
 The Investment Authority shall communicate such reasoned decisions to the Commission within three days of adoption.
 
 3. The Investment Authority shall, in its approval decision, set out reporting obligations on the foreign investor concerned, with a view to assessing the continuous fulfilment of the conditions laid down in Article 18.
 
-4. Where the relevant Union targets or assets are located in more than one Member State, the ~~Member States concerned shall~~**Commission may, with the agreement of the notified** **Investment Authorities,** coordinate the ~~review of such notifications and agree on the~~ ~~conditions imposed with the other Member States concerned, as well as with the~~ ~~Commission~~**respective processes**. ~~The Commission shall decide which conditions shall be~~ ~~applied to the foreign direct investment in case there is no agreement between the Member~~ ~~States concerned.~~
+4. Where the relevant Union targets or assets are located in more than one Member State, the ~~Member States concerned shall~~ **Commission may, with the agreement of the notified** **Investment Authorities,** coordinate the ~~review of such notifications and agree on the~~ ~~conditions imposed with the other Member States concerned, as well as with the~~ ~~Commission~~ **respective processes**. ~~The Commission shall decide which conditions shall be~~ ~~applied to the foreign direct investment in case there is no agreement between the Member~~ ~~States concerned.~~
 
 5. Any party subject to a decision issued pursuant to Article 20 or paragraph 2 of this Article **or Article 21** shall have the right to seek judicial recourse against such decision.
 
 <a id="art-21"></a>
 ### Article 21 – Commission assessment of foreign direct investment
 
-1. Within ~~30~~**45** days of receiving the notification referred to in Article 17a(2), **an Investment** **Authority may request** the Commission ~~may decide~~ to undertake the **admissibility** assessment ~~of the foreign direct investment only in the following circumstances:~~**and, if** **deemed admissible, the approval process on its behalf.**
+1. Within ~~30~~ **45** days of receiving the notification referred to in Article 17a(2), **an Investment** **Authority may request** the Commission ~~may decide~~ to undertake the **admissibility** assessment ~~of the foreign direct investment only in the following circumstances:~~ **and, if** **deemed admissible, the approval process on its behalf.**
 
 - (a) (a) ~~at the request of an Investment Authority handling the notification;~~
 
@@ -908,9 +911,9 @@ The Investment Authority shall communicate such reasoned decisions to the Commis
 
 - (d) ~~on its own initiative, where the foreign direct investment has high potential of~~ ~~disrupting the security of supply of the relevant emerging strategic sector or related~~ ~~value chains in the Union.~~
 
-2. **Within 45 days of receiving the request from the Investment Authority, and** where the Commission decides to assess the foreign direct investment**, it shall decide on the** **admissibility of the notification** pursuant to ~~this Article, the provisions set out in~~ Article ~~18 shall apply, mutatis mutandis, starting from its decision to undertake the assessment.~~**17.**
+2. **Within 45 days of receiving the request from the Investment Authority, and** where the Commission decides to assess the foreign direct investment**, it shall decide on the** **admissibility of the notification** pursuant to ~~this Article, the provisions set out in~~ Article ~~18 shall apply, mutatis mutandis, starting from its decision to undertake the assessment.~~ **17.**
 
-2a. **Where** the Commission **accepts to undertake the approval process, it** shall ~~communicate such~~**issue a** reasoned ~~decisions to the Investment Authority~~**decision** within ~~three~~**45** days of ~~adoption~~**an assessment being deemed admissible**. **The provisions set out** **in Article 18(1) shall apply, mutatis mutandis.**
+2a. **Where** the Commission **accepts to undertake the approval process, it** shall ~~communicate such~~ **issue a** reasoned ~~decisions to the Investment Authority~~ **decision** within ~~three~~ **45** days of ~~adoption~~ **an assessment being deemed admissible**. **The provisions set out** **in Article 18(1) shall apply, mutatis mutandis.**
 
 **2c. Where an Investment Authority refers a notification by a Union subsidiary of a** **foreign investor, the Commission may apply some or all of the conditions set out in** **Article 18(1) to direct investments made in the Union by a foreign investor’s** **subsidiary where it is essential to achieve the objectives of this Regulation, under the** **following conditions:**
 
@@ -929,11 +932,11 @@ The Investment Authority shall communicate such reasoned decisions to the Commis
 <a id="art-22"></a>
 ### Article 22 – Monitoring and enforcement
 
-1. The Investment Authority shall regularly monitor the foreign direct investment to ensure that it continues to comply with the applicable conditions laid down in Article 18. For that purpose, the foreign investor shall ~~regularly~~ report **every two years** to the Investment Authority on compliance with the applicable conditions. Subject to ~~five~~**ten** years of continuous compliance with the applicable conditions laid down in Article 18, the Investment Authority may waive those conditions.
+1. The Investment Authority shall regularly monitor the foreign direct investment to ensure that it continues to comply with the applicable conditions laid down in Article 18. For that purpose, the foreign investor shall ~~regularly~~ report **every two years** to the Investment Authority on compliance with the applicable conditions. Subject to ~~five~~ **ten** years of continuous compliance with the applicable conditions laid down in Article 18, the Investment Authority may waive those conditions.
 
 2. Upon request by the Commission, the Investment Authority shall transmit the investor’s reports submitted pursuant to paragraph 1 to the Commission together with its own assessment on each report.
 
-3. ~~The Investment Authority~~**Member States** shall establish penalties in case of noncompliance with the provisions of this Chapter, in particular where foreign investors fail to comply with the following requirements:
+3. ~~The Investment Authority~~ **Member States** shall establish penalties in case of noncompliance with the provisions of this Chapter, in particular where foreign investors fail to comply with the following requirements:
 
 - (a) the notification requirements in accordance with Article 17a;
 
@@ -943,29 +946,29 @@ The Investment Authority shall communicate such reasoned decisions to the Commis
 
 **3a. Where an Investment Authority considers that a foreign direct investment in its** **territory meets the conditions set out in Article 17(1) and has not been notified in line** **with Article 17a, it may, in duly justified circumstances, request the Commission to** **issue a reasoned opinion on whether the conditions have been met. Where the** **Commission accepts to issue a reasoned opinion, it shall be transmitted to the** **Investment Authority within 45 days.**
 
-4. Penalty payments established by the ~~Investment Authority~~**Member State** shall not amount to less than 5% of the average daily aggregate turnover of the foreign investor undertaking in case of a violation pursuant to paragraph 3, point (a).
+4. Penalty payments established by the ~~Investment Authority~~ **Member State** shall not amount to less than 5% of the average daily aggregate turnover of the foreign investor undertaking in case of a violation pursuant to paragraph 3, point (a).
 
-Where the foreign investor is a ~~private~~**natural** person, the ~~Investment Authority~~**Member** **State** shall establish a penalty payment of at least ~~5 %~~**5%** of the investment value in case **of** a violation pursuant to paragraph 3, point (a).
+Where the foreign investor is a ~~private~~ **natural** person, the ~~Investment Authority~~ **Member** **State** shall establish a penalty payment of at least ~~5 %~~ **5%** of the investment value in case **of** a violation pursuant to paragraph 3, point (a).
 
-Where the Commission ~~decides to assess~~**undertakes the assessment of** the foreign direct investment pursuant to Article 21, it may by decision impose penalties if the foreign investor provides false or misleading information in their notification, or if it does not supply the information required for the Commission to perform its review obligation.
+Where the Commission ~~decides to assess~~ **undertakes the assessment of** the foreign direct investment pursuant to Article 21, it may by decision impose penalties if the foreign investor provides false or misleading information in their notification, or if it does not supply the information required for the Commission to perform its review obligation.
 
-The penalties imposed by the Commission shall not exceed the 5% average daily turnover of the foreign investor, or in case of a ~~private~~**natural** person foreign investor, 5% of the investment value.
+The penalties imposed by the Commission shall not exceed the 5% average daily turnover of the foreign investor, or in case of a ~~private~~ **natural** person foreign investor, 5% of the investment value.
 
-The penalty payments shall be effective and proportionate to the violations laid down in paragraph 3~~, or in the case of the Commission the violations laid down in this paragraph~~.
+The penalty payments shall be effective and proportionate to the violations laid down in paragraph 3 ~~, or in the case of the Commission the violations laid down in this paragraph~~.
 
 The Investment Authority shall inform the Commission without undue delay of any noncompliance referred to in paragraph 3 and of the consequential penalties imposed.
 
 <a id="art-23"></a>
 ### Article 23 – Monitoring of global manufacturing capacity by the Commission
 
-1. For the purposes of Article 17, the Commission shall monitor the global manufacturing capacity for each of the ~~emerging~~**targeted** strategic sectors, building on existing monitoring activities performed, in particular pursuant to Regulation (EU) 2024/1735.
+1. For the purposes of Article 17, the Commission shall monitor the global manufacturing capacity for each of the ~~emerging~~ **targeted** strategic sectors, building on existing monitoring activities performed, in particular pursuant to Regulation (EU) 2024/1735.
 
-2. The Commission shall provide and publish updated information on the most recent year for which data is available for each of the ~~emerging~~**targeted** strategic sectors referred to in Article ~~17(2)~~**17(1), point (b)**.
+2. The Commission shall provide and publish updated information on the most recent year for which data is available for each of the ~~emerging~~ **targeted** strategic sectors referred to in Article ~~17(2)~~ **17(1), point (b)**.
 
 <a id="art-24"></a>
-### Article 24 – [Delegation of powers
+### Article 24 – ~~[~~ Delegation of powers
 
-1. **In order to reduce high-risk dependencies on a third country which are detrimental** **to the Union’s economic and supply security, while enhancing the functioning of the** **Single Market,** the Commission is empowered to adopt delegated acts in accordance with Article 30 of this Regulation to supplement the list of ~~emerging~~**targeted** strategic sectors to be covered by this Chapter to **the following** sectors **which are** critical to the Union’s economic security ~~including~~**:** net-zero technologies listed in Article 4(1), points (b), (d), (e), (g), (h), (j), (k), (n), (p), and (s), of Regulation (EU) 2024/1735, nuclear fuel cycle technologies referred to in Article 4(1), point (i), of Regulation (EU) 2024/1735~~,~~ **and** electric propulsion technologies for transport referred to in Article 4(1), point (r), of Regulation (EU) 2024/1735 **and the sectors included in the Annex to [European** **Economic Security Strategy of 2023]**, and excluding digital technologies, artificial intelligence, quantum technologies and semiconductors.
+1. **In order to reduce high-risk dependencies on a third country which are detrimental** **to the Union’s economic and supply security, while enhancing the functioning of the** **Single Market,** the Commission is empowered to adopt delegated acts in accordance with Article 30 of this Regulation to supplement the list of ~~emerging~~ **targeted** strategic sectors to be covered by this Chapter to **the following** sectors **which are** critical to the Union’s economic security ~~including~~ **:** net-zero technologies listed in Article 4(1), points (b), (d), (e), (g), (h), (j), (k), (n), (p), and (s), of Regulation (EU) 2024/1735, nuclear fuel cycle technologies referred to in Article 4(1), point (i), of Regulation (EU) 2024/1735 ~~,~~ **and** electric propulsion technologies for transport referred to in Article 4(1), point (r), of Regulation (EU) 2024/1735 **and the sectors included in the Annex to [European** **Economic Security Strategy of 2023]**, and excluding digital technologies, artificial intelligence, quantum technologies and semiconductors.
 
 These delegated acts shall be without prejudice to other Union acts establishing investment criteria for these sectors.
 
@@ -975,23 +978,23 @@ These delegated acts shall be without prejudice to other Union acts establishing
 
 - (b) ~~number of foreign direct investments in that sector, taking into account their~~ ~~contribution to the Union’s security of supply and their added value to the Union’s~~ ~~economy;~~
 
-- (c) ~~market situation and conditions, including~~**Union** supply ~~chain disturbances,~~ ~~on~~**chains in the given sector significantly depend on imports by persons or** **entities from a third country, in particular if products imported from that third** **country account for more than 40% of the sector’s annual consumption in the** Union ~~level~~**;**;
+- (c) ~~market situation and conditions, including~~ **Union** supply ~~chain disturbances,~~ ~~on~~ **chains in the given sector significantly depend on imports by persons or** **entities from a third country, in particular if products imported from that third** **country account for more than 40% of the sector’s annual consumption in the** Union ~~level~~ **;**;
 
-- (d) ~~technological developments and~~ **manufacturing activities in the Union being** **highly dependent on patent rights held by persons or entities established in a** **third country, taking into account the availability of alternative technologies** **and their potential implications on** the Union’s ~~competitiveness in that sector in~~ ~~comparison to third countries~~**supply security**;
+- (d) ~~technological developments and~~ **manufacturing activities in the Union being** **highly dependent on patent rights held by persons or entities established in a** **third country, taking into account the availability of alternative technologies** **and their potential implications on** the Union’s ~~competitiveness in that sector in~~ ~~comparison to third countries~~ **supply security**;
 
-- (e) ~~supply chain dependence in the relevant sector on one~~**a decrease by 10%** or more ~~countries~~**in the Union’s global market share or manufacturing capacity in two** **consecutive years in the given sector is identified**.
+- (e) ~~supply chain dependence in the relevant sector on one~~ **a decrease by 10%** or more ~~countries~~ **in the Union’s global market share or manufacturing capacity in two** **consecutive years in the given sector is identified**.
 
-3. The delegated acts adopted pursuant to paragraph 1 shall contain~~:~~ **the threshold value** **referred to in Article 17(1) for each of those additional sectors. Only where the** **Commission demonstrates with sufficient evidence that the threshold value referred** **to in Article 17(1) is inappropriate to achieve the objectives set out in this Article, the** **Commission shall be empowered to amend that threshold by means of a delegated** **act.**
+3. The delegated acts adopted pursuant to paragraph 1 shall contain ~~:~~ **the threshold value** **referred to in Article 17(1) for each of those additional sectors. Only where the** **Commission demonstrates with sufficient evidence that the threshold value referred** **to in Article 17(1) is inappropriate to achieve the objectives set out in this Article, the** **Commission shall be empowered to amend that threshold by means of a delegated** **act.**
 
 - (a) ~~the threshold value referred to in Article 17(1) for each of those additional sectors;~~
 
 - (b) ~~whether the investment conditions referred to in Article 18 are appropriate and~~ ~~necessary to meet the objectives of this Regulation with respect to the sector~~ ~~concerned, and if not, which of those criteria is to be applied.]~~
 
 <a id="chapter-v"></a>
-## Chapter V – INDUSTRIAL MANUFACTURING ACCELERATION AREAS[content moved to CHAPTER II]
+## Chapter V – ~~INDUSTRIAL MANUFACTURING ACCELERATION AREAS~~ [content moved to CHAPTER II]
 
 <a id="art-25"></a>
-### Article 25 – Designation of industrial manufacturing acceleration areas
+### Article 25 – ~~Designation of industrial manufacturing acceleration areas~~
 
 ~~1. Member States shall designate at least one industrial manufacturing acceleration area on~~ ~~their territory by [OP please insert date: 24 months following the entry into force of this~~ ~~Regulation]to cluster industrial manufacturing projects with the objective to enhance the~~ ~~functioning of the single market, increase production capacity and security of supply of~~ ~~strategic sectors listed in Annex I, in alignment with strategic projects and other initiatives,~~ ~~including net zero Acceleration Valleys. Member States may cooperate to designate cross-~~ ~~border industrial manufacturing acceleration areas.~~
 
@@ -1000,22 +1003,22 @@ These delegated acts shall be without prejudice to other Union acts establishing
 ~~6. Member States shall inform the Commission of the designation of an industrial~~ ~~manufacturing acceleration area, within 30 days from the adoption of the relevant decision.~~
 
 <a id="art-26"></a>
-### Article 26 – Enabling conditions
+### Article 26 – ~~Enabling conditions~~
 
 ~~Where appropriate for the long-term development and effective operation of industrial activities~~ ~~within the industrial manufacturing acceleration areas, Member States shall take the following~~ ~~measures:~~
 
-- (a) ~~facilitate access to financing of projects in the acceleration areas by ensuring coordination~~ ~~between authorities and streamlining internal procedures, in synergy with Union~~ ~~programmes and in accordance with existing State aid rules where applicable, taking into~~ ~~account the participation of SMEs and SMCs;~~
+- ~~(a) facilitate access to financing of projects in the acceleration areas by ensuring coordination~~ ~~between authorities and streamlining internal procedures, in synergy with Union~~ ~~programmes and in accordance with existing State aid rules where applicable, taking into~~ ~~account the participation of SMEs and SMCs;~~
 
-- (b) ~~promote research and innovation investments, including investments in technology testing~~ ~~and demonstration facilities, to accelerate the innovative potential and Union’s~~ ~~competitiveness and technology leadership in the acceleration areas;~~
+- ~~(b) promote research and innovation investments, including investments in technology testing~~ ~~and demonstration facilities, to accelerate the innovative potential and Union’s~~ ~~competitiveness and technology leadership in the acceleration areas;~~
 
-- (c) ~~conduct a comprehensive analysis of the immediate and long-term energy needs of each~~ ~~acceleration area and the required energy infrastructure capacity for the proper functioning~~ ~~and development of industrial manufacturing projects in the acceleration area, in line with~~ ~~Union's decarbonisation pathway, and review the analysis, when appropriate.~~
+- ~~(c) conduct a comprehensive analysis of the immediate and long-term energy needs of each~~ ~~acceleration area and the required energy infrastructure capacity for the proper functioning~~ ~~and development of industrial manufacturing projects in the acceleration area, in line with~~ ~~Union's decarbonisation pathway, and review the analysis, when appropriate.~~
 
-- (d) ~~ensure that the network development plans prepared by transmission system operators~~ ~~pursuant to Article 51 of Directive (EU) 2019/944 of the European Parliament and of the~~ ~~Council ^(41) and distribution system operators pursuant to Article 32 of Directive (EU)~~ ~~2019/944 take due account of the analysis prepared pursuant to point (c) of this paragraph,~~ ~~considering the potential of anticipatory investments to accommodate future system needs;~~
+- ~~(d) ensure that the network development plans prepared by transmission system operators~~ ~~pursuant to Article 51 of Directive (EU) 2019/944 of the European Parliament and of the~~ ~~Council ^(41) and distribution system operators pursuant to Article 32 of Directive (EU)~~ ~~2019/944 take due account of the analysis prepared pursuant to point (c) of this paragraph,~~ ~~considering the potential of anticipatory investments to accommodate future system needs;~~
 
-- (g) ~~support the development and availability of a highly skilled workforce and provide~~ ~~appropriate training and apprenticeship opportunities, thereby contributing to high-quality~~ ~~employment within those acceleration areas;~~
+- ~~(g) support the development and availability of a highly skilled workforce and provide~~ ~~appropriate training and apprenticeship opportunities, thereby contributing to high-quality~~ ~~employment within those acceleration areas;~~
 
 <a id="art-27"></a>
-### Article 27 – Permit-granting procedures in acceleration areas
+### Article 27 – ~~Permit-granting procedures in acceleration areas~~
 
 ~~1. For each designated industrial manufacturing acceleration area, Member States shall~~ ~~prepare and issue an aggregated baseline permit authorising industrial activities located~~ ~~within that area. This aggregated baseline permit shall cover the permits and administrative~~ ~~authorisations required for the industrial manufacturing projects located within the~~ ~~acceleration area, excluding those permits that are installation specific.~~
 
@@ -1039,7 +1042,7 @@ By [OP: Please insert the date = two years after the date of entry into force of
 
 - (c) the related administrative costs for public and private sectors, economic impacts on downstream sectors, SMEs, SMCs and consumers, as well as impacts on public budgets.
 
-**[**No later than seven years after the date of entry into force of this Regulation, the Commission shall carry out an evaluation of whether the requirement to continuously comply with the conditions laid down in Article 18 for ~~five~~**ten** years is appropriate for achieving the objectives pursued by this Regulation.**]**
+**[**No later than seven years after the date of entry into force of this Regulation, the Commission shall carry out an evaluation of whether the requirement to continuously comply with the conditions laid down in Article 18 for ~~five~~ **ten** years is appropriate for achieving the objectives pursued by this Regulation.**]**
 
 <a id="art-29"></a>
 ### Article 29 – Review
@@ -1106,7 +1109,7 @@ Regulation (EU) 2024/1735 is amended as follows:
 
   - (35) ‘stationary battery energy storage system’ means a stationary battery energy storage system as defined in Article 3(1), point (15), of Regulation (EU) 2023/1542;’
 
-  - (36) ‘hydronic heat pump’ means a ~~space heater using~~**heat generator of any capacity,** **intended for residential, commercial or industrial applications, with a heat** **pump cycle to capture** ambient heat from ~~an air source~~**air**, water ~~source~~ or ground ~~source~~**sources**, and/or waste heat ~~for heat generation and~~**and to generate heat for** **space heating, or for water heating, or for the** heating ~~space~~**of industrial** **processes, delivering the heat** through a water circuit.~~’~~
+  - (36) ‘hydronic heat pump’ means a ~~space heater using~~ **heat generator of any capacity,** **intended for residential, commercial or industrial applications, with a heat** **pump cycle to capture** ambient heat from ~~an air source~~ **air**, water ~~source~~ or ground ~~source~~ **sources**, and/or waste heat ~~for heat generation and~~ **and to generate heat for** **space heating, or for water heating, or for the** heating ~~space~~ **of industrial** **processes, delivering the heat** through a water circuit. ~~’~~
 
 ___
 
@@ -1176,11 +1179,11 @@ Union origin
 <a id="art-25a"></a>
 ### Article 25a – Origin requirements for public procurement procedures
 
-1a. For public procurement procedures referred to in Annex II, contracting authorities and contracting entities shall apply the Union origin requirements laid down therein. Requirements relating to ~~particular~~**individual** main specific components shall only apply to the extent that those components are included in the final product.
+1a. For public procurement procedures referred to in Annex II, contracting authorities and contracting entities shall apply the Union origin requirements laid down therein. Requirements relating to ~~particular~~ **individual** main specific components shall only apply to the extent that those components are included in the final product.
 
-1b. Notwithstanding Article 28d, for the purposes of public procurement, ~~content~~ ~~originating in third countries with which the Union has concluded an agreement~~ ~~establishing a free trade area or a customs union, or that are parties to the Agreement~~ ~~on Government Procurement, where relevant obligations of the Union exist under~~ ~~that agreement,~~ **partner origin as defined in Article 28da** shall ~~also be deemed to~~ ~~be of~~**be treated as** Union origin.
+1b. Notwithstanding Article 28d, for the purposes of public procurement, ~~content~~ ~~originating in third countries with which the Union has concluded an agreement~~ ~~establishing a free trade area or a customs union, or that are parties to the Agreement~~ ~~on Government Procurement, where relevant obligations of the Union exist under~~ ~~that agreement,~~ **partner origin as defined in Article 28da** shall ~~also be deemed to~~ ~~be of~~ **be treated as** Union origin.
 
-1c. ~~The Commission shall adopt~~ **[**Implementing ~~acts in accordance with~~**act moved to** **new** Article ~~45(2) to exclude, in whole or in part, a third country from the scope of~~ ~~paragraph 2 if any of the following criteria is met:~~**28da]**
+1c. ~~The Commission shall adopt~~ **[**Implementing ~~acts in accordance with~~ **act moved to** **new** Article ~~45(2) to exclude, in whole or in part, a third country from the scope of~~ ~~paragraph 2 if any of the following criteria is met:~~ **28da]**
 
 - (a) ~~that third country has failed to provide national treatment related to Union~~ ~~products or entities under the agreements referred to in paragraph 1 in relation~~ ~~to any of the net-zero technologies listed in Article 4, point (1);~~
 
@@ -1190,7 +1193,7 @@ Union origin
 
 ~~Those implementing acts shall set out the procedure for the regular monitoring of the~~ ~~criteria set out in the first subparagraph of this paragraph. The Commission shall repeal~~ ~~any such implementing act if those criteria are no longer met.~~
 
-1d From the date of entry into force of ~~this Regulation~~**the implementing act referred** **to in Article 28da(2)**, the Commission shall make available and maintain**, through** **the Access2Markets portal,** a freely accessible digital tool that lists ~~third~~**by** **product the relevant partner origin** countries referred to in paragraph ~~1 and, where~~ ~~appropriate, third countries referred to in paragraph 2~~**1b**, in order to assist contracting authorities, contracting entities and economic operators with the implementation of this Article. **Incorrect determination of coverage arising solely from the use of** **the digital tool shall not be considered as an infringement of Union law in the** **field of public procurement.**
+1d From the date of entry into force of ~~this Regulation~~ **the implementing act referred** **to in Article 28da(2)**, the Commission shall make available and maintain**, through** **the Access2Markets portal,** a freely accessible digital tool that lists ~~third~~ **by** **product the relevant partner origin** countries referred to in paragraph ~~1 and, where~~ ~~appropriate, third countries referred to in paragraph 2~~ **1b**, in order to assist contracting authorities, contracting entities and economic operators with the implementation of this Article. **Incorrect determination of coverage arising solely from the use of** **the digital tool shall not be considered as an infringement of Union law in the** **field of public procurement.**
 
 1. Contracting authorities and contracting entities shall exclude access to procurement procedures ~~tenders~~ referred to in Annex II by economic operators owned or controlled **within the meaning of Article 3(2) of Regulation 139/2004** by an entity established in third countries which have not concluded an international agreement with the Union guaranteeing such access.
 
@@ -1208,7 +1211,7 @@ Union origin
 
 4. Contracting authorities and contracting entities shall require economic operators supplying products falling within the scope of this Article to submit a self-declaration, or an equivalent document, demonstrating compliance with the requirements set out in this Article.
 
-~~[~~Legal remedies against the award decision of a third party shall not have any suspensive effect within the meaning of Article 2(1) point a and Article 3(3) of Directive 89/665/EEC as far as the compliance with the requirements of this Article covered by the self-declaration, or an equivalent document is concerned.~~]’~~
+~~[~~ Legal remedies against the award decision of a third party shall not have any suspensive effect within the meaning of Article 2(1) point a and Article 3(3) of Directive 89/665/EEC as far as the compliance with the requirements of this Article covered by the self-declaration, or an equivalent document is concerned. ~~]’~~
 
 - (5) Article 26 is amended as follows:
 
@@ -1228,13 +1231,13 @@ in point (a), the following point (iv) is added:
 
 point (b), is replaced by the following: ‘pre-qualification criteria or award criteria as referred to in paragraphs 2 and 2a’.
 
-‘(c) The following paragraph 2a is inserted: ‘2a. Where the auctions have net-zero technologies listed in Annex II as part of their subject-matter, Member States shall include the pre-qualification or award criteria laid down in Annex II.’ Criteria relating to ~~particular~~**individual** main specific components shall only apply to the extent that those components are included in the final product.’;
+‘(c) The following paragraph 2a is inserted: ‘2a. Where the auctions have net-zero technologies listed in Annex II as part of their subject-matter, Member States shall include the pre-qualification or award criteria laid down in Annex II.’ Criteria relating to ~~particular~~ **individual** main specific components shall only apply to the extent that those components are included in the final product.’;
 
     - (d) in paragraph 3, the first subparagraph is replaced by the following: ‘The Commission is empowered to adopt an implementing act further specifying the pre-qualification and award criteria referred to in paragraph 1points (a), (i), (ii) and (iii), and paragraph 2.’
 
-da The following paragraph 3a is inserted: 'With respect to the Union origin requirements for auctions for net-zero technologies, notwithstanding Article 28d, ~~content originating in third countries with which the Union has concluded~~ ~~an agreement establishing a free trade area or a customs union~~**partner origin** **as defined in Article 28da** shall ~~also be deemed to be of~~**be treated as** Union origin.'
+da The following paragraph 3a is inserted: 'With respect to the Union origin requirements for auctions for net-zero technologies, notwithstanding Article 28d, ~~content originating in third countries with which the Union has concluded~~ ~~an agreement establishing a free trade area or a customs union~~ **partner origin** **as defined in Article 28da** shall ~~also be deemed to be of~~ **be treated as** Union origin.'
 
-db ~~The following paragraph 3b is inserted: 'The Commission shall~~ ~~adopt~~ **[**implementing ~~acts in accordance with~~**act moved to new** Article ~~45(2) to~~ ~~exclude, in whole or in part, a third country from the scope of paragraph 1 if~~ ~~any of the following criteria is met:~~**28da]**
+db ~~The following paragraph 3b is inserted: 'The Commission shall~~ ~~adopt~~ **[**implementing ~~acts in accordance with~~ **act moved to new** Article ~~45(2) to~~ ~~exclude, in whole or in part, a third country from the scope of paragraph 1 if~~ ~~any of the following criteria is met:~~ **28da]**
 
       - (a) ~~that third country has failed to provide national treatment related to~~ ~~Union products or entities under the agreements referred to in~~ ~~paragraph 1 in relation to any of the net-zero technologies listed in~~ ~~Article 4, point (1);~~
 
@@ -1244,7 +1247,7 @@ db ~~The following paragraph 3b is inserted: 'The Commission shall~~ ~~adopt~~ *
 
 ~~Those implementing acts shall set out the procedure for the regular monitoring of~~ ~~the criteria set out in the first subparagraph of this paragraph. The Commission~~ ~~shall repeal any such implementing act if those criteria are no longer met.~~
 
-The digital tool referred to in Article 25a (~~3a~~**1d**) shall assist relevant public authorities with the implementation of this Article~~.~~
+The digital tool referred to in Article 25a (~~3a~~ **1d**) shall assist relevant public authorities with the implementation of this Article ~~.~~
 
     - (e) paragraph 4 is replaced by the following: ‘4. Member States shall give to each of the criteria referred to in paragraphs 2 and 2a, when applied as award criteria, a minimum weight of 5 % and a combined weight of between 15 % and 30 % of the award criteria. That is without prejudice to the possibility to give a higher weighting to the criteria referred to in the fourth subparagraph of paragraph 2, in accordance with any limit for non-price criteria set out in State aid rules.’.
 
@@ -1260,13 +1263,13 @@ The digital tool referred to in Article 25a (~~3a~~**1d**) shall assist relevant
 
 Origin requirements for other forms of public intervention
 
-1. Without prejudice to Articles 107 and 108 TFEU, support schemes referred to in Annex II shall include the requirements laid down therein. Requirements relating to ~~particular~~**individual** main specific components shall only apply to the extent that those components are included in the final product.
+1. Without prejudice to Articles 107 and 108 TFEU, support schemes referred to in Annex II shall include the requirements laid down therein. Requirements relating to ~~particular~~ **individual** main specific components shall only apply to the extent that those components are included in the final product.
 
 3. When additional financial compensation is granted, it shall not exceed 15% of the cost of the final product for the consumer, including transport and installation costs where relevant, with the exception of schemes targeting citizens living in energy poverty, as defined in Article 2, point (1), of Regulation (EU) 2023/955 of the European Parliament and of the Council ^(57), for which the limit shall be 20 %. ^(1)
 
-3a. Notwithstanding Article 28d, ~~content originating in third countries with which the~~ ~~Union has concluded an agreement establishing a free trade area or a customs~~ ~~union~~**for the purposes of other forms of public intervention, partner origin as** **defined in Article 28da** shall ~~also be deemed to be of~~**be treated as** Union origin.
+3a. Notwithstanding Article 28d, ~~content originating in third countries with which the~~ ~~Union has concluded an agreement establishing a free trade area or a customs~~ ~~union~~ **for the purposes of other forms of public intervention, partner origin as** **defined in Article 28da** shall ~~also be deemed to be of~~ **be treated as** Union origin.
 
-3b. ~~The Commission shall adopt~~ **[**implementing ~~acts in accordance with~~**act moved to** **new** Article ~~45(2) to exclude, in whole or in part, a third country from the scope of~~ ~~paragraph 1 based on any of the following criteria:~~**28da]**
+3b. ~~The Commission shall adopt~~ **[**implementing ~~acts in accordance with~~ **act moved to** **new** Article ~~45(2) to exclude, in whole or in part, a third country from the scope of~~ ~~paragraph 1 based on any of the following criteria:~~ **28da]**
 
 - (a) ~~that third country has failed to provide national treatment related to Union~~ ~~products or entities under the agreements referred to in paragraph 1 in relation~~ ~~to any of the net-zero technologies listed in Article 4, point (1);~~
 
@@ -1276,14 +1279,14 @@ Origin requirements for other forms of public intervention
 
 ~~Those implementing acts shall set out the procedure for the regular monitoring of the~~ ~~criteria set out in the first subparagraph of this paragraph. The Commission shall repeal~~ ~~any such implementing act if those criteria are no longer met.~~
 
-3c. The digital tool referred to in Article 25a (~~3a~~**1d**) shall assist relevant public authorities with the implementation of this Article.
+3c. The digital tool referred to in Article 25a (~~3a~~ **1d**) shall assist relevant public authorities with the implementation of this Article.
 
 3d When designing and implementing a scheme pursuant to paragraph 1, the authority shall assess the fulfilment of the requirements on the basis of an open, non-discriminatory and transparent process.
 
 <a id="art-28c"></a>
 ### Article 28c – Origin requirements for Member State support to construction and manufacturing of net-zero technologies
 
-1. Without prejudice to Articles 107 and 108 TFEU and in accordance with the Union’s international commitments, when supporting the construction or manufacturing of net-zero technology final products referred to in Annex II of this Regulation, Member States shall ensure that the Union origin requirements laid down in that Annex are met. Requirements relating to ~~particular~~**individual** main specific components shall only apply to the extent that those components are included in the final product.
+1. Without prejudice to Articles 107 and 108 TFEU and in accordance with the Union’s international commitments, when supporting the construction or manufacturing of net-zero technology final products referred to in Annex II of this Regulation, Member States shall ensure that the Union origin requirements laid down in that Annex are met. Requirements relating to ~~particular~~ **individual** main specific components shall only apply to the extent that those components are included in the final product.
 
 2. Member States may decide not to apply one or several requirements referred to in paragraph 1 where any of the following conditions are fulfilled:
 
@@ -1313,7 +1316,7 @@ Origin requirements for other forms of public intervention
 - (d) the development, maintenance, operation, or updating of their software.
 
 <a id="art-28h"></a>
-### Article 28h – [Delegation of power
+### Article 28h – ~~[~~ Delegation of power
 
 1. **In order to contribute to the decarbonisation and competitiveness of the Union’s** **economy, while increasing the Union’s resilience and security of supply in the** **field of net-zero technologies,** the Commission is empowered to adopt delegated acts in accordance with Article 44 to amend the Union origin requirements laid down in Annex II **by amending the list and/or number of main specific components** **subject to Union origin requirements**, taking into account the following criteria:
 
@@ -1327,13 +1330,13 @@ Origin requirements for other forms of public intervention
 
 - (e) the impact of setting Union origin requirements on the overall competitiveness ~~and greenhouse gas emissions~~ of the relevant sectors.
 
-2. **In order to contribute to the decarbonisation and competitiveness of the Union’s** **economy, while increasing the Union’s resilience and security of supply in the** **field of net-zero technologies,** the Commission is empowered to adopt delegated acts to supplement Annex II with Union origin requirements for additional ~~specific~~ ~~net-zero technology final products~~**net-zero technologies** referred to in Article 4(1), points (g), (h), (j), (k), (n), (p), and (s), as well as solar thermal technologies referred to in Article 4(1), point (a), nuclear fuel cycle technologies referred to in Article 4(1), point (i), and electric propulsion technologies for transport referred to in Article 4(1), point (r), **by setting Union origin requirements for specific net-zero technology** **final products and/or main specific components** which shall be required in accordance with Articles 25a, 26, 28a and 28c. In ~~doing so~~**the preparation of the** **delegated acts**, the Commission shall take ~~the following~~ into account **evidence,** **obtained through monitoring activities or input by relevant stakeholders,** **including Member States and the industry sector, demonstrating**:
+2. **In order to contribute to the decarbonisation and competitiveness of the Union’s** **economy, while increasing the Union’s resilience and security of supply in the** **field of net-zero technologies,** the Commission is empowered to adopt delegated acts to supplement Annex II with Union origin requirements for additional ~~specific~~ ~~net-zero technology final products~~ **net-zero technologies** referred to in Article 4(1), points (g), (h), (j), (k), (n), (p), and (s), as well as solar thermal technologies referred to in Article 4(1), point (a), nuclear fuel cycle technologies referred to in Article 4(1), point (i), and electric propulsion technologies for transport referred to in Article 4(1), point (r), **by setting Union origin requirements for specific net-zero technology** **final products and/or main specific components** which shall be required in accordance with Articles 25a, 26, 28a and 28c. In ~~doing so~~ **the preparation of the** **delegated acts**, the Commission shall take ~~the following~~ into account **evidence,** **obtained through monitoring activities or input by relevant stakeholders,** **including Member States and the industry sector, demonstrating**:
 
-- (a) ~~the market situation at Union level, as identified through monitoring activities,~~ ~~including~~ declining Union market shares ~~and~~**,** Union industry producing below capacity**, or high-risk dependencies on a third country which are** **detrimental to the security of supply of net-zero technologies**;
+- (a) ~~the market situation at Union level, as identified through monitoring activities,~~ ~~including~~ declining Union market shares ~~and~~ **,** Union industry producing below capacity**, or high-risk dependencies on a third country which are** **detrimental to the security of supply of net-zero technologies**;
 
 - (b) the contribution of the requirements to the Union’s objective of ~~public order,~~ economic security, resilience and climate neutrality **set out in Regulation** **(EU) 2021/1119**;
 
-- (c) the impact of setting Union origin requirements~~, low-carbon requirements, or~~ ~~both~~ on the overall competitiveness ~~and greenhouse gas emissions~~ of the relevant sectors, as well as on downstream costs for consumers and small and medium enterprises and on public budgets.
+- (c) the impact of setting Union origin requirements ~~, low-carbon requirements, or~~ ~~both~~ on the overall competitiveness ~~and greenhouse gas emissions~~ of the relevant sectors, as well as on downstream costs for consumers and small and medium enterprises and on public budgets.
 
 - (d) demand for the relevant products or technologies **that cannot be met by** **available Union manufacturing capacity**.
 
@@ -1466,7 +1469,7 @@ Done at Brussels,
 For the European Parliament For the Council The President The President
 
 <a id="annex-i"></a>
-## Annex I – StrategicPriority sectors for industrial manufacturing acceleration
+## Annex I – ~~Strategic~~ Priority sectors for industrial manufacturing acceleration
 
 1. Energy-intensive industries:
 
@@ -1492,11 +1495,9 @@ ANNEX I COMPET. ^(1) **LIMITE EN**
 ## Annex II – Low-carbon and Union origin requirements for energy intensive industries
 
 <a id="annex-ii-part-i"></a>
-### Part I
+### Part I – ~~Part I –~~ Public procurement procedures
 
-**~~Part I –~~** **Public procurement procedures**
-
-Where, in the context of public procurement procedures for which the call for competition or commencement takes place on or after 1 January 2029 falling within the scope of Directives 2014/23/EU, 2014/24/EU or 2014/25/EU, where the contracts, works contracts or work concessions include the procurement of products ~~from energy intensive industries~~**set out under points (a) to** **(c)**, contracting authorities and contracting entities shall require the following minimum percentage shares:
+Where, in the context of public procurement procedures for which the call for competition or commencement takes place on or after 1 January 2029 falling within the scope of Directives 2014/23/EU, 2014/24/EU or 2014/25/EU, where the contracts, works contracts or work concessions include the procurement of products ~~from energy intensive industries~~ **set out under points (a) to** **(c)**, contracting authorities and contracting entities shall require the following minimum percentage shares:
 
 - (a) Steel, and any product the performance of which depends mainly on steel, intended for use in buildings, infrastructure and motor vehicles for civil purposes: at least 25% of the total volume of steel used shall be low-carbon and of Union origin;
 
@@ -1509,9 +1510,7 @@ Where, in the context of public procurement procedures for which the call for co
 ANNEX II COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-ii-part-ii"></a>
-### Part II
-
-**~~Part II –~~** **Other forms of public intervention**
+### Part II – ~~Part II –~~ Other forms of public intervention
 
 For schemes established or updated on or after 1 January 2029 that benefit households or companies and that primarily aim to support the construction or renovation of buildings for residential and commercial purposes and infrastructure and the lease and purchase of motor vehicles for civil purposes, Member States, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law, shall ensure that only beneficiaries that comply with the following minimum requirements, are eligible.
 
@@ -1549,30 +1548,28 @@ ANNEX II COMPET. ^(1) **LIMITE EN**
 
 ANNEX III COMPET. ^(1) **LIMITE EN**
 
-<a id="annex-iii-part-iii"></a>
-### Part III
+<a id="annex-iii-part-ii"></a>
+### Part ~~I~~ II – ~~Part I –~~ Public procurement procedures of electric vehicles
 
-**~~Part I –~~** **Public procurement procedures of electric vehicles**
-
-New pure electric vehicles (PEV), off-vehicle charging hybrid electric vehicles (OVC-HEV) or fuel cell vehicles (FCV) purchased, leased, rented or hire-purchased in public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, for which the call for competition **has been sent** or commencement takes place on or after [OP: Please insert the date = six months after the date of entry into force of this Regulation] shall comply with ~~the~~ Union origin requirements set out **above in Part I of**~~in~~ this Annex **and the definition of Union Origin as per** **Article 8 of this regulation**.
+New pure electric vehicles (PEV), off-vehicle charging hybrid electric vehicles (OVC-HEV) or fuel cell vehicles (FCV) purchased, leased, rented or hire-purchased in public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, for which the call for competition **has been sent** or commencement takes place on or after [OP: Please insert the date = six months after the date of entry into force of this Regulation] shall comply with ~~the~~ Union origin requirements set out **above in Part I of** ~~in~~ this Annex **and the definition of Union Origin as per** **Article 8 of this regulation**.
 
 New PEV, OVC-HEV and FCV that are used for the provision of services sourced through public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, shall comply with ~~the~~ Union origin requirements set out in **Part I of** this Annex **and** **the definition of Union Origin as per Article 8 of this regulation**.
 
 ~~Motor vehicles referred to in subparagraphs 1 and 2 shall include the following Union origin~~ ~~requirements:~~
 
-- (a) ~~the motor vehicle is assembled within the Union;~~
+- ~~(a) the motor vehicle is assembled within the Union;~~
 
-- (b) ~~the ratio between the total ex-works price of vehicle components - excluding the vehicle~~ ~~battery - originating in the Union and the total ex-works price of all components –~~ ~~excluding the battery – is at least 70%;~~
+- ~~(b) the ratio between the total ex-works price of vehicle components - excluding the vehicle~~ ~~battery - originating in the Union and the total ex-works price of all components –~~ ~~excluding the battery – is at least 70%;~~
 
-- (c) ~~the vehicle’s traction battery contains at least three main specific components of batteries,~~ ~~among which the battery cells, originating in the Union;~~
+- ~~(c) the vehicle’s traction battery contains at least three main specific components of batteries,~~ ~~among which the battery cells, originating in the Union;~~
 
-- (d) ~~the vehicle’s traction battery contains at least five main specific components of batteries,~~ ~~among which the battery cells, the cathode active material, and the battery management~~ ~~system, originating in the Union;~~
+- ~~(d) the vehicle’s traction battery contains at least five main specific components of batteries,~~ ~~among which the battery cells, the cathode active material, and the battery management~~ ~~system, originating in the Union;~~
 
-- (e) ~~the ratio between the total ex-works price of e-powertrain components originating in the~~ ~~Union and the total ex-works price of all e-powertrain components is at least 50%;~~
+- ~~(e) the ratio between the total ex-works price of e-powertrain components originating in the~~ ~~Union and the total ex-works price of all e-powertrain components is at least 50%;~~
 
 ANNEX III COMPET. ^(1) **LIMITE EN**
 
-- (f) ~~the ratio between the total ex-works price of main electronic systems originating in the~~ ~~Union and the total ex-works price of all main electronic systems is equal to or greater than~~ ~~50%.~~
+- ~~(f) the ratio between the total ex-works price of main electronic systems originating in the~~ ~~Union and the total ex-works price of all main electronic systems is equal to or greater than~~ ~~50%.~~
 
 ~~The requirements set out in points d), e) and f) apply from [OP: please insert date 3 years after the~~ ~~date of entry into force of this Regulation].~~
 
@@ -1586,17 +1583,14 @@ ANNEX III COMPET. ^(1) **LIMITE EN**
 
 - (b) ~~the vehicle’s traction battery contains at least three main specific components of~~ ~~batteries, among which the battery cells, originating in the Union.~~
 
-~~All PEV, OVC-HEV or FCV from a vehicle manufacturer can be considered compliant, for a period~~ ~~of twelve months, with the Union origin requirements if the manufacturer provides a self-~~ ~~declaration that the total number of all PEV, OVC-HEC or FCV compliant with the Union origin~~ ~~requirements that were assembled by that vehicle manufacturer during the period from 1 January to~~ ~~31 December (included) of the previous year represent a percentage equal or greater than 85% of~~ ~~the total number of PEV, OVC-HEV or FCV from the same vehicle manufacturer that were~~ ~~registered within the Union in the same period.~~**[moved to Article 15a]**
+~~All PEV, OVC-HEV or FCV from a vehicle manufacturer can be considered compliant, for a period~~ ~~of twelve months, with the Union origin requirements if the manufacturer provides a self-~~ ~~declaration that the total number of all PEV, OVC-HEC or FCV compliant with the Union origin~~ ~~requirements that were assembled by that vehicle manufacturer during the period from 1 January to~~ ~~31 December (included) of the previous year represent a percentage equal or greater than 85% of~~ ~~the total number of PEV, OVC-HEV or FCV from the same vehicle manufacturer that were~~ ~~registered within the Union in the same period.~~ **[moved to Article 15a]**
 
 Where public procurement procedures concern public service contracts ~~referred to in~~ ~~subparagraph 2~~, motor vehicles already registered in the Union shall be deemed to comply with the **Union origin** requirements set out in this Annex until 31 December 2035.
 
 ANNEX III COMPET. ^(1) **LIMITE EN**
 
-<a id="annex-iii-part-iiiii"></a>
-### Part IIIII
-
-<a id="annex-iii-part-ii"></a>
-### Part II – Other forms of public intervention and financial
+<a id="annex-iii-part-iii"></a>
+### Part ~~II~~ III – ~~Part II –~~ Other forms of public intervention ~~and financial~~
 
 **~~support for corporate vehicles~~**
 
@@ -1634,12 +1628,10 @@ ANNEX III COMPET. ^(1) **LIMITE EN**
 
 ANNEX III COMPET. ^(1) **LIMITE EN**
 
-<a id="annex-iii-part-iiiiv"></a>
-### Part IIIIV
+<a id="annex-iii-part-iv"></a>
+### Part ~~III~~ IV – ~~Part III –~~ Super credits for small zero-emission vehicles
 
-**~~Part III –~~** **Super credits for small zero-emission vehicles**
-
-For the purpose of considering vehicles as “made in the EU” in accordance with Article 5 of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission performance standards for new light duty vehicles and vehicle labelling], the ~~following criteria~~**definition of Union origin in Article 7 of** **this regulation and the below requirements** apply~~:~~**.**
+For the purpose of considering vehicles as “made in the EU” in accordance with Article 5 of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission performance standards for new light duty vehicles and vehicle labelling], the ~~following criteria~~ **definition of Union origin in Article 7 of** **this regulation and the below requirements** apply ~~:~~ **.**
 
 **Small electric vehicles of subcategory M1E, as defined in Regulation (EU) 2018/858, shall** **include the following Union origin requirements:**
 
@@ -1662,7 +1654,7 @@ Annexes I and II are amended as follows:
 
 - (a) the following row ‘Permit-granting procedures’ is added in the table for ‘Areas of information related to businesses’ before the row ‘AJ. Critical raw materials projects’:
 
-‘‘~~Permit granting~~**Permit-granting** Information on permit-granting procedures procedures for industrial manufacturing projects including Net-zero technology manufacturing and critical raw material projects.’;’ (b) in row ‘R. Net-zero technology manufacturing projects’, in the second column, point 1 is deleted;
+‘‘ ~~Permit granting~~ **Permit-granting** Information on permit-granting procedures procedures for industrial manufacturing projects including Net-zero technology manufacturing and critical raw material projects.’;’ (b) in row ‘R. Net-zero technology manufacturing projects’, in the second column, point 1 is deleted;
 
 - (c) in row ‘AJ. Critical raw materials projects’, in the second column, point 2 is deleted;
 

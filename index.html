@@ -10,14 +10,14 @@
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
-:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
-:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; }
 :root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
 @media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
 :root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
 @media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
-  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; }
   html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
 
 :root {
@@ -32,10 +32,11 @@
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--s-sans); font-variant-numeric: tabular-nums; }
-a { color: var(--s-accent); text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); text-underline-offset: 3px; }
+a { color: var(--s-accent); text-decoration-color: color-mix(in srgb, currentColor 70%, transparent); text-underline-offset: 3px; }
 a:hover { text-decoration-color: currentColor; }
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 .wrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 48px; }
+@media (max-width: 700px) { .wrap { padding-inline: 16px; } }   /* the gutter of the navigation bar and every page */
 /* masthead line: title, then week, as-of date, profile and search */
 header.top { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline; justify-content: space-between;
   padding: 8px 0 10px; border-bottom: 3px solid var(--s-rule); }
@@ -100,7 +101,7 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
 .chips::before { content: "Rating for this profile"; font-weight: 600; font-size: 14.5px; margin-right: 4px; }
 .chip { display: inline-flex; gap: 7px; align-items: center; cursor: pointer; font: inherit; font-size: 14.5px; color: var(--ink);
   background: none; border: 0; border-bottom: 2px solid transparent; padding: 4px 0; min-height: 32px; }
-.chip .dot { width: 12px; height: 12px; background: var(--c); flex: none; }
+.chip .dot { width: 12px; height: 12px; background: var(--dot, var(--c)); border: 1.5px solid var(--edge, var(--c)); flex: none; }
 .chip .n { font-weight: 600; color: var(--muted); }
 .chip[aria-pressed="true"] { border-bottom-color: var(--ink); font-weight: 600; }
 .chip:hover { border-bottom-color: var(--line); }
@@ -112,7 +113,7 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
 .key .sw { width: 22px; height: 10px; border: 1px solid var(--s-operate); display: inline-block; }
 .key .sw.pale { background: var(--s-operate-pale); } .key .sw.solid { background: var(--s-operate); }
 .key .sw.hatch { border-style: dashed; background: repeating-linear-gradient(135deg, color-mix(in srgb, var(--s-operate) 45%, transparent) 0 2px, transparent 2px 7px); }
-.key .sw.band { background: var(--band); border-color: transparent; }
+.key .sw.band { position: static; background: var(--band); border-color: transparent; }   /* not the drawing's .band below */
 .key .dm { width: 9px; height: 9px; transform: rotate(45deg); border: 1.5px solid var(--ink); background: var(--panel); display: inline-block; margin: 0 2px; }
 .key .dm.ob { background: var(--ink); }
 .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; align-items: start; }
@@ -142,7 +143,7 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
   position: sticky; left: 0; z-index: 5; background: var(--panel); border-right: 1px solid var(--grid);
   border-bottom: 1px solid var(--grid); margin-bottom: -1px; }   /* covers the row's own rule, so no line shows through */
 .axis .corner { position: sticky; left: 0; z-index: 7; background: var(--panel); border-right: 1px solid var(--grid); }
-.row .name .dot { width: 10px; height: 10px; background: var(--c); flex: none; }
+.row .name .dot { width: 10px; height: 10px; background: var(--dot, var(--c)); border: 1.5px solid var(--edge, var(--c)); flex: none; }
 .row .track { position: relative; }
 .row:hover, .row[aria-current="true"] { background: var(--s-tint); }
 .row:hover .name, .row[aria-current="true"] .name { background: var(--s-tint); }
@@ -195,7 +196,7 @@ kbd { font: 12px var(--mono); border: 1px solid var(--line); border-bottom-width
 .detail h3 { margin: 0 0 2px; font: 600 20px/1.25 var(--s-serif); }
 .detail .meta { color: var(--muted); font-size: 14px; margin: 0 0 12px; }
 .badge { display: inline-flex; align-items: center; gap: 7px; font-size: 14.5px; font-weight: 600; }
-.badge .dot { width: 11px; height: 11px; background: var(--c); }
+.badge .dot { width: 11px; height: 11px; background: var(--dot, var(--c)); border: 1.5px solid var(--edge, var(--c)); }
 .detail h4 { font-size: 15px; font-weight: 700; margin: 18px 0 6px; padding-bottom: 4px; border-bottom: 1.5px solid var(--s-rule); }
 .detail p { margin: 0 0 8px; }
 .ms-list { list-style: none; margin: 0; padding: 0; }
@@ -227,21 +228,26 @@ footer { color: var(--muted); font-size: 14px; margin-top: 24px; line-height: 1.
 <script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script>
 </head>
 <body>
-<div class="wrap">
-  <style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+<style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
-:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; } }
-:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; color-scheme: dark; }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; }
 :root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
 @media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
 :root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
 @media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
-  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; }
   html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
 
+/* the bar sits in its own wrapper, a direct child of <body>, at the same place on every page: the 1320px column of
+   the start page and the act pages, 24px gutter, 16px at 700px and below (owner's report of 15 Oct 2026) */
+.navwrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 0; }
+@media (max-width: 700px) { .navwrap { padding-inline: 16px; } }
+.navwrap + .wrap { padding-top: 0; }   /* the bar's wrapper gives the space above; the content column follows 14px below */
+@media print { .navwrap { display: none !important; } }
 .sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
   border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
 .sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
@@ -250,15 +256,28 @@ footer { color: var(--muted); font-size: 14px; margin-top: 24px; line-height: 1.
 .sitenav a.item:hover { border-bottom-color: var(--s-hair); }
 .sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
 .sitenav .brandbox { display: inline-flex; margin-right: 10px; }
-.sitenav a.repo { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+/* the theme choice and the GitHub mark, kept together at the right */
+.sitenav .navend { margin-left: auto; display: inline-flex; align-items: center; gap: 14px; }
+.sitenav a.repo { display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
   text-decoration: none; padding: 6px 0; white-space: nowrap; }
 .sitenav a.repo span { display: none; }   /* the icon alone */
-.sitenav a:focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+/* light, dark or as the system: three quiet icon buttons, the chosen one petrol and underlined like the current
+   section; shown only with JavaScript, which applies and stores the choice (rt:theme, read by sitestyle.PREFS_JS) */
+.sitenav .theme { display: inline-flex; align-items: center; gap: 2px; }
+.sitenav .theme button { display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px;
+  padding: 0; margin: 0; font: inherit; color: var(--s-ink2); background: none; border: 0;
+  border-bottom: 2px solid transparent; border-radius: 0; cursor: pointer; }
+.sitenav .theme button:hover { color: var(--s-ink); border-bottom-color: var(--s-hair); }
+.sitenav .theme button[aria-pressed="true"] { color: var(--s-accent); border-bottom-color: var(--s-accent); }
+.sitenav .theme svg { display: block; }
+.sitenav .brk { display: none; }
+.sitenav :is(a, button):focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
 @media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; } }
-/* phones: brand and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+/* phones: brand, theme and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
 @media (max-width: 640px) { .sitenav { gap: 2px 14px; }
-  .sitenav .brandbox { order: -2; flex: 1 0 calc(100% - 40px); margin-right: 0; }
-  .sitenav a.repo { order: -1; margin-left: 0; }
+  .sitenav .brandbox { order: -3; flex: 1 0 auto; margin-right: 0; }
+  .sitenav .navend { order: -2; }
+  .sitenav .brk { display: block; order: -1; flex-basis: 100%; height: 0; }
   .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
 .sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
   font: 14px/1.5 var(--s-sans); }
@@ -273,12 +292,14 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
 /* a column with nothing in any row (sitestyle.phone_tables) */
 [data-gone] { display: none !important; }
+/* WCAG 2.2 SC 2.5.8: a short link side by side with another (a language, a lone ↗) is a target of at least 24 by 24px */
+a.tgt { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; text-align: center; }
 /* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
 a.ext::after { content: "\00a0\2197"; font-size: .85em; }
 /* "Show all n" under a folded table (sitestyle.fold_tables) */
 p.showmore { margin: 6px 0 0; }
 button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
-  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent);
   text-underline-offset: 3px; }
 button.showmore:hover { text-decoration-color: currentColor; }
 /* phones: headings and dates of a narrow table wrap rather than run off the screen */
@@ -322,7 +343,8 @@ button.showmore:hover { text-decoration-color: currentColor; }
 @media print { img { filter: none !important; } }
 ::selection { background: var(--s-accent-tint); color: var(--s-ink); }
 html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
-</style><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></nav><main id="main">
+</style><div class="navwrap"><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" aria-current="page">Timeline</a><a class="item" href="acts/index.html">Regulations</a><a class="item" href="procedures/index.html">Procedures</a><a class="item" href="forecast/index.html">Forecast</a><a class="item" href="news/index.html">News</a><a class="item" href="procedures/changes.html">Latest activity</a><a class="item" href="procedures/standardisation.html">Standards</a><a class="item" href="procedures/committees.html">Committees</a><a class="item" href="texts/index.html">Texts</a><a class="item" href="graphics.html">Graphics</a><span class="navend"><span class="theme" role="group" aria-label="Colour scheme" hidden><button type="button" data-scheme="light" aria-pressed="false" aria-label="Light" title="Light"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="3"/><path d="M8 1v2M8 13v2M1 8h2M13 8h2M3 3l1.4 1.4M11.6 11.6 13 13M3 13l1.4-1.4M11.6 4.4 13 3" stroke-linecap="round"/></svg></button><button type="button" data-scheme="dark" aria-pressed="false" aria-label="Dark" title="Dark"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 9.5A5.5 5.5 0 0 1 6.5 2.5a5.5 5.5 0 1 0 7 7z" stroke-linejoin="round"/></svg></button><button type="button" data-scheme="" aria-pressed="false" aria-label="As the system setting" title="As the system setting"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><path d="M8 2a6 6 0 0 1 0 12z" fill="currentColor" stroke="none"/></svg></button></span><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></span><span class="brk" aria-hidden="true"></span></nav><script>(function(){var d=document.documentElement,w=document.currentScript.parentNode,g=w&&w.querySelector('.theme');if(!g)return;var bs=g.querySelectorAll('button');function show(){var t=d.dataset.theme||'';bs.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.scheme===t));});}function apply(t){if(t)d.dataset.theme=t;else delete d.dataset.theme;show();try{document.dispatchEvent(new CustomEvent('rt:theme',{detail:t}));}catch(e){}}bs.forEach(function(b){b.addEventListener('click',function(){var t=b.dataset.scheme;try{if(t)localStorage.setItem('rt:theme',t);else localStorage.removeItem('rt:theme');}catch(e){}apply(t);});});addEventListener('storage',function(e){if(e.key==='rt:theme')apply(e.newValue||'');});g.hidden=false;show();})();</script></div>
+<div class="wrap"><main id="main">
   <header class="top">
     <div class="headline">
       <h1 id="title">EU digital and product regulation</h1>
@@ -333,7 +355,6 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
       <label class="sr" for="q">Search acts</label>
       <input id="q" type="search" placeholder="Search acts, e.g. CRA" autocomplete="off">
       <kbd aria-hidden="true">/</kbd>
-      <button class="btn" type="button" id="theme" aria-label="Switch between light and dark">Dark</button>
       <output class="q-n" id="q-n" for="q" aria-live="polite"></output>
     </div>
   </header>
@@ -509,7 +530,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 <div class="sitefoot">EU regulation timeline, a private project by <a href="about.html">Steffen Zimmermann</a> · <a href="LICENSE.md">CC BY 4.0</a></div></main></div>
 
 <script type="application/json" id="data">{
- "as_of": "2026-10-15",
+ "as_of": "2026-10-16",
  "horizon": {
   "start": "2024-01-01",
   "end": "2031-01-01"
@@ -630,6 +651,14 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
        "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
        "art": "Art. 71",
        "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.en.md#art-71"
+      },
+      {
+       "date": "2028-06-11",
+       "label": "Certificates under other acts (Art. 69(1))",
+       "obligation": false,
+       "url": "http://data.europa.eu/eli/reg/2024/2847/oj",
+       "art": "Art. 69",
+       "md": "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/2024-11-20_oj.en.md#art-69"
       }
      ],
      "related": [
@@ -1501,6 +1530,13 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
        "page": null
       },
       {
+       "id": "internal-market-emergency-directive",
+       "title": "Internal market emergency directive",
+       "url": "http://data.europa.eu/eli/dir/2024/2749/oj",
+       "row": null,
+       "page": null
+      },
+      {
        "id": "gpsr",
        "title": "General Product Safety Regulation",
        "url": "http://data.europa.eu/eli/reg/2023/988/oj",
@@ -2260,18 +2296,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
   const active = new Set();
   let query = "";
 
-  // Theme toggle (default follows the system)
-  const savedTheme = store.get("theme");
-  if (savedTheme) document.documentElement.dataset.theme = savedTheme;
-  const themeNow = () => document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-  const themeLabel = () => { $("#theme").textContent = themeNow() === "dark" ? "Light" : "Dark"; };
-  themeLabel();
-  $("#theme").addEventListener("click", () => {
-    const next = themeNow() === "dark" ? "light" : "dark";
-    document.documentElement.dataset.theme = next;
-    store.set("theme", next);
-    themeLabel();
-  });
+  // Light, dark or the system setting: the switch in the navigation bar, the same on every page (tools/sitenav.py)
 
   // Colours of the rating: one hue (default) or by rank; remembered, and read by the act pages too
   const paletteNow = () => document.documentElement.dataset.palette === "rank" ? "rank" : "calm";
@@ -2288,7 +2313,8 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 
   const P = () => D.profiles[profileKey];
   const rowsOf = () => P().rows;
-  const cvars = c => `--c: var(--${c}); --cp: var(--${c}-pale);`;
+  // "Low relevance" is an outline square: told apart from "Monitor" by its shape, not by tone alone (DESIGN.md)
+  const cvars = c => `--c: var(--${c}); --cp: var(--${c}-pale);` + (c === "low" ? " --dot: transparent; --edge: var(--s-low-line);" : "");
 
   function stateOn(row, date) {
     const t = day(date);

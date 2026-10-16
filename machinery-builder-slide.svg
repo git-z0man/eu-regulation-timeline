@@ -6,11 +6,11 @@
 <text font-size="20" fill="#222222" text-anchor="start" font-family='"Source Serif 4", Georgia, serif' font-weight="600"><tspan x="24.0" y="29.0">EU digital and product regulation – Machinery builder</tspan></text>
 </g>
 <g class="tl-sub">
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 15 Oct 2026. An orientation for planning, not legal advice.</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 16 Oct 2026. An orientation for planning, not legal advice.</tspan></text>
 </g>
 <g class="tl-span" data-top="88" data-bottom="1054" data-kx="1480" data-width="1500">
-<rect x="753.8" y="88.0" width="169.9" height="966.0" fill="#e3eeef" stroke="none" opacity="0.7"/>
-<text font-size="10" fill="#0f5a63" text-anchor="start" font-weight="bold"><tspan x="753.8" y="81.5">as of 15 Oct 2026 · shaded: the next 12 months</tspan></text>
+<rect x="754.3" y="88.0" width="169.9" height="966.0" fill="#e3eeef" stroke="none" opacity="0.7"/>
+<text font-size="10" fill="#0f5a63" text-anchor="start" font-weight="bold"><tspan x="754.3" y="81.5">as of 16 Oct 2026 · shaded: the next 12 months</tspan></text>
 <line x1="280.0" y1="88.0" x2="280.0" y2="1054.0" stroke="#d0d4d8" stroke-width="1"/>
 <line x1="450.3" y1="88.0" x2="450.3" y2="1054.0" stroke="#d0d4d8" stroke-width="1"/>
 <line x1="620.2" y1="88.0" x2="620.2" y2="1054.0" stroke="#d0d4d8" stroke-width="1"/>
@@ -40,9 +40,11 @@
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><title>Notified bodies: 11 Jun 2026 (Art. 71)</title><polygon points="695.1676933607118,166.0 701.1676933607118,172.0 695.1676933607118,178.0 689.1676933607118,172.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="614.2" y="160.0">Notified bodies</tspan></text></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><title>Reporting Art. 14: 11 Sep 2026 (Art. 71)</title><polygon points="737.987679671458,166.0 743.987679671458,172.0 737.987679671458,178.0 731.987679671458,172.0" fill="#14181c" stroke="#ffffff" stroke-width="1.5"/></a>
-<a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="761.8" y="192.0">Reporting Art. 14</tspan></text></a>
+<a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="762.3" y="192.0">Reporting Art. 14</tspan></text></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><title>Full application: 11 Dec 2027 (Art. 71)</title><polygon points="950.2258726899383,166.0 956.2258726899383,172.0 950.2258726899383,178.0 944.2258726899383,172.0" fill="#14181c" stroke="#ffffff" stroke-width="1.5"/></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="946.2" y="160.0">Full application</tspan></text></a>
+<a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><title>Certificates under other acts (Art. 69(1)): 11 Jun 2028 (Art. 69)</title><polygon points="1035.400410677618,166.0 1041.400410677618,172.0 1035.400410677618,178.0 1029.400410677618,172.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
+<a xlink:href="http://data.europa.eu/eli/reg/2024/2847/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="1031.4" y="192.0">Certificates under other acts (Art. 69(1))</tspan></text></a>
 <line x1="20.0" y1="196.0" x2="1480.0" y2="196.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-row" data-row="red-cyber" data-group="Cybersecurity" data-y="196" data-h="48" data-compact="48">
@@ -142,7 +144,7 @@
 <line x1="20.0" y1="640.0" x2="1480.0" y2="640.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-row" data-row="imera" data-group="Product framework" data-y="640" data-h="48" data-compact="48">
-<g><title>low: low relevance for this profile</title><rect x="20.0" y="659.0" width="10.0" height="10.0" fill="#cdd1d4" stroke="none"/></g>
+<g><title>low: low relevance for this profile</title><rect x="20.8" y="659.8" width="8.5" height="8.5" fill="#ffffff" stroke="#8a9096" stroke-width="1.5"/></g>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2747/oj" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="667.9">IMERA – Reg. 2024/2747</tspan></text></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2747/oj" target="_blank"><rect x="434.5" y="657.0" width="254.6" height="14.0" fill="#f1f2f3" stroke="#8a9096"/></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/2747/oj" target="_blank"><rect x="689.1" y="657.0" width="781.0" height="14.0" fill="#cdd1d4" stroke="#8a9096"/></a>
@@ -171,7 +173,7 @@
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="811.9">NSR (revision of Reg. 1025/2012)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780" target="_blank"><rect x="749.6" y="801.0" width="294.6" height="14.0" fill="url(#hatch-7a8b8e)" stroke="#7a8b8e" stroke-dasharray="6 3" stroke-width="1.2"/></a>
 <a xlink:href="http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1" target="_blank"><title>COM(2026) 780: 06 Oct 2026</title><polygon points="749.6235455167694,802.0 755.6235455167694,808.0 749.6235455167694,814.0 743.6235455167694,808.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="761.8" y="796.0">COM(2026) 780</tspan></text></a>
+<a xlink:href="http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="762.3" y="796.0">COM(2026) 780</tspan></text></a>
 <line x1="20.0" y1="832.0" x2="1480.0" y2="832.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-row" data-row="digitalisation" data-group="Product framework" data-y="832" data-h="48" data-compact="48">
@@ -193,7 +195,7 @@
 <text font-size="12" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="24.0" y="900.2">Industrial policy</tspan></text>
 </g>
 <g class="tl-row" data-row="nzia" data-group="Industrial policy" data-y="910" data-h="48" data-compact="48">
-<g><title>low: low relevance for this profile</title><rect x="20.0" y="929.0" width="10.0" height="10.0" fill="#cdd1d4" stroke="none"/></g>
+<g><title>low: low relevance for this profile</title><rect x="20.8" y="929.8" width="8.5" height="8.5" fill="#ffffff" stroke="#8a9096" stroke-width="1.5"/></g>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/1735/oj" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="937.9">Net Zero Industry Act</tspan></text></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/1735/oj" target="_blank"><rect x="363.8" y="927.0" width="1106.3" height="14.0" fill="#cdd1d4" stroke="#8a9096"/></a>
 <a xlink:href="http://data.europa.eu/eli/reg/2024/1735/oj" target="_blank"><title>Auctions: resilience and cyber criteria: 30 Dec 2025 (Art. 49)</title><polygon points="619.3018480492813,928.0 625.3018480492813,934.0 619.3018480492813,940.0 613.3018480492813,934.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
@@ -207,7 +209,7 @@
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="985.9">Public Procurement Act</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><rect x="737.1" y="975.0" width="392.8" height="14.0" fill="url(#hatch-7a8b8e)" stroke="#7a8b8e" stroke-dasharray="6 3" stroke-width="1.2"/></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><title>Proposal: 09 Sep 2026</title><polygon points="737.056810403833,976.0 743.056810403833,982.0 737.056810403833,988.0 731.056810403833,982.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="761.8" y="970.0">Proposal</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="762.3" y="970.0">Proposal</tspan></text></a>
 <line x1="20.0" y1="1006.0" x2="1480.0" y2="1006.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-row" data-row="iaa" data-group="Industrial policy" data-y="1006" data-h="48" data-compact="48">
@@ -219,7 +221,7 @@
 <line x1="20.0" y1="1054.0" x2="1480.0" y2="1054.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-span">
-<line x1="753.8" y1="88.0" x2="753.8" y2="1054.0" stroke="#0f5a63" stroke-width="2"/>
+<line x1="754.3" y1="88.0" x2="754.3" y2="1054.0" stroke="#0f5a63" stroke-width="2"/>
 </g>
 <g class="tl-foot">
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1088.8">Rating</tspan></text>
@@ -231,7 +233,7 @@
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="675.6" y="1088.5">In operation: nothing new soon</tspan></text>
 <rect x="928.4" y="1079.0" width="12.0" height="12.0" fill="#a7b7ba" stroke="none"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="946.4" y="1088.5">Monitor: proposal or procedure</tspan></text>
-<rect x="1199.2" y="1079.0" width="12.0" height="12.0" fill="#cdd1d4" stroke="none"/>
+<rect x="1200.0" y="1079.8" width="10.5" height="10.5" fill="#ffffff" stroke="#8a9096" stroke-width="1.5"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="1217.2" y="1088.5">Low relevance for this profile</tspan></text>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1112.8">State</tspan></text>
 <rect x="116.0" y="1103.0" width="26.0" height="12.0" fill="#dde8e9" stroke="#4f6f73"/>

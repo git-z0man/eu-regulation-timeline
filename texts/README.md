@@ -96,7 +96,7 @@ All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
 
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-13_oj | oj | 32026D2274 | [en](ai-act/implementing-decision-2026-2274/2026-10-13_oj.en.md) | [de](ai-act/implementing-decision-2026-2274/2026-10-13_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/implementing-decision-2026-2274/2026-10-13_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026D2274) |
+| 2026-10-14_oj | oj | 32026D2274 | [en](ai-act/implementing-decision-2026-2274/2026-10-14_oj.en.md) | [de](ai-act/implementing-decision-2026-2274/2026-10-14_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/implementing-decision-2026-2274/2026-10-14_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026D2274) |
 
 ## Implementing Regulation (EU) 2025/454
 
@@ -688,6 +688,18 @@ All texts of this act as one file: [industrial-accelerator-act.zip](downloads/in
 | 2026-09-02_council-compromise-st-12236-26-rev-1 | council-compromise | ST 12236/26 REV 1 | [en](industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) |
 | 2026-09-03_council-compromise-wk-13361-26 | council-compromise | WK 13361/26 | [en](industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf) |
 | 2026-09-11_ep-draft-report-pe792-067 | ep-draft-report | PE792.067 | [en](industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) | [de](industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_de.docx) |
+
+## IMERA directive
+
+`internal-market-emergency-directive` – Directive (EU) 2024/2749 of the European Parliament and of the Council of 9 October 2024 amending Directives 2000/14/EC, 2006/42/EC, 2010/35/EU, 2014/29/EU, 2014/30/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU and 2014/68/EU as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency
+
+All texts of this act as one file: [internal-market-emergency-directive.zip](downloads/internal-market-emergency-directive.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-11-08_oj | oj | 32024L2749 | [en](internal-market-emergency-directive/2024-11-08_oj.en.md) | [de](internal-market-emergency-directive/2024-11-08_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/internal-market-emergency-directive/2024-11-08_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2749) |
+| 2025-04-22_corrigendum-01 | corrigendum | 32024L2749R(01) | [en](internal-market-emergency-directive/2025-04-22_corrigendum-01.en.md) | [de](internal-market-emergency-directive/2025-04-22_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/internal-market-emergency-directive/2025-04-22_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2749R(01)) |
+| 2025-09-17_corrigendum-02 | corrigendum | 32024L2749R(02) | [en](internal-market-emergency-directive/2025-09-17_corrigendum-02.en.md) | [de](internal-market-emergency-directive/2025-09-17_corrigendum-02.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/internal-market-emergency-directive/2025-09-17_corrigendum-02.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2749R(02)) |
 
 ## IMERA omnibus
 
