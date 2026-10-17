@@ -127,7 +127,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | PE796.485 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-13 | PE796.501 | ep-amendments | – | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-15.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
 
 ## Texts as Markdown
 

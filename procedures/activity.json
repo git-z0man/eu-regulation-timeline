@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "date": "2026-10-16",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 634",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
+   "key": "eso-DEN/CYBER-EUS-003-2026-10-16",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-15",
    "act": "cra",
    "title": "CRA",
@@ -151,18 +163,6 @@
    "doc_title": "Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the …",
    "withheld_since": "2026-09-25",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Drafting Stage – Stable draft",
-   "doc": "EN 304 634",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
-   "key": "eso-DEN/CYBER-EUS-003-2026-10-13",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-12",
@@ -541,10 +541,10 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29",
-   "key": "Committee opinion adopted",
+   "label": "ENVI opinion adopted",
+   "doc": "PE789.106",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf",
+   "key": "PE789.106",
    "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
@@ -5316,7 +5316,7 @@
    "label": "EN 303 098 – Harmonised Standard for access to radio spectrum: Drafting Stage – Early draft",
    "doc": "EN 303 098",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73759",
-   "key": "eso-REN/ERM-TGMAR-637-2026-03-04",
+   "key": "eso-REN/ERM-WGMAR-637-2026-03-04",
    "page": null,
    "type": "Standardisation"
   },

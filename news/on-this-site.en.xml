@@ -4,7 +4,7 @@
 <id>https://git-z0man.github.io/eu-regulation-timeline/news/on-this-site.en.xml</id>
 <link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/on-this-site.en.xml"/>
 <link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
-<updated>2026-10-16T00:00:00Z</updated>
+<updated>2026-10-17T00:00:00Z</updated>
 <author><name>Steffen Zimmermann (EU regulation timeline)</name></author>
 <entry><title>Easier to see and to tap: links keep a clearer underline, and &quot;Low relevance&quot; is an outline square</title><id>tag:git-z0man.github.io,2026:news/site/2026-10-15/links-and-ratings</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="On this site"/><updated>2026-10-15T00:00:00Z</updated><summary>Links in lists and tables are at least 24 pixels high; the rating &quot;Low relevance&quot; no longer looks like &quot;Monitor&quot;, on the pages and in the timeline drawings.</summary></entry>
 <entry><title>Easier to read on phones and tablets: wide tables as one block per entry, long tables folded</title><id>tag:git-z0man.github.io,2026:news/site/2026-10-11/phone-tablet-views</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="On this site"/><updated>2026-10-11T00:00:00Z</updated><summary>The timeline on a phone opens at today; dates no longer break across lines; links to other sites open in a new tab with ↗; drawings are dimmed in dark mode.</summary></entry>

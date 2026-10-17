@@ -38,7 +38,7 @@
   {
     "name": "forecast-nis2-amendment",
     "title": "Forecast: NIS-2 amendment",
-    "note": "Step by step; Official Journal median Dec 2027.",
+    "note": "Step by step; Official Journal median Jan 2028.",
     "page": "nis2-amendment.html"
   },
   {
@@ -46,6 +46,12 @@
     "title": "Forecast: Digital Omnibus",
     "note": "Step by step; Official Journal median Mar 2028.",
     "page": "digital-omnibus.html"
+  },
+  {
+    "name": "forecast-medical-devices-simplification",
+    "title": "Forecast: MDR/IVDR simplification",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "medical-devices-simplification.html"
   },
   {
     "name": "forecast-industrial-accelerator-act",
@@ -58,12 +64,6 @@
     "title": "Forecast: Cybersecurity Act 2",
     "note": "Step by step; Official Journal median May 2028.",
     "page": "csa2.html"
-  },
-  {
-    "name": "forecast-medical-devices-simplification",
-    "title": "Forecast: MDR/IVDR simplification",
-    "note": "Step by step; Official Journal median May 2028.",
-    "page": "medical-devices-simplification.html"
   },
   {
     "name": "forecast-space-act",
@@ -92,7 +92,7 @@
   {
     "name": "forecast-public-procurement-act",
     "title": "Forecast: Public Procurement Act",
-    "note": "Step by step; Official Journal median Dec 2028.",
+    "note": "Step by step; Official Journal median Nov 2028.",
     "page": "public-procurement-act.html"
   },
   {

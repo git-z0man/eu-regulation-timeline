@@ -1,6 +1,6 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 15 Oct 2026.
+Procedure 2026/0068(COD), as of 16 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
 - **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 5 Oct 2026 · European Parliament: Committee opinion adopted
+- **Latest activity:** 7 Oct 2026 · European Parliament: Opinion on the proposal for a Regulation of the European Parliament and of the Council … (PE789.106)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -27,7 +27,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | 2026-09-02 | Council | Second Presidency compromise text | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-09-03 | Council | Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the … | [WK 13361/26](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-09-11 | European Parliament | CJ80 draft report | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de.md](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) | EP Open Data API, procedure 2026-0068 (COMMITTEE_TABLING_REPORT) |
-| 2026-10-05 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (COMMITTEE_ADOPTING_OPINION) |
+| 2026-10-05 | European Parliament | ENVI opinion adopted | [PE789.106](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf) | EP Open Data API, procedure 2026-0068 (COMMITTEE_ADOPTING_OPINION) |
 
 ## Documents
 
@@ -107,8 +107,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of …<br>*Our summary:* Draft report of September 2026 by the three co-rapporteurs of the joint INTA, ITRE and IMCO committees on the Industrial Accelerator Act proposal, with 267 amendments; the rapporteurs' draft, not the position of the committees or of Parliament, and not law. It replaces the automatic treatment of content from free trade and procurement agreement partners as Union origin by an opt-in through delegated acts under seven cumulative conditions, with no such equivalence for public support schemes, and makes all six foreign investment conditions mandatory from EUR 50 million and a 10 % stake, also for subsidiaries of foreign investors. It raises the Union origin and low-carbon shares for steel, concrete, vehicles and net-zero technologies, raises the cost thresholds of the derogations to 40 %, adds social and labour conditions and drops the exclusion of digital technologies, AI, quantum and semiconductors from the sectors that may be added to the investment rules. The exclusion of high-risk suppliers from control systems, SCADA, remote access and firewalls in net-zero auctions and support schemes is not amended: it stays as the Commission proposed it, outside the auction cost derogation and applying to all auctions. | public | – | [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) |
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public\* | – | – |
 | 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public\* | – | – |
+| 2026-10-07 | [PE789.106](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf) | ep-opinion | Opinion on the proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of industrial … | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-15.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
 
 ## Texts as Markdown
 

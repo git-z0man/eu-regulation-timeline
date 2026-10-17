@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="880" viewBox="0 0 1800 880" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="893" viewBox="0 0 1800 893" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="1800" height="880" fill="#ffffff"/>
+<rect width="1800" height="893" fill="#ffffff"/>
 <g class="procedure" data-route="agreement at first reading: the Council approved the EP position" data-state="adopted" data-as_of="">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Internal market emergency omnibus – Regulation (EU) 2024/2748</tspan></text>
 <text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2022/0279(COD). Route: agreement at first reading: the Council approved the EP position. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see internal-market-emergency-omnibus.html).</tspan></text>
@@ -70,44 +70,44 @@
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1276.0" y="398.6">working party meeting</tspan></text>
 <rect x="1390.0" y="391.0" width="26.0" height="10.0" fill="#7b8794" stroke="none" opacity="0.3"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
-<line x1="210.0" y1="440.0" x2="210.0" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="265.2" y1="440.0" x2="265.2" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="210.0" y1="440.0" x2="210.0" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="265.2" y1="440.0" x2="265.2" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="265.2" y="435.1">Oct</tspan></text>
-<line x1="322.3" y1="440.0" x2="322.3" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="377.5" y1="440.0" x2="377.5" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="434.5" y1="440.0" x2="434.5" y2="796.0" stroke="#b5bac0" stroke-width="1"/>
+<line x1="322.3" y1="440.0" x2="322.3" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="377.5" y1="440.0" x2="377.5" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="434.5" y1="440.0" x2="434.5" y2="809.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="434.5" y="435.1">Jan 2023</tspan></text>
-<line x1="491.6" y1="440.0" x2="491.6" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="543.1" y1="440.0" x2="543.1" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="600.2" y1="440.0" x2="600.2" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="491.6" y1="440.0" x2="491.6" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="543.1" y1="440.0" x2="543.1" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="600.2" y1="440.0" x2="600.2" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="600.2" y="435.1">Apr</tspan></text>
-<line x1="655.4" y1="440.0" x2="655.4" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="712.5" y1="440.0" x2="712.5" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="767.7" y1="440.0" x2="767.7" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="655.4" y1="440.0" x2="655.4" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="712.5" y1="440.0" x2="712.5" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="767.7" y1="440.0" x2="767.7" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="767.7" y="435.1">Jul</tspan></text>
-<line x1="824.7" y1="440.0" x2="824.7" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="881.8" y1="440.0" x2="881.8" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="937.0" y1="440.0" x2="937.0" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="824.7" y1="440.0" x2="824.7" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="881.8" y1="440.0" x2="881.8" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="937.0" y1="440.0" x2="937.0" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="937.0" y="435.1">Oct</tspan></text>
-<line x1="994.1" y1="440.0" x2="994.1" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1049.3" y1="440.0" x2="1049.3" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1106.4" y1="440.0" x2="1106.4" y2="796.0" stroke="#b5bac0" stroke-width="1"/>
+<line x1="994.1" y1="440.0" x2="994.1" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1049.3" y1="440.0" x2="1049.3" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1106.4" y1="440.0" x2="1106.4" y2="809.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1106.4" y="435.1">Jan 2024</tspan></text>
-<line x1="1163.4" y1="440.0" x2="1163.4" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1216.8" y1="440.0" x2="1216.8" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1273.8" y1="440.0" x2="1273.8" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1163.4" y1="440.0" x2="1163.4" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1216.8" y1="440.0" x2="1216.8" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1273.8" y1="440.0" x2="1273.8" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1273.8" y="435.1">Apr</tspan></text>
-<line x1="1329.1" y1="440.0" x2="1329.1" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1386.1" y1="440.0" x2="1386.1" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1441.3" y1="440.0" x2="1441.3" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1329.1" y1="440.0" x2="1329.1" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1386.1" y1="440.0" x2="1386.1" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1441.3" y1="440.0" x2="1441.3" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1441.3" y="435.1">Jul</tspan></text>
-<line x1="1498.4" y1="440.0" x2="1498.4" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1555.5" y1="440.0" x2="1555.5" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1610.7" y1="440.0" x2="1610.7" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1498.4" y1="440.0" x2="1498.4" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1555.5" y1="440.0" x2="1555.5" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1610.7" y1="440.0" x2="1610.7" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1610.7" y="435.1">Oct</tspan></text>
-<line x1="1667.7" y1="440.0" x2="1667.7" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1722.9" y1="440.0" x2="1722.9" y2="796.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1780.0" y1="440.0" x2="1780.0" y2="796.0" stroke="#b5bac0" stroke-width="1"/>
+<line x1="1667.7" y1="440.0" x2="1667.7" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1722.9" y1="440.0" x2="1722.9" y2="809.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="809.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="435.1">Jan 2025</tspan></text>
 <rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
@@ -122,12 +122,12 @@
 <rect x="20.0" y="620.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="633.9">Trilogues (informal)</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="633.1">no events</tspan></text>
-<rect x="20.0" y="644.0" width="1760.0" height="89.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="648.0" width="6.0" height="81.0" fill="#4a3aa7" stroke="none"/>
-<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="692.4">Council</tspan></text>
-<rect x="20.0" y="733.0" width="1760.0" height="63.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="737.0" width="6.0" height="55.0" fill="#454c53" stroke="none"/>
-<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="768.4">Signature and publication</tspan></text>
+<rect x="20.0" y="644.0" width="1760.0" height="102.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="648.0" width="6.0" height="94.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="698.9">Council</tspan></text>
+<rect x="20.0" y="746.0" width="1760.0" height="63.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="750.0" width="6.0" height="55.0" fill="#454c53" stroke="none"/>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="781.4">Signature and publication</tspan></text>
 <rect x="239.1" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0461" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="243.1" y="462.1">19 Sep 2022 · Commission proposal (COM(2022) 461)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0461" target="_blank"><title>19 Sep 2022: Commission proposal – COM(2022) 461</title><polygon points="243.13012895662368,465 251.13012895662368,473 243.13012895662368,481 235.13012895662368,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -160,28 +160,32 @@
 <g><title>13 Sep 2023: Plenary confirms mandate for trilogues</title><polygon points="903.8921453692849,580.5 909.3921453692849,586 903.8921453692849,591.5 898.3921453692849,586" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-759092/IMCO-AG-759092_en.pdf" target="_blank"><title>22 Feb 2024: Committee approves provisional agreement – PE759.092</title><polygon points="1202.063305978898,580.5 1207.563305978898,586 1202.063305978898,591.5 1196.563305978898,586" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0321_en.pdf" target="_blank"><title>24 Apr 2024: EP position at first reading – P9_TA(2024)0321</title><polygon points="1316.1781946072683,578 1324.1781946072683,586 1316.1781946072683,594 1308.1781946072683,586" fill="#1baf7a" stroke="#14181c" stroke-width="1.5"/></a>
-<line x1="1187.3" y1="670.0" x2="1187.3" y2="684.0" stroke="#c3c8cd" stroke-width="1"/>
-<line x1="1189.2" y1="712.0" x2="1189.2" y2="696.0" stroke="#c3c8cd" stroke-width="1"/>
-<rect x="951.4" y="670.0" width="388.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14016-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="955.4" y="679.1">11 Oct 2023 · Mandate for negotiations with the European Parliament (ST 14016/23)</tspan></text></a>
-<rect x="980.9" y="699.0" width="440.4" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14832-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="984.9" y="708.1">27 Oct 2023 · Council text of the proposal (subject not given in the register) (ST 14832/23)</tspan></text></a>
-<rect x="1183.3" y="657.0" width="482.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1187.3" y="666.1">14 Feb 2024 · Regulation on the Single Market Emergency Instrument Regulation amending … (ST 6288/24)</tspan></text></a>
-<rect x="1185.2" y="712.0" width="539.1" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-ADD-2-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1189.2" y="721.1">15 Feb 2024 · Regulation on the Single Market Emergency Instrument Regulation amending … (ST 6288/24 ADD 2 REV 1)</tspan></text></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14016-2023-INIT/en/pdf" target="_blank"><title>11 Oct 2023: Mandate for negotiations with the European Parliament – ST 14016/23</title><polygon points="955.4279015240328,684.5 960.9279015240328,690 955.4279015240328,695.5 949.9279015240328,690" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14832-2023-INIT/en/pdf" target="_blank"><title>27 Oct 2023: Council text of the proposal (subject not given in the register) – ST 14832/23</title><polygon points="984.8769050410316,684.5 990.3769050410316,690 984.8769050410316,695.5 979.3769050410316,690" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-INIT/en/pdf" target="_blank"><title>14 Feb 2024: Regulation on the Single Market Emergency Instrument Regulation amending Regulations (EU) … – ST 6288/24</title><polygon points="1187.3388042203985,684.5 1192.8388042203985,690 1187.3388042203985,695.5 1181.8388042203985,690" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-ADD-2-REV-1/en/pdf" target="_blank"><title>15 Feb 2024: Regulation on the Single Market Emergency Instrument Regulation amending Regulations (EU) … – ST 6288/24 ADD 2 REV 1</title><polygon points="1189.179366940211,684.5 1194.679366940211,690 1189.179366940211,695.5 1183.679366940211,690" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<rect x="1494.7" y="746.0" width="285.3" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1498.7" y="755.1">09 Oct 2024 · Signature by the Presidents of EP and Council</tspan></text>
-<rect x="1461.8" y="775.0" width="318.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2748" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1465.8" y="784.1">08 Nov 2024 · Published in the Official Journal (CELEX 32024R2748)</tspan></text></a>
-<g><title>9 Oct 2024: Signature by the Presidents of EP and Council</title><polygon points="1625.3927315357562,760.5 1630.8927315357562,766 1625.3927315357562,771.5 1619.8927315357562,766" fill="#ffffff" stroke="#454c53" stroke-width="1.5"/></g>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2748" target="_blank"><title>8 Nov 2024: Published in the Official Journal – CELEX 32024R2748</title><polygon points="1680.609613130129,760.5 1686.109613130129,766 1680.609613130129,771.5 1675.109613130129,766" fill="#ffffff" stroke="#454c53" stroke-width="1.5"/></a>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="827.9">Notes</tspan></text>
-<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="845.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
+<line x1="984.9" y1="683.0" x2="984.9" y2="697.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1187.3" y1="725.0" x2="1187.3" y2="709.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1189.2" y1="670.0" x2="1189.2" y2="697.0" stroke="#c3c8cd" stroke-width="1"/>
+<rect x="942.2" y="683.0" width="388.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-13714-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="946.2" y="692.1">06 Oct 2023 · Mandate for negotiations with the European Parliament (ST 13714/23)</tspan></text></a>
+<rect x="951.4" y="712.0" width="388.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14016-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="955.4" y="721.1">11 Oct 2023 · Mandate for negotiations with the European Parliament (ST 14016/23)</tspan></text></a>
+<rect x="980.9" y="670.0" width="440.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14832-2023-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="984.9" y="679.1">27 Oct 2023 · Council text of the proposal (subject not given in the register) (ST 14832/23)</tspan></text></a>
+<rect x="1183.3" y="725.0" width="482.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1187.3" y="734.1">14 Feb 2024 · Regulation on the Single Market Emergency Instrument Regulation amending … (ST 6288/24)</tspan></text></a>
+<rect x="1185.2" y="657.0" width="539.1" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-ADD-2-REV-1/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1189.2" y="666.1">15 Feb 2024 · Regulation on the Single Market Emergency Instrument Regulation amending … (ST 6288/24 ADD 2 REV 1)</tspan></text></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-13714-2023-INIT/en/pdf" target="_blank"><title>6 Oct 2023: Mandate for negotiations with the European Parliament – ST 13714/23</title><polygon points="946.2250879249707,697.5 951.7250879249707,703 946.2250879249707,708.5 940.7250879249707,703" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14016-2023-INIT/en/pdf" target="_blank"><title>11 Oct 2023: Mandate for negotiations with the European Parliament – ST 14016/23</title><polygon points="955.4279015240328,697.5 960.9279015240328,703 955.4279015240328,708.5 949.9279015240328,703" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14832-2023-INIT/en/pdf" target="_blank"><title>27 Oct 2023: Council text of the proposal (subject not given in the register) – ST 14832/23</title><polygon points="984.8769050410316,697.5 990.3769050410316,703 984.8769050410316,708.5 979.3769050410316,703" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-INIT/en/pdf" target="_blank"><title>14 Feb 2024: Regulation on the Single Market Emergency Instrument Regulation amending Regulations (EU) … – ST 6288/24</title><polygon points="1187.3388042203985,697.5 1192.8388042203985,703 1187.3388042203985,708.5 1181.8388042203985,703" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6288-2024-ADD-2-REV-1/en/pdf" target="_blank"><title>15 Feb 2024: Regulation on the Single Market Emergency Instrument Regulation amending Regulations (EU) … – ST 6288/24 ADD 2 REV 1</title><polygon points="1189.179366940211,697.5 1194.679366940211,703 1189.179366940211,708.5 1183.679366940211,703" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<rect x="1494.7" y="759.0" width="285.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1498.7" y="768.1">09 Oct 2024 · Signature by the Presidents of EP and Council</tspan></text>
+<rect x="1461.8" y="788.0" width="318.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2748" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1465.8" y="797.1">08 Nov 2024 · Published in the Official Journal (CELEX 32024R2748)</tspan></text></a>
+<g><title>9 Oct 2024: Signature by the Presidents of EP and Council</title><polygon points="1625.3927315357562,773.5 1630.8927315357562,779 1625.3927315357562,784.5 1619.8927315357562,779" fill="#ffffff" stroke="#454c53" stroke-width="1.5"/></g>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2748" target="_blank"><title>8 Nov 2024: Published in the Official Journal – CELEX 32024R2748</title><polygon points="1680.609613130129,773.5 1686.109613130129,779 1680.609613130129,784.5 1675.109613130129,779" fill="#ffffff" stroke="#454c53" stroke-width="1.5"/></a>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="840.9">Notes</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="858.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="871.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="884.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </svg>

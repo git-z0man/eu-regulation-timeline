@@ -54,7 +54,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | [WK 15909/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97625) | council-note | Comments from Malta | not public\* | – | – |
 | 2026-10-13 | [WK 15917/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97679) | council-note | Comments from Germany | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-15.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
 
 ## Texts as Markdown
 
