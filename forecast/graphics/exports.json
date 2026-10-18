@@ -22,12 +22,12 @@
   "forecast-epa": {
     "pdf": "forecast-epa.pdf",
     "png": "forecast-epa.png",
-    "svg_sha256": "76e2eb03879706a134a3f2e7d70ee02ed5869d8c627ecca4928c02da08320f00"
+    "svg_sha256": "1d26d98db5cc1c9e6715423ed9248a7267b84f0386cfdfb535ee130fbd43a38a"
   },
   "forecast-epa-package": {
     "pdf": "forecast-epa-package.pdf",
     "png": "forecast-epa-package.png",
-    "svg_sha256": "e0781497d944af6fd071d6b972f479b2af380e1565c90d9e692bd7b1caf2124a"
+    "svg_sha256": "e7515acaeb0ec24bd1703eff3d44b1af302ac9325d7896ee0db7c4880818b3ab"
   },
   "forecast-industrial-accelerator-act": {
     "pdf": "forecast-industrial-accelerator-act.pdf",
@@ -47,7 +47,7 @@
   "forecast-overview": {
     "pdf": "forecast-overview.pdf",
     "png": "forecast-overview.png",
-    "svg_sha256": "02d45267d5382abacd9cde456699632bb19c58dd70e6e4c9f18b36ef26765dfe"
+    "svg_sha256": "cce7688631b5b48fd9ffcec65efa4658b40d2864952412a96173b7bf16a3d12f"
   },
   "forecast-product-digitalisation-directive": {
     "pdf": "forecast-product-digitalisation-directive.pdf",
@@ -137,12 +137,12 @@
   "method-rule-of-thumb": {
     "pdf": "method-rule-of-thumb.pdf",
     "png": "method-rule-of-thumb.png",
-    "svg_sha256": "17732e4f9cf65a8b36836f5e8f8980e3154ca9fd4c25b0c86a04bb77d070093c"
+    "svg_sha256": "318cb8d6166fec3fc4c63fdf8a70fc707f958fb08cba37607d1d42f0a26f4a54"
   },
   "method-rule-of-thumb-de": {
     "pdf": "method-rule-of-thumb-de.pdf",
     "png": "method-rule-of-thumb-de.png",
-    "svg_sha256": "eb6bd63a79a7def41b1b47f9fcda5db618ac13c177b4189ea501c1235697da77"
+    "svg_sha256": "7718da2f240e1f13054fdea2a455892211c1ef34934b1888099bddf495740122"
   },
   "method-size-trend": {
     "pdf": "method-size-trend.pdf",
@@ -157,6 +157,6 @@
   "nlf-overview": {
     "pdf": "nlf-overview.pdf",
     "png": "nlf-overview.png",
-    "svg_sha256": "d7111924006505fea3cbf1a958f2c867707c46d24842306a74719b3ba10aaaed"
+    "svg_sha256": "524cccc54016f2c3a498fa1bec71869c58b981c38dd05262051ec757fbee6a68"
   }
 }

@@ -4,7 +4,7 @@
 <id>https://git-z0man.github.io/eu-regulation-timeline/news/analysis.de.xml</id>
 <link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/analysis.de.xml"/>
 <link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
-<updated>2026-10-17T00:00:00Z</updated>
+<updated>2026-10-18T00:00:00Z</updated>
 <author><name>Steffen Zimmermann (EU regulation timeline)</name></author>
 <entry><title>Wie unser Forecast entsteht und wie man ihn liest</title><id>tag:git-z0man.github.io,2026:news/article/forecast-method</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Analysis"/><updated>2026-10-14T00:00:00Z</updated><summary>Wann steht ein Gesetz, über das noch verhandelt wird, im Amtsblatt? Unser Forecast antwortet mit dem, was vergleichbare EU-Gesetze tatsächlich gebraucht haben, nicht mit Plänen. Dieses Memo erklärt, woher er kommt, wie er rechnet, wie oft er in der Vergangenheit richtig lag und was er nicht wissen kann.</summary></entry>
 <entry><title>Der Forecast für Statistiker: Schätzgröße, Algorithmus, Evaluation und Grenzen</title><id>tag:git-z0man.github.io,2026:news/article/forecast-statistics</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Analysis"/><updated>2026-10-14T00:00:00Z</updated><summary>Eine technische Notiz zu unserer Prognose von EU-Gesetzgebungsverfahren: eine bedingte, nichtparametrische Referenzklassenprognose mit Größennachbarschaft und Kalendertransformation. Außerhalb der Stichprobe geprüft mit PIT, Intervallabdeckung und CRPS, einschließlich einer Prüfung auf Look-ahead im eigenen Backtest. Was trägt, was nicht, und wo wir Rat begrüßen.</summary></entry>

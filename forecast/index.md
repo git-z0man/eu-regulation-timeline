@@ -12,16 +12,16 @@ When the open procedures are likely to reach the Official Journal. Data of 2026-
 | [Industrial Accelerator Act](industrial-accelerator-act.html) | referred to committee since 30 Apr 2026 | May 2028 | Nov 2027 – Nov 2028 | Jul 2027 – Jul 2030 | 82 % |
 | [Cybersecurity Act 2](csa2.html) | referred to committee since 25 Mar 2026 | May 2028 | Nov 2027 – Oct 2028 | Aug 2027 – Jun 2030 | 85 % |
 | [EU Space Act](space-act.html) | referred to committee since 8 Sep 2025 | May 2028 | Nov 2027 – Nov 2029 | Sep 2027 – Dec 2030 | 75 % |
-| [European Product Act](epa.html) | proposal assumed Dec 2026 | Aug 2028 | Jan 2028 – Oct 2029 | Sep 2027 – Oct 2030 | 72 % |
 | [Chips Act 2.0](chips-act-2.html) | referred to committee since 14 Sep 2026 | Sep 2028 | Mar 2028 – Apr 2029 | Oct 2027 – Nov 2030 | 78 % |
 | [New Standardisation Regulation](standardisation-revision.html) | proposal since 6 Oct 2026 | Sep 2028 | Apr 2028 – Oct 2029 | Nov 2027 – Nov 2030 | 74 % |
 | [Cloud and AI Development Act](cloud-ai-development-act.html) | referred to committee since 17 Sep 2026 | Sep 2028 | Mar 2028 – Apr 2029 | Oct 2027 – Nov 2030 | 78 % |
 | [Public Procurement Act](public-procurement-act.html) | proposal since 9 Sep 2026 | Nov 2028 | May 2028 – Nov 2029 | Jan 2028 – Dec 2031 | 73 % |
+| [European Product Act](epa.html) | proposal assumed Dec 2026 | Feb 2029 | Jul 2028 – Jan 2030 | Feb 2028 – Mar 2031 | 60 % |
 
 ## European Product Act: scenarios
 
-- **One act**: The European Product Act as one act that merges the New Legislative Framework, the Market Surveillance Regulation and the Standardisation Regulation. The separate proposal for a New Standardisation Regulation of 6 October 2026 would then be folded into it. Official Journal: median Aug 2028, half of the runs Jan 2028 – Oct 2029; before the 2029 elections 72 %.
-- **Package of two acts**: Two acts negotiated side by side, the New Standardisation Regulation (proposed on 6 October 2026) and one act on market surveillance and the New Legislative Framework. The package is complete when both are published. Official Journal: median Mar 2029, half of the runs Aug 2028 – Apr 2030; before the 2029 elections 53 %.
+- **One act**: The European Product Act as one act that merges the New Legislative Framework, the Market Surveillance Regulation and the Standardisation Regulation. The separate proposal for a New Standardisation Regulation of 6 October 2026 would then be folded into it. Official Journal: median Feb 2029, half of the runs Jul 2028 – Jan 2030; before the 2029 elections 60 %.
+- **Package of two acts**: Two acts negotiated side by side, the New Standardisation Regulation (proposed on 6 October 2026) and one act on market surveillance and the New Legislative Framework. The package is complete when both are published. Official Journal: median Oct 2029, half of the runs Nov 2028 – Aug 2030; before the 2029 elections 44 %.
 
 ## Method
 
