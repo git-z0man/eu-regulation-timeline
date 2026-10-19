@@ -87,32 +87,32 @@
   "method-c-index": {
     "pdf": "method-c-index.pdf",
     "png": "method-c-index.png",
-    "svg_sha256": "0992dd3c326beb24c57bfe222912b5c08bef92e38559e66329c930b6f8a39fea"
+    "svg_sha256": "95b9303fc058f0a467c2b127f2b15bcf0d2705a8f8f257505a1205ad36aa8d58"
   },
   "method-c-index-de": {
     "pdf": "method-c-index-de.pdf",
     "png": "method-c-index-de.png",
-    "svg_sha256": "45e670b550699ebc2e2b20888c11fa304cc398e7f544d41fb7443549287ac180"
+    "svg_sha256": "6da6f242ee2b2185a3b1be4974e3e510d037681cdab28d4f4ec1259bbb15fc3b"
   },
   "method-candidates": {
     "pdf": "method-candidates.pdf",
     "png": "method-candidates.png",
-    "svg_sha256": "006d248d6b9de44934eab0e912f3d25c2dfc08226c193426b1cb2c72509cf449"
+    "svg_sha256": "a1dfca2d38ef9cf9f75885f65fd65dbe9f7e36d6a9b885bdcfe9728b41aad775"
   },
   "method-candidates-de": {
     "pdf": "method-candidates-de.pdf",
     "png": "method-candidates-de.png",
-    "svg_sha256": "18e683e27e29d7eb381c1cdd4c180cd3d545b74628a1d54ee18611676d46e9e6"
+    "svg_sha256": "c2ecd6dd1c53932f2e3432a8e4957ed0774c0275ddeb21ac3a944038ef0690d0"
   },
   "method-criteria": {
     "pdf": "method-criteria.pdf",
     "png": "method-criteria.png",
-    "svg_sha256": "f30fdf5321c3b81e561a112c9ec7f036e2aaa30e46377bfb7bfbb5f104ae730a"
+    "svg_sha256": "0ea5701b3977b6a50e3a124b417b53d8bc30a7f8bb869bd60c606216618793e1"
   },
   "method-criteria-de": {
     "pdf": "method-criteria-de.pdf",
     "png": "method-criteria-de.png",
-    "svg_sha256": "b69e9ea83b0d37c825ecb5af780cecfda6fcc252805c191143207c2ab9cdb951"
+    "svg_sha256": "a763cc5f5b6b36ea39e4602aac3c83ca7123951d97d778ed5a9721ffda6079cd"
   },
   "method-election-deadline": {
     "pdf": "method-election-deadline.pdf",
@@ -147,12 +147,12 @@
   "method-size-trend": {
     "pdf": "method-size-trend.pdf",
     "png": "method-size-trend.png",
-    "svg_sha256": "6bf1ebc20a8ee27c0c526acdbdba3900863a09fd94683734eeda4c4a6d39dec6"
+    "svg_sha256": "034f51ac89864238f39b1a9b2da05993862eb413175ebab866b9fd6f41f00d26"
   },
   "method-size-trend-de": {
     "pdf": "method-size-trend-de.pdf",
     "png": "method-size-trend-de.png",
-    "svg_sha256": "6f27b22ab0da675980aa5acaf714600a792a9543c0b905e3c70534beb3823210"
+    "svg_sha256": "1896d33091a598b38d58064819ec93bbf3eb44ce1eba686f7f79852627d64718"
   },
   "nlf-overview": {
     "pdf": "nlf-overview.pdf",
