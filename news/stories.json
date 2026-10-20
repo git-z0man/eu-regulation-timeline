@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-19",
+ "edition": "2026-10-20",
  "stories": [
   {
    "id": "standardisation-revision/proposal",
@@ -39,7 +39,7 @@
     "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
     "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
    },
-   "score": 89,
+   "score": 87,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -47,52 +47,6 @@
     ],
     "de": [
      "NSR",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "digital-omnibus/mandate/ST-13886-26",
-   "kind": "mandate",
-   "desk": "Legislation",
-   "date": "2026-10-05",
-   "act": "digital-omnibus",
-   "kicker": "Digital Omnibus",
-   "kicker_de": "Digital-Omnibus",
-   "headline": "Digital Omnibus: Council mandate for talks with Parliament revised (not public)",
-   "deck": "The register lists a revision (REV 1) of 5 October of the draft mandate of 2 October; neither is public yet. Coreper has to agree a mandate before trilogues can start.",
-   "headline_de": "Digital-Omnibus: Ratsmandat für Verhandlungen mit dem Parlament überarbeitet (nicht öffentlich)",
-   "deck_de": "Das Register führt eine Überarbeitung (REV 1) vom 5. Oktober des Mandatsentwurfs vom 2. Oktober; beide sind noch nicht öffentlich. Coreper muss ein Mandat billigen, bevor Trilogverhandlungen beginnen können.",
-   "facts": [
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/digital-omnibus.html"
-    ],
-    [
-     "Document",
-     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016"
-    ]
-   ],
-   "items": [],
-   "brief": {
-    "status": "reviewed",
-    "en": "Until Coreper agrees the mandate and the Council publishes it, the Council's position on the Digital Omnibus is not officially known. Trilogues can start only after that.",
-    "de": "Bis Coreper das Mandat billigt und der Rat es veröffentlicht, ist die Position des Rates zum Digital-Omnibus offiziell nicht bekannt. Erst danach können Trilogverhandlungen beginnen."
-   },
-   "score": 57,
-   "crumbs": {
-    "en": [
-     "Digital Omnibus",
-     "Legislation"
-    ],
-    "de": [
-     "Digital-Omnibus",
      "Gesetzgebung"
     ]
    }
@@ -129,7 +83,7 @@
     "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
     "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
    },
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "European Product Act",
@@ -173,7 +127,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 51,
+   "score": 49,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -211,7 +165,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Analysis"
@@ -247,7 +201,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Analysis"
@@ -283,7 +237,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Analysis"
@@ -325,7 +279,7 @@
     }
    ],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -333,44 +287,6 @@
     ],
     "de": [
      "CSA2",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "industrial-accelerator-act/ep-vote/PE789-106",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-10-05",
-   "act": "industrial-accelerator-act",
-   "kicker": "Industrial Accelerator Act",
-   "kicker_de": "IAA",
-   "headline": "Industrial Accelerator Act: ENVI opinion adopted",
-   "deck": "European Parliament.",
-   "headline_de": "IAA: neuer Schritt im Verfahren",
-   "deck_de": "Europäisches Parlament (im Original): ENVI opinion adopted",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/industrial-accelerator-act.html"
-    ],
-    [
-     "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 42,
-   "crumbs": {
-    "en": [
-     "Industrial Accelerator Act",
-     "Legislation"
-    ],
-    "de": [
-     "IAA",
      "Gesetzgebung"
     ]
    }
@@ -407,7 +323,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -480,7 +396,7 @@
     "en": "2 only changed status within their step (Voting prEN); 5 without an earlier status on record (EN 304 634, EN 304 633, EN 304 632 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Umfrage prEN); 5 ohne früheren Stand in den Daten (EN 304 634, EN 304 633, EN 304 632 …)."
    },
-   "score": 40,
+   "score": 38,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -642,7 +558,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -686,7 +602,7 @@
     }
    ],
    "brief": null,
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -739,7 +655,7 @@
     }
    ],
    "brief": null,
-   "score": 33,
+   "score": 31,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -792,7 +708,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -836,7 +752,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -874,7 +790,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -918,7 +834,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -963,7 +879,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1013,10 +929,10 @@
    "act": "red",
    "kicker": "Radio Equipment Directive",
    "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive · M/536: 12 status updates in week 41",
-   "deck": "ETSI 12. Furthest step: Adoption EN.",
-   "headline_de": "Funkanlagenrichtlinie · M/536: 12 Statusänderungen in KW 41",
-   "deck_de": "ETSI 12. Weitester Schritt: Annahme EN.",
+   "headline": "Radio Equipment Directive · M/536: 9 status updates in week 41",
+   "deck": "ETSI 9. Furthest step: Adoption EN.",
+   "headline_de": "Funkanlagenrichtlinie · M/536: 9 Statusänderungen in KW 41",
+   "deck_de": "ETSI 9. Weitester Schritt: Annahme EN.",
    "facts": [
     "M/536"
    ],
@@ -1065,22 +981,10 @@
     {
      "label": "EN 301 442: Drafting Stage – Final draft registered by ETSI Secretari",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016"
-    },
-    {
-     "label": "EN 302 571: Drafting Stage – Stable draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51356"
-    },
-    {
-     "label": "EN 301 783: Drafting Stage – Early draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491"
-    },
-    {
-     "label": "EN 301 444: Drafting Stage – Final draft registered by ETSI Secretariat",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63964"
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "tree": {
     "": {
      "ETSI": {
@@ -1154,20 +1058,6 @@
         ],
         "prev": null,
         "also": []
-       },
-       {
-        "project": "EN 301 444",
-        "title": "Satellite Earth Stations and Systems (SES); Land Mobile Earth Stations (LMES) and Maritime Mobile Earth Stations (MMES) providing voice and/or data communications, operating in the 1,5 GHz and 1,6 GHz frequency bands; Harmonised Standard for access to radio spectrum LMES operating in the 1,5 GHz and 1,6 GHz L- and extended L-band.",
-        "now": "Drafting Stage – Final draft registered by ETSI Secretariat",
-        "date": "2026-10-05",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=63964",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
        }
       ],
       "ERM WG11": [
@@ -1230,36 +1120,6 @@
         ],
         "prev": null,
         "also": []
-       },
-       {
-        "project": "EN 302 571",
-        "title": "Radiocommunications equipment operating in the 5 855 MHz to 5 925 MHz frequency band; Harmonised Standard for access to radio spectrum C-ITS HS",
-        "now": "Drafting Stage – Stable draft",
-        "date": "2026-10-05",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51356",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "ERM WGMARINE": [
-       {
-        "project": "EN 301 783",
-        "title": "Commercially available amateur radio equipment; Harmonised Standard for access to the radio spectrum",
-        "now": "Drafting Stage – Early draft",
-        "date": "2026-10-05",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
        }
       ]
      }
@@ -1310,7 +1170,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1344,7 +1204,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1399,7 +1259,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "tree": {
     "": {
      "ETSI": {
@@ -1520,7 +1380,7 @@
     }
    ],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1584,7 +1444,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -1592,40 +1452,6 @@
     ],
     "de": [
      "CRA",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "nis2/committee/2026-10-05",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-10-05",
-   "act": "nis2",
-   "kicker": "NIS 2 Directive",
-   "kicker_de": "NIS-2",
-   "headline": "40th meeting",
-   "deck": "NIS Cooperation Group.",
-   "headline_de": "NIS-2: Ausschussdokument veröffentlicht",
-   "deck_de": "NIS Cooperation Group (Titel im Original): 40th meeting",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/nis2.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 7,
-   "crumbs": {
-    "en": [
-     "NIS 2 Directive",
-     "Committees"
-    ],
-    "de": [
-     "NIS-2",
      "Ausschüsse"
     ]
    }
@@ -1652,7 +1478,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -1684,7 +1510,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 0,
+   "score": -2,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1718,7 +1544,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -1,
+   "score": -3,
    "crumbs": {
     "en": [
      "This site"
@@ -1750,7 +1576,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -1,
+   "score": -3,
    "crumbs": {
     "en": [
      "This site"
@@ -1782,7 +1608,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -1,
+   "score": -3,
    "crumbs": {
     "en": [
      "This site"
@@ -1814,7 +1640,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1848,7 +1674,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1880,7 +1706,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1912,7 +1738,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1944,7 +1770,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1976,7 +1802,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -6,
+   "score": -8,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -2010,7 +1836,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -7,
+   "score": -9,
    "crumbs": {
     "en": [
      "This site"
@@ -2042,7 +1868,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -9,
+   "score": -11,
    "crumbs": {
     "en": [
      "This site"
@@ -2074,7 +1900,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -11,
+   "score": -13,
    "crumbs": {
     "en": [
      "This site"
@@ -2086,12 +1912,6 @@
   }
  ],
  "ahead": [
-  {
-   "date": "2026-10-20",
-   "act": "Machinery Regulation",
-   "text": "Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025",
-   "url": "../acts/machinery-regulation.html"
-  },
   {
    "date": "2026-10-21",
    "act": "Ecodesign for Sustainable Products Regulation",
@@ -2115,6 +1935,12 @@
    "act": "Machinery Regulation",
    "text": "Commission Expert Group on Machinery: Commission Expert Group on MACHINERY",
    "url": "../procedures/committee-e03676.html"
+  },
+  {
+   "date": "2026-10-26",
+   "act": "Net Zero Industry Act",
+   "text": "Net-zero technologies committee: 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE",
+   "url": "../procedures/committee-c129000.html"
   }
  ],
  "groups": {

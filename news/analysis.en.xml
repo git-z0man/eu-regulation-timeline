@@ -4,7 +4,7 @@
 <id>https://git-z0man.github.io/eu-regulation-timeline/news/analysis.en.xml</id>
 <link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/analysis.en.xml"/>
 <link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
-<updated>2026-10-19T00:00:00Z</updated>
+<updated>2026-10-20T00:00:00Z</updated>
 <author><name>Steffen Zimmermann (EU regulation timeline)</name></author>
 <entry><title>How our forecast is made, and how to read it</title><id>tag:git-z0man.github.io,2026:news/article/forecast-method</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Analysis"/><updated>2026-10-14T00:00:00Z</updated><summary>When will a law that is still being negotiated be in the Official Journal? Our forecast answers with what comparable EU laws actually took, not with plans. This memo explains where it comes from, how it works, how often it was right in the past and what it cannot know.</summary></entry>
 <entry><title>The forecast for statisticians: estimand, algorithm, evaluation and limits</title><id>tag:git-z0man.github.io,2026:news/article/forecast-statistics</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Analysis"/><updated>2026-10-14T00:00:00Z</updated><summary>A technical note on our forecast of EU legislative procedures: a conditional, non-parametric reference class forecast with a size neighbourhood and a calendar transformation. Evaluated out of sample with PIT, interval coverage and the CRPS, including a check for look-ahead in our own backtest. What holds up, what does not, and where we would welcome advice.</summary></entry>

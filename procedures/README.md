@@ -10,7 +10,6 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | Q1 2026 | [NZIA](nzia.md) | Implementing act adopted, publication pending: Minimum requirements on environmental sustainability for NZIA public procurement procedures | Commission Register of delegated acts (RegDel) |
 | Q2 2026 | [AI Act](ai-act.md) | Implementing act adopted, publication pending: Artificial Intelligence Act - arrangements for the conduct of proceedings by the Commission | Commission Register of delegated acts (RegDel) |
 | Q4 2026 | [AI Act](ai-act.md) | Implementing act planned: Articles 75c – 75d AI Act Implementing Act | Commission Register of delegated acts (RegDel) |
-| 20 Oct 2026 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 62745:2025 | CEN-CENELEC work programme |
 | 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: COM Expert Group on Machinery | Register of Commission expert groups |
 | 22 Oct 2026 | [MR](machinery-regulation.md) | Commission Expert Group on Machinery: Commission Expert Group on MACHINERY | Register of Commission expert groups |
 | 26 Oct 2026 | [NZIA](nzia.md) | Net-zero technologies committee: 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE | Comitology Register |
