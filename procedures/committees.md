@@ -11,7 +11,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 16 | 2026-03-04 | – |
 | [Cybersecurity Act](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
-| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-03-19 | 2026-10-21 |
+| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-10-21 | 2026-11-03 |
 | [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
 | [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 10 | 2026-06-23 | 2026-10-22 |
 | [General Product Safety Regulation](gpsr.md) | [General Product Safety Regulation Committee](committee-c127600.md) | Comitology committee | 7 | 2024-10-22 | – |

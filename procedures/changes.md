@@ -4,6 +4,7 @@ New documents and events of the legislative procedures, committees and expert gr
 
 | Date | Type | Act | Actor | Event | Document |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-21 | Committees | [ESPR](espr.md) | Ecodesign Forum | Ecodesign Forum | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download) |
 | 2026-10-16 | Standardisation | [CRA](cra.md) | CYBER EUSR | EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Closing of approval procedure | [EN 304 634](https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419) |
 | 2026-10-15 | Standardisation | [CRA](cra.md) | CYBER EUSR | EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Comments categorisation assessed | [EN 304 633](https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418) |
 | 2026-10-15 | Standardisation | [CRA](cra.md) | CYBER EUSR | EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Comments categorisation assessed | [EN 304 632](https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417) |

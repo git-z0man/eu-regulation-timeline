@@ -1,100 +1,6 @@
 {
- "edition": "2026-10-20",
+ "edition": "2026-10-21",
  "stories": [
-  {
-   "id": "standardisation-revision/proposal",
-   "kind": "proposal",
-   "desk": "Legislation",
-   "date": "2026-10-06",
-   "act": "standardisation-revision",
-   "kicker": "New Standardisation Regulation",
-   "kicker_de": "NSR",
-   "headline": "Commission proposes a new Standardisation Regulation",
-   "deck": "COM(2026) 780 would replace Regulation (EU) No 1025/2012: deadlines for every standardisation request, interim deliverables with a presumption of conformity, designated standards bodies besides CEN, CENELEC and ETSI when they are late, and free online access to every cited standard.",
-   "headline_de": "Kommission schlägt neue Normungsverordnung vor",
-   "deck_de": "COM(2026) 780 soll die Verordnung (EU) Nr. 1025/2012 ersetzen: Fristen für jeden Normungsauftrag, Zwischenergebnisse mit Konformitätsvermutung, benannte Normungsorganisationen neben CEN, CENELEC und ETSI, wenn diese zu spät liefern, und freier Online-Zugang zu jeder zitierten Norm.",
-   "facts": [
-    "COM(2026) 780",
-    "2026/0307(COD)",
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "COM(2026) 780",
-    "2026/0307(COD)",
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Act page",
-     "../acts/standardisation-revision.html"
-    ],
-    [
-     "Proposal (official PDF)",
-     "http://publications.europa.eu/resource/cellar/7d87e424-c19d-11f1-988f-01aa75ed71a1.0001.02/DOC_1"
-    ]
-   ],
-   "items": [],
-   "brief": {
-    "status": "reviewed",
-    "en": "Nothing changes for the standards manufacturers use today: M/606 for the CRA expires in November 2027 and runs under the current rules. The proposal matters for the second phase of machinery standards (M/605, due 2034), which would run across the switch without a transitional rule, and for interim deliverables, which the CRA and the Machinery Regulation do not yet recognise for the presumption of conformity.",
-    "de": "Für die Normen, die Hersteller heute nutzen, ändert sich nichts: M/606 für den CRA läuft im November 2027 aus und folgt den geltenden Regeln. Wichtig wird der Vorschlag für die zweite Phase der Maschinennormen (M/605, fällig 2034), die ohne Übergangsregel über den Wechsel hinweg läuft, und für Zwischenergebnisse, die CRA und Maschinenverordnung für die Konformitätsvermutung noch nicht anerkennen."
-   },
-   "score": 87,
-   "crumbs": {
-    "en": [
-     "New Standardisation Regulation",
-     "Legislation"
-    ],
-    "de": [
-     "NSR",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "epa/expected/2026-10-06",
-   "kind": "postponed",
-   "desk": "Legislation",
-   "date": "2026-10-06",
-   "act": "epa",
-   "kicker": "European Product Act",
-   "kicker_de": "EPA",
-   "headline": "European Product Act proposal postponed to later in 2026",
-   "deck": "Planned for 6 October 2026 together with the Standardisation Regulation; the Commission now expects to present it later this year, with the changes to sector legislation. Date to be confirmed.",
-   "headline_de": "Vorschlag für den European Product Act auf später im Jahr 2026 verschoben",
-   "deck_de": "Geplant war der 6. Oktober 2026, zusammen mit der Normungsverordnung; die Kommission will ihn nun später im Jahr vorlegen, zusammen mit den Änderungen der Sektorrechtsakte. Datum offen.",
-   "facts": [
-    "Was: 6 Oct 2026",
-    "Now: by the end of 2026"
-   ],
-   "facts_de": [
-    "Bisher: 6. Okt. 2026",
-    "Jetzt: bis Ende 2026"
-   ],
-   "links": [
-    [
-     "Timeline",
-     "../index.html#act=epa"
-    ]
-   ],
-   "items": [],
-   "brief": {
-    "status": "reviewed",
-    "en": "For products nothing changes now: Decision 768/2008/EC, Regulation (EC) No 765/2008 and Regulation (EU) 2019/1020 stay in force. The Standardisation Regulation goes ahead on its own for the time being.",
-    "de": "Für Produkte ändert sich vorerst nichts: Beschluss 768/2008/EG, Verordnung (EG) Nr. 765/2008 und Verordnung (EU) 2019/1020 bleiben in Kraft. Die Normungsverordnung geht vorerst allein ins Verfahren."
-   },
-   "score": 52,
-   "crumbs": {
-    "en": [
-     "European Product Act",
-     "Legislation"
-    ],
-    "de": [
-     "EPA",
-     "Gesetzgebung"
-    ]
-   }
-  },
   {
    "id": "ai-act/hys-19292-26258",
    "kind": "consultation",
@@ -127,7 +33,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 49,
+   "score": 47,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -165,7 +71,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Analysis"
@@ -201,7 +107,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Analysis"
@@ -237,7 +143,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Analysis"
@@ -279,7 +185,7 @@
     }
    ],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -323,7 +229,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -396,7 +302,7 @@
     "en": "2 only changed status within their step (Voting prEN); 5 without an earlier status on record (EN 304 634, EN 304 633, EN 304 632 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Umfrage prEN); 5 ohne früheren Stand in den Daten (EN 304 634, EN 304 633, EN 304 632 …)."
    },
-   "score": 38,
+   "score": 36,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -531,46 +437,6 @@
    }
   },
   {
-   "id": "topic/standardisation-reform",
-   "kind": "topic",
-   "desk": "Analysis",
-   "date": "2026-10-06",
-   "act": "standardisation-revision",
-   "kicker": "New Standardisation Regulation",
-   "kicker_de": "NSR",
-   "headline": "New topic page: New Standardisation Regulation – routes to presumption of conformity",
-   "deck": "On 6 October 2026 the Commission proposed a new Standardisation Regulation (COM(2026) 780) to replace Regulation (EU) No 1025/2012.",
-   "headline_de": "Neue Themenseite: Neue Normungsverordnung – Wege zur Konformitätsvermutung",
-   "deck_de": "Am 6. Oktober 2026 hat die Kommission eine neue Normungsverordnung vorgeschlagen (COM(2026) 780), die die Verordnung (EU) Nr. 1025/2012 ersetzen soll.",
-   "facts": [
-    "35 provisions",
-    "5 stakeholder views"
-   ],
-   "facts_de": [
-    "35 Fundstellen",
-    "5 Sichten"
-   ],
-   "links": [
-    [
-     "Read the topic",
-     "../acts/topic-standardisation-reform.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 37,
-   "crumbs": {
-    "en": [
-     "New Standardisation Regulation",
-     "Analysis"
-    ],
-    "de": [
-     "NSR",
-     "Analyse"
-    ]
-   }
-  },
-  {
    "id": "digital-omnibus/released/2026-10-08",
    "kind": "released",
    "desk": "Documents",
@@ -602,7 +468,7 @@
     }
    ],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -655,7 +521,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -708,7 +574,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -752,7 +618,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -765,40 +631,36 @@
    }
   },
   {
-   "id": "standardisation-revision/legislation/COM-2026-780",
-   "kind": "legislation",
-   "desk": "Legislation",
-   "date": "2026-10-06",
-   "act": "standardisation-revision",
-   "kicker": "New Standardisation Regulation",
-   "kicker_de": "NSR",
-   "headline": "New Standardisation Regulation: Commission proposal (Art. 294(2) TFEU)",
-   "deck": "European Commission.",
-   "headline_de": "NSR: neuer Schritt im Verfahren",
-   "deck_de": "Europäische Kommission (im Original): Commission proposal (Art. 294(2) TFEU)",
+   "id": "espr/committee/2026-10-21",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-21",
+   "act": "espr",
+   "kicker": "Ecodesign for Sustainable Products Regulation",
+   "kicker_de": "ESPR",
+   "headline": "Ecodesign Forum",
+   "deck": "Ecodesign Forum.",
+   "headline_de": "ESPR: Ausschussdokument veröffentlicht",
+   "deck_de": "Ecodesign Forum (Titel im Original): Ecodesign Forum",
    "facts": [],
    "facts_de": [],
    "links": [
     [
-     "Procedure",
-     "../procedures/standardisation-revision.html"
-    ],
-    [
-     "Document",
-     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780"
+     "Committee page",
+     "../procedures/espr.html"
     ]
    ],
    "items": [],
    "brief": null,
-   "score": 27,
+   "score": 20,
    "crumbs": {
     "en": [
-     "New Standardisation Regulation",
-     "Legislation"
+     "Ecodesign for Sustainable Products Regulation",
+     "Committees"
     ],
     "de": [
-     "NSR",
-     "Gesetzgebung"
+     "ESPR",
+     "Ausschüsse"
     ]
    }
   },
@@ -834,7 +696,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -879,7 +741,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -929,10 +791,10 @@
    "act": "red",
    "kicker": "Radio Equipment Directive",
    "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive · M/536: 9 status updates in week 41",
-   "deck": "ETSI 9. Furthest step: Adoption EN.",
-   "headline_de": "Funkanlagenrichtlinie · M/536: 9 Statusänderungen in KW 41",
-   "deck_de": "ETSI 9. Weitester Schritt: Annahme EN.",
+   "headline": "Radio Equipment Directive · M/536: 6 status updates in week 41",
+   "deck": "ETSI 6. Furthest step: Voting EN.",
+   "headline_de": "Funkanlagenrichtlinie · M/536: 6 Statusänderungen in KW 41",
+   "deck_de": "ETSI 6. Weitester Schritt: Abstimmung EN.",
    "facts": [
     "M/536"
    ],
@@ -969,22 +831,10 @@
     {
      "label": "DEN/ERM-WGUWB-643EN302065-2-6: Drafting Stage – Work Item proposal endorsed by TG",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79425"
-    },
-    {
-     "label": "EN 302 574-1: Drafting Stage – Final draft registered by ETSI Secretari",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518"
-    },
-    {
-     "label": "EN 301 443: Publication",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017"
-    },
-    {
-     "label": "EN 301 442: Drafting Stage – Final draft registered by ETSI Secretari",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016"
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "tree": {
     "": {
      "ETSI": {
@@ -1009,48 +859,6 @@
         "now": "Drafting Stage – Final draft registered by ETSI Secretari",
         "date": "2026-10-08",
         "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51243",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 302 574-1",
-        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) transmitting in the 1 980 MHz to 2 010 MHz (earth-to-space) and receiving in the 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands; Part 1: Complementary Ground Component (CGC) for wideband systems; Harmonised Standard for access to radio spectrum rev EN 302 574-1 Conventional CGC",
-        "now": "Drafting Stage – Final draft registered by ETSI Secretari",
-        "date": "2026-10-06",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 301 443",
-        "title": "Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-only, transmit-and-receive, receive-only satellite earth stations operating in the 4 GHz and 6 GHz frequency bands; Harmonised Standard for access to radio spectrum C-band VSAT 4 GHz and 6 GHz",
-        "now": "Publication",
-        "date": "2026-10-06",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017",
-        "step": [
-         5,
-         true,
-         true
-        ],
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 301 442",
-        "title": "Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including handheld earth stations, for Satellite Personal Communications Networks (S-PCN) operating in the 1 980 MHz to 2 010 MHz (earth-to-space) and 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands under the Mobile Satellite Service (MSS); Harmonised Standard for access to radio spectrum Satellite Personal Communications Networks (S-PCN) in the 2,0 GHz",
-        "now": "Drafting Stage – Final draft registered by ETSI Secretari",
-        "date": "2026-10-06",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016",
         "step": [
          1,
          false,
@@ -1170,7 +978,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1204,7 +1012,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1259,7 +1067,7 @@
     }
    ],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "tree": {
     "": {
      "ETSI": {
@@ -1380,7 +1188,7 @@
     }
    ],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1444,7 +1252,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -1478,7 +1286,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -1510,7 +1318,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1544,7 +1352,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1576,7 +1384,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1608,7 +1416,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -1640,7 +1448,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -1674,7 +1482,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -5,
+   "score": -7,
    "crumbs": {
     "en": [
      "This site"
@@ -1706,7 +1514,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -5,
+   "score": -7,
    "crumbs": {
     "en": [
      "This site"
@@ -1738,7 +1546,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -5,
+   "score": -7,
    "crumbs": {
     "en": [
      "This site"
@@ -1770,47 +1578,13 @@
    ],
    "items": [],
    "brief": null,
-   "score": -5,
+   "score": -7,
    "crumbs": {
     "en": [
      "This site"
     ],
     "de": [
      "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "machinery-regulation/committee/2026-10-06",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-10-06",
-   "act": "machinery-regulation",
-   "kicker": "Machinery Regulation",
-   "kicker_de": "MVO",
-   "headline": "Agenda published: COM Expert Group on Machinery (2026-04-27)",
-   "deck": "Commission Expert Group on Machinery.",
-   "headline_de": "MVO: Ausschussdokument veröffentlicht",
-   "deck_de": "Commission Expert Group on Machinery (Titel im Original): Agenda published: COM Expert Group on Machinery (2026-04-27)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/machinery-regulation.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "Machinery Regulation",
-     "Committees"
-    ],
-    "de": [
-     "MVO",
-     "Ausschüsse"
     ]
    }
   },
@@ -1836,7 +1610,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -9,
+   "score": -11,
    "crumbs": {
     "en": [
      "This site"
@@ -1864,38 +1638,6 @@
     [
      "Open",
      "index.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -11,
-   "crumbs": {
-    "en": [
-     "This site"
-    ],
-    "de": [
-     "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "site/2026-10-06/standardisation-pages",
-   "kind": "site",
-   "desk": "On this site",
-   "date": "2026-10-06",
-   "act": "site",
-   "kicker": "",
-   "kicker_de": "",
-   "headline": "New: a page for the Standardisation Regulation and a topic page on harmonised standards",
-   "deck": "Dates, texts and what the proposal changes for the CRA, the Machinery Regulation and the AI Act.",
-   "headline_de": "Neu: eine Seite zur Normungsverordnung und eine Themenseite zu harmonisierten Normen",
-   "deck_de": "Termine, Texte und was der Vorschlag für CRA, Maschinenverordnung und KI-Verordnung ändert.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Open",
-     "../acts/standardisation-revision.html"
     ]
    ],
    "items": [],

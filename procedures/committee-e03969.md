@@ -6,8 +6,8 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 ## At a glance
 
-- Next meeting: 2026-10-21 – Ecodesign Forum
-- Last meeting: 2026-03-19 – Ecodesign Forum - Digital Product Passport (DPP) ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132242/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133412/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download))
+- Next meeting: 2026-11-03 – Ecodesign Forum
+- Last meeting: 2026-10-21 – Ecodesign Forum ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download))
 - Meetings since 2024: 7
 - Latest minutes: [Ecodesign Forum - Digital Product Passport (DPP) (2026-03-19)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download)
 - Members: 139 members: 27 Member State authorities (type D); 112 organisations (type C); 11 observers.

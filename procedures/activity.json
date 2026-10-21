@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "date": "2026-10-21",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Ecodesign Forum",
+   "doc": "agenda, working document, working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969",
+   "key": "E03969-77096",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download"
+    ]
+   ],
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
    "date": "2026-10-16",
    "act": "cra",
    "title": "CRA",

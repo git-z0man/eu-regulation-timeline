@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-20",
+ "as_of": "2026-10-21",
  "views": [
   {
    "key": "all",
@@ -38,21 +38,21 @@
    ],
    "recap": [
     {
-     "date": "2026-10-13",
-     "act": "Industrial Accelerator Act",
-     "text": "Council released 2 documents listed as not public, incl. Second Presidency compromise text (compare version …",
-     "url": "procedures/industrial-accelerator-act.html"
-    },
-    {
      "date": "2026-10-16",
      "act": "Cyber Resilience Act",
      "text": "7 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Closing of approval procedure",
      "url": "acts/cra.html#standardisation"
     },
     {
+     "date": "2026-10-21",
+     "act": "Ecodesign for Sustainable Products Regulation",
+     "text": "Ecodesign Forum: Ecodesign Forum",
+     "url": "procedures/espr.html"
+    },
+    {
      "date": "2026-10-14",
      "act": "Radio Equipment Directive",
-     "text": "4 standardisation projects moved on",
+     "text": "1 standardisation project moved on",
      "url": "procedures/index.html"
     }
    ]
