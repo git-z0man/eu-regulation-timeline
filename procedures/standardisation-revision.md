@@ -1,14 +1,14 @@
 # Legislative procedure – New Standardisation Regulation – COM(2026) 780 (proposal)
 
-Procedure 2026/0307(COD), as of 16 Oct 2026.
+Procedure 2026/0307(COD), as of 21 Oct 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 15 Oct 2026
-- **Latest activity:** 15 Oct 2026 · Council: Presidency Flash : Working party on Technical Harmonisation of 19 October 2026 (WK 16006/26)
+- **Council:** working party, latest document 19 Oct 2026
+- **Latest activity:** 19 Oct 2026 · Council: Working Party on Technical Harmonisation: Presentation of the Proposal by the Commission and first exchange … (CM 4544/26 REV 1)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -16,6 +16,7 @@ Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standard
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
 | 2026-10-06 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 780](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780) | Cellar procedure file 2026/307 (CELEX 52026PC0780) |
+| 2026-10-19 | Council | Working Party on Technical Harmonisation: Presentation of the Proposal by the Commission and first exchange … | [CM 4544/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4544-2026-REV-1/en/pdf) | Council register, CM 4544/26 REV 1 (notice of meeting and provisional agenda) |
 
 ## Documents
 
@@ -23,12 +24,18 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-08 | [ST 14141/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-1/en/pdf) | council-note | Annexes to the Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012 of … | public | – | – |
-| 2026-10-09 | [ST 14141/26](https://data.consilium.europa.eu/doc/document/ST-14141-2026-INIT/en/pdf) | council-note | Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012 of the European … | public | – | – |
+| 2026-10-06 | [ST 14141/26](https://data.consilium.europa.eu/doc/document/ST-14141-2026-INIT/en/pdf) | council-transmission | Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012 of the European … | public | – | – |
+| 2026-10-06 | [ST 14141/26 ADD 1](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-1/en/pdf) | council-transmission | Annexes to the Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012 of … | public | – | – |
+| 2026-10-06 | [ST 14141/26 ADD 2](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-2/en/pdf) | council-transmission | Commission staff working document Subsidiarity Grid Accompanying the document Regulation of the European Parliament and of the Council on European … | public | – | – |
+| 2026-10-06 | [ST 14141/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-3/en/pdf) | council-note | Commission staff working document impact assessment report Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on … | public | – | – |
+| 2026-10-06 | [ST 14141/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-4/en/pdf) | council-transmission | Commission staff working document executive summary of the impact assessment report Accompanying the document Proposal for a Regulation of the European … | public | – | – |
+| 2026-10-10 | [ST 14141/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-5/en/pdf) | council-transmission | Regulatory scrutiny board opinion | public | – | – |
 | 2026-10-13 | [WK 15876/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97629) | council-note | Procedure regarding the Impact Assessment | not public\* | – | – |
 | 2026-10-15 | [WK 16006/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98106) | council-note | Presidency Flash : Working party on Technical Harmonisation of 19 October 2026 | not public\* | – | – |
+| 2026-10-19 | [WK 16125/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98651) | council-note | The New Standardisation Regulation : Presentation of the Impact Assessment - Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
+| 2026-10-19 | WK 16128/26 | council-note | Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
 
 ## Texts as Markdown
 

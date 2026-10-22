@@ -1,14 +1,14 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 12 Oct 2026.
+Procedure 2026/0265(COD), as of 21 Oct 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 9 Oct 2026
-- **Latest activity:** 9 Oct 2026 · Council: Comments from Member States (WK 14963/26)
+- **Council:** working party, latest document 19 Oct 2026
+- **Latest activity:** 19 Oct 2026 · Council: Correlation between articles and recitals (WK 16163/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -35,12 +35,13 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | WK 13779/26 | council-note | Procedure regarding the Impact Assessment | not public\* | – | – |
 | 2026-09-21 | [WK 14274/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92746) | council-note | Impact Assessment - Presentation by the Commission | not public\* | – | – |
 | 2026-09-21 | [WK 14276/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92738) | council-note | Presentation by the Commission | not public\* | – | – |
-| 2026-09-25 | WK 14815/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026: Presidency Flash | not public\* | – | – |
+| 2026-09-25 | [WK 14815/26](https://data.consilium.europa.eu/doc/document/WK-14815-2026-INIT/en/pdf) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026: Presidency Flash | public | 2026-10-20 | – |
 | 2026-10-02 | [WK 15255/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95107) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026 - Presentation by the Presidency | not public\* | – | – |
 | 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 | 2026-10-09 | [WK 14963/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95971) | council-note | Comments from Member States | not public\* | – | – |
+| 2026-10-19 | [WK 16163/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98767) | council-note | Correlation between articles and recitals | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
 
 ## Texts as Markdown
 

@@ -122,6 +122,11 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
 @media (max-width: 700px) { .head { grid-template-columns: 1fr; } .official { text-align: left; } .wrap { padding-inline: 16px; }
   nav.sections { margin: 0 -16px; padding-inline: 16px; } th, td { padding: 6px 8px; } }
 
+.fw-st { white-space: nowrap; font-weight: 600; }
+.fw-st i { display: inline-block; width: 10px; height: 10px; margin-right: 6px; }
+.fw-late i { background: var(--s-act); } .fw-close i { background: var(--s-prepare); } .fw-ok i { background: var(--s-monitor); }
+p.fw { margin: 8px 0; max-width: 80ch; }
+
 /* one hue (DESIGN.md): the runs in petrol, the second series dark grey and dashed, the 2029 election break a grey
    hatch, the Commission's planning in ink */
 :root { --s1: var(--s-accent); --s2: var(--s-ink2); --b80: var(--s-operate); --wall: var(--s-monitor); --wall-t: var(--s-ink2);
@@ -159,6 +164,9 @@ svg .wt { fill: var(--wall-t); } svg .pt { fill: var(--plan); }
 svg .pt { paint-order: stroke; stroke: var(--bg); stroke-width: 4px; stroke-linejoin: round; }   /* lines stop at the label */
 svg .pl { stroke: var(--plan); } svg .td { stroke: var(--ink); stroke-width: 1.5; }
 svg .b50 { fill: var(--s1); opacity: .9; } svg .b80 { fill: var(--b80); } svg .med { fill: var(--panel); stroke: var(--s1); }
+svg .ini { fill: var(--s-accent-tint); stroke: var(--s-operate); stroke-width: 1; } svg .ini80 { fill: var(--s-monitor); }
+svg .inim { stroke: var(--s-operate); stroke-width: 2; }
+.lg-ini { width: 22px; height: 8px; background: var(--s-accent-tint); border: 1px solid var(--s-operate); }
 svg .fx { fill: var(--ink); } svg .c1 { stroke: var(--s1); } svg .c2 { stroke: var(--s2); stroke-dasharray: 7 4; }
 svg a text, svg .lnk a { fill: var(--accent); } svg a:hover { text-decoration: underline; }
 /* a switch of scenarios: underlined text, as on the start page */

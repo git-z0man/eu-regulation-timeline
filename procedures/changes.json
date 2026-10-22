@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "date": "2026-10-22",
+   "title": "MR",
+   "actor": "Commission Expert Group on Machinery",
+   "label": "Commission Expert Group on MACHINERY",
+   "doc": "agenda",
+   "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "MR",
+   "actor": "Commission Expert Group on Machinery",
+   "label": "COM Expert Group on Machinery",
+   "doc": "agenda",
+   "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "EHDS",
+   "actor": "Committee on the European Health Data Space",
+   "label": "11th meeting: Committee on the European Health Data Space (EHDS)",
+   "doc": "agenda",
+   "page": "ehds.html"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "RED",
+   "actor": "ERM WG37",
+   "label": "EN 302 686 – Radiocommunications equipment operating in the 63,72 GHz to 65,88 GHz frequency band; Harm: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 686",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 301 783 – Commercially available amateur radio equipment; Harmonised Standard for access to the radi: Drafting Stage – Early draft",
+   "doc": "EN 301 783",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 428 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 428",
+   "page": "committees.html#red"
+  },
+  {
    "date": "2026-10-21",
    "title": "ESPR",
    "actor": "Ecodesign Forum",
@@ -9,59 +57,11 @@
    "page": "espr.html"
   },
   {
-   "date": "2026-10-16",
+   "date": "2026-10-21",
    "title": "CRA",
    "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 634",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 633",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 632",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 631",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 624",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 621",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 619",
+   "label": "EN 304 642 – Cybersecurity Requirements for Network Functions of Telecommunications Systems: Drafting Stage – Early draft",
+   "doc": "EN 304 642",
    "page": "cra.html"
   }
  ]

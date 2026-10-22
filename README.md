@@ -1,4 +1,4 @@
-<!-- as_of: 2026-10-21 -->
+<!-- as_of: 2026-10-22 -->
 # EU regulation timeline
 
 When do EU rules on cybersecurity, AI and products start to apply, and what do they
@@ -7,7 +7,7 @@ criticality rating per company profile.
 
 **Interactive page:** <https://git-z0man.github.io/eu-regulation-timeline/>
 
-As of **21 October 2026**. Dates are taken from the legal texts (links open EUR-Lex).
+As of **22 October 2026**. Dates are taken from the legal texts (links open EUR-Lex).
 Criticality is computed from the dates and is an orientation for planning, not legal
 advice. This repository is generated automatically; please do not open pull requests
 against the files.

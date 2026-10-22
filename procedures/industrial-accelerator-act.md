@@ -1,14 +1,14 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 16 Oct 2026.
+Procedure 2026/0068(COD), as of 21 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
-- **Council:** working party, latest document 30 Sep 2026
-- **Latest activity:** 7 Oct 2026 · European Parliament: Opinion on the proposal for a Regulation of the European Parliament and of the Council … (PE789.106)
+- **Council:** working party, latest document 20 Oct 2026
+- **Latest activity:** 20 Oct 2026 · Council: Presidency flash note for the meeting of the Working Party on Competitiveness and Growth … (WK 15757/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -23,6 +23,8 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 | 2026-04-30 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0068%28COD%29) | EP Open Data API, procedure 2026-0068 (REFERRAL) |
 | 2026-06-23 | Council | Partial Presidency compromise text | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-06-26 | Council | Partial Presidency compromise text | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | Cellar procedure file 2026/68 (Council register) |
+| 2026-07-03 | Council | Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST … | [WK 9973/26](https://data.consilium.europa.eu/doc/document/WK-9973-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-07-03_council-compromise-wk-9973-26.en.md) | Cellar procedure file 2026/68 (Council register) |
+| 2026-07-15 | Consultative bodies | EESC opinion | [CELEX 52026AE0379](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0379) | Cellar procedure file 2026/68 |
 | 2026-07-30 | Council | Second Presidency compromise text | [ST 12236/26](https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-07-30_council-compromise-st-12236-26.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-09-02 | Council | Second Presidency compromise text | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | Cellar procedure file 2026/68 (Council register) |
 | 2026-09-03 | Council | Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the … | [WK 13361/26](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf) · [en.md](../texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | Cellar procedure file 2026/68 (Council register) |
@@ -87,8 +89,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-02 | WK 9871/26 ADD 1 | council-note | Regulation for Industrial Accelerator Act: - General comments and questions on annexes by : AT, CZ, DE, DK, EL, FI, FR, IT, MT, PL, SE | not public\* | – | – |
 | 2026-07-03 | [WK 9916/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/81794) | council-note | Presidency note : Explanatory note for Chapter III of the Industrial Accelerator Act for the meeting of the Working Party on Competitiveness and Growth … | not public\* | – | – |
 | 2026-07-03 | WK 9917/26 | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 06 July 2026 | not public\* | – | – |
-| 2026-07-03 | [WK 9973/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/81964) | council-compromise | Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST 11423/2026) | not public\* | – | – |
+| 2026-07-03 | [WK 9973/26](https://data.consilium.europa.eu/doc/document/WK-9973-2026-INIT/en/pdf) | council-compromise | Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST 11423/2026) | public | 2026-10-16 | [en](../texts/industrial-accelerator-act/2026-07-03_council-compromise-wk-9973-26.en.md) |
 | 2026-07-08 | [ST 11374/26](https://data.consilium.europa.eu/doc/document/ST-11374-2026-INIT/en/pdf) | council-note | Guidance for further work | public | – | – |
+| 2026-07-15 | [CELEX 52026AE0379](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0379) | opinion | Opinion of the European Economic and Social Committee – Proposal for a Regulation of the European Parliament and of the Council establishing a framework of … | public | – | – |
 | 2026-07-30 | [ST 12236/26](https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text<br>*Our summary:* Second Presidency compromise text of 30 July 2026 on the whole Industrial Accelerator Act proposal, without recitals, prepared for the Council working party; a Presidency draft, not law, which can still change. Against the first partial compromise texts it moves the industrial acceleration areas into the permitting chapter and makes their designation optional, replaces the Commission's power to exclude third countries with lists of "partner origin" countries treated as Union origin, and restates the scope of the foreign investment chapter as three cumulative conditions (value, targeted sector, investors from a country holding more than 40 % of global capacity in that sector). In the amendments to the Net-Zero Industry Act, the exclusion of high-risk suppliers identified under the proposed Cybersecurity Act 2 from control systems, SCADA, remote access systems and firewalls is gathered in one article for auctions, support schemes and State support; the Presidency does not mark it as changed, and it names main specific components explicitly.<br>*Updated 2026-10-14:* Reviewed after the compare version WK 13361/26 of revision 1 was released; it marks every change against the Commission proposal. The Presidency's changes to the high-risk supplier rules and the reading of the exclusion powers of the proposal (delegated acts, then implementing acts in the first compromise texts) are now confirmed or corrected from the marks, and the square brackets around the sentence on the suspensive effect of legal remedies were struck, not the sentence. The summary is unchanged. (source: [WK 13361/26](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf)) | public | 2026-10-12 | [en](../texts/industrial-accelerator-act/2026-07-30_council-compromise-st-12236-26.en.md) |
 | 2026-07-30 | [WK 11039/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86107) | council-note | Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, ES, FI, FR, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK on Chapters I, … | not public\* | – | – |
 | 2026-07-30 | [WK 11040/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86108) | council-note | Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, ES, FI, FR, IT, LT, LU, NL, PL, RO, SE, SI, SK on Chapter IV of the … | not public\* | – | – |
@@ -108,8 +111,34 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public\* | – | – |
 | 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public\* | – | – |
 | 2026-10-07 | [PE789.106](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf) | ep-opinion | Opinion on the proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of industrial … | public | – | – |
+| 2026-10-13 | PE796.449 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-13 | PE796.450 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-13 | PE796.452 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-16 | [ST 14387/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527) | council-compromise | Third Presidency compromise text | not public\* | – | – |
+| 2026-10-16 | [WK 16102/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98526) | council-note | Explanatory note on the third Presidency compromise text of the draft Regulation establishing a framework of measures for accelerating industrial capacity and … | not public\* | – | – |
+| 2026-10-16 | [WK 16104/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525) | council-compromise | Third Presidency compromise text on the draft proposal for a Regulation establishing a framework of measures for accelerating industrial capacity and … | not public\* | – | – |
+| 2026-10-19 | PE796.435 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.436 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.437 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.438 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.439 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.440 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.441 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.442 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.443 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.444 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.445 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.446 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.447 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.448 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.451 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.453 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.454 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | PE796.455 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
+| 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
 
 ## Texts as Markdown
 
@@ -120,6 +149,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-03-04 | com-proposal | [CELEX 52026PC0100](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0100) | [en](../texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) [de](../texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-03-04_com-proposal.en.md) |
 | 2026-06-23 | council-compromise | [ST 10817/26](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) |
 | 2026-06-26 | council-compromise | [ST 11237/26](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) |
+| 2026-07-03 | council-compromise | [WK 9973/26](https://data.consilium.europa.eu/doc/document/WK-9973-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-07-03_council-compromise-wk-9973-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-07-03_council-compromise-wk-9973-26.en.md) |
 | 2026-07-30 | council-compromise | [ST 12236/26](https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-07-30_council-compromise-st-12236-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-07-30_council-compromise-st-12236-26.en.md) |
 | 2026-09-02 | council-compromise | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) | [en](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) |
 | 2026-09-03 | council-compromise | [WK 13361/26](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf) | [en](../texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) |

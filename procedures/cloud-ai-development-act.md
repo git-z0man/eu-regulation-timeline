@@ -1,14 +1,14 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 15 Oct 2026.
+Procedure 2026/0138(COD), as of 21 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 17 Sep 2026
-- **Council:** working party, latest document 13 Oct 2026
-- **Latest activity:** 13 Oct 2026 · Council: Comments from France (WK 15860/26)
+- **Council:** working party, latest document 19 Oct 2026
+- **Latest activity:** 19 Oct 2026 · Council: Comments from Cyprus (WK 16115/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -53,8 +53,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | [WK 15860/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97464) | council-note | Comments from France | not public\* | – | – |
 | 2026-10-13 | [WK 15909/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97625) | council-note | Comments from Malta | not public\* | – | – |
 | 2026-10-13 | [WK 15917/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97679) | council-note | Comments from Germany | not public\* | – | – |
+| 2026-10-19 | [WK 16115/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98585) | council-note | Comments from Cyprus | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
 
 ## Texts as Markdown
 

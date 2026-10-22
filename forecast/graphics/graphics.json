@@ -44,8 +44,14 @@
   {
     "name": "forecast-digital-omnibus",
     "title": "Forecast: Digital Omnibus",
-    "note": "Step by step; Official Journal median Mar 2028.",
+    "note": "Step by step; Official Journal median Apr 2028.",
     "page": "digital-omnibus.html"
+  },
+  {
+    "name": "forecast-csa2",
+    "title": "Forecast: Cybersecurity Act 2",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "csa2.html"
   },
   {
     "name": "forecast-medical-devices-simplification",
@@ -60,28 +66,10 @@
     "page": "industrial-accelerator-act.html"
   },
   {
-    "name": "forecast-csa2",
-    "title": "Forecast: Cybersecurity Act 2",
-    "note": "Step by step; Official Journal median May 2028.",
-    "page": "csa2.html"
-  },
-  {
     "name": "forecast-space-act",
     "title": "Forecast: EU Space Act",
     "note": "Step by step; Official Journal median May 2028.",
     "page": "space-act.html"
-  },
-  {
-    "name": "forecast-chips-act-2",
-    "title": "Forecast: Chips Act 2.0",
-    "note": "Step by step; Official Journal median Sep 2028.",
-    "page": "chips-act-2.html"
-  },
-  {
-    "name": "forecast-standardisation-revision",
-    "title": "Forecast: New Standardisation Regulation",
-    "note": "Step by step; Official Journal median Sep 2028.",
-    "page": "standardisation-revision.html"
   },
   {
     "name": "forecast-cloud-ai-development-act",
@@ -90,9 +78,21 @@
     "page": "cloud-ai-development-act.html"
   },
   {
+    "name": "forecast-chips-act-2",
+    "title": "Forecast: Chips Act 2.0",
+    "note": "Step by step; Official Journal median Oct 2028.",
+    "page": "chips-act-2.html"
+  },
+  {
+    "name": "forecast-standardisation-revision",
+    "title": "Forecast: New Standardisation Regulation",
+    "note": "Step by step; Official Journal median Oct 2028.",
+    "page": "standardisation-revision.html"
+  },
+  {
     "name": "forecast-public-procurement-act",
     "title": "Forecast: Public Procurement Act",
-    "note": "Step by step; Official Journal median Nov 2028.",
+    "note": "Step by step; Official Journal median Dec 2028.",
     "page": "public-procurement-act.html"
   },
   {

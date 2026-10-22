@@ -13,13 +13,13 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-10-21 | 2026-11-03 |
 | [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
-| [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 10 | 2026-06-23 | 2026-10-22 |
+| [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 10 | 2026-10-22 | – |
 | [General Product Safety Regulation](gpsr.md) | [General Product Safety Regulation Committee](committee-c127600.md) | Comitology committee | 7 | 2024-10-22 | – |
 | [General Product Safety Regulation](gpsr.md) | [CSN](committee-e00935.md) | Expert group | 4 | 2024-11-27 | – |
 | [Internal Market Emergency and Resilience Act](imera.md) | [Internal Market Emergency and Resilience Committee](committee-c131800.md) | Comitology committee | 0 | – | – |
 | [Low Voltage Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0035) – No legislative procedure page; applies from 2016-04-20; [meetings](#low-voltage-directive) | [Committee on Electrical Equipment](committee-c47700.md) | Comitology committee | 2 | 2025-06-25 | – |
 | [Machinery Regulation](machinery-regulation.md) | [Machinery Committee](committee-c128700.md) | Comitology committee | 1 | 2024-06-27 | – |
-| [Machinery Regulation](machinery-regulation.md) | [Commission Expert Group on Machinery](committee-e03676.md) | Expert group | 7 | 2026-04-27 | 2026-10-22 |
+| [Machinery Regulation](machinery-regulation.md) | [Commission Expert Group on Machinery](committee-e03676.md) | Expert group | 7 | 2026-10-22 | – |
 | [Market Surveillance Regulation](market-surveillance.md) | [Committee on market surveillance and compliance of products](committee-c52400.md) | Comitology committee | 1 | 2024-06-27 | – |
 | [Market Surveillance Regulation](market-surveillance.md) | [IMP-EG](committee-e02798.md) | Expert group | 0 | – | – |
 | [NIS 2 Directive](nis2.md) | [Cybersecurity Committee](committee-c127400.md) | Comitology committee | 3 | 2024-10-02 | – |
@@ -96,10 +96,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Horizontal Working Party on Cyber Issues
 
-23 meetings on the acts we follow.
+24 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Cybersecurity Act 2](csa2.md) | Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be issued) | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) |
 | 2026-10-12 | [Cybersecurity Act 2](csa2.md) | Title III (Certification), Articles 71-97 – Discussion ([WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127)) | [CM 4436/26](https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf) |
 | 2026-09-28 | [Cybersecurity Act 2](csa2.md) | Title IV (ICT Supply Chain) – Discussion ([WK 14487/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92913) + [ADD1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92999)) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) |
 | 2026-09-21 | [Cybersecurity Act 2](csa2.md) | Title II (ENISA) – Presentation and discussion ([WK 13671/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90341)) | [CM 4178/26](https://data.consilium.europa.eu/doc/document/CM-4178-2026-INIT/en/pdf) |
@@ -200,5 +201,13 @@ Council working parties examine the Commission's proposals in the ordinary legis
 | 2026-05-07 | [Simplification of the medical devices rules](medical-devices-simplification.md) | Examination of cluster 3 of the proposal – notified bodies and classification and conformity assessment ([7253/26](https://data.consilium.europa.eu/doc/document/ST-7253-2026-INIT/en/pdf)) | [CM 2622/26](https://data.consilium.europa.eu/doc/document/CM-2622-2026-INIT/en/pdf) |
 | 2026-04-21 | [Simplification of the medical devices rules](medical-devices-simplification.md) | Examination of cluster 2 of the proposal – Support to the regulatory system Commission delegated Regulations (EU) of 20.3.2026 amending Regulation (EU) 2017/745 as regards the list of implantable devices and class III devices exempted from the obligation to perform clinical investigations and as regards the list of class IIb implantable devices exempted from the obligation to perform an assessment of the technical documentation for every device – Information from the Presidency on the outcome of the consultations ([7252/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/65959), 7571/26, 7573/26) | [CM 2298/26](https://data.consilium.europa.eu/doc/document/CM-2298-2026-INIT/en/pdf) |
 | 2026-03-23 | [Simplification of the medical devices rules](medical-devices-simplification.md) | Examination of cluster 1 of the proposal – scope, UDI and EUDAMED, international cooperation ([7161/26](https://data.consilium.europa.eu/doc/document/ST-7161-2026-INIT/en/pdf)) | [CM 2027/26](https://data.consilium.europa.eu/doc/document/CM-2027-2026-INIT/en/pdf) |
+
+### Working Party on Technical Harmonisation
+
+1 meeting on the acts we follow.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-10-19 | [New Standardisation Regulation](standardisation-revision.md) | Presentation of the Proposal by the Commission and first exchange of views – Presentation of the Impact Assessment by the Commission and exchange of views (docs: -5) ([ST 14141/26](https://data.consilium.europa.eu/doc/document/ST-14141-2026-INIT/en/pdf) + [ADD 1](https://data.consilium.europa.eu/doc/document/ST-14141-2026-ADD-1/en/pdf)) | [CM 4544/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4544-2026-REV-1/en/pdf) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

@@ -4,7 +4,7 @@ The official EU documents of the regulation timeline and the legislative procedu
 
 EN and DE link the Markdown files (for download and project folders); "GitHub" opens the rendered text, where a link to a provision (`#art-13`, `#rec-12`, `#annex-i`) jumps to it.
 
-Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
+Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Reg. 765/2008
 
@@ -321,6 +321,7 @@ All texts of this act as one file: [digital-omnibus.zip](downloads/digital-omnib
 | 2026-06-18_council-compromise-st-10677-26 | council-compromise | ST 10677/26 | [en](digital-omnibus/2026-06-18_council-compromise-st-10677-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-18_council-compromise-st-10677-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10677-2026-INIT/en/pdf) |
 | 2026-06-22_council-position-st-10729-26 | council-position | ST 10729/26 | [en](digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf) |
 | 2026-06-22_ep-draft-report-pe786-818 | ep-draft-report | PE786.818 | [en](digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) | [de](digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_de.docx) |
+| 2026-09-03_council-compromise-st-12535-26 | council-compromise | ST 12535/26 | [en](digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf) |
 
 ## Digital Omnibus on AI
 
@@ -353,6 +354,16 @@ All texts of this act as one file: [ehds.zip](downloads/ehds.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-04-14_hys-draft | hys-draft | Ares(2026)3843449 | [en](ehds/hys-15673/2026-04-14_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ehds/hys-15673/2026-04-14_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e52c14c6f2) |
+
+## Templates for health data access applications, health data requests, data permits and decisions on a data request
+
+`ehds/hys-16712` – COMMISSION IMPLEMENTING REGULATION (EU) …/... laying down templates for the application of Regulation (EU) 2025/327 of the European Parliament and of the Council as regards procedures supporting access to electronic health data for secondary use
+
+All texts of this act as one file: [ehds.zip](downloads/ehds.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-16_hys-draft | hys-draft | Ares(2026)9764418 | [en](ehds/hys-16712/2026-10-16_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ehds/hys-16712/2026-10-16_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e535516da1) |
 
 ## EMC Directive
 
@@ -439,7 +450,7 @@ All texts of this act as one file: [espr.zip](downloads/espr.zip)
 
 ## M/604 – C(2024)5423
 
-`espr/sreq-m604` – COMMISSION IMPLEMENTING DECISION of 31.7.2024 on a standardisation request to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation, and the European Telecommunications Standards Institute as regards digital product passports in support of Union policy on ecodesign requirements for sustainable products and on batteries and waste batteries
+`espr/sreq-m604` – COMMISSION IMPLEMENTING DECISION of 31.7.2024 on a standardisation request to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation, and the European Telecommunications Standards Institute as regards digital product passports in support of Union policy on ecodesign requirements for sustainable products
 
 All texts of this act as one file: [espr.zip](downloads/espr.zip)
 
@@ -550,6 +561,26 @@ All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2015-11-25_commission-decision | commission-decision | – | [en](gpsr/sreq-m538/2015-11-25_commission-decision.en.md) | [de](gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=de) |
 
+## AI Act draft guidelines on high-risk classification
+
+`guidance/commission/ai-act-art6-draft` – Annexes to the Communication from the Commission, Draft Commission guidelines on the classification of high-risk AI systems under Article 6 of Regulation (EU) 2024/1689 (AI Act)
+
+All texts of this act as one file: [guidance-commission-ai-act-art6-draft.zip](downloads/guidance-commission-ai-act-art6-draft.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-19_draft | draft | – | [en](guidance/commission/ai-act-art6-draft/2026-05-19_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/ai-act-art6-draft/2026-05-19_draft.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/128559) |
+
+## AI Act draft guidance on serious incidents
+
+`guidance/commission/ai-act-art73-draft` – Draft guidance Article 73 AI Act - incident reporting (high-risk AI systems), with the reporting template version 1.0.0
+
+All texts of this act as one file: [guidance-commission-ai-act-art73-draft.zip](downloads/guidance-commission-ai-act-art73-draft.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-26_draft | draft | – | [en](guidance/commission/ai-act-art73-draft/2025-09-26_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/ai-act-art73-draft/2025-09-26_draft.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/119624) |
+
 ## Blue Guide 2022
 
 `guidance/commission/blue-guide-2022` – Commission notice – The 'Blue Guide' on the implementation of EU product rules 2022 (2022/C 247/01), C/2022/3637, OJ C 247, 29.6.2022, p. 1
@@ -572,6 +603,56 @@ All texts of this act as one file: [guidance-commission-c-2023-4049.zip](downloa
 | --- | --- | --- | --- | --- | --- | --- |
 | 2023-06-15_final | final | – | [en](guidance/commission/c-2023-4049/2023-06-15_final.en.md) | [de](guidance/commission/c-2023-4049/2023-06-15_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2023-4049/2023-06-15_final.de.md) | [source](https://digital-strategy.ec.europa.eu/en/library/communication-commission-implementation-5g-cybersecurity-toolbox) |
 
+## AI Act guidelines on prohibited practices C(2025) 5052
+
+`guidance/commission/c-2025-5052` – Communication from the Commission, Commission Guidelines on prohibited artificial intelligence practices established by Regulation (EU) 2024/1689 (AI Act), C(2025) 5052 final of 29 July 2025
+
+All texts of this act as one file: [guidance-commission-c-2025-5052.zip](downloads/guidance-commission-c-2025-5052.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-29_final | final | – | [en](guidance/commission/c-2025-5052/2025-07-29_final.en.md) | [de](guidance/commission/c-2025-5052/2025-07-29_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2025-5052/2025-07-29_final.de.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/118661) |
+
+## AI Act guidelines on the AI system definition C(2025) 5053
+
+`guidance/commission/c-2025-5053` – Communication from the Commission, Commission Guidelines on the definition of an artificial intelligence system established by Regulation (EU) 2024/1689 (AI Act), C(2025) 5053 final of 29 July 2025
+
+All texts of this act as one file: [guidance-commission-c-2025-5053.zip](downloads/guidance-commission-c-2025-5053.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-29_final | final | – | [en](guidance/commission/c-2025-5053/2025-07-29_final.en.md) | [de](guidance/commission/c-2025-5053/2025-07-29_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2025-5053/2025-07-29_final.de.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/118628) |
+
+## AI Act guidelines on GPAI obligations C(2025) 7719
+
+`guidance/commission/c-2025-7719` – Communication from the Commission, Commission Guidelines on the scope of the obligations for providers of general-purpose AI models established by Regulation (EU) 2024/1689 (AI Act), C(2025) 7719 final of 19 November 2025
+
+All texts of this act as one file: [guidance-commission-c-2025-7719.zip](downloads/guidance-commission-c-2025-7719.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-19_final | final | – | [en](guidance/commission/c-2025-7719/2025-11-19_final.en.md) | [de](guidance/commission/c-2025-7719/2025-11-19_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2025-7719/2025-11-19_final.de.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/127089) |
+
+## AI Act training content template C(2025) 8311
+
+`guidance/commission/c-2025-8311` – Communication from the Commission, Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models required by Article 53(1)(d) of Regulation (EU) 2024/1689 (AI Act), C(2025) 8311 final of 5 December 2025
+
+All texts of this act as one file: [guidance-commission-c-2025-8311.zip](downloads/guidance-commission-c-2025-8311.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-05_final | final | – | [en](guidance/commission/c-2025-8311/2025-12-05_final.en.md) | [de](guidance/commission/c-2025-8311/2025-12-05_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2025-8311/2025-12-05_final.de.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/126321) |
+
+## AI Act transparency guidelines C(2026) 5054
+
+`guidance/commission/c-2026-5054` – Communication to the Commission, Approval of the content of the draft Communication from the Commission, Guidelines on the implementation of the transparency obligations for providers and deployers of AI systems under Article 50 of Regulation (EU) 2024/1689 (AI Act), C(2026) 5054 final of 20 July 2026, with Annex
+
+All texts of this act as one file: [guidance-commission-c-2026-5054.zip](downloads/guidance-commission-c-2026-5054.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-20_draft | draft | – | [en](guidance/commission/c-2026-5054/2026-07-20_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2026-5054/2026-07-20_draft.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/131214) |
+
 ## CRA guidance C(2026) 5252
 
 `guidance/commission/c-2026-5252` – Communication to the Commission, Approval of the content of the draft Communication from the Commission, Commission guidance on the application of Regulation (EU) 2024/2847 (Cyber Resilience Act), C(2026) 5252 final of 27 July 2026, with Annex
@@ -592,6 +673,76 @@ All texts of this act as one file: [guidance-commission-cra-faq.zip](downloads/g
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-09-04_final | final | – | [en](guidance/commission/cra-faq/2026-09-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/cra-faq/2026-09-04_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/122331) |
 
+## EMC Guide 2025
+
+`guidance/commission/emc-guide-2025` – Guide for the EMCD (Directive 2014/30/EU), April 2025
+
+All texts of this act as one file: [guidance-commission-emc-guide-2025.zip](downloads/guidance-commission-emc-guide-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-04-01_final | final | – | [en](guidance/commission/emc-guide-2025/2025-04-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/emc-guide-2025/2025-04-01_final.en.md) | [source](https://single-market-economy.ec.europa.eu/document/download/55bb42ba-3c39-4e50-8299-06bac00aa72d_en?filename=EMC%20GUIDE_%20Rev_8%20Avril_2025_Final.pdf) |
+
+## GPSR Safety Business Gateway guidelines
+
+`guidance/commission/gpsr-business-gateway-2025` – Commission Notice, Guidelines for the practical implementation of the Safety Business Gateway under Article 27(2) of Regulation (EU) 2023/988 (C/2025/6238), OJ C, 21.11.2025
+
+All texts of this act as one file: [guidance-commission-gpsr-business-gateway-2025.zip](downloads/guidance-commission-gpsr-business-gateway-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-21_final | final | 52025XC06238 | [en](guidance/commission/gpsr-business-gateway-2025/2025-11-21_final.en.md) | [de](guidance/commission/gpsr-business-gateway-2025/2025-11-21_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/gpsr-business-gateway-2025/2025-11-21_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025XC06238) |
+
+## GPSR guidelines for businesses
+
+`guidance/commission/gpsr-guidelines-2025` – Commission Notice, Guidelines on the application of the EU general product safety legislative framework by businesses (C/2025/6233), OJ C, 21.11.2025
+
+All texts of this act as one file: [guidance-commission-gpsr-guidelines-2025.zip](downloads/guidance-commission-gpsr-guidelines-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-21_final | final | 52025XC06233 | [en](guidance/commission/gpsr-guidelines-2025/2025-11-21_final.en.md) | [de](guidance/commission/gpsr-guidelines-2025/2025-11-21_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/gpsr-guidelines-2025/2025-11-21_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025XC06233) |
+
+## Machinery Regulation Art. 6(5) data guidance
+
+`guidance/commission/machinery-data-notice-2024` – Commission Notice, Guidance to the Member States for the collection of the data and the information referred to in Article 6(5), points (a) to (d), of Regulation (EU) 2023/1230 (C/2024/6142), OJ C, 14.10.2024
+
+All texts of this act as one file: [guidance-commission-machinery-data-notice-2024.zip](downloads/guidance-commission-machinery-data-notice-2024.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-10-14_final | final | 52024XC06142 | [en](guidance/commission/machinery-data-notice-2024/2024-10-14_final.en.md) | [de](guidance/commission/machinery-data-notice-2024/2024-10-14_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/machinery-data-notice-2024/2024-10-14_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52024XC06142) |
+
+## MSR Art. 4 guidelines
+
+`guidance/commission/msr-art4-guidelines-2021` – Commission Notice, Guidelines for economic operators and market surveillance authorities on the practical implementation of Article 4 of Regulation (EU) 2019/1020 on market surveillance and compliance of products (2021/C 100/01), OJ C 100, 23.3.2021
+
+All texts of this act as one file: [guidance-commission-msr-art4-guidelines-2021.zip](downloads/guidance-commission-msr-art4-guidelines-2021.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2021-03-23_final | final | 52021XC0323(01) | [en](guidance/commission/msr-art4-guidelines-2021/2021-03-23_final.en.md) | [de](guidance/commission/msr-art4-guidelines-2021/2021-03-23_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/msr-art4-guidelines-2021/2021-03-23_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52021XC0323(01)) |
+
+## NIS-2 guidelines on Art. 3(4)
+
+`guidance/commission/nis2-art3-4-guidelines-2023` – Communication from the Commission, Commission Guidelines on the application of Article 3(4) of Directive (EU) 2022/2555 (NIS 2 Directive) (2023/C 324/02), OJ C 324, 14.9.2023
+
+All texts of this act as one file: [guidance-commission-nis2-art3-4-guidelines-2023.zip](downloads/guidance-commission-nis2-art3-4-guidelines-2023.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023-09-14_final | final | 52023XC0914(01) | [en](guidance/commission/nis2-art3-4-guidelines-2023/2023-09-14_final.en.md) | [de](guidance/commission/nis2-art3-4-guidelines-2023/2023-09-14_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/nis2-art3-4-guidelines-2023/2023-09-14_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52023XC0914(01)) |
+
+## NIS-2 guidelines on Art. 4 (lex specialis)
+
+`guidance/commission/nis2-art4-guidelines-2023` – Communication from the Commission, Commission Guidelines on the application of Article 4(1) and (2) of Directive (EU) 2022/2555 (NIS 2 Directive) (2023/C 328/02), OJ C 328, 18.9.2023
+
+All texts of this act as one file: [guidance-commission-nis2-art4-guidelines-2023.zip](downloads/guidance-commission-nis2-art4-guidelines-2023.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023-09-18_final | final | 52023XC0918(01) | [en](guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.en.md) | [de](guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52023XC0918(01)) |
+
 ## Recommendation (EU) 2019/534
 
 `guidance/commission/recommendation-2019-534` – Commission Recommendation (EU) 2019/534 of 26 March 2019 – Cybersecurity of 5G networks
@@ -601,6 +752,16 @@ All texts of this act as one file: [guidance-commission-recommendation-2019-534.
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2019-03-26_final | final | 32019H0534 | [en](guidance/commission/recommendation-2019-534/2019-03-26_final.en.md) | [de](guidance/commission/recommendation-2019-534/2019-03-26_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/recommendation-2019-534/2019-03-26_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019H0534) |
+
+## RED Guide 2026
+
+`guidance/commission/red-guide-2026` – Guide to the Radio Equipment Directive - Directive 2014/53/EU, version 07.07.2026
+
+All texts of this act as one file: [guidance-commission-red-guide-2026.zip](downloads/guidance-commission-red-guide-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-07_final | final | – | [en](guidance/commission/red-guide-2026/2026-07-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/red-guide-2026/2026-07-07_final.en.md) | [source](https://single-market-economy.ec.europa.eu/document/download/a0c7e4c5-27db-4c59-9c43-a380ed21563f_en?filename=RED%20Guide%20-%20version%2007.07.2026%20-%20with%20COVER.pdf) |
 
 ## Annual Union work programme for European standardisation 2024
 
@@ -653,6 +814,16 @@ All texts of this act as one file: [guidance-council-st-9568-26.zip](downloads/g
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05-27_final | final | ST 9568/1/26 REV 1 | [en](guidance/council/st-9568-26/2026-05-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/council/st-9568-26/2026-05-27_final.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9568-2026-REV-1/en/pdf) |
 
+## ENISA NIS-2 technical guidance 2025
+
+`guidance/enisa/nis2-technical-guidance-2025` – Technical implementation guidance on Commission Implementing Regulation (EU) 2024/2690 of 17 October 2024 laying down rules for the application of Directive (EU) 2022/2555 as regards technical and methodological requirements of cybersecurity risk-management measures, version 1.0, June 2025
+
+All texts of this act as one file: [guidance-enisa-nis2-technical-guidance-2025.zip](downloads/guidance-enisa-nis2-technical-guidance-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-26_final | final | – | [en](guidance/enisa/nis2-technical-guidance-2025/2025-06-26_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/nis2-technical-guidance-2025/2025-06-26_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf) |
+
 ## EU 5G Toolbox
 
 `guidance/nis-cg/5g-toolbox` – Cybersecurity of 5G networks – EU Toolbox of risk mitigating measures (NIS Cooperation Group publication 01/2020)
@@ -684,6 +855,7 @@ All texts of this act as one file: [industrial-accelerator-act.zip](downloads/in
 | 2026-03-04_com-proposal | com-proposal | 52026PC0100 | [en](industrial-accelerator-act/2026-03-04_com-proposal.en.md) | [de](industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-03-04_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0100) |
 | 2026-06-23_council-compromise-st-10817-26 | council-compromise | ST 10817/26 | [en](industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-23_council-compromise-st-10817-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10817-2026-INIT/en/pdf) |
 | 2026-06-26_council-compromise-st-11237-26 | council-compromise | ST 11237/26 | [en](industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-06-26_council-compromise-st-11237-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-11237-2026-INIT/en/pdf) |
+| 2026-07-03_council-compromise-wk-9973-26 | council-compromise | WK 9973/26 | [en](industrial-accelerator-act/2026-07-03_council-compromise-wk-9973-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-07-03_council-compromise-wk-9973-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-9973-2026-INIT/en/pdf) |
 | 2026-07-30_council-compromise-st-12236-26 | council-compromise | ST 12236/26 | [en](industrial-accelerator-act/2026-07-30_council-compromise-st-12236-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-07-30_council-compromise-st-12236-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf) |
 | 2026-09-02_council-compromise-st-12236-26-rev-1 | council-compromise | ST 12236/26 REV 1 | [en](industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) |
 | 2026-09-03_council-compromise-wk-13361-26 | council-compromise | WK 13361/26 | [en](industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf) |

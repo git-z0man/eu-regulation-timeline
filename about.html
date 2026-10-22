@@ -122,6 +122,11 @@ footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10
 @media (max-width: 700px) { .head { grid-template-columns: 1fr; } .official { text-align: left; } .wrap { padding-inline: 16px; }
   nav.sections { margin: 0 -16px; padding-inline: 16px; } th, td { padding: 6px 8px; } }
 
+.fw-st { white-space: nowrap; font-weight: 600; }
+.fw-st i { display: inline-block; width: 10px; height: 10px; margin-right: 6px; }
+.fw-late i { background: var(--s-act); } .fw-close i { background: var(--s-prepare); } .fw-ok i { background: var(--s-monitor); }
+p.fw { margin: 8px 0; max-width: 80ch; }
+
 .cite { display: flex; gap: 6px 14px; align-items: baseline; flex-wrap: wrap; background: var(--s-tint, #eef2f2);
   padding: 10px 14px; margin: 10px 0; max-width: 90ch; font-size: 15px; }
 .cite .small { color: var(--s-ink2, #454c53); }

@@ -1,14 +1,14 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 15 Oct 2026.
+Procedure 2025/0404(COD), as of 21 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 30 Jun 2026
-- **Council:** working party, latest document 9 Oct 2026
-- **Latest activity:** 9 Oct 2026 · Council: Regulation to simplify rules on medical and in vitro diagnostic medical devices - … (ST 12919/26)
+- **Council:** working party, latest document 20 Oct 2026
+- **Latest activity:** 20 Oct 2026 · Council: Meeting of the Working Party on Pharmaceuticals and Medical Devices (WK 16194/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -110,8 +110,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-16 | [ST 12698/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91975) | council-note | Exchange of views | not public\* | – | – |
 | 2026-09-17 | [WK 14267/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92154) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-10-09 | [ST 12919/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96980) | council-note | Regulation to simplify rules on medical and in vitro diagnostic medical devices - Guidance for future work | not public\* | – | – |
+| 2026-10-16 | [ST 13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) | council-note | Exchange of views | not public\* | – | – |
+| 2026-10-20 | [WK 16194/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99013) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-16.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
 
 ## Texts as Markdown
 

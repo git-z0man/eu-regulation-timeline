@@ -1,6 +1,96 @@
 {
  "items": [
   {
+   "date": "2026-10-22",
+   "act": "machinery-regulation",
+   "title": "MR",
+   "actor": "Commission Expert Group on Machinery",
+   "label": "Commission Expert Group on MACHINERY",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3676",
+   "key": "E03676-76561",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138761/download"
+    ]
+   ],
+   "page": "machinery-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "machinery-regulation",
+   "title": "MR",
+   "actor": "Commission Expert Group on Machinery",
+   "label": "COM Expert Group on Machinery",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3676",
+   "key": "E03676-68341",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138771/download"
+    ]
+   ],
+   "page": "machinery-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "ehds",
+   "title": "EHDS",
+   "actor": "Committee on the European Health Data Space",
+   "label": "11th meeting: Committee on the European Health Data Space (EHDS)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1615/consult",
+   "key": "C131500-CMTD(2026)1615",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult"
+    ]
+   ],
+   "page": "ehds",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG37",
+   "label": "EN 302 686 – Radiocommunications equipment operating in the 63,72 GHz to 65,88 GHz frequency band; Harm: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 686",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=46542",
+   "key": "eso-REN/ERM-WG37-25-2026-10-21",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 301 783 – Commercially available amateur radio equipment; Harmonised Standard for access to the radi: Drafting Stage – Early draft",
+   "doc": "EN 301 783",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491",
+   "key": "eso-REN/ERM-WGMAR-618-2026-10-21",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 428 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 428",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74297",
+   "key": "eso-REN/SES-00476-2026-10-21",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-21",
    "act": "espr",
    "title": "ESPR",
@@ -27,16 +117,233 @@
    "type": "Committees"
   },
   {
-   "date": "2026-10-16",
+   "date": "2026-10-21",
    "act": "cra",
    "title": "CRA",
    "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 634",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
-   "key": "eso-DEN/CYBER-EUS-003-2026-10-16",
+   "label": "EN 304 642 – Cybersecurity Requirements for Network Functions of Telecommunications Systems: Drafting Stage – Early draft",
+   "doc": "EN 304 642",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74965",
+   "key": "eso-DEN/CYBER-EUS-0019-2026-10-21",
    "page": "cra",
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 634",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
+   "key": "eso-DEN/CYBER-EUS-003-2026-10-21",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 626",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
+   "key": "eso-DEN/CYBER-EUS-0012-2026-10-21",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "key": "eso-DEN/CYBER-EUS-0010-2026-10-21",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 617 – Cybersecurity requirements for browsers: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 617",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
+   "key": "eso-DEN/CYBER-EUS-006-2026-10-21",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-20",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-25 (Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October …), listed as not public since 2026-10-04",
+   "doc": "WK 14815/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14815-2026-INIT/en/pdf",
+   "key": "WK 14815/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-25",
+   "doc_title": "Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October …",
+   "withheld_since": "2026-10-04",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-10-19",
+   "act": "standardisation-revision",
+   "title": "New Standardisation Regulation – COM(2026) 780 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Technical Harmonisation: Presentation of the Proposal by the Commission and first exchange …",
+   "doc": "CM 4544/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4544-2026-REV-1/en/pdf",
+   "key": "CM 4544/26 REV 1",
+   "page": "standardisation-revision",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-19",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Mandate for negotiations with the European Parliament (not public)",
+   "doc": "ST 14532/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98785",
+   "key": "ST 14532/26",
+   "page": "digital-omnibus",
+   "type": "Legislation",
+   "listed": "council-position"
+  },
+  {
+   "date": "2026-10-19",
+   "act": "csa2",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-04 (Cybersecurity Act 2: explanatory note on Title III (European Cybersecurity Certification …), listed as not public since 2026-09-25",
+   "doc": "WK 13545/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13545-2026-INIT/en/pdf",
+   "key": "WK 13545/26-released",
+   "page": "csa2",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-04",
+   "doc_title": "Cybersecurity Act 2: explanatory note on Title III (European Cybersecurity Certification …",
+   "withheld_since": "2026-09-25",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
+   "date": "2026-10-19",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Horizontal Working Party on Cyber Issues: Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be …",
+   "doc": "CM 4579/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf",
+   "key": "CM 4579/26 REV 1",
+   "page": "csa2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-19",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text (not public)",
+   "doc": "ST 13545/26 REV 1",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98936",
+   "key": "ST 13545/26 REV 1",
+   "page": "chips-act-2",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Third Presidency compromise text on the draft proposal for a Regulation establishing a … (not public)",
+   "doc": "WK 16104/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525",
+   "key": "WK 16104/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Third Presidency compromise text (not public)",
+   "doc": "ST 14387/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527",
+   "key": "ST 14387/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-07-03 (Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST …), listed as not public since 2026-09-25",
+   "doc": "WK 9973/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-9973-2026-INIT/en/pdf",
+   "key": "WK 9973/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-07-03",
+   "doc_title": "Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST …",
+   "withheld_since": "2026-09-25",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-04 (Steering and Explanatory Note by the Presidency - AGS meeting on 11 September 2026), listed as not public since 2026-09-25",
+   "doc": "WK 13065/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13065-2026-INIT/en/pdf",
+   "key": "WK 13065/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-04",
+   "doc_title": "Steering and Explanatory Note by the Presidency - AGS meeting on 11 September 2026",
+   "withheld_since": "2026-09-25",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-09-03 (Presidency revised compromise text), listed as not public since 2026-09-25",
+   "doc": "ST 12535/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf",
+   "key": "ST 12535/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-09-03",
+   "doc_title": "Presidency revised compromise text",
+   "withheld_since": "2026-09-25",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Presidency third compromise text on Title II of the draft proposal for a Regulation on … (not public)",
+   "doc": "WK 15959/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98509",
+   "key": "WK 15959/26",
+   "page": "csa2",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-10-15",
@@ -342,18 +649,6 @@
    "date": "2026-10-08",
    "act": "red",
    "title": "RED",
-   "actor": "ERM WG37",
-   "label": "EN 302 686 – Radiocommunications equipment operating in the 63,72 GHz to 65,88 GHz frequency band; Harm: Drafting Stage – Draft receipt by ETSI Secretariat",
-   "doc": "EN 302 686",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=46542",
-   "key": "eso-REN/ERM-WG37-25-2026-10-08",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-08",
-   "act": "red",
-   "title": "RED",
    "actor": "SES HARM",
    "label": "EN 302 574-3 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Final draft registered by ETSI Secretari",
    "doc": "EN 302 574-3",
@@ -517,18 +812,6 @@
    "doc": "EN 302 571",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51356",
    "key": "eso-REN/ERM-WG37-270-2026-10-05",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-05",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGMARINE",
-   "label": "EN 301 783 – Commercially available amateur radio equipment; Harmonised Standard for access to the radi: Drafting Stage – Early draft",
-   "doc": "EN 301 783",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67491",
-   "key": "eso-REN/ERM-WGMAR-618-2026-10-05",
    "page": null,
    "type": "Standardisation"
   },
@@ -1055,18 +1338,6 @@
    "act": "cra",
    "title": "CRA",
    "actor": "CYBER EUSR",
-   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 626",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
-   "key": "eso-DEN/CYBER-EUS-0012-2026-09-29",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-29",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
    "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Drafting Stage – 7 VR – EC assessment before EV received",
    "doc": "EN 304 625",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
@@ -1083,18 +1354,6 @@
    "doc": "EN 304 620",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
    "key": "eso-DEN/CYBER-EUS-005-2026-09-29",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-29",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 617 – Cybersecurity requirements for browsers: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 617",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
-   "key": "eso-DEN/CYBER-EUS-006-2026-09-29",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -1765,18 +2024,6 @@
   },
   {
    "date": "2026-09-10",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 428 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Drafting Stage – Final draft registered by ETSI Secretariat",
-   "doc": "EN 301 428",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74297",
-   "key": "eso-REN/SES-00476-2026-09-10",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-10",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -2033,13 +2280,12 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
-   "label": "Presidency revised compromise text (not public)",
+   "label": "Presidency revised compromise text",
    "doc": "ST 12535/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/89718",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf",
    "key": "ST 12535/26",
    "page": "digital-omnibus",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-09-03",
@@ -2220,18 +2466,6 @@
    "type": "Committees"
   },
   {
-   "date": "2026-08-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 304 622",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-   "key": "eso-DEN/CYBER-EUS-0010-2026-08-13",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-08-11",
    "act": "red",
    "title": "RED",
@@ -2342,18 +2576,6 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66907",
    "key": "eso-REN/ERM-EMC-417-2026-08-03",
    "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-07-31",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 642 – Cybersecurity Requirements for Network Functions of Telecommunications Systems: Drafting Stage – Early draft",
-   "doc": "EN 304 642",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74965",
-   "key": "eso-DEN/CYBER-EUS-0019-2026-07-31",
-   "page": "cra",
    "type": "Standardisation"
   },
   {
@@ -2573,6 +2795,18 @@
    "key": "eso-JT021044-2026-07-16",
    "page": "ai-act",
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-07-15",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Consultative bodies",
+   "label": "EESC opinion",
+   "doc": "CELEX 52026AE0379",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0379",
+   "key": "CELEX 52026AE0379",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-07-15",
@@ -2807,13 +3041,12 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST … (not public)",
+   "label": "Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST …",
    "doc": "WK 9973/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/81964",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-9973-2026-INIT/en/pdf",
    "key": "WK 9973/26",
    "page": "industrial-accelerator-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-07-03",
@@ -3524,7 +3757,7 @@
    "label": "EN 303 402 – Maritime mobile transmitters and receivers for use in the MF and HF bands; Harmonised Stan: Drafting Stage – Start of work",
    "doc": "EN 303 402",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73762",
-   "key": "eso-REN/ERM-TGMAR-638-2026-06-09",
+   "key": "eso-REN/ERM-WGMAR-638-2026-06-09",
    "page": null,
    "type": "Standardisation"
   },
@@ -7222,54 +7455,6 @@
    ],
    "page": "cra",
    "type": "Committees"
-  },
-  {
-   "date": "2025-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CLC/TC 65X",
-   "label": "prEN 50770-6 – Security for Operational Technologies - Part 6: Security Profile for security information : Under Drafting",
-   "doc": "prEN 50770-6",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:81654,25&cs=1D9131DB1242FEC8D93BF297195E8A2A0",
-   "key": "eso-prEN 50770-6-2025-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2025-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CLC/TC 65X",
-   "label": "prEN 50770-5 – Security for Operational Technologies - Part 5: Security Profile for routers, modems inten: Under Drafting",
-   "doc": "prEN 50770-5",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:81653,25&cs=1942B619B9CF8CEF79834DF9A4E0D3234",
-   "key": "eso-prEN 50770-5-2025-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2025-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CLC/TC 65X",
-   "label": "prEN 50770-4 – (prEN 50770-4) Security for Operational Technologies - Part 4: Security Profile for produc: Under Drafting",
-   "doc": "prEN 50770-4",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:81652,25&cs=17583FCAF37D99F9A7028E7956E422300",
-   "key": "eso-prEN 50770-4-2025-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2025-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CLC/TC 65X",
-   "label": "prEN 50770-1 – Security for Operational Technologies - Part 1: Security Profile for firewalls and intrusi: Under Drafting",
-   "doc": "prEN 50770-1",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:81649,25&cs=13322EAD4BB9270452A937D8259179562",
-   "key": "eso-prEN 50770-1-2025-10-21",
-   "page": "cra",
-   "type": "Standardisation"
   }
  ]
 }

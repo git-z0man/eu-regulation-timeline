@@ -6,8 +6,8 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 ## At a glance
 
-- Next meeting: 2026-10-22 – COM Expert Group on Machinery
-- Last meeting: 2026-04-27 – COM Expert Group on Machinery ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download))
+- Next meeting: none announced
+- Last meeting: 2026-10-22 – Commission Expert Group on MACHINERY ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138761/download))
 - Meetings since 2024: 7
 - Latest minutes: [8th meeting of the COM Expert Group on Machinery (2025-04-11)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124460/download)
 - Members: 67 members: 27 Member State authorities (type D); 35 organisations (type C); 5 other public entities (type E); 1 observers.
