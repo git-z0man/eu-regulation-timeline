@@ -1,6 +1,6 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 21 Oct 2026.
+Procedure 2025/0360(COD), as of 22 Oct 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
@@ -137,7 +137,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-11 | [ST 13819/26](https://data.consilium.europa.eu/doc/document/ST-13819-2026-INIT/en/pdf) | council-note | AOB item for the meeting of the General Affairs Council on 13 October 2026 Omnibus simplification packages: state of play - Information from the Presidency | public | – | – |
 | 2026-10-19 | [ST 14532/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98785) | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
 
 ## Texts as Markdown
 

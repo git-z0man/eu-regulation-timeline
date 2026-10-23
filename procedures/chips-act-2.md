@@ -1,6 +1,6 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 21 Oct 2026.
+Procedure 2026/0139(COD), as of 22 Oct 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
@@ -54,10 +54,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-12 | [WK 15830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97385) | council-note | Proposal on Chips Act 2.0 – Presentation by the Commission on certain provisions of Pillar II of the proposal | not public\* | – | – |
 | 2026-10-19 | [ST 13545/26 REV 1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98936) | council-compromise | Presidency compromise text | not public\* | – | – |
 | 2026-10-19 | [WK 15756/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98739) | council-note | Presidency Flash note for the meetings of the Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0) on 29 and 30 October 2026 | not public\* | – | – |
-| 2026-10-20 | [WK 16215/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98931) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a Regulation of the European Parliament and of the Council on a framework of … | not public\* | – | – |
-| 2026-10-20 | [WK 16218/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98932) | council-note | Consolidated table with comments from the following Member States AT, BE, CZ, DE, DK, EE, ES, FI, FR, HR, IT, LT, MT, NL, PL, PT, SE, SI on Pillar III and its … | not public\* | – | – |
+| 2026-10-20 | [WK 16215/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98931) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a Regulation on a framework of measures for strengthening the Union's … | not public\* | – | – |
+| 2026-10-20 | [WK 16218/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98932) | council-note | Consolidated table with comments from Austria and other Member States | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
 
 ## Texts as Markdown
 

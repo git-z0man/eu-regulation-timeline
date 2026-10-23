@@ -1,33 +1,21 @@
 {
- "as_of": "2026-10-22",
+ "as_of": "2026-10-23",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
     {
-     "date": "2026-10-22",
-     "act": "European Health Data Space Regulation",
-     "text": "Committee on the European Health Data Space: 11th meeting: Committee on the European Health Data Space (EHDS)",
-     "url": "procedures/committee-c131500.html"
-    },
-    {
-     "date": "2026-10-22",
-     "act": "Machinery Regulation",
-     "text": "Commission Expert Group on Machinery: COM Expert Group on Machinery",
-     "url": "procedures/committee-e03676.html"
-    },
-    {
-     "date": "2026-10-22",
-     "act": "Machinery Regulation",
-     "text": "Commission Expert Group on Machinery: Commission Expert Group on MACHINERY",
-     "url": "procedures/committee-e03676.html"
-    },
-    {
      "date": "2026-10-26",
      "act": "Net Zero Industry Act",
      "text": "Net-zero technologies committee: 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE",
      "url": "procedures/committee-c129000.html"
+    },
+    {
+     "date": "2026-10-28",
+     "act": "Artificial Intelligence Act",
+     "text": "Funding call deadline: DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI …",
+     "url": "acts/ai-act.html#funding"
     }
    ],
    "recap": [
@@ -50,16 +38,16 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
+     "date": "2026-10-21",
+     "act": "Industrial Accelerator Act",
+     "text": "Council released 2 documents listed as not public, incl. Partial Presidency compromise text on Chapter III …",
+     "url": "procedures/industrial-accelerator-act.html"
+    },
+    {
      "date": "2026-10-19",
      "act": "Chips Act 2.0",
      "text": "Council: Presidency compromise text (not public)",
      "url": "procedures/chips-act-2.html"
-    },
-    {
-     "date": "2026-10-16",
-     "act": "Industrial Accelerator Act",
-     "text": "Council: Third Presidency compromise text on the draft proposal for a Regulation establishing a … (not public)",
-     "url": "procedures/industrial-accelerator-act.html"
     }
    ]
   },
@@ -68,16 +56,10 @@
    "label": "Cybersecurity",
    "ahead": [
     {
-     "date": "2026-10-22",
-     "act": "Machinery Regulation",
-     "text": "Commission Expert Group on Machinery: COM Expert Group on Machinery",
-     "url": "procedures/committee-e03676.html"
-    },
-    {
-     "date": "2026-10-22",
-     "act": "Machinery Regulation",
-     "text": "Commission Expert Group on Machinery: Commission Expert Group on MACHINERY",
-     "url": "procedures/committee-e03676.html"
+     "date": "2026-10-28",
+     "act": "Artificial Intelligence Act",
+     "text": "Funding call deadline: DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI …",
+     "url": "acts/ai-act.html#funding"
     }
    ],
    "recap": [
@@ -102,14 +84,14 @@
     {
      "date": "2026-10-21",
      "act": "Cyber Resilience Act",
-     "text": "11 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
+     "text": "5 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
      "url": "acts/cra.html#standardisation"
     },
     {
-     "date": "2026-10-19",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Title II (Fees), Articles 47 – Discussion WK 15959/2026 …",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-22",
+     "act": "Artificial Intelligence Act",
+     "text": "Standardisation: prEN 18229-3: Under Approval",
+     "url": "acts/ai-act.html#standardisation"
     }
    ]
   }

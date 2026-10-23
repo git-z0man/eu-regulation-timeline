@@ -96,7 +96,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-05-28 | ST 10389/24 | council-note | Voting result Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable … | public status unknown | – | – |
 | 2024-06-14 | PE 106/23 REV 1 | council-note | Regulation of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for sustainable products, amending … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
 
 ## Texts as Markdown
 

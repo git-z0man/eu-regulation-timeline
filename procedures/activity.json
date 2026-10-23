@@ -2,6 +2,30 @@
  "items": [
   {
    "date": "2026-10-22",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 302 454",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
+   "key": "eso-REN/ERM-WGAERO-201-2026-10-22",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 302 054",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+   "key": "eso-REN/ERM-WGAERO-200-2026-10-22",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-22",
    "act": "machinery-regulation",
    "title": "MR",
    "actor": "Commission Expert Group on Machinery",
@@ -55,6 +79,18 @@
    "type": "Committees"
   },
   {
+   "date": "2026-10-22",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18229-3 – AI trustworthiness framework - Part 3: Human oversight: Under Approval",
+   "doc": "prEN 18229-3",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3",
+   "key": "eso-JT021056-2026-10-22",
+   "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-21",
    "act": "red",
    "title": "RED",
@@ -89,6 +125,22 @@
    "key": "eso-REN/SES-00476-2026-10-21",
    "page": null,
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-08-07 (Factual Summary of the public feedback received on the Industrial Accelerator Act proposal), listed as not public since 2026-09-30",
+   "doc": "WK 11199/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-11199-2026-INIT/en/pdf",
+   "key": "WK 11199/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-08-07",
+   "doc_title": "Factual Summary of the public feedback received on the Industrial Accelerator Act proposal",
+   "withheld_since": "2026-09-30",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
   },
   {
    "date": "2026-10-21",
@@ -438,30 +490,6 @@
    "doc": "EN 303 132",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74967",
    "key": "eso-REN/ERM-TGMAR-643-2026-10-13",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft",
-   "doc": "EN 302 454",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
-   "key": "eso-REN/ERM-WGAERO-201-2026-10-13",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-13",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft",
-   "doc": "EN 302 054",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
-   "key": "eso-REN/ERM-WGAERO-200-2026-10-13",
    "page": null,
    "type": "Standardisation"
   },
@@ -2625,18 +2653,6 @@
    "doc": "prEN 18282",
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79708,25&cs=1F22C53E33572EA17236E5EF8F9DE9DCD",
    "key": "eso-JT021029-2026-07-30",
-   "page": "ai-act",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-07-30",
-   "act": "ai-act",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18229-3 – AI trustworthiness framework - Part 3: Human oversight: Under Enquiry",
-   "doc": "prEN 18229-3",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3",
-   "key": "eso-JT021056-2026-07-30",
    "page": "ai-act",
    "type": "Standardisation"
   },
@@ -5500,8 +5516,8 @@
    "act": "cra",
    "title": "CRA",
    "actor": "CEN/CLC/JTC 13",
-   "label": "prEN XXX – Cybersecurity requirements for products with digital elements – Smart Meter Gateway: Under Drafting",
-   "doc": "prEN XXX",
+   "label": "prEN 40000-9 – Cybersecurity requirements for products with digital elements – Smart Meter Gateway: Under Drafting",
+   "doc": "prEN 40000-9",
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82350,25&cs=17FDA1F2F1BC1029EEFB5DEE59526A424",
    "key": "eso-JT013096-2026-03-09",
    "page": "cra",
@@ -7432,28 +7448,6 @@
     ]
    ],
    "page": "cyber-solidarity-act",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-10-22",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CRA Expert Group",
-   "label": "3rd meeting of the CRA Expert Group",
-   "doc": "agenda, minutes",
-   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967",
-   "key": "E03967-65181",
-   "links": [
-    [
-     "agenda",
-     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/121846/download"
-    ],
-    [
-     "minutes",
-     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124083/download"
-    ]
-   ],
-   "page": "cra",
    "type": "Committees"
   }
  ]

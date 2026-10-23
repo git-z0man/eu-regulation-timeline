@@ -1,6 +1,6 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 21 Oct 2026.
+Procedure 2026/0068(COD), as of 22 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
 - **Council:** working party, latest document 20 Oct 2026
-- **Latest activity:** 20 Oct 2026 · Council: Presidency flash note for the meeting of the Working Party on Competitiveness and Growth … (WK 15757/26)
+- **Latest activity:** 20 Oct 2026 · Council: Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth … (WK 15757/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -102,7 +102,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-30 | [WK 11081/26](https://data.consilium.europa.eu/doc/document/WK-11081-2026-INIT/en/pdf) | council-note | Industrial Accelerator Act - Union Origin Options Paper | public | – | – |
 | 2026-07-31 | WK 11082/26 | council-note | Presidency flash note for the month of September 2026 | not public\* | – | – |
 | 2026-08-04 | [ST 12329/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86329) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian Senate | not public\* | – | – |
-| 2026-08-07 | [WK 11199/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/86479) | council-note | Factual Summary of the public feedback received on the Industrial Accelerator Act proposal | not public\* | – | – |
+| 2026-08-07 | [WK 11199/26](https://data.consilium.europa.eu/doc/document/WK-11199-2026-INIT/en/pdf) | council-note | Factual Summary of the public feedback received on the Industrial Accelerator Act proposal | public | 2026-10-21 | – |
 | 2026-09-02 | [ST 12236/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-12236-2026-REV-1/en/pdf) | council-compromise | Second Presidency compromise text<br>*Our summary:* Second Presidency compromise text of 2 September 2026 (revision 1, with revised recitals) on the whole Industrial Accelerator Act proposal, prepared for the Council working party; a Presidency draft, not law, which can still change. Against the first partial compromise texts it moves the industrial acceleration areas into the permitting chapter and makes their designation optional, replaces the Commission's power to exclude third countries with lists of "partner origin" countries treated as Union origin, and redefines the scope of the foreign investment chapter around investors whose beneficial owners come from, or are controlled from, a country holding more than 40 % of global capacity in the sector. In the amendments to the Net-Zero Industry Act, the exclusion of high-risk suppliers identified under the proposed Cybersecurity Act 2 from control systems, SCADA, remote access systems and firewalls is gathered in one Article 28b for auctions, support schemes and State support to construction or manufacturing; the Presidency does not mark it as changed, and unlike the Commission proposal it names main specific components containing such systems explicitly.<br>*Updated 2026-10-14:* Reviewed after the compare version WK 13361/26 of this text was released; it marks every change against the Commission proposal and has the same clean text. Corrected: the sentence on the suspensive effect of legal remedies is not deleted, only its square brackets are, and the exclusion powers of the Commission proposal were delegated acts. Confirmed from the marks: the merger of the three high-risk supplier provisions into Art. 28b and the explicit reference to main specific components are Presidency changes against the proposal. The summary is unchanged. (source: [WK 13361/26](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf))<br>*Updated 2026-10-13:* Reviewed after the original issue ST 12236/26 of 30 July 2026 was released and became this text's predecessor: its operative text is the same, REV 1 adds the recitals. "What it is", the comparison basis and "Tracked concepts" now say so; no finding about the articles and annexes changes, and the summary is unchanged. (source: [ST 12236/26](https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf)) | public | 2026-10-08 | [en](../texts/industrial-accelerator-act/2026-09-02_council-compromise-st-12236-26-rev-1.en.md) |
 | 2026-09-03 | [WK 13327/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89631) | council-note | Explanatory Note on the recitals of the Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in … | not public\* | – | – |
 | 2026-09-03 | [WK 13361/26](https://data.consilium.europa.eu/doc/document/WK-13361-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text (compare version of doc ST 12236/26 REV1 to the Commission proposal in doc ST 7009/26 + ADD 1)<br>*Our summary:* Working document of the Presidency of 3 September 2026 (WK 13361/26): the compare version of the second Presidency compromise text on the whole Industrial Accelerator Act proposal (revision 1 of ST 12236/26) against the Commission proposal; a Presidency draft, not law, which can still change. Its clean text is that of revision 1; what is new is that every deletion and addition is marked against the Commission proposal, so the distance between the Council text and the proposal can be read provision by provision. For high-risk suppliers identified under the proposed Cybersecurity Act 2, the marks show that the exclusion from control systems, SCADA, remote access systems and firewalls was gathered in one article, now covers main specific components of net-zero technologies and support for construction, while public procurement still has no such rule. | public | 2026-10-13 | [en](../texts/industrial-accelerator-act/2026-09-03_council-compromise-wk-13361-26.en.md) |
@@ -135,10 +135,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | PE796.453 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.454 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.455 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
-| 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) | not public\* | – | – |
+| 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
+| 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Second Presidency Options Paper on Union Origin requirements | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
 
 ## Texts as Markdown
 

@@ -1,6 +1,6 @@
 # Legislative procedure – New Standardisation Regulation – COM(2026) 780 (proposal)
 
-Procedure 2026/0307(COD), as of 21 Oct 2026.
+Procedure 2026/0307(COD), as of 22 Oct 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
 
 ## Status and next steps
@@ -35,7 +35,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | [WK 16125/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98651) | council-note | The New Standardisation Regulation : Presentation of the Impact Assessment - Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 | 2026-10-19 | WK 16128/26 | council-note | Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-21.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
 
 ## Texts as Markdown
 

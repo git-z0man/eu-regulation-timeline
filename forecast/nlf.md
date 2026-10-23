@@ -1,6 +1,6 @@
 # Product laws under the New Legislative Framework: changes in parallel
 
-Data of 2026-10-21. Our own assessment from public sources, CC BY 4.0. 25 of 31 product laws are changed by 11 files that are pending or were adopted since Oct 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
+Data of 2026-10-22. Our own assessment from public sources, CC BY 4.0. 25 of 31 product laws are changed by 11 files that are pending or were adopted since Oct 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
 
 | Act | Changed in parallel by | Announced |
 | --- | --- | --- |
@@ -42,4 +42,4 @@ Data of 2026-10-21. Our own assessment from public sources, CC BY 4.0. 25 of 31 
 | Regulation 2026/405 – Detergents and surfactants | – | Sectoral omnibus: may change, scope open |
 | Directive 2000/14 – Noise emission of outdoor equipment | Omnibus IV directive (amends; provisionally agreed); IMERA directive (amends; in force) | – |
 
-Columns: Sectoral omnibus (assumed Dec 2026, OJ ~Aug 2028); European Product Act (assumed Dec 2026, OJ ~Feb 2029); Omnibus IV directive (provisionally agreed, OJ ~Dec 2026); Omnibus IV regulation (provisionally agreed, OJ ~Dec 2026); MDR/IVDR simplification (referred to committee, OJ ~May 2028); New Standardisation Regulation (proposal, OJ ~Oct 2028); Public Procurement Act (proposal, OJ ~Dec 2028); IMERA directive (in force, OJ Nov 2024); Emergency omnibus (IMERA) (in force, OJ Nov 2024); Cyber Resilience Act (in force, OJ Nov 2024); Health Data Space (EHDS) (in force, OJ Mar 2025); Toy Safety Regulation (in force, OJ Dec 2025); Digital Omnibus on AI (in force, OJ Jul 2026).
+Columns: Sectoral omnibus (assumed Dec 2026, OJ ~Aug 2028); European Product Act (assumed Dec 2026, OJ ~Feb 2029); Omnibus IV directive (provisionally agreed, OJ ~Dec 2026); Omnibus IV regulation (provisionally agreed, OJ ~Dec 2026); MDR/IVDR simplification (referred to committee, OJ ~May 2028); New Standardisation Regulation (proposal, OJ ~Oct 2028); Public Procurement Act (proposal, OJ ~Nov 2028); IMERA directive (in force, OJ Nov 2024); Emergency omnibus (IMERA) (in force, OJ Nov 2024); Cyber Resilience Act (in force, OJ Nov 2024); Health Data Space (EHDS) (in force, OJ Mar 2025); Toy Safety Regulation (in force, OJ Dec 2025); Digital Omnibus on AI (in force, OJ Jul 2026).

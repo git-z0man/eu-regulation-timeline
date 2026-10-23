@@ -2,6 +2,22 @@
  "items": [
   {
    "date": "2026-10-22",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 302 454",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 302 054",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-22",
    "title": "MR",
    "actor": "Commission Expert Group on Machinery",
    "label": "Commission Expert Group on MACHINERY",
@@ -25,6 +41,14 @@
    "page": "ehds.html"
   },
   {
+   "date": "2026-10-22",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18229-3 – AI trustworthiness framework - Part 3: Human oversight: Under Approval",
+   "doc": "prEN 18229-3",
+   "page": "ai-act.html"
+  },
+  {
    "date": "2026-10-21",
    "title": "RED",
    "actor": "ERM WG37",
@@ -39,30 +63,6 @@
    "label": "EN 301 783 – Commercially available amateur radio equipment; Harmonised Standard for access to the radi: Drafting Stage – Early draft",
    "doc": "EN 301 783",
    "page": "committees.html#red"
-  },
-  {
-   "date": "2026-10-21",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 428 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 301 428",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-10-21",
-   "title": "ESPR",
-   "actor": "Ecodesign Forum",
-   "label": "Ecodesign Forum",
-   "doc": "agenda, working document, working document",
-   "page": "espr.html"
-  },
-  {
-   "date": "2026-10-21",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 642 – Cybersecurity Requirements for Network Functions of Telecommunications Systems: Drafting Stage – Early draft",
-   "doc": "EN 304 642",
-   "page": "cra.html"
   }
  ]
 }
