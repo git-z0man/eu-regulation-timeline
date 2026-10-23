@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 22 Oct 2026.
+Procedure 2026/0011(COD), as of 23 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -102,8 +102,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-08-07 | [WK 11265/26](https://data.consilium.europa.eu/doc/document/WK-11265-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on the Presidency second compromise text on Title III (European Cybersecurity Certification Framework, … | public | 2026-10-02 | – |
 | 2026-09-04 | [WK 13545/26](https://data.consilium.europa.eu/doc/document/WK-13545-2026-INIT/en/pdf) | council-note | Cybersecurity Act 2: explanatory note on Title III (European Cybersecurity Certification Framework) | public | 2026-10-19 | – |
 | 2026-09-07 | [WK 13637/26](https://data.consilium.europa.eu/doc/document/WK-13637-2026-INIT/en/pdf) | council-note | Interplay between CADA and CSA2 - Presentation | public | 2026-10-12 | – |
-| 2026-09-08 | [WK 13671/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90341) | council-compromise | Presidency second compromise text Title II (ENISA) | not public\* | – | – |
-| 2026-09-08 | [WK 13734/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90471) | council-note | Template for the submission of drafting suggestions | not public\* | – | – |
+| 2026-09-08 | [WK 13671/26](https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf) | council-compromise | Presidency second compromise text Title II (ENISA) | public | 2026-10-22 | [en](../texts/csa2/2026-09-08_council-compromise-wk-13671-26.en.md) |
+| 2026-09-08 | [WK 13734/26](https://data.consilium.europa.eu/doc/document/WK-13734-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions | public | 2026-10-22 | – |
 | 2026-09-10 | [WK 13885/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90897) | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Member States' answers | not public\* | – | – |
 | 2026-09-11 | [WK 13873/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90986) | council-note | Cyber posture - Presentation by Spain | not public\* | – | – |
 | 2026-09-11 | [WK 13875/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90992) | council-note | Cyber posture - Presentation by France | not public\* | – | – |
@@ -132,7 +132,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 16180/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98905) | council-note | Consolidated comments from Austria and other Member States on Presidency third compromise text on the recitals and Title III (Certification) | not public\* | – | – |
 | 2026-10-20 | [WK 16206/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98885) | council-note | Title II (Fees), Articles 47/Presentation by the Commission | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-23.
 
 ## Texts as Markdown
 
@@ -145,6 +145,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-05-22 | council-progress-report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.en.md) |
 | 2026-05-27 | council-compromise | [WK 7571/26](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) | [en](../texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) |
 | 2026-08-07 | council-compromise | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
+| 2026-09-08 | council-compromise | [WK 13671/26](https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf) | [en](../texts/csa2/2026-09-08_council-compromise-wk-13671-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-08_council-compromise-wk-13671-26.en.md) |
 | 2026-09-18 | ep-draft-report | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx) | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

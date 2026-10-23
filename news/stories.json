@@ -2,6 +2,48 @@
  "edition": "2026-10-23",
  "stories": [
   {
+   "id": "digital-omnibus/mandate/ST-14756-26",
+   "kind": "mandate",
+   "desk": "Legislation",
+   "date": "2026-10-22",
+   "act": "digital-omnibus",
+   "kicker": "Digital Omnibus",
+   "kicker_de": "Digital-Omnibus",
+   "headline": "Digital Omnibus: Mandate for negotiations with the European Parliament",
+   "deck": "Council negotiating mandate. Draft until Coreper agrees it; trilogues follow.",
+   "headline_de": "Digital-Omnibus: Verhandlungsmandat des Rates",
+   "deck_de": "Titel im Original: Mandate for negotiations with the European Parliament. Entwurf, bis Coreper es billigt; dann folgen Trilogverhandlungen.",
+   "facts": [
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/digital-omnibus.html"
+    ],
+    [
+     "Document",
+     "https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 83,
+   "crumbs": {
+    "en": [
+     "Digital Omnibus",
+     "Legislation"
+    ],
+    "de": [
+     "Digital-Omnibus",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
    "id": "digital-omnibus/mandate/ST-14532-26",
    "kind": "mandate",
    "desk": "Legislation",
@@ -211,6 +253,204 @@
      "Normen",
      "M/536",
      "ETSI"
+    ]
+   }
+  },
+  {
+   "id": "ai-act/standards/M613/2026-W43",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-23",
+   "act": "ai-act",
+   "kicker": "Artificial Intelligence Act",
+   "kicker_de": "KI-VO",
+   "headline": "Artificial Intelligence Act · M/613: 1 project a step further this week",
+   "deck": "CEN-CENELEC 2. Furthest step: Adoption EN.",
+   "headline_de": "KI-VO · M/613: 1 Projekt diese Woche einen Schritt weiter",
+   "deck_de": "CEN-CENELEC 2. Weitester Schritt: Annahme EN.",
+   "facts": [
+    "M/613",
+    "Request expires 28 Feb 2027"
+   ],
+   "facts_de": [
+    "M/613",
+    "Auftrag läuft aus 28. Feb. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/ai-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "FprEN ISO/IEC 24970: Under Approval",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587"
+    },
+    {
+     "label": "prEN 18229-3: Under Approval",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "A step further: prEN 18229-3 to Drafting EN; 1 without an earlier status on record (FprEN ISO/IEC 24970).",
+    "de": "Einen Schritt weiter: prEN 18229-3 auf Entwurf EN; 1 ohne früheren Stand in den Daten (FprEN ISO/IEC 24970)."
+   },
+   "score": 60,
+   "tree": {
+    "": {
+     "CEN-CENELEC": {
+      "CEN/CLC/JTC 21": [
+       {
+        "project": "FprEN ISO/IEC 24970",
+        "title": "Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026)",
+        "now": "Under Approval",
+        "date": "2026-10-23",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587",
+        "step": [
+         5,
+         false,
+         false
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "prEN 18229-3",
+        "title": "AI trustworthiness framework - Part 3: Human oversight",
+        "now": "Under Approval",
+        "date": "2026-10-22",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3",
+        "step": [
+         3,
+         false,
+         true
+        ],
+        "prev": [
+         2,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/613",
+    "org": "CEN-CENELEC"
+   },
+   "crumbs": {
+    "en": [
+     "Artificial Intelligence Act",
+     "Standards",
+     "M/613",
+     "CEN-CENELEC"
+    ],
+    "de": [
+     "KI-VO",
+     "Normen",
+     "M/613",
+     "CEN-CENELEC"
+    ]
+   }
+  },
+  {
+   "id": "csa2/released/2026-10-22",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-22",
+   "act": "csa2",
+   "kicker": "Cybersecurity Act 2",
+   "kicker_de": "CSA2",
+   "headline": "Council releases 2 Cybersecurity Act 2 documents",
+   "deck": "1 compromise text, 1 note. Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 2 Dokumente zu CSA2 frei",
+   "deck_de": "1 Kompromisstext, 1 Vermerk. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/csa2.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "compromise text",
+     "type_de": "Kompromisstext",
+     "rank": 0,
+     "ref": "WK 13671/26",
+     "date": "2026-09-08",
+     "title": "Presidency second compromise text Title II (ENISA)",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf"
+    },
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 13734/26",
+     "date": "2026-09-08",
+     "title": "Template for the submission of drafting suggestions",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13734-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 58,
+   "crumbs": {
+    "en": [
+     "Cybersecurity Act 2",
+     "Legislation"
+    ],
+    "de": [
+     "CSA2",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "digital-omnibus/released/2026-10-22",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-22",
+   "act": "digital-omnibus",
+   "kicker": "Digital Omnibus",
+   "kicker_de": "Digital-Omnibus",
+   "headline": "Council releases 1 Digital Omnibus document",
+   "deck": "1 note. Listed as not public since 30 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu Digital-Omnibus frei",
+   "deck_de": "1 Vermerk. Seit 30. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/digital-omnibus.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 13769/26",
+     "date": "2026-09-09",
+     "title": "Proposal from Germany on low-risk controller",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13769-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 58,
+   "crumbs": {
+    "en": [
+     "Digital Omnibus",
+     "Legislation"
+    ],
+    "de": [
+     "Digital-Omnibus",
+     "Gesetzgebung"
     ]
    }
   },
@@ -466,89 +706,6 @@
    }
   },
   {
-   "id": "ai-act/standards/M613/2026-W43",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-10-22",
-   "act": "ai-act",
-   "kicker": "Artificial Intelligence Act",
-   "kicker_de": "KI-VO",
-   "headline": "Artificial Intelligence Act · M/613: 1 project a step further this week",
-   "deck": "AI trustworthiness framework - Part 3: Human oversight. Step 4 of 8: Drafting EN.",
-   "headline_de": "KI-VO · M/613: 1 Projekt diese Woche einen Schritt weiter",
-   "deck_de": "AI trustworthiness framework - Part 3: Human oversight. Schritt 4 von 8: Entwurf EN.",
-   "facts": [
-    "M/613",
-    "Request expires 28 Feb 2027"
-   ],
-   "facts_de": [
-    "M/613",
-    "Auftrag läuft aus 28. Feb. 2027"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/ai-act.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "prEN 18229-3: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "A step further: prEN 18229-3 to Drafting EN.",
-    "de": "Einen Schritt weiter: prEN 18229-3 auf Entwurf EN."
-   },
-   "score": 47,
-   "tree": {
-    "": {
-     "CEN-CENELEC": {
-      "CEN/CLC/JTC 21": [
-       {
-        "project": "prEN 18229-3",
-        "title": "AI trustworthiness framework - Part 3: Human oversight",
-        "now": "Under Approval",
-        "date": "2026-10-22",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3",
-        "step": [
-         3,
-         false,
-         true
-        ],
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/613",
-    "org": "CEN-CENELEC"
-   },
-   "crumbs": {
-    "en": [
-     "Artificial Intelligence Act",
-     "Standards",
-     "M/613",
-     "CEN-CENELEC"
-    ],
-    "de": [
-     "KI-VO",
-     "Normen",
-     "M/613",
-     "CEN-CENELEC"
-    ]
-   }
-  },
-  {
    "id": "digital-omnibus/released/2026-10-16",
    "kind": "released",
    "desk": "Documents",
@@ -641,6 +798,50 @@
     ],
     "de": [
      "KI-VO",
+     "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "industrial-accelerator-act/released/2026-10-22",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-10-22",
+   "act": "industrial-accelerator-act",
+   "kicker": "Industrial Accelerator Act",
+   "kicker_de": "IAA",
+   "headline": "Council releases 1 Industrial Accelerator Act document",
+   "deck": "1 note. Listed as not public since 30 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu IAA frei",
+   "deck_de": "1 Vermerk. Seit 30. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/industrial-accelerator-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "ST 13708/26",
+     "date": "2026-09-30",
+     "title": "Regulation on accelerating industrial capacity and decarbonisation (Industrial …",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13708-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 43,
+   "crumbs": {
+    "en": [
+     "Industrial Accelerator Act",
+     "Legislation"
+    ],
+    "de": [
+     "IAA",
      "Gesetzgebung"
     ]
    }
@@ -1832,6 +2033,40 @@
     "de": [
      "IAA",
      "Gesetzgebung"
+    ]
+   }
+  },
+  {
+   "id": "ehds/committee/2026-10-23",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-10-23",
+   "act": "ehds",
+   "kicker": "European Health Data Space Regulation",
+   "kicker_de": "EHDS",
+   "headline": "Summary record published: 10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026 (2026-09-30)",
+   "deck": "Committee on the European Health Data Space.",
+   "headline_de": "EHDS: Ausschussdokument veröffentlicht",
+   "deck_de": "Committee on the European Health Data Space (Titel im Original): Summary record published: 10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026 (2026-09-30)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/ehds.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 20,
+   "crumbs": {
+    "en": [
+     "European Health Data Space Regulation",
+     "Committees"
+    ],
+    "de": [
+     "EHDS",
+     "Ausschüsse"
     ]
    }
   },

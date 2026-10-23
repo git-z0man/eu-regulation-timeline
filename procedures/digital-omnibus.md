@@ -1,15 +1,15 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 22 Oct 2026.
+Procedure 2025/0360(COD), as of 23 Oct 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
 
-- **Stage:** EP committee stage
+- **Stage:** Council mandate adopted
 - **Parliament:** draft report 22 Jun 2026
-- **Council:** draft mandate before Coreper (ST 14532/26 of 19 Oct 2026)
-- **Latest activity:** 19 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 14532/26)
-- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 14532/26)
+- **Council:** mandate (ST 14756/26 of 22 Oct 2026)
+- **Latest activity:** 22 Oct 2026 · Council: Mandate for negotiations with the European Parliament (ST 14756/26)
+- **Next steps:** EP committee report and mandate; then trilogues
 
 ## Events
 
@@ -35,6 +35,7 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 | 2026-06-22 | Council | Mandate for negotiations with the European Parliament | [ST 10729/26](https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) | Parliament of Austria, EU database (interinstitutional file 2025/0360(COD)) |
 | 2026-06-22 | European Parliament | CJ72 draft report | [PE786.818](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.pdf) · [en.md](../texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) [de.md](../texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | EP Open Data API, procedure 2025-0360 (COMMITTEE_TABLING_REPORT) |
 | 2026-09-03 | Council | Presidency revised compromise text | [ST 12535/26](https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | Cellar procedure file 2025/360 (Council register) |
+| 2026-10-22 | Council | Mandate for negotiations with the European Parliament | [ST 14756/26](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | Parliament of Austria, EU database (interinstitutional file 2025/0360(COD)) |
 
 ## Documents
 
@@ -124,7 +125,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-08-20 | [WK 12980/26](https://data.consilium.europa.eu/doc/document/WK-12980-2026-INIT/en/pdf) | council-note | Non-paper from Poland on the proposed changes to the Open Data Directive under Omnibus VII (Digital) | public | 2026-10-08 | – |
 | 2026-09-03 | [ST 12535/26](https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf) | council-compromise | Presidency revised compromise text | public | 2026-10-16 | [en](../texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) |
 | 2026-09-04 | [WK 13065/26](https://data.consilium.europa.eu/doc/document/WK-13065-2026-INIT/en/pdf) | council-note | Steering and Explanatory Note by the Presidency - AGS meeting on 11 September 2026 | public | 2026-10-16 | – |
-| 2026-09-09 | [WK 13769/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90537) | council-note | Proposal from Germany on low-risk controller | not public\* | – | – |
+| 2026-09-09 | [WK 13769/26](https://data.consilium.europa.eu/doc/document/WK-13769-2026-INIT/en/pdf) | council-note | Proposal from Germany on low-risk controller | public | 2026-10-22 | – |
 | 2026-09-10 | [ST 12955/26](https://data.consilium.europa.eu/doc/document/ST-12955-2026-INIT/en/pdf) | council-note | AOB item for the meeting of the General Affairs Council on 22 September 2026 Omnibus simplification packages: state of play - Information from the Presidency | public | – | – |
 | 2026-09-17 | [WK 14249/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92202) | council-note | Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, … | not public\* | – | – |
 | 2026-09-17 | [WK 14298/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92216) | council-note | Non-paper from Poland on Digital Omnibus provisions concerning cookies | not public\* | – | – |
@@ -136,8 +137,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-05 | [ST 13886/26 REV 1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016) | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
 | 2026-10-11 | [ST 13819/26](https://data.consilium.europa.eu/doc/document/ST-13819-2026-INIT/en/pdf) | council-note | AOB item for the meeting of the General Affairs Council on 13 October 2026 Omnibus simplification packages: state of play - Information from the Presidency | public | – | – |
 | 2026-10-19 | [ST 14532/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98785) | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
+| 2026-10-22 | [ST 14756/26](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | [en](../texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-23.
 
 ## Texts as Markdown
 
@@ -158,6 +160,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-06-22 | ep-draft-report | [PE786.818](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_en.docx) | [en](../texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) [de](../texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) |
 | 2026-06-22 | council-position | [ST 10729/26](https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf) | [en](../texts/digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) |
 | 2026-09-03 | council-compromise | [ST 12535/26](https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf) | [en](../texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) |
+| 2026-10-22 | council-position | [ST 14756/26](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) | [en](../texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) |
 
 ## Standardisation
 

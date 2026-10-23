@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="936" viewBox="0 0 1800 936" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="936" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-22">
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-23">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0360(COD). State as of 22 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see digital-omnibus.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0360(COD). State as of 23 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see digital-omnibus.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -24,7 +24,7 @@
 <rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Draft mandate before Coreper, 19 Oct 2026</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Council mandate 22 Oct 2026</tspan></text>
 <rect x="740.0" y="150.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="161.0">Act adopted in the wording of the EP</tspan><tspan x="855.0" y="174.7">position</tspan></text>
 <text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="855.0" y="199.2">Art. 294(4)</tspan></text>
@@ -112,8 +112,8 @@
 <rect x="20.0" y="828.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="841.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="841.1">no events yet</tspan></text>
-<line x1="1518.3" y1="440.0" x2="1518.3" y2="852.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1518.3" y="862.1">as of 22 Oct 2026</tspan></text>
+<line x1="1522.0" y1="440.0" x2="1522.0" y2="852.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1522.0" y="862.1">as of 23 Oct 2026</tspan></text>
 <rect x="272.3" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="276.3" y="462.1">19 Nov 2025 · Commission proposal (COM(2025) 837)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837" target="_blank"><title>19 Nov 2025: Commission proposal – COM(2025) 837</title><polygon points="276.3380281690141,465 284.3380281690141,473 276.3380281690141,481 268.3380281690141,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -172,6 +172,8 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1068.7" y="773.1">22 Jun 2026 · Mandate for negotiations with the European Parliament (ST 10729/26)</tspan></text></a>
 <rect x="1333.7" y="722.0" width="299.4" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1337.7" y="731.1">03 Sep 2026 · Presidency revised compromise text (ST 12535/26)</tspan></text></a>
+<rect x="1391.3" y="735.0" width="388.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1395.3" y="744.1">22 Oct 2026 · Mandate for negotiations with the European Parliament (ST 14756/26)</tspan></text></a>
 <g><title>13 Feb 2026: Attendance of third parties at the Simplification subgroup of the … – ST 6311/26</title><polygon points="593.2863849765258,749.5 598.7863849765258,755 593.2863849765258,760.5 587.7863849765258,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></g>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-6406-2026-INIT/en/pdf" target="_blank"><title>20 Feb 2026: Presidency compromise text on Omnibus VII – Digital (GDPR/P2B) – ST 6406/26</title><polygon points="619.0845070422536,749.5 624.5845070422536,755 619.0845070422536,760.5 613.5845070422536,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8261-2026-INIT/en/pdf" target="_blank"><title>15 Apr 2026: Presidency revised compromise text – ST 8261/26</title><polygon points="818.0985915492957,749.5 823.5985915492957,755 818.0985915492957,760.5 812.5985915492957,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
@@ -184,6 +186,7 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10677-2026-INIT/en/pdf" target="_blank"><title>18 Jun 2026: Presidency revised compromise text – ST 10677/26</title><polygon points="1053.9671361502346,749.5 1059.4671361502346,755 1053.9671361502346,760.5 1048.4671361502346,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf" target="_blank"><title>22 Jun 2026: Mandate for negotiations with the European Parliament – ST 10729/26</title><polygon points="1068.7089201877934,749.5 1074.2089201877934,755 1068.7089201877934,760.5 1063.2089201877934,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf" target="_blank"><title>3 Sep 2026: Presidency revised compromise text – ST 12535/26</title><polygon points="1337.7464788732395,749.5 1343.2464788732395,755 1337.7464788732395,760.5 1332.2464788732395,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf" target="_blank"><title>22 Oct 2026: Mandate for negotiations with the European Parliament – ST 14756/26</title><polygon points="1518.3333333333335,749.5 1523.8333333333335,755 1518.3333333333335,760.5 1512.8333333333335,755" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="883.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="901.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>

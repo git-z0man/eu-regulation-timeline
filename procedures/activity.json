@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "date": "2026-10-23",
+   "act": "ehds",
+   "title": "EHDS",
+   "actor": "Committee on the European Health Data Space",
+   "label": "Summary record published: 10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026 (2026-09-30)",
+   "doc": "summary record",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/118652/1/consult",
+   "key": "C131500-S118652/1",
+   "page": "ehds",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-23",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "FprEN ISO/IEC 24970 – Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026): Under Approval",
+   "doc": "FprEN ISO/IEC 24970",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587",
+   "key": "eso-JT021021-2026-10-23",
+   "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-22",
    "act": "red",
    "title": "RED",
@@ -62,6 +86,22 @@
   },
   {
    "date": "2026-10-22",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-30 (Regulation on accelerating industrial capacity and decarbonisation (Industrial …), listed as not public since 2026-09-30",
+   "doc": "ST 13708/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13708-2026-INIT/en/pdf",
+   "key": "ST 13708/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-30",
+   "doc_title": "Regulation on accelerating industrial capacity and decarbonisation (Industrial …",
+   "withheld_since": "2026-09-30",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-10-22",
    "act": "ehds",
    "title": "EHDS",
    "actor": "Committee on the European Health Data Space",
@@ -77,6 +117,66 @@
    ],
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-09 (Proposal from Germany on low-risk controller), listed as not public since 2026-09-30",
+   "doc": "WK 13769/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13769-2026-INIT/en/pdf",
+   "key": "WK 13769/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-09",
+   "doc_title": "Proposal from Germany on low-risk controller",
+   "withheld_since": "2026-09-30",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Mandate for negotiations with the European Parliament",
+   "doc": "ST 14756/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf",
+   "key": "ST 14756/26",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "csa2",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-08 (Template for the submission of drafting suggestions), listed as not public since 2026-09-30",
+   "doc": "WK 13734/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13734-2026-INIT/en/pdf",
+   "key": "WK 13734/26-released",
+   "page": "csa2",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-08",
+   "doc_title": "Template for the submission of drafting suggestions",
+   "withheld_since": "2026-09-30",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "csa2",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-09-08 (Presidency second compromise text Title II (ENISA)), listed as not public since 2026-09-25",
+   "doc": "WK 13671/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf",
+   "key": "WK 13671/26-released",
+   "page": "csa2",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-09-08",
+   "doc_title": "Presidency second compromise text Title II (ENISA)",
+   "withheld_since": "2026-09-25",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
   },
   {
    "date": "2026-10-22",
@@ -1349,6 +1449,24 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-09-30",
+   "act": "ehds",
+   "title": "EHDS",
+   "actor": "Committee on the European Health Data Space",
+   "label": "10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026",
+   "doc": "summary record",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)94/consult",
+   "key": "C131500-CMTD(2026)94",
+   "links": [
+    [
+     "summary record",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/118652/1/consult"
+    ]
+   ],
+   "page": "ehds",
+   "type": "Committees"
+  },
+  {
    "date": "2026-09-29",
    "act": "chips-act-2",
    "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
@@ -2081,11 +2199,11 @@
    "actor": "Council",
    "label": "Second Presidency compromise text, Title II (not public)",
    "doc": "WK 13671/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/90341",
+   "url": null,
    "key": "WK 13671/26",
    "page": "csa2",
    "type": "Legislation",
-   "listed": "council-compromise"
+   "listed": "document"
   },
   {
    "date": "2026-09-07",
@@ -2421,18 +2539,6 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
    "key": "eso-DEN/MSG-TFES-1505-2026-08-27",
    "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-08-27",
-   "act": "ai-act",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "FprEN ISO/IEC 24970 – Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026): Under Approval",
-   "doc": "FprEN ISO/IEC 24970",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587",
-   "key": "eso-JT021021-2026-08-27",
-   "page": "ai-act",
    "type": "Standardisation"
   },
   {

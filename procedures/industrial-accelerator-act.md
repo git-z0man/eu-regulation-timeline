@@ -1,6 +1,6 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 22 Oct 2026.
+Procedure 2026/0068(COD), as of 23 Oct 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -109,11 +109,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-03 | [WK 13373/26](https://data.consilium.europa.eu/doc/document/WK-13373-2026-INIT/en/pdf) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 09 and 10 September 2026 | public | 2026-10-13 | – |
 | 2026-09-11 | [PE792.067](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ80-PR-792067/CJ80-PR-792067_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of …<br>*Our summary:* Draft report of September 2026 by the three co-rapporteurs of the joint INTA, ITRE and IMCO committees on the Industrial Accelerator Act proposal, with 267 amendments; the rapporteurs' draft, not the position of the committees or of Parliament, and not law. It replaces the automatic treatment of content from free trade and procurement agreement partners as Union origin by an opt-in through delegated acts under seven cumulative conditions, with no such equivalence for public support schemes, and makes all six foreign investment conditions mandatory from EUR 50 million and a 10 % stake, also for subsidiaries of foreign investors. It raises the Union origin and low-carbon shares for steel, concrete, vehicles and net-zero technologies, raises the cost thresholds of the derogations to 40 %, adds social and labour conditions and drops the exclusion of digital technologies, AI, quantum and semiconductors from the sectors that may be added to the investment rules. The exclusion of high-risk suppliers from control systems, SCADA, remote access and firewalls in net-zero auctions and support schemes is not amended: it stays as the Commission proposed it, outside the auction cost derogation and applying to all auctions. | public | – | [en](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.en.md) [de](../texts/industrial-accelerator-act/2026-09-11_ep-draft-report-pe792-067.de.md) |
 | 2026-09-11 | [WK 13937/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91158) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) on 17 September 2026 | not public\* | – | – |
-| 2026-09-30 | [ST 13708/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94547) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | not public\* | – | – |
+| 2026-09-30 | [ST 13708/26](https://data.consilium.europa.eu/doc/document/ST-13708-2026-INIT/en/pdf) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | public | 2026-10-22 | – |
 | 2026-10-07 | [PE789.106](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf) | ep-opinion | Opinion on the proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of industrial … | public | – | – |
 | 2026-10-13 | PE796.449 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-13 | PE796.450 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-13 | PE796.452 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-16 | [ST 14387/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527) | council-compromise | Third Presidency compromise text | not public\* | – | – |
 | 2026-10-16 | [WK 16102/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98526) | council-note | Explanatory note on the third Presidency compromise text of the draft Regulation establishing a framework of measures for accelerating industrial capacity and … | not public\* | – | – |
 | 2026-10-16 | [WK 16104/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525) | council-compromise | Third Presidency compromise text on the draft proposal for a Regulation establishing a framework of measures for accelerating industrial capacity and … | not public\* | – | – |
@@ -122,23 +120,17 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | PE796.437 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.438 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.439 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.440 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.441 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.442 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.443 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.444 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.445 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.446 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.447 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.448 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.451 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-19 | PE796.453 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.454 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.455 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
 | 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Second Presidency Options Paper on Union Origin requirements | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-23.
 
 ## Texts as Markdown
 

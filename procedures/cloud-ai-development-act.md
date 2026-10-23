@@ -1,6 +1,6 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 22 Oct 2026.
+Procedure 2026/0138(COD), as of 23 Oct 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
@@ -55,7 +55,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | [WK 15917/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97679) | council-note | Comments from Germany | not public\* | – | – |
 | 2026-10-19 | [WK 16115/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98585) | council-note | Comments from Cyprus | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-22.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-23.
 
 ## Texts as Markdown
 

@@ -20,10 +20,22 @@
    ],
    "recap": [
     {
+     "date": "2026-10-22",
+     "act": "Digital Omnibus",
+     "text": "Council: Mandate for negotiations with the European Parliament",
+     "url": "procedures/digital-omnibus.html"
+    },
+    {
      "date": "2026-10-19",
      "act": "Digital Omnibus",
      "text": "Council: Mandate for negotiations with the European Parliament (not public)",
      "url": "procedures/digital-omnibus.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 3 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
+     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-10-16",
@@ -32,22 +44,10 @@
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-16",
+     "date": "2026-10-22",
      "act": "Digital Omnibus",
-     "text": "Council released 2 documents listed as not public, incl. Presidency revised compromise text",
+     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
      "url": "procedures/digital-omnibus.html"
-    },
-    {
-     "date": "2026-10-21",
-     "act": "Industrial Accelerator Act",
-     "text": "Council released 2 documents listed as not public, incl. Partial Presidency compromise text on Chapter III …",
-     "url": "procedures/industrial-accelerator-act.html"
-    },
-    {
-     "date": "2026-10-19",
-     "act": "Chips Act 2.0",
-     "text": "Council: Presidency compromise text (not public)",
-     "url": "procedures/chips-act-2.html"
     }
    ]
   },
@@ -64,10 +64,22 @@
    ],
    "recap": [
     {
+     "date": "2026-10-22",
+     "act": "Digital Omnibus",
+     "text": "Council: Mandate for negotiations with the European Parliament",
+     "url": "procedures/digital-omnibus.html"
+    },
+    {
      "date": "2026-10-19",
      "act": "Digital Omnibus",
      "text": "Council: Mandate for negotiations with the European Parliament (not public)",
      "url": "procedures/digital-omnibus.html"
+    },
+    {
+     "date": "2026-10-22",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 3 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
+     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-10-16",
@@ -76,22 +88,10 @@
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-16",
-     "act": "Digital Omnibus",
-     "text": "Council released 2 documents listed as not public, incl. Presidency revised compromise text",
-     "url": "procedures/digital-omnibus.html"
-    },
-    {
-     "date": "2026-10-21",
-     "act": "Cyber Resilience Act",
-     "text": "5 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
-     "url": "acts/cra.html#standardisation"
-    },
-    {
      "date": "2026-10-22",
-     "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-3: Under Approval",
-     "url": "acts/ai-act.html#standardisation"
+     "act": "Digital Omnibus",
+     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
+     "url": "procedures/digital-omnibus.html"
     }
    ]
   }
