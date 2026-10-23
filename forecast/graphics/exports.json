@@ -137,22 +137,22 @@
   "method-rule-of-thumb": {
     "pdf": "method-rule-of-thumb.pdf",
     "png": "method-rule-of-thumb.png",
-    "svg_sha256": "34caa9f400ffad5a3293f9d30af06d685d0ab7249f9b6f775e4d08f5efd1400f"
+    "svg_sha256": "21cfa5ab26eaf674c20e5490c4286536e4ebb2f755726d584d7e007410c3a0b7"
   },
   "method-rule-of-thumb-de": {
     "pdf": "method-rule-of-thumb-de.pdf",
     "png": "method-rule-of-thumb-de.png",
-    "svg_sha256": "1888c39bf7ab4024c87dae30ec69e55aa618d2c55358e2da5a9ef1ceae518cf1"
+    "svg_sha256": "622ed04ec848b671a9d57befc5c84fdccd1e69b3204311695e5d4f0ab22f4f35"
   },
   "method-size-trend": {
     "pdf": "method-size-trend.pdf",
     "png": "method-size-trend.png",
-    "svg_sha256": "8b11bde7c9f0143c32ca24d3f3a86b1454f993d52cd338bd65f4dc73c5b6eeaa"
+    "svg_sha256": "8499384f321104568c88fbd059367406f5b59bddde67f45d9d4457f78303bbc9"
   },
   "method-size-trend-de": {
     "pdf": "method-size-trend-de.pdf",
     "png": "method-size-trend-de.png",
-    "svg_sha256": "33b9556f0f575897910d00987c7a09d6190d852787e81ef84bdb4451784910d9"
+    "svg_sha256": "43072df92cb60a2fa81abec4a8351c8e06113c6b82e0c5765f6f46a94cccd13e"
   },
   "nlf-overview": {
     "pdf": "nlf-overview.pdf",
