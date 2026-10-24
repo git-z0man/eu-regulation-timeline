@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-23",
+ "as_of": "2026-10-24",
  "views": [
   {
    "key": "all",
@@ -16,6 +16,18 @@
      "act": "Artificial Intelligence Act",
      "text": "Funding call deadline: DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI …",
      "url": "acts/ai-act.html#funding"
+    },
+    {
+     "date": "2026-10-30",
+     "act": "Cyber Resilience Act",
+     "text": "M/606: deadline for the ESOs to adopt the requested standards (items 16–41)",
+     "url": "acts/cra.html"
+    },
+    {
+     "date": "2026-10-30",
+     "act": "NIS 2 Directive",
+     "text": "Funding call deadline: TRUNSPORT: TRUNSPORT Open Call 1",
+     "url": "acts/nis2.html#funding"
     }
    ],
    "recap": [
@@ -38,16 +50,16 @@
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-16",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency third compromise text on Title II of the draft proposal for a Regulation on … (not public)",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-19",
+     "act": "Chips Act 2.0",
+     "text": "Council: Presidency compromise text (not public)",
+     "url": "procedures/chips-act-2.html"
     },
     {
-     "date": "2026-10-22",
-     "act": "Digital Omnibus",
-     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
-     "url": "procedures/digital-omnibus.html"
+     "date": "2026-10-21",
+     "act": "Cyber Resilience Act",
+     "text": "5 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation"
     }
    ]
   },
@@ -60,6 +72,18 @@
      "act": "Artificial Intelligence Act",
      "text": "Funding call deadline: DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI …",
      "url": "acts/ai-act.html#funding"
+    },
+    {
+     "date": "2026-10-30",
+     "act": "Cyber Resilience Act",
+     "text": "M/606: deadline for the ESOs to adopt the requested standards (items 16–41)",
+     "url": "acts/cra.html"
+    },
+    {
+     "date": "2026-10-30",
+     "act": "NIS 2 Directive",
+     "text": "Funding call deadline: TRUNSPORT: TRUNSPORT Open Call 1",
+     "url": "acts/nis2.html#funding"
     }
    ],
    "recap": [
@@ -82,16 +106,16 @@
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-16",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency third compromise text on Title II of the draft proposal for a Regulation on … (not public)",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-21",
+     "act": "Cyber Resilience Act",
+     "text": "5 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation"
     },
     {
-     "date": "2026-10-22",
-     "act": "Digital Omnibus",
-     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
-     "url": "procedures/digital-omnibus.html"
+     "date": "2026-10-23",
+     "act": "Artificial Intelligence Act",
+     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Under Approval",
+     "url": "acts/ai-act.html#standardisation"
     }
    ]
   }
