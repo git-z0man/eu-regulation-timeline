@@ -1,0 +1,98 @@
+[
+  {
+    "name": "forecast-overview",
+    "title": "Forecast: likely publication of the open procedures",
+    "note": "All open procedures we follow and the announced European Product Act: median, middle half and eight in ten of the runs.",
+    "page": "index.html"
+  },
+  {
+    "name": "forecast-epa",
+    "title": "Forecast: European Product Act, step by step",
+    "note": "Proposal assumed in December 2026; one act.",
+    "page": "epa.html"
+  },
+  {
+    "name": "forecast-epa-package",
+    "title": "Forecast: European Product Act and its package",
+    "note": "With the New Standardisation Regulation and the announced sectoral omnibus (the Commission's intention; scope open).",
+    "page": "epa.html"
+  },
+  {
+    "name": "nlf-overview",
+    "title": "Product laws under the NLF: changes in parallel",
+    "note": "Which pending and recent files change which product law, next to the announced European Product Act and sectoral omnibus.",
+    "page": "nlf.html"
+  },
+  {
+    "name": "forecast-product-digitalisation-directive",
+    "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Directive)",
+    "note": "Step by step; Official Journal median Dec 2026.",
+    "page": "product-digitalisation-directive.html"
+  },
+  {
+    "name": "forecast-product-digitalisation-regulation",
+    "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Regulation)",
+    "note": "Step by step; Official Journal median Dec 2026.",
+    "page": "product-digitalisation-regulation.html"
+  },
+  {
+    "name": "forecast-medical-devices-simplification",
+    "title": "Forecast: MDR/IVDR simplification",
+    "note": "Step by step; Official Journal median Feb 2028.",
+    "page": "medical-devices-simplification.html"
+  },
+  {
+    "name": "forecast-industrial-accelerator-act",
+    "title": "Forecast: Industrial Accelerator Act",
+    "note": "Step by step; Official Journal median Feb 2028.",
+    "page": "industrial-accelerator-act.html"
+  },
+  {
+    "name": "forecast-csa2",
+    "title": "Forecast: Cybersecurity Act 2",
+    "note": "Step by step; Official Journal median Feb 2028.",
+    "page": "csa2.html"
+  },
+  {
+    "name": "forecast-nis2-amendment",
+    "title": "Forecast: NIS-2 amendment",
+    "note": "Step by step; Official Journal median Feb 2028.",
+    "page": "nis2-amendment.html"
+  },
+  {
+    "name": "forecast-digital-omnibus",
+    "title": "Forecast: Digital Omnibus",
+    "note": "Step by step; Official Journal median Feb 2028.",
+    "page": "digital-omnibus.html"
+  },
+  {
+    "name": "forecast-space-act",
+    "title": "Forecast: EU Space Act",
+    "note": "Step by step; Official Journal median Mar 2028.",
+    "page": "space-act.html"
+  },
+  {
+    "name": "forecast-chips-act-2",
+    "title": "Forecast: Chips Act 2.0",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "chips-act-2.html"
+  },
+  {
+    "name": "forecast-cloud-ai-development-act",
+    "title": "Forecast: Cloud and AI Development Act",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "cloud-ai-development-act.html"
+  },
+  {
+    "name": "forecast-standardisation-revision",
+    "title": "Forecast: New Standardisation Regulation",
+    "note": "Step by step; Official Journal median Jul 2028.",
+    "page": "standardisation-revision.html"
+  },
+  {
+    "name": "forecast-public-procurement-act",
+    "title": "Forecast: Public Procurement Act",
+    "note": "Step by step; Official Journal median Aug 2028.",
+    "page": "public-procurement-act.html"
+  }
+]

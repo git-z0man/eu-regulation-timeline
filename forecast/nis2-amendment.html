@@ -1,0 +1,517 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Forecast: NIS-2 amendment – EU regulation timeline</title><meta name="description" content="When the NIS-2 amendment is likely to be published in the Official Journal."><style>
+:root { --bg: var(--s-paper); --panel: var(--s-sheet); --ink: var(--s-ink); --muted: var(--s-ink2); --line: var(--s-hair);
+  --accent: var(--s-accent); --chip: var(--s-tint); --act: var(--s-act); --prepare: var(--s-prepare);
+  --operate: var(--s-operate); --monitor: var(--s-monitor); --low: var(--s-low); }
+* { box-sizing: border-box; }
+html { scroll-padding-top: 56px; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--s-sans); font-variant-numeric: tabular-nums; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 0 24px 56px; }
+a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent); }
+a:hover { text-decoration-color: currentColor; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a.ext::after { content: "\00a0↗"; font-size: 0.85em; }
+.crumbs { font-size: 15px; color: var(--muted); margin: 6px 0 8px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 24px; }
+h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 0 0 4px; }
+h2 { font: 600 22px/1.25 var(--s-serif); margin: 0; }
+h3 { font-size: 16px; font-weight: 700; margin: 20px 0 6px; }
+.muted { color: var(--muted); } .small { font-size: 14px; }
+.head { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 32px; align-items: start; padding-bottom: 12px;
+  border-bottom: 3px solid var(--s-rule); }
+.facts { display: flex; flex-wrap: wrap; gap: 4px 24px; margin: 8px 0 0; font-size: 15px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; }
+.facts a.chip { color: var(--ink); text-decoration: underline; text-decoration-color: var(--line); }
+.dot { width: 10px; height: 10px; display: inline-block; margin-right: 5px; }
+.official { font-size: 15px; text-align: right; }
+/* lead: the act's next date */
+.lead { padding: 18px 0 16px; border-bottom: 1px solid var(--line); }
+.lead .when { font: 600 clamp(24px, 2.8vw, 32px)/1.2 var(--s-serif); margin: 2px 0 0; }
+.lead .where { margin: 6px 0 0; color: var(--muted); }
+/* contents: one numbered line and one count per section, the first thing on the page */
+.contents { margin: 0; padding: 6px 0 0; list-style: none; columns: 2 380px; column-gap: 48px; }
+.contents li { break-inside: avoid; display: grid; grid-template-columns: 28px minmax(0, 1fr); gap: 0 8px; padding: 9px 0;
+  border-bottom: 1px solid var(--line); }
+.contents .no { font-weight: 700; color: var(--accent); }
+.contents a { font-weight: 600; font-size: 17px; color: var(--ink); text-decoration: none; }
+.contents a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.contents .sum { grid-column: 2; color: var(--muted); font-size: 15px; }
+.contents-h { font: 700 16px var(--s-sans); margin: 20px 0 0; padding-bottom: 5px; border-bottom: 1.5px solid var(--s-rule); }
+nav.sections { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line);
+  margin: 0 -24px; padding: 8px 24px; display: flex; gap: 4px 18px; overflow-x: auto; scrollbar-width: none;
+  visibility: hidden; height: 0; padding-block: 0; border: 0; }
+nav.sections.on { visibility: visible; height: auto; padding-block: 8px; border-bottom: 1px solid var(--line); }
+nav.sections a { white-space: nowrap; text-decoration: none; color: var(--ink); font-size: 15px; padding: 2px 0;
+  border-bottom: 2px solid transparent; }
+nav.sections a[aria-current="true"] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+/* wider screens: the bar wraps, so every section stays reachable (a topic page has more than fit on one line) */
+@media (min-width: 701px) { nav.sections { flex-wrap: wrap; overflow-x: visible; } }
+/* every section of a topic page opens over the same 3px rule as the act pages' sections */
+section > h2:first-child { border-bottom: 3px solid var(--s-rule); padding-bottom: 6px; margin-bottom: 12px; }
+section { margin-top: 40px; }
+section p, .why, .note, .change > p { max-width: 80ch; }
+.actpage .wrap { counter-reset: sec; }
+.actpage .wrap > section[id] > .sec-head h2::before { counter-increment: sec; content: counter(sec); color: var(--accent);
+  margin-right: 12px; }
+section > .sec-head:first-child { border-bottom: 3px solid var(--s-rule); padding-bottom: 6px; margin-bottom: 12px; }
+.sec-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.sec-head h2 .no { color: var(--accent); margin-right: 10px; }
+.sec-head a.more { font-size: 15px; white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; font-size: 15px; background: var(--panel); }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--s-rule); } td.nowrap { white-space: nowrap; }
+.table { overflow-x: auto; }
+.next { list-style: none; margin: 0; padding: 0; }
+.next li { border-bottom: 1px solid var(--line); }
+.next a { text-decoration: none; color: inherit; display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 0 12px;
+  padding: 8px 0; }
+.next a > :nth-child(2) { order: -1; grid-row: span 2; } .next .kind { order: 2; font-size: 14px; } .next .rel { display: block; margin: 0; }
+.next .date { font-weight: 600; white-space: nowrap; } .next .rel { color: var(--muted); font-size: 14px; }
+.next .kind { color: var(--muted); font-size: 15px; }
+.next a:hover .what { text-decoration: underline; text-decoration-color: var(--accent); }
+.tag { font-size: 14px; color: var(--accent); font-weight: 600; }
+.note { border-top: 1px solid var(--line); padding: 8px 0 0; font-size: 15px; margin: 12px 0; }
+.sec-head + .note { border-top: 0; padding-top: 0; }   /* the heading rule is enough */
+details { margin-top: 8px; } summary { cursor: pointer; color: var(--accent); font-size: 15px; padding: 2px 0; }
+.stat { display: inline-block; margin-right: 18px; } .stat b { font-size: 20px; margin-right: 4px; }
+.past, tr.past td { color: var(--muted); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0 32px; margin-top: 12px; }
+a.card-link { text-decoration: none; color: inherit; }
+.acard { border-top: 1.5px solid var(--s-rule); padding: 12px 0 16px; height: 100%; }
+a.card-link:hover .acard h2 { text-decoration: underline; text-decoration-color: var(--accent); } .acard h2 { margin: 4px 0 6px; }
+.now-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px 48px; }
+.now h3 { margin: 12px 0 6px; font-size: 16px; font-weight: 700; }
+.prog { list-style: none; margin: 0; padding: 0; }
+.prog li { border-bottom: 1px solid var(--line); padding: 10px 0; }
+.prog .t { font-weight: 600; text-decoration: none; color: var(--ink); display: block; margin: 1px 0 2px; }
+.prog .t:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.prog .kind, .feed .kind { font-size: 14px; color: var(--muted); }
+.feed { list-style: none; margin: 0; padding: 0; }
+.feed li { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 0 12px; padding: 8px 0; border-bottom: 1px solid var(--line);
+  font-size: 15px; }
+.feed .when time { display: block; font-weight: 600; white-space: nowrap; }
+.feed .kind { display: block; }
+/* WCAG 2.2 SC 2.5.8: the entry's link and its source link are targets at least 24px tall, on lines far enough apart
+   that they never overlap (2px above and below the text, which does not move the line) */
+.feed li > div { line-height: 1.7; } .feed li > div a { padding-block: 2px; }
+.feed li > div .small a { white-space: nowrap; }   /* a document number never breaks around the entry's link */
+.feed details { margin-top: 2px; }
+.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit; font-size: 15px; padding: 8px 0 0; }
+.badge { font-size: 14px; font-weight: 600; padding: 1px 0; margin-left: 6px; color: var(--ink); }
+.badge::before { content: ""; display: inline-block; width: 9px; height: 9px; margin-right: 6px; vertical-align: 1px; background: var(--muted); }
+.b-pending::before { background: var(--s-prepare); } .b-adopted::before { background: var(--s-act); }
+h3.group { font-size: 17px; font-weight: 700; margin: 22px 0 2px; }
+.why { border-top: 1px solid var(--line); padding: 8px 0 0; margin: 12px 0; font-size: 15px; }
+.why p { margin: 4px 0; } .why-h { font-size: 15px; font-weight: 700; }
+.why ul.pts { margin: 2px 0 6px; padding-left: 20px; }
+.change { border-top: 1px solid var(--line); padding-top: 4px; margin-top: 12px; }
+h3.group + p + .change { border-top: 0; margin-top: 0; }
+.change h3 { margin-top: 10px; } .change th { width: 80px; border-bottom: 1px solid var(--line); }
+.fig { margin: 18px 0 8px; } .fig img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  padding: 6px; margin: 8px 0; }
+.legend { list-style: none; padding: 0; margin: 6px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 14px; }
+.legend .sw { display: inline-block; width: 14px; height: 14px; border: 1px solid var(--line);
+  vertical-align: -2px; margin-right: 6px; }
+footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10px; border-top: 1px solid var(--line); }
+.top { position: fixed; right: 16px; bottom: 16px; background: var(--s-paper); padding: 4px 2px; font-size: 14px;
+  border-bottom: 1px solid var(--s-accent); text-decoration: none; }
+@media (max-width: 800px) { .now-grid { grid-template-columns: 1fr; } }
+@media (max-width: 700px) { .top { display: none; } }
+@media print { .sitenav, nav.sections, .top, .linkbtn, .contents-h, .contents { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; } a { color: #000; } section { break-inside: auto; margin-top: 18pt; }
+  .feed li.more { display: grid !important; } details > * { display: block; } }
+@media (max-width: 700px) { .head { grid-template-columns: 1fr; } .official { text-align: left; } .wrap { padding-inline: 16px; }
+  nav.sections { margin: 0 -16px; padding-inline: 16px; } th, td { padding: 6px 8px; } }
+
+.fw-st { white-space: nowrap; font-weight: 600; }
+.fw-st i { display: inline-block; width: 10px; height: 10px; margin-right: 6px; }
+.fw-late i { background: var(--s-act); } .fw-close i { background: var(--s-prepare); } .fw-ok i { background: var(--s-monitor); }
+p.fw { margin: 8px 0; max-width: 80ch; }
+
+/* one hue (DESIGN.md): the runs in petrol, the second series dark grey and dashed, the 2029 election break a grey
+   hatch, the Commission's planning in ink */
+:root { --s1: var(--s-accent); --s2: var(--s-ink2); --b80: var(--s-operate); --wall: var(--s-monitor); --wall-t: var(--s-ink2);
+  --hb: var(--s-tint); --hl: color-mix(in srgb, var(--s-ink) 22%, transparent); --chip2: color-mix(in srgb, var(--s-tint) 60%, var(--s-low-pale));
+  --plan: var(--s-ink); }
+[hidden] { display: none !important; }
+.lede { max-width: 72ch; }
+/* the answer: a ruled grid of figures, not tiles */
+.verdict { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0 32px; margin: 14px 0 4px;
+  border-top: 1.5px solid var(--s-rule); }
+.verdict > div { padding: 10px 0 12px; min-width: 0; border-bottom: 1px solid var(--line); }
+.verdict .k { font-size: 15px; color: var(--muted); }
+.verdict .v { font: 600 26px/1.2 var(--s-serif); margin: 2px 0; font-variant-numeric: tabular-nums; color: var(--ink); }
+.verdict .plan .v { color: var(--plan); }
+.fig { overflow-x: auto; margin: 6px 0; }
+.fig svg { display: block; width: 100%; min-width: 760px; height: auto; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 14px; color: var(--muted); margin: 4px 0 8px; }
+.legend i { display: inline-block; vertical-align: -2px; margin-right: 6px; }
+.lg-50 { width: 22px; height: 12px; background: var(--s1); }
+.lg-80 { width: 22px; height: 6px; background: var(--b80); vertical-align: 1px !important; }
+.lg-med { width: 12px; height: 12px; border-radius: 50%; border: 3px solid var(--s1); background: var(--panel); }
+.lg-fx { width: 12px; height: 12px; border-radius: 50%; background: var(--ink); }
+.lg-pl { width: 18px; height: 8px; border: 2px solid var(--plan); border-bottom: 0; }
+.lg-wall { width: 22px; height: 12px; background: repeating-linear-gradient(45deg, var(--hb) 0 3px, var(--hl) 3px 5px); }
+.lg-s1 { width: 22px; height: 3px; background: var(--s1); vertical-align: 3px !important; }
+.lg-s2 { width: 22px; height: 0; border-top: 3px dashed var(--s2); vertical-align: 3px !important; }
+.lg-dn { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-de { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--s1); background: var(--panel); }
+svg .ax { stroke: var(--muted); stroke-width: 1; } svg .dn { fill: var(--s1); stroke: var(--panel); }
+svg .de { fill: var(--panel); stroke: var(--s1); }
+.fig.img img { display: block; width: 100%; min-width: 760px; height: auto; background: #fff; border: 1px solid var(--line); }
+svg .ink { fill: var(--ink); } svg .mu { fill: var(--muted); } svg .gr { stroke: var(--line); stroke-width: 1; }
+svg .pa { fill: var(--chip); } svg .pb { fill: var(--chip2); } svg .hb { fill: var(--hb); } svg .hl { stroke: var(--hl); }
+svg .wt { fill: var(--wall-t); } svg .pt { fill: var(--plan); }
+svg .pt { paint-order: stroke; stroke: var(--bg); stroke-width: 4px; stroke-linejoin: round; }   /* lines stop at the label */
+svg .pl { stroke: var(--plan); } svg .td { stroke: var(--ink); stroke-width: 1.5; }
+svg .b50 { fill: var(--s1); opacity: .9; } svg .b80 { fill: var(--b80); } svg .med { fill: var(--panel); stroke: var(--s1); }
+svg .ini { fill: var(--s-accent-tint); stroke: var(--s-operate); stroke-width: 1; } svg .ini80 { fill: var(--s-monitor); }
+svg .inim { stroke: var(--s-operate); stroke-width: 2; }
+.lg-ini { width: 22px; height: 8px; background: var(--s-accent-tint); border: 1px solid var(--s-operate); }
+svg .fx { fill: var(--ink); } svg .c1 { stroke: var(--s1); } svg .c2 { stroke: var(--s2); stroke-dasharray: 7 4; }
+svg a text, svg .lnk a { fill: var(--accent); } svg a:hover { text-decoration: underline; }
+/* a switch of scenarios: underlined text, as on the start page */
+.toggle { display: inline-flex; gap: 6px 18px; margin: 8px 0; flex-wrap: wrap; }
+.toggle button { font: inherit; font-size: 15px; color: var(--muted); background: none; border: 0;
+  border-bottom: 2px solid transparent; padding: 2px 0; cursor: pointer; }
+.toggle button:hover { color: var(--ink); border-bottom-color: var(--line); }
+.toggle button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.toggle button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.routes { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0 32px; margin: 8px 0;
+  border-top: 1.5px solid var(--s-rule); }
+.routes > div { padding: 10px 0 12px; min-width: 0; border-bottom: 1px solid var(--line); }
+.routes .p { font: 600 26px/1.2 var(--s-serif); font-variant-numeric: tabular-nums; }
+.routes .bar { height: 6px; background: var(--chip); margin: 6px 0; overflow: hidden; }
+.routes .bar i { display: block; height: 100%; background: var(--s1); }
+.routes .r2 .bar i { background: var(--s-prepare); }
+.routes .r3 .bar i { background: var(--wall); }
+.steps { list-style: none; margin: 8px 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 6px; }
+.steps li { border-top: 3px solid var(--line); padding: 6px 4px 0; font-size: 14px; }
+.steps li.done { border-color: var(--s1); }
+.steps li span { display: block; color: var(--muted); font-size: 13px; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.scen { border-top: 1px solid var(--line); padding: 10px 0; margin: 10px 0; }
+#tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 14px; line-height: 1.35;
+  padding: 6px 9px; border-radius: 2px; max-width: 320px; z-index: 10; }
+
+svg .nl-pending { fill: var(--s1); } svg .nl-adopted { fill: var(--muted); }
+svg .nl-plan { fill: var(--panel); stroke: var(--plan); } svg .nl-open { fill: none; stroke: var(--plan); }
+svg .nl-q { fill: var(--plan); } svg .nl-row { stroke: var(--line); stroke-width: .6; }
+svg .nl-g-announced { fill: var(--s-low-pale); } svg .nl-g-pending { fill: var(--s-accent-tint); } svg .nl-g-adopted { fill: var(--chip); }
+.fig.nlf svg { min-width: 980px; }
+.lg-nl-p { width: 12px; height: 12px; border-radius: 50%; background: var(--s1); }
+.lg-nl-a { width: 12px; height: 12px; border-radius: 50%; background: var(--muted); }
+.lg-nl-r { width: 12px; height: 12px; background: var(--muted); }
+.lg-nl-pl { width: 12px; height: 12px; border-radius: 50%; border: 2.5px solid var(--plan); }
+.lg-nl-o { width: 12px; height: 12px; border-radius: 50%; border: 1.5px dashed var(--plan); }
+
+:root:not([data-lang="de"]) .l-de, :root[data-lang="de"] .l-en { display: none !important; }
+.lang { margin: 2px 0 6px; display: flex; gap: 4px 18px; flex-wrap: wrap; }
+.lang button { font: inherit; font-size: 15px; color: var(--s-ink2); background: none; border: 0; border-bottom: 2px solid transparent;
+  padding: 2px 0; cursor: pointer; }
+.lang button:hover { color: var(--s-ink); border-bottom-color: var(--s-hair); }
+.lang button[aria-pressed="true"] { color: var(--s-ink); border-bottom-color: var(--s-accent); }
+.two { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px 40px; }
+.two > div { min-width: 0; } .two .fig svg { min-width: 0; }
+.fig svg.mchart { min-width: 760px; }
+.two .fig svg.mchart { min-width: 0; }
+svg.mchart text { font-family: var(--s-sans); }
+svg.mchart .ink, svg.mchart .inkf { fill: var(--s-ink); } svg.mchart .mu { fill: var(--s-ink2); }
+svg.mchart .gr { stroke: var(--s-hair); } svg.mchart .ax { stroke: var(--s-ink2); }
+svg.mchart .acc { fill: var(--s-accent); } svg.mchart .accs { stroke: var(--s-accent); }
+svg.mchart .grey { fill: var(--s-monitor); } svg.mchart .greys { stroke: var(--s-operate); }
+svg.mchart .tint { fill: var(--s-accent-tint); } svg.mchart .sheet { fill: var(--s-sheet); }
+svg.mchart .inks { stroke: var(--s-ink); } svg.mchart .ink2s { stroke: var(--s-ink2); } svg.mchart .ink2f { fill: var(--s-ink2); }
+svg.mchart .hol { fill: var(--s-sheet); stroke: var(--s-ink); } svg.mchart .holq { fill: var(--s-sheet); stroke: var(--s-operate); }
+svg.mchart .halo { paint-order: stroke; stroke: var(--s-paper); stroke-width: 4px; stroke-linejoin: round; }
+svg.mchart .hit { cursor: pointer; } svg.mchart .hit .bg { fill: transparent; }
+svg.mchart .hit:hover .bg, svg.mchart .hit:focus .bg { fill: var(--s-tint); }
+svg.mchart .hit:focus { outline: none; } svg.mchart .hit:focus-visible .bg { stroke: var(--s-accent); stroke-width: 1.5; }
+.lg { display: inline-block; width: 14px; height: 10px; margin-right: 6px; vertical-align: 0; }
+.lg-acc { background: var(--s-accent); } .lg-grey { background: var(--s-monitor); } .lg-ink { background: var(--s-ink); }
+.lg-band { background: var(--s-accent-tint); outline: 1px solid var(--s-accent); }
+.lg-outline { background: var(--s-sheet); outline: 1px solid var(--s-operate); }
+.lg-dia { width: 9px; height: 9px; background: var(--s-ink); transform: rotate(45deg); margin: 0 8px 0 3px; }
+.lg-hol { width: 10px; height: 10px; border-radius: 50%; border: 2px solid var(--s-ink); background: var(--s-sheet); }
+.lg-ctx { width: 10px; height: 10px; border-radius: 50%; background: var(--s-monitor); }
+.lg-sq { width: 11px; height: 11px; background: var(--s-accent); }
+.lg-line { width: 22px; height: 0; border-top: 2px solid var(--s-ink); vertical-align: 3px; }
+.lg-dash { width: 22px; height: 0; border-top: 3px dashed var(--s-ink2); vertical-align: 3px; }
+</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();(function(){try{var d=document.documentElement,q=new URLSearchParams(location.search).get('lang'),l=(q==='de'||q==='en')?q:localStorage.getItem('desk-lang');if(l==='de'){d.dataset.lang='de';d.lang='de';}}catch(e){}})();</script></head><body><style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("../fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; }
+:root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
+@media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
+:root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
+@media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; }
+  html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
+
+/* the bar sits in its own wrapper, a direct child of <body>, at the same place on every page: the 1320px column of
+   the start page and the act pages, 24px gutter, 16px at 700px and below (owner's report of 15 Oct 2026) */
+.navwrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 0; }
+@media (max-width: 700px) { .navwrap { padding-inline: 16px; } }
+.navwrap + .wrap { padding-top: 0; }   /* the bar's wrapper gives the space above; the content column follows 14px below */
+@media print { .navwrap { display: none !important; } }
+.sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
+  border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
+.sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
+.sitenav a.item { color: var(--s-ink); text-decoration: none; padding: 6px 0; white-space: nowrap;
+  border-bottom: 2px solid transparent; }
+.sitenav a.item:hover { border-bottom-color: var(--s-hair); }
+.sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
+.sitenav .brandbox { display: inline-flex; margin-right: 10px; }
+/* the theme choice and the GitHub mark, kept together at the right */
+.sitenav .navend { margin-left: auto; display: inline-flex; align-items: center; gap: 14px; }
+.sitenav a.repo { display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+  text-decoration: none; padding: 6px 0; white-space: nowrap; }
+.sitenav a.repo span { display: none; }   /* the icon alone */
+/* light, dark or as the system: three quiet icon buttons, the chosen one petrol and underlined like the current
+   section; shown only with JavaScript, which applies and stores the choice (rt:theme, read by sitestyle.PREFS_JS) */
+.sitenav .theme { display: inline-flex; align-items: center; gap: 2px; }
+.sitenav .theme button { display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px;
+  padding: 0; margin: 0; font: inherit; color: var(--s-ink2); background: none; border: 0;
+  border-bottom: 2px solid transparent; border-radius: 0; cursor: pointer; }
+.sitenav .theme button:hover { color: var(--s-ink); border-bottom-color: var(--s-hair); }
+.sitenav .theme button[aria-pressed="true"] { color: var(--s-accent); border-bottom-color: var(--s-accent); }
+.sitenav .theme svg { display: block; }
+.sitenav .brk { display: none; }
+.sitenav :is(a, button):focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+@media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; } }
+/* phones: brand, theme and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+@media (max-width: 640px) { .sitenav { gap: 2px 14px; }
+  .sitenav .brandbox { order: -3; flex: 1 0 auto; margin-right: 0; }
+  .sitenav .navend { order: -2; }
+  .sitenav .brk { display: block; order: -1; flex-basis: 100%; height: 0; }
+  .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
+.sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
+  font: 14px/1.5 var(--s-sans); }
+.sitefoot a { color: var(--s-ink2); }
+.sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* WCAG 2.2 SC 2.5.8: a short link side by side with another (a language, a lone ↗) is a target of at least 24 by 24px */
+a.tgt { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; text-align: center; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
+::selection { background: var(--s-accent-tint); color: var(--s-ink); }
+html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
+</style><div class="navwrap"><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="../index.html">EU regulation timeline</a></span><a class="item" href="../index.html">Timeline</a><a class="item" href="../acts/index.html">Regulations</a><a class="item" href="../procedures/index.html">Procedures</a><a class="item" href="../forecast/index.html" aria-current="page">Forecast</a><a class="item" href="../news/index.html">News</a><a class="item" href="../procedures/changes.html">Latest activity</a><a class="item" href="../procedures/standardisation.html">Standards</a><a class="item" href="../procedures/committees.html">Committees</a><a class="item" href="../texts/index.html">Texts</a><a class="item" href="../graphics.html">Graphics</a><span class="navend"><span class="theme" role="group" aria-label="Colour scheme" hidden><button type="button" data-scheme="light" aria-pressed="false" aria-label="Light" title="Light"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="3"/><path d="M8 1v2M8 13v2M1 8h2M13 8h2M3 3l1.4 1.4M11.6 11.6 13 13M3 13l1.4-1.4M11.6 4.4 13 3" stroke-linecap="round"/></svg></button><button type="button" data-scheme="dark" aria-pressed="false" aria-label="Dark" title="Dark"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 9.5A5.5 5.5 0 0 1 6.5 2.5a5.5 5.5 0 1 0 7 7z" stroke-linejoin="round"/></svg></button><button type="button" data-scheme="" aria-pressed="false" aria-label="As the system setting" title="As the system setting"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><path d="M8 2a6 6 0 0 1 0 12z" fill="currentColor" stroke="none"/></svg></button></span><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></span><span class="brk" aria-hidden="true"></span></nav><script>(function(){var d=document.documentElement,w=document.currentScript.parentNode,g=w&&w.querySelector('.theme');if(!g)return;var bs=g.querySelectorAll('button');function show(){var t=d.dataset.theme||'';bs.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.scheme===t));});}function apply(t){if(t)d.dataset.theme=t;else delete d.dataset.theme;show();try{document.dispatchEvent(new CustomEvent('rt:theme',{detail:t}));}catch(e){}}bs.forEach(function(b){b.addEventListener('click',function(){var t=b.dataset.scheme;try{if(t)localStorage.setItem('rt:theme',t);else localStorage.removeItem('rt:theme');}catch(e){}apply(t);});});addEventListener('storage',function(e){if(e.key==='rt:theme')apply(e.newValue||'');});g.hidden=false;show();})();</script></div><div class="wrap"><main id="main">
+<div class="crumbs"><span><a href="index.html">Forecast</a> › NIS-2 amendment</span></div>
+<h1>NIS-2 amendment</h1><div class="muted">Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the Cybersecurity Act 2</div>
+<div class="facts"><span class="chip">referred to committee since 25 Mar 2026</span><span class="chip">2026/0012(COD)</span><span class="chip"><a href="../procedures/nis2-amendment.html">Procedure</a></span></div>
+<section class="now"><h2>When will it be law?</h2>
+<div><div class="verdict"><div><div class="k">Official Journal, median</div><div class="v">Jan 2028</div><div class="small muted">half of the runs Aug 2027 to Aug 2028</div></div><div><div class="k">Eight in ten</div><div class="v">May 2027 – Feb 2030</div><div class="small muted">of the runs</div></div><div><div class="k">Before the 2029 elections</div><div class="v">88 %</div><div class="small muted">published before Parliament's last session</div></div></div><p class="fw"><span class="fw-st fw-ok"><i aria-hidden="true"></i>On track</span> · Next step: EP committee vote. On track until 16 Dec 2026 (if it came later, the expected publication would move). If it came today: publication around Jul 2027.</p><h3>Step by step</h3><div class="legend"><span><i class="lg-50"></i>half of the runs</span><span><i class="lg-80"></i>eight in ten</span><span><i class="lg-med"></i>median</span><span><i class="lg-fx"></i>step reached</span><span><i class="lg-pl"></i>Commission planning</span><span><i class="lg-wall"></i>EP elections 2029</span><span><i class="lg-ini"></i>initial assessment (proposal day)</span></div><div class="fig" tabindex="0" role="region" aria-label="Forecast: NIS-2 amendment (drawing; scrolls sideways on narrow screens)"><svg viewBox="0 0 1000 478" role="img" aria-label="Forecast: NIS-2 amendment" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Forecast: NIS-2 amendment</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<defs><pattern id="hatch-18" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
+<rect x="250.0" y="4" width="34.2" height="16" rx="3" class="pb" data-tip="Council Presidency: IE, Jul 2026 to Dec 2026"/>
+<text x="267.6" y="16" text-anchor="middle" font-size="11" class="mu">IE</text>
+<rect x="285.2" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: LT, Jan 2027 to Jun 2027"/>
+<text x="319.8" y="16" text-anchor="middle" font-size="11" class="mu">LT</text>
+<rect x="354.5" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: EL, Jul 2027 to Dec 2027"/>
+<text x="389.7" y="16" text-anchor="middle" font-size="11" class="mu">EL</text>
+<rect x="424.9" y="4" width="68.6" height="16" rx="3" class="pa" data-tip="Council Presidency: IT, Jan 2028 to Jun 2028"/>
+<text x="459.7" y="16" text-anchor="middle" font-size="11" class="mu">IT</text>
+<rect x="494.5" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: LV, Jul 2028 to Dec 2028"/>
+<text x="529.7" y="16" text-anchor="middle" font-size="11" class="mu">LV</text>
+<rect x="565.0" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: LU, Jan 2029 to Jun 2029"/>
+<text x="599.6" y="16" text-anchor="middle" font-size="11" class="mu">LU</text>
+<rect x="634.2" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: NL, Jul 2029 to Dec 2029"/>
+<text x="669.4" y="16" text-anchor="middle" font-size="11" class="mu">NL</text>
+<rect x="704.6" y="4" width="68.3" height="16" rx="3" class="pa" data-tip="Council Presidency: SK, Jan 2030 to Jun 2030"/>
+<text x="739.3" y="16" text-anchor="middle" font-size="11" class="mu">SK</text>
+<rect x="773.9" y="4" width="69.4" height="16" rx="3" class="pb" data-tip="Council Presidency: MT, Jul 2030 to Dec 2030"/>
+<text x="809.1" y="16" text-anchor="middle" font-size="11" class="mu">MT</text>
+<rect x="844.3" y="4" width="138.7" height="16" rx="3" class="pa" data-tip="Council Presidency: not decided, Jan 2031 to Dec 2031"/>
+<text x="914.2" y="16" text-anchor="middle" font-size="11" class="mu"></text>
+<line x1="285.2" y1="26" x2="285.2" y2="436" class="gr"/>
+<text x="289.2" y="46" font-weight="600" class="ink">2027</text>
+<line x1="424.9" y1="26" x2="424.9" y2="436" class="gr"/>
+<text x="428.9" y="46" font-weight="600" class="ink">2028</text>
+<line x1="565.0" y1="26" x2="565.0" y2="436" class="gr"/>
+<text x="569.0" y="46" font-weight="600" class="ink">2029</text>
+<line x1="704.6" y1="26" x2="704.6" y2="436" class="gr"/>
+<text x="708.6" y="46" font-weight="600" class="ink">2030</text>
+<line x1="844.3" y1="26" x2="844.3" y2="436" class="gr"/>
+<text x="848.3" y="46" font-weight="600" class="ink">2031</text>
+<rect x="606.7" y="52" width="62.8" height="384" fill="url(#hatch-18)" data-tip="European elections 2029: Parliament does no legislative work from its last session in April until the new committees vote again in October (assumption, as in 2024; the dates are not set yet)."/>
+<text x="610.7" y="452" font-size="12" font-weight="600" class="wt">EP elections 2029</text>
+<text x="240" y="16" text-anchor="end" font-size="11" class="mu">Council Presidency</text>
+<line x1="258.4" y1="26" x2="258.4" y2="436" class="td"/>
+<text x="262.4" y="452" font-size="11" class="mu">data of 23 Oct 2026</text>
+<text x="984" y="474" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</text>
+<text x="238" y="96.0" text-anchor="end" font-weight="600" class="ink lnk">Commission proposal</text>
+<circle cx="250.0" cy="99.0" r="6" class="fx" data-tip="Commission proposal: 14 Jan 2026"/>
+<text x="260.0" y="103.0" font-size="12" class="ink">Jan 2026</text>
+<text x="238" y="170.0" text-anchor="end" font-weight="600" class="ink lnk">EP committee vote</text>
+<rect x="263.0" y="170.0" width="75.8" height="6" class="b80" data-tip="EP committee vote: median Jan 2027; half of the runs Nov 2026 to Mar 2027; eight in ten Nov 2026 to May 2027"/>
+<rect x="270.3" y="164.0" width="42.9" height="18" class="b50" data-tip="EP committee vote: median Jan 2027; half of the runs Nov 2026 to Mar 2027; eight in ten Nov 2026 to May 2027"/>
+<circle cx="287.5" cy="173.0" r="7" class="med" stroke-width="3" data-tip="EP committee vote: median Jan 2027; half of the runs Nov 2026 to Mar 2027; eight in ten Nov 2026 to May 2027"/>
+<text x="287.5" y="196.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jan 2027</text>
+<text x="238" y="244.0" text-anchor="end" font-weight="600" class="ink lnk">Trilogues can start</text>
+<rect x="268.0" y="244.0" width="107.5" height="6" class="b80" data-tip="Trilogues can start: median Feb 2027; half of the runs Dec 2026 to May 2027; eight in ten Nov 2026 to Aug 2027"/>
+<rect x="278.7" y="238.0" width="54.7" height="18" class="b50" data-tip="Trilogues can start: median Feb 2027; half of the runs Dec 2026 to May 2027; eight in ten Nov 2026 to Aug 2027"/>
+<circle cx="298.6" cy="247.0" r="7" class="med" stroke-width="3" data-tip="Trilogues can start: median Feb 2027; half of the runs Dec 2026 to May 2027; eight in ten Nov 2026 to Aug 2027"/>
+<text x="298.6" y="270.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2027</text>
+<text x="238" y="318.0" text-anchor="end" font-weight="600" class="ink lnk">Provisional agreement</text>
+<rect x="302.8" y="318.0" width="208.6" height="6" class="b80" data-tip="Provisional agreement: median Aug 2027; half of the runs Apr 2027 to Jan 2028; eight in ten Feb 2027 to Aug 2028"/>
+<rect x="325.0" y="312.0" width="101.8" height="18" class="b50" data-tip="Provisional agreement: median Aug 2027; half of the runs Apr 2027 to Jan 2028; eight in ten Feb 2027 to Aug 2028"/>
+<circle cx="369.0" cy="321.0" r="7" class="med" stroke-width="3" data-tip="Provisional agreement: median Aug 2027; half of the runs Apr 2027 to Jan 2028; eight in ten Feb 2027 to Aug 2028"/>
+<text x="369.0" y="344.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Aug 2027</text>
+<text x="238" y="392.0" text-anchor="end" font-weight="600" class="ink lnk">Official Journal</text>
+<rect x="258.4" y="376.5" width="271.7" height="2" class="ini80" data-tip="Initial assessment, forecast for the proposal day (14 Jan 2026): Official Journal: median Jul 2027; half of the runs Feb 2027 to Feb 2028; eight in ten Oct 2026 to Oct 2028"/>
+<rect x="303.2" y="374.0" width="135.9" height="7" class="ini" data-tip="Initial assessment, forecast for the proposal day (14 Jan 2026): Official Journal: median Jul 2027; half of the runs Feb 2027 to Feb 2028; eight in ten Oct 2026 to Oct 2028"/>
+<line x1="359.4" y1="372.0" x2="359.4" y2="383.0" class="inim" data-tip="Initial assessment, forecast for the proposal day (14 Jan 2026): Official Journal: median Jul 2027; half of the runs Feb 2027 to Feb 2028; eight in ten Oct 2026 to Oct 2028"/>
+<rect x="334.2" y="392.0" width="383.5" height="6" class="b80" data-tip="Official Journal: median Jan 2028; half of the runs Aug 2027 to Aug 2028; eight in ten May 2027 to Feb 2030"/>
+<rect x="374.4" y="386.0" width="136.2" height="18" class="b50" data-tip="Official Journal: median Jan 2028; half of the runs Aug 2027 to Aug 2028; eight in ten May 2027 to Feb 2030"/>
+<circle cx="429.1" cy="395.0" r="7" class="med" stroke-width="3" data-tip="Official Journal: median Jan 2028; half of the runs Aug 2027 to Aug 2028; eight in ten May 2027 to Feb 2030"/>
+<text x="429.1" y="418.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jan 2028</text>
+</svg></div><h3>Shifts against the initial assessment</h3><p class="small">Initial assessment: median <b>Jul 2027</b>, the forecast for the day of the proposal (14 Jan 2026) with only what was known then, recomputed with today's method; the pale bar in the drawing. Today: <b>Jan 2028</b>, 6 months later.</p><div class="table"><table class="phone-stack"><thead><tr><th class="num">Forecast of</th><th class="num">Official Journal, median</th><th class="num">Shift</th><th>What caused it</th></tr></thead><tbody><tr><td class="num" data-label="Forecast of">10 Oct 2026</td><td class="num" data-label="Official Journal, median">Jul 2027 → <b>Feb 2028</b></td><td class="num" data-label="Shift">8 months later</td><td data-label="What caused it">Referral to EP committee reached on 25 Mar 2026, no further step since</td></tr><tr><td class="num" data-label="Forecast of">14 Oct 2026</td><td class="num" data-label="Official Journal, median">Feb 2028 → <b>Jan 2028</b></td><td class="num" data-label="Shift">1 month earlier</td><td data-label="What caused it">Method changed: compared with files of similar size; method changed: negotiated files of 2012 to 2014 counted</td></tr><tr><td class="num" data-label="Forecast of">16 Oct 2026</td><td class="num" data-label="Official Journal, median">Jan 2028 → <b>Jan 2028</b></td><td class="num" data-label="Shift">15 days earlier</td><td data-label="What caused it">Time passed without the next step; comparable files updated</td></tr></tbody></table></div><h3>Three routes through the 2029 elections</h3><div class="routes"><div class="r1"><div class="p">88 %</div><div class="bar"><i style="width:88%"></i></div>Published before the 2029 elections</div><div class="r2"><div class="p">8 %</div><div class="bar"><i style="width:8%"></i></div>Agreed before the elections, published after</div><div class="r3"><div class="p">4 %</div><div class="bar"><i style="width:4%"></i></div>Not agreed before the elections: continued by the new Parliament</div></div></div>
+<h3>Chance of publication by date</h3><div class="legend"><span><i class="lg-s1"></i>Official Journal</span><span><i class="lg-wall"></i>EP elections 2029</span></div><div class="fig" tabindex="0" role="region" aria-label="Chance of publication in the Official Journal by date (drawing; scrolls sideways on narrow screens)"><svg viewBox="0 0 1000 316" role="img" aria-label="Chance of publication in the Official Journal by date" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Chance of publication in the Official Journal by date</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<defs><pattern id="hatch-19" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" class="hb"/><line x1="0" y1="0" x2="0" y2="6" class="hl" stroke-width="2"/></pattern></defs>
+<line x1="56" y1="264.0" x2="810" y2="264.0" class="gr"/>
+<text x="48" y="268.0" text-anchor="end" class="mu">0 %</text>
+<line x1="56" y1="202.5" x2="810" y2="202.5" class="gr"/>
+<text x="48" y="206.5" text-anchor="end" class="mu">25 %</text>
+<line x1="56" y1="141.0" x2="810" y2="141.0" class="gr"/>
+<text x="48" y="145.0" text-anchor="end" class="mu">50 %</text>
+<line x1="56" y1="79.5" x2="810" y2="79.5" class="gr"/>
+<text x="48" y="83.5" text-anchor="end" class="mu">75 %</text>
+<line x1="56" y1="18.0" x2="810" y2="18.0" class="gr"/>
+<text x="48" y="22.0" text-anchor="end" class="mu">100 %</text>
+<line x1="92.2" y1="18" x2="92.2" y2="264" class="gr"/>
+<text x="96.2" y="282" class="ink" font-weight="600">2027</text>
+<line x1="235.7" y1="18" x2="235.7" y2="264" class="gr"/>
+<text x="239.7" y="282" class="ink" font-weight="600">2028</text>
+<line x1="379.5" y1="18" x2="379.5" y2="264" class="gr"/>
+<text x="383.5" y="282" class="ink" font-weight="600">2029</text>
+<line x1="523.0" y1="18" x2="523.0" y2="264" class="gr"/>
+<text x="527.0" y="282" class="ink" font-weight="600">2030</text>
+<line x1="666.5" y1="18" x2="666.5" y2="264" class="gr"/>
+<text x="670.5" y="282" class="ink" font-weight="600">2031</text>
+<rect x="422.4" y="18" width="64.5" height="246" fill="url(#hatch-19)"/>
+<path d="M56.0,264.0 L68.2,264.0 L80.0,264.0 L92.2,264.0 L104.4,260.3 L115.4,260.3 L127.5,253.4 L139.3,243.8 L151.5,233.5 L163.3,223.7 L175.5,215.0 L187.7,193.2 L199.5,180.1 L211.7,164.9 L223.5,154.5 L235.7,144.0 L247.8,129.9 L259.2,119.4 L271.4,111.2 L283.2,98.9 L295.4,91.8 L307.2,87.6 L319.4,84.7 L331.6,79.3 L343.4,65.0 L355.6,59.8 L367.3,54.4 L379.5,51.5 L391.7,50.2 L402.7,50.2 L414.9,50.2 L426.7,47.5 L438.9,47.5 L450.7,47.5 L462.9,47.5 L475.1,47.5 L486.9,47.5 L499.0,47.5 L510.8,47.5 L523.0,43.8 L535.2,43.8 L546.2,34.2 L558.4,33.3 L570.2,33.3 L582.4,33.3 L594.2,33.3 L606.4,31.3 L618.6,31.3 L630.3,31.3 L642.5,31.3 L654.3,31.3 L666.5,31.3 L678.7,31.3 L689.7,29.8 L701.9,29.8 L713.7,29.8 L725.9,26.9 L737.7,26.9 L749.9,26.9 L762.0,26.9 L773.8,26.9 L786.0,24.9 L797.8,24.9 L810.0,24.9" fill="none" class="c1" stroke-width="2.5"/>
+<text x="818.0" y="28.9" class="ink">Official Journal</text>
+<rect x="50.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 0 % published before Oct 2026"/>
+<rect x="86.2" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 0 % published before Jan 2027"/>
+<rect x="121.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 4 % published before Apr 2027"/>
+<rect x="157.3" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 16 % published before Jul 2027"/>
+<rect x="193.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 34 % published before Oct 2027"/>
+<rect x="229.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 49 % published before Jan 2028"/>
+<rect x="265.4" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 62 % published before Apr 2028"/>
+<rect x="301.2" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 72 % published before Jul 2028"/>
+<rect x="337.4" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 81 % published before Oct 2028"/>
+<rect x="373.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 86 % published before Jan 2029"/>
+<rect x="408.9" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 87 % published before Apr 2029"/>
+<rect x="444.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 88 % published before Jul 2029"/>
+<rect x="480.9" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 88 % published before Oct 2029"/>
+<rect x="517.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 90 % published before Jan 2030"/>
+<rect x="552.4" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 94 % published before Apr 2030"/>
+<rect x="588.2" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 94 % published before Jul 2030"/>
+<rect x="624.3" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 95 % published before Oct 2030"/>
+<rect x="660.5" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 95 % published before Jan 2031"/>
+<rect x="695.9" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 95 % published before Apr 2031"/>
+<rect x="731.7" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 96 % published before Jul 2031"/>
+<rect x="767.8" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 96 % published before Oct 2031"/>
+<rect x="804.0" y="18" width="12" height="246" fill="transparent" data-tip="Official Journal: 97 % published before Jan 2032"/>
+<text x="984" y="312" font-size="11" text-anchor="end" class="mu">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</text>
+</svg></div><p class="small">Official Journal: published by the end of 2027 <b>49 %</b> · 2028 <b>86 %</b> · 2029 <b>90 %</b> · 2030 <b>95 %</b></p>
+<div class="rule-block"><div class="lang toggles" role="group" aria-label="Language / Sprache"><button type="button" data-set="en" aria-pressed="true">English</button><button type="button" data-set="de" aria-pressed="false" lang="de">Deutsch</button></div><div class="l-en" lang="en"><h3>Rule of thumb: how its size compares</h3><div class="fig" tabindex="0" role="region" aria-label="Rule of thumb: duration by words (drawing; scrolls sideways on narrow screens)"><svg class="mchart" viewBox="0 0 1000 428" role="img" aria-label="Rule of thumb: duration by words" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Rule of thumb: duration by words</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata><rect x="736.0" y="34" width="224.0" height="310" class="tint" opacity=".55"/><text x="742.0" y="48.0" font-size="11" text-anchor="start" class="mu" font-weight="600">top tenth (P10): from 30,300 words</text><line x1="60" y1="344.0" x2="960" y2="344.0" class="gr"/><text x="52.0" y="348.0" font-size="11" text-anchor="end" class="mu">0</text><line x1="60" y1="292.3" x2="960" y2="292.3" class="gr"/><text x="52.0" y="296.3" font-size="11" text-anchor="end" class="mu">10</text><line x1="60" y1="240.7" x2="960" y2="240.7" class="gr"/><text x="52.0" y="244.7" font-size="11" text-anchor="end" class="mu">20</text><line x1="60" y1="189.0" x2="960" y2="189.0" class="gr"/><text x="52.0" y="193.0" font-size="11" text-anchor="end" class="mu">30</text><line x1="60" y1="137.3" x2="960" y2="137.3" class="gr"/><text x="52.0" y="141.3" font-size="11" text-anchor="end" class="mu">40</text><line x1="60" y1="85.7" x2="960" y2="85.7" class="gr"/><text x="52.0" y="89.7" font-size="11" text-anchor="end" class="mu">50</text><line x1="60" y1="34.0" x2="960" y2="34.0" class="gr"/><text x="52.0" y="38.0" font-size="11" text-anchor="end" class="mu">60</text><line x1="60.0" y1="344" x2="60.0" y2="349" class="ax"/><text x="60.0" y="362.0" font-size="11" text-anchor="middle" class="mu">200</text><line x1="183.4" y1="344" x2="183.4" y2="349" class="ax"/><text x="183.4" y="362.0" font-size="11" text-anchor="middle" class="mu">500</text><line x1="276.7" y1="344" x2="276.7" y2="349" class="ax"/><text x="276.7" y="362.0" font-size="11" text-anchor="middle" class="mu">1,000</text><line x1="370.0" y1="344" x2="370.0" y2="349" class="ax"/><text x="370.0" y="362.0" font-size="11" text-anchor="middle" class="mu">2,000</text><line x1="493.4" y1="344" x2="493.4" y2="349" class="ax"/><text x="493.4" y="362.0" font-size="11" text-anchor="middle" class="mu">5,000</text><line x1="586.7" y1="344" x2="586.7" y2="349" class="ax"/><text x="586.7" y="362.0" font-size="11" text-anchor="middle" class="mu">10,000</text><line x1="680.0" y1="344" x2="680.0" y2="349" class="ax"/><text x="680.0" y="362.0" font-size="11" text-anchor="middle" class="mu">20,000</text><line x1="803.4" y1="344" x2="803.4" y2="349" class="ax"/><text x="803.4" y="362.0" font-size="11" text-anchor="middle" class="mu">50,000</text><line x1="896.7" y1="344" x2="896.7" y2="349" class="ax"/><text x="896.7" y="362.0" font-size="11" text-anchor="middle" class="mu">100,000</text><line x1="60" y1="344" x2="960" y2="344" class="ax"/><path d="M60.0 274.0 L71.3 272.7 L82.5 271.4 L93.8 270.1 L105.0 268.7 L116.2 267.3 L127.5 265.9 L138.7 264.5 L150.0 263.0 L161.2 261.6 L172.5 260.1 L183.8 258.5 L195.0 257.0 L206.3 255.4 L217.5 253.7 L228.8 252.1 L240.0 250.4 L251.2 248.7 L262.5 246.9 L273.7 245.2 L285.0 243.4 L296.3 241.5 L307.5 239.6 L318.8 237.7 L330.0 235.8 L341.2 233.8 L352.5 231.8 L363.7 229.7 L375.0 227.6 L386.2 225.5 L397.5 223.3 L408.8 221.1 L420.0 218.9 L431.3 216.6 L442.5 214.2 L453.8 211.9 L465.0 209.4 L476.2 207.0 L487.5 204.5 L498.7 201.9 L510.0 199.3 L521.2 196.7 L532.5 194.0 L543.8 191.2 L555.0 188.4 L566.2 185.6 L577.5 182.7 L588.8 179.7 L600.0 176.7 L611.2 173.6 L622.5 170.5 L633.8 167.3 L645.0 164.1 L656.2 160.8 L667.5 157.5 L678.8 154.0 L690.0 150.6 L701.3 147.0 L712.5 143.4 L723.7 139.7 L735.0 136.0 L746.3 132.2 L757.5 128.3 L768.7 124.4 L780.0 120.3 L791.2 116.2 L802.5 112.1 L813.8 107.8 L825.0 103.5 L836.2 99.1 L847.5 94.6 L858.8 90.0 L870.0 85.4 L881.2 80.7 L892.5 75.8 L903.8 70.9 L915.0 65.9 L926.3 60.8 L937.5 55.6 L948.7 50.4 L960.0 45.0 L960.0 208.2 L948.7 210.7 L937.5 213.1 L926.3 215.4 L915.0 217.7 L903.8 220.0 L892.5 222.2 L881.2 224.4 L870.0 226.6 L858.8 228.7 L847.5 230.8 L836.2 232.8 L825.0 234.8 L813.8 236.8 L802.5 238.7 L791.2 240.6 L780.0 242.4 L768.7 244.3 L757.5 246.1 L746.3 247.8 L735.0 249.6 L723.7 251.3 L712.5 252.9 L701.3 254.6 L690.0 256.2 L678.8 257.8 L667.5 259.3 L656.2 260.8 L645.0 262.3 L633.8 263.8 L622.5 265.2 L611.2 266.7 L600.0 268.0 L588.8 269.4 L577.5 270.7 L566.2 272.1 L555.0 273.4 L543.8 274.6 L532.5 275.9 L521.2 277.1 L510.0 278.3 L498.7 279.5 L487.5 280.6 L476.2 281.8 L465.0 282.9 L453.8 284.0 L442.5 285.1 L431.3 286.1 L420.0 287.2 L408.8 288.2 L397.5 289.2 L386.2 290.2 L375.0 291.2 L363.7 292.1 L352.5 293.0 L341.2 294.0 L330.0 294.9 L318.8 295.7 L307.5 296.6 L296.3 297.5 L285.0 298.3 L273.7 299.1 L262.5 299.9 L251.2 300.7 L240.0 301.5 L228.8 302.3 L217.5 303.0 L206.3 303.8 L195.0 304.5 L183.8 305.2 L172.5 305.9 L161.2 306.6 L150.0 307.2 L138.7 307.9 L127.5 308.6 L116.2 309.2 L105.0 309.8 L93.8 310.4 L82.5 311.0 L71.3 311.6 L60.0 312.2 Z" class="tint accs" stroke-width=".8"/><polyline fill="none" class="inks" stroke-width="2" points="60.0,296.8 71.3,296.0 82.5,295.1 93.8,294.2 105.0,293.3 116.2,292.3 127.5,291.4 138.7,290.4 150.0,289.5 161.2,288.5 172.5,287.4 183.8,286.4 195.0,285.3 206.3,284.3 217.5,283.2 228.8,282.1 240.0,280.9 251.2,279.8 262.5,278.6 273.7,277.4 285.0,276.2 296.3,274.9 307.5,273.7 318.8,272.4 330.0,271.1 341.2,269.7 352.5,268.4 363.7,267.0 375.0,265.6 386.2,264.1 397.5,262.7 408.8,261.2 420.0,259.7 431.3,258.1 442.5,256.6 453.8,255.0 465.0,253.3 476.2,251.7 487.5,250.0 498.7,248.3 510.0,246.5 521.2,244.7 532.5,242.9 543.8,241.1 555.0,239.2 566.2,237.2 577.5,235.3 588.8,233.3 600.0,231.3 611.2,229.2 622.5,227.1 633.8,225.0 645.0,222.8 656.2,220.6 667.5,218.3 678.8,216.0 690.0,213.7 701.3,211.3 712.5,208.8 723.7,206.4 735.0,203.8 746.3,201.3 757.5,198.7 768.7,196.0 780.0,193.3 791.2,190.5 802.5,187.7 813.8,184.9 825.0,181.9 836.2,179.0 847.5,176.0 858.8,172.9 870.0,169.7 881.2,166.6 892.5,163.3 903.8,160.0 915.0,156.6 926.3,153.2 937.5,149.7 948.7,146.1 960.0,142.5"/><line x1="238.9" y1="291.8" x2="238.9" y2="276.8" class="accs" stroke-width="2"/><circle cx="238.9" cy="285.6" r="5" class="acc"><title>P1: typical size 756 words, median 11.3 months (95 %: 10.1–13.0), formula 12.2</title></circle><text x="238.9" y="268.8" font-size="10" text-anchor="middle" class="mu">P1</text><line x1="362.5" y1="279.9" x2="362.5" y2="255.1" class="accs" stroke-width="2"/><circle cx="362.5" cy="270.6" r="5" class="acc"><title>P2: typical size 1,892 words, median 14.2 months (95 %: 12.4–17.2), formula 14.9</title></circle><text x="362.5" y="247.1" font-size="10" text-anchor="middle" class="mu">P2</text><line x1="439.1" y1="271.7" x2="439.1" y2="251.5" class="accs" stroke-width="2"/><circle cx="439.1" cy="262.4" r="5" class="acc"><title>P3: typical size 3,340 words, median 15.8 months (95 %: 14.0–17.9), formula 16.8</title></circle><text x="439.1" y="243.5" font-size="10" text-anchor="middle" class="mu">P3</text><line x1="487.6" y1="260.3" x2="487.6" y2="234.5" class="accs" stroke-width="2"/><circle cx="487.6" cy="246.3" r="5" class="acc"><title>P4: typical size 4,789 words, median 18.9 months (95 %: 16.2–21.2), formula 18.2</title></circle><text x="487.6" y="226.5" font-size="10" text-anchor="middle" class="mu">P4</text><line x1="525.9" y1="270.1" x2="525.9" y2="242.7" class="accs" stroke-width="2"/><circle cx="525.9" cy="254.1" r="5" class="acc"><title>P5: typical size 6,366 words, median 17.4 months (95 %: 14.3–19.6), formula 19.4</title></circle><text x="525.9" y="234.7" font-size="10" text-anchor="middle" class="mu">P5</text><line x1="565.0" y1="244.8" x2="565.0" y2="218.4" class="accs" stroke-width="2"/><circle cx="565.0" cy="231.9" r="5" class="acc"><title>P6: typical size 8,513 words, median 21.7 months (95 %: 19.2–24.3), formula 20.6</title></circle><text x="565.0" y="210.4" font-size="10" text-anchor="middle" class="mu">P6</text><line x1="603.2" y1="239.1" x2="603.2" y2="215.9" class="accs" stroke-width="2"/><circle cx="603.2" cy="228.8" r="5" class="acc"><title>P7: typical size 11,305 words, median 22.3 months (95 %: 20.3–24.8), formula 21.9</title></circle><text x="603.2" y="207.9" font-size="10" text-anchor="middle" class="mu">P7</text><line x1="647.9" y1="232.4" x2="647.9" y2="197.3" class="accs" stroke-width="2"/><circle cx="647.9" cy="215.9" r="5" class="acc"><title>P8: typical size 15,756 words, median 24.8 months (95 %: 21.6–28.4), formula 23.6</title></circle><text x="647.9" y="189.3" font-size="10" text-anchor="middle" class="mu">P8</text><line x1="697.6" y1="228.8" x2="697.6" y2="199.9" class="accs" stroke-width="2"/><circle cx="697.6" cy="218.4" r="5" class="acc"><title>P9: typical size 22,789 words, median 24.3 months (95 %: 22.3–27.9), formula 25.5</title></circle><text x="697.6" y="191.9" font-size="10" text-anchor="middle" class="mu">P9</text><line x1="782.1" y1="197.3" x2="782.1" y2="180.7" class="accs" stroke-width="2"/><circle cx="782.1" cy="192.1" r="5" class="acc"><title>P10: typical size 42,698 words, median 29.4 months (95 %: 28.4–31.6), formula 29.3</title></circle><text x="782.1" y="172.7" font-size="10" text-anchor="middle" class="mu">P10</text><g data-proc-item="cra"><line x1="736.8" y1="344" x2="736.8" y2="338" class="greys" stroke-width="2"/><rect x="731.8" y="230.6" width="10" height="10" transform="rotate(45 736.8 235.6)" class="grey"><title>Cyber Resilience Act: 30,479 words, actually 21.0 working months (26.2 calendar months), formula 27.2</title></rect></g><g data-proc-item="machinery-regulation"><line x1="782.3" y1="344" x2="782.3" y2="338" class="greys" stroke-width="2"/><rect x="777.3" y="203.4" width="10" height="10" transform="rotate(45 782.3 208.4)" class="grey"><title>Machinery Regulation: 42,764 words, actually 26.2 working months (26.2 calendar months), formula 29.3</title></rect></g><g data-proc-item="ai-act"><line x1="766.2" y1="344" x2="766.2" y2="338" class="greys" stroke-width="2"/><rect x="761.2" y="152.1" width="10" height="10" transform="rotate(45 766.2 157.1)" class="grey"><title>Artificial Intelligence Act: 37,924 words, actually 36.2 working months (38.7 calendar months), formula 28.5</title></rect></g><g data-proc-item="nis2"><line x1="716.2" y1="344" x2="716.2" y2="338" class="greys" stroke-width="2"/><rect x="711.2" y="213.2" width="10" height="10" transform="rotate(45 716.2 218.2)" class="grey"><title>NIS 2 Directive: 26,158 words, actually 24.3 working months (24.3 calendar months), formula 26.3</title></rect></g><g data-proc-item="market-surveillance"><line x1="674.4" y1="344" x2="674.4" y2="338" class="greys" stroke-width="2"/><rect x="669.4" y="256.5" width="10" height="10" transform="rotate(45 674.4 261.5)" class="grey"><title>Market Surveillance Regulation: 19,176 words, actually 16.0 working months (18.2 calendar months), formula 24.6</title></rect></g><g data-proc-item="chips-act-2"><line x1="785.0" y1="344" x2="785.0" y2="338" class="greys" stroke-width="2"/><circle cx="785.0" cy="192.1" r="4.5" class="holq" stroke-width="1.5"><title>Chips Act 2.0: 43,609 words, formula 29.4 months (middle half 19.8–43.6)</title></circle></g><g data-proc-item="cloud-ai-development-act"><line x1="755.9" y1="344" x2="755.9" y2="338" class="greys" stroke-width="2"/><circle cx="755.9" cy="199.0" r="4.5" class="holq" stroke-width="1.5"><title>Cloud and AI Development Act: 35,137 words, formula 28.1 months (middle half 18.9–41.6)</title></circle></g><g data-proc-item="csa2"><line x1="821.9" y1="344" x2="821.9" y2="338" class="greys" stroke-width="2"/><circle cx="821.9" cy="182.7" r="4.5" class="holq" stroke-width="1.5"><title>Cybersecurity Act 2: 57,386 words, formula 31.2 months (middle half 21.0–46.3)</title></circle></g><g data-proc-item="digital-omnibus"><line x1="749.3" y1="344" x2="749.3" y2="338" class="greys" stroke-width="2"/><circle cx="749.3" cy="200.6" r="4.5" class="holq" stroke-width="1.5"><title>Digital Omnibus: 33,458 words, formula 27.8 months (middle half 18.7–41.2)</title></circle></g><g data-proc-item="epa"><line x1="861.3" y1="344" x2="861.3" y2="338" class="greys" stroke-width="2"/><circle cx="861.3" cy="172.2" r="4.5" class="holq" stroke-width="1.5"><title>European Product Act: 76,852 words, formula 33.3 months (middle half 22.4–49.4)</title></circle></g><g data-proc-item="industrial-accelerator-act"><line x1="715.3" y1="344" x2="715.3" y2="338" class="greys" stroke-width="2"/><circle cx="715.3" cy="208.2" r="4.5" class="holq" stroke-width="1.5"><title>Industrial Accelerator Act: 25,992 words, formula 26.3 months (middle half 17.7–39.0)</title></circle></g><g data-proc-item="medical-devices-simplification"><line x1="835.9" y1="344" x2="835.9" y2="338" class="greys" stroke-width="2"/><circle cx="835.9" cy="179.1" r="4.5" class="holq" stroke-width="1.5"><title>MDR/IVDR simplification: 63,663 words, formula 31.9 months (middle half 21.5–47.4)</title></circle></g><g data-proc-item="product-digitalisation-directive"><line x1="755.5" y1="344" x2="755.5" y2="338" class="greys" stroke-width="2"/><circle cx="755.5" cy="199.1" r="4.5" class="holq" stroke-width="1.5"><title>Omnibus IV – Digitalisation and common specifications (Directive): 35,021 words, formula 28.0 months (middle half 18.9–41.6)</title></circle></g><g data-proc-item="public-procurement-act"><line x1="841.0" y1="344" x2="841.0" y2="338" class="greys" stroke-width="2"/><circle cx="841.0" cy="177.7" r="4.5" class="holq" stroke-width="1.5"><title>Public Procurement Act: 66,104 words, formula 32.2 months (middle half 21.7–47.8)</title></circle></g><g data-proc-item="space-act"><line x1="822.5" y1="344" x2="822.5" y2="338" class="greys" stroke-width="2"/><circle cx="822.5" cy="182.6" r="4.5" class="holq" stroke-width="1.5"><title>EU Space Act: 57,640 words, formula 31.2 months (middle half 21.1–46.4)</title></circle></g><g data-proc-item="standardisation-revision"><line x1="670.1" y1="344" x2="670.1" y2="338" class="greys" stroke-width="2"/><circle cx="670.1" cy="217.8" r="4.5" class="holq" stroke-width="1.5"><title>New Standardisation Regulation: 18,579 words, formula 24.4 months (middle half 16.5–36.3)</title></circle></g><g data-proc-item="nis2-amendment"><line x1="499.8" y1="344" x2="499.8" y2="338" class="inks" stroke-width="2"/><line x1="499.8" y1="56" x2="499.8" y2="344" class="ink2s" stroke-dasharray="4 3"/><line x1="499.8" y1="279.4" x2="499.8" y2="201.7" class="inks" stroke-width="2.5"/><rect x="508.8" y="215.5" width="10" height="10" class="acc"><title>The forecast: median 23.9 working months from the proposal to the Official Journal</title></rect><text x="523.8" y="224.5" font-size="12" text-anchor="start" class="ink halo" font-weight="700">forecast 23.9</text><circle cx="499.8" cy="248.1" r="6" class="hol" stroke-width="2.5"><title>NIS-2 amendment: 5,246 words, formula 18.6 months (middle half 12.5–27.5)</title></circle><text x="489.8" y="195.7" font-size="12" text-anchor="end" class="ink halo" font-weight="700">NIS-2 amendment: formula 18.6</text></g><text x="60.0" y="384.0" font-size="11" text-anchor="start" class="mu">Words of legal text of the Commission proposal (logarithmic)</text><text x="10.0" y="12.0" font-size="11" text-anchor="start" class="mu">Working months to the Official Journal</text><text x="60.0" y="402.0" font-size="11" text-anchor="start" class="mu">Working months: without Parliament&#x27;s break around the European elections (2014, 2019, 2024); adopted acts with their calendar months in brackets where the break made a difference.</text><text x="996" y="424" font-size="10" text-anchor="end" class="mu">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</text></svg></div><div class="legend"><span><i class="lg lg-acc"></i>median per tenth of all files, with 95 % interval</span><span><i class="lg lg-band"></i>formula: median and middle half</span><span><i class="lg lg-hol"></i>this file: the formula with its middle half</span><span><i class="lg lg-sq"></i>this file: the forecast&#x27;s median</span><span><i class="lg lg-ctx"></i>other acts we follow (adopted: diamond)</span></div><p class="small">The rule of thumb counts only the size: with 5,246 words of legal text, files like this one took a median of 18.6 working months from the proposal to the Official Journal, half of them between 12.5 and 27.5. The forecast, which also knows where the file stands and the calendar ahead, gives 23.9 months, within that middle half. <a href="method.html#rule-en">How the rule of thumb was found</a></p></div><div class="l-de" lang="de"><h3>Faustformel: wie seine Größe einzuordnen ist</h3><div class="fig" tabindex="0" role="region" aria-label="Faustformel: Dauer nach Wortzahl (drawing; scrolls sideways on narrow screens)"><svg class="mchart" viewBox="0 0 1000 428" role="img" aria-label="Faustformel: Dauer nach Wortzahl" xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Faustformel: Dauer nach Wortzahl</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata><rect x="736.0" y="34" width="224.0" height="310" class="tint" opacity=".55"/><text x="742.0" y="48.0" font-size="11" text-anchor="start" class="mu" font-weight="600">oberstes Zehntel (P10): ab 30.300 Wörtern</text><line x1="60" y1="344.0" x2="960" y2="344.0" class="gr"/><text x="52.0" y="348.0" font-size="11" text-anchor="end" class="mu">0</text><line x1="60" y1="292.3" x2="960" y2="292.3" class="gr"/><text x="52.0" y="296.3" font-size="11" text-anchor="end" class="mu">10</text><line x1="60" y1="240.7" x2="960" y2="240.7" class="gr"/><text x="52.0" y="244.7" font-size="11" text-anchor="end" class="mu">20</text><line x1="60" y1="189.0" x2="960" y2="189.0" class="gr"/><text x="52.0" y="193.0" font-size="11" text-anchor="end" class="mu">30</text><line x1="60" y1="137.3" x2="960" y2="137.3" class="gr"/><text x="52.0" y="141.3" font-size="11" text-anchor="end" class="mu">40</text><line x1="60" y1="85.7" x2="960" y2="85.7" class="gr"/><text x="52.0" y="89.7" font-size="11" text-anchor="end" class="mu">50</text><line x1="60" y1="34.0" x2="960" y2="34.0" class="gr"/><text x="52.0" y="38.0" font-size="11" text-anchor="end" class="mu">60</text><line x1="60.0" y1="344" x2="60.0" y2="349" class="ax"/><text x="60.0" y="362.0" font-size="11" text-anchor="middle" class="mu">200</text><line x1="183.4" y1="344" x2="183.4" y2="349" class="ax"/><text x="183.4" y="362.0" font-size="11" text-anchor="middle" class="mu">500</text><line x1="276.7" y1="344" x2="276.7" y2="349" class="ax"/><text x="276.7" y="362.0" font-size="11" text-anchor="middle" class="mu">1.000</text><line x1="370.0" y1="344" x2="370.0" y2="349" class="ax"/><text x="370.0" y="362.0" font-size="11" text-anchor="middle" class="mu">2.000</text><line x1="493.4" y1="344" x2="493.4" y2="349" class="ax"/><text x="493.4" y="362.0" font-size="11" text-anchor="middle" class="mu">5.000</text><line x1="586.7" y1="344" x2="586.7" y2="349" class="ax"/><text x="586.7" y="362.0" font-size="11" text-anchor="middle" class="mu">10.000</text><line x1="680.0" y1="344" x2="680.0" y2="349" class="ax"/><text x="680.0" y="362.0" font-size="11" text-anchor="middle" class="mu">20.000</text><line x1="803.4" y1="344" x2="803.4" y2="349" class="ax"/><text x="803.4" y="362.0" font-size="11" text-anchor="middle" class="mu">50.000</text><line x1="896.7" y1="344" x2="896.7" y2="349" class="ax"/><text x="896.7" y="362.0" font-size="11" text-anchor="middle" class="mu">100.000</text><line x1="60" y1="344" x2="960" y2="344" class="ax"/><path d="M60.0 274.0 L71.3 272.7 L82.5 271.4 L93.8 270.1 L105.0 268.7 L116.2 267.3 L127.5 265.9 L138.7 264.5 L150.0 263.0 L161.2 261.6 L172.5 260.1 L183.8 258.5 L195.0 257.0 L206.3 255.4 L217.5 253.7 L228.8 252.1 L240.0 250.4 L251.2 248.7 L262.5 246.9 L273.7 245.2 L285.0 243.4 L296.3 241.5 L307.5 239.6 L318.8 237.7 L330.0 235.8 L341.2 233.8 L352.5 231.8 L363.7 229.7 L375.0 227.6 L386.2 225.5 L397.5 223.3 L408.8 221.1 L420.0 218.9 L431.3 216.6 L442.5 214.2 L453.8 211.9 L465.0 209.4 L476.2 207.0 L487.5 204.5 L498.7 201.9 L510.0 199.3 L521.2 196.7 L532.5 194.0 L543.8 191.2 L555.0 188.4 L566.2 185.6 L577.5 182.7 L588.8 179.7 L600.0 176.7 L611.2 173.6 L622.5 170.5 L633.8 167.3 L645.0 164.1 L656.2 160.8 L667.5 157.5 L678.8 154.0 L690.0 150.6 L701.3 147.0 L712.5 143.4 L723.7 139.7 L735.0 136.0 L746.3 132.2 L757.5 128.3 L768.7 124.4 L780.0 120.3 L791.2 116.2 L802.5 112.1 L813.8 107.8 L825.0 103.5 L836.2 99.1 L847.5 94.6 L858.8 90.0 L870.0 85.4 L881.2 80.7 L892.5 75.8 L903.8 70.9 L915.0 65.9 L926.3 60.8 L937.5 55.6 L948.7 50.4 L960.0 45.0 L960.0 208.2 L948.7 210.7 L937.5 213.1 L926.3 215.4 L915.0 217.7 L903.8 220.0 L892.5 222.2 L881.2 224.4 L870.0 226.6 L858.8 228.7 L847.5 230.8 L836.2 232.8 L825.0 234.8 L813.8 236.8 L802.5 238.7 L791.2 240.6 L780.0 242.4 L768.7 244.3 L757.5 246.1 L746.3 247.8 L735.0 249.6 L723.7 251.3 L712.5 252.9 L701.3 254.6 L690.0 256.2 L678.8 257.8 L667.5 259.3 L656.2 260.8 L645.0 262.3 L633.8 263.8 L622.5 265.2 L611.2 266.7 L600.0 268.0 L588.8 269.4 L577.5 270.7 L566.2 272.1 L555.0 273.4 L543.8 274.6 L532.5 275.9 L521.2 277.1 L510.0 278.3 L498.7 279.5 L487.5 280.6 L476.2 281.8 L465.0 282.9 L453.8 284.0 L442.5 285.1 L431.3 286.1 L420.0 287.2 L408.8 288.2 L397.5 289.2 L386.2 290.2 L375.0 291.2 L363.7 292.1 L352.5 293.0 L341.2 294.0 L330.0 294.9 L318.8 295.7 L307.5 296.6 L296.3 297.5 L285.0 298.3 L273.7 299.1 L262.5 299.9 L251.2 300.7 L240.0 301.5 L228.8 302.3 L217.5 303.0 L206.3 303.8 L195.0 304.5 L183.8 305.2 L172.5 305.9 L161.2 306.6 L150.0 307.2 L138.7 307.9 L127.5 308.6 L116.2 309.2 L105.0 309.8 L93.8 310.4 L82.5 311.0 L71.3 311.6 L60.0 312.2 Z" class="tint accs" stroke-width=".8"/><polyline fill="none" class="inks" stroke-width="2" points="60.0,296.8 71.3,296.0 82.5,295.1 93.8,294.2 105.0,293.3 116.2,292.3 127.5,291.4 138.7,290.4 150.0,289.5 161.2,288.5 172.5,287.4 183.8,286.4 195.0,285.3 206.3,284.3 217.5,283.2 228.8,282.1 240.0,280.9 251.2,279.8 262.5,278.6 273.7,277.4 285.0,276.2 296.3,274.9 307.5,273.7 318.8,272.4 330.0,271.1 341.2,269.7 352.5,268.4 363.7,267.0 375.0,265.6 386.2,264.1 397.5,262.7 408.8,261.2 420.0,259.7 431.3,258.1 442.5,256.6 453.8,255.0 465.0,253.3 476.2,251.7 487.5,250.0 498.7,248.3 510.0,246.5 521.2,244.7 532.5,242.9 543.8,241.1 555.0,239.2 566.2,237.2 577.5,235.3 588.8,233.3 600.0,231.3 611.2,229.2 622.5,227.1 633.8,225.0 645.0,222.8 656.2,220.6 667.5,218.3 678.8,216.0 690.0,213.7 701.3,211.3 712.5,208.8 723.7,206.4 735.0,203.8 746.3,201.3 757.5,198.7 768.7,196.0 780.0,193.3 791.2,190.5 802.5,187.7 813.8,184.9 825.0,181.9 836.2,179.0 847.5,176.0 858.8,172.9 870.0,169.7 881.2,166.6 892.5,163.3 903.8,160.0 915.0,156.6 926.3,153.2 937.5,149.7 948.7,146.1 960.0,142.5"/><line x1="238.9" y1="291.8" x2="238.9" y2="276.8" class="accs" stroke-width="2"/><circle cx="238.9" cy="285.6" r="5" class="acc"><title>P1: mittlere Wortzahl 756 Wörter, Median 11,3 Monate (95 %: 10,1–13,0), Formel 12,2</title></circle><text x="238.9" y="268.8" font-size="10" text-anchor="middle" class="mu">P1</text><line x1="362.5" y1="279.9" x2="362.5" y2="255.1" class="accs" stroke-width="2"/><circle cx="362.5" cy="270.6" r="5" class="acc"><title>P2: mittlere Wortzahl 1.892 Wörter, Median 14,2 Monate (95 %: 12,4–17,2), Formel 14,9</title></circle><text x="362.5" y="247.1" font-size="10" text-anchor="middle" class="mu">P2</text><line x1="439.1" y1="271.7" x2="439.1" y2="251.5" class="accs" stroke-width="2"/><circle cx="439.1" cy="262.4" r="5" class="acc"><title>P3: mittlere Wortzahl 3.340 Wörter, Median 15,8 Monate (95 %: 14,0–17,9), Formel 16,8</title></circle><text x="439.1" y="243.5" font-size="10" text-anchor="middle" class="mu">P3</text><line x1="487.6" y1="260.3" x2="487.6" y2="234.5" class="accs" stroke-width="2"/><circle cx="487.6" cy="246.3" r="5" class="acc"><title>P4: mittlere Wortzahl 4.789 Wörter, Median 18,9 Monate (95 %: 16,2–21,2), Formel 18,2</title></circle><text x="487.6" y="226.5" font-size="10" text-anchor="middle" class="mu">P4</text><line x1="525.9" y1="270.1" x2="525.9" y2="242.7" class="accs" stroke-width="2"/><circle cx="525.9" cy="254.1" r="5" class="acc"><title>P5: mittlere Wortzahl 6.366 Wörter, Median 17,4 Monate (95 %: 14,3–19,6), Formel 19,4</title></circle><text x="525.9" y="234.7" font-size="10" text-anchor="middle" class="mu">P5</text><line x1="565.0" y1="244.8" x2="565.0" y2="218.4" class="accs" stroke-width="2"/><circle cx="565.0" cy="231.9" r="5" class="acc"><title>P6: mittlere Wortzahl 8.513 Wörter, Median 21,7 Monate (95 %: 19,2–24,3), Formel 20,6</title></circle><text x="565.0" y="210.4" font-size="10" text-anchor="middle" class="mu">P6</text><line x1="603.2" y1="239.1" x2="603.2" y2="215.9" class="accs" stroke-width="2"/><circle cx="603.2" cy="228.8" r="5" class="acc"><title>P7: mittlere Wortzahl 11.305 Wörter, Median 22,3 Monate (95 %: 20,3–24,8), Formel 21,9</title></circle><text x="603.2" y="207.9" font-size="10" text-anchor="middle" class="mu">P7</text><line x1="647.9" y1="232.4" x2="647.9" y2="197.3" class="accs" stroke-width="2"/><circle cx="647.9" cy="215.9" r="5" class="acc"><title>P8: mittlere Wortzahl 15.756 Wörter, Median 24,8 Monate (95 %: 21,6–28,4), Formel 23,6</title></circle><text x="647.9" y="189.3" font-size="10" text-anchor="middle" class="mu">P8</text><line x1="697.6" y1="228.8" x2="697.6" y2="199.9" class="accs" stroke-width="2"/><circle cx="697.6" cy="218.4" r="5" class="acc"><title>P9: mittlere Wortzahl 22.789 Wörter, Median 24,3 Monate (95 %: 22,3–27,9), Formel 25,5</title></circle><text x="697.6" y="191.9" font-size="10" text-anchor="middle" class="mu">P9</text><line x1="782.1" y1="197.3" x2="782.1" y2="180.7" class="accs" stroke-width="2"/><circle cx="782.1" cy="192.1" r="5" class="acc"><title>P10: mittlere Wortzahl 42.698 Wörter, Median 29,4 Monate (95 %: 28,4–31,6), Formel 29,3</title></circle><text x="782.1" y="172.7" font-size="10" text-anchor="middle" class="mu">P10</text><g data-proc-item="cra"><line x1="736.8" y1="344" x2="736.8" y2="338" class="greys" stroke-width="2"/><rect x="731.8" y="230.6" width="10" height="10" transform="rotate(45 736.8 235.6)" class="grey"><title>Cyber Resilience Act: 30.479 Wörter, tatsächlich 21,0 Arbeitsmonate (26,2 Kalendermonate), Formel 27,2</title></rect></g><g data-proc-item="machinery-regulation"><line x1="782.3" y1="344" x2="782.3" y2="338" class="greys" stroke-width="2"/><rect x="777.3" y="203.4" width="10" height="10" transform="rotate(45 782.3 208.4)" class="grey"><title>Maschinenverordnung: 42.764 Wörter, tatsächlich 26,2 Arbeitsmonate (26,2 Kalendermonate), Formel 29,3</title></rect></g><g data-proc-item="ai-act"><line x1="766.2" y1="344" x2="766.2" y2="338" class="greys" stroke-width="2"/><rect x="761.2" y="152.1" width="10" height="10" transform="rotate(45 766.2 157.1)" class="grey"><title>AI Act: 37.924 Wörter, tatsächlich 36,2 Arbeitsmonate (38,7 Kalendermonate), Formel 28,5</title></rect></g><g data-proc-item="nis2"><line x1="716.2" y1="344" x2="716.2" y2="338" class="greys" stroke-width="2"/><rect x="711.2" y="213.2" width="10" height="10" transform="rotate(45 716.2 218.2)" class="grey"><title>NIS-2-Richtlinie: 26.158 Wörter, tatsächlich 24,3 Arbeitsmonate (24,3 Kalendermonate), Formel 26,3</title></rect></g><g data-proc-item="market-surveillance"><line x1="674.4" y1="344" x2="674.4" y2="338" class="greys" stroke-width="2"/><rect x="669.4" y="256.5" width="10" height="10" transform="rotate(45 674.4 261.5)" class="grey"><title>Marktüberwachungsverordnung: 19.176 Wörter, tatsächlich 16,0 Arbeitsmonate (18,2 Kalendermonate), Formel 24,6</title></rect></g><g data-proc-item="chips-act-2"><line x1="785.0" y1="344" x2="785.0" y2="338" class="greys" stroke-width="2"/><circle cx="785.0" cy="192.1" r="4.5" class="holq" stroke-width="1.5"><title>Chips Act 2.0: 43.609 Wörter, Formel 29,4 Monate (mittlere Hälfte 19,8–43,6)</title></circle></g><g data-proc-item="cloud-ai-development-act"><line x1="755.9" y1="344" x2="755.9" y2="338" class="greys" stroke-width="2"/><circle cx="755.9" cy="199.0" r="4.5" class="holq" stroke-width="1.5"><title>Cloud and AI Development Act: 35.137 Wörter, Formel 28,1 Monate (mittlere Hälfte 18,9–41,6)</title></circle></g><g data-proc-item="csa2"><line x1="821.9" y1="344" x2="821.9" y2="338" class="greys" stroke-width="2"/><circle cx="821.9" cy="182.7" r="4.5" class="holq" stroke-width="1.5"><title>Cybersecurity Act 2: 57.386 Wörter, Formel 31,2 Monate (mittlere Hälfte 21,0–46,3)</title></circle></g><g data-proc-item="digital-omnibus"><line x1="749.3" y1="344" x2="749.3" y2="338" class="greys" stroke-width="2"/><circle cx="749.3" cy="200.6" r="4.5" class="holq" stroke-width="1.5"><title>Digital Omnibus: 33.458 Wörter, Formel 27,8 Monate (mittlere Hälfte 18,7–41,2)</title></circle></g><g data-proc-item="epa"><line x1="861.3" y1="344" x2="861.3" y2="338" class="greys" stroke-width="2"/><circle cx="861.3" cy="172.2" r="4.5" class="holq" stroke-width="1.5"><title>European Product Act: 76.852 Wörter, Formel 33,3 Monate (mittlere Hälfte 22,4–49,4)</title></circle></g><g data-proc-item="industrial-accelerator-act"><line x1="715.3" y1="344" x2="715.3" y2="338" class="greys" stroke-width="2"/><circle cx="715.3" cy="208.2" r="4.5" class="holq" stroke-width="1.5"><title>Industrial Accelerator Act: 25.992 Wörter, Formel 26,3 Monate (mittlere Hälfte 17,7–39,0)</title></circle></g><g data-proc-item="medical-devices-simplification"><line x1="835.9" y1="344" x2="835.9" y2="338" class="greys" stroke-width="2"/><circle cx="835.9" cy="179.1" r="4.5" class="holq" stroke-width="1.5"><title>MDR/IVDR-Vereinfachung: 63.663 Wörter, Formel 31,9 Monate (mittlere Hälfte 21,5–47,4)</title></circle></g><g data-proc-item="product-digitalisation-directive"><line x1="755.5" y1="344" x2="755.5" y2="338" class="greys" stroke-width="2"/><circle cx="755.5" cy="199.1" r="4.5" class="holq" stroke-width="1.5"><title>Omnibus IV, Richtlinie: 35.021 Wörter, Formel 28,0 Monate (mittlere Hälfte 18,9–41,6)</title></circle></g><g data-proc-item="public-procurement-act"><line x1="841.0" y1="344" x2="841.0" y2="338" class="greys" stroke-width="2"/><circle cx="841.0" cy="177.7" r="4.5" class="holq" stroke-width="1.5"><title>Public Procurement Act: 66.104 Wörter, Formel 32,2 Monate (mittlere Hälfte 21,7–47,8)</title></circle></g><g data-proc-item="space-act"><line x1="822.5" y1="344" x2="822.5" y2="338" class="greys" stroke-width="2"/><circle cx="822.5" cy="182.6" r="4.5" class="holq" stroke-width="1.5"><title>EU Space Act: 57.640 Wörter, Formel 31,2 Monate (mittlere Hälfte 21,1–46,4)</title></circle></g><g data-proc-item="standardisation-revision"><line x1="670.1" y1="344" x2="670.1" y2="338" class="greys" stroke-width="2"/><circle cx="670.1" cy="217.8" r="4.5" class="holq" stroke-width="1.5"><title>New Standardisation Regulation: 18.579 Wörter, Formel 24,4 Monate (mittlere Hälfte 16,5–36,3)</title></circle></g><g data-proc-item="nis2-amendment"><line x1="499.8" y1="344" x2="499.8" y2="338" class="inks" stroke-width="2"/><line x1="499.8" y1="56" x2="499.8" y2="344" class="ink2s" stroke-dasharray="4 3"/><line x1="499.8" y1="279.4" x2="499.8" y2="201.7" class="inks" stroke-width="2.5"/><rect x="508.8" y="215.5" width="10" height="10" class="acc"><title>Der Forecast: Median 23,9 Arbeitsmonate vom Vorschlag bis zum Amtsblatt</title></rect><text x="523.8" y="224.5" font-size="12" text-anchor="start" class="ink halo" font-weight="700">Forecast 23,9</text><circle cx="499.8" cy="248.1" r="6" class="hol" stroke-width="2.5"><title>NIS-2-Änderung: 5.246 Wörter, Formel 18,6 Monate (mittlere Hälfte 12,5–27,5)</title></circle><text x="489.8" y="195.7" font-size="12" text-anchor="end" class="ink halo" font-weight="700">NIS-2 amendment: Formel 18,6</text></g><text x="60.0" y="384.0" font-size="11" text-anchor="start" class="mu">Wörter Rechtstext des Kommissionsvorschlags (logarithmisch)</text><text x="10.0" y="12.0" font-size="11" text-anchor="start" class="mu">Arbeitsmonate bis zum Amtsblatt</text><text x="60.0" y="402.0" font-size="11" text-anchor="start" class="mu">Arbeitsmonate: ohne die Pause des Parlaments um die Europawahlen (2014, 2019, 2024); angenommene Gesetze mit ihren Kalendermonaten in Klammern, wo die Pause einen Unterschied machte.</text><text x="996" y="424" font-size="10" text-anchor="end" class="mu">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</text></svg></div><div class="legend"><span><i class="lg lg-acc"></i>Median je Zehntel aller Verfahren, mit 95-%-Intervall</span><span><i class="lg lg-band"></i>Formel: Median und mittlere Hälfte</span><span><i class="lg lg-hol"></i>dieses Verfahren: Formel mit mittlerer Hälfte</span><span><i class="lg lg-sq"></i>dieses Verfahren: Median des Forecasts</span><span><i class="lg lg-ctx"></i>andere Rechtsakte, die wir verfolgen (angenommen: Raute)</span></div><p class="small">Die Faustformel kennt nur die Größe: Mit 5.246 Wörtern Rechtstext brauchten Verfahren wie dieses im Median 18,6 Arbeitsmonate vom Vorschlag bis zum Amtsblatt, die Hälfte zwischen 12,5 und 27,5. Der Forecast, der auch weiß, wo das Verfahren steht und wie der Kalender aussieht, kommt auf 23,9 Monate, innerhalb dieser mittleren Hälfte. <a href="method.html?lang=de#rule-de">Wie die Faustformel entstanden ist</a></p></div></div>
+<h3>Where the file stands</h3><ol class="steps">
+<li class="done">Commission proposal<span>14 Jan 2026</span></li>
+<li class="done">Referral to EP committee<span>25 Mar 2026</span></li>
+<li>EP committee vote<span>open</span></li>
+<li>Trilogues can start<span>open</span></li>
+<li>Provisional agreement<span>open</span></li>
+<li>Parliament&#x27;s vote<span>open</span></li>
+<li>Council adoption<span>open</span></li>
+<li>Official Journal<span>open</span></li>
+</ol>
+<p class="small"><a href="../procedures/nis2-amendment.html">Every step and document of the procedure</a></p>
+<p class="small muted">Compared with 220 files of similar size (about 5,200 words of legal text in the Commission proposal) that reached the same step and had not moved on after as long.  <a href="index.html#method">How the forecast works</a> · <a href="method.html">How it was built, with the rule of thumb</a></p>
+</section>
+<p class="small muted" style="margin-top:18px">Our own assessment from public sources, <a href="https://creativecommons.org/licenses/by/4.0/" class="ext" target="_blank" rel="noopener">CC BY 4.0</a>. Data of 23 Oct 2026. It describes how long comparable laws took; it does not say what the institutions will decide.</p><div class="sitefoot">EU regulation timeline, a private project by <a href="../about.html">Steffen Zimmermann</a> · <a href="../LICENSE.md">CC BY 4.0</a></div></main></div><div id="tip" hidden></div><script>
+const tip = document.getElementById('tip');
+document.addEventListener('pointermove', e => {
+  const t = e.target.closest && e.target.closest('[data-tip]');
+  if (!t) { tip.hidden = true; return; }
+  tip.textContent = t.getAttribute('data-tip'); tip.hidden = false;
+  const w = tip.offsetWidth;
+  tip.style.left = Math.min(e.clientX + 14, innerWidth - w - 8) + 'px'; tip.style.top = (e.clientY + 16) + 'px';
+});
+document.querySelectorAll('.toggle').forEach(g => g.addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+  document.querySelectorAll('[data-scn]').forEach(el => { el.hidden = el.dataset.scn !== b.dataset.show; });
+}));
+document.querySelectorAll('[data-set]').forEach(b=>b.addEventListener('click',()=>{const l=b.dataset.set,d=document.documentElement;d.dataset.lang=l;document.querySelectorAll('[data-set]').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.set===l)));try{localStorage.setItem('desk-lang',l)}catch(e){}}));document.querySelectorAll('[data-set]').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.set===(document.documentElement.dataset.lang==='de'?'de':'en'))));</script><script>
+(function () {
+  if (matchMedia("(max-width: 700px)").matches)
+    document.querySelectorAll("details.phone-open").forEach(function (d) { d.open = true; });
+  document.querySelectorAll(".fig, .figure, .preview").forEach(function (f) {
+    var next = f.nextElementSibling;
+    if (f.scrollWidth > f.clientWidth + 4 && !(next && next.classList.contains("scroll-hint"))) {
+      var p = document.createElement("p");
+      p.className = "scroll-hint";
+      p.textContent = "The drawing scrolls sideways →";
+      f.after(p);
+    }
+  });
+})();
+</script></body></html>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Regulation Desk – KI</title>
+<id>https://git-z0man.github.io/eu-regulation-timeline/news/topic-ai.de.xml</id>
+<link rel="self" href="https://git-z0man.github.io/eu-regulation-timeline/news/topic-ai.de.xml"/>
+<link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/>
+<updated>2026-10-24T00:00:00Z</updated>
+<author><name>Steffen Zimmermann (EU regulation timeline)</name></author>
+<entry><title>KI-VO · M/613: 1 Projekt diese Woche einen Schritt weiter</title><id>tag:git-z0man.github.io,2026:news/ai-act/standards/M613/2026-W43</id><link href="https://git-z0man.github.io/eu-regulation-timeline/news/index.html"/><category term="Standards"/><updated>2026-10-23T00:00:00Z</updated><summary>CEN-CENELEC 2. Weitester Schritt: Annahme EN. Einen Schritt weiter: prEN 18229-3 auf Entwurf EN; 1 ohne früheren Stand in den Daten (FprEN ISO/IEC 24970).</summary></entry>
+<entry><title>KI-VO: Entwurf zur Konsultation</title><id>tag:git-z0man.github.io,2026:news/ai-act/hys-19292-26258</id><link href="https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19292_en"/><category term="Legislation"/><updated>2026-10-12T00:00:00Z</updated><summary>Articles 75c – 75d AI Act Implementing Act: Entwurf der Kommissionsdienststellen, nicht angenommen; Rückmeldungen bis 9. Nov. 2026.</summary></entry>
+</feed>
