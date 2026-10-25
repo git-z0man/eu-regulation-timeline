@@ -1,6 +1,6 @@
 # Regulation Desk
 
-Edition of 2026-10-24: the stories of the last 14 days, most important first. Every story links to its official source. Drafts are not law.
+Edition of 2026-10-25: the stories of the last 14 days, most important first. Every story links to its official source. Drafts are not law.
 
 - 2026-10-22 · Legislation · Digital Omnibus: [Digital Omnibus: Mandate for negotiations with the European Parliament](../procedures/digital-omnibus.html). Council negotiating mandate. Draft until Coreper agrees it; trilogues follow.
 - 2026-10-19 · Legislation · Digital Omnibus: [Digital Omnibus: Mandate for negotiations with the European Parliament (not public)](../procedures/digital-omnibus.html). Council negotiating mandate. Draft until Coreper agrees it; trilogues follow.
@@ -53,7 +53,3 @@ Edition of 2026-10-24: the stories of the last 14 days, most important first. Ev
 - 2026-10-11 · On this site · Site: [Easier to read on phones and tablets: wide tables as one block per entry, long tables folded](../procedures/committees.html). The timeline on a phone opens at today; dates no longer break across lines; links to other sites open in a new tab with ↗; drawings are dimmed in dark mode.
 - 2026-10-11 · On this site · Site: [New: who may speak for SMEs, consumers, the environment and workers in European standardisation](../acts/topic-standardisation-reform.html#criteria-stakeholder-organisations). The criteria of the proposed Standardisation Regulation for the four European stakeholder organisations, side by side with today's, and the organisations that could be designated.
 - 2026-10-11 · On this site · Site: [The texts are now grouped by act, and the latest activity opens with the last 14 days](../texts/index.html). Each act with its texts and its zip; acts are called by their name throughout; the committees and standardisation pages open with the next meeting and the next deadline.
-- 2026-10-10 · On this site · Site: [New: an About page, and how to credit the graphics when you reuse them](../about.html). A private spare-time project by Steffen Zimmermann. Everything stays free under CC BY 4.0; every graphic now carries a short credit line.
-- 2026-10-10 · On this site · Site: [New: how long an EU law takes, two charts on the Graphics tab](../graphics.html). Each phase of the procedure, and the share of proposals published after n months, from every file since 2014; in English and German, for slides.
-- 2026-10-10 · On this site · Site: [New: the Forecast tab, when open EU procedures are likely to become law](../forecast/index.html). For every open procedure and the announced European Product Act, measured against how long comparable laws took and the 2029 elections.
-- 2026-10-10 · On this site · Site: [New: which files change the product laws under the New Legislative Framework, side by side](../forecast/nlf.html). Next to the announced European Product Act, 24 of 31 product laws are already being changed by other files; and every forecast chart is now on the Graphics tab.

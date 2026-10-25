@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-24",
+ "edition": "2026-10-25",
  "stories": [
   {
    "id": "digital-omnibus/mandate/ST-14756-26",
@@ -31,7 +31,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 81,
+   "score": 79,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -73,7 +73,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 75,
+   "score": 73,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -136,7 +136,7 @@
     "en": "A step further: EN 302 454 to Voting prEN; EN 302 054 to Voting prEN; EN 302 686 to Voting prEN; 1 without an earlier status on record (EN 301 783).",
     "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN; EN 302 054 auf Umfrage prEN; EN 302 686 auf Umfrage prEN; 1 ohne früheren Stand in den Daten (EN 301 783)."
    },
-   "score": 58,
+   "score": 56,
    "tree": {
     "": {
      "ETSI": {
@@ -297,7 +297,7 @@
     "en": "A step further: prEN 18229-3 to Drafting EN; 1 without an earlier status on record (FprEN ISO/IEC 24970).",
     "de": "Einen Schritt weiter: prEN 18229-3 auf Entwurf EN; 1 ohne früheren Stand in den Daten (FprEN ISO/IEC 24970)."
    },
-   "score": 58,
+   "score": 56,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -398,7 +398,7 @@
     }
    ],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -442,7 +442,7 @@
     }
    ],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -484,7 +484,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -534,7 +534,7 @@
     "en": "On 8 Sep 2025, when the procedure reached its current step, the median of publication in the Official Journal was 13 Aug 2027; it held within 14 days only if the step came by 10 Aug 2026. The step is overdue: the median now stands at 7 Jun 2028. If the step came on 22 Oct 2026, the median would be 8 Nov 2027.",
     "de": "Am 8. Sept. 2025, als das Verfahren seinen jetzigen Schritt erreichte, lag der Median der Veröffentlichung im Amtsblatt beim 13. Aug. 2027; er hielt sich nur dann innerhalb von 14 Tagen, wenn der Schritt bis 10. Aug. 2026 kam. Der Schritt steht aus: der Median liegt jetzt beim 7. Juni 2028. Käme der Schritt am 22. Okt. 2026, läge der Median beim 8. Nov. 2027."
    },
-   "score": 51,
+   "score": 49,
    "ladder": {
     "place": {
      "en": [
@@ -590,7 +590,7 @@
     }
    ],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -641,7 +641,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 46,
+   "score": 44,
    "ladder": {
     "place": {
      "en": [
@@ -693,7 +693,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -746,7 +746,7 @@
     }
    ],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -790,7 +790,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -834,7 +834,7 @@
     }
    ],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -872,7 +872,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Analysis"
@@ -908,7 +908,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Analysis"
@@ -948,7 +948,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -990,7 +990,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1055,7 +1055,7 @@
     "en": "3 only changed status within their step (Voting prEN); 2 without an earlier status on record (EN 304 642, EN 304 634).",
     "de": "3 nur mit neuem Status im selben Schritt (Umfrage prEN); 2 ohne früheren Stand in den Daten (EN 304 642, EN 304 634)."
    },
-   "score": 39,
+   "score": 37,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1197,7 +1197,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1235,7 +1235,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1277,7 +1277,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1321,7 +1321,7 @@
     }
    ],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1365,7 +1365,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 34,
+   "score": 32,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -1409,7 +1409,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 32,
+   "score": 30,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1452,7 +1452,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -1523,7 +1523,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 30,
+   "score": 28,
    "ladder": {
     "place": {
      "en": [
@@ -1577,7 +1577,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 30,
+   "score": 28,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -1621,7 +1621,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1690,7 +1690,7 @@
     "en": "2 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 633, EN 304 632, EN 304 631 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 633, EN 304 632, EN 304 631 …)."
    },
-   "score": 28,
+   "score": 26,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1836,7 +1836,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1874,7 +1874,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -1927,7 +1927,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1980,7 +1980,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -2024,7 +2024,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -2058,7 +2058,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 18,
+   "score": 16,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -2102,7 +2102,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2146,7 +2146,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2190,7 +2190,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2224,7 +2224,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 16,
+   "score": 14,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -2258,7 +2258,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2296,7 +2296,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2330,7 +2330,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -2364,7 +2364,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -2396,7 +2396,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -2428,7 +2428,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -2473,7 +2473,7 @@
     }
    ],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "tree": {
     "": {
      "ETSI": {
@@ -2553,7 +2553,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -2585,7 +2585,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -11,
+   "score": -13,
    "crumbs": {
     "en": [
      "This site"
@@ -2617,7 +2617,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -11,
+   "score": -13,
    "crumbs": {
     "en": [
      "This site"
@@ -2645,134 +2645,6 @@
     [
      "Open",
      "../texts/index.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -11,
-   "crumbs": {
-    "en": [
-     "This site"
-    ],
-    "de": [
-     "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "site/2026-10-10/about-credit",
-   "kind": "site",
-   "desk": "On this site",
-   "date": "2026-10-10",
-   "act": "site",
-   "kicker": "",
-   "kicker_de": "",
-   "headline": "New: an About page, and how to credit the graphics when you reuse them",
-   "deck": "A private spare-time project by Steffen Zimmermann. Everything stays free under CC BY 4.0; every graphic now carries a short credit line.",
-   "headline_de": "Neu: eine About-Seite und wie man die Grafiken bei der Weiterverwendung nennt",
-   "deck_de": "Ein privates Freizeitprojekt von Steffen Zimmermann. Alles bleibt frei unter CC BY 4.0; jede Grafik trägt jetzt eine kurze Quellenzeile.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Open",
-     "../about.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -13,
-   "crumbs": {
-    "en": [
-     "This site"
-    ],
-    "de": [
-     "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "site/2026-10-10/durations-graphics",
-   "kind": "site",
-   "desk": "On this site",
-   "date": "2026-10-10",
-   "act": "site",
-   "kicker": "",
-   "kicker_de": "",
-   "headline": "New: how long an EU law takes, two charts on the Graphics tab",
-   "deck": "Each phase of the procedure, and the share of proposals published after n months, from every file since 2014; in English and German, for slides.",
-   "headline_de": "Neu: Wie lange ein EU-Gesetz dauert, zwei Grafiken im Bereich Grafiken",
-   "deck_de": "Jede Phase des Verfahrens und der Anteil der Vorschläge, die nach n Monaten veröffentlicht sind, aus allen Dossiers seit 2014; auf Englisch und Deutsch, für Folien.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Open",
-     "../graphics.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -13,
-   "crumbs": {
-    "en": [
-     "This site"
-    ],
-    "de": [
-     "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "site/2026-10-10/forecast-tab",
-   "kind": "site",
-   "desk": "On this site",
-   "date": "2026-10-10",
-   "act": "site",
-   "kicker": "",
-   "kicker_de": "",
-   "headline": "New: the Forecast tab, when open EU procedures are likely to become law",
-   "deck": "For every open procedure and the announced European Product Act, measured against how long comparable laws took and the 2029 elections.",
-   "headline_de": "Neu: der Bereich Forecast, wann laufende EU-Verfahren voraussichtlich Gesetz werden",
-   "deck_de": "Für jedes laufende Verfahren und den angekündigten European Product Act, gemessen daran, wie lange vergleichbare Gesetze brauchten, und an der Europawahl 2029.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Open",
-     "../forecast/index.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -13,
-   "crumbs": {
-    "en": [
-     "This site"
-    ],
-    "de": [
-     "Diese Seite"
-    ]
-   }
-  },
-  {
-   "id": "site/2026-10-10/nlf-overview",
-   "kind": "site",
-   "desk": "On this site",
-   "date": "2026-10-10",
-   "act": "site",
-   "kicker": "",
-   "kicker_de": "",
-   "headline": "New: which files change the product laws under the New Legislative Framework, side by side",
-   "deck": "Next to the announced European Product Act, 24 of 31 product laws are already being changed by other files; and every forecast chart is now on the Graphics tab.",
-   "headline_de": "Neu: welche Dossiers die Produktgesetze des New Legislative Framework ändern, nebeneinander",
-   "deck_de": "Neben dem angekündigten European Product Act werden 24 von 31 Produktgesetzen schon durch andere Dossiers geändert; und jede Forecast-Grafik steht jetzt im Bereich Grafiken.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Open",
-     "../forecast/nlf.html"
     ]
    ],
    "items": [],
