@@ -6,8 +6,8 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 ## At a glance
 
-- Next meeting: 2026-10-26 – 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE
-- Last meeting: 2025-07-04 – Invitation to the 4th meeting of the Net-Zero Technologies Committee ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/112850/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/112851/1/consult))
+- Next meeting: none announced
+- Last meeting: 2026-10-26 – 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118491/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/118507/1/consult))
 - Meetings since 2024: 5
 - Latest summary record: [Invitation to the 4th meeting of the Net-Zero Technologies Committee (2025-07-04)](https://ec.europa.eu/transparency/comitology-register/screen/documents/112851/1/consult)
 

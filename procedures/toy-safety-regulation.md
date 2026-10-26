@@ -93,7 +93,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 
 Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
 
-### M/589 – C(2022)7410 (under execution)
+### M/589 – C(2022)7410 (expired)
 
 COMMISSION IMPLEMENTING DECISION of 24.10.2022 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards toys in support of Directive 2009/48/EC of the European Parliament and of the Council
 

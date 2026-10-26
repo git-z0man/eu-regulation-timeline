@@ -1,68 +1,68 @@
 {
  "items": [
   {
-   "date": "2026-10-23",
-   "title": "EHDS",
-   "actor": "Committee on the European Health Data Space",
-   "label": "Summary record published: 10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026 (2026-09-30)",
-   "doc": "summary record",
-   "page": "ehds.html"
-  },
-  {
-   "date": "2026-10-23",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "FprEN ISO/IEC 24970 – Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026): Under Approval",
-   "doc": "FprEN ISO/IEC 24970",
-   "page": "ai-act.html"
-  },
-  {
-   "date": "2026-10-22",
+   "date": "2026-10-26",
    "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 302 454",
+   "actor": "ERM WG30",
+   "label": "EN 304 118 – Medical implantable Wireless Power Transmission (WPT) equipment; Harmonised Standard for a: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 118",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-10-22",
+   "date": "2026-10-26",
    "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 302 054",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
+   "doc": "EN 301 843-7",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-10-22",
-   "title": "MR",
-   "actor": "Commission Expert Group on Machinery",
-   "label": "Commission Expert Group on MACHINERY",
-   "doc": "agenda",
-   "page": "machinery-regulation.html"
+   "date": "2026-10-26",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-4 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
+   "doc": "EN 301 843-4",
+   "page": "committees.html#red"
   },
   {
-   "date": "2026-10-22",
-   "title": "MR",
-   "actor": "Commission Expert Group on Machinery",
-   "label": "COM Expert Group on Machinery",
-   "doc": "agenda",
-   "page": "machinery-regulation.html"
+   "date": "2026-10-26",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-3 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services Harmo: Drafting Stage – Early draft",
+   "doc": "EN 301 843-3",
+   "page": "committees.html#red"
   },
   {
-   "date": "2026-10-22",
-   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "date": "2026-10-26",
+   "title": "NZIA",
+   "actor": "Net-zero technologies committee",
+   "label": "5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE",
+   "doc": "agenda, draft implementing act",
+   "page": "nzia.html"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
-   "label": "Released: Council note of 2026-09-30 (Regulation on accelerating industrial capacity and decarbonisation (Industrial …), listed as not public since 2026-09-30",
-   "doc": "ST 13708/26",
-   "page": "industrial-accelerator-act.html"
+   "label": "Released: Council note of 2026-09-02 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 12287/26",
+   "page": "medical-devices-simplification.html"
   },
   {
-   "date": "2026-10-22",
-   "title": "EHDS",
-   "actor": "Committee on the European Health Data Space",
-   "label": "11th meeting: Committee on the European Health Data Space (EHDS)",
-   "doc": "agenda",
-   "page": "ehds.html"
+   "date": "2026-10-23",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-07-10 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 11549/26",
+   "page": "medical-devices-simplification.html"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-07-09 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 11546/26",
+   "page": "medical-devices-simplification.html"
   }
  ]
 }

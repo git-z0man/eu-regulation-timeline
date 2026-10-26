@@ -1,14 +1,14 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 23 Oct 2026.
+Procedure 2026/0011(COD), as of 26 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
-- **Council:** working party, latest document 20 Oct 2026
-- **Latest activity:** 20 Oct 2026 · Council: Consolidated comments from Austria and other Member States on Presidency third compromise … (WK 16180/26)
+- **Council:** working party, latest document 23 Oct 2026
+- **Latest activity:** 23 Oct 2026 · Council: Proposal for a Regulation of European Parliament and of the Council on the European Union … (WK 16145/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -131,8 +131,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-16 | [WK 15959/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98509) | council-compromise | Presidency third compromise text on Title II of the draft proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European … | not public\* | – | – |
 | 2026-10-20 | [WK 16180/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98905) | council-note | Consolidated comments from Austria and other Member States on Presidency third compromise text on the recitals and Title III (Certification) | not public\* | – | – |
 | 2026-10-20 | [WK 16206/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98885) | council-note | Title II (Fees), Articles 47/Presentation by the Commission | not public\* | – | – |
+| 2026-10-23 | [WK 16145/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621) | council-note | Proposal for a Regulation of European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-23.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-26.
 
 ## Texts as Markdown
 

@@ -1265,7 +1265,7 @@ All texts of this act as one file: [public-procurement-act.zip](downloads/public
 
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-09-09_com-proposal | com-proposal | 52026PC0590 | [en](public-procurement-act/2026-09-09_com-proposal.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.en.md) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) |
+| 2026-09-09_com-proposal | com-proposal | 52026PC0590 | [en](public-procurement-act/2026-09-09_com-proposal.en.md) | [de](public-procurement-act/2026-09-09_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0590) |
 
 ## RED
 

@@ -1,21 +1,21 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 22 Oct 2026.
+Procedure 2026/0265(COD), as of 26 Oct 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 19 Oct 2026
-- **Latest activity:** 19 Oct 2026 · Council: Correlation between articles and recitals (WK 16163/26)
+- **Council:** working party, latest document 23 Oct 2026
+- **Latest activity:** 23 Oct 2026 · Council: Working Party Meeting on Competitiveness and Growth (Public Procurement) on 29-30 October … (WK 16561/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
-| 2026-09-09 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) · [en.md](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) | Cellar (CELEX 52026PC0590) |
+| 2026-09-09 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) · [en.md](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) [de.md](../texts/public-procurement-act/2026-09-09_com-proposal.de.md) | Cellar (CELEX 52026PC0590) |
 | 2026-09-18 | Council | Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of … | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) | Council register, CM 4104/26 (notice of meeting and provisional agenda) |
 | 2026-10-02 | Council | Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) | Council register, CM 4305/26 (notice of meeting and provisional agenda) |
 
@@ -40,8 +40,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 | 2026-10-09 | [WK 14963/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95971) | council-note | Comments from Member States | not public\* | – | – |
 | 2026-10-19 | [WK 16163/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98767) | council-note | Correlation between articles and recitals | not public\* | – | – |
+| 2026-10-23 | [WK 16561/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99701) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 29-30 October 2026 | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-23.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-26.
 
 ## Texts as Markdown
 
@@ -49,6 +50,6 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 
 | Date | Stage | Document | Markdown | Read |
 | --- | --- | --- | --- | --- |
-| 2026-09-09 | com-proposal | [CELEX 52026PC0590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | [en](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.en.md) |
+| 2026-09-09 | com-proposal | [CELEX 52026PC0590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | [en](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) [de](../texts/public-procurement-act/2026-09-09_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.
