@@ -1,5 +1,5 @@
 {
- "edition": "2026-10-26",
+ "edition": "2026-10-27",
  "stories": [
   {
    "id": "digital-omnibus/mandate/ST-14756-26",
@@ -31,7 +31,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 77,
+   "score": 75,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -73,7 +73,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 71,
+   "score": 69,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -136,7 +136,7 @@
     "en": "A step further: EN 302 454 to Voting prEN; EN 302 054 to Voting prEN; EN 302 686 to Voting prEN; 1 without an earlier status on record (EN 301 783).",
     "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN; EN 302 054 auf Umfrage prEN; EN 302 686 auf Umfrage prEN; 1 ohne früheren Stand in den Daten (EN 301 783)."
    },
-   "score": 54,
+   "score": 52,
    "tree": {
     "": {
      "ETSI": {
@@ -297,7 +297,7 @@
     "en": "A step further: prEN 18229-3 to Drafting EN; 1 without an earlier status on record (FprEN ISO/IEC 24970).",
     "de": "Einen Schritt weiter: prEN 18229-3 auf Entwurf EN; 1 ohne früheren Stand in den Daten (FprEN ISO/IEC 24970)."
    },
-   "score": 54,
+   "score": 52,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -398,7 +398,7 @@
     }
    ],
    "brief": null,
-   "score": 52,
+   "score": 50,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -442,7 +442,7 @@
     }
    ],
    "brief": null,
-   "score": 52,
+   "score": 50,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -484,7 +484,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -534,7 +534,7 @@
     "en": "On 8 Sep 2025, when the procedure reached its current step, the median of publication in the Official Journal was 13 Aug 2027; it held within 14 days only if the step came by 10 Aug 2026. The step is overdue: the median now stands at 7 Jun 2028. If the step came on 22 Oct 2026, the median would be 8 Nov 2027.",
     "de": "Am 8. Sept. 2025, als das Verfahren seinen jetzigen Schritt erreichte, lag der Median der Veröffentlichung im Amtsblatt beim 13. Aug. 2027; er hielt sich nur dann innerhalb von 14 Tagen, wenn der Schritt bis 10. Aug. 2026 kam. Der Schritt steht aus: der Median liegt jetzt beim 7. Juni 2028. Käme der Schritt am 22. Okt. 2026, läge der Median beim 8. Nov. 2027."
    },
-   "score": 47,
+   "score": 45,
    "ladder": {
     "place": {
      "en": [
@@ -590,7 +590,7 @@
     }
    ],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -641,7 +641,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 42,
+   "score": 40,
    "ladder": {
     "place": {
      "en": [
@@ -693,7 +693,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -746,7 +746,7 @@
     }
    ],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -835,7 +835,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -843,50 +843,6 @@
     ],
     "de": [
      "MDR/IVDR-Vereinfachung",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "ai-act/hys-19292-26258",
-   "kind": "consultation",
-   "desk": "Legislation",
-   "date": "2026-10-12",
-   "act": "ai-act",
-   "kicker": "Artificial Intelligence Act",
-   "kicker_de": "KI-VO",
-   "headline": "Artificial Intelligence Act: draft implementing regulation open for feedback",
-   "deck": "Articles 75c – 75d AI Act Implementing Act: a draft by the Commission services, not adopted; feedback until 9 Nov 2026.",
-   "headline_de": "KI-VO: Entwurf zur Konsultation",
-   "deck_de": "Articles 75c – 75d AI Act Implementing Act: Entwurf der Kommissionsdienststellen, nicht angenommen; Rückmeldungen bis 9. Nov. 2026.",
-   "facts": [
-    "Ares(2026)9589403",
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "Ares(2026)9589403",
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Act page",
-     "../acts/ai-act.html"
-    ],
-    [
-     "Have your say",
-     "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19292_en"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 37,
-   "crumbs": {
-    "en": [
-     "Artificial Intelligence Act",
-     "Legislation"
-    ],
-    "de": [
-     "KI-VO",
      "Gesetzgebung"
     ]
    }
@@ -923,7 +879,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -961,7 +917,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Analysis"
@@ -997,7 +953,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1037,7 +993,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1079,7 +1035,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1144,7 +1100,7 @@
     "en": "3 only changed status within their step (Voting prEN); 2 without an earlier status on record (EN 304 642, EN 304 634).",
     "de": "3 nur mit neuem Status im selben Schritt (Umfrage prEN); 2 ohne früheren Stand in den Daten (EN 304 642, EN 304 634)."
    },
-   "score": 35,
+   "score": 33,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1286,7 +1242,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1324,7 +1280,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 34,
+   "score": 32,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1366,7 +1322,7 @@
     }
    ],
    "brief": null,
-   "score": 33,
+   "score": 31,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1374,50 +1330,6 @@
     ],
     "de": [
      "Vergabe-Rechtsakt (PPA)",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "csa2/released/2026-10-12",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-10-12",
-   "act": "csa2",
-   "kicker": "Cybersecurity Act 2",
-   "kicker_de": "CSA2",
-   "headline": "Council releases 1 Cybersecurity Act 2 document",
-   "deck": "1 note. Listed as not public since 25 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 1 Dokument zu CSA2 frei",
-   "deck_de": "1 Vermerk. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/csa2.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 13637/26",
-     "date": "2026-09-07",
-     "title": "Interplay between CADA and CSA2 - Presentation",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-13637-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": null,
-   "score": 32,
-   "crumbs": {
-    "en": [
-     "Cybersecurity Act 2",
-     "Legislation"
-    ],
-    "de": [
-     "CSA2",
      "Gesetzgebung"
     ]
    }
@@ -1454,7 +1366,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 30,
+   "score": 28,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -1513,7 +1425,7 @@
     "en": "1 only changed status within their step (Drafting prEN); 3 without an earlier status on record (EN 304 118, EN 301 843-4, EN 301 843-3).",
     "de": "1 nur mit neuem Status im selben Schritt (Entwurf prEN); 3 ohne früheren Stand in den Daten (EN 304 118, EN 301 843-4, EN 301 843-3)."
    },
-   "score": 29,
+   "score": 27,
    "tree": {
     "": {
      "ETSI": {
@@ -1634,7 +1546,7 @@
     }
    ],
    "brief": null,
-   "score": 27,
+   "score": 25,
    "crumbs": {
     "en": [
      "Machinery Regulation",
@@ -1705,7 +1617,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 26,
+   "score": 24,
    "ladder": {
     "place": {
      "en": [
@@ -1759,7 +1671,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 26,
+   "score": 24,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -1803,7 +1715,7 @@
     }
    ],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1872,7 +1784,7 @@
     "en": "2 only changed status within their step (Voting prEN); 4 without an earlier status on record (EN 304 633, EN 304 632, EN 304 631 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Umfrage prEN); 4 ohne früheren Stand in den Daten (EN 304 633, EN 304 632, EN 304 631 …)."
    },
-   "score": 24,
+   "score": 22,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -2018,7 +1930,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2056,7 +1968,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "New Standardisation Regulation",
@@ -2090,7 +2002,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 20,
+   "score": 18,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -2143,103 +2055,6 @@
     }
    ],
    "brief": null,
-   "score": 19,
-   "crumbs": {
-    "en": [
-     "Industrial Accelerator Act",
-     "Legislation"
-    ],
-    "de": [
-     "IAA",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "cloud-ai-development-act/released/2026-10-12",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-10-12",
-   "act": "cloud-ai-development-act",
-   "kicker": "Cloud and AI Development Act",
-   "kicker_de": "CADA",
-   "headline": "Council releases 2 Cloud and AI Development Act documents",
-   "deck": "2 notes. Listed as not public since 25 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 2 Dokumente zu CADA frei",
-   "deck_de": "2 Vermerke. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/cloud-ai-development-act.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 8757/26",
-     "date": "2026-06-16",
-     "title": "Claud and AI Development Act (CADA): Presentation",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-8757-2026-INIT/en/pdf"
-    },
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 8754/26",
-     "date": "2026-06-16",
-     "title": "Cloud and AI Development Act (CADA) – Impact Assessment: Presentation",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-8754-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": null,
-   "score": 17,
-   "crumbs": {
-    "en": [
-     "Cloud and AI Development Act",
-     "Legislation"
-    ],
-    "de": [
-     "CADA",
-     "Gesetzgebung"
-    ]
-   }
-  },
-  {
-   "id": "industrial-accelerator-act/released/2026-10-12",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-10-12",
-   "act": "industrial-accelerator-act",
-   "kicker": "Industrial Accelerator Act",
-   "kicker_de": "IAA",
-   "headline": "Council releases 1 Industrial Accelerator Act document",
-   "deck": "1 compromise text. Listed as not public since 25 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 1 Dokument zu IAA frei",
-   "deck_de": "1 Kompromisstext. Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/industrial-accelerator-act.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "compromise text",
-     "type_de": "Kompromisstext",
-     "rank": 0,
-     "ref": "ST 12236/26",
-     "date": "2026-07-30",
-     "title": "Second Presidency compromise text",
-     "url": "https://data.consilium.europa.eu/doc/document/ST-12236-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": null,
    "score": 17,
    "crumbs": {
     "en": [
@@ -2274,7 +2089,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -2318,7 +2133,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2362,7 +2177,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2396,7 +2211,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -2430,7 +2245,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 10,
+   "score": 8,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2438,78 +2253,6 @@
     ],
     "de": [
      "ESPR",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "csa2/meeting/2026-10-12",
-   "kind": "meeting",
-   "desk": "Committees",
-   "date": "2026-10-12",
-   "act": "csa2",
-   "kicker": "Cybersecurity Act 2",
-   "kicker_de": "CSA2",
-   "headline": "Cybersecurity Act 2: Council working party meeting",
-   "deck": "Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26)",
-   "headline_de": "CSA2: Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/csa2.html"
-    ],
-    [
-     "Document",
-     "https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 7,
-   "crumbs": {
-    "en": [
-     "Cybersecurity Act 2",
-     "Committees"
-    ],
-    "de": [
-     "CSA2",
-     "Ausschüsse"
-    ]
-   }
-  },
-  {
-   "id": "nis2/committee/2026-10-12",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-10-12",
-   "act": "nis2",
-   "kicker": "NIS 2 Directive",
-   "kicker_de": "NIS-2",
-   "headline": "Agenda published: 40th meeting (2026-10-05)",
-   "deck": "NIS Cooperation Group.",
-   "headline_de": "NIS-2: Ausschussdokument veröffentlicht",
-   "deck_de": "NIS Cooperation Group (Titel im Original): Agenda published: 40th meeting (2026-10-05)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/nis2.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 7,
-   "crumbs": {
-    "en": [
-     "NIS 2 Directive",
-     "Committees"
-    ],
-    "de": [
-     "NIS-2",
      "Ausschüsse"
     ]
    }
@@ -2536,7 +2279,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -2568,7 +2311,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -2600,7 +2343,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -2645,7 +2388,7 @@
     }
    ],
    "brief": null,
-   "score": 3,
+   "score": 1,
    "tree": {
     "": {
      "ETSI": {
@@ -2725,7 +2468,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -7,
+   "score": -9,
    "crumbs": {
     "en": [
      "This site"
@@ -2737,12 +2480,6 @@
   }
  ],
  "ahead": [
-  {
-   "date": "2026-10-26",
-   "act": "Net Zero Industry Act",
-   "text": "Net-zero technologies committee: 5TH MEETING OF THE NET-ZERO TECHNOLOGIES COMMITTEE",
-   "url": "../procedures/committee-c129000.html"
-  },
   {
    "date": "2026-10-28",
    "act": "Artificial Intelligence Act",
