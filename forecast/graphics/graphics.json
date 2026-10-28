@@ -54,16 +54,16 @@
     "page": "medical-devices-simplification.html"
   },
   {
-    "name": "forecast-industrial-accelerator-act",
-    "title": "Forecast: Industrial Accelerator Act",
-    "note": "Step by step; Official Journal median May 2028.",
-    "page": "industrial-accelerator-act.html"
-  },
-  {
     "name": "forecast-csa2",
     "title": "Forecast: Cybersecurity Act 2",
     "note": "Step by step; Official Journal median May 2028.",
     "page": "csa2.html"
+  },
+  {
+    "name": "forecast-industrial-accelerator-act",
+    "title": "Forecast: Industrial Accelerator Act",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "industrial-accelerator-act.html"
   },
   {
     "name": "forecast-space-act",
@@ -72,16 +72,16 @@
     "page": "space-act.html"
   },
   {
+    "name": "forecast-standardisation-revision",
+    "title": "Forecast: New Standardisation Regulation",
+    "note": "Step by step; Official Journal median Sep 2028.",
+    "page": "standardisation-revision.html"
+  },
+  {
     "name": "forecast-cloud-ai-development-act",
     "title": "Forecast: Cloud and AI Development Act",
     "note": "Step by step; Official Journal median Sep 2028.",
     "page": "cloud-ai-development-act.html"
-  },
-  {
-    "name": "forecast-standardisation-revision",
-    "title": "Forecast: New Standardisation Regulation",
-    "note": "Step by step; Official Journal median Oct 2028.",
-    "page": "standardisation-revision.html"
   },
   {
     "name": "forecast-chips-act-2",

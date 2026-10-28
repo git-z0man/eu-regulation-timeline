@@ -139,7 +139,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | [ST 14532/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98785) | council-position | Mandate for negotiations with the European Parliament | not public\* | – | – |
 | 2026-10-22 | [ST 14756/26](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | [en](../texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
 
 ## Texts as Markdown
 

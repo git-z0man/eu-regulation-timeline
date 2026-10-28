@@ -9,7 +9,7 @@ retrieved: '2026-09-24'
 converter: tools/eurlex2md.py
 counts:
   recitals: 59
-  articles: 9
+  articles: 13
   annexes: 2
 official_source: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025PC1023
 reuse: '© European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6.'
@@ -552,7 +552,7 @@ Die Verordnung (EU) 2017/745 wird wie folgt geändert:
 
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Prüfverfahren erlassen.
 
-<a id="art-4"></a>
+<a id="ins-art-4"></a>
 ### Artikel 4
 
 Rechtlicher Status von Produkten
@@ -1173,7 +1173,7 @@ Koordinierung der Benannten Stellen
 
   - (4) Alle nach dieser Verordnung und nach der Verordnung (EU) 2017/746 Benannten Stellen befolgen einen von der Koordinierungsgruppe ausgearbeiteten und von der Koordinierungsgruppe Medizinprodukte genehmigten Verhaltenskodex. Im Verhaltenskodex sind die Grundsätze des öffentlichen Interesses, der höchsten fachlichen Kompetenz und Integrität, der Unparteilichkeit, der Unabhängigkeit, der Transparenz, der Verhältnismäßigkeit, der Vorhersehbarkeit und der Rechenschaftspflicht festgelegt, zu deren Einhaltung sich die Benannten Stellen verpflichten, wenn sie die ihnen durch diese Verordnung oder die Verordnung (EU) 2017/746 übertragenen Rechte und Pflichten ausüben.
 
-<a id="art-50"></a>
+<a id="ins-art-50"></a>
 ### Artikel 50
 
 Zugang zu Benannten Stellen und Gebühren
@@ -1234,7 +1234,7 @@ Klassifizierung im Falle einer Streitigkeit zwischen Hersteller und Benannter St
 
   - (6) Die Kommission kann mittels Durchführungsrechtsakten weitere Einzelheiten des Verfahrens für die Anwendung dieses Artikels und des Artikels 51b festlegen. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Prüfverfahren erlassen.
 
-<a id="art-51b"></a>
+<a id="ins-art-51b"></a>
 ### Artikel 51b
 
 Anfechtung der Klassifizierung CE-gekennzeichneter Produkte
@@ -1345,7 +1345,7 @@ Konformitätsbewertung von bahnbrechenden Medizinprodukten und Medizinprodukten 
 
   - (9) Die Kommission kann im Wege von Durchführungsrechtsakten weitere Einzelheiten des in diesem Artikel festgelegten Verfahrens für die Konformitätsbewertung bahnbrechender Produkte oder von Medizinprodukten für seltene Erkrankungen festlegen. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Prüfverfahren erlassen.
 
-<a id="art-52b"></a>
+<a id="ins-art-52b"></a>
 ### Artikel 52b
 
 Digitalisierung der technischen Dokumentation, der Konformitätsbewertung und der Berichte
@@ -1380,7 +1380,7 @@ Konsultationsverfahren zur klinischen Bewertung bestimmter Hochrisikoprodukte
 
   - (4) Die Benannte Stelle trägt der im Rahmen des Konsultationsverfahrens zur klinischen Bewertung von dem Expertengremium abgegebenen Stellungnahme weitestgehend Rechnung. Hat die Benannte Stelle die in dieser Stellungnahme zum Ausdruck gebrachten Auffassungen und Empfehlungen nicht befolgt, übermittelt sie der für Benannte Stellen zuständigen Behörde des Mitgliedstaats, in dem sie niedergelassen ist, dem Expertengremium, das die Stellungnahme abgegeben hat, und der Kommission eine hinreichende Begründung hierfür sowie ihren abschließenden Bericht über die Begutachtung der klinischen Bewertung.
 
-<a id="art-55"></a>
+<a id="ins-art-55"></a>
 ### Artikel 55
 
 Mechanismus zur Kontrolle von Konformitätsbewertungen
@@ -1483,7 +1483,7 @@ Abweichungen von bestimmten Anforderungen im Falle einer schwerwiegenden grenzü
 
       ****** Verordnung (EU) .../... des Europäischen Parlaments und des Rates vom ... über ... (ABl. ..., ELI). ABl.: Bitte in den Text die Nummer der in 2025/0223(COD) enthaltenen Verordnung (Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über das Katastrophenschutzverfahren der Union und die Unterstützung der Union für die Krisenvorsorge und -reaktion bei gesundheitlichen Notlagen sowie zur Aufhebung des Beschlusses Nr. 1313/2013/EU (Katastrophenschutzverfahren der Union)) einfügen und in der Fußnote die Nummer, das Datum, den Titel und die Fundstelle im Amtsblatt dieser Verordnung einsetzen.
 
-<a id="art-59b"></a>
+<a id="ins-art-59b"></a>
 ### Artikel 59b
 
 Reallabore auf nationaler Ebene
@@ -1894,7 +1894,7 @@ Aufgaben der Koordinierungsgruppe Medizinprodukte
 
     Zusätzlich zu den ihr in anderen Bestimmungen dieser Verordnung und der Verordnung (EU) 2017/746 übertragenen Aufgaben unterstützt die Koordinierungsgruppe Medizinprodukte insbesondere die Kommission bei der Bewertung aller Fragen im Zusammenhang mit der Durchführung dieser Verordnungen und trägt zur Ausarbeitung von Leitlinien bei, die auf eine wirksame und einheitliche Durchführung abzielen.
 
-<a id="art-106"></a>
+<a id="ins-art-106"></a>
 ### Artikel 106
 
 Expertengremien
@@ -2007,7 +2007,7 @@ Unterstützung durch die EMA
 
 ‘ABSCHNITT 2 – Internationale Zusammenarbeit
 
-<a id="art-108a"></a>
+<a id="ins-art-108a"></a>
 ### Artikel 108a
 
 Internationale regulatorische und administrative Zusammenarbeit
@@ -2112,7 +2112,8 @@ Bewertung
 
 - 98. Die Anhänge I, II, III, VI, VII, VIII, IX, X, XI, XII, XIII, XIV und XV werden gemäß Anhang I der vorliegenden Verordnung geändert.
 
-**Artikel 2**
+<a id="art-2"></a>
+### Artikel 2
 
 **Artikel 2**
 
@@ -3220,7 +3221,8 @@ Bewertung von Produkten, die mutmaßlich ein unannehmbares Risiko darstellen ode
 
 - 81. Die Anhänge I, II, III, VI, VII, IX, X, XI, XII, XIII und XIV der Verordnung (EU) 2017/746 werden entsprechend Anhang II der vorliegenden Verordnung geändert.
 
-**Artikel 3**
+<a id="art-3"></a>
+### Artikel 3
 
 Änderungen der Verordnung (EU) 2022/123
 
@@ -3252,7 +3254,8 @@ Artikel 30 der Verordnung (EU) 2022/123 wird wie folgt geändert:
 
     - „i) sie übermittelt der Kommission eine begründete Empfehlung für die Gebühren, die von Herstellern oder Benannten Stellen für die von Expertengremien abgegebenen Stellungnahmen oder erbrachten Beratungsleistungen gemäß Artikel 106 Absätze 9 und 10 der Verordnung (EU) 2017/745 zu entrichten sind.“
 
-**Artikel 4**
+<a id="art-4"></a>
+### Artikel 4
 
 Änderungen der Verordnung (EU) 2024/1689
 
@@ -3266,7 +3269,8 @@ Anhang I der Verordnung (EU) 2024/1689 wird wie folgt geändert:
 
     22. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176).“
 
-**Artikel 5**
+<a id="art-5"></a>
+### Artikel 5
 
 Inkrafttreten und Anwendung
 

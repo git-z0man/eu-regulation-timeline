@@ -138,7 +138,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency Flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
 | 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Second Presidency Options Paper on Union Origin requirements | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
 
 ## Texts as Markdown
 

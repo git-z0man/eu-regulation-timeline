@@ -1,6 +1,6 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 26 Oct 2026.
+Procedure 2025/0404(COD), as of 27 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 - **Stage:** EP committee stage
 - **Parliament:** draft report 30 Jun 2026
 - **Council:** working party, latest document 20 Oct 2026
-- **Latest activity:** 20 Oct 2026 · Council: Presidency Flash for the Working Party on Pharmaceuticals and Medical Devices on 26 and … (WK 16194/26)
+- **Latest activity:** 27 Oct 2026 · Council: Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by … (CM 4464/26 REV 2)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -33,6 +33,7 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 | 2026-07-28 | Council | Working Party on Pharmaceuticals and Medical Devices: Exchange of views = Clusters 3 and 4, Block 3 – … | [CM 3725/26](https://data.consilium.europa.eu/doc/document/CM-3725-2026-INIT/en/pdf) | Council register, CM 3725/26 (notice of meeting and provisional agenda) |
 | 2026-09-11 | Council | Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the first Presidency compromise … | [CM 3836/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3836-2026-REV-1/en/pdf) | Council register, CM 3836/26 REV 1 (notice of meeting and provisional agenda) |
 | 2026-09-25 | Council | Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise … | [CM 4059/26](https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf) | Council register, CM 4059/26 (notice of meeting and provisional agenda) |
+| 2026-10-27 | Council | Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by … | [CM 4464/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-2/en/pdf) | Council register, CM 4464/26 REV 2 (notice of meeting and provisional agenda) |
 
 ## Documents
 
@@ -111,9 +112,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-17 | [WK 14267/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92154) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-10-09 | [ST 12919/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96980) | council-note | Regulation to simplify rules on medical and in vitro diagnostic medical devices - Guidance for future work | not public\* | – | – |
 | 2026-10-16 | [ST 13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) | council-note | Exchange of views | not public\* | – | – |
-| 2026-10-20 | [WK 16194/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99013) | council-note | Presidency Flash for the Working Party on Pharmaceuticals and Medical Devices on 26 and 27 October 2026 | not public\* | – | – |
+| 2026-10-16 | ST 13649/26 ADD 1 | council-note | Exchange of views | not public\* | – | – |
+| 2026-10-20 | [WK 16194/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99013) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
 
 ## Texts as Markdown
 

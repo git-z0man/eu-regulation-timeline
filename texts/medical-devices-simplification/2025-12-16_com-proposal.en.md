@@ -9,7 +9,7 @@ retrieved: '2026-09-24'
 converter: tools/eurlex2md.py
 counts:
   recitals: 59
-  articles: 9
+  articles: 13
   annexes: 2
 official_source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC1023
 reuse: '© European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6.'
@@ -552,7 +552,7 @@ Amendment and implementation of certain definitions
 
       Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3).
 
-<a id="art-4"></a>
+<a id="ins-art-4"></a>
 ### Article 4
 
 Regulatory status of products
@@ -1173,7 +1173,7 @@ Coordination of notified bodies
 
   - 4. All bodies notified under this Regulation and under Regulation (EU) 2017/746 shall adhere to a code of conduct developed by the coordination group and approved by the MDCG. The code of conduct shall set out the principles of public interest, highest professional competence and integrity, impartiality, independence, transparency, proportionality, predictability and accountability to which notified bodies commit when exercising the rights and obligations conferred on them by this Regulation or Regulation (EU) 2017/746.
 
-<a id="art-50"></a>
+<a id="ins-art-50"></a>
 ### Article 50
 
 Access to notified bodies and fees
@@ -1234,7 +1234,7 @@ Classification in the event of a dispute between manufacturer and notified body
 
   - 6. The Commission may, by means of implementing acts, lay down further details of the procedure for the application of this Article and of Article 51b. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3).
 
-<a id="art-51b"></a>
+<a id="ins-art-51b"></a>
 ### Article 51b
 
 Challenges to the classification of CE marked devices
@@ -1345,7 +1345,7 @@ Conformity assessment of breakthrough devices and of orphan devices
 
   - 9. The Commission may, by means of implementing acts, lay down further details of the procedure for the conformity assessment of breakthrough devices or orphan devices set out in this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3).
 
-<a id="art-52b"></a>
+<a id="ins-art-52b"></a>
 ### Article 52b
 
 Digitalisation of technical documentation, conformity assessment and reports
@@ -1380,7 +1380,7 @@ Clinical evaluation consultation procedure for certain high-risk devices
 
   - 4. The notified body shall give utmost consideration to the opinion issued by the expert panel in the framework of the clinical evaluation consultation procedure. Where the notified body has not followed the views and recommendations expressed in that opinion, it shall provide a substantiated justification of the reasons therefore and its final clinical evaluation assessment report to the authority responsible for notified bodies of the Member State in which it is established, to the expert panel that issued the opinion and to the Commission.
 
-<a id="art-55"></a>
+<a id="ins-art-55"></a>
 ### Article 55
 
 Mechanism for scrutiny of conformity assessments
@@ -1483,7 +1483,7 @@ Derogations from certain requirements in the event of a serious cross-border thr
 
       ****** Regulation (EU) .../... of the European Parliament and of the Council of ... on ... (OJ ..., ELI ).
 
-<a id="art-59b"></a>
+<a id="ins-art-59b"></a>
 ### Article 59b
 
 Regulatory sandboxes at national level
@@ -1894,7 +1894,7 @@ Tasks of the MDCG
 
     In addition to the tasks assigned to it in other provisions of this Regulation and Regulation (EU) 2017/746, the MDCG shall in particular assist the Commission in the assessment of any issue related to the implementation of those Regulations and contribute to the development of guidance aimed at ensuring their effective and harmonised implementation.
 
-<a id="art-106"></a>
+<a id="ins-art-106"></a>
 ### Article 106
 
 Expert panels
@@ -2007,7 +2007,7 @@ Support by the EMA
 
 ‘SECTION 2 – International cooperation
 
-<a id="art-108a"></a>
+<a id="ins-art-108a"></a>
 ### Article 108a
 
 International regulatory and administrative cooperation
@@ -2112,7 +2112,8 @@ Evaluation
 
 - (98) Annexes I, II, III, VI, VII, VIII, IX, X, XI, XII, XIII, XIV and XV are amended in accordance with Annex I to this Regulation.
 
-**Article 2**
+<a id="art-2"></a>
+### Article 2
 
 Amendments to Regulation (EU) 2017/746
 
@@ -3218,7 +3219,8 @@ Submission of information or documents
 
 - (81) Annexes I, II, III, VI, VII, IX, X, XI, XII, XIII, and XIV to Regulation (EU) 2017/746 are amended in accordance with Annex II to this Regulation.
 
-**Article 3**
+<a id="art-3"></a>
+### Article 3
 
 Amendments to Regulation (EU) 2022/123
 
@@ -3250,7 +3252,8 @@ Article 30 of Regulation (EU) 2022/123 is amended as follows:
 
     - ‘(i) submit to the Commission a substantiated recommendation for the fees to be paid by manufacturers or notified bodies for the opinions or advice provided by expert panels, as referred to in Article 106(9) and (10) of Regulation (EU) 2017/745.’.
 
-**Article 4**
+<a id="art-4"></a>
+### Article 4
 
 Amendments to Regulation (EU) 2024/1689
 
@@ -3264,7 +3267,8 @@ Annex I to Regulation (EU) 2024/1689 is amended as follows:
 
     22. Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176).’.
 
-**Article 5**
+<a id="art-5"></a>
+### Article 5
 
 Entry into force and application
 

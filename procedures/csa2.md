@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 26 Oct 2026.
+Procedure 2026/0011(COD), as of 27 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -105,9 +105,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-08 | [WK 13671/26](https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf) | council-compromise | Presidency second compromise text Title II (ENISA) | public | 2026-10-22 | [en](../texts/csa2/2026-09-08_council-compromise-wk-13671-26.en.md) |
 | 2026-09-08 | [WK 13734/26](https://data.consilium.europa.eu/doc/document/WK-13734-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions | public | 2026-10-22 | – |
 | 2026-09-10 | [WK 13885/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90897) | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Member States' answers | not public\* | – | – |
-| 2026-09-11 | [WK 13873/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90986) | council-note | Cyber posture - Presentation by Spain | not public\* | – | – |
-| 2026-09-11 | [WK 13875/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90992) | council-note | Cyber posture - Presentation by France | not public\* | – | – |
-| 2026-09-11 | [WK 13876/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90988) | council-note | Cyber posture - Presentation by Belgium | not public\* | – | – |
+| 2026-09-11 | [WK 13873/26](https://data.consilium.europa.eu/doc/document/WK-13873-2026-INIT/en/pdf) | council-note | Cyber posture - Presentation by Spain | public | 2026-10-26 | – |
+| 2026-09-11 | [WK 13875/26](https://data.consilium.europa.eu/doc/document/WK-13875-2026-INIT/en/pdf) | council-note | Cyber posture - Presentation by France | public | 2026-10-26 | – |
+| 2026-09-11 | [WK 13876/26](https://data.consilium.europa.eu/doc/document/WK-13876-2026-INIT/en/pdf) | council-note | Cyber posture - Presentation by Belgium | public | 2026-10-26 | – |
 | 2026-09-11 | [WK 13879/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90989) | council-note | Cyber posture - Presentation by the Commission | not public\* | – | – |
 | 2026-09-14 | WK 13973/26 | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Non-Paper by EE, FI, NL, PL and SE | not public\* | – | – |
 | 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the …<br>*Our summary:* Draft report of 18 September 2026 by the rapporteur of the Industry, Research and Energy committee on the Cybersecurity Act 2 proposal, with 164 amendments; the rapporteur's draft, not the position of the committee or of Parliament, and not law. It would make European cybersecurity certification mandatory unless Union law provides otherwise, oblige certain entities to certify or to buy certified products once capacity is confirmed, and give certificates at levels substantial and high a presumption of conformity with NIS-2, the Cyber Resilience Act and DORA; it also adds a single entry point for incident reporting run by ENISA. On high-risk suppliers it replaces the designation of third countries by an assessment of each supplier against an evaluation matrix, lists adopted by delegated act and stronger procedural guarantees; it adds grid-connected energy equipment and internet routers to the key ICT assets, names new priority categories such as port cranes, IoT modules and surveillance equipment for which the Commission is to start identifying key ICT assets within 12 months, and shortens the phase-out for mobile networks to 24 months. | public | – | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) |
@@ -133,7 +133,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 16206/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98885) | council-note | Title II (Fees), Articles 47/Presentation by the Commission | not public\* | – | – |
 | 2026-10-23 | [WK 16145/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621) | council-note | Proposal for a Regulation of European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
 
 ## Texts as Markdown
 
