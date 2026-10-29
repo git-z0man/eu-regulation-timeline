@@ -96,10 +96,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Horizontal Working Party on Cyber Issues
 
-24 meetings on the acts we follow.
+25 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-10-26 | [Cybersecurity Act 2](csa2.md) | Title II (ENISA) – Discussion ([WK 15959/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98509)) | [CM 4703/26](https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf) |
 | 2026-10-19 | [Cybersecurity Act 2](csa2.md) | Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be issued) | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) |
 | 2026-10-12 | [Cybersecurity Act 2](csa2.md) | Title III (Certification), Articles 71-97 – Discussion ([WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127)) | [CM 4436/26](https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf) |
 | 2026-09-28 | [Cybersecurity Act 2](csa2.md) | Title IV (ICT Supply Chain) – Discussion ([WK 14487/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92913) + [ADD1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92999)) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) |
@@ -186,10 +187,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Working Party on Pharmaceuticals and Medical Devices
 
-12 meetings on the acts we follow.
+13 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Simplification of the medical devices rules](medical-devices-simplification.md) | = Exchange of views on the third compromise proposed by the Presidency ([13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) + ADD 1) | [CM 4464/26 REV 3](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-3/en/pdf) |
 | 2026-10-27 | [Simplification of the medical devices rules](medical-devices-simplification.md) | = Exchange of views on the third compromise proposed by the Presidency ([13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) + ADD 1) | [CM 4464/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-2/en/pdf) |
 | 2026-09-25 | [Simplification of the medical devices rules](medical-devices-simplification.md) | Exchange of views on the second Presidency compromise text – part 1 (special pathways, derogations, regulatory sandboxes & clinical)  Exchange of views on the second Presidency compromise text – part 2 (document to be distributed) = – = ([12287/26](https://data.consilium.europa.eu/doc/document/ST-12287-2026-INIT/en/pdf), [12698/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91975)) | [CM 4059/26](https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf) |
 | 2026-09-11 | [Simplification of the medical devices rules](medical-devices-simplification.md) | Exchange of views on the first Presidency compromise text = Qualification, classification and market surveillance =  = Cluster 6 – Interplay with AI Act, dedicated IVD-specific discussion and transitional provisions for orphan devices =  = – Exchange of views on the second Presidency compromise text = Part 1 – Clusters 1, 3 and 4 =  CM 3836/1/26 REV 1 1 EN ([12272/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89106), [12273/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89185), [WK 13494/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90189), [12287/26](https://data.consilium.europa.eu/doc/document/ST-12287-2026-INIT/en/pdf)) | [CM 3836/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3836-2026-REV-1/en/pdf) |

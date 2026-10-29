@@ -1,14 +1,14 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 27 Oct 2026.
+Procedure 2026/0011(COD), as of 28 Oct 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
-- **Council:** working party, latest document 23 Oct 2026
-- **Latest activity:** 23 Oct 2026 · Council: Proposal for a Regulation of European Parliament and of the Council on the European Union … (WK 16145/26)
+- **Council:** working party, latest document 27 Oct 2026
+- **Latest activity:** 27 Oct 2026 · Council: Title II (ENISA) (WK 16667/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -46,6 +46,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-09-28 | Council | Horizontal Working Party on Cyber Issues: Title IV (ICT Supply Chain) – Discussion (WK 14487/26 + ADD1) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) | Council register, CM 4269/26 (notice of meeting and provisional agenda) |
 | 2026-10-12 | Council | Horizontal Working Party on Cyber Issues: Title III (Certification), Articles 71-97 – Discussion (WK 15266/26) | [CM 4436/26](https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf) | Council register, CM 4436/26 (notice of meeting and provisional agenda) |
 | 2026-10-19 | Council | Horizontal Working Party on Cyber Issues: Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be … | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) | Council register, CM 4579/26 REV 1 (notice of meeting and provisional agenda) |
+| 2026-10-26 | Council | Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26) | [CM 4703/26](https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf) | Council register, CM 4703/26 (notice of meeting and provisional agenda) |
 
 ## Notes
 
@@ -98,7 +99,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-24 | [WK 10993/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/85591) | council-note | Proposal by the French authorities to strengthen Title IV of the Cybersecurity Act 2 (CSA2) and build a Union Cybersecurity trusted framework | not public\* | – | – |
 | 2026-07-28 | [WK 11019/26](https://data.consilium.europa.eu/doc/document/WK-11019-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States on Articles 3 - 70 | public | 2026-10-02 | – |
 | 2026-07-29 | [WK 11064/26](https://data.consilium.europa.eu/doc/document/WK-11064-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States on Articles 71-97 (certification) | public | 2026-10-02 | – |
-| 2026-08-07 | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | council-compromise | Presidency second compromise text Title III<br>*Our summary:* Presidency second compromise text of 7 August 2026 on Title III of the CSA2 proposal (European cybersecurity certification framework, Articles 71-97), following WK 7571/26; a draft, not law. It changes 42 provisions, mainly on how certification schemes are requested and prepared: feasibility studies by ENISA move from the recitals into Article 72, the ECCG can ask the Commission to request a candidate scheme (Article 73), ENISA has 12 months to prepare one unless the request sets another timeframe (Article 74), and the appeal against decisions of notified conformity assessment bodies becomes a separate Article 94a. Title IV (ICT supply chain security, high-risk suppliers) is reproduced unchanged from the Commission proposal, so the higher number of mentions of high-risk suppliers reflects a wider text, not a change. | public | 2026-10-02 | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
+| 2026-08-07 | [WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) | council-compromise | Presidency second compromise text Title III | public | 2026-10-02 | [en](../texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) |
 | 2026-08-07 | [WK 11265/26](https://data.consilium.europa.eu/doc/document/WK-11265-2026-INIT/en/pdf) | council-note | Template for the submission of drafting suggestions on the Presidency second compromise text on Title III (European Cybersecurity Certification Framework, … | public | 2026-10-02 | – |
 | 2026-09-04 | [WK 13545/26](https://data.consilium.europa.eu/doc/document/WK-13545-2026-INIT/en/pdf) | council-note | Cybersecurity Act 2: explanatory note on Title III (European Cybersecurity Certification Framework) | public | 2026-10-19 | – |
 | 2026-09-07 | [WK 13637/26](https://data.consilium.europa.eu/doc/document/WK-13637-2026-INIT/en/pdf) | council-note | Interplay between CADA and CSA2 - Presentation | public | 2026-10-12 | – |
@@ -109,7 +110,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-11 | [WK 13875/26](https://data.consilium.europa.eu/doc/document/WK-13875-2026-INIT/en/pdf) | council-note | Cyber posture - Presentation by France | public | 2026-10-26 | – |
 | 2026-09-11 | [WK 13876/26](https://data.consilium.europa.eu/doc/document/WK-13876-2026-INIT/en/pdf) | council-note | Cyber posture - Presentation by Belgium | public | 2026-10-26 | – |
 | 2026-09-11 | [WK 13879/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90989) | council-note | Cyber posture - Presentation by the Commission | not public\* | – | – |
-| 2026-09-14 | WK 13973/26 | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Non-Paper by EE, FI, NL, PL and SE | not public\* | – | – |
+| 2026-09-14 | [WK 13973/26](https://data.consilium.europa.eu/doc/document/WK-13973-2026-INIT/en/pdf) | council-note | Title IV: Security of ICT Supply Chains: Guiding questions - Non-Paper by EE, FI, NL, PL and SE | public | 2026-10-27 | – |
 | 2026-09-18 | [PE792.222](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the …<br>*Our summary:* Draft report of 18 September 2026 by the rapporteur of the Industry, Research and Energy committee on the Cybersecurity Act 2 proposal, with 164 amendments; the rapporteur's draft, not the position of the committee or of Parliament, and not law. It would make European cybersecurity certification mandatory unless Union law provides otherwise, oblige certain entities to certify or to buy certified products once capacity is confirmed, and give certificates at levels substantial and high a presumption of conformity with NIS-2, the Cyber Resilience Act and DORA; it also adds a single entry point for incident reporting run by ENISA. On high-risk suppliers it replaces the designation of third countries by an assessment of each supplier against an evaluation matrix, lists adopted by delegated act and stronger procedural guarantees; it adds grid-connected energy equipment and internet routers to the key ICT assets, names new priority categories such as port cranes, IoT modules and surveillance equipment for which the Commission is to start identifying key ICT assets within 12 months, and shortens the phase-out for mobile networks to 24 months. | public | – | [en](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.en.md) [de](../texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) |
 | 2026-09-21 | [WK 14487/26 ADD 1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92999) | council-compromise | Presidency first compromise text on Title IV (Security of ICT Supply Chains) | not public\* | – | – |
 | 2026-09-21 | [WK 14493/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92807) | council-note | Presidency presentation of Title II amendments | not public\* | – | – |
@@ -129,11 +130,13 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | PE796.501 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-16 | [WK 15415/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98233) | council-note | Comments from Member States | not public\* | – | – |
 | 2026-10-16 | [WK 15959/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98509) | council-compromise | Presidency third compromise text on Title II of the draft proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the European … | not public\* | – | – |
-| 2026-10-20 | [WK 16180/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98905) | council-note | Consolidated comments from Austria and other Member States on Presidency third compromise text on the recitals and Title III (Certification) | not public\* | – | – |
+| 2026-10-20 | [WK 16180/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98905) | council-note | Member States' consolidated comments on Presidency third compromise text on the recitals and Title III (Certification) | not public\* | – | – |
 | 2026-10-20 | [WK 16206/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98885) | council-note | Title II (Fees), Articles 47/Presentation by the Commission | not public\* | – | – |
-| 2026-10-23 | [WK 16145/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621) | council-note | Proposal for a Regulation of European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity … | not public\* | – | – |
+| 2026-10-23 | [ST 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99652) | council-note | European Court of Auditors’ Special Report No 19/2026: Detecting and responding to cybersecurity incidents - EU cooperation framework progressing, but only … | not public\* | – | – |
+| 2026-10-23 | [WK 16145/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621) | council-compromise | Presidency second compromise text on Title IV (Security of ICT Supply Chains) | not public\* | – | – |
+| 2026-10-27 | [WK 16667/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100144) | council-note | Title II (ENISA) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-28.
 
 ## Texts as Markdown
 

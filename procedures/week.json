@@ -1,16 +1,10 @@
 {
- "as_of": "2026-10-28",
+ "as_of": "2026-10-29",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
-    {
-     "date": "2026-10-28",
-     "act": "Artificial Intelligence Act",
-     "text": "Funding call deadline: DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI …",
-     "url": "acts/ai-act.html#funding"
-    },
     {
      "date": "2026-10-30",
      "act": "Cyber Resilience Act",
@@ -38,16 +32,16 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
-     "date": "2026-10-26",
+     "date": "2026-10-27",
      "act": "Cybersecurity Act 2",
-     "text": "Council released 5 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
+     "text": "Council released 6 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-21",
-     "act": "Cyber Resilience Act",
-     "text": "5 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
-     "url": "acts/cra.html#standardisation"
+     "date": "2026-10-23",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency second compromise text on Title IV (Security of ICT Supply Chains) (not public)",
+     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-10-23",
@@ -56,10 +50,10 @@
      "url": "acts/ai-act.html#standardisation"
     },
     {
-     "date": "2026-10-22",
-     "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/digital-omnibus.html"
+     "date": "2026-10-26",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26)",
+     "url": "procedures/csa2.html"
     }
    ]
   },
@@ -67,12 +61,6 @@
    "key": "cybersecurity",
    "label": "Cybersecurity",
    "ahead": [
-    {
-     "date": "2026-10-28",
-     "act": "Artificial Intelligence Act",
-     "text": "Funding call deadline: DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI …",
-     "url": "acts/ai-act.html#funding"
-    },
     {
      "date": "2026-10-30",
      "act": "Cyber Resilience Act",
@@ -94,16 +82,16 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
-     "date": "2026-10-26",
+     "date": "2026-10-27",
      "act": "Cybersecurity Act 2",
-     "text": "Council released 5 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
+     "text": "Council released 6 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-21",
-     "act": "Cyber Resilience Act",
-     "text": "5 standardisation projects moved on, e.g. EN 304 634: Approval Stage – Comments categorisation assessed",
-     "url": "acts/cra.html#standardisation"
+     "date": "2026-10-23",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency second compromise text on Title IV (Security of ICT Supply Chains) (not public)",
+     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-10-23",
@@ -112,10 +100,10 @@
      "url": "acts/ai-act.html#standardisation"
     },
     {
-     "date": "2026-10-22",
-     "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/digital-omnibus.html"
+     "date": "2026-10-26",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26)",
+     "url": "procedures/csa2.html"
     }
    ]
   }

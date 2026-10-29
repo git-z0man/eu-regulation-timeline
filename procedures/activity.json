@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "date": "2026-10-28",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Stable draft",
+   "doc": "EN 301 843-7",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66908",
+   "key": "eso-REN/ERM-EMC-418-2026-10-28",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-28",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "European Artificial Intelligence Board",
+   "label": "Working document published: Eighth meeting of the European Artificial Intelligence Board (2026-06-11)",
+   "doc": "working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138612/download",
+   "key": "X03966-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138612/download",
+   "page": "ai-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-28",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "European Artificial Intelligence Board",
+   "label": "Other document published: Ninth meeting of the European Artificial Intelligence Board (2026-09-17)",
+   "doc": "other document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download",
+   "key": "X03966-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download",
+   "page": "ai-act",
+   "type": "Committees"
+  },
+  {
    "date": "2026-10-27",
    "act": "medical-devices-simplification",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
@@ -11,6 +47,78 @@
    "key": "CM 4464/26 REV 2",
    "page": "medical-devices-simplification",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by …",
+   "doc": "CM 4464/26 REV 3",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-3/en/pdf",
+   "key": "CM 4464/26 REV 3",
+   "page": "medical-devices-simplification",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-06-26 (Comments from Austria and other Member States on cluster 6); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 9147/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-9147-2026-INIT/en/pdf",
+   "key": "WK 9147/26-updated-2026-10-28-en",
+   "page": "medical-devices-simplification",
+   "type": "Updated",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-06-19 (Comments from Austria and other Member States on cluster 5); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 8980/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-8980-2026-INIT/en/pdf",
+   "key": "WK 8980/26-updated-2026-10-28-en",
+   "page": "medical-devices-simplification",
+   "type": "Updated",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-06-10 (Comments from Member States on cluster 4); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 8221/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-8221-2026-INIT/en/pdf",
+   "key": "WK 8221/26-updated-2026-10-28-en",
+   "page": "medical-devices-simplification",
+   "type": "Updated",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-05-22 (Comments from delegations on cluster 3); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 7258/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-7258-2026-INIT/en/pdf",
+   "key": "WK 7258/26-updated-2026-10-28-en",
+   "page": "medical-devices-simplification",
+   "type": "Updated",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-05-06 (Comments from Austria and other Member States on Cluster 2); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 6461/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-6461-2026-INIT/en/pdf",
+   "key": "WK 6461/26-updated-2026-10-28-en",
+   "page": "medical-devices-simplification",
+   "type": "Updated",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
   },
   {
    "date": "2026-10-27",
@@ -49,6 +157,34 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-10-27",
+   "act": "emc",
+   "title": "EMC Directive",
+   "actor": "ERM WGEMC",
+   "label": "EN 300 386 – ElectroMagnetic Compatibility (EMC) requirements: Drafting Stage – Work Item proposal endorsed by TG",
+   "doc": "EN 300 386",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79462",
+   "key": "eso-REN/ERM-EMC-430-2026-10-27",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-27",
+   "act": "csa2",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-14 (Title IV: Security of ICT Supply Chains: Guiding questions - Non-Paper by EE, FI, NL, PL …), listed as not public since 2026-09-25",
+   "doc": "WK 13973/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13973-2026-INIT/en/pdf",
+   "key": "WK 13973/26-released",
+   "page": "csa2",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-14",
+   "doc_title": "Title IV: Security of ICT Supply Chains: Guiding questions - Non-Paper by EE, FI, NL, PL …",
+   "withheld_since": "2026-09-25",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
    "date": "2026-10-26",
    "act": "red",
    "title": "RED",
@@ -57,18 +193,6 @@
    "doc": "EN 304 118",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73697",
    "key": "eso-DEN/ERM-WG30-325-2026-10-26",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-26",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
-   "doc": "EN 301 843-7",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66908",
-   "key": "eso-REN/ERM-EMC-418-2026-10-26",
    "page": null,
    "type": "Standardisation"
   },
@@ -165,6 +289,18 @@
    "doc_title": "Cyber posture - Presentation by Belgium",
    "withheld_since": "2026-09-25",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
+   "date": "2026-10-26",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26)",
+   "doc": "CM 4703/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf",
+   "key": "CM 4703/26",
+   "page": "csa2",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-23",
@@ -273,6 +409,19 @@
    "key": "C131500-S118652/1",
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-10-23",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Presidency second compromise text on Title IV (Security of ICT Supply Chains) (not public)",
+   "doc": "WK 16145/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621",
+   "key": "WK 16145/26",
+   "page": "csa2",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-10-23",
@@ -677,10 +826,10 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Third Presidency compromise text on the draft proposal for a Regulation establishing a … (not public)",
-   "doc": "WK 16104/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525",
-   "key": "WK 16104/26",
+   "label": "Third Presidency compromise text (not public)",
+   "doc": "ST 14387/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527",
+   "key": "ST 14387/26",
    "page": "industrial-accelerator-act",
    "type": "Legislation",
    "listed": "council-compromise"
@@ -690,10 +839,10 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Third Presidency compromise text (not public)",
-   "doc": "ST 14387/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527",
-   "key": "ST 14387/26",
+   "label": "Third Presidency compromise text (clean version) (not public)",
+   "doc": "WK 16104/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525",
+   "key": "WK 16104/26",
    "page": "industrial-accelerator-act",
    "type": "Legislation",
    "listed": "council-compromise"
@@ -2170,13 +2319,17 @@
    "title": "AI Act",
    "actor": "European Artificial Intelligence Board",
    "label": "Ninth meeting of the European Artificial Intelligence Board",
-   "doc": "agenda",
+   "doc": "agenda, other document",
    "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3966",
    "key": "X03966-76121",
    "links": [
     [
      "agenda",
      "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138092/download"
+    ],
+    [
+     "other document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download"
     ]
    ],
    "page": "ai-act",
@@ -2271,7 +2424,7 @@
    "key": "WK 13973/26",
    "page": "csa2",
    "type": "Legislation",
-   "listed": "council-note"
+   "listed": "document"
   },
   {
    "date": "2026-09-14",
@@ -3975,7 +4128,7 @@
    "title": "AI Act",
    "actor": "European Artificial Intelligence Board",
    "label": "Eighth meeting of the European Artificial Intelligence Board",
-   "doc": "agenda, minutes",
+   "doc": "agenda, minutes, working document",
    "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3966",
    "key": "X03966-67905",
    "links": [
@@ -3986,6 +4139,10 @@
     [
      "minutes",
      "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138112/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138612/download"
     ]
    ],
    "page": "ai-act",
@@ -7558,52 +7715,6 @@
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/110776/1/consult",
    "key": "C131500-S110776/1",
    "page": "ehds",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-10-28",
-   "act": "csa",
-   "title": "CSA",
-   "actor": "European Cybersecurity Certification Committee",
-   "label": "11th Meeting of the European Cybersecurity Certification Committee",
-   "doc": "agenda, draft implementing act, draft implementing act v2, draft implementing act, draft implementing act v2, voting sheet, voting sheet, summary record",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1923/consult",
-   "key": "C106400-CMTD(2025)1923",
-   "links": [
-    [
-     "agenda",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110572/1/consult"
-    ],
-    [
-     "draft implementing act",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110573/1/consult"
-    ],
-    [
-     "draft implementing act v2",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110573/2/consult"
-    ],
-    [
-     "draft implementing act",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110577/1/consult"
-    ],
-    [
-     "draft implementing act v2",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110577/2/consult"
-    ],
-    [
-     "voting sheet",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/111366/1/consult"
-    ],
-    [
-     "voting sheet",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/111367/1/consult"
-    ],
-    [
-     "summary record",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110916/1/consult"
-    ]
-   ],
-   "page": "csa",
    "type": "Committees"
   }
  ]

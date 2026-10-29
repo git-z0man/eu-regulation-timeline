@@ -35,7 +35,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | [WK 16125/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98651) | council-note | The New Standardisation Regulation : Presentation of the Impact Assessment - Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 | 2026-10-19 | WK 16128/26 | council-note | Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-28.
 
 ## Texts as Markdown
 

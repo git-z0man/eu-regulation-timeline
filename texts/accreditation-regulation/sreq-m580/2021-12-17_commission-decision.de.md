@@ -248,7 +248,7 @@ Nr. Referenzangaben Frist für die Annahme
 
 27. E N ISO/IEC 17030 31. Dezember 2030 Konformitätsbewertung — Allgemeine Anforderungen an Konformitätszeichen einer dritten Seite
 
-28. E N ISO 17034 31. Dezember 2030 Allgemeine Anforderungen an die Kompetenz von Referenzmaterialherstellern
+28. 31. Dezember 2030 EN ISO 17034 Allgemeine Anforderungen an die Kompetenz von Referenzmaterialherstellern
 
 29. E N ISO/IEC 17040 31. Dezember 2030 Konformitätsbewertung — Allgemeine Anforderungen an die Begutachtung unter gleichrangigen Konformitätsbewertungsstellen und Akkreditierungsstellen
 

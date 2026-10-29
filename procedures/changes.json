@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "date": "2026-10-28",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Stable draft",
+   "doc": "EN 301 843-7",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "AI Act",
+   "actor": "European Artificial Intelligence Board",
+   "label": "Working document published: Eighth meeting of the European Artificial Intelligence Board (2026-06-11)",
+   "doc": "working document",
+   "page": "ai-act.html"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "AI Act",
+   "actor": "European Artificial Intelligence Board",
+   "label": "Other document published: Ninth meeting of the European Artificial Intelligence Board (2026-09-17)",
+   "doc": "other document",
+   "page": "ai-act.html"
+  },
+  {
    "date": "2026-10-27",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
@@ -10,59 +34,35 @@
   },
   {
    "date": "2026-10-27",
-   "title": "RED",
-   "actor": "SES SCN",
-   "label": "EN 304 122 – NR-NTN (New Radio Non Terrestrial Networks) capable User Equipment operating in Frequency : Drafting Stage – Stable draft",
-   "doc": "EN 304 122",
-   "page": "committees.html#red"
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by …",
+   "doc": "CM 4464/26 REV 3",
+   "page": "medical-devices-simplification.html"
   },
   {
    "date": "2026-10-27",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 303 489 – Wide Area Multilateration (WAM) systems operating at 1 030 MHz and 1 090 MHz; Harmonised S: Drafting Stage – Start of work",
-   "doc": "EN 303 489",
-   "page": "committees.html#red"
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-06-26 (Comments from Austria and other Member States on cluster 6); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 9147/26",
+   "page": "medical-devices-simplification.html"
   },
   {
    "date": "2026-10-27",
-   "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 301 843-4 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Stable draft",
-   "doc": "EN 301 843-4",
-   "page": "committees.html#red"
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-06-19 (Comments from Austria and other Member States on cluster 5); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 8980/26",
+   "page": "medical-devices-simplification.html"
   },
   {
-   "date": "2026-10-26",
-   "title": "RED",
-   "actor": "ERM WG30",
-   "label": "EN 304 118 – Medical implantable Wireless Power Transmission (WPT) equipment; Harmonised Standard for a: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 118",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-10-26",
-   "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
-   "doc": "EN 301 843-7",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-10-26",
-   "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 301 843-3 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services Harmo: Drafting Stage – Early draft",
-   "doc": "EN 301 843-3",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-10-26",
-   "title": "RED",
-   "actor": "ERM WG28",
-   "label": "EN 300 440-1 – Short Range Devices (SRD) operating in 1 GHz to 40 GHz; Harmonised Standard for access to : Drafting Stage – Early draft",
-   "doc": "EN 300 440-1",
-   "page": "committees.html#red"
+   "date": "2026-10-27",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "PDF replaced (en): Council note of 2026-06-10 (Comments from Member States on cluster 4); not compared: we keep no copy of the earlier PDF",
+   "doc": "WK 8221/26",
+   "page": "medical-devices-simplification.html"
   }
  ]
 }

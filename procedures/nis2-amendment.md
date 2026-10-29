@@ -1,14 +1,14 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 15 Oct 2026.
+Procedure 2026/0012(COD), as of 28 Oct 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 24 Sep 2026
-- **Council:** working party, latest document 2 Jul 2026
-- **Latest activity:** 13 Oct 2026 · European Parliament: EP amendments (PE796.471)
+- **Council:** working party, latest document 23 Oct 2026
+- **Latest activity:** 23 Oct 2026 · Council: European Court of Auditors’ Special Report No 19/2026: Detecting and responding to … (ST 14696/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -56,8 +56,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-02 | [WK 9750/26](https://data.consilium.europa.eu/doc/document/WK-9750-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States | public | 2026-10-02 | – |
 | 2026-09-24 | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures …<br>*Our summary:* Draft report of the rapporteur of Parliament's Industry, Research and Energy committee on the proposal for a targeted amendment of NIS-2, with 33 amendments and no justifications; it is the rapporteur's text, not the position of the committee or of Parliament, and not law. It would turn the Commission's power to set risk-management requirements for further sectors into delegated acts, with wider national requirements ceasing to apply 12 months after those acts apply, oblige the Commission to issue guidelines with a common format for supplier information requests and guidance on harmonised application, let a manufacturer's severe-incident notification under the Cyber Resilience Act count as NIS-2 reporting, place manufacturers of the Annex II sectors under the jurisdiction of their main establishment, protect ransomware information, and route incident reports under NIS-2, eIDAS, DORA and the CER Directive through the single entry point proposed in the Digital Omnibus. It deletes the proposal's changes to the healthcare and chemicals entries of the annexes, adds fixed post-quantum migration dates and touches none of the tracked concepts. | public | – | [en](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.en.md) [de](../texts/nis2-amendment/2026-09-24_ep-draft-report-pe792-221.de.md) |
 | 2026-10-13 | PE796.471 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-23 | [ST 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99652) | council-note | European Court of Auditors’ Special Report No 19/2026: Detecting and responding to cybersecurity incidents - EU cooperation framework progressing, but only … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-27.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-28.
 
 ## Texts as Markdown
 
