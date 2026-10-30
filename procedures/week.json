@@ -1,16 +1,10 @@
 {
- "as_of": "2026-10-29",
+ "as_of": "2026-10-30",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
-    {
-     "date": "2026-10-30",
-     "act": "Cyber Resilience Act",
-     "text": "M/606: deadline for the ESOs to adopt the requested standards (items 16–41)",
-     "url": "acts/cra.html"
-    },
     {
      "date": "2026-10-30",
      "act": "NIS 2 Directive",
@@ -26,16 +20,10 @@
    ],
    "recap": [
     {
-     "date": "2026-10-22",
-     "act": "Digital Omnibus",
-     "text": "Council: Mandate for negotiations with the European Parliament",
-     "url": "procedures/digital-omnibus.html"
-    },
-    {
-     "date": "2026-10-27",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 6 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-29",
+     "act": "EU Space Act",
+     "text": "Council: Presidency compromise text - clean version",
+     "url": "procedures/space-act.html"
     },
     {
      "date": "2026-10-23",
@@ -44,16 +32,22 @@
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-23",
-     "act": "Artificial Intelligence Act",
-     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Under Approval",
-     "url": "acts/ai-act.html#standardisation"
+     "date": "2026-10-29",
+     "act": "EU Space Act",
+     "text": "Council: Revised Presidency compromise text (not public)",
+     "url": "procedures/space-act.html"
     },
     {
-     "date": "2026-10-26",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26)",
-     "url": "procedures/csa2.html"
+     "date": "2026-10-30",
+     "act": "Cyber Resilience Act",
+     "text": "Standardisation: EN 304 624: Approval Stage – Closing of approval procedure",
+     "url": "acts/cra.html#standardisation"
+    },
+    {
+     "date": "2026-10-30",
+     "act": "Artificial Intelligence Act",
+     "text": "2 standardisation projects moved on, e.g. prEN 18229-2: Under Approval",
+     "url": "acts/ai-act.html#standardisation"
     }
    ]
   },
@@ -63,12 +57,6 @@
    "ahead": [
     {
      "date": "2026-10-30",
-     "act": "Cyber Resilience Act",
-     "text": "M/606: deadline for the ESOs to adopt the requested standards (items 16–41)",
-     "url": "acts/cra.html"
-    },
-    {
-     "date": "2026-10-30",
      "act": "NIS 2 Directive",
      "text": "Funding call deadline: TRUNSPORT: TRUNSPORT Open Call 1",
      "url": "acts/nis2.html#funding"
@@ -76,28 +64,28 @@
    ],
    "recap": [
     {
-     "date": "2026-10-22",
-     "act": "Digital Omnibus",
-     "text": "Council: Mandate for negotiations with the European Parliament",
-     "url": "procedures/digital-omnibus.html"
-    },
-    {
-     "date": "2026-10-27",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 6 documents listed as not public, incl. Presidency second compromise text Title II (ENISA)",
-     "url": "procedures/csa2.html"
-    },
-    {
      "date": "2026-10-23",
      "act": "Cybersecurity Act 2",
      "text": "Council: Presidency second compromise text on Title IV (Security of ICT Supply Chains) (not public)",
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-23",
+     "date": "2026-10-30",
+     "act": "Cyber Resilience Act",
+     "text": "Standardisation: EN 304 624: Approval Stage – Closing of approval procedure",
+     "url": "acts/cra.html#standardisation"
+    },
+    {
+     "date": "2026-10-30",
      "act": "Artificial Intelligence Act",
-     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Under Approval",
+     "text": "2 standardisation projects moved on, e.g. prEN 18229-2: Under Approval",
      "url": "acts/ai-act.html#standardisation"
+    },
+    {
+     "date": "2026-10-27",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 4 documents listed as not public",
+     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-10-26",

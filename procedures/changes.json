@@ -1,68 +1,68 @@
 {
  "items": [
   {
-   "date": "2026-10-28",
+   "date": "2026-10-30",
    "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 301 843-7 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Stable draft",
-   "doc": "EN 301 843-7",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft endorsed by the Technical Gr",
+   "doc": "EN 302 454",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-10-28",
+   "date": "2026-10-30",
+   "title": "RED",
+   "actor": "ERM WG34",
+   "label": "EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Drafting Stage – Final draft registered by ETSI Secretariat",
+   "doc": "EN 302 208",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft endorsed by the Technical Gr",
+   "doc": "EN 302 054",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 624",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-10-30",
    "title": "AI Act",
-   "actor": "European Artificial Intelligence Board",
-   "label": "Working document published: Eighth meeting of the European Artificial Intelligence Board (2026-06-11)",
-   "doc": "working document",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18229-2 – AI trustworthiness framework - Part 2: Transparency: Under Approval",
+   "doc": "prEN 18229-2",
    "page": "ai-act.html"
   },
   {
-   "date": "2026-10-28",
-   "title": "AI Act",
-   "actor": "European Artificial Intelligence Board",
-   "label": "Other document published: Ninth meeting of the European Artificial Intelligence Board (2026-09-17)",
-   "doc": "other document",
-   "page": "ai-act.html"
+   "date": "2026-10-29",
+   "title": "Standardisation Regulation",
+   "actor": "Committee on Standards",
+   "label": "Voting sheet published: Written procedure - Draft Commission Implementing Decision amending Implementing Decision C(2025)618 on a standardisation request as regards products with digital elements (2026-09-16)",
+   "doc": "voting sheet",
+   "page": "standardisation-regulation.html"
   },
   {
-   "date": "2026-10-27",
+   "date": "2026-10-29",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by …",
-   "doc": "CM 4464/26 REV 2",
+   "label": "Released: Council note of 2026-09-16 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 12698/26",
    "page": "medical-devices-simplification.html"
   },
   {
-   "date": "2026-10-27",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "date": "2026-10-29",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by …",
-   "doc": "CM 4464/26 REV 3",
-   "page": "medical-devices-simplification.html"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "PDF replaced (en): Council note of 2026-06-26 (Comments from Austria and other Member States on cluster 6); not compared: we keep no copy of the earlier PDF",
-   "doc": "WK 9147/26",
-   "page": "medical-devices-simplification.html"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "PDF replaced (en): Council note of 2026-06-19 (Comments from Austria and other Member States on cluster 5); not compared: we keep no copy of the earlier PDF",
-   "doc": "WK 8980/26",
-   "page": "medical-devices-simplification.html"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "PDF replaced (en): Council note of 2026-06-10 (Comments from Member States on cluster 4); not compared: we keep no copy of the earlier PDF",
-   "doc": "WK 8221/26",
-   "page": "medical-devices-simplification.html"
+   "label": "Revised Presidency compromise text (not public)",
+   "doc": "ST 14787/26",
+   "page": "space-act.html"
   }
  ]
 }

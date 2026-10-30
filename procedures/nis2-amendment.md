@@ -1,6 +1,6 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 28 Oct 2026.
+Procedure 2026/0012(COD), as of 30 Oct 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -9,7 +9,7 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 - **Parliament:** draft report 24 Sep 2026
 - **Council:** working party, latest document 23 Oct 2026
 - **Latest activity:** 23 Oct 2026 · Council: European Court of Auditors’ Special Report No 19/2026: Detecting and responding to … (ST 14696/26)
-- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Next steps:** 8 Mar 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
 
@@ -48,7 +48,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-05-13 | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) | council-progress-report | Progress report<br>*Our summary:* Joint progress report of the Cyprus Presidency of 13 May 2026 on CSA2 and the NIS-2 amendment; it is not a Council position. On the NIS-2 amendment it only records that the read-through of the simplification measures was to start at the end of May 2026; the substance concerns CSA2 (see the CSA2 procedure page).<br>*Updated 2026-10-04:* Reviewed against the later progress report ST 9399/26 of 22 May 2026, the version of the same report for Coreper and the Council: same state of play, with added background (Council conclusions on ENISA of 6 December 2024, the 'One Europe, One Market' roadmap of 24 April 2026). No change to the findings. (source: [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf)) | public | 2026-10-02 | [en](../texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) |
 | 2026-05-13 | [ST 9257/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72148) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian Chamber of Deputies | not public\* | – | – |
 | 2026-05-19 | [ST 9358/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/72729) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the French Senate | not public\* | – | – |
-| 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report<br>*Our summary:* Joint progress report of the Cyprus Presidency of 22 May 2026 on CSA2 and the NIS-2 amendment, sent to Coreper and the Council to take note of; it is not a Council position and changes no text. It is the final version of the draft report of 13 May 2026 (ST 9121/26) and says nothing new on the NIS-2 amendment: the Directive accompanies CSA2 with targeted simplification measures, and the read-through of those measures was to start at the end of May 2026. Member States' views, the scrutiny reservations on high-risk suppliers and the invitation to take note concern the CSA2 Regulation only. | public | – | [en](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) |
+| 2026-05-22 | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) | council-progress-report | Progress report<br>*Our summary:* Joint progress report of the Cyprus Presidency of 22 May 2026 on CSA2 and the NIS-2 amendment, sent to Coreper and the Council to take note of; it is not a Council position and changes no text. It is the final version of the draft report of 13 May 2026 (ST 9121/26) and says nothing new on the NIS-2 amendment: the Directive accompanies CSA2 with targeted simplification measures, and the read-through of those measures was to start at the end of May 2026. Member States' views, the scrutiny reservations on high-risk suppliers and the invitation to take note concern the CSA2 Regulation only.<br>*Updated 2026-10-30:* Open points: why the legal-basis question of point 16 cannot be settled (Decision Desk, p1). Points 5 and 6: "the proposal" is the Regulation in the document's own terms; that the rapporteur and the EESC opinion also cover the Directive comes from the register only (Decision Desk, p2). CM 2950/26: Cellar also files it under the Directive's procedure, besides that of CSA2 (Decision Desk, p3). The start of the read-through marked as our inference; WK 7723/26 and WK 7789/26 public since 4 October 2026 (Decision Desk, p4). Point 4 read as the Regulation, the roadmap not checked (Decision Desk, p5). Kept without edit: p6. Summary unchanged. (source: [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf)) | public | – | [en](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) |
 | 2026-05-29 | [WK 7723/26](https://data.consilium.europa.eu/doc/document/WK-7723-2026-INIT/en/pdf) | council-note | Consolidated informal amendments | public | 2026-10-02 | – |
 | 2026-06-01 | [WK 7789/26](https://data.consilium.europa.eu/doc/document/WK-7789-2026-INIT/en/pdf) | council-note | Proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the Cybersecurity Act 2/Template for the … | public | 2026-10-02 | – |
 | 2026-06-02 | [ST 9972/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/75111) | council-note | Reasoned opinion on the application of the Principles of Subsidiarity and Proportionality - Cover Note from the Senate of the Parliament of the Czech Republic | not public\* | – | – |
@@ -58,7 +58,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | PE796.471 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-23 | [ST 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99652) | council-note | European Court of Auditors’ Special Report No 19/2026: Detecting and responding to cybersecurity incidents - EU cooperation framework progressing, but only … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-28.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-30.
 
 ## Texts as Markdown
 

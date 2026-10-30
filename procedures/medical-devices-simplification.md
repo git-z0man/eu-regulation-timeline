@@ -1,6 +1,6 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 28 Oct 2026.
+Procedure 2025/0404(COD), as of 30 Oct 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
@@ -109,14 +109,14 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-02 | [ST 12287/26](https://data.consilium.europa.eu/doc/document/ST-12287-2026-INIT/en/pdf) | council-note | Exchange of views | public | 2026-10-23 | – |
 | 2026-09-03 | [WK 11070/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/89688) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-09-07 | [WK 13494/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/90189) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Technical input from the Commission’s services on the envisaged functioning of … | not public\* | – | – |
-| 2026-09-16 | [ST 12698/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/91975) | council-note | Exchange of views | not public\* | – | – |
+| 2026-09-16 | [ST 12698/26](https://data.consilium.europa.eu/doc/document/ST-12698-2026-INIT/en/pdf) | council-note | Exchange of views | public | 2026-10-29 | – |
 | 2026-09-17 | [WK 14267/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92154) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-10-09 | [ST 12919/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/96980) | council-note | Regulation to simplify rules on medical and in vitro diagnostic medical devices - Guidance for future work | not public\* | – | – |
 | 2026-10-16 | [ST 13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) | council-note | Exchange of views | not public\* | – | – |
 | 2026-10-16 | ST 13649/26 ADD 1 | council-note | Exchange of views | not public\* | – | – |
 | 2026-10-20 | [WK 16194/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99013) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-28.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-30.
 
 ## Texts as Markdown
 

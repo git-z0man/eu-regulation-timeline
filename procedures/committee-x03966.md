@@ -85,6 +85,7 @@ Tasks:
 
 ## Subgroups
 
+- [Administrative cooperation group (ADCO)](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=106352) (X03966/12, Active)
 - [Steering group on general-purpose AI](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=105352) (X03966/8, Active)
 - [Working group on AI Act interplay with other Union legislation](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=105353) (X03966/2, Active)
 - [Working group on AI in Financial Services](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=105574) (X03966/3, Active)

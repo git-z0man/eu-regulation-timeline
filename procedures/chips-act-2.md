@@ -1,6 +1,6 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 28 Oct 2026.
+Procedure 2026/0139(COD), as of 29 Oct 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
@@ -57,7 +57,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 16215/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98931) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a Regulation on a framework of measures for strengthening the Union's … | not public\* | – | – |
 | 2026-10-20 | [WK 16218/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98932) | council-note | Consolidated table with comments from Austria and other Member States | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-28.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-10-30.
 
 ## Texts as Markdown
 

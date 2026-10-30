@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="871" viewBox="0 0 1800 871" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="871" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-23">
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-30">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – EU Space Act – COM(2025) 335 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 23 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 30 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -119,8 +119,8 @@
 <rect x="20.0" y="763.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="776.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="776.1">no events yet</tspan></text>
-<line x1="1590.2" y1="440.0" x2="1590.2" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1590.2" y="797.1">as of 23 Oct 2026</tspan></text>
+<line x1="1609.2" y1="440.0" x2="1609.2" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1609.2" y="797.1">as of 30 Oct 2026</tspan></text>
 <rect x="271.1" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="275.1" y="462.1">25 Jun 2025 · Commission proposal (COM(2025) 335)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><title>25 Jun 2025: Commission proposal – COM(2025) 335</title><polygon points="275.0777202072539,465 283.0777202072539,473 275.0777202072539,481 267.0777202072539,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -159,6 +159,8 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1028.9" y="747.1">30 Mar 2026 · Presidency compromise text - clean version (ST 7806/26)</tspan></text></a>
 <rect x="1130.6" y="670.0" width="478.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1134.6" y="679.1">08 May 2026 · Preparation of the Council (Competitiveness (Internal Market, Industry, … (ST 8861/26)</tspan></text></a>
+<rect x="1443.0" y="696.0" width="337.0" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1447.0" y="705.1">29 Oct 2026 · Presidency compromise text - clean version (ST 15118/26)</tspan></text></a>
 <text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="291.3" y="704.9">Space Working Party: 23 meetings (1 Jul 2025 – 11 Sep 2026; ● each)</tspan></text>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf" target="_blank"><title>1 Jul 2025: Space Working Party meeting (ATTACHES): Presentation by the Commission (doc. ) (10935/25+ADD 1); Impact … – CM 3393/25 REV 1</title><polygon points="291.34715025906735,712.5 294.84715025906735,716 291.34715025906735,719.5 287.84715025906735,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3597-2025-INIT/en/pdf" target="_blank"><title>14 Jul 2025: Space Working Party meeting (morning only on Tuesday 15 July): Presentation by the Commission (doc. ) … – CM 3597/25</title><polygon points="326.5975820379966,712.5 330.0975820379966,716 326.5975820379966,719.5 323.0975820379966,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
@@ -188,6 +190,7 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf" target="_blank"><title>10 Jul 2026: Space Working Party meeting - full day meeting (ATTACHES LEVEL in: Exchange of views (7806/26) – CM 3526/26 REV 1</title><polygon points="1305.474956822107,712.5 1308.974956822107,716 1305.474956822107,719.5 1301.974956822107,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf" target="_blank"><title>1 Sep 2026: Space Working Party meeting: Exchange of views (7806/26) – CM 3875/26</title><polygon points="1449.188255613126,712.5 1452.688255613126,716 1449.188255613126,719.5 1445.688255613126,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf" target="_blank"><title>11 Sep 2026: Space Working Party meeting (morning only): Exchange of views (7806/26) – CM 3999/26</title><polygon points="1476.3039723661486,712.5 1479.8039723661486,716 1476.3039723661486,719.5 1472.8039723661486,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf" target="_blank"><title>29 Oct 2026: Presidency compromise text - clean version – ST 15118/26</title><polygon points="1606.4594127806563,710.5 1611.9594127806563,716 1606.4594127806563,721.5 1600.9594127806563,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="818.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="836.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>

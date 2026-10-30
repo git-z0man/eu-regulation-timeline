@@ -1,6 +1,131 @@
 {
  "items": [
   {
+   "date": "2026-10-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft endorsed by the Technical Gr",
+   "doc": "EN 302 454",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
+   "key": "eso-REN/ERM-WGAERO-201-2026-10-30",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG34",
+   "label": "EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Drafting Stage – Final draft registered by ETSI Secretariat",
+   "doc": "EN 302 208",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657",
+   "key": "eso-REN/ERM-WG34-272-2026-10-30",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft endorsed by the Technical Gr",
+   "doc": "EN 302 054",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+   "key": "eso-REN/ERM-WGAERO-200-2026-10-30",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 624",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837",
+   "key": "eso-DEN/CYBER-EUS-0015-2026-10-30",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18229-2 – AI trustworthiness framework - Part 2: Transparency: Under Approval",
+   "doc": "prEN 18229-2",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
+   "key": "eso-JT021047-2026-10-30",
+   "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-29",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "Committee on Standards",
+   "label": "Voting sheet published: Written procedure - Draft Commission Implementing Decision amending Implementing Decision C(2025)618 on a standardisation request as regards products with digital elements (2026-09-16)",
+   "doc": "voting sheet",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/118783/1/consult",
+   "key": "C41700-V118783/1",
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-10-29",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-16 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 12698/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12698-2026-INIT/en/pdf",
+   "key": "ST 12698/26-released",
+   "page": "medical-devices-simplification",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-16",
+   "doc_title": "Exchange of views",
+   "withheld_since": "2026-09-25",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-10-29",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "Revised Presidency compromise text (not public)",
+   "doc": "ST 14787/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707",
+   "key": "ST 14787/26",
+   "page": "space-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-10-29",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text - clean version",
+   "doc": "ST 15118/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf",
+   "key": "ST 15118/26",
+   "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-28",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGDMR",
+   "label": "EN 303 405 – Harmonised Standard for access to radio spectrum HEN for Analogue and Digital PMR446: Work Item proposal endorsed by TG",
+   "doc": "EN 303 405",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79558",
+   "key": "eso-REN/ERM-WGDMR-388-2026-10-28",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-10-28",
    "act": "red",
    "title": "RED",
@@ -433,30 +558,6 @@
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587",
    "key": "eso-JT021021-2026-10-23",
    "page": "ai-act",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-22",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 302 454",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
-   "key": "eso-REN/ERM-WGAERO-201-2026-10-22",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-22",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 302 054",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
-   "key": "eso-REN/ERM-WGAERO-200-2026-10-22",
-   "page": null,
    "type": "Standardisation"
   },
   {
@@ -941,18 +1042,6 @@
    "doc": "EN 304 631",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
    "key": "eso-DEN/CYBER-EUS-0011-2026-10-15",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-15",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 624",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837",
-   "key": "eso-DEN/CYBER-EUS-0015-2026-10-15",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -1940,18 +2029,6 @@
   },
   {
    "date": "2026-09-28",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WG34",
-   "label": "EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Drafting Stage – Final draft endorsed by the Working Group",
-   "doc": "EN 302 208",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657",
-   "key": "eso-REN/ERM-WG34-272-2026-09-28",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-28",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -2341,13 +2418,17 @@
    "title": "Standardisation Regulation",
    "actor": "Committee on Standards",
    "label": "Written procedure - Draft Commission Implementing Decision amending Implementing Decision C(2025)618 on a standardisation request as regards products with digital elements",
-   "doc": "draft implementing act",
+   "doc": "draft implementing act, voting sheet",
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1607/consult",
    "key": "C41700-CMTD(2026)1607",
    "links": [
     [
      "draft implementing act",
      "https://ec.europa.eu/transparency/comitology-register/screen/documents/118113/1/consult"
+    ],
+    [
+     "voting sheet",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/118783/1/consult"
     ]
    ],
    "page": "standardisation-regulation",
@@ -4835,7 +4916,7 @@
    "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Start of pre-processing",
    "doc": "EN 300 422-4",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
-   "key": "eso-REN/ERM-TG17-158-2026-05-13",
+   "key": "eso-REN/ERM-WG17-158-2026-05-13",
    "page": null,
    "type": "Standardisation"
   },
@@ -6937,18 +7018,6 @@
    "type": "Legislation"
   },
   {
-   "date": "2026-01-06",
-   "act": "ai-act",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18229-2 – AI trustworthiness framework - Part 2: Transparency: Under Drafting",
-   "doc": "prEN 18229-2",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
-   "key": "eso-JT021047-2026-01-06",
-   "page": "ai-act",
-   "type": "Standardisation"
-  },
-  {
    "date": "2025-12-27",
    "act": "cra",
    "title": "CRA",
@@ -7680,42 +7749,6 @@
    "key": "PE779.456",
    "page": "toy-safety-regulation",
    "type": "Legislation"
-  },
-  {
-   "date": "2025-10-29",
-   "act": "toy-safety-regulation",
-   "title": "TSR",
-   "actor": "CEN/TC 52",
-   "label": "EN 71-7:2025 – Safety of toys - Part 7: Finger paints - Requirements and test methods: Published",
-   "doc": "EN 71-7:2025",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:79235&cs=1F219BAFD5E3A1D185CF665A7E0ED156E",
-   "key": "eso-00052169-2025-10-29",
-   "page": "toy-safety-regulation",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2025-10-29",
-   "act": "toy-safety-regulation",
-   "title": "TSR",
-   "actor": "CEN/TC 52",
-   "label": "EN 71-14:2025 – Safety of toys - Part 14: Trampolines for domestic use: Published",
-   "doc": "EN 71-14:2025",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:78514&cs=14DE8E8942615D301B60205839CF4FAD7",
-   "key": "eso-00052166-2025-10-29",
-   "page": "toy-safety-regulation",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2025-10-29",
-   "act": "ehds",
-   "title": "EHDS",
-   "actor": "Committee on the European Health Data Space",
-   "label": "Summary record published: 3rd meeting: Committee on the European Health Data Space (EHDS) (2025-10-24)",
-   "doc": "summary record",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/110776/1/consult",
-   "key": "C131500-S110776/1",
-   "page": "ehds",
-   "type": "Committees"
   }
  ]
 }
