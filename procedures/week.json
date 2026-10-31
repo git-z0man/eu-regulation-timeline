@@ -1,18 +1,18 @@
 {
- "as_of": "2026-10-30",
+ "as_of": "2026-10-31",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
     {
-     "date": "2026-10-30",
-     "act": "NIS 2 Directive",
-     "text": "Funding call deadline: TRUNSPORT: TRUNSPORT Open Call 1",
-     "url": "acts/nis2.html#funding"
+     "date": "2026-11-03",
+     "act": "Ecodesign for Sustainable Products Regulation",
+     "text": "Ecodesign Forum: Ecodesign Forum",
+     "url": "procedures/committee-e03969.html"
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-06",
      "act": "Ecodesign for Sustainable Products Regulation",
      "text": "Ecodesign Forum: Ecodesign Forum",
      "url": "procedures/committee-e03969.html"
@@ -24,12 +24,6 @@
      "act": "EU Space Act",
      "text": "Council: Presidency compromise text - clean version",
      "url": "procedures/space-act.html"
-    },
-    {
-     "date": "2026-10-23",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency second compromise text on Title IV (Security of ICT Supply Chains) (not public)",
-     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-10-29",
@@ -46,29 +40,22 @@
     {
      "date": "2026-10-30",
      "act": "Artificial Intelligence Act",
-     "text": "2 standardisation projects moved on, e.g. prEN 18229-2: Under Approval",
+     "text": "Standardisation: prEN 18229-2: Under Approval",
      "url": "acts/ai-act.html#standardisation"
+    },
+    {
+     "date": "2026-10-27",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 4 documents listed as not public",
+     "url": "procedures/csa2.html"
     }
    ]
   },
   {
    "key": "cybersecurity",
    "label": "Cybersecurity",
-   "ahead": [
-    {
-     "date": "2026-10-30",
-     "act": "NIS 2 Directive",
-     "text": "Funding call deadline: TRUNSPORT: TRUNSPORT Open Call 1",
-     "url": "acts/nis2.html#funding"
-    }
-   ],
+   "ahead": [],
    "recap": [
-    {
-     "date": "2026-10-23",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency second compromise text on Title IV (Security of ICT Supply Chains) (not public)",
-     "url": "procedures/csa2.html"
-    },
     {
      "date": "2026-10-30",
      "act": "Cyber Resilience Act",
@@ -78,7 +65,7 @@
     {
      "date": "2026-10-30",
      "act": "Artificial Intelligence Act",
-     "text": "2 standardisation projects moved on, e.g. prEN 18229-2: Under Approval",
+     "text": "Standardisation: prEN 18229-2: Under Approval",
      "url": "acts/ai-act.html#standardisation"
     },
     {
@@ -92,6 +79,12 @@
      "act": "Cybersecurity Act 2",
      "text": "Council: Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26)",
      "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-10-28",
+     "act": "Artificial Intelligence Act",
+     "text": "2 new meetings or documents of committees and expert groups",
+     "url": "acts/ai-act.html#committees"
     }
    ]
   }

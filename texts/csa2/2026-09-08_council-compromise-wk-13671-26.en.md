@@ -8653,35 +8653,35 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1324 ANNEX II | ANNEX II |
+| ANNEX II | ANNEX II |
 
 ### ANNEX II, first paragraph
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1325 Key ICT assets for mobile and fixed electronic communications networks | Key ICT assets for mobile and fixed electronic communications networks |
+| Key ICT assets for mobile and fixed electronic communications networks | Key ICT assets for mobile and fixed electronic communications networks |
 
 ### ANNEX II, Table 1
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1326 Table 1 | Table 1 |
+| Table 1 | Table 1 |
 
 <a id="annex-iii"></a>
 ### ANNEX III
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1327 ANNEX III | ANNEX III |
+| ANNEX III | ANNEX III |
 
 ### ANNEX III, first paragraph
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1328 CORRELATION TABLE | CORRELATION TABLE |
+| CORRELATION TABLE | CORRELATION TABLE |
 
 ### ANNEX III, Table 2
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1329 Table 2 | Table 2 |
+| Table 2 | Table 2 |
