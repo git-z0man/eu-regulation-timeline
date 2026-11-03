@@ -1,9 +1,9 @@
 ---
 act: product-digitalisation-regulation
-version: 2026-06-18_agreed-text-st-10482-26-add-2
+version: 2026-06-24_agreed-text-st-10482-26-add-2-rev-1
 stage: agreed-text
 language: en
-document: ST 10482/26 ADD 2
+document: ST 10482/26 ADD 2 REV 1
 title: Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications
 retrieved: '2026-10-01'
 converter: tools/pdf2md.py
@@ -11,7 +11,7 @@ counts:
   recitals: 28
   articles: 17
   annexes: 13
-official_source: https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2/en/pdf
+official_source: https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
 notice: Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
 extraction: Text extracted from the PDF text layer; headers, footers and page numbers removed, hyphenation joined, structure inferred from the layout, tables flattened. Check wording against the PDF before quoting.
@@ -20,9 +20,9 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 # Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications
 
-**Council of the** **European Union** **Brussels, 19 June 2026** **(OR. en)**
+**Council of the** **European Union** **Brussels, 24 June 2026** **(OR. en)**
 
-**1 0482/26** **ADD 2** **Interinstitutional File:** **2025/0133 (COD) LIMITE** **SIMPL 142 TELECOM 315** **ANTICI 146 POLCOM 219** **ECOFIN 808 ENV 721** **EF 179 COMPET 767** **MI 627 CLIMA 327** **ECO 22 TRANS 418** **ENT 144 ENER 395** **IA 163 CODEC 1163** **I ND 411** **NOTE** From: General Secretariat of the Council To: Permanent Representatives Committee Subject: Omnibus IV Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 2000/14/EC 2011/65/EU, 2013/53/EU, 2014/29/EU, 20141301EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications - Final compromise text
+**1 0482/26** **ADD 2 REV 1** **Interinstitutional File:** **2025/0133 (COD) LIMITE** **SIMPL 142 TELECOM 315** **ANTICI 146 POLCOM 219** **ECOFIN 808 ENV 721** **EF 179 COMPET 767** **MI 627 CLIMA 327** **ECO 22 TRANS 418** **ENT 144 ENER 395** **IA 163 CODEC 1163** **I ND 411** **NOTE** From: General Secretariat of the Council To: Permanent Representatives Committee Subject: Omnibus IV Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 2000/14/EC 2011/65/EU, 2013/53/EU, 2014/29/EU, 20141301EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications - Final compromise text
 
 Delegations will find enclosed the final compromise text on the Directive on digitalisation and common specifications.
 
@@ -667,7 +667,9 @@ When the instructions **and information**, referred to in the first subparagraph
 
     - (c) make them accessible online during the expected lifetime of the apparatus and for at least 10 years after the placing on the market of the apparatus.
 
-However, the end-user may, at time of the purchase of the apparatus, or up to **24** months after that purchase, request the instructions or information referred to in Article 18 in paper format. Where the end-user requests those instructions or information referred to in Article 18, the manufacturer shall provide them to the end-user, free of charge, within one month of receiving the request.; **The** **information shall clearly inform the end-user of their right to request the** **instructions in paper format.’**
+However, the end-user may, at time of the purchase of the apparatus, or up to **24** months after that purchase, request the instructions or information referred to in
+
+Article 18 in paper format. Where the end-user requests those instructions or information referred to in Article 18, the manufacturer shall provide them to the end-user, free of charge, within one month of receiving the request.; **The** **information shall clearly inform the end-user of their right to request the** **instructions in paper format.’**
 
   - (e) in paragraph 9, the first sentence is replaced by the following:
 
@@ -2002,7 +2004,7 @@ Annexes II and V to VIII to Directive 2000/14/EC are amended as follows:
 
   - (b) in point 3, the first indent is replaced by the following:
 
-ANNEX I GIP.B **LIMITE EN** ‘— name, postal address and digital contact of the manufacturer or his authorised representative established in the Community;’
+‘— name, postal address and digital contact of the manufacturer or his authorised representative established in the Community;’
 
 - (4) in Annex VII, point 2, the first indent is replaced by the following:
 
@@ -2011,8 +2013,6 @@ ANNEX I GIP.B **LIMITE EN** ‘— name, postal address and digital contact of t
 - (5) in Annex VIII, point 3.1, first indent, the first subindent is replaced by the following:
 
 ‘— name, postal address and digital contact of the manufacturer or his authorised representative established in the Community.’
-
-ANNEX I GIP.B **LIMITE EN**
 
 <a id="annex-ii"></a>
 ## Annex II
@@ -2032,8 +2032,6 @@ Annexes V and VI to Directive 2011/65/EU are amended as follows:
   - (b) point 6 is replaced by the following:
 
 ‘6. Where applicable, references to the relevant harmonised standards or common specifications used or references to the technical specifications in relation to which conformity is declared:.’
-
-ANNEX II GIP.B **LIMITE EN**
 
 <a id="annex-iii"></a>
 ## Annex III
@@ -2068,7 +2066,7 @@ Annexes I, III, IV and V to Directive 2013/53/EU are amended as follows:
 
     - (iv) in point 4, point (b) is replaced by the following:
 
-ANNEX III GIP.B **LIMITE EN** ‘(b) specify the power of the engine when measured in accordance with the harmonised standard or common specification.;’
+‘(b) specify the power of the engine when measured in accordance with the harmonised standard or common specification.;’
 
 - (2) Annex III is amended as follows:
 
@@ -2092,8 +2090,6 @@ ANNEX III GIP.B **LIMITE EN** ‘(b) specify the power of the engine when measur
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:;’
 
-ANNEX III GIP.B **LIMITE EN**
-
 - (4) Annex V is amended as follows:
 
   - (a) in point 2, the first subparagraph is replaced by the following:
@@ -2103,8 +2099,6 @@ ANNEX III GIP.B **LIMITE EN**
   - (b) in point 4.2, first subparagraph, the first sentence is replaced by the following:
 
 ‘The person who is placing the product on the market or putting it into service shall draw up, in electronic form, an EU declaration of conformity and keep it at the disposal of the national authorities for 10 years after the date the post-construction assessment certificate has been issued..’
-
-ANNEX III GIP.B **LIMITE EN**
 
 <a id="annex-iv"></a>
 ## Annex IV
@@ -2127,9 +2121,7 @@ Annexes II, III and IV to Directive 2014/29/EU are amended as follows:
 
 ‘This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full.;’
 
-ANNEX IV GIP.B **LIMITE EN**
-
-- (b) points 1.4.2., 1.4.3 and 1.4.4. are replaced by the following:
+  - (b) points 1.4.2., 1.4.3 and 1.4.4. are replaced by the following:
 
 ‘1.4.2. verify that the prototype vessel(s) has/have been manufactured in conformity with the technical documentation, that it may safely be used under its intended working conditions and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
@@ -2137,15 +2129,13 @@ ANNEX IV GIP.B **LIMITE EN**
 
 1.4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential safety requirements of this Directive;’
 
-- (c) in point 1.6, first paragraph, the second sentence is replaced by the following:
+  - (c) in point 1.6, first paragraph, the second sentence is replaced by the following:
 
 ‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
 
-- (d) in point 3.3., first subparagraph, the second sentence is replaced by the following:
+  - (d) in point 3.3., first subparagraph, the second sentence is replaced by the following:
 
 ‘An adequate sample of the final vessels, taken on site by the notified body before the placing on the market, shall be examined and appropriate tests as identified by the relevant parts of the harmonised standards, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to check the conformity of the vessel with the type described in the EU-type examination certificate and with the relevant requirements of this Directive.;’
-
-ANNEX IV GIP.B **LIMITE EN**
 
 - (2) in Annex III, point 1.2, point (e) is replaced by the following:
 
@@ -2160,8 +2150,6 @@ ANNEX IV GIP.B **LIMITE EN**
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:.’
-
-ANNEX IV GIP.B **LIMITE EN**
 
 <a id="annex-v"></a>
 ## Annex V
@@ -2186,7 +2174,7 @@ Annexes II, III and IV to Directive 2014/30/EU are amended as follows:
 
   - (b) in point 6, first subparagraph, the second sentence is replaced by the following:
 
-ANNEX V GIP.B **LIMITE EN** ‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the aspects of the essential requirements covered by the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
+‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the aspects of the essential requirements covered by the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
 
 - (3) Annex IV is amended as follows:
 
@@ -2197,8 +2185,6 @@ ANNEX V GIP.B **LIMITE EN** ‘That certificate shall contain the name, postal a
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used, including the date of the standard or common specification, or references to the other technical specifications, including the date of the specification, in relation to which conformity is declared:.’
-
-ANNEX V GIP.B **LIMITE EN**
 
 <a id="annex-vi"></a>
 ## Annex VI
@@ -2221,9 +2207,7 @@ Annexes II and IV to Directive 2014/31/EU are amended as follows:
 
 ‘This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full.;’
 
-ANNEX VI GIP.B **LIMITE EN**
-
-- (b) point 1.4.2, 1.4.3 and 1.4.4. are replaced by the following:
+  - (b) point 1.4.2, 1.4.3 and 1.4.4. are replaced by the following:
 
 ‘1.4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
@@ -2231,55 +2215,43 @@ ANNEX VI GIP.B **LIMITE EN**
 
 1.4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential requirements of this Directive;’
 
-- (c) in point 1.6, first subparagraph, the second sentence is replaced by the following:
+  - (c) in point 1.6, first subparagraph, the second sentence is replaced by the following:
 
 ‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
 
-- (d) in point 2.3.1, point (a) is replaced by the following:
+  - (d) in point 2.3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-- (e) in point 2.3.3., the second subparagraph is replaced by the following:
+  - (f) in point 3.2., point (d) is replaced by the following:
 
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
+‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, or common specifications, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
 
-- (f) in point 3.2., point (d) is replaced by the following:
-
-ANNEX VI GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, or common specifications, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
-
-- (g) in point 3.5.1, point (a) is replaced by the following:
+  - (g) in point 3.5.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-- (h) in point 3.5.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
-- (i) point 4.4.1. is replaced by the following:
+  - (i) point 4.4.1. is replaced by the following:
 
 ‘4.4.1. All instruments shall be individually examined and appropriate tests set out in the relevant harmonised standard(s), and/or in the relevant common specifications and/or other relevant technical specifications, shall be carried out in order to verify conformity with the approved type described in the EU-type examination certificate and with the appropriate requirements of this Directive.
 
 In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
-ANNEX VI GIP.B **LIMITE EN**
-
-- (j) in point 5.2.1., point (d) is replaced by the following:
+  - (j) in point 5.2.1., point (d) is replaced by the following:
 
 ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
 
-- (k) point 5.5.1. is replaced by the following:
+  - (k) point 5.5.1. is replaced by the following:
 
 ‘5.5.1. All instruments shall be individually examined and appropriate tests, set out in the relevant harmonised standards and/or equivalent tests set out in the relevant common specifications or other relevant technical specifications, shall be carried out to verify conformity with the requirements that apply to them. In the absence of such a harmonised standard or common specification the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
-- (l) in point 6.2.1, point (d) is replaced by the following:
+  - (l) in point 6.2.1, point (d) is replaced by the following:
 
 ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, or common specifications, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
 
-- (m) in point 6.4., the first subparagraph is replaced by the following:
+  - (m) in point 6.4., the first subparagraph is replaced by the following:
 
-‘A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant harmonised standards and/or in the relevant common specifications and/or other relevant technical specifications, to check the conformity of
-
-ANNEX VI GIP.B **LIMITE EN** the instrument with the applicable requirements of this Directive, or have them carried out. In the absence of such a harmonised standard or common specification the notified body concerned shall decide on the appropriate tests to be carried out.;’
+‘A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant harmonised standards and/or in the relevant common specifications and/or other relevant technical specifications, to check the conformity of the instrument with the applicable requirements of this Directive, or have them carried out. In the absence of such a harmonised standard or common specification the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
 - (2) Annex IV is amended as follows:
 
@@ -2290,8 +2262,6 @@ ANNEX VI GIP.B **LIMITE EN** the instrument with the applicable requirements of 
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:.’
-
-ANNEX VI GIP.B **LIMITE EN**
 
 <a id="annex-vii"></a>
 ## Annex VII
@@ -2316,9 +2286,7 @@ Annexes II and XIII to Directive 2014/32/EU are amended as follows:
 
 ‘(e) the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards, and/or common specifications, and/or normative documents have not been applied in full. The supporting evidence shall include, where necessary, the results of tests carried out in accordance with other relevant technical specifications by the appropriate laboratory of the manufacturer, or by another testing laboratory on his behalf and under his responsibility.;’
 
-ANNEX VII GIP.B **LIMITE EN**
-
-- (ii) in point 4, points 4.2, 4.3 and 4.4 are replaced by the following:
+  - (ii) in point 4, points 4.2, 4.3 and 4.4 are replaced by the following:
 
 ‘4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards and/or normative documents, and/or common specifications, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
@@ -2326,7 +2294,7 @@ ANNEX VII GIP.B **LIMITE EN**
 
 4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards, and/or normative documents, and/or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential requirements of this Directive;’
 
-- (iii) in point 6, first subparagraph, the second sentence is replaced by the following:
+  - (iii) in point 6, first subparagraph, the second sentence is replaced by the following:
 
 ‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
 
@@ -2334,17 +2302,11 @@ ANNEX VII GIP.B **LIMITE EN**
 
 ‘An adequate sample of the final measuring instrument, taken on site by the accredited in-house body or by the notified body before the placing on the market, shall be examined and appropriate tests, as identified by the relevant parts of the harmonised standards, and/or normative documents, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to verify the conformity of the instrument with the type described in the EU-type examination certificate and with the relevant requirements of this Directive.;’
 
-ANNEX VII GIP.B **LIMITE EN**
-
 - (d) Module D: CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS is amended as follows:
 
   - (i) in point 3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
-
-  - (ii) in point 3.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
 - (e) Module D1: QUALITY ASSURANCE OF THE PRODUCTION PROCESS, is amended as follows:
 
@@ -2352,31 +2314,17 @@ ANNEX VII GIP.B **LIMITE EN**
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-  - (ii) in point 5.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
 - (f) Module E: CONFORMITY TO TYPE BASED ON PRODUCT QUALITY ASSURANCE is amended as follows:
 
   - (i) in point 3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-ANNEX VII GIP.B **LIMITE EN**
-
-- (ii) in point 3.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
 - (g) Module E1: QUALITY ASSURANCE OF FINAL INSTRUMENT INSPECTION AND TESTING is amended as follows:
 
   - (i) in point 5.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
-
-  - (ii) in point 5.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
 - (h) Module F: CONFORMITY TO TYPE BASED ON PRODUCT VERIFICATION, is amended as follows:
 
@@ -2388,7 +2336,7 @@ In the absence of a harmonised standard or normative document or common specific
 
   - (ii) in point 5, point 5.2 is replaced by the following:
 
-ANNEX VII GIP.B **LIMITE EN** ‘5.2. A random sample shall be taken from each lot according to the requirements of point 5.3. All measuring instruments in a sample shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) and/or normative document(s), and/or common specification(s), and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the type described in the EU-type examination certificate and with the applicable requirements of this Directive, and to determine whether the lot is accepted or rejected. In the absence of such harmonised standard or normative document or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
+‘5.2. A random sample shall be taken from each lot according to the requirements of point 5.3. All measuring instruments in a sample shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) and/or normative document(s), and/or common specification(s), and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the type described in the EU-type examination certificate and with the applicable requirements of this Directive, and to determine whether the lot is accepted or rejected. In the absence of such harmonised standard or normative document or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
 - (i) Module F1: CONFORMITY BASED ON PRODUCT VERIFICATION, is amended as follows:
 
@@ -2399,8 +2347,6 @@ ANNEX VII GIP.B **LIMITE EN** ‘5.2. A random sample shall be taken from each l
   - (ii) in point 6, point 6.3 is replaced by the following:
 
 ‘6.3. All measuring instruments in the sample shall be individually examined and appropriate tests set out in the relevant harmonised standards and/or normative documents, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the applicable requirements of this Directive and to determine whether the lot is accepted or rejected. In the absence of such harmonised standard, or normative document, or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
-
-ANNEX VII GIP.B **LIMITE EN**
 
 - (j) in Module G: CONFORMITY BASED ON UNIT VERIFICATION, point 4, the first subparagraph is replaced by the following:
 
@@ -2416,39 +2362,29 @@ ANNEX VII GIP.B **LIMITE EN**
 
 ‘(b) the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards, and/or normative documents, and/or common specifications will not be applied in full, the means that will be used to ensure that the essential requirements of this Directive that apply to the measuring instruments will be met applying other relevant technical specifications;’
 
-  - (iii) in point 3.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
 - (l) Module H1: CONFORMITY BASED ON FULL QUALITY ASSURANCE PLUS DESIGN EXAMINATION is amended as follows:
 
-ANNEX VII GIP.B **LIMITE EN**
-
-- (i) in point 3.1, point (a) is replaced by the following:
+  - (i) in point 3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-- (ii) in point 3.2., point (b) is replaced by the following:
+  - (ii) in point 3.2., point (b) is replaced by the following:
 
 ‘(b) the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards and/or normative documents, and/or common specifications will not be applied in full, the means that will be used to ensure that the essential requirements of this Directive that apply to the measuring instruments will be met, applying other relevant technical specifications;’
 
-- (iii) in point 3.3, first subparagraph, the second sentence is replaced by the following:
+  - (iv) point 4.2 is amended as follows:
 
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
-- (iv) point 4.2 is amended as follows:
-
-  - - point (a) is replaced by the following:
+    - - point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer;’
 
-  - - point (d) is replaced by the following:
+    - - point (d) is replaced by the following:
 
 ‘(d) the supporting evidence for the adequacy of the technical design. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards and/or normative documents, and/or common specifications have not been applied in full, and shall include, where necessary, the results of tests carried out in accordance with other relevant technical specifications, by the appropriate laboratory of the manufacturer, or by another testing laboratory on his behalf and under his responsibility.;’
 
-- (v) in point 4.3, first subparagraph, the second sentence is replaced by the following:
+  - (v) in point 4.3, first subparagraph, the second sentence is replaced by the following:
 
-ANNEX VII GIP.B **LIMITE EN** ‘That certificate shall give the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the data necessary for identification of the approved design.;’
+‘That certificate shall give the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the data necessary for identification of the approved design.;’
 
 - (2) Annex XIII is amended as follows:
 
@@ -2459,8 +2395,6 @@ ANNEX VII GIP.B **LIMITE EN** ‘That certificate shall give the name, postal ad
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or normative documents or common specifications used or references to the other technical specifications in relation to which conformity is declared:’.’
-
-ANNEX VII GIP.B **LIMITE EN**
 
 <a id="annex-viii"></a>
 ## Annex VIII
@@ -2489,31 +2423,27 @@ Annexes **II and** VI to XII to Directive 2014/33/EU are amended as follows:
 
       - (k) where appropriate, the name, postal address, digital contact and identification number of the notified body which approved the quality system operated by the manufacturer in accordance with the conformity assessment procedure set out in Annex VI or VII;’
 
-ANNEX VIII GIP.B **LIMITE EN**
+  - (b) Part B is amended as follows:
 
-- (b) Part B is amended as follows:
-
-  - (i) points (a) and (b) are replaced by the following:
+    - (i) points (a) and (b) are replaced by the following:
 
 ‘(a) business name, postal address and digital contact of the installer;
 
-    - (b) where appropriate, business name, postal address and digital contact of the authorised representative;’
+      - (b) where appropriate, business name, postal address and digital contact of the authorised representative;’
 
-  - (ii) **point** (g) is replaced by the following:
+    - (ii) **point** (g) is replaced by the following:
 
 ‘(g) where appropriate, reference(s) to harmonised standard(s) or common specifications used;’
 
-  - (iii) points (h) to (k) are replaced by the following:
+    - (iii) points (h) to (k) are replaced by the following:
 
 ‘(h) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the EU-type examination of lifts set out in Annex IV, Part B and the reference of the EU-type examination certificate issued by that notified body;
 
-    - (i) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the unit verification for lifts set out in Annex VIII;
+      - (i) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the unit verification for lifts set out in Annex VIII;
 
-    - (j) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the final inspection for lifts set out in Annex V;
+      - (j) where appropriate, the name, postal address, digital contact and identification number of the notified body which carried out the final inspection for lifts set out in Annex V;
 
-    - (k) where appropriate, the name, postal address, digital contact and identification number of the notified body which approved the quality assurance system operated by the installer in accordance with the conformity assessment procedure set out in Annex X, XI or XII;’;’
-
-ANNEX VIII GIP.B **LIMITE EN**
+      - (k) where appropriate, the name, postal address, digital contact and identification number of the notified body which approved the quality assurance system operated by the installer in accordance with the conformity assessment procedure set out in Annex X, XI or XII;’;’
 
 - (2) Annex IV is amended as follows:
 
@@ -2535,43 +2465,39 @@ ANNEX VIII GIP.B **LIMITE EN**
 
 ‘(c) verify that the representative specimen(s) has(have) been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
-ANNEX VIII GIP.B **LIMITE EN**
+      - (d) carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the specifications of the relevant harmonised standards or common specifications, these have been applied correctly;
 
-- (d) carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the specifications of the relevant harmonised standards or common specifications, these have been applied correctly;
+      - (e) carry out appropriate examinations and tests, or have them carried out, to check whether, where the specifications of the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications enable the safety component for lifts to meet the conditions referred to in point 1.;’
 
-- (e) carry out appropriate examinations and tests, or have them carried out, to check whether, where the specifications of the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications enable the safety component for lifts to meet the conditions referred to in point 1.;’
-
-- (v) in point 5, first subparagraph, the second sentence is replaced by the following:
+    - (v) in point 5, first subparagraph, the second sentence is replaced by the following:
 
 ‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the EU-type examination, any conditions of validity of the certificate and the particulars necessary to identify the approved type.;’
 
-- (b) Part B is amended as follows:
+  - (b) Part B is amended as follows:
 
-  - (i) in point 2, point (a) is replaced by the following:
+    - (i) in point 2, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the installer; and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-  - (ii) in point 2(e), the second sentence is replaced by the following:
+    - (ii) in point 2(e), the second sentence is replaced by the following:
 
 ‘This supporting evidence shall mention any documents, including other relevant technical specifications that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full.;’
 
-  - (iii) in point 3, point (e) is replaced by the following:
+    - (iii) in point 3, point (e) is replaced by the following:
 
-ANNEX VIII GIP.B **LIMITE EN** ‘(e) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of the Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
+‘(e) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of the Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
 
-- (iv) in point 4, points (c), (d) and (e) are replaced by the following:
+    - (iv) in point 4, points (c), (d) and (e) are replaced by the following:
 
 ‘(c) examine the specimen lift to check that it has been manufactured in accordance with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
-  - (d) carry out appropriate examinations and tests, or have them carried out, to check whether, where the installer has chosen to apply the specifications of the relevant harmonised standards or common specifications, these have been applied correctly;
+      - (d) carry out appropriate examinations and tests, or have them carried out, to check whether, where the installer has chosen to apply the specifications of the relevant harmonised standards or common specifications, these have been applied correctly;
 
-  - (e) carry out appropriate examinations and tests, or have them carried out, to check whether, where the specifications of the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the installer applying other relevant technical specifications meet the corresponding essential health and safety requirements of this Directive.;’
+      - (e) carry out appropriate examinations and tests, or have them carried out, to check whether, where the specifications of the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the installer applying other relevant technical specifications meet the corresponding essential health and safety requirements of this Directive.;’
 
-- (v) in point 6, first subparagraph, the second sentence is replaced by the following:
+    - (v) in point 6, first subparagraph, the second sentence is replaced by the following:
 
 ‘That certificate shall contain the name, postal address and digital contact of the installer, the conclusions of the EU-type examination, any conditions of validity of the certificate and the particulars necessary to identify the approved type.;’
-
-ANNEX VIII GIP.B **LIMITE EN**
 
 - (3) Annex V is amended as follows:
 
@@ -2593,16 +2519,6 @@ ANNEX VIII GIP.B **LIMITE EN**
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
 
-  - (b) in point 3.2., first subparagraph, the first sentence is replaced by the following:
-
-‘Under the quality system, each safety component for lifts shall be inspected and appropriate tests as set out in the relevant harmonised standards or common specifications, or equivalent tests shall be carried out in order to ensure that it meets the conditions referred to in point 1.;’
-
-ANNEX VIII GIP.B **LIMITE EN**
-
-- (c) in point 3.3., first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality systems that comply with the corresponding specifications of the relevant harmonised standard or common specifications.;’
-
 - (5) Annex VII is amended as follows:
 
   - (a) in point 3.1, point (a) is replaced by the following:
@@ -2613,10 +2529,6 @@ ANNEX VIII GIP.B **LIMITE EN**
 
 ‘(b) the technical design specifications, including standards that will be applied and, where the relevant harmonised standards or common specifications will not be applied or not applied in full, the means, including other relevant technical specifications, that will be used to ensure that the conditions referred to in point 1 will be met;’
 
-  - (c) in point 3.3, first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality systems that comply with the corresponding specifications of the relevant harmonised standard or common specifications.;’
-
 - (6) Annex VIII is amended as follows:
 
   - (a) in point 2.2, point (a) is replaced by the following:
@@ -2625,9 +2537,9 @@ ANNEX VIII GIP.B **LIMITE EN**
 
     - (d) in point 3, point (e) is replaced by the following:
 
-ANNEX VIII GIP.B **LIMITE EN** ‘(e) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of the Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
+‘(e) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of the Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied;’
 
-- (c) in point 4, first subparagraph, the first sentence is replaced by the following:
+  - (c) in point 4, first subparagraph, the first sentence is replaced by the following:
 
 ‘The notified body chosen by the installer shall examine the technical documentation and the lift and carry out the appropriate tests as set out in the relevant harmonised standard(s) or common specification(s), or equivalent tests, to check its conformity with the applicable essential health and safety requirements set out in Annex I.;’
 
@@ -2641,21 +2553,11 @@ ANNEX VIII GIP.B **LIMITE EN** ‘(e) a list of the harmonised standards applied
 
 ‘An adequate sample of the final safety components for lifts, taken on site by the notified body, shall be examined and appropriate tests set out in the relevant harmonised standards, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out to check whether the safety components for lifts meets the conditions referred to in point 1.;’
 
-ANNEX VIII GIP.B **LIMITE EN**
-
 - (8) Annex X is amended as follows:
 
   - (a) in point 3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the installer, and if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
-
-  - (b) in point 3.2, the first subparagraph is replaced by the following:
-
-‘Under the quality system, each lift shall be examined and appropriate tests as set out in the relevant harmonised standards or common specifications, or equivalent tests shall be carried out in order to ensure its conformity with the applicable essential health and safety requirements set out in Annex I.;’
-
-  - (c) in point 3.3, first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality systems that comply with the corresponding specifications of the relevant harmonised standard or common specifications.;’
 
 - (9) Annex XI is amended as follows:
 
@@ -2667,27 +2569,15 @@ ANNEX VIII GIP.B **LIMITE EN**
 
 ‘(b) the technical design specifications, including standards that will be applied and, where the relevant harmonised standards or common specifications will not be applied in full, the means, including other relevant technical specifications that will be used to ensure that the applicable essential health and safety requirements set out in Annex I will be met;’
 
-ANNEX VIII GIP.B **LIMITE EN**
-
-- (c) in point 3.3, point 3.3.1 is replaced by the following:
+  - (c) in point 3.3, point 3.3.1 is replaced by the following:
 
 ‘3.3.1. When the design is not entirely in accordance with harmonised standards or common specifications, the notified body shall ascertain whether the design conforms to the essential health and safety requirements set out in Annex I and, if it does, issue an EU design examination certificate to the installer, stating the limits of the certificate’s validity and giving the details required for identification of the approved design.;’
-
-- (d) in point 3.4, first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality systems that comply with the corresponding specifications of the relevant harmonised standard or common specifications.;’
 
 - (10) Annex XII is amended as follows:
 
   - (a) in point 3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the installer, and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;’
-
-  - (b) in point 3.3, first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification..’
-
-ANNEX VIII GIP.B **LIMITE EN**
 
 <a id="annex-ix"></a>
 ## Annex IX
@@ -2712,11 +2602,11 @@ Annexes II to V and VII to X to Directive 2014/34/EU are amended as follows:
 
 ‘4.1. examine the technical documentation, verify that the specimen(s) have been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
-ANNEX IX GIP.B **LIMITE EN** 4.2. carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards or common specifications, these have been applied correctly;
+4.2. carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards or common specifications, these have been applied correctly;
 
 4.3. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential health and safety requirements of this Directive;’
 
-- (d) in point 6, first subparagraph, the second sentence is replaced by the following:
+  - (d) in point 6, first subparagraph, the second sentence is replaced by the following:
 
 ‘That certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
 
@@ -2726,25 +2616,17 @@ ANNEX IX GIP.B **LIMITE EN** 4.2. carry out appropriate examinations and tests, 
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
 
-  - (b) in point 3.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
 - (4) in Annex V, point 4, point 4.1 is replaced by the following:
 
 ‘4.1. All products shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) and/or common specification(s) and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify conformity with the approved type described in the EU-type examination certificate and with the appropriate requirements of this Directive.
 
-ANNEX IX GIP.B **LIMITE EN** In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
+In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
 - (5) Annex VII is amended as follows:
 
   - (a) in point 3.1, point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
-
-  - (b) in point 3.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
 - (6) in Annex VIII, point 2, point (d) is replaced by the following:
 
@@ -2754,9 +2636,9 @@ ANNEX IX GIP.B **LIMITE EN** In the absence of such a harmonised standard or com
 
   - (a) in point 2.1, point (d) is replaced by the following:
 
-ANNEX IX GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of this Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
+‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union or common specifications and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential health and safety requirements of this Directive, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-- (b) in point 4, the first subparagraph is replaced by the following:
+  - (b) in point 4, the first subparagraph is replaced by the following:
 
 ‘A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant harmonised standards and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, to check the conformity of the product with the applicable requirements of this Directive, or have them carried out. In the absence of such a harmonised standard or common specification the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
@@ -2769,8 +2651,6 @@ ANNEX IX GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied i
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:.’
-
-ANNEX IX GIP.B **LIMITE EN**
 
 <a id="annex-x"></a>
 ## Annex X
@@ -2790,8 +2670,6 @@ Annexes III and IV to Directive 2014/35/EU are amended as follows:
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:.’
-
-ANNEX X GIP.B **LIMITE EN**
 
 <a id="annex-xi"></a>
 ## Annex XI
@@ -2822,8 +2700,6 @@ Annexes Ia, and III to VII to Directive 2014/53/EU are amended as follows:
 
 ‘Each notified body shall inform the Member States of EU-type examination certificates it has issued and/or additions thereto in those cases where harmonised standards the references of which have been published in the Official Journal of the European Union or common specifications have not been applied or not been fully applied.;’
 
-ANNEX XI GIP.B **LIMITE EN**
-
 - (3) Annex IV is amended as follows:
 
   - (a) in point 3.1, point (a) is replaced by the following:
@@ -2833,10 +2709,6 @@ ANNEX XI GIP.B **LIMITE EN**
   - (b) in point 3.2, point (b) is replaced by the following:
 
 ‘(b) the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards or common specifications will not be applied in full, the means that will be used to ensure that the essential requirements of this Directive that apply to the radio equipment will be met;’
-
-  - (c) in point 3.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
 - (4) in Annex V, point (d) is replaced by the following:
 
@@ -2848,15 +2720,11 @@ ANNEX XI GIP.B **LIMITE EN**
 
 ‘2. Name, postal address and digital contact of the manufacturer or his authorised representative:;’
 
-ANNEX XI GIP.B **LIMITE EN**
-
-- (b) in point 6, the first sentence is replaced by the following:
+  - (b) in point 6, the first sentence is replaced by the following:
 
 ‘References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared.;’
 
 - (6) Annex VII is deleted.
-
-ANNEX XI GIP.B **LIMITE EN**
 
 <a id="annex-xii"></a>
 ## Annex XII
@@ -2883,8 +2751,6 @@ Annexes I, III and IV to Directive 2014/68/EU are amended as follows:
 
 ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and a description of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-ANNEX XII GIP.B **LIMITE EN**
-
 - (b) in Part 2: Module A2: INTERNAL PRODUCTION CONTROL PLUS SUPERVISED PRESSURE EQUIPMENT CHECKS AT RANDOM INTERVALS, point 2, the fourth indent is replaced by the following:
 
 ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
@@ -2903,13 +2769,13 @@ ANNEX XII GIP.B **LIMITE EN**
 
     - - in the fourth subparagraph, only indent, the second sentence is replaced by the following:
 
-ANNEX XII GIP.B **LIMITE EN** ‘This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full.;’
+‘This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full.;’
 
-- (ii) in point 4.1, second subparagraph, the first indent is replaced by the following:
+  - (ii) in point 4.1, second subparagraph, the first indent is replaced by the following:
 
 ‘— assess the materials where these are not in conformity with the relevant harmonised standards or common specifications or with a European approval for pressure equipment materials, and check the certificate issued by the material manufacturer in accordance with point 4.3 of Annex I,;’
 
-- (iii) points 4.2., 4.3. and 4.4. are replaced by the following:
+  - (iii) points 4.2., 4.3. and 4.4. are replaced by the following:
 
 ‘4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications as well as the elements which have been designed using other relevant technical specifications without applying the relevant provisions of those standards.
 
@@ -2917,39 +2783,35 @@ ANNEX XII GIP.B **LIMITE EN** ‘This supporting evidence shall mention any docu
 
 4.4. carry out appropriate examinations and necessary tests to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential safety requirements of this Directive.;’
 
-- (iv) in point 6, first subparagraph, the second sentence is replaced by the following:
+  - (iv) in point 6, first subparagraph, the second sentence is replaced by the following:
 
 ‘Without prejudice to point 7, the certificate shall be valid for 10 years and be renewable and shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.;’
 
-- (v) in point 3.2. EU-Type examination – design type, point 3 is amended as follows:
+  - (v) in point 3.2. EU-Type examination – design type, point 3 is amended as follows:
 
-ANNEX XII GIP.B **LIMITE EN**
-
-- - in the second subparagraph, the first indent is replaced by the following:
+    - - in the second subparagraph, the first indent is replaced by the following:
 
 ‘— the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
 
-- - in the second subparagraph, third indent, the fourth subindent is replaced by the following:
+  - - in the second subparagraph, third indent, the fourth subindent is replaced by the following:
 
 ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-- - in the second subparagraph, fourth indent, the second sentence is replaced by the following:
+  - - in the second subparagraph, fourth indent, the second sentence is replaced by the following:
 
 ‘This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full.;’
 
-- (vi) in point 4.1., second subparagraph, the first indent is replaced by the following:
+  - (vi) in point 4.1., second subparagraph, the first indent is replaced by the following:
 
 ‘— assess the materials where these are not in conformity with the relevant harmonised standards or common specifications or with a European approval for pressure equipment materials,;’
 
-- (vii) points 4.2. and 4.3. are replaced by the following:
+  - (vii) points 4.2. and 4.3. are replaced by the following:
 
 ‘4.2. carry out appropriate examinations to check whether where the manufacturer has chosen to apply the solutions in the relevant harmonised standards or common specifications these have been applied correctly.
 
-4.3. carry out appropriate examinations to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the
+4.3. carry out appropriate examinations to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer meet the corresponding essential safety requirements of this Directive.;’
 
-ANNEX XII GIP.B **LIMITE EN** solutions adopted by the manufacturer meet the corresponding essential safety requirements of this Directive.;’
-
-- (viii) in point 6, first subparagraph, the second sentence is replaced by the following:
+  - (viii) in point 6, first subparagraph, the second sentence is replaced by the following:
 
 ‘Without prejudice to point 7, the certificate shall be valid for 10 years and be renewable and shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved design.;’
 
@@ -2963,37 +2825,21 @@ ANNEX XII GIP.B **LIMITE EN** solutions adopted by the manufacturer meet the cor
 
 ‘- the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
 
-  - (ii) in point 3.3., the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
 - (f) Part 6: MODULE D1: QUALITY ASSURANCE OF THE PRODUCTION PROCESS is amended as follows:
 
-ANNEX XII GIP.B **LIMITE EN**
-
-- (i) in point 2, first subparagraph, the fourth indent is replaced by the following:
+  - (i) in point 2, first subparagraph, the fourth indent is replaced by the following:
 
 ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-- (ii) in point 5.1, second subparagraph, the first indent is replaced by the following:
+  - (ii) in point 5.1, second subparagraph, the first indent is replaced by the following:
 
 ‘— the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
-
-- (iii) in point 5.3, first subparagraph, the second sentence is replaced by the following:
-
-‘The elements of the quality system which conform to the relevant harmonised standard or common specification are presumed to comply with the corresponding requirements referred to in point 5.2.;’
 
 - (g) Part 7: MODULE E: CONFORMITY TO TYPE BASED ON PRESSURE EQUIPMENT QUALITY ASSURANCE is amended as follows:
 
   - (i) in point 3.1, second subparagraph, the first indent is replaced by the following:
 
 ‘— the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
-
-  - (ii) in point 3.3, first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
-ANNEX XII GIP.B **LIMITE EN**
 
 - (h) Part 8: MODULE E1: QUALITY ASSURANCE OF FINAL PRESSURE EQUIPMENT INSPECTION AND TESTING is amended as follows:
 
@@ -3005,15 +2851,9 @@ ANNEX XII GIP.B **LIMITE EN**
 
 ‘— the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
 
-  - (iii) in point 5.3, the second subparagraph is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
 - (i) in Part 9: MODULE F: CONFORMITY TO TYPE BASED ON PRESSURE EQUIPMENT VERIFICATION, point 4.1., the first subparagraph is replaced by the following:
 
 ‘All pressure equipment shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) or common specifications or equivalent tests shall be carried out in order to verify conformity with the approved type and described in the EU-type examination certificate and with the appropriate requirements of this Directive. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
-
-ANNEX XII GIP.B **LIMITE EN**
 
 - (j) Part 10: MODULE G: CONFORMITY BASED ON UNIT VERIFICATION is amended as follows:
 
@@ -3035,19 +2875,13 @@ ANNEX XII GIP.B **LIMITE EN**
 
 ‘— the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well,;’
 
-ANNEX XII GIP.B **LIMITE EN**
-
-- (ii) in point 3.1, second subparagraph, second indent, the fourth subindent is replaced by the following:
+  - (ii) in point 3.1, second subparagraph, second indent, the fourth subindent is replaced by the following:
 
 ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-- (iii) in point 3.2, third subparagraph, the second indent is replaced by the following:
+  - (iii) in point 3.2, third subparagraph, the second indent is replaced by the following:
 
 ‘— the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards or common specifications will not be applied in full, the means that will be used to ensure that the essential requirements of this Directive that apply to the pressure equipment will be met,;’
-
-- (iv) in point 3.3, first subparagraph, the second sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
 - (l) Part 12: MODULE H1: CONFORMITY BASED ON FULL QUALITY ASSURANCE PLUS DESIGN EXAMINATION is amended as follows:
 
@@ -3057,29 +2891,25 @@ ANNEX XII GIP.B **LIMITE EN**
 
   - (ii) in point 3.1, second subparagraph, second indent, the fourth subindent is replaced by the following:
 
-ANNEX XII GIP.B **LIMITE EN** ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
+‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-- (iii) in point 3.2, third subparagraph, the second indent is replaced by the following:
+  - (iii) in point 3.2, third subparagraph, the second indent is replaced by the following:
 
 ‘— the technical design specifications, including standards, that will be applied and, where relevant harmonised standards or common specifications will not be applied in full, the means that will be used to ensure that the essential safety requirements of the Directive that apply to the pressure equipment will be met,;’
 
-- (iv) in point 3.3, second subparagraph, the first sentence is replaced by the following:
-
-‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
-
-- (v) in point 4.2, the first indent is replaced by the following:
+  - (v) in point 4.2, the first indent is replaced by the following:
 
 ‘— the name, postal address and digital contact of the manufacturer,;’
 
-- (vi) in point 4.2, third indent, the fourth subindent is replaced by the following:
+  - (vi) in point 4.2, third indent, the fourth subindent is replaced by the following:
 
 ‘— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, or common specifications, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive, where those harmonised standards or common specifications have not been applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied,;’
 
-- (vii) in point 4.2, the fourth indent is replaced by the following:
+  - (vii) in point 4.2, the fourth indent is replaced by the following:
 
-ANNEX XII GIP.B **LIMITE EN** ‘— the supporting evidence for the adequacy of the technical design. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full, and shall include, where necessary, the results of tests carried out by the appropriate laboratory of the manufacturer or by another testing laboratory on his behalf and under his responsibility.;’
+‘— the supporting evidence for the adequacy of the technical design. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards or common specifications have not been applied in full, and shall include, where necessary, the results of tests carried out by the appropriate laboratory of the manufacturer or by another testing laboratory on his behalf and under his responsibility.;’
 
-- (viii) in point 4.3, first subparagraph, the second sentence is replaced by the following:
+  - (viii) in point 4.3, first subparagraph, the second sentence is replaced by the following:
 
 ‘The certificate shall give the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the data necessary for identification of the approved design.;’
 
@@ -3096,8 +2926,6 @@ ANNEX XII GIP.B **LIMITE EN** ‘— the supporting evidence for the adequacy of
   - (c) point 7 is replaced by the following:
 
 ‘7. Where appropriate, the name, postal address, digital contact and number of the notified body which carried out the conformity assessment and the number of the certificate issued, and a reference to the EU-type examination certificate – production type, EU-type examination certificate – design type, EU design examination certificate or certificate of conformity..’
-
-ANNEX XII GIP.B **LIMITE EN**
 
 <a id="annex-xiii"></a>
 ## Annex XIII
@@ -3121,8 +2949,6 @@ Annex II to Directive 2014/90/EU is amended as follows:
 - (3) in Part III: Module E: CONFORMITY TO TYPE BASED ON PRODUCT QUALITY ASSURANCE, point 3.1, second subparagraph, the first indent is replaced by the following:
 
 ‘- the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, its name, postal address and digital contact as well.’
-
-ANNEX XIII GIP.B **LIMITE EN**
 
 ## Notes
 

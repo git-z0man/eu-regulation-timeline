@@ -68,7 +68,7 @@
   {
     "name": "forecast-space-act",
     "title": "Forecast: EU Space Act",
-    "note": "Step by step; Official Journal median Jun 2028.",
+    "note": "Step by step; Official Journal median Jul 2028.",
     "page": "space-act.html"
   },
   {
@@ -84,16 +84,16 @@
     "page": "cloud-ai-development-act.html"
   },
   {
-    "name": "forecast-public-procurement-act",
-    "title": "Forecast: Public Procurement Act",
-    "note": "Step by step; Official Journal median Oct 2028.",
-    "page": "public-procurement-act.html"
-  },
-  {
     "name": "forecast-chips-act-2",
     "title": "Forecast: Chips Act 2.0",
     "note": "Step by step; Official Journal median Oct 2028.",
     "page": "chips-act-2.html"
+  },
+  {
+    "name": "forecast-public-procurement-act",
+    "title": "Forecast: Public Procurement Act",
+    "note": "Step by step; Official Journal median Nov 2028.",
+    "page": "public-procurement-act.html"
   },
   {
     "name": "method-criteria",

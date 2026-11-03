@@ -1,6 +1,6 @@
 ---
 act: nis2-amendment
-version: 2026-09-24_ep-draft-report-pe792-221
+version: 2026-09-22_ep-draft-report-pe792-221
 stage: ep-draft-report
 language: de
 document: PE792.221

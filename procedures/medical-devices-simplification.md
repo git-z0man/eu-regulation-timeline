@@ -1,14 +1,14 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 30 Oct 2026.
+Procedure 2025/0404(COD), as of 3 Nov 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 30 Jun 2026
-- **Council:** working party, latest document 20 Oct 2026
-- **Latest activity:** 27 Oct 2026 · Council: Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by … (CM 4464/26 REV 2)
+- **Council:** working party, latest document 30 Oct 2026
+- **Latest activity:** 30 Oct 2026 · Council: Presidency Flash for the meeting of the attachés of the Working Party on Pharmaceuticals … (WK 16611/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -42,6 +42,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-18 | [ST 16919/25](https://data.consilium.europa.eu/doc/document/ST-16919-2025-INIT/en/pdf) | council-note | Vorschlag für eine VERORDNUNG DES EUROPÄISCHEN parlaments und des rates zur Änderung der Verordnungen (EU) 2017/745 und (EU) 2017/746 zwecks Vereinfachung der … | public | – | – |
 | 2026-01-07 | [WK 74/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/52571) | council-note | Consolidated version of proposed amendments to the MDR Regulation (Articles) | not public\* | – | – |
 | 2026-01-07 | [WK 79/26](https://data.consilium.europa.eu/doc/document/WK-79-2026-INIT/en/pdf) | council-note | Consolidated version of proposed amendments to the IVDR Regulation (Articles) | public | – | – |
 | 2026-01-12 | [WK 341/26](https://data.consilium.europa.eu/doc/document/WK-341-2026-INIT/en/pdf) | council-note | Flash from the Presidency for the Working Party on Pharmaceuticals and Medical Devices on 14 January 2026 | public | – | – |
@@ -52,7 +53,6 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-03-12 | [WK 3870/26](https://data.consilium.europa.eu/doc/document/WK-3870-2026-INIT/en/pdf) | council-note | Planning and sequence of topics for the examination of the proposal | public | – | – |
 | 2026-03-12 | [WK 3916/26](https://data.consilium.europa.eu/doc/document/WK-3916-2026-INIT/en/pdf) | council-note | Presentation by the Commission | public | – | – |
 | 2026-03-13 | [ST 7161/26](https://data.consilium.europa.eu/doc/document/ST-7161-2026-INIT/en/pdf) | council-note | cluster 1 | public | – | – |
-| 2026-03-18 | [ST 16919/25](https://data.consilium.europa.eu/doc/document/ST-16919-2025-INIT/en/pdf) | council-note | Vorschlag für eine VERORDNUNG DES EUROPÄISCHEN parlaments und des rates zur Änderung der Verordnungen (EU) 2017/745 und (EU) 2017/746 zwecks Vereinfachung der … | public | – | – |
 | 2026-03-19 | [WK 4250/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/64389) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-03-23 | [WK 4453/26](https://data.consilium.europa.eu/doc/document/WK-4453-2026-INIT/en/pdf) | council-note | Commission presentation | public | – | – |
 | 2026-03-30 | [ST 7252/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/65959) | council-note | cluster 2 | not public\* | – | – |
@@ -79,8 +79,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-05-28 | [WK 7594/26](https://data.consilium.europa.eu/doc/document/WK-7594-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 5 - Placing on the market and market surveillance | public | 2026-10-23 | – |
 | 2026-05-29 | WK 7668/26 | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
 | 2026-06-03 | [WK 7872/26](https://data.consilium.europa.eu/doc/document/WK-7872-2026-INIT/en/pdf) | council-note | Regulation to simplify rules on medical and in vitro diagnostic devices - Commission presentation on cluster 6 - Interplay with the AI Act, dedicated … | public | – | – |
+| 2026-06-05 | [ST 9801/26](https://data.consilium.europa.eu/doc/document/ST-9801-2026-INIT/en/pdf) | council-note | Verordnung zur Vereinfachung der Vorschriften über Medizinprodukte und In-vitro-Diagnostika – Fortschrittsbericht | public | – | – |
 | 2026-06-10 | [WK 8221/26](https://data.consilium.europa.eu/doc/document/WK-8221-2026-INIT/en/pdf) | council-note | Comments from Member States on cluster 4 | public | PDF replaced 2026-10-27 | – |
-| 2026-06-12 | [ST 9801/26](https://data.consilium.europa.eu/doc/document/ST-9801-2026-INIT/en/pdf) | council-note | Verordnung zur Vereinfachung der Vorschriften über Medizinprodukte und In-vitro-Diagnostika – Fortschrittsbericht | public | – | – |
 | 2026-06-19 | [ST 10284/26](https://data.consilium.europa.eu/doc/document/ST-10284-2026-INIT/en/pdf) | council-note | Exchange of views | public | – | – |
 | 2026-06-19 | [ST 10876/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/78865) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian Senate | not public\* | – | – |
 | 2026-06-19 | [WK 8980/26](https://data.consilium.europa.eu/doc/document/WK-8980-2026-INIT/en/pdf) | council-note | Comments from Austria and other Member States on cluster 5 | public | PDF replaced 2026-10-27 | – |
@@ -115,8 +115,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-16 | [ST 13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) | council-note | Exchange of views | not public\* | – | – |
 | 2026-10-16 | ST 13649/26 ADD 1 | council-note | Exchange of views | not public\* | – | – |
 | 2026-10-20 | [WK 16194/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99013) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the Presidency | not public\* | – | – |
+| 2026-10-30 | [WK 16611/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100829) | council-note | Presidency Flash for the meeting of the attachés of the Working Party on Pharmaceuticals and Medical Devices on 4 November 2026 | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-30.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-03.
 
 ## Texts as Markdown
 

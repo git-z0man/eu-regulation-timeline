@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-02",
+ "as_of": "2026-11-03",
  "views": [
   {
    "key": "all",
@@ -16,6 +16,12 @@
      "act": "Ecodesign for Sustainable Products Regulation",
      "text": "Ecodesign Forum: Ecodesign Forum",
      "url": "procedures/committee-e03969.html"
+    },
+    {
+     "date": "2026-11-09",
+     "act": "Artificial Intelligence Act",
+     "text": "Feedback closes: Draft implementing regulation, Articles 75c – 75d AI Act Implementing Act",
+     "url": "acts/ai-act.html"
     }
    ],
    "recap": [
@@ -26,40 +32,53 @@
      "url": "procedures/space-act.html"
     },
     {
+     "date": "2026-10-30",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency fourth compromise text regarding Title III (European Cybersecurity … (not public)",
+     "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-10-30",
+     "act": "Cloud and AI Development Act",
+     "text": "Council: Presidency compromise text (not public)",
+     "url": "procedures/cloud-ai-development-act.html"
+    },
+    {
      "date": "2026-10-29",
      "act": "EU Space Act",
      "text": "Council: Revised Presidency compromise text (not public)",
      "url": "procedures/space-act.html"
     },
     {
-     "date": "2026-10-30",
+     "date": "2026-11-03",
      "act": "Cyber Resilience Act",
-     "text": "Standardisation: EN 304 624: Approval Stage – Closing of approval procedure",
+     "text": "4 standardisation projects moved on, e.g. EN 40000-1-2:2026: Approved",
      "url": "acts/cra.html#standardisation"
-    },
-    {
-     "date": "2026-10-30",
-     "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-2: Under Approval",
-     "url": "acts/ai-act.html#standardisation"
-    },
-    {
-     "date": "2026-10-27",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 4 documents listed as not public",
-     "url": "procedures/csa2.html"
     }
    ]
   },
   {
    "key": "cybersecurity",
    "label": "Cybersecurity",
-   "ahead": [],
+   "ahead": [
+    {
+     "date": "2026-11-09",
+     "act": "Artificial Intelligence Act",
+     "text": "Feedback closes: Draft implementing regulation, Articles 75c – 75d AI Act Implementing Act",
+     "url": "acts/ai-act.html"
+    }
+   ],
    "recap": [
     {
      "date": "2026-10-30",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency fourth compromise text regarding Title III (European Cybersecurity … (not public)",
+     "url": "procedures/csa2.html"
+    },
+    {
+     "date": "2026-11-03",
      "act": "Cyber Resilience Act",
-     "text": "Standardisation: EN 304 624: Approval Stage – Closing of approval procedure",
+     "text": "4 standardisation projects moved on, e.g. EN 40000-1-2:2026: Approved",
      "url": "acts/cra.html#standardisation"
     },
     {
@@ -71,20 +90,14 @@
     {
      "date": "2026-10-27",
      "act": "Cybersecurity Act 2",
-     "text": "Council released 4 documents listed as not public",
+     "text": "Council released 1 document listed as not public",
      "url": "procedures/csa2.html"
     },
     {
-     "date": "2026-10-26",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26)",
-     "url": "procedures/csa2.html"
-    },
-    {
-     "date": "2026-10-28",
-     "act": "Artificial Intelligence Act",
-     "text": "2 new meetings or documents of committees and expert groups",
-     "url": "acts/ai-act.html#committees"
+     "date": "2026-10-30",
+     "act": "Digital Omnibus",
+     "text": "Council released 1 document listed as not public",
+     "url": "procedures/digital-omnibus.html"
     }
    ]
   }

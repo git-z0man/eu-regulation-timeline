@@ -60,7 +60,7 @@ Tasks:
 | Bulgaria | Ministry of Electronic Governance | Member |
 | Croatia | Ministry of Justice, Public Administration and Digital Transformation | Member |
 | Cyprus | Ministry of Research Innovation and Digital Policy | Member |
-| Czech Republic | Ministry of Industry and Trade; Office of the Government of the Czech Republic | Member |
+| Czech Republic | Office of the Government of the Czech Republic; Ministry of Industry and Trade | Member |
 | Denmark | Agency for Digital Government | Member |
 | Estonia | Estonian Ministry of Economic Affairs and Communications | Member |
 | Finland | Ministry of Transport and Communications | Member |
@@ -69,7 +69,7 @@ Tasks:
 | Greece | Ministry of Digital Governance; High-Level Advisory Committee for Artificial Intelligence (AI) | Member |
 | Hungary | Ministry for National Economy | Member |
 | Ireland | Ministry of Enterprise, Trade and Employment | Member |
-| Italy | Agenzia per l'Italia Digitale; Agenzia per la cybersicurezza nazionale | Member |
+| Italy | Agenzia per la cybersicurezza nazionale; Agenzia per l'Italia Digitale | Member |
 | Latvia | Ministry of Environmental Protection and Regional Development | Member |
 | Lithuania | Ministry of the Economy and Innovation of the Republic of Lithuania | Member |
 | Luxembourg | Ministry for Digitalisation | Member |

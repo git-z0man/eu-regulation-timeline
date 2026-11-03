@@ -31,7 +31,7 @@ Drawing: [nzia.svg](nzia.svg), [nzia.pdf](nzia.pdf) · Web page: [nzia.html](nzi
 | 2023-11-21 | European Parliament | Plenary adopts amendments (mandate for trilogues) | [P9_TA(2023)0401](https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0401/TA-9-2023-0401-FNL_en.pdf) | EP Open Data API, procedure 2023-0081 (PLENARY_AMEND) |
 | 2023-11-30 | Council | Regulation on establishing a framework of measures for strengthening Europe’s net-zero … | [ST 16056/23](https://data.consilium.europa.eu/doc/document/ST-16056-2023-INIT/en/pdf) | Cellar procedure file 2023/81 (Council register) |
 | 2024-01-15 | Council | 4-column document | [ST 5334/24](https://data.consilium.europa.eu/doc/document/ST-5334-2024-INIT/en/pdf) | Cellar procedure file 2023/81 (Council register) |
-| 2024-02-07 | Council | Analysis of the final compromise text with a view to agreement | [ST 6266/24](https://data.consilium.europa.eu/doc/document/ST-6266-2024-INIT/en/pdf) | Cellar procedure file 2023/81 (Council register) |
+| 2024-02-12 | Council | Analysis of the final compromise text with a view to agreement | [ST 6266/24](https://data.consilium.europa.eu/doc/document/ST-6266-2024-INIT/en/pdf) | Cellar procedure file 2023/81 (Council register) |
 | 2024-02-15 | Council | Analysis of the final compromise text with a view to agreement | [ST 6266/24 COR 1](https://data.consilium.europa.eu/doc/document/ST-6266-2024-COR-1/en/pdf) | Cellar procedure file 2023/81 (Council register) |
 | 2024-02-22 | European Parliament | Committee approves provisional agreement | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0081%28COD%29) | EP Open Data API, procedure 2023-0081 (COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT) |
 | 2024-04-25 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P9_TA(2024)0378](https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0378_en.pdf) | EP Open Data API, procedure 2023-0081 (PLENARY_AMEND_PROPOSAL) |
@@ -79,7 +79,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-12-07 | [ST 16056/23 ADD 4](https://data.consilium.europa.eu/doc/document/ST-16056-2023-ADD-4/en/pdf) | council-position | General approach - Statement by the Federal Republic of Germany | public | – | – |
 | 2023-12-07 | ST 16521/23 | council-note | Outcome of proceedings | public status unknown | – | – |
 | 2024-01-15 | [ST 5334/24](https://data.consilium.europa.eu/doc/document/ST-5334-2024-INIT/en/pdf) | trilogue | 4-column document | public | – | – |
-| 2024-02-07 | [ST 6266/24](https://data.consilium.europa.eu/doc/document/ST-6266-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
+| 2024-02-12 | [ST 6266/24](https://data.consilium.europa.eu/doc/document/ST-6266-2024-INIT/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
 | 2024-02-15 | [ST 6266/24 COR 1](https://data.consilium.europa.eu/doc/document/ST-6266-2024-COR-1/en/pdf) | agreed-text | Analysis of the final compromise text with a view to agreement | public | – | – |
 | 2024-02-16 | ST 6266/24 ADD 1 | agreed-text | Analysis of the final compromise text with a view to agreement - Statement by Austria | not public\* | – | – |
 | 2024-02-16 | ST 6269/24 | council-note | Letter to the Chair of the ITRE Committee of the European Parliament | public status unknown | – | – |
@@ -94,7 +94,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2024-05-28 | ST 10388/24 | council-note | Voting result Regulation of the European Parliament and of the Council on establishing a framework of measures for strengthening Europe’s net-zero technology … | public status unknown | – | – |
 | 2024-06-14 | PE 45/24 REV 1 | council-note | Regulation of the European Parliament and of the Council on establishing a framework of measures for strengthening europe’s net-zero technology manufacturing … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-30.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-03.
 
 ## Texts as Markdown
 

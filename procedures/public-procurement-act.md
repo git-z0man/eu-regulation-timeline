@@ -1,6 +1,6 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 30 Oct 2026.
+Procedure 2026/0265(COD), as of 3 Nov 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
 - **Council:** working party, latest document 29 Oct 2026
-- **Latest activity:** 29 Oct 2026 · Council: Proposal for a Regulation of the European Parliament and of the Council on public … (WK 16826/26)
+- **Latest activity:** 30 Oct 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … (CM 4602/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -18,6 +18,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 | 2026-09-09 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) · [en.md](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) [de.md](../texts/public-procurement-act/2026-09-09_com-proposal.de.md) | Cellar (CELEX 52026PC0590) |
 | 2026-09-18 | Council | Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of … | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) | Council register, CM 4104/26 (notice of meeting and provisional agenda) |
 | 2026-10-02 | Council | Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) | Council register, CM 4305/26 (notice of meeting and provisional agenda) |
+| 2026-10-30 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) | Council register, CM 4602/26 (notice of meeting and provisional agenda) |
 
 ## Documents
 
@@ -40,10 +41,12 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15261/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95006) | council-note | The Digital Ecosystem in the Proposal for Public Procurement Act - Presentation by the Commission at the meeting of the Working Party on Competitiveness and … | not public\* | – | – |
 | 2026-10-09 | [WK 14963/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95971) | council-note | Comments from Member States | not public\* | – | – |
 | 2026-10-19 | [WK 16163/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98767) | council-note | Correlation between articles and recitals | not public\* | – | – |
-| 2026-10-23 | [WK 16561/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99701) | council-note | Presidency Flash for the Working Party Meeting on Competitiveness and Growth (Public Procurement) on 29 and 30 October 2026 | not public\* | – | – |
-| 2026-10-29 | [WK 16826/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100622) | council-note | Proposal for a Regulation of the European Parliament and of the Council on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and … | not public\* | – | – |
+| 2026-10-23 | [WK 16561/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99701) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 29-30 October 2026 - Presidency Flash | not public\* | – | – |
+| 2026-10-29 | WK 14963/26 REV 1 ADD 5 | council-note | Public Procurement Act: Proposal for a Regulation of the European Parliament and of the Council on public contracts and concessions, repealing Directives … | not public\* | – | – |
+| 2026-10-29 | WK 14963/26 REV 1 ADD 6 | council-note | Public Procurement Act: Proposal for a Regulation of the European Parliament and of the Council on public contracts and concessions, repealing Directives … | not public\* | – | – |
+| 2026-10-29 | [WK 16826/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100622) | council-note | Mapping of Existing Reporting Obligations and Procurement : Related Information Requirements under EU Sectoral Legislation | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-10-30.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-03.
 
 ## Texts as Markdown
 

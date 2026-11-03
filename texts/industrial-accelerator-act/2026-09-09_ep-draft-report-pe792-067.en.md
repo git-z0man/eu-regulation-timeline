@@ -1,6 +1,6 @@
 ---
 act: industrial-accelerator-act
-version: 2026-09-11_ep-draft-report-pe792-067
+version: 2026-09-09_ep-draft-report-pe792-067
 stage: ep-draft-report
 language: en
 document: PE792.067

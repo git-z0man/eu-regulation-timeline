@@ -1,14 +1,100 @@
 {
  "items": [
   {
-   "date": "2026-10-30",
+   "date": "2026-11-03",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Ecodesign Forum",
+   "doc": "agenda, working document, working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969",
+   "key": "E03969-77097",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139735/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139733/download"
+    ]
+   ],
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-03",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "EN 40000-1-2:2026 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Approved",
+   "doc": "EN 40000-1-2:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
+   "key": "eso-JT013089-2026-11-03",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-03",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "EN 40000-1-1:2026 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Approved",
+   "doc": "EN 40000-1-1:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
+   "key": "eso-JT013095-2026-11-03",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-03",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 625",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+   "key": "eso-DEN/CYBER-EUS-0017-2026-11-03",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-02",
    "act": "red",
    "title": "RED",
    "actor": "ERM WGAERO",
-   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft endorsed by the Technical Gr",
+   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft registered by ETSI Secretariat",
    "doc": "EN 302 454",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
-   "key": "eso-REN/ERM-WGAERO-201-2026-10-30",
+   "key": "eso-REN/ERM-WGAERO-201-2026-11-02",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-02",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft registered by ETSI Secretariat",
+   "doc": "EN 302 054",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+   "key": "eso-REN/ERM-WGAERO-200-2026-11-02",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGSRR",
+   "label": "EN 302 858 – Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 G: Drafting Stage – Early draft",
+   "doc": "EN 302 858",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
+   "key": "eso-REN/ERM-WGSRR-581-2026-10-30",
    "page": null,
    "type": "Standardisation"
   },
@@ -26,15 +112,57 @@
   },
   {
    "date": "2026-10-30",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft endorsed by the Technical Gr",
-   "doc": "EN 302 054",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
-   "key": "eso-REN/ERM-WGAERO-200-2026-10-30",
-   "page": null,
-   "type": "Standardisation"
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "doc": "CM 4602/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf",
+   "key": "CM 4602/26",
+   "page": "public-procurement-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-17 (Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …), listed as not public since 2026-09-30",
+   "doc": "WK 14249/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14249-2026-INIT/en/pdf",
+   "key": "WK 14249/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-17",
+   "doc_title": "Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …",
+   "withheld_since": "2026-09-30",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Presidency fourth compromise text regarding Title III (European Cybersecurity … (not public)",
+   "doc": "WK 16914/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/100997",
+   "key": "WK 16914/26",
+   "page": "csa2",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-10-30",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text (not public)",
+   "doc": "ST 14918/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/100884",
+   "key": "ST 14918/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-10-30",
@@ -857,6 +985,19 @@
    "title": "Public Procurement Act – COM(2026) 590 (proposal)"
   },
   {
+   "date": "2026-10-20",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text (not public)",
+   "doc": "ST 13545/26 REV 1",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98936",
+   "key": "ST 13545/26 REV 1",
+   "page": "chips-act-2",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
    "date": "2026-10-19",
    "act": "standardisation-revision",
    "title": "New Standardisation Regulation – COM(2026) 780 (proposal)",
@@ -908,19 +1049,6 @@
    "key": "CM 4579/26 REV 1",
    "page": "csa2",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-10-19",
-   "act": "chips-act-2",
-   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
-   "actor": "Council",
-   "label": "Presidency compromise text (not public)",
-   "doc": "ST 13545/26 REV 1",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98936",
-   "key": "ST 13545/26 REV 1",
-   "page": "chips-act-2",
-   "type": "Legislation",
-   "listed": "council-compromise"
   },
   {
    "date": "2026-10-16",
@@ -1890,30 +2018,6 @@
   },
   {
    "date": "2026-10-01",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "EN 40000-1-2:2026 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Under Approval",
-   "doc": "EN 40000-1-2:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
-   "key": "eso-JT013089-2026-10-01",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-01",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "EN 40000-1-1:2026 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Under Approval",
-   "doc": "EN 40000-1-1:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
-   "key": "eso-JT013095-2026-10-01",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-01",
    "act": "ai-act",
    "title": "AI Act",
    "actor": "CEN/CLC/JTC 21",
@@ -1978,18 +2082,6 @@
    "page": "chips-act-2",
    "type": "Legislation",
    "listed": "council-compromise"
-  },
-  {
-   "date": "2026-09-29",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 625",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-   "key": "eso-DEN/CYBER-EUS-0017-2026-09-29",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-09-29",
@@ -2533,18 +2625,6 @@
   },
   {
    "date": "2026-09-11",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGSRR",
-   "label": "EN 302 858 – Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 G: Drafting Stage – Early draft",
-   "doc": "EN 302 858",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
-   "key": "eso-REN/ERM-TGSRR-581-2026-09-11",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-11",
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "European Parliament",
@@ -2853,7 +2933,7 @@
    "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Work item adopted",
    "doc": "EN 305 550-5",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
-   "key": "eso-REN/ERM-TGUWB-640-2026-09-03",
+   "key": "eso-REN/ERM-WGUWB-640-2026-09-03",
    "page": null,
    "type": "Standardisation"
   },
@@ -3823,6 +3903,18 @@
    "act": "product-digitalisation-regulation",
    "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
    "actor": "Council",
+   "label": "Final compromise text",
+   "doc": "ST 10482/26 ADD 2 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf",
+   "key": "ST 10482/26 ADD 2 REV 1",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-24",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "Council",
    "label": "Confirmation of the final compromise text with a view to agreement",
    "doc": "ST 10482/26 REV 2",
    "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf",
@@ -3901,18 +3993,6 @@
    "key": "eso-JT021058-2026-06-24",
    "page": "ai-act",
    "type": "Standardisation"
-  },
-  {
-   "date": "2026-06-23",
-   "act": "product-digitalisation-regulation",
-   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
-   "actor": "Council",
-   "label": "Final compromise text",
-   "doc": "ST 10482/26 ADD 2 REV 1",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf",
-   "key": "ST 10482/26 ADD 2 REV 1",
-   "page": "product-digitalisation-regulation",
-   "type": "Legislation"
   },
   {
    "date": "2026-06-23",
@@ -4040,11 +4120,35 @@
    "act": "product-digitalisation-regulation",
    "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
    "actor": "Council",
+   "label": "Confirmation of the final compromise text with a view to agreement",
+   "doc": "ST 10482/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-1/en/pdf",
+   "key": "ST 10482/26 REV 1",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-19",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "Council",
    "label": "Analysis of the final compromise text with a view to agreement",
    "doc": "ST 10482/26",
    "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-INIT/en/pdf",
    "key": "ST 10482/26",
    "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-19",
+   "act": "product-digitalisation-directive",
+   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
+   "actor": "Council",
+   "label": "Confirmation of the final compromise text with a view to agreement",
+   "doc": "ST 10482/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-1/en/pdf",
+   "key": "ST 10482/26 REV 1",
+   "page": "product-digitalisation-directive",
    "type": "Legislation"
   },
   {
@@ -4082,30 +4186,6 @@
    "key": "C131500-A116503/1",
    "page": "ehds",
    "type": "Committees"
-  },
-  {
-   "date": "2026-06-18",
-   "act": "product-digitalisation-regulation",
-   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
-   "actor": "Council",
-   "label": "Confirmation of the final compromise text with a view to agreement",
-   "doc": "ST 10482/26 REV 1",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-1/en/pdf",
-   "key": "ST 10482/26 REV 1",
-   "page": "product-digitalisation-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-06-18",
-   "act": "product-digitalisation-directive",
-   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
-   "actor": "Council",
-   "label": "Confirmation of the final compromise text with a view to agreement",
-   "doc": "ST 10482/26 REV 1",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-1/en/pdf",
-   "key": "ST 10482/26 REV 1",
-   "page": "product-digitalisation-directive",
-   "type": "Legislation"
   },
   {
    "date": "2026-06-18",

@@ -11,7 +11,7 @@ counts:
   recitals: 0
   articles: 0
   annexes: 0
-  rows: 1
+  rows: 0
 official_source: https://data.consilium.europa.eu/doc/document/WK-5778-2026-INIT/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
 notice: Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
@@ -187,8 +187,22 @@ Article 291(2) of the Treaty on the Functioning of the European Union.1
 
 1 This draft recital is given as an example and its wording will be refined if appropriate.
 
-## Text
+## Summary table 1
 
-| EP | Council |
-| --- | --- |
-| Common Specifications (addressing the last resort clause) **Summary table 2 Request of instructions of use and safety information EP** distinction between professionals and consumers when the end-user is a consumer (not a professional), the period for requesting instructions is extended by EP to 24 months The reply to the request : Send the information within 15 Working Days | addressing the last resort clause with EP (with new safeguards (please Council’s see the text text) proposed) Extension of the Transitional measures Extension of the COUNCIL on ESPR (2024/1781) transitional period Deletion of the Deletion of the Accreditation COUNCIL Accreditation Regulation Regulation **Council compromise solution** one uniform term: "USER" without the distinction COUNCIL NO distinction . Use the consumers vs term "USER" professionals The time period for The time period for requesting EP request will be one information in single time period to be paper : 24 months used: "6 months (for all users) The time period for The reply to the request : the reply to the To provide the request : one EITHER information within one month or 15 month working days |
+**Common Specifications (last resort clause) - Accreditation Regulation - ESPR**
+
+| EP | Council | compromise solution |  |
+| --- | --- | --- | --- |
+| Common Specifications (addressing the last resort clause) |  | addressing the last resort clause with safeguards (please see the text proposed) | EP (with new Council’s text) |
+|  | Extension of the Transitional measures on ESPR (2024/1781) | Extension of the transitional period | COUNCIL |
+|  | Deletion of the Accreditation Regulation | Deletion of the Accreditation Regulation | COUNCIL |
+
+## Summary table 2
+
+**Request of instructions of use and safety information**
+
+| EP | Council | compromise solution |  |
+| --- | --- | --- | --- |
+| distinction between professionals and consumers | NO distinction . Use the term "USER" | one uniform term: "USER" without the distinction consumers vs professionals | COUNCIL |
+| when the end-user is a consumer (not a professional), the period for requesting instructions is extended by EP to 24 months | The time period for request will be one single time period to be used: "6 months | The time period for requesting information in paper : 24 months (for all users) | EP |
+| The reply to the request : Send the information within 15 Working Days | The reply to the request : To provide the information within one month | The time period for the reply to the request : one month or 15 working days | EITHER |

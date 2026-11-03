@@ -11,7 +11,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 16 | 2026-03-04 | – |
 | [Cybersecurity Act](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
-| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-10-21 | 2026-11-03 |
+| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-11-03 | 2026-11-06 |
 | [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
 | [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 11 | 2026-10-22 | – |
 | [General Product Safety Regulation](gpsr.md) | [General Product Safety Regulation Committee](committee-c127600.md) | Comitology committee | 7 | 2024-10-22 | – |
@@ -175,10 +175,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Working Party on Competitiveness and Growth (Public Procurement)
 
-3 meetings on the acts we follow.
+4 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-10-30 | [Public Procurement Act](public-procurement-act.md) | Continuation of the examination of the proposal ([ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf)) | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) |
 | 2026-10-02 | [Public Procurement Act](public-procurement-act.md) | Examination of the proposal – Parts I and II | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) |
 | 2026-10-02 | [Public Procurement Act](public-procurement-act.md) | Public Procurement Act: Digital Ecosystem – Topical debate | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) |
 | 2026-09-18 | [Public Procurement Act](public-procurement-act.md) | Presentation by the Commission Exchange of views [DAY 1: 17 September 2026, p.m. – with interpretation] Impact assessment report accompanying the proposal for the Public Procurement Act (Docs: ST 12696/2026 ADD3, ADD4, ADD5) Presentation by the Commission – Exchange of views – Public Procurement Act: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on public contracts and concessions, repealing Directives 2014/23/EU, 2014/24/EU and 2014/25/EU, and amending Regulations (EC) No 1370/2007, (EU) 2023/1542, (EU) 2024/1157, (EU) 2024/1252, (EU) 2024/1735, (EU) 2024/1781, (EU) 2024/2847, (EU) 2024/3110 and (EU) 2025/40, and Directives 2008/98/EC, (EU) 2019/882, (EU) 2022/2381, (EU) 2023/1791 and (EU) 2024/1760 (Docs: ST 12969/2026, ADD1, ADD2, ADD3, ADD4, ADD5) Analysis of the proposal – presentation by the Commission – [DAY 2: 18 September 2026, 09:30 – with interpretation] | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) |

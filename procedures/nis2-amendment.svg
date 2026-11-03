@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="819" viewBox="0 0 1800 819" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="819" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-10-30">
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-02">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0012(COD). State as of 30 Oct 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see nis2-amendment.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0012(COD). State as of 2 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see nis2-amendment.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -74,22 +74,23 @@
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
 <line x1="210.0" y1="440.0" x2="210.0" y2="735.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="210.0" y="435.1">Jan 2026</tspan></text>
-<line x1="343.3" y1="440.0" x2="343.3" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="463.8" y1="440.0" x2="463.8" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="597.1" y1="440.0" x2="597.1" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="597.1" y="435.1">Apr</tspan></text>
-<line x1="726.2" y1="440.0" x2="726.2" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="859.5" y1="440.0" x2="859.5" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="988.5" y1="440.0" x2="988.5" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="988.5" y="435.1">Jul</tspan></text>
-<line x1="1121.9" y1="440.0" x2="1121.9" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1255.2" y1="440.0" x2="1255.2" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1384.3" y1="440.0" x2="1384.3" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1384.3" y="435.1">Oct</tspan></text>
-<line x1="1517.6" y1="440.0" x2="1517.6" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1646.7" y1="440.0" x2="1646.7" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1780.0" y1="440.0" x2="1780.0" y2="735.0" stroke="#b5bac0" stroke-width="1"/>
-<text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1780.0" y="435.1">Jan 2027</tspan></text>
+<line x1="332.9" y1="440.0" x2="332.9" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="443.9" y1="440.0" x2="443.9" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="566.8" y1="440.0" x2="566.8" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="566.8" y="435.1">Apr</tspan></text>
+<line x1="685.8" y1="440.0" x2="685.8" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="808.7" y1="440.0" x2="808.7" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="927.6" y1="440.0" x2="927.6" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="927.6" y="435.1">Jul</tspan></text>
+<line x1="1050.5" y1="440.0" x2="1050.5" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1173.4" y1="440.0" x2="1173.4" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1292.3" y1="440.0" x2="1292.3" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="1292.3" y="435.1">Oct</tspan></text>
+<line x1="1415.3" y1="440.0" x2="1415.3" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1534.2" y1="440.0" x2="1534.2" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1657.1" y1="440.0" x2="1657.1" y2="735.0" stroke="#b5bac0" stroke-width="1"/>
+<text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1657.1" y="435.1">Jan 2027</tspan></text>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="735.0" stroke="#e3e6e9" stroke-width="1"/>
 <rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
 <text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
@@ -110,33 +111,33 @@
 <rect x="20.0" y="711.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="724.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="724.1">no events yet</tspan></text>
-<line x1="1509.0" y1="440.0" x2="1509.0" y2="735.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1509.0" y="745.1">as of 30 Oct 2026</tspan></text>
-<rect x="287.7" y="453.0" width="248.0" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="291.7" y="462.1">20 Jan 2026 · Commission proposal (COM(2026) 13)</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013" target="_blank"><title>20 Jan 2026: Commission proposal – COM(2026) 13</title><polygon points="291.7260273972603,465 299.7260273972603,473 291.7260273972603,481 283.7260273972603,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
-<rect x="713.6" y="503.0" width="224.2" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="717.6" y="512.1">29 Apr 2026 · EESC opinion (CELEX 52026AE0075)</tspan></text></a>
-<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075" target="_blank"><title>29 Apr 2026: EESC opinion – CELEX 52026AE0075</title><polygon points="717.5616438356165,517.5 723.0616438356165,523 717.5616438356165,528.5 712.0616438356165,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
-<rect x="446.9" y="553.0" width="337.0" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="450.9" y="562.1">26 Feb 2026 · ITRE rapporteur appointed (Markéta Gregorová, VERTS-ALE)</tspan></text>
-<rect x="563.0" y="582.0" width="271.2" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="567.0" y="591.1">25 Mar 2026 · Referral to committee announced in plenary</tspan></text>
-<rect x="1350.2" y="553.0" width="210.1" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1354.2" y="562.1">24 Sep 2026 · ITRE draft report (PE792.221)</tspan></text></a>
-<g><title>26 Feb 2026: ITRE rapporteur appointed (Markéta Gregorová, VERTS-ALE)</title><polygon points="450.8767123287671,567.5 456.3767123287671,573 450.8767123287671,578.5 445.3767123287671,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
-<g><title>25 Mar 2026: Referral to committee announced in plenary</title><polygon points="567.013698630137,567.5 572.513698630137,573 567.013698630137,578.5 561.513698630137,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf" target="_blank"><title>24 Sep 2026: ITRE draft report – PE792.221</title><polygon points="1354.164383561644,567.5 1359.664383561644,573 1354.164383561644,578.5 1348.664383561644,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
-<rect x="773.8" y="657.0" width="205.4" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="777.8" y="666.1">13 May 2026 · Progress report (ST 9121/26)</tspan></text></a>
-<rect x="812.5" y="686.0" width="205.4" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="816.5" y="695.1">22 May 2026 · Progress report (ST 9399/26)</tspan></text></a>
-<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="347.6" y="665.9">Horizontal Working Party on Cyber Issues: 1 meeting (2 Feb 2026 – 2 Feb 2026; ● each)</tspan></text>
-<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="842.3" y="652.9">Horizontal Working Party on Cyber Issues - attachés: 1 meeting (28 May 2026 – 28 May 2026; ● each)</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1440-2026-REV-1/en/pdf" target="_blank"><title>2 Feb 2026: Horizontal Working Party on Cyber Issues: New Cybersecurity package: a) Evaluation report: – Presentation by … – CM 1440/26 REV 1</title><polygon points="347.64383561643837,673.5 351.14383561643837,677 347.64383561643837,680.5 344.14383561643837,677" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><title>13 May 2026: Progress report – ST 9121/26</title><polygon points="777.7808219178082,671.5 783.2808219178082,677 777.7808219178082,682.5 772.2808219178082,677" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf" target="_blank"><title>22 May 2026: Progress report – ST 9399/26</title><polygon points="816.4931506849315,671.5 821.9931506849315,677 816.4931506849315,682.5 810.9931506849315,677" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf" target="_blank"><title>28 May 2026: Horizontal Working Party on Cyber Issues - attachés: Examination of the Proposal (5627/26 + ADD 1) – CM 2950/26</title><polygon points="842.3013698630137,673.5 845.8013698630137,677 842.3013698630137,680.5 838.8013698630137,677" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<line x1="1419.2" y1="440.0" x2="1419.2" y2="735.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1419.2" y="745.1">as of 2 Nov 2026</tspan></text>
+<rect x="281.3" y="453.0" width="248.0" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="285.3" y="462.1">20 Jan 2026 · Commission proposal (COM(2026) 13)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0013" target="_blank"><title>20 Jan 2026: Commission proposal – COM(2026) 13</title><polygon points="285.3282828282828,465 293.3282828282828,473 285.3282828282828,481 277.3282828282828,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
+<rect x="673.8" y="503.0" width="224.2" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="677.8" y="512.1">29 Apr 2026 · EESC opinion (CELEX 52026AE0075)</tspan></text></a>
+<a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075" target="_blank"><title>29 Apr 2026: EESC opinion – CELEX 52026AE0075</title><polygon points="677.8282828282828,517.5 683.3282828282828,523 677.8282828282828,528.5 672.3282828282828,523" fill="#ffffff" stroke="#7b8794" stroke-width="1.5"/></a>
+<rect x="428.0" y="553.0" width="337.0" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="432.0" y="562.1">26 Feb 2026 · ITRE rapporteur appointed (Markéta Gregorová, VERTS-ALE)</tspan></text>
+<rect x="535.1" y="582.0" width="271.2" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="539.1" y="591.1">25 Mar 2026 · Referral to committee announced in plenary</tspan></text>
+<rect x="1260.6" y="553.0" width="210.1" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1264.6" y="562.1">24 Sep 2026 · ITRE draft report (PE792.221)</tspan></text></a>
+<g><title>26 Feb 2026: ITRE rapporteur appointed (Markéta Gregorová, VERTS-ALE)</title><polygon points="432.020202020202,567.5 437.520202020202,573 432.020202020202,578.5 426.520202020202,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<g><title>25 Mar 2026: Referral to committee announced in plenary</title><polygon points="539.0656565656566,567.5 544.5656565656566,573 539.0656565656566,578.5 533.5656565656566,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf" target="_blank"><title>24 Sep 2026: ITRE draft report – PE792.221</title><polygon points="1264.5959595959596,567.5 1270.0959595959596,573 1264.5959595959596,578.5 1259.0959595959596,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<rect x="729.3" y="657.0" width="205.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="733.3" y="666.1">13 May 2026 · Progress report (ST 9121/26)</tspan></text></a>
+<rect x="765.0" y="686.0" width="205.4" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="769.0" y="695.1">22 May 2026 · Progress report (ST 9399/26)</tspan></text></a>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="336.9" y="665.9">Horizontal Working Party on Cyber Issues: 1 meeting (2 Feb 2026 – 2 Feb 2026; ● each)</tspan></text>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="792.8" y="652.9">Horizontal Working Party on Cyber Issues - attachés: 1 meeting (28 May 2026 – 28 May 2026; ● each)</tspan></text>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-1440-2026-REV-1/en/pdf" target="_blank"><title>2 Feb 2026: Horizontal Working Party on Cyber Issues: New Cybersecurity package: a) Evaluation report: – Presentation by … – CM 1440/26 REV 1</title><polygon points="336.8686868686869,673.5 340.3686868686869,677 336.8686868686869,680.5 333.3686868686869,677" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><title>13 May 2026: Progress report – ST 9121/26</title><polygon points="733.3333333333333,671.5 738.8333333333333,677 733.3333333333333,682.5 727.8333333333333,677" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf" target="_blank"><title>22 May 2026: Progress report – ST 9399/26</title><polygon points="769.0151515151515,671.5 774.5151515151515,677 769.0151515151515,682.5 763.5151515151515,677" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf" target="_blank"><title>28 May 2026: Horizontal Working Party on Cyber Issues - attachés: Examination of the Proposal (5627/26 + ADD 1) – CM 2950/26</title><polygon points="792.8030303030303,673.5 796.3030303030303,677 792.8030303030303,680.5 789.3030303030303,677" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="766.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="784.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
