@@ -748,7 +748,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(86a)The main tasks of the ECCG should be to advise and assist the Commission in its work towards ensuring the consistent implementation and application of the European cybersecurity certification framework, to assist and closely cooperate with ENISA in the preparation of candidate cybersecurity certification schemes, to adopt opinions addressed to ENISA and the Commission. The opinions on candidate schemes may also be adopted jointly between the ECCG members. The ECCG should facilitate the exchange of good practices and expertise between the various national cybersecurity certification authorities that are responsible for the authorisation of conformity** |
+|  | **(86a)The main tasks of the ECCG should be to advise and assist the Commission in its work towards ensuring the consistent implementation and application of the European cybersecurity certification framework, to assist and closely cooperate with ENISA in the preparation of candidate cybersecurity certification schemes, to adopt opinions addressed to ENISA and the Commission. The opinions on candidate schemes may also be adopted jointly between the ECCG members. The ECCG should facilitate the exchange of good practices and expertise between the various national cybersecurity certification authorities that are responsible for the authorisation of conformity assessment bodies and the issuance of European cybersecurity certificates.** |
 
 <a id="rec-87"></a>
 ### Recital 87
@@ -1056,7 +1056,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(127a) The Commission and the Member States should act when doubt arises about the competence of a notified conformity assessment body, either at the moment of notification or thereafter. Should the Commission consider, on its own initiative or after complaint, that a notified conformity assessment body does not comply with the requirements or fulfil its responsibilities, it should inform the national cybersecurity certification authority and ask for appropriate documented evidence concerning the basis for the notification of the competence of the body. Where a national cybersecurity certification authority has ascertained or has been informed that a notified conformity assessment body no longer meets the requirements laid down in this Regulation, or that it is failing to fulfil its obligations, the national cybersecurity certification authority should, depending on the seriousness of the failure, suspend or withdraw the notification after immediately contacting the body in question and inform the Commission and the other Member States accordingly. The body in question should have the notified body from the NANDO list on its own initiative only when the Court of Justice of the European Union declares a Member State to be in infringement of this Regulation and, consequently, declares a notification to be invalid.** |
+|  | **(127a) The Commission and the Member States should act when doubt arises about the competence of a notified conformity assessment body, either at the moment of notification or thereafter. Should the Commission consider, on its own initiative or after complaint, that a notified conformity assessment body does not comply with the requirements or fulfil its responsibilities, it should inform the national cybersecurity certification authority and ask for appropriate documented evidence concerning the basis for the notification of the competence of the body. Where a national cybersecurity certification authority has ascertained or has been informed that a notified conformity assessment body no longer meets the requirements laid down in this Regulation, or that it is failing to fulfil its obligations, the national cybersecurity certification authority should, depending on the seriousness of the failure, suspend or withdraw the notification after immediately contacting the body in question and inform the Commission and the other Member States accordingly. The body in question should have the possibility to appeal against such a decision. The Commission can withdraw a notified body from the NANDO list on its own initiative only when the Court of Justice of the European Union declares a Member State to be in infringement of this Regulation and, consequently, declares a notification to be invalid.** |
 
 <a id="rec-128"></a>
 ### Recital 128
@@ -2342,7 +2342,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(ga)consolidate and analyse information about incidents, near misses, cyber and the Commission.** |
+|  | **(ga)consolidate and analyse information about incidents, near misses, cyber threats, risks and vulnerabilities and provide such information to Member States and the Commission.** |
 
 ### Article 11(2)
 
@@ -2372,7 +2372,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **2a.Early alerts referred to in paragraph 1, first subparagraph, point (b), of this Regulation shall contain relevant information concerning a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature, in relation to sectors listed in Annexes I and II to Directive (EU) 2022/2555. That information may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) tactics, threat actor-specific information and recommendations on mitigation measures. Such alerts shall be issued as soon as possible.** |
+|  | **2a.Early alerts referred to in paragraph 1, first subparagraph, point (b), of this Regulation shall contain relevant information concerning a potential or ongoing significant or large-scale incident, or a cyber threat of a potential cross-border nature, in relation to sectors listed in Annexes I and II to Directive (EU) 2022/2555. That information may include publicly known vulnerabilities and whether they affect products with digital elements covered by Regulation (EU) 2024/2847, techniques and procedures, indicators of compromise, adversarial tactics, threat actor-specific information and recommendations on mitigation measures. Such alerts shall be issued as soon as possible.** |
 
 ### Article 11(3)
 
@@ -2520,7 +2520,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **provide, operate, maintain, and update as necessary testing tools to support the implementation of conformity assessment procedures in accordance with the relevant Union legislation.** |
+|  | **1a.Subject to approval of the Management Board, ENISA shall develop, provide, operate, maintain, and update as necessary testing tools to support the implementation of conformity assessment procedures in accordance with the relevant Union legislation.** |
 
 ### Article 15(2)
 
@@ -2831,7 +2831,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(hb) conditions under which alternative qualifications, including certification including with regards to proficiency levels, and their effects on the assessments.** |
+|  | **(hb) conditions under which alternative qualifications, including certification and attestations, already demonstrate acquired skills and learning outcomes, including with regards to proficiency levels, and their effects on the assessments.** |
 
 ### Article 20(4)
 
@@ -3337,7 +3337,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **organisations pursuant to Article 70(2);** |
+|  | **(hb) adopt a strategy for relations with third countries and international organisations pursuant to Article 70(2);** |
 
 ### Article 28(1), point (i)
 
@@ -3409,7 +3409,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  |  |
+|  | **(sa)adopt the rules of procedure of the Executive Board.** |
 
 ### Article 28(2)
 
@@ -5255,7 +5255,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.For the preparation of each candidate scheme, ENISA shall establish an ad hoc 2.For the preparation of each candidate scheme, ENISA shall**, as soon as** working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. | **possible,** establish an ad hoc working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. |
+| 2.For the preparation of each candidate scheme, ENISA shall establish an ad hoc working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. | 2.For the preparation of each candidate scheme, ENISA shall**, as soon as possible,** establish an ad hoc working group in accordance with Article 32(6) for the purpose of providing ENISA with expertise advice. |
 
 ### Article 74(3)
 
@@ -5273,7 +5273,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than 30 days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members. The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. | 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than ~~30~~**60** days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members~~.~~ **and the ECCG accordingly.** The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. **The opinions of the** See also Recital 86a on joint opinions. |
+| 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than 30 days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members. The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. | 5.Before transmitting the candidate scheme and, where applicable, supporting technical specifications, to the Commission, ENISA shall request members of the ECCG to provide written opinions on the candidate scheme. The opinions shall be provided no later than ~~30~~**60** days from date of the request. ENISA shall take the utmost account of the opinions of the ECCG members~~.~~ **and the ECCG accordingly.** The absence of such opinions shall not prevent ENISA from transmitting the candidate scheme to the Commission. **The opinions of the ECCG members shall be shared with the ECCG.** See also Recital 86a on joint opinions. |
 
 ### Article 74(6)
 
@@ -6755,7 +6755,7 @@ WK 7571/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 in | 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 **if not perform authorisation in respect**~~in any one~~ of the ~~following situations~~**conformity assessment activities for which authorisation is sought**: |
+| 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 in any one of the following situations: | 3.A conformity assessment body may request authorisation by a national cybersecurity certification authority other than that referred to in paragraph 2 **if the national cybersecurity certification authority referred to in paragraph 1 does not perform authorisation in respect**~~in any one~~ of the ~~following situations~~**conformity assessment activities for which authorisation is sought**: |
 
 ### Article 92(3), point (a)
 

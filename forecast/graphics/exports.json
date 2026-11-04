@@ -87,32 +87,32 @@
   "method-c-index": {
     "pdf": "method-c-index.pdf",
     "png": "method-c-index.png",
-    "svg_sha256": "ceeb2c27ef3575d7ed73aaaf311949ce1f046ed218357e10b434e8107057bfc6"
+    "svg_sha256": "6677c9bac81acb54d429a93f763e0f4ab4ba0c16cde84703c7217826165b05c9"
   },
   "method-c-index-de": {
     "pdf": "method-c-index-de.pdf",
     "png": "method-c-index-de.png",
-    "svg_sha256": "c9819a931717eb47089f336c31c66dae7d9600db4bbb8ee68f2694637188b9d3"
+    "svg_sha256": "28e9d8d1f89147fab45eaf69834519091e74bd7eabf9b3f285ef316ae74c30e6"
   },
   "method-candidates": {
     "pdf": "method-candidates.pdf",
     "png": "method-candidates.png",
-    "svg_sha256": "fcb2bc649112defcbf6f21f0e53939b20284bef4c260c0219344d75036bd71fe"
+    "svg_sha256": "44aa27b4b543d068b1556df642f93953e4510d1a359ba8eb690582942b38d75d"
   },
   "method-candidates-de": {
     "pdf": "method-candidates-de.pdf",
     "png": "method-candidates-de.png",
-    "svg_sha256": "273cd33d67d705282ff5ec2533c192d0d7c9586fbfa5fc00289e6bda24b2d8d6"
+    "svg_sha256": "d01a69e467d5ee48b632eb0d7ca349d2ec3b89a760cf00cc44381c52f98712d7"
   },
   "method-criteria": {
     "pdf": "method-criteria.pdf",
     "png": "method-criteria.png",
-    "svg_sha256": "88ad8d2f9eba6b978bac7732799331d3d19f06b258be3772a95c8c32380dbd17"
+    "svg_sha256": "ba1e0b8663d08e8de22b2c2c45c3978b5da750da0254ad98f7d257a0baab3555"
   },
   "method-criteria-de": {
     "pdf": "method-criteria-de.pdf",
     "png": "method-criteria-de.png",
-    "svg_sha256": "4d781f14bcf86c04bd5cf5548aa58d350d0402ba84848ef22b4d62de5052b1b7"
+    "svg_sha256": "8ca67735b413a7ec8f95d91ae5e3b2c07eea42d2dce453465e80a7b0b7325079"
   },
   "method-election-deadline": {
     "pdf": "method-election-deadline.pdf",
@@ -127,12 +127,12 @@
   "method-further-back": {
     "pdf": "method-further-back.pdf",
     "png": "method-further-back.png",
-    "svg_sha256": "7878228eec8e576fb11514296b31336c246eca0e27d9fa6d20f406a5fa4335a5"
+    "svg_sha256": "92d6dd26b7eba5e96cd3361928917d0f8250a3a47df0e3fd852bad51d4e6152c"
   },
   "method-further-back-de": {
     "pdf": "method-further-back-de.pdf",
     "png": "method-further-back-de.png",
-    "svg_sha256": "806059cfe9446728f6010c142c339d58da9f5e2025332cd6a6772f212bcb8867"
+    "svg_sha256": "35e932f84b7164cf06ad72a87f813374ddda80b34343342f2077de01d1416451"
   },
   "method-rule-of-thumb": {
     "pdf": "method-rule-of-thumb.pdf",
@@ -147,12 +147,12 @@
   "method-size-trend": {
     "pdf": "method-size-trend.pdf",
     "png": "method-size-trend.png",
-    "svg_sha256": "a00b50948419c7e1596d28641a30b0f193d23b3f5080056cf1c9241458262c49"
+    "svg_sha256": "f895d81d068570f305d08ef7808e2ba6667821a9228f95ae4801abdd9550bd1e"
   },
   "method-size-trend-de": {
     "pdf": "method-size-trend-de.pdf",
     "png": "method-size-trend-de.png",
-    "svg_sha256": "8de5a7444547644df0567ac433f9e9fc54a3d5c1404b84bbd7c542b43d2627cc"
+    "svg_sha256": "967b0f982c99cc33a2930375eafecdd229a03bc664e6d29a35bd9bce5a3e5a02"
   },
   "nlf-overview": {
     "pdf": "nlf-overview.pdf",

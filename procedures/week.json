@@ -1,16 +1,10 @@
 {
- "as_of": "2026-11-03",
+ "as_of": "2026-11-04",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
-    {
-     "date": "2026-11-03",
-     "act": "Ecodesign for Sustainable Products Regulation",
-     "text": "Ecodesign Forum: Ecodesign Forum",
-     "url": "procedures/committee-e03969.html"
-    },
     {
      "date": "2026-11-06",
      "act": "Ecodesign for Sustainable Products Regulation",
@@ -88,16 +82,16 @@
      "url": "acts/ai-act.html#standardisation"
     },
     {
-     "date": "2026-10-27",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/csa2.html"
-    },
-    {
      "date": "2026-10-30",
      "act": "Digital Omnibus",
      "text": "Council released 1 document listed as not public",
      "url": "procedures/digital-omnibus.html"
+    },
+    {
+     "date": "2026-10-28",
+     "act": "Artificial Intelligence Act",
+     "text": "2 new meetings or documents of committees and expert groups",
+     "url": "acts/ai-act.html#committees"
     }
    ]
   }

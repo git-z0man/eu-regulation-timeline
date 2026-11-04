@@ -415,7 +415,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (39) Access to correct and timely information about vulnerabilities and a robust vulnerability management are imperative for ensuring a high level of cybersecurity in the internal market. For that reason, ENISA should maintain a European vulnerability database pursuant to Directive (EU) 2022/2555 and create a common Union vulnerability management service capacity, ensuring a resilient and sustainable service level and reducing the risk of disruptions. To that end, ENISA should explore possibilities to deepen structured cooperation with programmes, registries or databases similar to the European vulnerability database, in order to avoid a duplication of efforts and to seek complementarity on an international level, where appropriate. Furthermore, ENISA should support multi-party coordinated vulnerability disclosure at Union level and provide value added services, such as vulnerability advisories, severity scoring and product lists, as well as providing an enhanced European known exploited vulnerabilities catalogue to help entities in their vulnerability management. | (39) Access to correct and timely information about vulnerabilities and a robust vulnerability management are imperative for ensuring a high level of cybersecurity in the internal market. For that reason, ENISA should maintain a European vulnerability database pursuant to Directive (EU) 2022/2555 and create a common Union vulnerability management service capacity, ensuring a resilient and sustainable service level and reducing the risk of disruptions. To that end, ENISA should explore possibilities to deepen structured cooperation with programmes, registries or databases similar to the European vulnerability database, in order to avoid a duplication of efforts and to seek complementarity on an international level, where appropriate. Furthermore, ENISA should support multi-party coordinated vulnerability disclosure at Union level and provide value added services, such as vulnerability advisories, severity scoring and product lists, as well as providing an enhanced European known exploited vulnerabilities catalogue to help entities in their vulnerability management. **Additionally, in cooperation with national competent authorities, CSIRTs, industry and the research community, ENISA should develop, maintain and promote identification and coordinated disclosure. This should include specifying, in consultation with those actors, the scope, processes and minimum service components of the vulnerability management services.** |
+| (39) Access to correct and timely information about vulnerabilities and a robust vulnerability management are imperative for ensuring a high level of cybersecurity in the internal market. For that reason, ENISA should maintain a European vulnerability database pursuant to Directive (EU) 2022/2555 and create a common Union vulnerability management service capacity, ensuring a resilient and sustainable service level and reducing the risk of disruptions. To that end, ENISA should explore possibilities to deepen structured cooperation with programmes, registries or databases similar to the European vulnerability database, in order to avoid a duplication of efforts and to seek complementarity on an international level, where appropriate. Furthermore, ENISA should support multi-party coordinated vulnerability disclosure at Union level and provide value added services, such as vulnerability advisories, severity scoring and product lists, as well as providing an enhanced European known exploited vulnerabilities catalogue to help entities in their vulnerability management. | (39) Access to correct and timely information about vulnerabilities and a robust vulnerability management are imperative for ensuring a high level of cybersecurity in the internal market. For that reason, ENISA should maintain a European vulnerability database pursuant to Directive (EU) 2022/2555 and create a common Union vulnerability management service capacity, ensuring a resilient and sustainable service level and reducing the risk of disruptions. To that end, ENISA should explore possibilities to deepen structured cooperation with programmes, registries or databases similar to the European vulnerability database, in order to avoid a duplication of efforts and to seek complementarity on an international level, where appropriate. Furthermore, ENISA should support multi-party coordinated vulnerability disclosure at Union level and provide value added services, such as vulnerability advisories, severity scoring and product lists, as well as providing an enhanced European known exploited vulnerabilities catalogue to help entities in their vulnerability management. **Additionally, in cooperation with national competent authorities, CSIRTs, industry and the research community, ENISA should develop, maintain and promote methodologies and governance mechanisms for vulnerability identification and coordinated disclosure. This should include specifying, in consultation with those actors, the scope, processes and minimum service components of the vulnerability management services.** |
 
 <a id="rec-40"></a>
 ### Recital 40
@@ -758,7 +758,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(86a) Feasibility studies conducted by ENISA should help to prepare for the planning and development of cybersecurity certification schemes. The studies should incorporate the perspectives of relevant stakeholders and align the future certification schemes with ongoing research, development, and technological assessment activities, recognising, in particular, the contributions of Union and Member State research initiatives. Such studies can help to identify available international and European standards and technical specifications that can be used to support the certification scheme, justify the need to develop technical specifications if there are no appropriate European or international standards and map relevant existing national cybersecurity certification schemes. They should be carried out upon request from the Commission needs are adequately addressed and reflected when requesting and developing schemes.** |
+|  | **(86a) Feasibility studies conducted by ENISA should help to prepare for the planning and development of cybersecurity certification schemes. The studies should incorporate the perspectives of relevant stakeholders and align the future certification schemes with ongoing research, development, and technological assessment activities, recognising, in particular, the contributions of Union and Member State research initiatives. Such studies can help to identify available international and European standards and technical specifications that can be used to support the certification scheme, justify the need to develop technical specifications if there are no appropriate European or international standards and map relevant existing national cybersecurity certification schemes. They should be carried out upon request from the Commission to ensure that the evolving technological landscape and cybersecurity needs are adequately addressed and reflected when requesting and developing schemes.** |
 
 <a id="rec-86b"></a>
 ### Recital 86b
@@ -793,7 +793,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(89a) The maintenance of schemes should be a collaborative effort primarily involving ENISA, the Member States and the Commission, in particular through the relevant ECCG subgroups co-chaired by the Commission and ENISA. ENISA in cooperation with the ECCG should lead the technical maintenance activities, including by drafting supporting documentation, for instance technical specifications, managing the activity and providing the secretariat to the ECCG subgroups. The Commission should ensure consistency of the activities and outputs with European cybersecurity certification schemes, as well provide presumption of conformity with such legislation. Member States’ contribution to maintenance activities includes technical inputs, and national insights on the practical implementation of the scheme.** |
+|  | **(89a) The maintenance of schemes should be a collaborative effort primarily involving ENISA, the Member States and the Commission, in particular through the relevant ECCG subgroups co-chaired by the Commission and ENISA. ENISA in cooperation with the ECCG should lead the technical maintenance activities, including by drafting supporting documentation, for instance technical specifications, managing the activity and providing the secretariat to the ECCG subgroups. The Commission should ensure consistency of the activities and outputs with European cybersecurity certification schemes, as well as with relevant Union legislation, in particular in case where schemes provide presumption of conformity with such legislation. Member States’ contribution to maintenance activities includes technical inputs, and national insights on the practical implementation of the scheme.** |
 
 <a id="rec-90"></a>
 ### Recital 90
@@ -982,7 +982,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (115) Member States should inform the Commission and the ECCG sufficiently in advance before adopting new national cybersecurity certification schemes for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities in order to help the Commission and the ECCG evaluate the impact of the new national cybersecurity certification scheme on the proper functioning of the internal market, and in light of any strategic interest in requesting a European cybersecurity certification scheme. | (115) Member States should inform the Commission and the ECCG sufficiently in advance before adopting new national cybersecurity certification schemes for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities in order to help the Commission and the ECCG evaluate the impact of the new national cybersecurity certification scheme on the proper functioning of the internal market, and in light of any strategic interest in requesting a European cybersecurity certification scheme. **The Commission could also suggest the withdrawal of a national cybersecurity certification scheme in line scheme that has already been requested and covers the same scope. Such withdrawal before the adoption of a European cybersecurity certification scheme should be at the discretion of Member States.** |
+| (115) Member States should inform the Commission and the ECCG sufficiently in advance before adopting new national cybersecurity certification schemes for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities in order to help the Commission and the ECCG evaluate the impact of the new national cybersecurity certification scheme on the proper functioning of the internal market, and in light of any strategic interest in requesting a European cybersecurity certification scheme. | (115) Member States should inform the Commission and the ECCG sufficiently in advance before adopting new national cybersecurity certification schemes for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities in order to help the Commission and the ECCG evaluate the impact of the new national cybersecurity certification scheme on the proper functioning of the internal market, and in light of any strategic interest in requesting a European cybersecurity certification scheme. **The Commission could also suggest the withdrawal of a national cybersecurity certification scheme in line with the development plan of a European cybersecurity certification scheme that has already been requested and covers the same scope. Such withdrawal before the adoption of a European cybersecurity certification scheme should be at the discretion of Member States.** |
 
 <a id="rec-116"></a>
 ### Recital 116
@@ -1073,7 +1073,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **arises about the competence of a notified conformity assessment body, either at the moment of notification or thereafter. Should the Commission consider, on its own initiative or after complaint, that a notified conformity assessment body does not comply with the requirements or fulfil its responsibilities, it should inform the national cybersecurity certification authority and ask for appropriate documented evidence concerning the basis for the notification of the competence of the body. Where a national cybersecurity certification authority has ascertained or has been informed that a notified conformity assessment body no longer meets the requirements laid down in this Regulation, or that it is failing to fulfil its obligations, the national cybersecurity certification authority should, depending on the seriousness of the failure, suspend or withdraw the notification after immediately contacting the body in question and inform the Commission and the other Member States accordingly. The body in question should have the possibility to appeal against such a decision. The Commission can withdraw a notified body from the NANDO list on its own initiative only when the Court of Justice of the European Union declares a Member State to be in infringement of this Regulation and, consequently, declares a notification to be invalid.** |
+|  | **(127a) The Commission and the Member States should act when doubt arises about the competence of a notified conformity assessment body, either at the moment of notification or thereafter. Should the Commission consider, on its own initiative or after complaint, that a notified conformity assessment body does not comply with the requirements or fulfil its responsibilities, it should inform the national cybersecurity certification authority and ask for appropriate documented evidence concerning the basis for the notification of the competence of the body. Where a national cybersecurity certification authority has ascertained or has been informed that a notified conformity assessment body no longer meets the requirements laid down in this Regulation, or that it is failing to fulfil its obligations, the national cybersecurity certification authority should, depending on the seriousness of the failure, suspend or withdraw the notification after immediately contacting the body in question and inform the Commission and the other Member States accordingly. The body in question should have the possibility to appeal against such a decision. The Commission can withdraw a notified body from the NANDO list on its own initiative only when the Court of Justice of the European Union declares a Member State to be in infringement of this Regulation and, consequently, declares a notification to be invalid.** |
 
 <a id="rec-128"></a>
 ### Recital 128
@@ -1636,7 +1636,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(27b)‘extension profile’ means the setting out of additional or specific security requirements, including, where applicable, security additional capabilities;** |
+|  | **(27b)‘extension profile’ means the setting out of additional or specific security requirements, including, where applicable, security requirements set out in national provisions transposing Union law, and additional capabilities;** |
 
 ### Article 2, first paragraph, point (28)
 
@@ -1817,7 +1817,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.ENISA shall act as a reference point for advice and expertise on cybersecurity for Member States, as well as for other stakeholders in the Union. | 2.ENISA shall act as a **centre of expertise ~~reference point~~** for advice and **knowledge ~~expertise~~** on cybersecurity for Member States**, and where appropriate Union entities**, as well as for other **relevant** stakeholders in the Union. **ENISA shall achieve this by virtue of its independence, the assistance it delivers, the information it provides, the transparency of its operating procedures, the methods of operation, and its diligence in carrying out its tasks.** |
+| 2.ENISA shall act as a reference point for advice and expertise on cybersecurity for Member States, as well as for other stakeholders in the Union. | 2.ENISA shall act as a **centre of expertise ~~reference point~~** for advice and **knowledge ~~expertise~~** on cybersecurity for Member States**, and where appropriate Union entities**, as well as for other **relevant** stakeholders in the Union. **ENISA shall achieve this by virtue of its independence, the scientific and technical quality of the advice, contributions, and assistance it delivers, the information it provides, the transparency of its operating procedures, the methods of operation, and its diligence in carrying out its tasks.** |
 
 ### Article 3(3)
 
@@ -2274,7 +2274,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (c) analysing vulnerabilities, threats and incidents; | (c) **~~analysing vulnerabilities, threats and incidents~~****contributing to achieve a common EU situational awareness on the technical and operational level and facilitating timely information sharing between dedicated tools**; |
+| (c) analysing vulnerabilities, threats and incidents; | (c) **~~analysing vulnerabilities, threats and incidents~~****contributing to achieve a common EU situational awareness on the technical and operational level and facilitating timely information sharing between the CSIRTs network and EU-CyCLONe, including by providing dedicated tools**; |
 
 ### Article 10(4), first subparagraph, point (d)
 
@@ -2310,7 +2310,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **advice and assistance in the assessments in relation to a specific potential or ongoing incident or cyber threat, including through the provision of expertise and facilitating the technical handling of such incidents, including by supporting the voluntary sharing of relevant information and technical solutions between Member States;** |
+|  | **(c) at the request of one or more Member States concerned, providing advice and assistance in the assessments in relation to a specific potential or ongoing incident or cyber threat, including through the provision of expertise and facilitating the technical handling of such incidents, including by supporting the voluntary sharing of relevant information and technical solutions between Member States;** |
 
 ### Article 10(4), second subparagraph, point (d)
 
@@ -2413,7 +2413,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 2.For the purposes of an enhanced shared situational awareness of the cyber | 2.**~~For the purposes of an enhanced shared situational awareness of the~~** |
+| 2.For the purposes of an enhanced shared situational awareness of the cyber threat and incident landscape among stakeholders, ENISA shall: | 2.**~~For the purposes of an enhanced shared situational awareness of the cyber threat and incident landscape among stakeholders, ENISA shall:~~** |
 
 ### Article 11(2), point (a)
 
@@ -5037,7 +5037,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **2.When sharing or exchanging information pursuant to this Regulation, ENISA shall respect relevant information sharing protocols, including the traffic light protocol as well as any restrictions, conditions and purposes for the handling, access, consultation, dissemination, reuse, aggregation or onward transmission of information indicated by the Member State, Union entity or other entity from which the information originates. The sharing or exchange of information pursuant to this Regulation shall be without prejudice to the control retained by the contributing Member State or entity over the conditions governing the use and circulation of the information it has transmitted. ENISA and any other recipient of such information shall only make it available, with those restrictions, conditions and purposes.**~~.~~ |
+|  | **2.When sharing or exchanging information pursuant to this Regulation, ENISA shall respect relevant information sharing protocols, including the traffic light protocol as well as any restrictions, conditions and purposes for the handling, access, consultation, dissemination, reuse, aggregation or onward transmission of information indicated by the Member State, Union entity or other entity from which the information originates. The sharing or exchange of information pursuant to this Regulation shall be without prejudice to the control retained by the contributing Member State or entity over the conditions governing the use and circulation of the information it has transmitted. ENISA and any other recipient of such information shall only make it available, disseminate it, reuse it, aggregate it or transmit it further in accordance with those restrictions, conditions and purposes.**~~.~~ |
 
 ### Article 67, first paragraph b
 
@@ -5704,7 +5704,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | **(aa) to ensure that entities that are involved in the lifecycle of the ICT** |
+|  | **(aa) to ensure that entities that are involved in the lifecycle of the ICT products, ICT services and ICT processes are sufficiently secure;** |
 
 ### Article 80(1), point (b)
 
@@ -6023,7 +6023,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| (g) the information which is necessary for certification and which an applicant is to provide or otherwise make available to the conformity | (g) **~~the information which is necessary for certification and which an applicant is to provide or otherwise make available to the conformity~~** |
+| (g) the information which is necessary for certification and which an applicant is to provide or otherwise make available to the conformity assessment bodies; | (g) **~~the information which is necessary for certification and which an applicant is to provide or otherwise make available to the conformity assessment bodies;~~** |
 
 ### Article 81(3), point (h)
 
@@ -6066,7 +6066,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1.A European cybersecurity certification scheme may specify one or more of 1.A European cybersecurity certification scheme may specify one or more of the following assurance levels for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities: “basic”, “substantial” or “high”. Those assurance levels shall be commensurate with the level of the risk associated with the intended use of the ICT product, ICT service, ICT process, managed security service, or with the nature of entities, the cyber posture of which is subject to certification, and their operational environment, in terms of the probability and impact of an incident. | the following assurance levels for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities: “basic”, “substantial” or “high”. Those assurance levels shall be commensurate with the level of the risk associated with the intended use of the ICT product, ICT service, ICT process, managed security service, or with the nature of entities, the cyber posture of which is subject to certification, and their operational environment, in terms of the probability and impact of an incident. |
+| 1.A European cybersecurity certification scheme may specify one or more of the following assurance levels for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities: “basic”, “substantial” or “high”. Those assurance levels shall be commensurate with the level of the risk associated with the intended use of the ICT product, ICT service, ICT process, managed security service, or with the nature of entities, the cyber posture of which is subject to certification, and their operational environment, in terms of the probability and impact of an incident. | 1.A European cybersecurity certification scheme may specify one or more of the following assurance levels for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities: “basic”, “substantial” or “high”. Those assurance levels shall be commensurate with the level of the risk associated with the intended use of the ICT product, ICT service, ICT process, managed security service, or with the nature of entities, the cyber posture of which is subject to certification, and their operational environment, in terms of the probability and impact of an incident. |
 
 ### Article 82(2)
 
@@ -6382,7 +6382,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 5.The Commission may suggest to a Member State to withdraw a national cybersecurity certification scheme for ICT products, ICT services, ICT development of a European cybersecurity certification scheme covering such products, services, processes or cyber posture has already been requested in accordance with Article 73, taking into account the development plan of such scheme. | 5.**~~The Commission may suggest to a Member State to withdraw a national cybersecurity certification scheme for ICT products, ICT entities, where the development of a European cybersecurity certification scheme covering such products, services, processes or cyber posture has already been requested in accordance with Article 73, taking into account the development plan of such scheme.~~** See also Recital 115. |
+| 5.The Commission may suggest to a Member State to withdraw a national cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, where the development of a European cybersecurity certification scheme covering such products, services, processes or cyber posture has already been requested in accordance with Article 73, taking into account the development plan of such scheme. | 5.**~~The Commission may suggest to a Member State to withdraw a national cybersecurity certification scheme for ICT products, ICT services, ICT processes, managed security services or cyber posture of entities, where the development of a European cybersecurity certification scheme covering such products, services, processes or cyber posture has already been requested in accordance with Article 73, taking into account the development plan of such scheme.~~** See also Recital 115. |
 
 <a id="art-87"></a>
 ### Article 87
@@ -8092,7 +8092,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.Penalties shall be imposed in addition to any of the measures referred to in 3.Penalties shall be imposed in addition to any of the measures referred to in Article 114(3), points (a), (b) and (c). | Article 114(3), points (a), (b) and (c). |
+| 3.Penalties shall be imposed in addition to any of the measures referred to in Article 114(3), points (a), (b) and (c). | 3.Penalties shall be imposed in addition to any of the measures referred to in Article 114(3), points (a), (b) and (c). |
 
 ### Article 115(4)
 
@@ -8159,7 +8159,7 @@ WK 13671/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 3.Where appropriate and with common agreement, the competent authorities 3.Where appropriate and with common agreement, the competent authorities of various Member States may carry out joint supervisory actions. | of various Member States may carry out joint supervisory actions. |
+| 3.Where appropriate and with common agreement, the competent authorities of various Member States may carry out joint supervisory actions. | 3.Where appropriate and with common agreement, the competent authorities of various Member States may carry out joint supervisory actions. |
 
 ### Article 116(4)
 
