@@ -91,6 +91,7 @@ Comitology committee C70600, CNECT; examination procedure (Art. 5, 6 and 7 of Re
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
+| 2026-11-06 | [19th meeting of the Digital Europe Programme Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1865/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118902/1/consult) |
 | 2026-03-04 | [COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)435/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/113984/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/114044/1/consult) |
 | 2026-02-16 | [18th meeting of the Digital Europe Programme Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)207/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/113073/1/consult) |
 | 2025-10-23 | [17th meeting of the Digital Europe Programme Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1788/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/110287/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/114123/1/consult) |

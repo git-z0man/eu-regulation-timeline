@@ -69,4 +69,22 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2025-01-15 | oj | [CELEX 32025R0037](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0037) | [en](../texts/csa-managed-security-services/2025-01-15_oj.en.md) [de](../texts/csa-managed-security-services/2025-01-15_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa-managed-security-services/2025-01-15_oj.en.md) |
 | 2025-01-24 | corrigendum | [CELEX 32025R0037R(01)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0037R(01)) | [en](../texts/csa-managed-security-services/2025-01-24_corrigendum-01.en.md) [de](../texts/csa-managed-security-services/2025-01-24_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa-managed-security-services/2025-01-24_corrigendum-01.en.md) |
 
+## Committees and expert groups
+
+Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
+
+### [ENISA ad hoc working group on EUMSS certification (ENISA AHWG EUMSS)](committee-enisa-ahwg-eumss.md)
+
+ENISA ad hoc working group, Art. 49(4) and 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-eumss-certification).
+
+No meetings listed.
+
+Publications (3, as listed on the [group's page](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-eumss-certification)):
+
+- Documents in which ENISA acknowledges the group
+  - [Draft candidate EUMSS Scheme v1.1 for Public Review (draft, 2026-07-24): “…ENISA via the certification webpage Ask questions, find answers - European Union Cybersecurity Certification. ACKNOWLEDGEMENTS ENISA AHWG ON EUMSS LEGAL NOTICE This publication represents the views and interpretations of ENISA, unless stated otherwise. It does not endorse a regulatory obligation of…”](https://certification.enisa.europa.eu/publications/draft-candidate-eumss-scheme-v11-public-review_en)
+- Documents that mention the group
+  - [ENISA NIS360 (final, 2026-05-28): “…or authorities together to discuss on topics of cyber relevance (e.g. ISACs, workstreams, expert groups, conferences). That said, an ad hoc working group on EUMSS was established in 2025, to support the drafting of the EUMSS scheme foreseen under Regulation (EU) 2025/37 of the European Parliament and of the Council of…”](https://www.enisa.europa.eu/enisa-nis360-2026)
+  - [Voices of EU Cybersecurity Certification (final, 2025-12-15): “…focuses on the “how” to certify. But for sure, a cloud scheme faces more issues (shall be only focus on technical measures?) and the newly EUMSS AHWG will clearly face the difficulty to set, for each vertical, where it starts and where it ends. The second is the assurance levels associated with the scheme.…”](https://www.enisa.europa.eu/publications/voices-of-eu-cybersecurity-certification)
+
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

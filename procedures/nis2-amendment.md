@@ -1,6 +1,6 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 2 Nov 2026.
+Procedure 2026/0012(COD), as of 4 Nov 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -21,7 +21,7 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 | 2026-03-25 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29) | EP Open Data API, procedure 2026-0012 (REFERRAL) |
 | 2026-04-29 | Consultative bodies | EESC opinion | [CELEX 52026AE0075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0075) | Cellar procedure file 2026/12 |
 | 2026-05-13 | Council | Progress report | [ST 9121/26](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) · [en.md](../texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) | Council register document ST 9121/26 (interinstitutional files 2026/0011(COD), 2026/0012(COD)); Cellar links it to procedure 2026/0011(COD) only |
-| 2026-05-22 | Council | Progress report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | Council register document ST 9399/26 (interinstitutional files 2026/0011(COD), 2026/0012(COD)); Cellar links it to procedure 2026/0011(COD) only |
+| 2026-05-22 | Council | Progress report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | Cellar procedure file 2026/12 (Council register) |
 | 2026-05-28 | Council | Horizontal Working Party on Cyber Issues - attachés: Examination of the Proposal (5627/26 + ADD 1) | [CM 2950/26](https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf) | Council register, CM 2950/26 (notice of meeting and provisional agenda) |
 | 2026-09-24 | European Parliament | ITRE draft report | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) · [en.md](../texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.en.md) [de.md](../texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | EP Open Data API, procedure 2026-0012 (COMMITTEE_TABLING_REPORT) |
 
@@ -58,7 +58,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | PE796.471 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-23 | [ST 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99652) | council-note | European Court of Auditors’ Special Report No 19/2026: Detecting and responding to cybersecurity incidents - EU cooperation framework progressing, but only … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-03.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
 
 ## Texts as Markdown
 

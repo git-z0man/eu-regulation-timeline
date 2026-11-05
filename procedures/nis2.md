@@ -138,4 +138,10 @@ Publications (35, as listed on the [group's page](https://digital-strategy.ec.eu
   - [Report on the cybersecurity of Open RAN](https://digital-strategy.ec.europa.eu/en/library/report-cybersecurity-open-ran)
   - [Report on the cybersecurity and resiliency of the EU communications infrastructures and networks](https://digital-strategy.ec.europa.eu/en/library/report-cybersecurity-and-resiliency-eu-communications-infrastructures-and-networks)
 
+### [ENISA ad hoc working group on security architecture engineering and vulnerability management (ENISA AHWG Security Architecture and Vulnerability Management)](committee-enisa-ahwg-saevm.md)
+
+ENISA ad hoc working group, Art. 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-security-architecture-engineering-and-vulnerability-management).
+
+No meetings listed.
+
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

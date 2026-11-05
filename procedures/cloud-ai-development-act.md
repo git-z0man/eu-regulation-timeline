@@ -56,7 +56,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | [WK 16115/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98585) | council-note | Comments from Cyprus | not public\* | – | – |
 | 2026-10-30 | [ST 14918/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100884) | council-compromise | Presidency compromise text | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-03.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
 
 ## Texts as Markdown
 

@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1820" height="1317" viewBox="0 0 1820 1317" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1820" height="1395" viewBox="0 0 1820 1395" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <defs><pattern id="hatch-4f6f73" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#357150" stroke-opacity="0.5" stroke-width="2"/></pattern><pattern id="hatch-7a8b8e" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#2f5a9e" stroke-opacity="0.5" stroke-width="2"/></pattern></defs>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="1820" height="1317" fill="#ffffff"/>
+<rect width="1820" height="1395" fill="#ffffff"/>
 <g class="tl-title">
 <text font-size="20" fill="#222222" text-anchor="start" font-family='"Source Serif 4", Georgia, serif' font-weight="600"><tspan x="24.0" y="29.0">EU digital and product regulation – Machinery builder</tspan></text>
 </g>
 <g class="tl-sub">
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 4 Nov 2026. An orientation for planning, not legal advice.</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 5 Nov 2026. An orientation for planning, not legal advice.</tspan></text>
 </g>
-<g class="tl-span" data-top="88" data-bottom="1219" data-kx="1480" data-width="1820">
-<rect x="763.1" y="88.0" width="169.9" height="1131.0" fill="#e3eeef" stroke="none" opacity="0.7"/>
-<text font-size="10" fill="#0f5a63" text-anchor="start" font-weight="bold"><tspan x="763.1" y="81.5">as of 4 Nov 2026 · shaded: the next 12 months</tspan></text>
-<line x1="280.0" y1="88.0" x2="280.0" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="450.3" y1="88.0" x2="450.3" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="620.2" y1="88.0" x2="620.2" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="790.1" y1="88.0" x2="790.1" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="960.0" y1="88.0" x2="960.0" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="1130.3" y1="88.0" x2="1130.3" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="1300.2" y1="88.0" x2="1300.2" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
-<line x1="1470.1" y1="88.0" x2="1470.1" y2="1219.0" stroke="#d0d4d8" stroke-width="1"/>
+<g class="tl-span" data-top="88" data-bottom="1297" data-kx="1480" data-width="1820">
+<rect x="763.6" y="88.0" width="169.9" height="1209.0" fill="#e3eeef" stroke="none" opacity="0.7"/>
+<text font-size="10" fill="#0f5a63" text-anchor="start" font-weight="bold"><tspan x="763.6" y="81.5">as of 5 Nov 2026 · shaded: the next 12 months</tspan></text>
+<line x1="280.0" y1="88.0" x2="280.0" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="450.3" y1="88.0" x2="450.3" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="620.2" y1="88.0" x2="620.2" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="790.1" y1="88.0" x2="790.1" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="960.0" y1="88.0" x2="960.0" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="1130.3" y1="88.0" x2="1130.3" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="1300.2" y1="88.0" x2="1300.2" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
+<line x1="1470.1" y1="88.0" x2="1470.1" y2="1297.0" stroke="#d0d4d8" stroke-width="1"/>
 </g>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="365.0" y="102.2">2024</tspan></text>
 <text font-size="12" fill="#222222" text-anchor="middle" font-weight="bold"><tspan x="535.3" y="102.2">2025</tspan></text>
@@ -224,7 +224,7 @@
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780" target="_blank"><text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="872.9">NSR (revision of Reg. 1025/2012)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780" target="_blank"><rect x="749.6" y="862.0" width="294.6" height="14.0" fill="url(#hatch-7a8b8e)" stroke="#2f5a9e" stroke-dasharray="6 3" stroke-width="1.2"/></a>
 <a xlink:href="http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1" target="_blank"><title>COM(2026) 780: 06 Oct 2026</title><polygon points="749.6235455167694,863.0 755.6235455167694,869.0 749.6235455167694,875.0 743.6235455167694,869.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></a>
-<a xlink:href="http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="771.1" y="857.0">COM(2026) 780</tspan></text></a>
+<a xlink:href="http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="771.6" y="857.0">COM(2026) 780</tspan></text></a>
 <g class="tl-notes">
 <text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="861.0">Proposed 6 Oct 2026 (COM(2026) 780), replaces Reg. 1025/2012</tspan><tspan x="1484.0" y="873.5">six months after entry into force (Art. 43; entry into force</tspan><tspan x="1484.0" y="886.0">expected in 2028), without transitional rules. Free online</tspan><tspan x="1484.0" y="898.5">access to referenced standards (Art. 5); interim</tspan><tspan x="1484.0" y="911.0">deliverables, designated standards development organisations</tspan><tspan x="1484.0" y="923.5">and common specifications when the ESOs are late (Arts.</tspan><tspan x="1484.0" y="936.0">2(7), 29, 32). M/606 (CRA) expires before, M/605 phase 2</tspan><tspan x="1484.0" y="948.5">(machinery, due 2034) runs across the switch; Art. 20 MR and</tspan><tspan x="1484.0" y="961.0">Art. 27 CRA still name only harmonised standards.</tspan></text>
 </g>
@@ -301,32 +301,45 @@
 <line x1="20.0" y1="1213.0" x2="1800.0" y2="1213.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 </g>
+<g class="tl-row" data-row="quantum" data-group="Industrial policy" data-y="1219" data-h="78" data-compact="48">
+<g><title>low: low relevance for this profile</title><rect x="20.8" y="1238.8" width="8.5" height="8.5" fill="#ffffff" stroke="#6f757b" stroke-width="1.5"/></g>
+<text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="1246.8">Quantum Act</tspan></text>
+<g><title>Announced (Work Programme 2026): 21 Oct 2025</title><polygon points="586.7214236824093,1237.0 592.7214236824093,1243.0 586.7214236824093,1249.0 580.7214236824093,1243.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
+<text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="582.7" y="1231.0">Announced (Work Programme 2026)</tspan></text>
+<g class="tl-notes">
+<text font-size="10" fill="#333333" text-anchor="start"><tspan x="1484.0" y="1235.0">Announced in the Commission Work Programme 2026 (planned for</tspan><tspan x="1484.0" y="1247.5">Q2 2026), not yet proposed; with the Cloud and AI</tspan><tspan x="1484.0" y="1260.0">Development Act meant to strengthen the EU&#x27;s digital</tspan><tspan x="1484.0" y="1272.5">sovereignty. Relevant where quantum technologies enter</tspan><tspan x="1484.0" y="1285.0">machines or tenders.</tspan></text>
+</g>
+<line x1="20.0" y1="1297.0" x2="1800.0" y2="1297.0" stroke="#eceef0" stroke-width="1"/>
+<g class="tl-compact" display="none">
+<line x1="20.0" y1="1267.0" x2="1800.0" y2="1267.0" stroke="#eceef0" stroke-width="1"/>
+</g>
+</g>
 <g class="tl-span">
-<line x1="763.1" y1="88.0" x2="763.1" y2="1219.0" stroke="#0f5a63" stroke-width="2"/>
+<line x1="763.6" y1="88.0" x2="763.6" y2="1297.0" stroke="#0f5a63" stroke-width="2"/>
 </g>
 <g class="tl-foot">
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1253.8">Rating</tspan></text>
-<rect x="116.0" y="1244.0" width="12.0" height="12.0" fill="#d94841" stroke="none"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="134.0" y="1253.5">Act now: obligations within 15 months</tspan></text>
-<rect x="386.8" y="1244.0" width="12.0" height="12.0" fill="#e8a33d" stroke="none"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="404.8" y="1253.5">Prepare: obligations in 15–36 months</tspan></text>
-<rect x="657.6" y="1244.0" width="12.0" height="12.0" fill="#4f9a6a" stroke="none"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="675.6" y="1253.5">In operation: nothing new soon</tspan></text>
-<rect x="928.4" y="1244.0" width="12.0" height="12.0" fill="#4a78c2" stroke="none"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="946.4" y="1253.5">Monitor: proposal or procedure</tspan></text>
-<rect x="1200.0" y="1244.8" width="10.5" height="10.5" fill="#ffffff" stroke="#6f757b" stroke-width="1.5"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1217.2" y="1253.5">Low relevance for this profile</tspan></text>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1277.8">State</tspan></text>
-<rect x="116.0" y="1268.0" width="26.0" height="12.0" fill="#d5eadc" stroke="#357150"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="150.0" y="1277.5">in force, not yet applicable</tspan></text>
-<rect x="386.8" y="1268.0" width="26.0" height="12.0" fill="#4f9a6a" stroke="#357150"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="420.8" y="1277.5">applies (colour = rating)</tspan></text>
-<rect x="657.6" y="1268.0" width="26.0" height="12.0" fill="url(#hatch-4f6f73)" stroke="#357150" stroke-dasharray="6 3" stroke-width="1.2"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="691.6" y="1277.5">proposal, in procedure</tspan></text>
-<polygon points="936.4000000000001,1268 942.4000000000001,1274 936.4000000000001,1280 930.4000000000001,1274" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="950.4" y="1277.5">milestone</tspan></text>
-<polygon points="1207.2,1268 1213.2,1274 1207.2,1280 1201.2,1274" fill="#14181c" stroke="#14181c" stroke-width="1.5"/>
-<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1221.2" y="1277.5">obligations start</tspan></text>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1796.0" y="1300.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1331.8">Rating</tspan></text>
+<rect x="116.0" y="1322.0" width="12.0" height="12.0" fill="#d94841" stroke="none"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="134.0" y="1331.5">Act now: obligations within 15 months</tspan></text>
+<rect x="386.8" y="1322.0" width="12.0" height="12.0" fill="#e8a33d" stroke="none"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="404.8" y="1331.5">Prepare: obligations in 15–36 months</tspan></text>
+<rect x="657.6" y="1322.0" width="12.0" height="12.0" fill="#4f9a6a" stroke="none"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="675.6" y="1331.5">In operation: nothing new soon</tspan></text>
+<rect x="928.4" y="1322.0" width="12.0" height="12.0" fill="#4a78c2" stroke="none"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="946.4" y="1331.5">Monitor: proposal or procedure</tspan></text>
+<rect x="1200.0" y="1322.8" width="10.5" height="10.5" fill="#ffffff" stroke="#6f757b" stroke-width="1.5"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1217.2" y="1331.5">Low relevance for this profile</tspan></text>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1355.8">State</tspan></text>
+<rect x="116.0" y="1346.0" width="26.0" height="12.0" fill="#d5eadc" stroke="#357150"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="150.0" y="1355.5">in force, not yet applicable</tspan></text>
+<rect x="386.8" y="1346.0" width="26.0" height="12.0" fill="#4f9a6a" stroke="#357150"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="420.8" y="1355.5">applies (colour = rating)</tspan></text>
+<rect x="657.6" y="1346.0" width="26.0" height="12.0" fill="url(#hatch-4f6f73)" stroke="#357150" stroke-dasharray="6 3" stroke-width="1.2"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="691.6" y="1355.5">proposal, in procedure</tspan></text>
+<polygon points="936.4000000000001,1346 942.4000000000001,1352 936.4000000000001,1358 930.4000000000001,1352" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="950.4" y="1355.5">milestone</tspan></text>
+<polygon points="1207.2,1346 1213.2,1352 1207.2,1358 1201.2,1352" fill="#14181c" stroke="#14181c" stroke-width="1.5"/>
+<text font-size="10" fill="#222222" text-anchor="start"><tspan x="1221.2" y="1355.5">obligations start</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1796.0" y="1378.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </g>
 </svg>

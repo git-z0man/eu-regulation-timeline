@@ -77,4 +77,10 @@ Expert group E02758, CNECT. Official source: [Register of Commission expert grou
 | 2024-09-12 | 41st Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/111346/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/116390/download) |
 | 2024-03-21 | 40th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/104028/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/111345/download) |
 
+### [ENISA ad hoc working group on standardisation (ENISA AHWG Standardisation)](committee-enisa-ahwg-std.md)
+
+ENISA ad hoc working group, Art. 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-standardisation).
+
+No meetings listed.
+
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

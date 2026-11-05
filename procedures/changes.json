@@ -1,68 +1,68 @@
 {
  "items": [
   {
-   "date": "2026-11-03",
-   "title": "ESPR",
-   "actor": "Ecodesign Forum",
-   "label": "Ecodesign Forum",
-   "doc": "agenda, working document, working document",
-   "page": "espr.html"
-  },
-  {
-   "date": "2026-11-03",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "EN 40000-1-2:2026 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Approved",
-   "doc": "EN 40000-1-2:2026",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-03",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "EN 40000-1-1:2026 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Approved",
-   "doc": "EN 40000-1-1:2026",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-03",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 625",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-02",
+   "date": "2026-11-05",
    "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Drafting Stage – Final draft registered by ETSI Secretariat",
-   "doc": "EN 302 454",
+   "actor": "ERM WGEMC",
+   "label": "EN 300 386 – ElectroMagnetic Compatibility (EMC) requirements: Drafting Stage – NSB Adoption vote initiated",
+   "doc": "EN 300 386",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-05",
+   "title": "EMC Directive",
+   "actor": "ERM WGEMC",
+   "label": "EN 300 386 – ElectroMagnetic Compatibility (EMC) requirements: Drafting Stage – NSB Adoption vote initiated",
+   "doc": "EN 300 386",
+   "page": "committees.html#emc"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-08-31 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 12273/26",
+   "page": "medical-devices-simplification.html"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-08-28 (Exchange of views), listed as not public since 2026-09-25",
+   "doc": "ST 12272/26",
+   "page": "medical-devices-simplification.html"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "page": "medical-devices-simplification.html"
+  },
+  {
+   "date": "2026-11-04",
    "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft registered by ETSI Secretariat",
-   "doc": "EN 302 054",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-2-6 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – NSB Adoption vote initiated",
+   "doc": "EN 302 065-2-6",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-10-30",
-   "title": "RED",
-   "actor": "ERM WGSRR",
-   "label": "EN 302 858 – Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 G: Drafting Stage – Early draft",
-   "doc": "EN 302 858",
-   "page": "committees.html#red"
+   "date": "2026-11-04",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "page": "digital-omnibus.html"
   },
   {
-   "date": "2026-10-30",
-   "title": "RED",
-   "actor": "ERM WG34",
-   "label": "EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Drafting Stage – Final draft registered by ETSI Secretariat",
-   "doc": "EN 302 208",
-   "page": "committees.html#red"
+   "date": "2026-11-04",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-21 (Presidency presentation of Title II amendments), listed as not public since 2026-09-25",
+   "doc": "WK 14493/26",
+   "page": "csa2.html"
   }
  ]
 }

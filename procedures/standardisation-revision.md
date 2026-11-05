@@ -1,14 +1,14 @@
 # Legislative procedure – New Standardisation Regulation – COM(2026) 780 (proposal)
 
-Procedure 2026/0307(COD), as of 3 Nov 2026.
+Procedure 2026/0307(COD), as of 5 Nov 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 19 Oct 2026
-- **Latest activity:** 19 Oct 2026 · Council: Working Party on Technical Harmonisation: Presentation of the Proposal by the Commission and first exchange … (CM 4544/26 REV 1)
+- **Council:** working party, latest document 4 Nov 2026
+- **Latest activity:** 4 Nov 2026 · Council: Regulation on European Standardisation (WK 17067/26)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -34,8 +34,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-15 | [WK 16006/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98106) | council-note | Presidency Flash : Working party on Technical Harmonisation of 19 October 2026 | not public\* | – | – |
 | 2026-10-19 | [WK 16125/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98651) | council-note | The New Standardisation Regulation : Presentation of the Impact Assessment - Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 | 2026-10-19 | WK 16128/26 | council-note | Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
+| 2026-11-04 | [WK 17067/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101495) | council-note | Regulation on European Standardisation | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-03.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
 
 ## Texts as Markdown
 

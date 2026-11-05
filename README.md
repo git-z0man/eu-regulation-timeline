@@ -1,4 +1,4 @@
-<!-- as_of: 2026-11-04 -->
+<!-- as_of: 2026-11-05 -->
 # EU regulation timeline
 
 When do EU rules on cybersecurity, AI and products start to apply, and what do they
@@ -7,7 +7,7 @@ criticality rating per company profile.
 
 **Interactive page:** <https://git-z0man.github.io/eu-regulation-timeline/>
 
-As of **04 November 2026**. Dates are taken from the legal texts (links open EUR-Lex).
+As of **05 November 2026**. Dates are taken from the legal texts (links open EUR-Lex).
 Criticality is computed from the dates and is an orientation for planning, not legal
 advice. This repository is generated automatically; please do not open pull requests
 against the files.
@@ -16,7 +16,7 @@ against the files.
 Council, public documents): [`procedures/`](procedures/index.html).
 
 **Act pages** (next dates, texts, implementing acts, standardisation requests with
-their deadlines and the CEN-CENELEC and ETSI projects, committees and expert groups): [CRA](acts/cra.html), [MR](acts/machinery-regulation.html), [AI Act](acts/ai-act.html), [NIS-2](acts/nis2.html), [CSA2](acts/csa2.html), [Digital Omnibus](acts/digital-omnibus.html), [NSR](acts/standardisation-revision.html), [MSR](acts/market-surveillance.html).
+their deadlines and the CEN-CENELEC and ETSI projects, committees and expert groups): [CRA](acts/cra.html), [MR](acts/machinery-regulation.html), [AI Act](acts/ai-act.html), [NIS-2](acts/nis2.html), [CSA2](acts/csa2.html), [Digital Omnibus](acts/digital-omnibus.html), [NSR](acts/standardisation-revision.html), [MSR](acts/market-surveillance.html), [Quantum Act](acts/quantum-act.html).
 
 **Texts as Markdown** (legal acts, proposals, public Council and EP documents, for reading
 and for use in chats and project folders): [`texts/`](texts/README.md). All texts of an act
@@ -56,3 +56,4 @@ Editable in draw.io: [`machinery-builder.drawio`](machinery-builder.drawio) · I
 | 🔵 | [Public Procurement Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | monitor | proposal or legislative procedure | – | Public buyers of machinery; EU preference and cyber criteria in tenders; excludes high-risk suppliers (CSA2); amends the CRA. |
 | ⚪ | [IMERA – Reg. 2024/2747](http://data.europa.eu/eli/reg/2024/2747/oj) | low | low relevance for this profile | – | Only in an internal market emergency; priority orders, fast-track conformity assessment. |
 | ⚪ | [Net Zero Industry Act](http://data.europa.eu/eli/reg/2024/1735/oj) | low | low relevance for this profile | – | Rules for public buyers and renewable energy auctions (resilience, cyber security pre-qualification); relevant when supplying control systems to net-zero projects. |
+| ⚪ | Quantum Act | low | low relevance for this profile | – | Announced in the Commission Work Programme 2026 (planned for Q2 2026), not yet proposed; with the Cloud and AI Development Act meant to strengthen the EU's digital sovereignty. Relevant where quantum technologies enter machines or tenders. |

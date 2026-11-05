@@ -4,7 +4,7 @@ The official EU documents of the regulation timeline and the legislative procedu
 
 EN and DE link the Markdown files (for download and project folders); "GitHub" opens the rendered text, where a link to a provision (`#art-13`, `#rec-12`, `#annex-i`) jumps to it.
 
-Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
+Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union Agency for Cybersecurity (ENISA). The document states no licence; reproduced with acknowledgement of the source, as a document of an EU agency. The official document is authentic. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Reg. 765/2008
 
@@ -323,6 +323,7 @@ All texts of this act as one file: [digital-omnibus.zip](downloads/digital-omnib
 | 2026-06-22_council-position-st-10729-26 | council-position | ST 10729/26 | [en](digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_council-position-st-10729-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf) |
 | 2026-06-22_ep-draft-report-pe786-818 | ep-draft-report | PE786.818 | [en](digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) | [de](digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_de.docx) |
 | 2026-09-03_council-compromise-st-12535-26 | council-compromise | ST 12535/26 | [en](digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf) |
+| 2026-09-21_council-compromise-st-13112-26 | council-compromise | ST 13112/26 | [en](digital-omnibus/2026-09-21_council-compromise-st-13112-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-09-21_council-compromise-st-13112-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-13112-2026-INIT/en/pdf) |
 | 2026-10-22_council-position-st-14756-26 | council-position | ST 14756/26 | [en](digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) |
 
 ## Digital Omnibus on AI
@@ -816,6 +817,246 @@ All texts of this act as one file: [guidance-council-st-9568-26.zip](downloads/g
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05-27_final | final | ST 9568/1/26 REV 1 | [en](guidance/council/st-9568-26/2026-05-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/council/st-9568-26/2026-05-27_final.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9568-2026-REV-1/en/pdf) |
 
+## Accreditation of ITSEFs for EUCC
+
+`guidance/enisa/accreditation-itsefs-eucc` – Accreditation of ITSEFs for EUCC
+
+All texts of this act as one file: [guidance-enisa-accreditation-itsefs-eucc.zip](downloads/guidance-enisa-accreditation-itsefs-eucc.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-06_final | final | – | [en](guidance/enisa/accreditation-itsefs-eucc/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/accreditation-itsefs-eucc/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/43769143-f58e-4288-b5bb-218983e04757_en?filename=EUCC%20SotA_ITSEFs%20accreditation_1.6c.pdf) |
+
+## Application of attack potential to hardware devices with security boxe
+
+`guidance/enisa/application-attack-potential-hardware-devices-with-security` – Application of attack potential to hardware devices with security boxes
+
+All texts of this act as one file: [guidance-enisa-application-attack-potential-hardware-devices-with-security.zip](downloads/guidance-enisa-application-attack-potential-hardware-devices-with-security.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-06_final | final | – | [en](guidance/enisa/application-attack-potential-hardware-devices-with-security/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/application-attack-potential-hardware-devices-with-security/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/757c21e8-295a-41eb-b152-70cb902bb272_en?filename=EUCC_state_of_the_art_attack%20potential%20HDwSB%20v2%20%28final%29.pdf) |
+
+## Application of Attack Potential to Smartcards
+
+`guidance/enisa/application-attack-potential-smartcards` – Application of Attack Potential to Smartcards
+
+All texts of this act as one file: [guidance-enisa-application-attack-potential-smartcards.zip](downloads/guidance-enisa-application-attack-potential-smartcards.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-06_final | final | – | [en](guidance/enisa/application-attack-potential-smartcards/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/application-attack-potential-smartcards/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/836d47eb-13cf-4415-beb6-df106582f1c1_en?filename=EUCC_state_of_the_art_attack%20potential%20to%20smart%20cards%20%20v2%20%28final.pdf) |
+
+## Application of Common Criteria to integrated circuits
+
+`guidance/enisa/application-common-criteria-integrated-circuits` – Application of Common Criteria to integrated circuits
+
+All texts of this act as one file: [guidance-enisa-application-common-criteria-integrated-circuits.zip](downloads/guidance-enisa-application-common-criteria-integrated-circuits.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-06_final | final | – | [en](guidance/enisa/application-common-criteria-integrated-circuits/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/application-common-criteria-integrated-circuits/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/98f3cd81-532a-43f0-a897-e4a2cb3040f6_en?filename=EUCC_state_of_the_art_Application%20CC%20to%20integrated%20circuits%20v2%20%28final%29.pdf) |
+
+## Candidate EUCS Scheme v1.0
+
+`guidance/enisa/candidate-eucs-scheme` – Candidate EUCS Scheme v1.0
+
+All texts of this act as one file: [guidance-enisa-candidate-eucs-scheme.zip](downloads/guidance-enisa-candidate-eucs-scheme.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-28_final | final | – | [en](guidance/enisa/candidate-eucs-scheme/2026-04-28_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/candidate-eucs-scheme/2026-04-28_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/c14f76c8-99e8-4900-a2c2-a412fa3ab071_en?filename=EUCS%20%E2%80%93%20Cloud%20Service%20candidate%20cybersecurity%20certification%20scheme.pdf) |
+
+## candidate EUMSS Scheme v1.1 for Public Review
+
+`guidance/enisa/candidate-eumss-scheme` – Draft candidate EUMSS Scheme v1.1 for Public Review
+
+All texts of this act as one file: [guidance-enisa-candidate-eumss-scheme.zip](downloads/guidance-enisa-candidate-eumss-scheme.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-24_draft | draft | – | [en](guidance/enisa/candidate-eumss-scheme/2026-07-24_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/candidate-eumss-scheme/2026-07-24_draft.en.md) | [source](https://certification.enisa.europa.eu/document/download/922ac657-f774-464d-9548-c9bb65bd786a_en?filename=Candidate%20EUMSS%20Scheme%20Draft%20v1.1%20Public%20Consultation.pdf) |
+
+## Composite product evaluation and certification for CC:2022
+
+`guidance/enisa/composite-product-evaluation-certification-cc-2022` – Composite product evaluation and certification for CC:2022
+
+All texts of this act as one file: [guidance-enisa-composite-product-evaluation-certification-cc-2022.zip](downloads/guidance-enisa-composite-product-evaluation-certification-cc-2022.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-19_final | final | – | [en](guidance/enisa/composite-product-evaluation-certification-cc-2022/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/composite-product-evaluation-certification-cc-2022/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/a8fa3940-7423-4b6b-8edc-164a94e8de1d_en?filename=EUCC_state_of_the_art_Composite%20evaluation_CC%202022%20v1%20%28final%29.pdf) |
+
+## Composite product evaluation for smart cards and similar devices for C
+
+`guidance/enisa/composite-product-evaluation-smart-cards-similar-devices` – Composite product evaluation for smart cards and similar devices for CC3.1
+
+All texts of this act as one file: [guidance-enisa-composite-product-evaluation-smart-cards-similar-devices.zip](downloads/guidance-enisa-composite-product-evaluation-smart-cards-similar-devices.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-06_final | final | – | [en](guidance/enisa/composite-product-evaluation-smart-cards-similar-devices/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/composite-product-evaluation-smart-cards-similar-devices/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/8243df3e-9655-4650-a304-40c02e463442_en?filename=EUCC_state_of_the_art_Composite%20evaluation%20Smart%20Cards_CC3.1%20v2%20%28final%29.pdf) |
+
+## Cyber Resilience Act implementation via EUCC and its applicable techni
+
+`guidance/enisa/cyber-resilience-act-implementation-via-eucc-its` – Cyber Resilience Act implementation via EUCC and its applicable technical elements
+
+All texts of this act as one file: [guidance-enisa-cyber-resilience-act-implementation-via-eucc-its.zip](downloads/guidance-enisa-cyber-resilience-act-implementation-via-eucc-its.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-06_final | final | – | [en](guidance/enisa/cyber-resilience-act-implementation-via-eucc-its/2025-06-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/cyber-resilience-act-implementation-via-eucc-its/2025-06-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/b51f00ee-d2c3-47e7-af85-059b5e06acef_en?filename=CRA%20implementation%20via%20EUCC.pdf) |
+
+## Cybersecurity roles and skills for NIS2 Essential and Important Entiti
+
+`guidance/enisa/cybersecurity-roles-skills-nis2-essential-important-entities` – Cybersecurity roles and skills for NIS2 Essential and Important Entities
+
+All texts of this act as one file: [guidance-enisa-cybersecurity-roles-skills-nis2-essential-important-entities.zip](downloads/guidance-enisa-cybersecurity-roles-skills-nis2-essential-important-entities.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-26_final | final | – | [en](guidance/enisa/cybersecurity-roles-skills-nis2-essential-important-entities/2025-06-26_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/cybersecurity-roles-skills-nis2-essential-important-entities/2025-06-26_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-06/Mapping%20NIS%202%20obligations%20with%20ECSF%20role%20profiles.pdf) |
+
+## Digital Tachograph Motion Sensor PP Clarifications
+
+`guidance/enisa/digital-tachograph-motion-sensor-pp-clarifications` – Digital Tachograph Motion Sensor PP Clarifications
+
+All texts of this act as one file: [guidance-enisa-digital-tachograph-motion-sensor-pp-clarifications.zip](downloads/guidance-enisa-digital-tachograph-motion-sensor-pp-clarifications.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-19_final | final | – | [en](guidance/enisa/digital-tachograph-motion-sensor-pp-clarifications/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/digital-tachograph-motion-sensor-pp-clarifications/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/cf6fec69-4f5d-43c3-8f3b-deb0cb5ca829_en?filename=EUCC_state_of_the_art_Tachograph%20Motion%20Sensor%20PP%20v1%20%28final%29.pdf) |
+
+## ECCG Agreed Cryptographic Mechanisms, version 3 (public review)
+
+`guidance/enisa/eccg-agreed-cryptographic-mechanisms` – Draft ECCG Agreed Cryptographic Mechanisms, version 3 (public review)
+
+All texts of this act as one file: [guidance-enisa-eccg-agreed-cryptographic-mechanisms.zip](downloads/guidance-enisa-eccg-agreed-cryptographic-mechanisms.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-07_draft | draft | – | [en](guidance/enisa/eccg-agreed-cryptographic-mechanisms/2026-05-07_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eccg-agreed-cryptographic-mechanisms/2026-05-07_draft.en.md) | [source](https://certification.enisa.europa.eu/document/download/9993abb8-5f27-47d0-bdb2-f6f284cd5141_en?filename=20260507-acm-draft.pdf) |
+
+## EUCC Guidelines on Cryptography
+
+`guidance/enisa/eucc-guidelines-cryptography` – EUCC Guidelines on Cryptography
+
+All texts of this act as one file: [guidance-enisa-eucc-guidelines-cryptography.zip](downloads/guidance-enisa-eucc-guidelines-cryptography.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-30_final | final | – | [en](guidance/enisa/eucc-guidelines-cryptography/2026-06-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eucc-guidelines-cryptography/2026-06-30_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/f4657490-9757-4a97-8deb-fd4d6a1358ee_en?filename=EUCC_guidelines_Agreed%20Cryptographic%20Mechanisms%20v2.pdf) |
+
+## EUCC Guidelines on CSP-based evaluation in the context of Secure Eleme
+
+`guidance/enisa/eucc-guidelines-csp-based-evaluation-context-secure` – EUCC Guidelines on CSP-based evaluation in the context of Secure Elements
+
+All texts of this act as one file: [guidance-enisa-eucc-guidelines-csp-based-evaluation-context-secure.zip](downloads/guidance-enisa-eucc-guidelines-csp-based-evaluation-context-secure.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-04_final | final | – | [en](guidance/enisa/eucc-guidelines-csp-based-evaluation-context-secure/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eucc-guidelines-csp-based-evaluation-context-secure/2026-11-04_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/831b46dc-5f27-4b56-bd18-dafb55c10377_en?filename=EUCC_guidelines_CSP-based%20evaluation%20in%20context%20Secure%20Elements%20-%20version%201.pdf) |
+
+## EUCC guidelines: evaluation methodology for product series
+
+`guidance/enisa/eucc-guidelines-evaluation-methodology-product-series` – EUCC guidelines: evaluation methodology for product series
+
+All texts of this act as one file: [guidance-enisa-eucc-guidelines-evaluation-methodology-product-series.zip](downloads/guidance-enisa-eucc-guidelines-evaluation-methodology-product-series.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-09_final | final | – | [en](guidance/enisa/eucc-guidelines-evaluation-methodology-product-series/2025-07-09_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eucc-guidelines-evaluation-methodology-product-series/2025-07-09_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/a53864b9-1bca-4305-8da6-7f399fec08e6_en?filename=EUCC_guidelines_evaluation%20methodology%20for%20product%20series%20v1.pdf) |
+
+## EUCC Guidelines on Vulnerability Management and Disclosure and ECCG op
+
+`guidance/enisa/eucc-guidelines-vulnerability-management-disclosure-eccg-opinion` – EUCC Guidelines on Vulnerability Management and Disclosure and ECCG opinion
+
+All texts of this act as one file: [guidance-enisa-eucc-guidelines-vulnerability-management-disclosure-eccg-opinion.zip](downloads/guidance-enisa-eucc-guidelines-vulnerability-management-disclosure-eccg-opinion.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-13_final | final | – | [en](guidance/enisa/eucc-guidelines-vulnerability-management-disclosure-eccg-opinion/2025-02-13_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eucc-guidelines-vulnerability-management-disclosure-eccg-opinion/2025-02-13_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/ee73de47-1c3f-4ff1-bffa-3453bf74e30a_en?filename=Final%20Opinion%20ECCG_guidance%20on%20vulnerability%20management_endorsed%20by%20ECCG_0.pdf) |
+
+## Formal methods: transition from CC v3.1 to CC:2022
+
+`guidance/enisa/formal-methods-transition-from-cc-cc-2022` – Formal methods: transition from CC v3.1 to CC:2022
+
+All texts of this act as one file: [guidance-enisa-formal-methods-transition-from-cc-cc-2022.zip](downloads/guidance-enisa-formal-methods-transition-from-cc-cc-2022.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-19_final | final | – | [en](guidance/enisa/formal-methods-transition-from-cc-cc-2022/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/formal-methods-transition-from-cc-cc-2022/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/60dcc444-5224-402a-9132-2bfa5645a734_en?filename=EUCC_SotA_ADV_SPM.1_v1.1%20%28final%29.pdf) |
+
+## Guidelines on assurance continuity - practical change scenarios for ce
+
+`guidance/enisa/guidelines-assurance-continuity-practical-change-scenarios-certified` – Guidelines on assurance continuity - practical change scenarios for certified ICT products
+
+All texts of this act as one file: [guidance-enisa-guidelines-assurance-continuity-practical-change-scenarios-certified.zip](downloads/guidance-enisa-guidelines-assurance-continuity-practical-change-scenarios-certified.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-06_final | final | – | [en](guidance/enisa/guidelines-assurance-continuity-practical-change-scenarios-certified/2026-01-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/guidelines-assurance-continuity-practical-change-scenarios-certified/2026-01-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/e2e4366f-d63d-4ba8-a130-59677f8499ad_en?filename=EUCC_guidelines_assurance%20continuity%20-%20practical%20change%20scenarios%20for%20certified%20ICT%20products%20-%20version%201.pdf) |
+
+## Handbook for Cyber Stress Tests
+
+`guidance/enisa/handbook-cyber-stress-tests` – HANDBOOK FOR CYBER STRESS TESTS
+
+All texts of this act as one file: [guidance-enisa-handbook-cyber-stress-tests.zip](downloads/guidance-enisa-handbook-cyber-stress-tests.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-05-15_final | final | – | [en](guidance/enisa/handbook-cyber-stress-tests/2025-05-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/handbook-cyber-stress-tests/2025-05-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-05/2025.04311_01_ms_v2.0_Handbook%20for%20Cyber%20Stress%20Tests_en.pdf) |
+
+## Hardware assessment in EN 419221-5 (HSM PP)
+
+`guidance/enisa/hardware-assessment-en-hsm-pp` – Hardware assessment in EN 419221-5 (HSM PP)
+
+All texts of this act as one file: [guidance-enisa-hardware-assessment-en-hsm-pp.zip](downloads/guidance-enisa-hardware-assessment-en-hsm-pp.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-19_final | final | – | [en](guidance/enisa/hardware-assessment-en-hsm-pp/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/hardware-assessment-en-hsm-pp/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/c0cb0cdf-046e-440e-9994-1146c27b96d0_en?filename=EUCC_state_of_the_art_HSM%20PP%20v1%20%28final%29.pdf) |
+
+## Minimum ITSEF requirements for security evaluations of smart cards and
+
+`guidance/enisa/minimum-itsef-requirements-security-evaluations-smart-cards` – Minimum ITSEF requirements for security evaluations of smart cards and similar devices
+
+All texts of this act as one file: [guidance-enisa-minimum-itsef-requirements-security-evaluations-smart-cards.zip](downloads/guidance-enisa-minimum-itsef-requirements-security-evaluations-smart-cards.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-25_final | final | – | [en](guidance/enisa/minimum-itsef-requirements-security-evaluations-smart-cards/2025-03-25_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/minimum-itsef-requirements-security-evaluations-smart-cards/2025-03-25_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/2311497f-66c2-4ef8-b53a-a32b7299eba9_en?filename=EUCC_state_of_the_art_Minimum%20ITSEF%20requirements%20for%20security%20evaluations%20of%20smart%20cards%20and%20similar%20devices%20v1.1.pdf) |
+
+## Minimum Site Security Requirements
+
+`guidance/enisa/minimum-site-security-requirements` – Minimum Site Security Requirements
+
+All texts of this act as one file: [guidance-enisa-minimum-site-security-requirements.zip](downloads/guidance-enisa-minimum-site-security-requirements.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-06_final | final | – | [en](guidance/enisa/minimum-site-security-requirements/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/minimum-site-security-requirements/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/41370bf1-22f4-4fda-a644-503cdb3c3dd9_en?filename=EUCC_state_of_the_art_MSSR%20v2%20%28final%29.pdf) |
+
+## National Capabilities Assessment Framework 2.0
+
+`guidance/enisa/national-capabilities-assessment-framework` – National Capabilities Assessment Framework 2.0
+
+All texts of this act as one file: [guidance-enisa-national-capabilities-assessment-framework.zip](downloads/guidance-enisa-national-capabilities-assessment-framework.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-22_final | final | – | [en](guidance/enisa/national-capabilities-assessment-framework/2026-04-22_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/national-capabilities-assessment-framework/2026-04-22_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-04/National%20Capabilities%20Assessment%20Framework%202.0_EN.pdf) |
+
+## NIS Investments 2025
+
+`guidance/enisa/nis-investments-2025` – NIS Investments 2025
+
+All texts of this act as one file: [guidance-enisa-nis-investments-2025.zip](downloads/guidance-enisa-nis-investments-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-08_final | final | – | [en](guidance/enisa/nis-investments-2025/2025-12-08_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/nis-investments-2025/2025-12-08_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-02/NIS%20Investments%202025%20-%20Main%20report.pdf) |
+
 ## ENISA NIS-2 technical guidance 2025
 
 `guidance/enisa/nis2-technical-guidance-2025` – Technical implementation guidance on Commission Implementing Regulation (EU) 2024/2690 of 17 October 2024 laying down rules for the application of Directive (EU) 2022/2555 as regards technical and methodological requirements of cybersecurity risk-management measures, version 1.0, June 2025
@@ -825,6 +1066,198 @@ All texts of this act as one file: [guidance-enisa-nis2-technical-guidance-2025.
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-06-26_final | final | – | [en](guidance/enisa/nis2-technical-guidance-2025/2025-06-26_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/nis2-technical-guidance-2025/2025-06-26_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf) |
+
+## ENISA NIS360
+
+`guidance/enisa/nis360` – ENISA NIS360
+
+All texts of this act as one file: [guidance-enisa-nis360.zip](downloads/guidance-enisa-nis360.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-28_final | final | – | [en](guidance/enisa/nis360/2026-05-28_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/nis360/2026-05-28_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-05/ENISA%20NIS360%202026.pdf) |
+
+## ENISA NIS360 2024
+
+`guidance/enisa/nis360-2024` – enisa nis360 2024
+
+All texts of this act as one file: [guidance-enisa-nis360-2024.zip](downloads/guidance-enisa-nis360-2024.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-05_final | final | – | [en](guidance/enisa/nis360-2024/2025-03-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/nis360-2024/2025-03-05_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-03/ENISA%20-%20NIS360%20-%202024_0.pdf) |
+
+## Procurement guidelines for the cybersecurity of hospitals and healthca
+
+`guidance/enisa/procurement-guidelines-cybersecurity-hospitals-healthcare-providers` – Procurement guidelines for the cybersecurity of hospitals and healthcare providers
+
+All texts of this act as one file: [guidance-enisa-procurement-guidelines-cybersecurity-hospitals-healthcare-providers.zip](downloads/guidance-enisa-procurement-guidelines-cybersecurity-hospitals-healthcare-providers.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-22_final | final | – | [en](guidance/enisa/procurement-guidelines-cybersecurity-hospitals-healthcare-providers/2026-07-22_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/procurement-guidelines-cybersecurity-hospitals-healthcare-providers/2026-07-22_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-07/Procurement%20guidelines%20for%20the%20cybersecurity%20of%20hospitals%20and%20healthcare%20providers.pdf) |
+
+## SBOM Adoption State of Play - 2026
+
+`guidance/enisa/sbom-adoption-state-play-2026` – SBOM Adoption State of Play - 2026
+
+All texts of this act as one file: [guidance-enisa-sbom-adoption-state-play-2026.zip](downloads/guidance-enisa-sbom-adoption-state-play-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-09_final | final | – | [en](guidance/enisa/sbom-adoption-state-play-2026/2026-06-09_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/sbom-adoption-state-play-2026/2026-06-09_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-06/SBOM%20Adoption%20State%20of%20Play%202026.pdf) |
+
+## ENISA Secure by Design and Default Playbook
+
+`guidance/enisa/secure-by-design-default-playbook` – ENISA Secure by Design and Default Playbook
+
+All texts of this act as one file: [guidance-enisa-secure-by-design-default-playbook.zip](downloads/guidance-enisa-secure-by-design-default-playbook.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-30_final | final | – | [en](guidance/enisa/secure-by-design-default-playbook/2026-07-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/secure-by-design-default-playbook/2026-07-30_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA_Secure_By_Design_and_Default_Playbook_v1.pdf) |
+
+## Security Architecture Requirements for Smart Cards and Similar Devices
+
+`guidance/enisa/security-architecture-requirements-smart-cards-similar-devices` – Security Architecture Requirements for Smart Cards and Similar Devices
+
+All texts of this act as one file: [guidance-enisa-security-architecture-requirements-smart-cards-similar-devices.zip](downloads/guidance-enisa-security-architecture-requirements-smart-cards-similar-devices.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-09_final | final | – | [en](guidance/enisa/security-architecture-requirements-smart-cards-similar-devices/2026-03-09_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/security-architecture-requirements-smart-cards-similar-devices/2026-03-09_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/bd5b5f3e-995e-4a21-b071-38369c8703a3_en?filename=EUCC_guidelines_security%20architecture%20requirements%20%28ADV_ARC%29%20for%20smart%20cards%20and%20similar%20devices%20-%20appendix.pdf) |
+
+## ENISA Single Programming Document 2026-2028
+
+`guidance/enisa/single-programming-document-2026-2028` – ENISA Single Programming Document 2026-2028
+
+All texts of this act as one file: [guidance-enisa-single-programming-document-2026-2028.zip](downloads/guidance-enisa-single-programming-document-2026-2028.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-27_final | final | – | [en](guidance/enisa/single-programming-document-2026-2028/2026-01-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/single-programming-document-2026-2028/2026-01-27_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-01/ENISA_Single%20Programming_Document_2026.pdf) |
+
+## SME CRA Survey Report
+
+`guidance/enisa/sme-cra-survey-report` – SME CRA Survey Report
+
+All texts of this act as one file: [guidance-enisa-sme-cra-survey-report.zip](downloads/guidance-enisa-sme-cra-survey-report.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-24_final | final | – | [en](guidance/enisa/sme-cra-survey-report/2026-06-24_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/sme-cra-survey-report/2026-06-24_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-06/SME%20CRA%20survey%20report.pdf) |
+
+## SME Cyber Resilience Maturity Assessment Model
+
+`guidance/enisa/sme-cyber-resilience-maturity-assessment-model` – SME Cyber Resilience Maturity Assessment Model
+
+All texts of this act as one file: [guidance-enisa-sme-cyber-resilience-maturity-assessment-model.zip](downloads/guidance-enisa-sme-cyber-resilience-maturity-assessment-model.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-13_final | final | – | [en](guidance/enisa/sme-cyber-resilience-maturity-assessment-model/2026-07-13_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/sme-cyber-resilience-maturity-assessment-model/2026-07-13_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-07/SME%20maturity%20assessment%20model_final.pdf) |
+
+## Star Methodology
+
+`guidance/enisa/star-methodology` – Star Methodology
+
+All texts of this act as one file: [guidance-enisa-star-methodology.zip](downloads/guidance-enisa-star-methodology.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-19_final | final | – | [en](guidance/enisa/star-methodology/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/star-methodology/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/21e7efa6-8c29-49fd-94dc-df1372f1762d_en?filename=EUCC_state_of_the_art_STAR%20Methodology%20v1%20%28final%29.pdf) |
+
+## ENISA draft advisory on AI-assisted development
+
+`guidance/enisa/technical-advisory-ai-assisted-development` – ENISA Technical Advisory on AI-assisted software development, version 0.4, September 2026 (draft for public consultation)
+
+All texts of this act as one file: [guidance-enisa-technical-advisory-ai-assisted-development.zip](downloads/guidance-enisa-technical-advisory-ai-assisted-development.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-17_draft | draft | – | [en](guidance/enisa/technical-advisory-ai-assisted-development/2026-09-17_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-ai-assisted-development/2026-09-17_draft.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-09/ENISA%20Technical%20Advisory-AI-assisted-software-development-draft.pdf) |
+
+## ENISA Technical Advisory for Secure Use of Package Managers
+
+`guidance/enisa/technical-advisory-secure-use-package-managers` – ENISA Technical Advisory for Secure Use of Package Managers
+
+All texts of this act as one file: [guidance-enisa-technical-advisory-secure-use-package-managers.zip](downloads/guidance-enisa-technical-advisory-secure-use-package-managers.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-17_draft | draft | – | [en](guidance/enisa/technical-advisory-secure-use-package-managers/2025-12-17_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-secure-use-package-managers/2025-12-17_draft.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-12/ENISA%20Technical%20Advisory%20-%20Package_Managers_v_0.8_draft.pdf) |
+| 2026-03-10_final | final | – | [en](guidance/enisa/technical-advisory-secure-use-package-managers/2026-03-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-secure-use-package-managers/2026-03-10_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-03/ENISA%20Technical%20Advisory%20-%20Package_Managers_Final.pdf) |
+
+## ENISA draft advisory on security.txt and CVD
+
+`guidance/enisa/technical-advisory-security-txt-cvd` – ENISA Technical Advisory on security.txt, CVD Policies and Security Advisories, SME Vulnerability Kit, October 2026 (draft for public consultation)
+
+All texts of this act as one file: [guidance-enisa-technical-advisory-security-txt-cvd.zip](downloads/guidance-enisa-technical-advisory-security-txt-cvd.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-26_draft | draft | – | [en](guidance/enisa/technical-advisory-security-txt-cvd/2026-10-26_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-security-txt-cvd/2026-10-26_draft.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-10/Technical%20Advisory%20on%20security.txt%20CVD%20Policies%20and%20Security%20Advisories%20Public%20Consultation.pdf) |
+
+## ENISA Technical Advisory for Software Bill of Materials
+
+`guidance/enisa/technical-advisory-software-bill-materials` – ENISA Technical Advisory for Software Bill of Materials
+
+All texts of this act as one file: [guidance-enisa-technical-advisory-software-bill-materials.zip](downloads/guidance-enisa-technical-advisory-software-bill-materials.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-22_final | final | – | [en](guidance/enisa/technical-advisory-software-bill-materials/2026-10-22_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-software-bill-materials/2026-10-22_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-10/ENISA%20Technical%20Advisory%20-%20Software%20Bill%20of%20Materials%20-%20v1.10.pdf) |
+
+## ENISA advisory on secure update mechanisms
+
+`guidance/enisa/technical-advisory-update-mechanisms` – ENISA Technical Advisory on Secure Update Mechanisms, version 1.0, November 2026
+
+All texts of this act as one file: [guidance-enisa-technical-advisory-update-mechanisms.zip](downloads/guidance-enisa-technical-advisory-update-mechanisms.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-29_draft | draft | – | [en](guidance/enisa/technical-advisory-update-mechanisms/2026-05-29_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-update-mechanisms/2026-05-29_draft.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-05/Draft%20-%20ENISA%20Technical%20Advisory%20-%20Update%20Mechanisms%20-%20v0.6.pdf) |
+| 2026-11-04_final | final | – | [en](guidance/enisa/technical-advisory-update-mechanisms/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-update-mechanisms/2026-11-04_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-11/ENISA%20Technical%20Advisory%20-%20Update%20Mechanisms%20-%20v1.pdf) |
+
+## Technical Competence Requirements for CRA Notified Bodies
+
+`guidance/enisa/technical-competence-requirements-cra-notified-bodies` – Technical Competence Requirements
+
+All texts of this act as one file: [guidance-enisa-technical-competence-requirements-cra-notified-bodies.zip](downloads/guidance-enisa-technical-competence-requirements-cra-notified-bodies.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-04_final | final | – | [en](guidance/enisa/technical-competence-requirements-cra-notified-bodies/2026-06-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-competence-requirements-cra-notified-bodies/2026-06-04_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-06/Technical%20Competence%20Requirements%20for%20CABs.pdf) |
+
+## Telecom Security Incidents 2024
+
+`guidance/enisa/telecom-security-incidents-2024` – Telecom Security Incidents 2024
+
+All texts of this act as one file: [guidance-enisa-telecom-security-incidents-2024.zip](downloads/guidance-enisa-telecom-security-incidents-2024.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-15_final | final | – | [en](guidance/enisa/telecom-security-incidents-2024/2025-07-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/telecom-security-incidents-2024/2025-07-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-07/ENISA_Telecom_Security_Incidents_2024_en_1.pdf) |
+
+## ENISA’s view on Cybersecurity in the Frontier AI Era
+
+`guidance/enisa/view-cybersecurity-frontier-ai-era` – ENISA’s view on Cybersecurity in the Frontier AI Era
+
+All texts of this act as one file: [guidance-enisa-view-cybersecurity-frontier-ai-era.zip](downloads/guidance-enisa-view-cybersecurity-frontier-ai-era.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-07_final | final | – | [en](guidance/enisa/view-cybersecurity-frontier-ai-era/2026-07-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/view-cybersecurity-frontier-ai-era/2026-07-07_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA%20view%20on%20cybersecurity%20in%20the%20frontier%20AI%20era_en_0.pdf) |
+
+## Voices of EU Cybersecurity Certification
+
+`guidance/enisa/voices-cybersecurity-certification` – Voices of EU Cybersecurity Certification
+
+All texts of this act as one file: [guidance-enisa-voices-cybersecurity-certification.zip](downloads/guidance-enisa-voices-cybersecurity-certification.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-15_final | final | – | [en](guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-12/2025_Voices%20of%20EU%20Cybersecurity%20Certification.pdf) |
 
 ## EU 5G Toolbox
 
