@@ -1,6 +1,6 @@
 # Product laws under the New Legislative Framework: changes in parallel
 
-Data of 2026-11-05. Our own assessment from public sources, CC BY 4.0. 25 of 31 product laws are changed by 11 files that are pending or were adopted since Nov 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
+Data of 2026-11-06. Our own assessment from public sources, CC BY 4.0. 25 of 31 product laws are changed by 11 files that are pending or were adopted since Nov 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
 
 | Act | Changed in parallel by | Announced |
 | --- | --- | --- |

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Money from the Commission for agreed actions">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Money from the Commission for agreed actions</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="380" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Money from the Commission for agreed actions</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Actions the Commission finances through ENISA, by period: EUR 101.4 million agreed since 2022.</text>
+<text x="24" y="78" font-size="14" fill="#454c53">Most end in 2028; their staff are contract agents hired for them.</text>
+<line x1="330.0" x2="330.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="368.7" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2022</text>
+<line x1="408.0" x2="408.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="446.7" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2023</text>
+<line x1="486.0" x2="486.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="524.9" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2024</text>
+<line x1="564.0" x2="564.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="602.7" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2025</text>
+<line x1="642.0" x2="642.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="680.7" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2026</text>
+<line x1="720.0" x2="720.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="758.7" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2027</text>
+<line x1="798.0" x2="798.0" y1="106" y2="316" stroke="#eceff1"/>
+<text x="836.9" y="100" text-anchor="middle" font-size="12.5" fill="#454c53">2028</text>
+<line x1="876.0" x2="876.0" y1="106" y2="316" stroke="#eceff1"/>
+<line x1="708.0" x2="708.0" y1="106" y2="316" stroke="#14181c" stroke-dasharray="3 3"/>
+<text x="712.0" y="332" font-size="11.5" fill="#454c53">today</text>
+<text x="320" y="133.0" text-anchor="end" font-size="13" fill="#14181c">Pilot Support Action</text>
+<rect x="330.0" y="120.0" width="155.7" height="18" fill="#3d7f86"><title>Pilot Support Action: EUR 15.0 m, 1 Jan 2022 – 31 Dec 2023</title></rect>
+<text x="491.7" y="133.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#14181c">EUR 15.0 m</text>
+<line x1="330" x2="876" y1="146.0" y2="146.0" stroke="#eceff1"/>
+<text x="320" y="167.0" text-anchor="end" font-size="13" fill="#14181c">Preparedness and incident response, key sectors</text>
+<rect x="486.0" y="154.0" width="233.7" height="18" fill="#3d7f86"><title>Preparedness and incident response, key sectors: EUR 20.0 m, 1 Jan 2024 – 31 Dec 2026</title></rect>
+<text x="725.7" y="167.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#14181c">EUR 20.0 m</text>
+<line x1="330" x2="876" y1="180.0" y2="180.0" stroke="#eceff1"/>
+<text x="320" y="201.0" text-anchor="end" font-size="13" fill="#14181c">CRA single reporting platform: feasibility study</text>
+<rect x="559.2" y="188.0" width="127.8" height="18" fill="#3d7f86"><title>CRA single reporting platform: feasibility study: EUR 0.4 m, 9 Dec 2024 – 31 Jul 2026</title></rect>
+<text x="693.1" y="201.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#14181c">EUR 0.4 m</text>
+<line x1="330" x2="876" y1="214.0" y2="214.0" stroke="#eceff1"/>
+<text x="320" y="235.0" text-anchor="end" font-size="13" fill="#14181c">Incident and vulnerability response, CRA platform</text>
+<rect x="564.0" y="222.0" width="309.2" height="18" fill="#3d7f86"><title>Incident and vulnerability response, CRA platform: EUR 23.4 m, 1 Jan 2025 – 18 Dec 2028</title></rect>
+<text x="867.2" y="235.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#fff">EUR 23.4 m</text>
+<line x1="330" x2="876" y1="248.0" y2="248.0" stroke="#eceff1"/>
+<text x="320" y="269.0" text-anchor="end" font-size="13" fill="#14181c">EU Cybersecurity Reserve, situation centre</text>
+<rect x="609.1" y="256.0" width="234.2" height="18" fill="#3d7f86"><title>EU Cybersecurity Reserve, situation centre: EUR 36.7 m, 31 Jul 2025 – 31 Jul 2028</title></rect>
+<text x="837.3" y="269.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#fff">EUR 36.7 m</text>
+<line x1="330" x2="876" y1="282.0" y2="282.0" stroke="#eceff1"/>
+<text x="320" y="303.0" text-anchor="end" font-size="13" fill="#14181c">Support centre for hospitals</text>
+<rect x="636.8" y="290.0" width="234.2" height="18" fill="#3d7f86"><title>Support centre for hospitals: EUR 6.0 m, 8 Dec 2025 – 8 Dec 2028</title></rect>
+<text x="865.0" y="303.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#fff">EUR 6.0 m</text>
+<line x1="330" x2="876" y1="316.0" y2="316.0" stroke="#eceff1"/>
+<text x="24" y="372" font-size="11.5" fill="#5b646b">Sources: ENISA annual accounts 2023-2025; Programming Document, Annex 11.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>

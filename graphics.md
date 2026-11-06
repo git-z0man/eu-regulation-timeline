@@ -41,6 +41,19 @@ Every graphic of this site, collected on each build.
 
 32 drawings of 2 earlier forecasts: [forecast archive](graphics-archive.md)
 
+## Authorities
+
+- **What the ECCC may commit each year** (Commitment appropriations per year by programme: budgets, the plan for 2026 and the draft plan to 2029.): [png](acts/authorities/eccc-budget.png) · [svg](acts/authorities/eccc-budget.svg) · [pdf](acts/authorities/eccc-budget.pdf)
+- **How fast the ECCC's money is paid out** (Commitments, payments and outstanding commitments in 2025, by programme.): [png](acts/authorities/eccc-execution.png) · [svg](acts/authorities/eccc-execution.svg) · [pdf](acts/authorities/eccc-execution.pdf)
+- **Where Digital Europe's cybersecurity money is to go** (The indicative budget of the work programme by area and year.): [png](acts/authorities/eccc-areas.png) · [svg](acts/authorities/eccc-areas.svg) · [pdf](acts/authorities/eccc-areas.pdf)
+- **Grants managed by the ECCC** (The EU contribution to the projects the ECCC manages, by programme and start year.): [png](acts/authorities/eccc-grants.png) · [svg](acts/authorities/eccc-grants.svg) · [pdf](acts/authorities/eccc-grants.pdf)
+- **Where the ECCC's grants go** (The EU contribution to the projects' partners by country, the twelve largest.): [png](acts/authorities/eccc-countries.png) · [svg](acts/authorities/eccc-countries.svg) · [pdf](acts/authorities/eccc-countries.pdf)
+- **The ECCC's staff** (Authorised and planned posts per year, and the posts filled.): [png](acts/authorities/eccc-staff.png) · [svg](acts/authorities/eccc-staff.svg) · [pdf](acts/authorities/eccc-staff.pdf)
+- **Where ENISA's money comes from** (Revenue per year, 2019–2025, and the plan for 2026–2028.): [png](acts/authorities/enisa-revenue.png) · [svg](acts/authorities/enisa-revenue.svg) · [pdf](acts/authorities/enisa-revenue.pdf)
+- **Money from the Commission for agreed actions** (Contribution agreements and the pilot Support Action, with their amount and period.): [png](acts/authorities/enisa-agreements.png) · [svg](acts/authorities/enisa-agreements.svg) · [pdf](acts/authorities/enisa-agreements.pdf)
+- **ENISA's staff** (Staff per year: the programming document's plan and what the Cybersecurity Act 2 proposal adds.): [png](acts/authorities/enisa-staff.png) · [svg](acts/authorities/enisa-staff.svg) · [pdf](acts/authorities/enisa-staff.pdf)
+- **ENISA's means with the Cybersecurity Act 2** (What the agency has and would have: the plan to 2028 and the proposal's additional means to 2034 (other revenue, EUR 0.2 million in 2025, left out).): [png](acts/authorities/enisa-outlook.png) · [svg](acts/authorities/enisa-outlook.svg) · [pdf](acts/authorities/enisa-outlook.pdf)
+
 ## Charts per act
 
 - **Which harmonised standard for which industrial product (our assessment)** (as of 2026-09-28): [png](acts/img/cra-standards-pathways.png)
@@ -48,16 +61,16 @@ Every graphic of this site, collected on each build.
 ## Legislative procedures – under negotiation
 
 - **Chips Act 2.0 – COM(2026) 504 (proposal)** (In progress, as of 2026-11-04): [png](procedures/chips-act-2.png) · [svg](procedures/chips-act-2.svg) · [pdf](procedures/chips-act-2.pdf) · [drawio](procedures/chips-act-2.drawio)
-- **Cloud and AI Development Act – COM(2026) 502 (proposal)** (In progress, as of 2026-11-03): [png](procedures/cloud-ai-development-act.png) · [svg](procedures/cloud-ai-development-act.svg) · [pdf](procedures/cloud-ai-development-act.pdf) · [drawio](procedures/cloud-ai-development-act.drawio)
-- **Cybersecurity Act 2 – COM(2026) 11 (proposal)** (In progress, as of 2026-11-05): [png](procedures/csa2.png) · [svg](procedures/csa2.svg) · [pdf](procedures/csa2.pdf) · [drawio](procedures/csa2.drawio)
+- **Cloud and AI Development Act – COM(2026) 502 (proposal)** (In progress, as of 2026-11-06): [png](procedures/cloud-ai-development-act.png) · [svg](procedures/cloud-ai-development-act.svg) · [pdf](procedures/cloud-ai-development-act.pdf) · [drawio](procedures/cloud-ai-development-act.drawio)
+- **Cybersecurity Act 2 – COM(2026) 11 (proposal)** (In progress, as of 2026-11-06): [png](procedures/csa2.png) · [svg](procedures/csa2.svg) · [pdf](procedures/csa2.pdf) · [drawio](procedures/csa2.drawio)
 - **Digital Omnibus – COM(2025) 837 (proposal)** (In progress, as of 2026-11-05): [png](procedures/digital-omnibus.png) · [svg](procedures/digital-omnibus.svg) · [pdf](procedures/digital-omnibus.pdf) · [drawio](procedures/digital-omnibus.drawio)
-- **EU Space Act – COM(2025) 335 (proposal)** (In progress, as of 2026-11-05): [png](procedures/space-act.png) · [svg](procedures/space-act.svg) · [pdf](procedures/space-act.pdf) · [drawio](procedures/space-act.drawio)
+- **EU Space Act – COM(2025) 335 (proposal)** (In progress, as of 2026-11-06): [png](procedures/space-act.png) · [svg](procedures/space-act.svg) · [pdf](procedures/space-act.pdf) · [drawio](procedures/space-act.drawio)
 - **Industrial Accelerator Act – COM(2026) 100 (proposal)** (In progress, as of 2026-11-05): [png](procedures/industrial-accelerator-act.png) · [svg](procedures/industrial-accelerator-act.svg) · [pdf](procedures/industrial-accelerator-act.pdf) · [drawio](procedures/industrial-accelerator-act.drawio)
-- **New Standardisation Regulation – COM(2026) 780 (proposal)** (In progress, as of 2026-11-05): [png](procedures/standardisation-revision.png) · [svg](procedures/standardisation-revision.svg) · [pdf](procedures/standardisation-revision.pdf) · [drawio](procedures/standardisation-revision.drawio)
+- **New Standardisation Regulation – COM(2026) 780 (proposal)** (In progress, as of 2026-11-06): [png](procedures/standardisation-revision.png) · [svg](procedures/standardisation-revision.svg) · [pdf](procedures/standardisation-revision.pdf) · [drawio](procedures/standardisation-revision.drawio)
 - **Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)** (In progress, as of 2026-11-02): [png](procedures/product-digitalisation-directive.png) · [svg](procedures/product-digitalisation-directive.svg) · [pdf](procedures/product-digitalisation-directive.pdf) · [drawio](procedures/product-digitalisation-directive.drawio)
 - **Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)** (In progress, as of 2026-11-02): [png](procedures/product-digitalisation-regulation.png) · [svg](procedures/product-digitalisation-regulation.svg) · [pdf](procedures/product-digitalisation-regulation.pdf) · [drawio](procedures/product-digitalisation-regulation.drawio)
-- **Public Procurement Act – COM(2026) 590 (proposal)** (In progress, as of 2026-11-05): [png](procedures/public-procurement-act.png) · [svg](procedures/public-procurement-act.svg) · [pdf](procedures/public-procurement-act.pdf) · [drawio](procedures/public-procurement-act.drawio)
-- **Simplification of the medical devices rules – COM(2025) 1023 (proposal)** (In progress, as of 2026-11-05): [png](procedures/medical-devices-simplification.png) · [svg](procedures/medical-devices-simplification.svg) · [pdf](procedures/medical-devices-simplification.pdf) · [drawio](procedures/medical-devices-simplification.drawio)
+- **Public Procurement Act – COM(2026) 590 (proposal)** (In progress, as of 2026-11-06): [png](procedures/public-procurement-act.png) · [svg](procedures/public-procurement-act.svg) · [pdf](procedures/public-procurement-act.pdf) · [drawio](procedures/public-procurement-act.drawio)
+- **Simplification of the medical devices rules – COM(2025) 1023 (proposal)** (In progress, as of 2026-11-06): [png](procedures/medical-devices-simplification.png) · [svg](procedures/medical-devices-simplification.svg) · [pdf](procedures/medical-devices-simplification.pdf) · [drawio](procedures/medical-devices-simplification.drawio)
 - **Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)** (In progress, as of 2026-11-04): [png](procedures/nis2-amendment.png) · [svg](procedures/nis2-amendment.svg) · [pdf](procedures/nis2-amendment.pdf) · [drawio](procedures/nis2-amendment.drawio)
 
 ## Legislative procedures – adopted
@@ -70,6 +83,7 @@ Every graphic of this site, collected on each build.
 - **Cybersecurity Act amendment on managed security services – Regulation (EU) 2025/37** (Route: agreement at first reading): [png](procedures/csa-managed-security-services.png) · [svg](procedures/csa-managed-security-services.svg) · [pdf](procedures/csa-managed-security-services.pdf) · [drawio](procedures/csa-managed-security-services.drawio)
 - **Cybersecurity Act – Regulation (EU) 2019/881** (Route: agreement at first reading): [png](procedures/csa.png) · [svg](procedures/csa.svg) · [pdf](procedures/csa.pdf) · [drawio](procedures/csa.drawio)
 - **Digital Omnibus on AI – Regulation (EU) 2026/1744** (Route: agreement at first reading): [png](procedures/digital-omnibus-ai.png) · [svg](procedures/digital-omnibus-ai.svg) · [pdf](procedures/digital-omnibus-ai.pdf) · [drawio](procedures/digital-omnibus-ai.drawio)
+- **ECCC Regulation – Regulation (EU) 2021/887** (Route: early second reading): [png](procedures/eccc-regulation.png) · [svg](procedures/eccc-regulation.svg) · [pdf](procedures/eccc-regulation.pdf) · [drawio](procedures/eccc-regulation.drawio)
 - **Ecodesign for Sustainable Products Regulation – Regulation (EU) 2024/1781** (Route: agreement at first reading): [png](procedures/espr.png) · [svg](procedures/espr.svg) · [pdf](procedures/espr.pdf) · [drawio](procedures/espr.drawio)
 - **European Health Data Space Regulation – Regulation (EU) 2025/327** (Route: agreement at first reading): [png](procedures/ehds.png) · [svg](procedures/ehds.svg) · [pdf](procedures/ehds.pdf) · [drawio](procedures/ehds.drawio)
 - **General Product Safety Regulation – Regulation (EU) 2023/988** (Route: agreement at first reading): [png](procedures/gpsr.png) · [svg](procedures/gpsr.svg) · [pdf](procedures/gpsr.pdf) · [drawio](procedures/gpsr.drawio)

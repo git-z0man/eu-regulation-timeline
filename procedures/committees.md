@@ -10,7 +10,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cyber Resilience Act](cra.md) | [CRA Expert Group](committee-e03967.md) | Expert group | 6 | 2026-10-08 | – |
 | [Cyber Resilience Act](cra.md) | [ENISA AHWG Standardisation](committee-enisa-ahwg-std.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cyber Resilience Act](cra.md) | [ENISA AHWG Security Architecture and Vulnerability Management](committee-enisa-ahwg-saevm.md) | ENISA ad hoc working group | 0 | – | – |
-| [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 17 | 2026-03-04 | 2026-11-06 |
+| [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 17 | 2026-11-06 | – |
 | [Cybersecurity Act](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [Cybersecurity Act](csa.md) | [ENISA AHWG Cloud Services](committee-enisa-ahwg-cloud.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cybersecurity Act](csa.md) | [ENISA AHWG 5G](committee-enisa-ahwg-5g.md) | ENISA ad hoc working group | 0 | – | – |
@@ -22,7 +22,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cybersecurity Act 2](csa2.md) | [ENISA AHWG Cybersecurity Market](committee-enisa-ahwg-market.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cybersecurity Act amendment on managed security services](csa-managed-security-services.md) | [ENISA AHWG EUMSS](committee-enisa-ahwg-eumss.md) | ENISA ad hoc working group | 0 | – | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
-| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-11-03 | 2026-11-06 |
+| [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-11-06 | – |
 | [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
 | [European Health Data Space Regulation](ehds.md) | [Committee on the European Health Data Space](committee-c131500.md) | Comitology committee | 11 | 2026-10-22 | – |
 | [General Product Safety Regulation](gpsr.md) | [General Product Safety Regulation Committee](committee-c127600.md) | Comitology committee | 7 | 2024-10-22 | – |
@@ -154,10 +154,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Space Working Party
 
-23 meetings on the acts we follow.
+24 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-03 (attaché level) | [EU Space Act](space-act.md) | Information from the Presidency ([14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707)) | [CM 4724/26](https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf) |
 | 2026-09-11 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) |
 | 2026-09-01 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3875/26](https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf) |
 | 2026-07-10 (attaché level) | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3526/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf) |

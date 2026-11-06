@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-05",
+ "as_of": "2026-11-06",
  "views": [
   {
    "key": "all",
@@ -50,12 +50,6 @@
      "url": "procedures/medical-devices-simplification.html"
     },
     {
-     "date": "2026-10-29",
-     "act": "EU Space Act",
-     "text": "Council: Presidency compromise text - clean version",
-     "url": "procedures/space-act.html"
-    },
-    {
      "date": "2026-10-30",
      "act": "Cybersecurity Act 2",
      "text": "Council: Presidency fourth compromise text regarding Title III (European Cybersecurity … (not public)",
@@ -66,6 +60,12 @@
      "act": "Digital Omnibus",
      "text": "Council released 4 documents listed as not public, incl. Presidency revised compromise text",
      "url": "procedures/digital-omnibus.html"
+    },
+    {
+     "date": "2026-11-04",
+     "act": "EU Space Act",
+     "text": "Council: October 2026 Presidency compromise text – Explanations (not public)",
+     "url": "procedures/space-act.html"
     }
    ]
   },
@@ -100,9 +100,9 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
-     "date": "2026-11-03",
+     "date": "2026-11-06",
      "act": "Cyber Resilience Act",
-     "text": "4 standardisation projects moved on, e.g. EN 40000-1-2:2026: Approved",
+     "text": "9 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Closing of approval procedure",
      "url": "acts/cra.html#standardisation"
     },
     {

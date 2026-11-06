@@ -6,8 +6,8 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 ## At a glance
 
-- Next meeting: 2026-11-06 – 19th meeting of the Digital Europe Programme Committee
-- Last meeting: 2026-03-04 – COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027 ([draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/113984/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/114044/1/consult))
+- Next meeting: none announced
+- Last meeting: 2026-11-06 – 19th meeting of the Digital Europe Programme Committee ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118902/1/consult))
 - Meetings since 2024: 17
 - Latest summary record: [17th meeting of the Digital Europe Programme Committee (2025-10-23)](https://ec.europa.eu/transparency/comitology-register/screen/documents/114123/1/consult)
 

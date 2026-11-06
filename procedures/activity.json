@@ -1,6 +1,170 @@
 {
  "items": [
   {
+   "date": "2026-11-06",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
+   "doc": "EN 305 550-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
+   "key": "eso-REN/ERM-WGUWB-640-2026-11-06",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-11-03)",
+   "doc": "working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140904/download",
+   "key": "E03969-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140904/download",
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-11-03)",
+   "doc": "working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140905/download",
+   "key": "E03969-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140905/download",
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-10-21)",
+   "doc": "working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140902/download",
+   "key": "E03969-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140902/download",
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-10-21)",
+   "doc": "working document",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140903/download",
+   "key": "E03969-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140903/download",
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "espr",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Ecodesign Forum",
+   "doc": "agenda, report, report",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969",
+   "key": "E03969-77098",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139736/download"
+    ],
+    [
+     "report",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139737/download"
+    ],
+    [
+     "report",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140908/download"
+    ]
+   ],
+   "page": "espr",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "cyber-solidarity-act",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "19th meeting of the Digital Europe Programme Committee",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1865/consult",
+   "key": "C70600-CMTD(2026)1865",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/118902/1/consult"
+    ]
+   ],
+   "page": "cyber-solidarity-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 626",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
+   "key": "eso-DEN/CYBER-EUS-0012-2026-11-06",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "key": "eso-DEN/CYBER-EUS-0010-2026-11-06",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 621",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
+   "key": "eso-DEN/CYBER-EUS-009-2026-11-06",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 620",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
+   "key": "eso-DEN/CYBER-EUS-005-2026-11-06",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-06",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 617 – Cybersecurity requirements for browsers: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 617",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
+   "key": "eso-DEN/CYBER-EUS-006-2026-11-06",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-11-05",
    "act": "red",
    "title": "RED",
@@ -82,6 +246,19 @@
   },
   {
    "date": "2026-11-04",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "October 2026 Presidency compromise text – Explanations (not public)",
+   "doc": "WK 17096/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/101555",
+   "key": "WK 17096/26",
+   "page": "space-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-11-04",
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "European Parliament",
@@ -128,23 +305,7 @@
    "date": "2026-11-03",
    "act": "public-procurement-act",
    "actor": "Council",
-   "label": "Released: Council note of 2026-09-21 (Presentation by the Commission), listed as not public since 2026-09-30",
-   "doc": "WK 14276/26",
-   "url": "https://data.consilium.europa.eu/doc/document/WK-14276-2026-INIT/en/pdf",
-   "key": "WK 14276/26-released",
-   "page": "public-procurement-act",
-   "type": "Released",
-   "kind": "council-note",
-   "doc_date": "2026-09-21",
-   "doc_title": "Presentation by the Commission",
-   "withheld_since": "2026-09-30",
-   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
-  },
-  {
-   "date": "2026-11-03",
-   "act": "public-procurement-act",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-09-21 (Impact Assessment - Presentation by the Commission), listed as not public since 2026-09-30",
+   "label": "Released: Council note of 2026-09-21 (Public Procurement Act : Impact Assessment - Presentation at the Working Party on …), listed as not public since 2026-09-30",
    "doc": "WK 14274/26",
    "url": "https://data.consilium.europa.eu/doc/document/WK-14274-2026-INIT/en/pdf",
    "key": "WK 14274/26-released",
@@ -152,7 +313,23 @@
    "type": "Released",
    "kind": "council-note",
    "doc_date": "2026-09-21",
-   "doc_title": "Impact Assessment - Presentation by the Commission",
+   "doc_title": "Public Procurement Act : Impact Assessment - Presentation at the Working Party on …",
+   "withheld_since": "2026-09-30",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-03",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-21 (Public Procurement Act - Presentation at the Working Party on Competitiveness and Growth …), listed as not public since 2026-09-30",
+   "doc": "WK 14276/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14276-2026-INIT/en/pdf",
+   "key": "WK 14276/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-21",
+   "doc_title": "Public Procurement Act - Presentation at the Working Party on Competitiveness and Growth …",
    "withheld_since": "2026-09-30",
    "title": "Public Procurement Act – COM(2026) 590 (proposal)"
   },
@@ -190,11 +367,23 @@
   },
   {
    "date": "2026-11-03",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "Space Working Party meeting - ATTACHES FORMAT in the afternoon: Information from the Presidency (14787/26)",
+   "doc": "CM 4724/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf",
+   "key": "CM 4724/26",
+   "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-03",
    "act": "espr",
    "title": "ESPR",
    "actor": "Ecodesign Forum",
    "label": "Ecodesign Forum",
-   "doc": "agenda, working document, working document",
+   "doc": "agenda, working document, working document, working document, working document",
    "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969",
    "key": "E03969-77097",
    "links": [
@@ -204,7 +393,15 @@
     ],
     [
      "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140904/download"
+    ],
+    [
+     "working document",
      "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140905/download"
     ],
     [
      "working document",
@@ -1112,7 +1309,7 @@
    "title": "ESPR",
    "actor": "Ecodesign Forum",
    "label": "Ecodesign Forum",
-   "doc": "agenda, working document, working document",
+   "doc": "agenda, working document, working document, working document, working document",
    "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3969",
    "key": "E03969-77096",
    "links": [
@@ -1122,7 +1319,15 @@
     ],
     [
      "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140902/download"
+    ],
+    [
+     "working document",
      "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download"
+    ],
+    [
+     "working document",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140903/download"
     ],
     [
      "working document",
@@ -1153,42 +1358,6 @@
    "doc": "EN 304 634",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
    "key": "eso-DEN/CYBER-EUS-003-2026-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 626",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
-   "key": "eso-DEN/CYBER-EUS-0012-2026-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 622",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-   "key": "eso-DEN/CYBER-EUS-0010-2026-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 617 – Cybersecurity requirements for browsers: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 617",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
-   "key": "eso-DEN/CYBER-EUS-006-2026-10-21",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -1394,18 +1563,6 @@
    "doc": "EN 304 631",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
    "key": "eso-DEN/CYBER-EUS-0011-2026-10-15",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-15",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 621",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
-   "key": "eso-DEN/CYBER-EUS-009-2026-10-15",
    "page": "cra",
    "type": "Standardisation"
   },
@@ -2297,18 +2454,6 @@
   },
   {
    "date": "2026-09-29",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 620",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
-   "key": "eso-DEN/CYBER-EUS-005-2026-09-29",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-29",
    "act": "ai-act",
    "title": "AI Act",
    "actor": "Artificial Intelligence Committee",
@@ -3135,18 +3280,6 @@
    "key": "C41700-D117711/1",
    "page": "standardisation-regulation",
    "type": "Committees"
-  },
-  {
-   "date": "2026-09-03",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGUWB",
-   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Work item adopted",
-   "doc": "EN 305 550-5",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
-   "key": "eso-REN/ERM-WGUWB-640-2026-09-03",
-   "page": null,
-   "type": "Standardisation"
   },
   {
    "date": "2026-09-03",

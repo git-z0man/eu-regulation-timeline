@@ -140,7 +140,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
 | 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Second Presidency Options Paper on Union Origin requirements | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
 
 ## Texts as Markdown
 

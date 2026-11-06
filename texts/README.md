@@ -4,7 +4,7 @@ The official EU documents of the regulation timeline and the legislative procedu
 
 EN and DE link the Markdown files (for download and project folders); "GitHub" opens the rendered text, where a link to a provision (`#art-13`, `#rec-12`, `#annex-i`) jumps to it.
 
-Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union Agency for Cybersecurity (ENISA). The document states no licence; reproduced with acknowledgement of the source, as a document of an EU agency. The official document is authentic. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
+Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union Agency for Cybersecurity (ENISA). The document states no licence; reproduced with acknowledgement of the source, as a document of an EU agency. The official document is authentic. © European Union Agency for Cybersecurity (ENISA). Reproduction is authorised provided the source is acknowledged, as stated in the document. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Reg. 765/2008
 
@@ -337,6 +337,16 @@ All texts of this act as one file: [digital-omnibus-ai.zip](downloads/digital-om
 | 2025-11-19_com-proposal | com-proposal | 52025PC0836 | [en](digital-omnibus-ai/2025-11-19_com-proposal.en.md) | [de](digital-omnibus-ai/2025-11-19_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2025-11-19_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025PC0836) |
 | 2026-07-24_oj | oj | 32026R1744 | [en](digital-omnibus-ai/2026-07-24_oj.en.md) | [de](digital-omnibus-ai/2026-07-24_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744) |
 | 2026-09-29_corrigendum-01 | corrigendum | 32026R1744R(01) | – | [de](digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)) |
+
+## ECCC Regulation
+
+`eccc-regulation` – Regulation (EU) 2021/887 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres
+
+All texts of this act as one file: [eccc-regulation.zip](downloads/eccc-regulation.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08_oj | oj | 32021R0887 | [en](eccc-regulation/2021-06-08_oj.en.md) | [de](eccc-regulation/2021-06-08_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/eccc-regulation/2021-06-08_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0887) |
 
 ## EHDS
 
@@ -817,6 +827,26 @@ All texts of this act as one file: [guidance-council-st-9568-26.zip](downloads/g
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05-27_final | final | ST 9568/1/26 REV 1 | [en](guidance/council/st-9568-26/2026-05-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/council/st-9568-26/2026-05-27_final.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9568-2026-REV-1/en/pdf) |
 
+## ECCC Strategic Agenda
+
+`guidance/eccc/strategic-agenda-2023` – ECCC Strategic Agenda
+
+All texts of this act as one file: [guidance-eccc-strategic-agenda-2023.zip](downloads/guidance-eccc-strategic-agenda-2023.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023-03-17_final | final | – | [en](guidance/eccc/strategic-agenda-2023/2023-03-17_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/eccc/strategic-agenda-2023/2023-03-17_final.en.md) | [source](https://cybersecurity-centre.europa.eu/system/files/2023-03/20230224%20-%20ECCC%20Strategic%20Agenda%20with%20cover.pdf) |
+
+## 2024 Report on the State of the Cybersecurity in the Union
+
+`guidance/enisa/2024-report-state-cybersecurity-union` – 2024 Report on the State of the Cybersecurity in the Union
+
+All texts of this act as one file: [guidance-enisa-2024-report-state-cybersecurity-union.zip](downloads/guidance-enisa-2024-report-state-cybersecurity-union.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-12-03_final | final | – | [en](guidance/enisa/2024-report-state-cybersecurity-union/2024-12-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/2024-report-state-cybersecurity-union/2024-12-03_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2024-11/2024%20Report%20on%20the%20State%20of%20the%20Cybersecurity%20in%20the%20Union.pdf) |
+
 ## Accreditation of ITSEFs for EUCC
 
 `guidance/enisa/accreditation-itsefs-eucc` – Accreditation of ITSEFs for EUCC
@@ -1238,6 +1268,26 @@ All texts of this act as one file: [guidance-enisa-telecom-security-incidents-20
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-07-15_final | final | – | [en](guidance/enisa/telecom-security-incidents-2024/2025-07-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/telecom-security-incidents-2024/2025-07-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-07/ENISA_Telecom_Security_Incidents_2024_en_1.pdf) |
+
+## ENISA Threat Landscape 2025
+
+`guidance/enisa/threat-landscape-2025` – ENISA Threat Landscape 2025
+
+All texts of this act as one file: [guidance-enisa-threat-landscape-2025.zip](downloads/guidance-enisa-threat-landscape-2025.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-10-01_final | final | – | [en](guidance/enisa/threat-landscape-2025/2025-10-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/threat-landscape-2025/2025-10-01_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-09/ENISA%20Threat%20Landscape%202025_v1.3_September2026_0.pdf) |
+
+## ENISA Threat Landscape 2026
+
+`guidance/enisa/threat-landscape-2026` – ENISA Threat Landscape 2026
+
+All texts of this act as one file: [guidance-enisa-threat-landscape-2026.zip](downloads/guidance-enisa-threat-landscape-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-22_final | final | – | [en](guidance/enisa/threat-landscape-2026/2026-09-22_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/threat-landscape-2026/2026-09-22_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-09/ENISA%20Threat%20Landscape%202026_Final.pdf) |
 
 ## ENISA’s view on Cybersecurity in the Frontier AI Era
 

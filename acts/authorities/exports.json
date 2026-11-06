@@ -1,0 +1,52 @@
+{
+  "eccc-areas": {
+    "pdf": "eccc-areas.pdf",
+    "png": "eccc-areas.png",
+    "svg_sha256": "a47256999e364afd39dd0aadecf84fe25744318e07ff6b034826533531bfdbee"
+  },
+  "eccc-budget": {
+    "pdf": "eccc-budget.pdf",
+    "png": "eccc-budget.png",
+    "svg_sha256": "06af621314d2e642791b00c6a4a91b95d2efddeff2c3dee6bce2c26388d427ea"
+  },
+  "eccc-countries": {
+    "pdf": "eccc-countries.pdf",
+    "png": "eccc-countries.png",
+    "svg_sha256": "443426ef547acbb3dfbf83a8b4c59070631eb800e9ff1a8978ee7a7c0bc1678a"
+  },
+  "eccc-execution": {
+    "pdf": "eccc-execution.pdf",
+    "png": "eccc-execution.png",
+    "svg_sha256": "1ff77dd524fda232ecc7eaadb1248bd6be5c5331edd8ac5859df4d7d5b9fa1cf"
+  },
+  "eccc-grants": {
+    "pdf": "eccc-grants.pdf",
+    "png": "eccc-grants.png",
+    "svg_sha256": "d1d090670dfc6b37b8cb6290f1b475a4b34c124d5337a352f8610a179e47af77"
+  },
+  "eccc-staff": {
+    "pdf": "eccc-staff.pdf",
+    "png": "eccc-staff.png",
+    "svg_sha256": "6a0f399dc09d28e3b86fa741a087b8756e95ec70db84a5167098e1d8138fb7b5"
+  },
+  "enisa-agreements": {
+    "pdf": "enisa-agreements.pdf",
+    "png": "enisa-agreements.png",
+    "svg_sha256": "d5cbe60b05cc18629ade9842f5d9155952cdfe8ff4a46ec140ef495e11013209"
+  },
+  "enisa-outlook": {
+    "pdf": "enisa-outlook.pdf",
+    "png": "enisa-outlook.png",
+    "svg_sha256": "bdad0803fde636a27d97cc3c541bc4358757c55251c8c58ff60d32c1de22405a"
+  },
+  "enisa-revenue": {
+    "pdf": "enisa-revenue.pdf",
+    "png": "enisa-revenue.png",
+    "svg_sha256": "cd80083544cbe54e77dd5640558e1a8ffd045b410a7737bf27206eed1b49137b"
+  },
+  "enisa-staff": {
+    "pdf": "enisa-staff.pdf",
+    "png": "enisa-staff.png",
+    "svg_sha256": "21e06f54ad3487c91083a77561493e0e710f766fae832c5ee48c1c958535cc0d"
+  }
+}

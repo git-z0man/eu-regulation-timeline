@@ -6,18 +6,18 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 ## At a glance
 
-- Next meeting: 2026-11-06 – Ecodesign Forum
-- Last meeting: 2026-11-03 – Ecodesign Forum ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139735/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139733/download))
+- Next meeting: none announced
+- Last meeting: 2026-11-06 – Ecodesign Forum ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139736/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139737/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140908/download))
 - Meetings since 2024: 7
 - Latest minutes: [Ecodesign Forum - Digital Product Passport (DPP) (2026-03-19)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download)
-- Members: 139 members: 27 Member State authorities (type D); 112 organisations (type C); 11 observers.
+- Members: 138 members: 27 Member State authorities (type D); 111 organisations (type C); 11 observers.
 - Contact: [EC-ECODESIGN-FORUM@ec.europa.eu](mailto:EC-ECODESIGN-FORUM@ec.europa.eu)
 
 ## About
 
 - Type: Formal, Permanent, Broad
 - Policy areas: Energy, Enterprise, Environment, Internal Market
-- Registered: 2024-11-07; last updated: 2026-10-13
+- Registered: 2024-11-07; last updated: 2026-11-05
 - Link: <https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en>
 
 Tasks:
@@ -41,9 +41,9 @@ Tasks:
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | Ecodesign Forum | BE Centre Albert Borschette (36, rue Froissart-1049 Bruxelles) Room 0.D, Belgium | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139736/download) | – | [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139737/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139738/download) |
-| 2026-11-03 | Ecodesign Forum | BE Centre Albert Borschette (36, rue Froissart-1049 Bruxelles) Room 3.A, Belgium | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139735/download) | – | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139733/download) |
-| 2026-10-21 | Ecodesign Forum | BE Centre Albert Borschette  (36, rue Froissart-1049 Bruxelles) Room 2.A | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download) | – | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download) |
+| 2026-11-06 | Ecodesign Forum | BE Centre Albert Borschette (36, rue Froissart-1049 Bruxelles) Room 0.D, Belgium | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139736/download) | – | [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139737/download) · [report](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140908/download) |
+| 2026-11-03 | Ecodesign Forum | BE Centre Albert Borschette (36, rue Froissart-1049 Bruxelles) Room 3.A, Belgium | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139735/download) | – | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140904/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139734/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140905/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139733/download) |
+| 2026-10-21 | Ecodesign Forum | BE Centre Albert Borschette  (36, rue Froissart-1049 Bruxelles) Room 2.A | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139727/download) | – | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140902/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139730/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140903/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/139728/download) |
 | 2026-03-19 | Ecodesign Forum - Digital Product Passport (DPP) | BE BRUSSELS BREYDEL 2 building, Avenue d’Auderghem 19, 1040 Bruxelles | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/132242/download) · [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133412/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133658/download) | – |
 | 2025-11-24 | Ecodesign Forum | BE BRUSSELS Centre Albert Borschette  (36, rue Froissart-1049 Bruxelles) Room 0.A | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123803/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127016/download) | – |
 | 2025-04-01 | Meeting of the "Group of Experts on Ecodesign for Sustainable Products and Energy Labelling" on Electronic Displays of 1 April 2025 | VIRTUAL | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115418/download) | – | – |
@@ -51,7 +51,7 @@ Tasks:
 
 ## Members
 
-139 members: 27 Member State authorities (type D); 112 organisations (type C); 11 observers.
+138 members: 27 Member State authorities (type D); 111 organisations (type C); 11 observers.
 
 ### Member State authorities
 
@@ -109,7 +109,6 @@ Tasks:
 | [Comité Européen des Fabricants d’Appareils de Chauffage et de Cuisine Domestiques (C.E.F.A.C.D.)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=936240218404-59) | Trade and business associations | Germany | Member |
 | [Computer and Communications Industry Association (CCIA Europe)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=281864052407-46) | Trade and business associations | European | Member |
 | [Confederation of European Paper Industries (Cepi)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=72279144480-58) | Trade and business associations | European | Member |
-| [Confederation of the European Bicycle Industry ASBL (CONEBI ASBL)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=677937617205-76) | Trade and business associations | European | Member |
 | [Confédération Européenne de l’Industrie de la Chaussure (CEC)](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=13497369622-37) | Trade and business associations | European | Member |
 | [Cosmetics Europe](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=83575061669-96) | Trade and business associations | European | Member |
 | [DIGITALEUROPE](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=64270747023-20) | Trade and business associations | European | Member |

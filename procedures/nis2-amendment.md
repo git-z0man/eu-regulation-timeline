@@ -58,7 +58,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | PE796.471 | ep-amendments | – | public status unknown | – | – |
 | 2026-10-23 | [ST 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99652) | council-note | European Court of Auditors’ Special Report No 19/2026: Detecting and responding to cybersecurity incidents - EU cooperation framework progressing, but only … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
 
 ## Texts as Markdown
 

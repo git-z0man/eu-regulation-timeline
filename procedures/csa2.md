@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 5 Nov 2026.
+Procedure 2026/0011(COD), as of 6 Nov 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -139,7 +139,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-30 | [WK 16908/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100975) | council-note | Austria's and other Member States' comments on the Presidency third compromise text regarding Title II (ENISA) | not public\* | – | – |
 | 2026-10-30 | [WK 16914/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100997) | council-compromise | Presidency fourth compromise text regarding Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
 
 ## Texts as Markdown
 

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="514" viewBox="0 0 900 514" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="The ECCC&#x27;s staff">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>The ECCC&#x27;s staff</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="514" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">The ECCC&#x27;s staff</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Authorised posts and full-time equivalents: 2024–2025 authorised, 2026–2028 as planned.</text>
+<text x="24" y="78" font-size="14" fill="#454c53">Under each year: the posts filled at its end.</text>
+<line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
+<text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="76" x2="876" y1="352.0" y2="352.0" stroke="#eceff1"/>
+<text x="68" y="356.0" text-anchor="end" font-size="12" fill="#454c53">10</text>
+<line x1="76" x2="876" y1="292.0" y2="292.0" stroke="#eceff1"/>
+<text x="68" y="296.0" text-anchor="end" font-size="12" fill="#454c53">20</text>
+<line x1="76" x2="876" y1="232.0" y2="232.0" stroke="#eceff1"/>
+<text x="68" y="236.0" text-anchor="end" font-size="12" fill="#454c53">30</text>
+<line x1="76" x2="876" y1="172.0" y2="172.0" stroke="#eceff1"/>
+<text x="68" y="176.0" text-anchor="end" font-size="12" fill="#454c53">40</text>
+<line x1="76" x2="876" y1="112.0" y2="112.0" stroke="#eceff1"/>
+<text x="68" y="116.0" text-anchor="end" font-size="12" fill="#454c53">50</text>
+<rect x="104.8" y="352.0" width="102.4" height="60.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Temporary agents (establishment plan) 2024: 10.0</title></rect>
+<rect x="104.8" y="190.0" width="102.4" height="162.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Contract agents 2024: 27.0</title></rect>
+<rect x="104.8" y="184.0" width="102.4" height="6.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Seconded national experts 2024: 1.0</title></rect>
+<text x="156.0" y="178.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">38</text>
+<text x="156.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2024</text>
+<text x="156.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">27 filled</text>
+<rect x="264.8" y="352.0" width="102.4" height="60.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Temporary agents (establishment plan) 2025: 10.0</title></rect>
+<rect x="264.8" y="190.0" width="102.4" height="162.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Contract agents 2025: 27.0</title></rect>
+<rect x="264.8" y="184.0" width="102.4" height="6.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Seconded national experts 2025: 1.0</title></rect>
+<text x="316.0" y="178.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">38</text>
+<text x="316.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2025</text>
+<text x="316.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">33 filled</text>
+<rect x="424.8" y="340.0" width="102.4" height="72.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Temporary agents (establishment plan) 2026: 12.0</title></rect>
+<rect x="424.8" y="178.0" width="102.4" height="162.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Contract agents 2026: 27.0</title></rect>
+<rect x="424.8" y="172.0" width="102.4" height="6.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Seconded national experts 2026: 1.0</title></rect>
+<text x="476.0" y="166.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">40</text>
+<text x="476.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2026</text>
+<text x="476.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="584.8" y="340.0" width="102.4" height="72.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Temporary agents (establishment plan) 2027: 12.0</title></rect>
+<rect x="584.8" y="178.0" width="102.4" height="162.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Contract agents 2027: 27.0</title></rect>
+<rect x="584.8" y="172.0" width="102.4" height="6.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Seconded national experts 2027: 1.0</title></rect>
+<text x="636.0" y="166.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">40</text>
+<text x="636.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2027</text>
+<text x="636.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="744.8" y="340.0" width="102.4" height="72.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Temporary agents (establishment plan) 2028: 12.0</title></rect>
+<rect x="744.8" y="178.0" width="102.4" height="162.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Contract agents 2028: 27.0</title></rect>
+<rect x="744.8" y="172.0" width="102.4" height="6.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Seconded national experts 2028: 1.0</title></rect>
+<text x="796.0" y="166.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">40</text>
+<text x="796.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2028</text>
+<text x="796.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="24" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="474" font-size="13" fill="#14181c">Temporary agents (establishment plan)</text>
+<rect x="307" y="463" width="14" height="14" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="327" y="474" font-size="13" fill="#14181c">Contract agents</text>
+<rect x="439" y="463" width="14" height="14" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1.2"/>
+<text x="459" y="474" font-size="13" fill="#14181c">Seconded national experts</text>
+<text x="24" y="504" font-size="11.5" fill="#5b646b">Sources: ECCC Programming Document 2026-2028; Activity Report 2025.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>

@@ -1,68 +1,68 @@
 {
  "items": [
   {
-   "date": "2026-11-05",
-   "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 300 386 – ElectroMagnetic Compatibility (EMC) requirements: Drafting Stage – NSB Adoption vote initiated",
-   "doc": "EN 300 386",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-05",
-   "title": "EMC Directive",
-   "actor": "ERM WGEMC",
-   "label": "EN 300 386 – ElectroMagnetic Compatibility (EMC) requirements: Drafting Stage – NSB Adoption vote initiated",
-   "doc": "EN 300 386",
-   "page": "committees.html#emc"
-  },
-  {
-   "date": "2026-11-04",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-08-31 (Exchange of views), listed as not public since 2026-09-25",
-   "doc": "ST 12273/26",
-   "page": "medical-devices-simplification.html"
-  },
-  {
-   "date": "2026-11-04",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-08-28 (Exchange of views), listed as not public since 2026-09-25",
-   "doc": "ST 12272/26",
-   "page": "medical-devices-simplification.html"
-  },
-  {
-   "date": "2026-11-04",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "page": "medical-devices-simplification.html"
-  },
-  {
-   "date": "2026-11-04",
+   "date": "2026-11-06",
    "title": "RED",
    "actor": "ERM WGUWB",
-   "label": "EN 302 065-2-6 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – NSB Adoption vote initiated",
-   "doc": "EN 302 065-2-6",
+   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
+   "doc": "EN 305 550-5",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-11-04",
-   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "page": "digital-omnibus.html"
+   "date": "2026-11-06",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-11-03)",
+   "doc": "working document",
+   "page": "espr.html"
   },
   {
-   "date": "2026-11-04",
-   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
-   "actor": "Council",
-   "label": "Released: Council note of 2026-09-21 (Presidency presentation of Title II amendments), listed as not public since 2026-09-25",
-   "doc": "WK 14493/26",
-   "page": "csa2.html"
+   "date": "2026-11-06",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-11-03)",
+   "doc": "working document",
+   "page": "espr.html"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-10-21)",
+   "doc": "working document",
+   "page": "espr.html"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Working document published: Ecodesign Forum (2026-10-21)",
+   "doc": "working document",
+   "page": "espr.html"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "ESPR",
+   "actor": "Ecodesign Forum",
+   "label": "Ecodesign Forum",
+   "doc": "agenda, report, report",
+   "page": "espr.html"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "19th meeting of the Digital Europe Programme Committee",
+   "doc": "agenda",
+   "page": "cyber-solidarity-act.html"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Closing of approval procedure",
+   "doc": "EN 304 626",
+   "page": "cra.html"
   }
  ]
 }

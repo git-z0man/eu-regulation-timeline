@@ -1,0 +1,62 @@
+[
+  {
+    "name": "eccc-budget",
+    "title": "What the ECCC may commit each year",
+    "note": "Commitment appropriations per year by programme: budgets, the plan for 2026 and the draft plan to 2029.",
+    "page": "authority-eccc.html"
+  },
+  {
+    "name": "eccc-execution",
+    "title": "How fast the ECCC's money is paid out",
+    "note": "Commitments, payments and outstanding commitments in 2025, by programme.",
+    "page": "authority-eccc.html"
+  },
+  {
+    "name": "eccc-areas",
+    "title": "Where Digital Europe's cybersecurity money is to go",
+    "note": "The indicative budget of the work programme by area and year.",
+    "page": "authority-eccc.html"
+  },
+  {
+    "name": "eccc-grants",
+    "title": "Grants managed by the ECCC",
+    "note": "The EU contribution to the projects the ECCC manages, by programme and start year.",
+    "page": "authority-eccc.html"
+  },
+  {
+    "name": "eccc-countries",
+    "title": "Where the ECCC's grants go",
+    "note": "The EU contribution to the projects' partners by country, the twelve largest.",
+    "page": "authority-eccc.html"
+  },
+  {
+    "name": "eccc-staff",
+    "title": "The ECCC's staff",
+    "note": "Authorised and planned posts per year, and the posts filled.",
+    "page": "authority-eccc.html"
+  },
+  {
+    "name": "enisa-revenue",
+    "title": "Where ENISA's money comes from",
+    "note": "Revenue per year, 2019\u20132025, and the plan for 2026\u20132028.",
+    "page": "authority-enisa.html"
+  },
+  {
+    "name": "enisa-agreements",
+    "title": "Money from the Commission for agreed actions",
+    "note": "Contribution agreements and the pilot Support Action, with their amount and period.",
+    "page": "authority-enisa.html"
+  },
+  {
+    "name": "enisa-staff",
+    "title": "ENISA's staff",
+    "note": "Staff per year: the programming document's plan and what the Cybersecurity Act 2 proposal adds.",
+    "page": "authority-enisa.html"
+  },
+  {
+    "name": "enisa-outlook",
+    "title": "ENISA's means with the Cybersecurity Act 2",
+    "note": "What the agency has and would have: the plan to 2028 and the proposal's additional means to 2034 (other revenue, EUR 0.2 million in 2025, left out).",
+    "page": "authority-enisa.html"
+  }
+]

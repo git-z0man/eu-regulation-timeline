@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="536" viewBox="0 0 900 536" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="ENISA&#x27;s means with the Cybersecurity Act 2">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>ENISA&#x27;s means with the Cybersecurity Act 2</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="536" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">ENISA&#x27;s means with the Cybersecurity Act 2</text>
+<text x="24" y="60" font-size="14" fill="#454c53">EUR million: 2025 from the accounts, 2026–2028 as planned, from 2028 what the Commission proposal would add (not law).</text>
+<text x="24" y="78" font-size="14" fill="#454c53">After 2028 the Union contribution is held at its 2028 level: no plan is published; the proposal adds to the 2025 baseline.</text>
+<line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
+<text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="76" x2="876" y1="362.0" y2="362.0" stroke="#eceff1"/>
+<text x="68" y="366.0" text-anchor="end" font-size="12" fill="#454c53">10</text>
+<line x1="76" x2="876" y1="312.0" y2="312.0" stroke="#eceff1"/>
+<text x="68" y="316.0" text-anchor="end" font-size="12" fill="#454c53">20</text>
+<line x1="76" x2="876" y1="262.0" y2="262.0" stroke="#eceff1"/>
+<text x="68" y="266.0" text-anchor="end" font-size="12" fill="#454c53">30</text>
+<line x1="76" x2="876" y1="212.0" y2="212.0" stroke="#eceff1"/>
+<text x="68" y="216.0" text-anchor="end" font-size="12" fill="#454c53">40</text>
+<line x1="76" x2="876" y1="162.0" y2="162.0" stroke="#eceff1"/>
+<text x="68" y="166.0" text-anchor="end" font-size="12" fill="#454c53">50</text>
+<line x1="76" x2="876" y1="112.0" y2="112.0" stroke="#eceff1"/>
+<text x="68" y="116.0" text-anchor="end" font-size="12" fill="#454c53">60</text>
+<text x="68" y="98" text-anchor="end" font-size="12" fill="#454c53">EUR million</text>
+<rect x="90.4" y="278.4" width="51.2" height="133.6" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (accounts, plan) 2025: 26.7</title></rect>
+<rect x="90.4" y="138.1" width="51.2" height="140.3" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>From the Commission (agreements) 2025: 28.1</title></rect>
+<text x="116.0" y="132.1" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">54.8</text>
+<text x="116.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2025</text>
+<rect x="170.4" y="276.0" width="51.2" height="136.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (accounts, plan) 2026: 27.2</title></rect>
+<rect x="170.4" y="186.0" width="51.2" height="90.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>From the Commission (agreements) 2026: 18.0</title></rect>
+<text x="196.0" y="180.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">45.2</text>
+<text x="196.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2026</text>
+<text x="196.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="250.4" y="274.9" width="51.2" height="137.1" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (accounts, plan) 2027: 27.4</title></rect>
+<rect x="250.4" y="205.7" width="51.2" height="69.2" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>From the Commission (agreements) 2027: 13.8</title></rect>
+<text x="276.0" y="199.7" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">41.3</text>
+<text x="276.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2027</text>
+<text x="276.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="330.4" y="272.3" width="51.2" height="139.7" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (accounts, plan) 2028: 27.9</title></rect>
+<rect x="330.4" y="167.8" width="51.2" height="104.5" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2028: 20.9</title></rect>
+<text x="356.0" y="161.8" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">48.8</text>
+<text x="356.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2028</text>
+<text x="356.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="410.4" y="272.3" width="51.2" height="139.7" fill="url(#plan)" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Same, held at the 2028 plan 2029: 27.9</title></rect>
+<rect x="410.4" y="172.1" width="51.2" height="100.3" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2029: 20.1</title></rect>
+<rect x="410.4" y="169.5" width="51.2" height="2.6" fill="#cdd1d4" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: fees 2029: 0.5</title></rect>
+<text x="436.0" y="163.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">48.5</text>
+<text x="436.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2029</text>
+<text x="436.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">proposal</text>
+<rect x="490.4" y="272.3" width="51.2" height="139.7" fill="url(#plan)" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Same, held at the 2028 plan 2030: 27.9</title></rect>
+<rect x="490.4" y="152.2" width="51.2" height="120.2" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2030: 24.0</title></rect>
+<rect x="490.4" y="147.0" width="51.2" height="5.2" fill="#cdd1d4" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: fees 2030: 1.0</title></rect>
+<text x="516.0" y="141.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">53.0</text>
+<text x="516.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2030</text>
+<text x="516.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">proposal</text>
+<rect x="570.4" y="272.3" width="51.2" height="139.7" fill="url(#plan)" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Same, held at the 2028 plan 2031: 27.9</title></rect>
+<rect x="570.4" y="145.2" width="51.2" height="127.2" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2031: 25.4</title></rect>
+<rect x="570.4" y="137.5" width="51.2" height="7.7" fill="#cdd1d4" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: fees 2031: 1.5</title></rect>
+<text x="596.0" y="131.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">54.9</text>
+<text x="596.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2031</text>
+<text x="596.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">proposal</text>
+<rect x="650.4" y="272.3" width="51.2" height="139.7" fill="url(#plan)" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Same, held at the 2028 plan 2032: 27.9</title></rect>
+<rect x="650.4" y="161.4" width="51.2" height="111.0" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2032: 22.2</title></rect>
+<rect x="650.4" y="138.3" width="51.2" height="23.0" fill="#cdd1d4" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: fees 2032: 4.6</title></rect>
+<text x="676.0" y="132.3" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">54.7</text>
+<text x="676.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2032</text>
+<text x="676.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">proposal</text>
+<rect x="730.4" y="272.3" width="51.2" height="139.7" fill="url(#plan)" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Same, held at the 2028 plan 2033: 27.9</title></rect>
+<rect x="730.4" y="164.2" width="51.2" height="108.1" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2033: 21.6</title></rect>
+<rect x="730.4" y="138.3" width="51.2" height="25.9" fill="#cdd1d4" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: fees 2033: 5.2</title></rect>
+<text x="756.0" y="132.3" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">54.7</text>
+<text x="756.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2033</text>
+<text x="756.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">proposal</text>
+<rect x="810.4" y="272.3" width="51.2" height="139.7" fill="url(#plan)" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Same, held at the 2028 plan 2034: 27.9</title></rect>
+<rect x="810.4" y="166.6" width="51.2" height="105.8" fill="#dde8e9" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: additional Union contribution 2034: 21.2</title></rect>
+<rect x="810.4" y="138.3" width="51.2" height="28.3" fill="#cdd1d4" stroke="#6e9195" stroke-width="1" stroke-dasharray="4 3"><title>CSA2 proposal: fees 2034: 5.7</title></rect>
+<text x="836.0" y="132.3" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">54.7</text>
+<text x="836.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2034</text>
+<text x="836.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">proposal</text>
+<rect x="24" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="474" font-size="13" fill="#14181c">Union contribution (accounts, plan)</text>
+<rect x="294" y="463" width="14" height="14" fill="url(#plan)" stroke="#0b4f57" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="314" y="474" font-size="13" fill="#14181c">Same, held at the 2028 plan</text>
+<rect x="508" y="463" width="14" height="14" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="528" y="474" font-size="13" fill="#14181c">From the Commission (agreements)</text>
+<rect x="24" y="485" width="14" height="14" fill="#dde8e9" stroke="#6e9195" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="44" y="496" font-size="13" fill="#14181c">CSA2 proposal: additional Union contribution</text>
+<rect x="356" y="485" width="14" height="14" fill="#cdd1d4" stroke="#6e9195" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="376" y="496" font-size="13" fill="#14181c">CSA2 proposal: fees</text>
+<text x="24" y="526" font-size="11.5" fill="#5b646b">Sources: accounts 2025; Programming Document 2026-2028; CSA2 proposal, 3.2.8.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>

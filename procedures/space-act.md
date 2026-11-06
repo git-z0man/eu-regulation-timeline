@@ -1,6 +1,6 @@
 # Legislative procedure – EU Space Act – COM(2025) 335 (proposal)
 
-Procedure 2025/0335(COD), as of 5 Nov 2026.
+Procedure 2025/0335(COD), as of 6 Nov 2026.
 Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web page: [space-act.html](space-act.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 - **Stage:** EP committee stage
 - **Parliament:** draft report 3 Mar 2026
 - **Council:** working party, latest document 4 Nov 2026
-- **Latest activity:** 4 Nov 2026 · Council: Regulation on the safety, resilience and sustainability of space activities in the Union … (WK 17096/26)
+- **Latest activity:** 4 Nov 2026 · Council: October 2026 Presidency compromise text – Explanations (WK 17096/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -52,6 +52,7 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 | 2026-09-01 | Council | Space Working Party meeting: Exchange of views (7806/26) | [CM 3875/26](https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf) | Council register, CM 3875/26 (notice of meeting and provisional agenda) |
 | 2026-09-11 | Council | Space Working Party meeting (morning only): Exchange of views (7806/26) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) | Council register, CM 3999/26 (notice of meeting and provisional agenda) |
 | 2026-10-29 | Council | Presidency compromise text - clean version | [ST 15118/26](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf) · [en.md](../texts/space-act/2026-10-29_council-compromise-st-15118-26.en.md) | Parliament of Austria, EU database (interinstitutional file 2025/0335(COD)) |
+| 2026-11-03 | Council | Space Working Party meeting - ATTACHES FORMAT in the afternoon: Information from the Presidency (14787/26) | [CM 4724/26](https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf) | Council register, CM 4724/26 (notice of meeting and provisional agenda) |
 
 ## Documents
 
@@ -112,9 +113,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-29 | [ST 14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707) | council-compromise | Revised Presidency compromise text | not public\* | – | – |
 | 2026-10-29 | [ST 15118/26](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf) | council-compromise | Presidency compromise text - clean version<br>*Our summary:* Presidency compromise text on the EU Space Act of 29 October 2026, a clean version without change marks sent by the General Secretariat of the Council for the meeting of 3 November 2026; all delegations have a scrutiny reservation, so it is the Presidency's draft, not a Council position and not law, and it can still change. Compared with the clean text of March 2026, it adds market surveillance by Member States under Regulation (EU) 2019/1020, lets a Member State self-certify spacecraft with substantial governmental involvement without a qualified technical body, narrows the obligation on space-based data to Earth observation data supplied to public contracting authorities and Union bodies (plus a landing-rights criterion for satellite communication), replaces the defence exclusions, and turns the environmental footprint into a life-cycle assessment with a standardisation request for the Union method. The cybersecurity provisions, which oblige space operators that are NIS-2 entities to follow the NIS-2 implementing act for space and apply equivalent measures to the other operators, and the incident reporting rules are unchanged apart from wording and corrected cross-references. | public | – | [en](../texts/space-act/2026-10-29_council-compromise-st-15118-26.en.md) |
 | 2026-10-29 | [WK 16801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100706) | council-note | Correspondence table for articles and recitals | not public\* | – | – |
-| 2026-11-04 | [WK 17096/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101555) | council-note | Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) | not public\* | – | – |
+| 2026-11-04 | [WK 17096/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101555) | council-compromise | October 2026 Presidency compromise text – Explanations | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-05.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
 
 ## Texts as Markdown
 

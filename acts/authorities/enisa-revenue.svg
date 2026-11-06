@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="536" viewBox="0 0 900 536" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Where ENISA&#x27;s money comes from">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Where ENISA&#x27;s money comes from</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="536" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Where ENISA&#x27;s money comes from</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Revenue per year in EUR million: 2019–2025 from the annual accounts, 2026–2028 as planned.</text>
+<text x="24" y="78" font-size="14" fill="#454c53">In 2025, 51% came from agreements with the Commission.</text>
+<line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
+<text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="76" x2="876" y1="362.0" y2="362.0" stroke="#eceff1"/>
+<text x="68" y="366.0" text-anchor="end" font-size="12" fill="#454c53">10</text>
+<line x1="76" x2="876" y1="312.0" y2="312.0" stroke="#eceff1"/>
+<text x="68" y="316.0" text-anchor="end" font-size="12" fill="#454c53">20</text>
+<line x1="76" x2="876" y1="262.0" y2="262.0" stroke="#eceff1"/>
+<text x="68" y="266.0" text-anchor="end" font-size="12" fill="#454c53">30</text>
+<line x1="76" x2="876" y1="212.0" y2="212.0" stroke="#eceff1"/>
+<text x="68" y="216.0" text-anchor="end" font-size="12" fill="#454c53">40</text>
+<line x1="76" x2="876" y1="162.0" y2="162.0" stroke="#eceff1"/>
+<text x="68" y="166.0" text-anchor="end" font-size="12" fill="#454c53">50</text>
+<line x1="76" x2="876" y1="112.0" y2="112.0" stroke="#eceff1"/>
+<text x="68" y="116.0" text-anchor="end" font-size="12" fill="#454c53">60</text>
+<text x="68" y="98" text-anchor="end" font-size="12" fill="#454c53">EUR million</text>
+<rect x="90.4" y="330.5" width="51.2" height="81.5" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2019: 16.3</title></rect>
+<rect x="90.4" y="328.3" width="51.2" height="2.2" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2019: 0.4</title></rect>
+<text x="116.0" y="322.3" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">16.7</text>
+<text x="116.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2019</text>
+<rect x="170.4" y="306.3" width="51.2" height="105.7" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2020: 21.1</title></rect>
+<rect x="170.4" y="303.0" width="51.2" height="3.3" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2020: 0.7</title></rect>
+<text x="196.0" y="297.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">21.8</text>
+<text x="196.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2020</text>
+<rect x="250.4" y="297.8" width="51.2" height="114.2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2021: 22.8</title></rect>
+<rect x="250.4" y="296.7" width="51.2" height="1.1" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2021: 0.2</title></rect>
+<text x="276.0" y="290.7" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">23.1</text>
+<text x="276.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2021</text>
+<rect x="330.4" y="291.0" width="51.2" height="121.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2022: 24.2</title></rect>
+<rect x="330.4" y="290.9" width="51.2" height="0.1" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2022: 0.0</title></rect>
+<text x="356.0" y="284.9" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">24.2</text>
+<text x="356.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2022</text>
+<rect x="410.4" y="287.5" width="51.2" height="124.5" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2023: 24.9</title></rect>
+<rect x="410.4" y="212.5" width="51.2" height="75.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Money from the Commission for agreed actions 2023: 15.0</title></rect>
+<rect x="410.4" y="211.9" width="51.2" height="0.6" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2023: 0.1</title></rect>
+<text x="436.0" y="205.9" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">40.0</text>
+<text x="436.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2023</text>
+<rect x="490.4" y="280.9" width="51.2" height="131.1" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2024: 26.2</title></rect>
+<rect x="490.4" y="200.9" width="51.2" height="80.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Money from the Commission for agreed actions 2024: 16.0</title></rect>
+<rect x="490.4" y="199.6" width="51.2" height="1.3" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2024: 0.3</title></rect>
+<text x="516.0" y="193.6" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">42.5</text>
+<text x="516.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2024</text>
+<rect x="570.4" y="278.4" width="51.2" height="133.6" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Union contribution (with EEA/EFTA) 2025: 26.7</title></rect>
+<rect x="570.4" y="138.1" width="51.2" height="140.3" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Money from the Commission for agreed actions 2025: 28.1</title></rect>
+<rect x="570.4" y="137.2" width="51.2" height="0.9" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>Other revenue 2025: 0.2</title></rect>
+<text x="596.0" y="131.2" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">55.0</text>
+<text x="596.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2025</text>
+<rect x="650.4" y="276.0" width="51.2" height="136.0" fill="#cfe2e4" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Plan: Union contribution 2026: 27.2</title></rect>
+<rect x="650.4" y="186.0" width="51.2" height="90.0" fill="#d9e9ea" stroke="#3d7f86" stroke-width="1" stroke-dasharray="4 3"><title>Plan: expected instalments 2026: 18.0</title></rect>
+<text x="676.0" y="180.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">45.2</text>
+<text x="676.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2026</text>
+<text x="676.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="730.4" y="274.9" width="51.2" height="137.1" fill="#cfe2e4" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Plan: Union contribution 2027: 27.4</title></rect>
+<rect x="730.4" y="205.7" width="51.2" height="69.2" fill="#d9e9ea" stroke="#3d7f86" stroke-width="1" stroke-dasharray="4 3"><title>Plan: expected instalments 2027: 13.8</title></rect>
+<text x="756.0" y="199.7" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">41.3</text>
+<text x="756.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2027</text>
+<text x="756.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="810.4" y="272.3" width="51.2" height="139.7" fill="#cfe2e4" stroke="#0b4f57" stroke-width="1" stroke-dasharray="4 3"><title>Plan: Union contribution 2028: 27.9</title></rect>
+<text x="836.0" y="266.3" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">27.9</text>
+<text x="836.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2028</text>
+<text x="836.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">plan</text>
+<rect x="24" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="474" font-size="13" fill="#14181c">Union contribution (with EEA/EFTA)</text>
+<rect x="287" y="463" width="14" height="14" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="307" y="474" font-size="13" fill="#14181c">Money from the Commission for agreed actions</text>
+<rect x="618" y="463" width="14" height="14" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1.2"/>
+<text x="638" y="474" font-size="13" fill="#14181c">Other revenue</text>
+<rect x="24" y="485" width="14" height="14" fill="#cfe2e4" stroke="#0b4f57" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="44" y="496" font-size="13" fill="#14181c">Plan: Union contribution</text>
+<rect x="218" y="485" width="14" height="14" fill="#d9e9ea" stroke="#3d7f86" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="238" y="496" font-size="13" fill="#14181c">Plan: expected instalments</text>
+<text x="24" y="526" font-size="11.5" fill="#5b646b">Sources: ENISA annual accounts; Programming Document 2026-2028, Annexes 3, 11.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>
