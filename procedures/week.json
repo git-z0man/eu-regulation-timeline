@@ -1,22 +1,10 @@
 {
- "as_of": "2026-11-06",
+ "as_of": "2026-11-07",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
-    {
-     "date": "2026-11-06",
-     "act": "Cyber Solidarity Act",
-     "text": "Digital Europe Programme Coordination Committee: 19th meeting of the Digital Europe Programme Committee",
-     "url": "procedures/committee-c70600.html"
-    },
-    {
-     "date": "2026-11-06",
-     "act": "Ecodesign for Sustainable Products Regulation",
-     "text": "Ecodesign Forum: Ecodesign Forum",
-     "url": "procedures/committee-e03969.html"
-    },
     {
      "date": "2026-11-09",
      "act": "Artificial Intelligence Act",
@@ -34,6 +22,12 @@
      "act": "Net Zero Industry Act",
      "text": "Feedback closes: Draft implementing regulation, Implementing Regulation on a standardised reporting template …",
      "url": "procedures/nzia.html"
+    },
+    {
+     "date": "2026-11-13",
+     "act": "European Health Data Space Regulation",
+     "text": "Feedback closes: Draft implementing regulation, Templates for health data access applications, health data …",
+     "url": "procedures/ehds.html"
     }
    ],
    "recap": [
@@ -50,15 +44,9 @@
      "url": "procedures/medical-devices-simplification.html"
     },
     {
-     "date": "2026-10-30",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency fourth compromise text regarding Title III (European Cybersecurity … (not public)",
-     "url": "procedures/csa2.html"
-    },
-    {
      "date": "2026-11-03",
      "act": "Digital Omnibus",
-     "text": "Council released 4 documents listed as not public, incl. Presidency revised compromise text",
+     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
      "url": "procedures/digital-omnibus.html"
     },
     {
@@ -66,6 +54,12 @@
      "act": "EU Space Act",
      "text": "Council: October 2026 Presidency compromise text – Explanations (not public)",
      "url": "procedures/space-act.html"
+    },
+    {
+     "date": "2026-11-06",
+     "act": "Cyber Resilience Act",
+     "text": "8 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Closing of approval procedure",
+     "url": "acts/cra.html#standardisation"
     }
    ]
   },
@@ -88,28 +82,22 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
-     "date": "2026-10-30",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency fourth compromise text regarding Title III (European Cybersecurity … (not public)",
-     "url": "procedures/csa2.html"
-    },
-    {
      "date": "2026-11-03",
      "act": "Digital Omnibus",
-     "text": "Council released 4 documents listed as not public, incl. Presidency revised compromise text",
+     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
      "url": "procedures/digital-omnibus.html"
     },
     {
      "date": "2026-11-06",
      "act": "Cyber Resilience Act",
-     "text": "9 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Closing of approval procedure",
+     "text": "8 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Closing of approval procedure",
      "url": "acts/cra.html#standardisation"
     },
     {
-     "date": "2026-10-30",
-     "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-2: Under Approval",
-     "url": "acts/ai-act.html#standardisation"
+     "date": "2026-11-04",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 2 documents listed as not public",
+     "url": "procedures/csa2.html"
     }
    ]
   }

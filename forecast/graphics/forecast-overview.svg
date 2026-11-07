@@ -117,8 +117,8 @@
 <text x="560.7" y="810.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Dec 2028</text>
 <text x="238" y="842.0" text-anchor="end" font-weight="600" class="ink lnk"><title>European Product Act</title>European Product Act</text>
 <text x="238" y="858.0" text-anchor="end" font-size="11" class="mu">proposal assumed Dec 2026</text>
-<rect x="435.6" y="842.0" width="433.2" height="6" class="b80" data-tip="European Product Act: median Jan 2029; half of the runs Jul 2028 to Jan 2030; eight in ten Jan 2028 to Mar 2031"/>
-<rect x="496.8" y="836.0" width="212.4" height="18" class="b50" data-tip="European Product Act: median Jan 2029; half of the runs Jul 2028 to Jan 2030; eight in ten Jan 2028 to Mar 2031"/>
-<circle cx="567.6" cy="845.0" r="7" class="med" stroke-width="3" data-tip="European Product Act: median Jan 2029; half of the runs Jul 2028 to Jan 2030; eight in ten Jan 2028 to Mar 2031"/>
-<text x="567.6" y="868.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Jan 2029</text>
+<rect x="435.2" y="842.0" width="440.1" height="6" class="b80" data-tip="European Product Act: median Feb 2029; half of the runs Jul 2028 to Jan 2030; eight in ten Jan 2028 to Mar 2031"/>
+<rect x="499.9" y="836.0" width="209.7" height="18" class="b50" data-tip="European Product Act: median Feb 2029; half of the runs Jul 2028 to Jan 2030; eight in ten Jan 2028 to Mar 2031"/>
+<circle cx="578.7" cy="845.0" r="7" class="med" stroke-width="3" data-tip="European Product Act: median Feb 2029; half of the runs Jul 2028 to Jan 2030; eight in ten Jan 2028 to Mar 2031"/>
+<text x="578.7" y="868.0" text-anchor="middle" font-size="12" font-weight="600" class="ink">Feb 2029</text>
 </g><text x="20" y="1046" font-size="12" class="mu">Source: EP Legislative Observatory, COD files with trilogues since 2012 (the 40 % nearest in size where the proposal&#x27;s size is known); 4,000 runs per act.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text></svg>

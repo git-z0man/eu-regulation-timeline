@@ -17,12 +17,12 @@ When the open procedures are likely to reach the Official Journal. Data of 2026-
 | [Chips Act 2.0](chips-act-2.html) | referred to committee since 14 Sep 2026 | Oct 2028 | Mar 2028 – Apr 2029 | Oct 2027 – Dec 2030 | 77 % | 2027-09-20 (on track; next: EP committee vote) |
 | [Quantum Act](quantum-act.html) | proposal assumed Nov 2026 | Nov 2028 | May 2028 – Oct 2029 | Dec 2027 – Sep 2030 | 73 % | – |
 | [Public Procurement Act](public-procurement-act.html) | proposal since 9 Sep 2026 | Dec 2028 | Jun 2028 – Nov 2029 | Mar 2028 – Jun 2034 | 73 % | 2026-11-25 (on track; next: Referral to EP committee) |
-| [European Product Act](epa.html) | proposal assumed Dec 2026 | Jan 2029 | Jul 2028 – Jan 2030 | Jan 2028 – Mar 2031 | 62 % | – |
+| [European Product Act](epa.html) | proposal assumed Dec 2026 | Feb 2029 | Jul 2028 – Jan 2030 | Jan 2028 – Mar 2031 | 61 % | – |
 
 ## European Product Act: scenarios
 
-- **One act**: The European Product Act as one act that merges the New Legislative Framework, the Market Surveillance Regulation and the Standardisation Regulation. The separate proposal for a New Standardisation Regulation of 6 October 2026 would then be folded into it. Official Journal: median Jan 2029, half of the runs Jul 2028 – Jan 2030; before the 2029 elections 62 %.
-- **Package of two acts**: Two acts negotiated side by side, the New Standardisation Regulation (proposed on 6 October 2026) and one act on market surveillance and the New Legislative Framework. The package is complete when both are published. Official Journal: median Oct 2029, half of the runs Dec 2028 – Aug 2030; before the 2029 elections 45 %.
+- **One act**: The European Product Act as one act that merges the New Legislative Framework, the Market Surveillance Regulation and the Standardisation Regulation. The separate proposal for a New Standardisation Regulation of 6 October 2026 would then be folded into it. Official Journal: median Feb 2029, half of the runs Jul 2028 – Jan 2030; before the 2029 elections 61 %.
+- **Package of two acts**: Two acts negotiated side by side, the New Standardisation Regulation (proposed on 6 October 2026) and one act on market surveillance and the New Legislative Framework. The package is complete when both are published. Official Journal: median Oct 2029, half of the runs Nov 2028 – Aug 2030; before the 2029 elections 45 %.
 
 ## Method
 

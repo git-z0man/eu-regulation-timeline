@@ -22,12 +22,12 @@
   "forecast-epa": {
     "pdf": "forecast-epa.pdf",
     "png": "forecast-epa.png",
-    "svg_sha256": "642d37e42cb6fc5f7e4f3021a351c77dcd29986d9def3739c62eb7de7b1e44a7"
+    "svg_sha256": "1d28b2f2468cb1104a8759f9fde0466a6a8ff636b8a7db7bb94b91770d63443f"
   },
   "forecast-epa-package": {
     "pdf": "forecast-epa-package.pdf",
     "png": "forecast-epa-package.png",
-    "svg_sha256": "57675e6ccb208d38ae40a587d0f38211d6edc2c255b95ce52b00316405d9dfe0"
+    "svg_sha256": "a7c041f241dce180ebe9958029879d23140b85b8fb0fd41433fb100b1e36ce48"
   },
   "forecast-industrial-accelerator-act": {
     "pdf": "forecast-industrial-accelerator-act.pdf",
@@ -47,7 +47,7 @@
   "forecast-overview": {
     "pdf": "forecast-overview.pdf",
     "png": "forecast-overview.png",
-    "svg_sha256": "2670a83ebeee063fcd10bb6d4d70aa1c49c066c5d50cdf83bc9186e86d507012"
+    "svg_sha256": "555eeeb1058ae870ca76e32bf15105d58e82fe6b623abc9673e1cd60704c61ca"
   },
   "forecast-product-digitalisation-directive": {
     "pdf": "forecast-product-digitalisation-directive.pdf",
@@ -162,6 +162,6 @@
   "nlf-overview": {
     "pdf": "nlf-overview.pdf",
     "png": "nlf-overview.png",
-    "svg_sha256": "a2e0431fef263c44c7c5d5ce1bc668a49f66702b5d43dd4d9f5fb26df4426ca1"
+    "svg_sha256": "4bc5d6590b177aea597609f333438eb7c13134250f3c06d7f30871d9b7b98a51"
   }
 }

@@ -148,6 +148,26 @@ All texts of this act as one file: [cloud-ai-development-act.zip](downloads/clou
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0502 | [en](cloud-ai-development-act/2026-06-03_com-proposal.en.md) | [de](cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0502) |
 
+## ECF
+
+`competitiveness-fund` – Proposal for a Regulation of the European Parliament and of the Council on establishing the European Competitiveness Fund ('ECF'), including the specific programme for defence research and innovation activities, repealing Regulations (EU) 2021/522, (EU) 2021/694, (EU) 2021/697, (EU) 2021/783, repealing provisions of Regulations (EU) 2021/696, (EU) 2023/588, and amending Regulation (EU) [EDIP]
+
+All texts of this act as one file: [competitiveness-fund.zip](downloads/competitiveness-fund.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-16_com-proposal | com-proposal | 52025PC0555 | [en](competitiveness-fund/2025-07-16_com-proposal.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/competitiveness-fund/2025-07-16_com-proposal.en.md) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0555) |
+
+## DSM Copyright Directive
+
+`copyright-dsm` – Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC
+
+All texts of this act as one file: [copyright-dsm.zip](downloads/copyright-dsm.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2019-05-17_oj | oj | 32019L0790 | [en](copyright-dsm/2019-05-17_oj.en.md) | [de](copyright-dsm/2019-05-17_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/copyright-dsm/2019-05-17_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790) |
+
 ## CRA
 
 `cra` – Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements
@@ -301,6 +321,16 @@ All texts of this act as one file: [cyber-solidarity-act.zip](downloads/cyber-so
 | 2025-01-15_oj | oj | 32025R0038 | [en](cyber-solidarity-act/2025-01-15_oj.en.md) | [de](cyber-solidarity-act/2025-01-15_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cyber-solidarity-act/2025-01-15_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R0038) |
 | 2025-01-24_corrigendum-01 | corrigendum | 32025R0038R(01) | [en](cyber-solidarity-act/2025-01-24_corrigendum-01.en.md) | [de](cyber-solidarity-act/2025-01-24_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cyber-solidarity-act/2025-01-24_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R0038R(01)) |
 | 2025-11-06_corrigendum-03 | corrigendum | 32025R0038R(03) | [en](cyber-solidarity-act/2025-11-06_corrigendum-03.en.md) | [de](cyber-solidarity-act/2025-11-06_corrigendum-03.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cyber-solidarity-act/2025-11-06_corrigendum-03.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R0038R(03)) |
+
+## DDPP
+
+`digital-decade` – Decision (EU) 2022/2481 of the European Parliament and of the Council of 14 December 2022 establishing the Digital Decade Policy Programme 2030
+
+All texts of this act as one file: [digital-decade.zip](downloads/digital-decade.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022-12-19_oj | oj | 32022D2481 | [en](digital-decade/2022-12-19_oj.en.md) | [de](digital-decade/2022-12-19_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-decade/2022-12-19_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022D2481) |
 
 ## Digital Omnibus
 
@@ -756,6 +786,16 @@ All texts of this act as one file: [guidance-commission-nis2-art4-guidelines-202
 | --- | --- | --- | --- | --- | --- | --- |
 | 2023-09-18_final | final | 52023XC0918(01) | [en](guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.en.md) | [de](guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52023XC0918(01)) |
 
+## Progress report Virkkunen 2026
+
+`guidance/commission/progress-report-virkkunen-2026` – 2026 Annual Progress Report on Simplification, Implementation and Enforcement, Executive Vice-President Henna Virkkunen (Tech Sovereignty, Security and Democracy), published on 4 November 2026
+
+All texts of this act as one file: [guidance-commission-progress-report-virkkunen-2026.zip](downloads/guidance-commission-progress-report-virkkunen-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-04_final | final | – | [en](guidance/commission/progress-report-virkkunen-2026/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/progress-report-virkkunen-2026/2026-11-04_final.en.md) | [source](https://commission.europa.eu/document/download/2258dd34-0863-440d-adcc-4ac4650d4547_en?filename=APR_Virkkunen_2026.pdf) |
+
 ## Recommendation (EU) 2019/534
 
 `guidance/commission/recommendation-2019-534` – Commission Recommendation (EU) 2019/534 of 26 March 2019 – Cybersecurity of 5G networks
@@ -775,6 +815,16 @@ All texts of this act as one file: [guidance-commission-red-guide-2026.zip](down
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-07_final | final | – | [en](guidance/commission/red-guide-2026/2026-07-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/red-guide-2026/2026-07-07_final.en.md) | [source](https://single-market-economy.ec.europa.eu/document/download/a0c7e4c5-27db-4c59-9c43-a380ed21563f_en?filename=RED%20Guide%20-%20version%2007.07.2026%20-%20with%20COVER.pdf) |
+
+## Simplification overview report 2026
+
+`guidance/commission/simplification-overview-2026` – 2026 Annual Overview Report on Simplification, Implementation and Enforcement, published with the Commission Work Programme 2027 on 4 November 2026
+
+All texts of this act as one file: [guidance-commission-simplification-overview-2026.zip](downloads/guidance-commission-simplification-overview-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-04_final | final | – | [en](guidance/commission/simplification-overview-2026/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/simplification-overview-2026/2026-11-04_final.en.md) | [source](https://commission.europa.eu/document/download/1a61e542-802b-4931-af63-915084db559d_en?filename=2026-overview-report-simplification-implementation-enforcement_en.pdf) |
 
 ## Annual Union work programme for European standardisation 2024
 
@@ -816,6 +866,16 @@ All texts of this act as one file: [guidance-commission-work-programme-2026.zip]
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-10-21_final | final | 52025DC0870 | [en](guidance/commission/work-programme-2026/2025-10-21_final.en.md) | [de](guidance/commission/work-programme-2026/2025-10-21_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/work-programme-2026/2025-10-21_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025DC0870) |
+
+## Commission Work Programme 2027
+
+`guidance/commission/work-programme-2027` – Communication from the Commission – Commission work programme 2027, European Union – standing up for one another, COM(2026) 710 final of 4 November 2026, with Annexes 1 to 4
+
+All texts of this act as one file: [guidance-commission-work-programme-2027.zip](downloads/guidance-commission-work-programme-2027.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-04_final | final | – | [en](guidance/commission/work-programme-2027/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/work-programme-2027/2026-11-04_final.en.md) | [source](https://commission.europa.eu/document/download/c8399880-b208-46f0-a14c-0e67c3f8dca4_en?filename=COM_2026_710_1_EN.pdf) |
 
 ## Council AOB note: The European Product Act as cornerstone of the Single Market (non-paper of NL, FI, FR, PL, PT, SE)
 
@@ -1046,6 +1106,16 @@ All texts of this act as one file: [guidance-enisa-hardware-assessment-en-hsm-pp
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-19_final | final | – | [en](guidance/enisa/hardware-assessment-en-hsm-pp/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/hardware-assessment-en-hsm-pp/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/c0cb0cdf-046e-440e-9994-1146c27b96d0_en?filename=EUCC_state_of_the_art_HSM%20PP%20v1%20%28final%29.pdf) |
+
+## Joint statement on refrigeration incidents
+
+`guidance/enisa/joint-statement-refrigeration-2026` – Joint statement on cyber incidents in refrigeration systems across the EU (ENISA, European Commission (DG CNECT), Europol EC3, EU CSIRTs Network, EU-CyCLONe), news item of 4 November 2026
+
+All texts of this act as one file: [guidance-enisa-joint-statement-refrigeration-2026.zip](downloads/guidance-enisa-joint-statement-refrigeration-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-04_final | final | – | [en](guidance/enisa/joint-statement-refrigeration-2026/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/joint-statement-refrigeration-2026/2026-11-04_final.en.md) | [source](https://www.enisa.europa.eu/news/joint-statement-on-cyber-incidents-in-refrigeration-systems-across-the-eu) |
 
 ## Minimum ITSEF requirements for security evaluations of smart cards and
 
@@ -1308,6 +1378,16 @@ All texts of this act as one file: [guidance-enisa-voices-cybersecurity-certific
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-15_final | final | – | [en](guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-12/2025_Voices%20of%20EU%20Cybersecurity%20Certification.pdf) |
+
+## NCSC-IE advisory on refrigeration controllers
+
+`guidance/ncsc-ie/refrigeration-controllers-2026` – NCSC Advisory, Security Incidents Targeting Remote Refrigeration Controllers, 3 November 2026, TLP:CLEAR
+
+All texts of this act as one file: [guidance-ncsc-ie-refrigeration-controllers-2026.zip](downloads/guidance-ncsc-ie-refrigeration-controllers-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-03_final | final | – | [en](guidance/ncsc-ie/refrigeration-controllers-2026/2026-11-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/ncsc-ie/refrigeration-controllers-2026/2026-11-03_final.en.md) | [source](https://www.ncsc.gov.ie/pdfs/2611020249_Danfoss-Advisory.pdf) |
 
 ## EU 5G Toolbox
 
