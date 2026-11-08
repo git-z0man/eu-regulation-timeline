@@ -1,6 +1,6 @@
 # Regulation Desk
 
-Edition of 2026-11-07: the stories of the last 14 days, most important first. Every story links to its official source. Drafts are not law. New since the edition of 2026-11-06: marked *new*.
+Edition of 2026-11-08: the stories of the last 14 days, most important first. Every story links to its official source. Drafts are not law. New since the edition of 2026-11-07: marked *new*.
 
 - 2026-11-04 · Legislation · Digital Omnibus: [Digital Omnibus: Committee opinion adopted](../procedures/digital-omnibus.html). European Parliament.
 - 2026-11-04 · Legislation · Simplification of the medical devices rules: [Simplification of the medical devices rules: Committee opinion adopted](../procedures/medical-devices-simplification.html). European Parliament.

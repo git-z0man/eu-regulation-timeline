@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-07",
- "previous": "2026-11-06",
+ "edition": "2026-11-08",
+ "previous": "2026-11-07",
  "stories": [
   {
    "id": "digital-omnibus/ep-vote/Committee-opinion-adopted-2026-11-04",
@@ -28,7 +28,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 79,
+   "score": 77,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -67,7 +67,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 64,
+   "score": 62,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -118,7 +118,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 61,
+   "score": 59,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -157,7 +157,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Analysis"
@@ -194,7 +194,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Analysis"
@@ -235,7 +235,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -289,7 +289,7 @@
     }
    ],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -340,7 +340,7 @@
     "en": "No step was reached; it is still at Commission proposal, and the time it has waited there and the newer data on comparable files moved it.",
     "de": "Kein Schritt wurde erreicht; es steht weiter bei Kommissionsvorschlag, und die Wartezeit dort und neuere Daten zu vergleichbaren Verfahren haben ihn verschoben."
    },
-   "score": 53,
+   "score": 51,
    "ladder": {
     "place": {
      "en": [
@@ -403,7 +403,7 @@
     "en": "On 8 Sep 2025, when the procedure reached its current step, the median of publication in the Official Journal was 3 Sep 2027; it held within 14 days only if the step came by 31 Aug 2026. The step is overdue: the median now stands at 28 Jul 2028. If the step came on 6 Nov 2026, the median would be 23 Nov 2027.",
     "de": "Am 8. Sept. 2025, als das Verfahren seinen jetzigen Schritt erreichte, lag der Median der Veröffentlichung im Amtsblatt beim 3. Sept. 2027; er hielt sich nur dann innerhalb von 14 Tagen, wenn der Schritt bis 31. Aug. 2026 kam. Der Schritt steht aus: der Median liegt jetzt beim 28. Juli 2028. Käme der Schritt am 6. Nov. 2026, läge der Median beim 23. Nov. 2027."
    },
-   "score": 53,
+   "score": 51,
    "ladder": {
     "place": {
      "en": [
@@ -483,7 +483,7 @@
     "de": "ST 13112/26: Presidency revised compromise text of 21 September 2026 (ST 13112/26) on the Digital Omnibus, circulated by the General Secretariat of the Council for the meeting of the Antici Group (Simplification) of 25 September 2026; it is the Presidency's text, not a Council position, and can still change.",
     "lang": "en"
    },
-   "score": 52,
+   "score": 50,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -526,7 +526,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 49,
+   "score": 47,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -571,7 +571,7 @@
     }
    ],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -645,7 +645,7 @@
     }
    ],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -826,7 +826,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -877,7 +877,7 @@
     "en": "No step was reached; it is still at Commission proposal, and the time it has waited there and the newer data on comparable files moved it.",
     "de": "Kein Schritt wurde erreicht; es steht weiter bei Kommissionsvorschlag, und die Wartezeit dort und neuere Daten zu vergleichbaren Verfahren haben ihn verschoben."
    },
-   "score": 40,
+   "score": 38,
    "ladder": {
     "place": {
      "en": [
@@ -932,7 +932,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -986,7 +986,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1054,7 +1054,7 @@
     "en": "2 only changed status within their step (Drafting prEN, Voting EN); 4 without an earlier status on record (EN 300 386, EN 300 386, EN 302 454 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 4 ohne früheren Stand in den Daten (EN 300 386, EN 300 386, EN 302 454 …)."
    },
-   "score": 39,
+   "score": 37,
    "tree": {
     "": {
      "ETSI": {
@@ -1223,7 +1223,7 @@
     }
    ],
    "brief": null,
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1284,7 +1284,7 @@
     "en": "Formal title: Commission Implementing Regulation further specifying the type of information, the format and the procedure of a notification submitted pursuant to Article 23(1) of Directive (EU) 2022/2555. The Commission adopts it after the opinion of the Member States in the Cybersecurity Committee, under the examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). A draft is to be published for feedback on Have your say.",
     "de": "Förmlicher Titel: Commission Implementing Regulation further specifying the type of information, the format and the procedure of a notification submitted pursuant to Article 23(1) of Directive (EU) 2022/2555. Die Kommission erlässt ihn nach der Stellungnahme der Mitgliedstaaten im Ausschuss „Cybersecurity Committee“ (Verfahren: examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011)). Ein Entwurf soll auf „Have your say“ zur Rückmeldung veröffentlicht werden."
    },
-   "score": 38,
+   "score": 36,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -1328,7 +1328,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -1376,7 +1376,7 @@
     "de": "Compared with the clean text of March 2026, it adds market surveillance by Member States under Regulation (EU) 2019/1020, lets a Member State self-certify spacecraft with substantial governmental involvement without a qualified technical body, narrows the obligation on space-based data to Earth observation data supplied to public contracting authorities and Union bodies (plus a landing-rights criterion for satellite communication), replaces the defence exclusions, and turns the environmental footprint into a life-cycle assessment with a standardisation request for the Union method. The cybersecurity provisions, which oblige space operators that are NIS-2 entities to follow the NIS-2 implementing act for space and apply equivalent measures to the other operators, and the incident reporting rules are unchanged apart from wording and corrected cross-references.",
     "lang": "en"
    },
-   "score": 37,
+   "score": 35,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -1428,7 +1428,7 @@
     "en": "On 8 Sep 2025, when the procedure reached its current step, the median of publication in the Official Journal was 29 Jul 2027; it held within 14 days only if the step came by 20 Jul 2026. The step is overdue: the median now stands at 7 Jun 2028. If the step came on 29 Oct 2026, the median would be 15 Nov 2027.",
     "de": "Am 8. Sept. 2025, als das Verfahren seinen jetzigen Schritt erreichte, lag der Median der Veröffentlichung im Amtsblatt beim 29. Juli 2027; er hielt sich nur dann innerhalb von 14 Tagen, wenn der Schritt bis 20. Juli 2026 kam. Der Schritt steht aus: der Median liegt jetzt beim 7. Juni 2028. Käme der Schritt am 29. Okt. 2026, läge der Median beim 15. Nov. 2027."
    },
-   "score": 37,
+   "score": 35,
    "ladder": {
     "place": {
      "en": [
@@ -1494,7 +1494,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1548,7 +1548,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1611,7 +1611,7 @@
     }
    ],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1661,7 +1661,7 @@
     "en": "A step further: prEN 18229-2 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN 18229-2 auf Entwurf EN."
    },
-   "score": 33,
+   "score": 31,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1740,7 +1740,7 @@
     }
    ],
    "brief": null,
-   "score": 27,
+   "score": 25,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1786,7 +1786,7 @@
     }
    ],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1900,7 +1900,7 @@
     "en": "3 only changed status within their step (Drafting prEN); 7 without an earlier status on record (EN 302 858, EN 302 208, EN 303 405 …).",
     "de": "3 nur mit neuem Status im selben Schritt (Entwurf prEN); 7 ohne früheren Stand in den Daten (EN 302 858, EN 302 208, EN 303 405 …)."
    },
-   "score": 25,
+   "score": 23,
    "tree": {
     "": {
      "ETSI": {
@@ -2121,7 +2121,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 18,
+   "score": 16,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2177,7 +2177,7 @@
     }
    ],
    "brief": null,
-   "score": 18,
+   "score": 16,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2212,7 +2212,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2251,7 +2251,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -2290,7 +2290,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2325,7 +2325,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -2358,7 +2358,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -2395,7 +2395,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 4,
+   "score": 2,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2439,7 +2439,7 @@
     }
    ],
    "brief": null,
-   "score": 0,
+   "score": -2,
    "crumbs": {
     "en": [
      "Artificial Intelligence Act",
@@ -2487,7 +2487,7 @@
     }
    ],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -2522,7 +2522,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -2555,7 +2555,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "Net Zero Industry Act",
@@ -2611,7 +2611,7 @@
     }
    ],
    "brief": null,
-   "score": -7,
+   "score": -9,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -2646,7 +2646,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -13,
+   "score": -15,
    "crumbs": {
     "en": [
      "Regulation on European standardisation",
