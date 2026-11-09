@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-08",
+ "as_of": "2026-11-09",
  "views": [
   {
    "key": "all",
@@ -28,6 +28,12 @@
      "act": "European Health Data Space Regulation",
      "text": "Feedback closes: Draft implementing regulation, Templates for health data access applications, health data …",
      "url": "procedures/ehds.html"
+    },
+    {
+     "date": "2026-11-15",
+     "act": "Cyber Resilience Act",
+     "text": "ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security …",
+     "url": "acts/cra.html"
     }
    ],
    "recap": [
@@ -72,6 +78,12 @@
      "act": "Artificial Intelligence Act",
      "text": "Feedback closes: Draft implementing regulation, Articles 75c – 75d AI Act Implementing Act",
      "url": "acts/ai-act.html"
+    },
+    {
+     "date": "2026-11-15",
+     "act": "Cyber Resilience Act",
+     "text": "ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security …",
+     "url": "acts/cra.html"
     }
    ],
    "recap": [
