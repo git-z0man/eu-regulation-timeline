@@ -71,10 +71,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-02-15 | ST 6403/23 | council-transmission | Opinion of the European Committee of the Regions | public status unknown | – | – |
 | 2023-02-17 | ST 6403/23 COR 1 | council-transmission | Opinion of the European Committee of the Regions | public status unknown | – | – |
 | 2023-02-23 | ST 6620/23 | council-item-note | Attendance of third party at the Working Party on Public Health on 6 March 2023 - Approval | public status unknown | – | – |
-| 2023-03-29 | PE745.530 | ep-amendments | – | public status unknown | – | – |
-| 2023-03-29 | PE745.531 | ep-amendments | – | public status unknown | – | – |
-| 2023-03-29 | PE745.532 | ep-amendments | – | public status unknown | – | – |
-| 2023-04-05 | PE745.533 | ep-amendments | – | public status unknown | – | – |
+| 2023-03-29 | [PE745.530](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ43-AM-745530/CJ43-AM-745530_en.pdf) | ep-amendments | AMENDMENTS 818 - 1124 - Draft report European Health Data Space | public | – | – |
+| 2023-03-29 | [PE745.531](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ43-AM-745531/CJ43-AM-745531_en.pdf) | ep-amendments | AMENDMENTS 1125 - 1538 - Draft report European Health Data Space | public | – | – |
+| 2023-03-29 | [PE745.532](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ43-AM-745532/CJ43-AM-745532_et.pdf) | ep-amendments | AMENDMENTS 1539 - 1861 - Draft report European Health Data Space | public | – | – |
+| 2023-04-05 | [PE745.533](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ43-AM-745533/CJ43-AM-745533_en.pdf) | ep-amendments | AMENDMENTS 1862 - 2133 - Draft report European Health Data Space | public | – | – |
 | 2023-05-23 | [PE742.310](https://data.europarl.europa.eu/distribution/reds_iCmOp/ITRE-AD-742310/ITRE-AD-742310_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on European Health Data Space | public | – | – |
 | 2023-05-25 | [PE740.773](https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-740773/IMCO-AD-740773_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on the European Health Data Space | public | – | – |
 | 2023-05-26 | [ST 9368/23](https://data.consilium.europa.eu/doc/document/ST-9368-2023-INIT/en/pdf) | council-progress-report | Progress report | public | – | – |
@@ -92,7 +92,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2025-01-14 | ST 5142/25 ADD 1 REV 1 | council-note | Draft Regulation of the European Parliament and of the Council on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
 | 2025-01-21 | ST 5541/25 | council-note | Voting result Regulation of the European Parliament and of the Council on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) … | public status unknown | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

@@ -1,0 +1,670 @@
+---
+act: standardisation-regulation
+version: 2024-12-13_consolidated
+stage: consolidated
+language: en
+celex: 02012R1025-20241213
+title: REGULATION (EU) No 1025/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council
+retrieved: '2026-11-09'
+converter: tools/eurlex2md.py
+counts:
+  recitals: 0
+  articles: 30
+  annexes: 4
+official_source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R1025-20241213
+reuse: '© European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6.'
+notice: Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
+---
+
+
+# REGULATION (EU) No 1025/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council
+
+02012R1025 — EN — 13.12.2024 — 003.001
+
+This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+
+Amended by:
+
+- ►M1 DIRECTIVE 2014/28/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 (OJ L 96, p. 1, 29.3.2014)
+
+- ►M2 DIRECTIVE 2014/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 (OJ L 96, p. 45, 29.3.2014)
+
+- ►M4 DIRECTIVE 2014/32/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 (OJ L 96, p. 149, 29.3.2014)
+
+- ►M5 DIRECTIVE 2014/33/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 (OJ L 96, p. 251, 29.3.2014)
+
+- ►M6 DIRECTIVE 2014/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 (OJ L 96, p. 309, 29.3.2014)
+
+- ►M7 DIRECTIVE (EU) 2015/1535 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 September 2015 (OJ L 241, p. 1, 17.9.2015)
+
+- ►M8 REGULATION (EU) 2022/2480 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 (OJ L 323, p. 1, 19.12.2022)
+
+- ►M9 REGULATION (EU) 2023/988 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 (OJ L 135, p. 1, 23.5.2023)
+
+▼B
+
+<a id="chapter-i"></a>
+## Chapter I – GENERAL PROVISIONS
+
+<a id="art-1"></a>
+### Article 1 – Subject matter
+
+This Regulation establishes rules with regard to the cooperation between European standardisation organisations, national standardisation bodies, Member States and the Commission, the establishment of European standards and European standardisation deliverables for products and for services in support of Union legislation and policies, the identification of ICT technical specifications eligible for referencing, the financing of European standardisation and stakeholder participation in European standardisation.
+
+<a id="art-2"></a>
+### Article 2 – Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+- (1) ‘standard’ means a technical specification, adopted by a recognised standardisation body, for repeated or continuous application, with which compliance is not compulsory, and which is one of the following:
+
+  - (a) ‘international standard’ means a standard adopted by an international standardisation body;
+
+  - (b) ‘European standard’ means a standard adopted by a European standardisation organisation;
+
+  - (c) ‘harmonised standard’ means a European standard adopted on the basis of a request made by the Commission for the application of Union harmonisation legislation;
+
+  - (d) ‘national standard’ means a standard adopted by a national standardisation body;
+
+- (2) ‘European standardisation deliverable’ means any other technical specification than a European standard, adopted by a European standardisation organisation for repeated or continuous application and with which compliance is not compulsory;
+
+- (3) ‘draft standard’ means a document containing the text of the technical specifications concerning a given subject, which is being considered for adoption in accordance with the relevant standards procedure, as that document stands after the preparatory work and as circulated for public comment or scrutiny;
+
+- (4) ‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product, process, service or system and which lays down one or more of the following:
+
+  - (a) the characteristics required of a product including levels of quality, performance, interoperability, environmental protection, health, safety or dimensions, and including the requirements applicable to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures;
+
+  - (b) production methods and processes used in respect of agricultural products as defined in Article 38(1) TFEU, products intended for human and animal consumption, and medicinal products, as well as production methods and processes relating to other products, where these have an effect on their characteristics;
+
+  - (c) the characteristics required of a service including levels of quality, performance, interoperability, environmental protection, health or safety, and including the requirements applicable to the provider as regards the information to be made available to the recipient, as specified in Article 22(1) to (3) of Directive 2006/123/EC;
+
+  - (d) the methods and the criteria for assessing the performance of construction products, as defined in point 1 of Article 2 of Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products ^(1), in relation to their essential characteristics;
+
+- (5) ‘ICT technical specification’ means a technical specification in the field of information and communication technologies;
+
+- (6) ‘product’ means any industrially manufactured product and any agricultural product, including fish products;
+
+- (7) ‘service’ means any self-employed economic activity normally provided for remuneration, as defined in Article 57 TFEU;
+
+- (8) ‘European standardisation organisation’ means an organisation listed in Annex I;
+
+- (9) ‘international standardisation body’ means the International Organisation for Standardisation (ISO), the International Electrotechnical Commission (IEC) and the International Telecommunication Union (ITU);
+
+- (10) ‘national standardisation body’ means a body notified to the Commission by a Member State in accordance with Article 27 of this Regulation.
+
+<a id="chapter-ii"></a>
+## Chapter II – TRANSPARENCY AND STAKEHOLDER PARTICIPATION
+
+<a id="art-3"></a>
+### Article 3 – Transparency of work programmes of standardisation bodies
+
+1. At least once a year, each European standardisation organisation and national standardisation body shall establish its work programme. That work programme shall contain information on the standards and European standardisation deliverables which a European standardisation organisation or national standardisation body intends to prepare or amend, which it is preparing or amending and which it has adopted in the period of the preceding work programme, unless these are identical or equivalent transpositions of international or European standards.
+
+2. The work programme shall indicate, in respect of each standard and European standardisation deliverable:
+
+- (a) the subject matter;
+
+- (b) the stage attained in the development of the standards and European standardisation deliverables;
+
+- (c) the references of any international standards taken as a basis.
+
+3. Each European standardisation organisation and national standardisation body shall make its work programme available on its website or any other publicly available website, as well as make a notice of the existence of the work programme available in a national or, where appropriate, European publication of standardisation activities.
+
+4. No later than at the time of publication of its work programme, each European standardisation organisation and national standardisation body shall notify the existence thereof to the other European standardisation organisations and national standardisation bodies and to the Commission. The Commission shall make that information available to the Member States via the committee referred to in Article 22.
+
+5. National standardisation bodies may not object to a subject for standardisation in their work programme being considered at European level in accordance with the rules laid down by the European standardisation organisations and may not undertake any action which could prejudice a decision in this regard.
+
+6. During the preparation of a harmonised standard or after its approval, national standardisation bodies shall not take any action which could prejudice the harmonisation intended and, in particular, shall not publish in the field in question a new or revised national standard which is not completely in line with an existing harmonised standard. After publication of a new harmonised standard, all conflicting national standards shall be withdrawn within a reasonable deadline.
+
+<a id="art-4"></a>
+### Article 4 – Transparency of standards
+
+1. Each European standardisation organisation and national standardisation body shall send at least in electronic form any draft national standard, European standard or European standardisation deliverable to other European standardisation organisations, national standardisation bodies or the Commission, upon their request.
+
+2. Each European standardisation organisation and national standardisation body shall within three months reply to, and take due account of, any comments received from any other European standardisation organisation, national standardisation body or the Commission with respect to any draft referred to in paragraph 1.
+
+3. When a national standardisation body receives comments indicating that the draft standard would have a negative impact on the internal market, it shall consult the European standardisation organisations and the Commission before adopting it.
+
+4. National standardisation bodies shall:
+
+- (a) ensure access to draft national standards in such a way that all relevant parties in particular those established in other Member States have the opportunity to submit comments;
+
+- (b) allow other national standardisation bodies to be involved passively or actively, by sending an observer, in the planned activities.
+
+<a id="art-5"></a>
+### Article 5 – Stakeholder participation in European standardisation
+
+1. European standardisation organisations shall encourage and facilitate an appropriate representation and effective participation of all relevant stakeholders, including SMEs, consumer organisations and environmental and social stakeholders in their standardisation activities. They shall in particular encourage and facilitate such representation and participation through the European stakeholder organisations receiving Union financing in accordance with this Regulation at the policy development level and at the following stages of the development of European standards or European standardisation deliverables:
+
+- (a) the proposal and acceptance of new work items;
+
+- (b) the technical discussion on proposals;
+
+- (c) the submission of comments on drafts;
+
+- (d) the revision of existing European standards or European standardisation deliverables;
+
+- (e) the dissemination of information of, and awareness-building about, adopted European standards or European standardisation deliverables.
+
+2. In addition to the collaboration with market surveillance authorities in the Member States, research facilities of the Commission and the European stakeholder organisations receiving Union financing in accordance with this Regulation, European standardisation organisations shall encourage and facilitate appropriate representation, at technical level, of undertakings, research centres, universities and other legal entities, in standardisation activities concerning an emerging area with significant policy or technical innovation implications, if the legal entities concerned participated in a project that is related to that area and that is funded by the Union under a multiannual framework programme for activities in the area of research, innovation and technological development, adopted pursuant to Article 182 TFEU.
+
+<a id="art-6"></a>
+### Article 6 – Access of SMEs to standards
+
+1. National standardisation bodies shall encourage and facilitate the access of SMEs to standards and standards development processes in order to reach a higher level of participation in the standardisation system, for instance by:
+
+- (a) identifying, in their annual work programmes, the standardisation projects, which are of particular interests to SMEs;
+
+- (b) giving access to standardisation activities without obliging SMEs to become a member of a national standardisation body;
+
+- (c) providing free access or special rates to participate in standardisation activities;
+
+- (d) providing free access to draft standards;
+
+- (e) making available free of charge on their website abstracts of standards;
+
+- (f) applying special rates for the provision of standards or providing bundles of standards at a reduced price.
+
+2. National standardisation bodies shall exchange best practices aiming to enhance the participation of SMEs in standardisation activities and to increase and facilitate the use of standards by SMEs.
+
+3. National standardisation bodies shall send annual reports to the European standardisation organisations with regards to their activities in paragraphs 1 and 2 and all other measures to improve conditions for SMEs to use standards and to participate in the standards development process. The national standardisation bodies shall publish those reports on their websites.
+
+<a id="art-7"></a>
+### Article 7 – Participation of public authorities in European standardisation
+
+Member States shall, where appropriate, encourage participation of public authorities, including market surveillance authorities, in national standardisation activities aimed at the development or revision of standards requested by the Commission in accordance with Article 10.
+
+<a id="chapter-iii"></a>
+## Chapter III – EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES IN SUPPORT OF UNION LEGISLATION AND POLICIES
+
+<a id="art-8"></a>
+### Article 8 – The annual Union work programme for European standardisation
+
+1. The Commission shall adopt an annual Union work programme for European standardisation which shall identify strategic priorities for European standardisation, taking into account Union long-term strategies for growth. It shall indicate the European standards and European standardisation deliverables that the Commission intends to request from the European standardisation organisations in accordance with Article 10.
+
+2. The annual Union work programme for European standardisation shall define the specific objectives and policies for the European standards and European standardisation deliverables that the Commission intends to request from the European standardisation organisations in accordance with Article 10. In cases of urgency the Commission can issue requests without prior indication.
+
+3. The annual Union work programme for European standardisation shall also include objectives for the international dimension of European standardisation, in support of Union legislation and policies.
+
+4. The annual Union work programme for European standardisation shall be adopted after having conducted a broad consultation of relevant stakeholders, including European standardisation organisations and European stakeholder organisations receiving Union financing in accordance with this Regulation, and Member States via the committee referred to in Article 22 of this Regulation.
+
+5. After its adoption, the Commission shall make the annual Union work programme for European standardisation available on its website.
+
+<a id="art-9"></a>
+### Article 9 – Cooperation with research facilities
+
+The Commission’s research facilities shall contribute to the preparation of the annual Union work programme for European standardisation referred to in Article 8 and provide European standardisation organisations with scientific input, in their areas of expertise, to ensure that European standards take into account economic competitiveness and societal needs such as environmental sustainability and safety and security concerns.
+
+<a id="art-10"></a>
+### Article 10 – Standardisation requests to European standardisation organisations
+
+▼M8
+
+1. The Commission may, within the limitations of the competences laid down in the Treaties, request that one or more European standardisation organisations draft a European standard or European standardisation deliverable within a set deadline, provided that the European standardisation organisation concerned complies with paragraph 2a. European standards and European standardisation deliverables shall be market-driven, take into account the public interest as well as the policy objectives clearly stated in the Commission’s request and be based on consensus. The Commission shall determine the requirements as to the content to be met by the requested document and a deadline for its adoption.
+
+▼B
+
+2. The decisions referred to in paragraph 1 shall be adopted in accordance with the procedure laid down in Article 22(3) after consultation of the European standardisation organisations and the European stakeholder organisations receiving Union financing in accordance with this Regulation as well as the committee set up by the corresponding Union legislation, when such a committee exists, or after other forms of consultation of sectoral experts.
+
+▼M8
+
+2a. Without prejudice to other advisory opinions, each European standardisation organisation shall ensure that the following decisions concerning European standards and European standardisation deliverables referred to in paragraph 1 are taken exclusively by representatives of the national standardisation bodies within the competent decision-making body of that organisation:
+
+- (a) decisions on the acceptance and refusal of standardisation requests;
+
+- (b) decisions on the acceptance of new work items that are needed for the fulfilment of the standardisation request; and
+
+- (c) decisions on the adoption, revision and withdrawal of European standards or European standardisation deliverables.
+
+▼B
+
+3. The relevant European standardisation organisation shall indicate, within one month following its receipt, if it accepts the request referred to in paragraph 1.
+
+4. Where a request for funding is made, the Commission shall inform the relevant European standardisation organisations, within two months following the receipt of the acceptance referred to in paragraph 3, about the award of a grant for drafting a European standard or a European standardisation deliverable.
+
+5. The European standardisation organisations shall inform the Commission about the activities undertaken for the development of the documents referred to in paragraph 1. The Commission together with the European standardisation organisations shall assess the compliance of the documents drafted by the European standardisation organisations with its initial request.
+
+6. Where a harmonised standard satisfies the requirements which it aims to cover and which are set out in the corresponding Union harmonisation legislation, the Commission shall publish a reference of such harmonised standard without delay in the Official Journal of the European Union or by other means in accordance with the conditions laid down in the corresponding act of Union harmonisation legislation.
+
+▼M9
+
+7. Where a European standard drafted in support of Regulation (EU) 2023/988 of the European Parliament and of the Council ^(2) satisfies the general safety requirement laid down in Article 5 of that Regulation and the specific safety requirements referred to in Article 7(2) of that Regulation, the Commission shall publish a reference to that European standard without delay in the Official Journal of the European Union.
+
+▼B
+
+<a id="art-11"></a>
+### Article 11 – Formal objections to harmonised standards
+
+▼M9
+
+1. When a Member State or the European Parliament considers that a harmonised standard or European standard drafted in support of Regulation (EU) 2023/988 does not entirely satisfy the requirements which it aims to cover and which are set out in the relevant Union harmonisation legislation or in that Regulation, it shall inform the Commission thereof with a detailed explanation. The Commission shall, after consulting the committee set up by the corresponding Union harmonisation legislation, if it exists, or the committee set up by that Regulation, or after other forms of consultation of sectoral experts, decide:
+
+- (a) to publish, not to publish or to publish with restriction the references to the harmonised standard or European standard concerned drafted in support of that Regulation in the Official Journal of the European Union; and
+
+- (b) to maintain, to maintain with restriction or to withdraw the references to the harmonised standard or European standard concerned drafted in support of that Regulation in or from the Official Journal of the European Union.
+
+2. The Commission shall publish information on its website on the harmonised standards and European standards drafted in support of Regulation (EU) 2023/988 that have been subject to a decision pursuant to paragraph 1.
+
+3. The Commission shall inform the European standardisation organisation concerned of any decision adopted pursuant to paragraph 1 and, if necessary, request the revision of the harmonised standards or of the European standards concerned drafted in support of Regulation (EU) 2023/988.
+
+▼B
+
+4. The decision referred to in point (a) of paragraph 1 of this Article shall be adopted in accordance with the advisory procedure referred to in Article 22(2).
+
+5. The decision referred to in point (b) of paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 22(3).
+
+<a id="art-12"></a>
+### Article 12 – Notification of stakeholder organisations
+
+The Commission shall establish a notification system for all stakeholders, including European standardisation organisations and European stakeholder organisations receiving Union financing in accordance with this Regulation in order to ensure proper consultation and market relevance prior to:
+
+- (a) adopting the annual Union work programme for European standardisation referred to in Article 8(1);
+
+- (b) adopting standardisation requests referred to in Article 10;
+
+- (c) taking a decision on formal objections to harmonised standards, as referred to in Article 11(1);
+
+- (d) taking a decision on identifications of ICT technical specifications referred to in Article 13;
+
+- (e) adopting delegated acts referred to in Article 20.
+
+<a id="chapter-iv"></a>
+## Chapter IV – ICT TECHNICAL SPECIFICATIONS
+
+<a id="art-13"></a>
+### Article 13 – Identification of ICT technical specifications eligible for referencing
+
+1. Either on proposal from a Member State or on its own initiative the Commission may decide to identify ICT technical specifications that are not national, European or international standards, but meet the requirements set out in Annex II, which may be referenced, primarily to enable interoperability, in public procurement.
+
+2. Either on proposal from a Member State or on its own initiative, when an ICT technical specification identified in accordance with paragraph 1 is modified, withdrawn or no longer meets the requirements set out in Annex II, the Commission may decide to identify the modified ICT technical specification or to withdraw the identification.
+
+3. The decisions provided for in paragraphs 1 and 2 shall be adopted after consultation of the European multi-stakeholder platform on ICT standardisation, which includes European standardisation organisations, Member States and relevant stakeholders, and after consultation of the committee set up by the corresponding Union legislation, if it exists, or after other forms of consultation of sectoral experts, if such a committee does not exist.
+
+<a id="art-14"></a>
+### Article 14 – Use of ICT technical specifications in public procurement
+
+The ICT technical specifications referred to in Article 13 of this Regulation shall constitute common technical specifications referred to in Directives 2004/17/EC, 2004/18/EC and 2009/81/EC, and Regulation (EC, Euratom) No 2342/2002.
+
+<a id="chapter-v"></a>
+## Chapter V – FINANCING OF EUROPEAN STANDARDISATION
+
+<a id="art-15"></a>
+### Article 15 – Financing of standardisation organisations by the Union
+
+1. The financing by the Union may be granted to the European standardisation organisations for the following standardisation activities:
+
+- (a) the development and revision of European standards or European standardisation deliverables which is necessary and suitable for the support of Union legislation and policies;
+
+- (b) the verification of the quality, and conformity to the corresponding Union legislation and policies, of European standards or European standardisation deliverables;
+
+- (c) the performance of preliminary or ancillary work in connection with European standardisation, including studies, cooperation activities, including international cooperation, seminars, evaluations, comparative analyses, research work, laboratory work, inter-laboratory tests, conformity evaluation work and measures to ensure that the periods for the development and the revision of European standards or European standardisation deliverables are shortened without prejudice to the founding principles, especially the principles of openness, quality, transparency and consensus among all stakeholders;
+
+- (d) the activities of the central secretariats of the European standardisation organisations, including policy development, the coordination of standardisation activities, the processing of technical work and the provision of information to interested parties;
+
+- (e) the translation of European standards or European standardisation deliverables used in support of Union legislation and policies into the official Union languages other than the working languages of the European standardisation organisations or, in duly justified cases into languages other than the official Union languages;
+
+- (f) the drawing up of information to explain, interpret and simplify European standards or European standardisation deliverables, including the drawing up of user guides, abstracts of standards, best practice information and awareness-building actions, strategies and training programmes;
+
+- (g) activities seeking to carry out programmes of technical assistance, cooperation with third countries and the promotion and enhancement of the European standardisation system and of European standards and European standardisation deliverables among interested parties in the Union and at international level.
+
+2. The financing by the Union may also be granted to:
+
+- (a) national standardisation bodies for the standardisation activities referred to in paragraph 1, which they jointly undertake with the European standardisation organisations;
+
+- (b) other bodies which have been entrusted with contributing to the activities referred to in point (a) of paragraph 1, or carrying out the activities referred to in points (c) and (g) of paragraph 1, in cooperation with the European standardisation organisations.
+
+<a id="art-16"></a>
+### Article 16 – Financing of other European organisations by the Union
+
+The financing by the Union may be granted to the European stakeholder organisations meeting the criteria set out in Annex III to this Regulation for the following activities:
+
+- (a) the functioning of these organisations and of their activities relating to European and international standardisation, including the processing of technical work and the provision of information to members and other interested parties;
+
+- (b) the provision of legal and technical expertise, including studies, in relation to assessment of the need for, and the development of, European standards and European standardisation deliverables and training of experts;
+
+- (c) the participation in the technical work with respect to the development and revision of European standards and European standardisation deliverables which is necessary and suitable for the support of Union legislation and policies;
+
+- (d) the promotion of European standards and European standardisation deliverables, and the information on, and use of, standards among interested parties, including SMEs and consumers.
+
+<a id="art-17"></a>
+### Article 17 – Financing arrangements
+
+1. Financing by the Union shall be provided in the form of:
+
+- (a) grants without a call for proposals, or contracts after public procurement procedures, to:
+
+  - (i) European standardisation organisations and national standardisation bodies to carry out the activities referred to in Article 15(1);
+
+  - (ii) bodies identified by a basic act, within the meaning of Article 49 of Regulation (EC, Euratom) No 1605/2002, to carry out, in collaboration with the European standardisation organisations the activities referred to in point (c) of Article 15(1) of this Regulation;
+
+- (b) grants after a call for proposals, or contracts after public procurement procedures, to other bodies referred to in point (b) of Article 15(2):
+
+  - (i) for contributing to the development and revision of European standards or European standardisation deliverables referred to in point (a) of Article 15(1);
+
+  - (ii) for carrying out the preliminary or ancillary work referred to in point (c) of Article 15(1);
+
+  - (iii) for carrying out the activities referred to in point (g) of Article 15(1);
+
+- (c) grants after a call for proposals to the European stakeholder organisations meeting the criteria set out in Annex III to this Regulation to carry out the activities referred to in Article 16.
+
+2. The activities of the bodies referred to in paragraph 1 may be financed by:
+
+- (a) grants for actions;
+
+- (b) operating grants for the European standardisation organisations and the European stakeholder organisations meeting the criteria set out in Annex III to this Regulation in accordance with the rules set out in Regulation (EC, Euratom) No 1605/2002. In the event of renewal, operating grants shall not be automatically decreased.
+
+3. The Commission shall decide on the financing arrangements referred to in paragraphs 1 and 2, on the amounts of the grants and, where necessary, on the maximum percentage of financing by type of activity.
+
+4. Except in duly justified cases, grants awarded for the standardisation activities referred to in points (a) and (b) of Article 15(1) shall take the form of lump sums and for the standardisation activities referred to in point (a) of Article 15(1) shall be paid upon fulfilment of the following conditions:
+
+- (a) European standards or European standardisation deliverables requested by the Commission in accordance with Article 10 are adopted or revised within a period not exceeding the period specified in the request referred to in that Article;
+
+- (b) SMEs, consumer organisations and environmental and social stakeholders are appropriately represented and can participate in European standardisation activities, as referred to in Article 5(1).
+
+5. The common cooperation objectives and the administrative and financial conditions relating to the grants awarded to European standardisation organisations and the European stakeholder organisations meeting the criteria set out in Annex III to this Regulation shall be defined in the framework partnership agreements between the Commission and those standardisation and stakeholder organisations, in accordance with Regulations (EC, Euratom) No 1605/2002 and (EC, Euratom) No 2342/2002. The Commission shall inform the European Parliament and the Council of the conclusion of those agreements.
+
+<a id="art-18"></a>
+### Article 18 – Management
+
+The appropriations determined by the budgetary authority for the financing of standardisation activities may also cover the administrative expenses relating to the preparation, monitoring, inspection, auditing and evaluation which are directly necessary for the purposes of implementing Articles 15, 16 and 17, including studies, meetings, information and publication activities, expenses relating to informatics networks for the exchange of information and any other expenditure on administrative and technical assistance which the Commission may use for standardisation activities.
+
+<a id="art-19"></a>
+### Article 19 – Protection of the financial interests of the Union
+
+1. The Commission shall ensure that, when the activities financed under this Regulation are implemented, the financial interests of the Union are protected by the application of preventive measures against fraud, corruption and other illegal activities, by effective checks and by the recovery of amounts unduly paid and, if irregularities are detected, by effective, proportionate and dissuasive penalties, in accordance with Regulations (EC, Euratom) No 2988/95, (Euratom, EC) No 2185/96 and (EC) No 1073/1999.
+
+2. For the Union activities financed pursuant to this Regulation, the notion of irregularity defined in Article 1(2) of Regulation (EC, Euratom) No 2988/95 shall mean any infringement of a provision of Union law or any breach of a contractual obligation resulting from an act or omission by an economic operator which has, or would have, the effect of prejudicing the general budget of the Union or budgets managed by it by an unjustified item of expenditure.
+
+3. Any agreements and contracts resulting from this Regulation shall provide for monitoring and financial control by the Commission or any representative which it authorises and for audits by the European Court of Auditors, which if necessary may be conducted on the spot.
+
+<a id="chapter-vi"></a>
+## Chapter VI – DELEGATED ACTS, COMMITTEE AND REPORTING
+
+<a id="art-20"></a>
+### Article 20 – Delegated acts
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 21 concerning amendments to the Annexes, in order to:
+
+- (a) update the list of European standardisation organisations set out in Annex I to take into account changes in their name or structure;
+
+- (b) adapt the criteria for European stakeholder organisations set out in Annex III to this Regulation to further developments as regards their non-profit making nature and representativity. Such adaptations shall not have the effect of creating any new criteria or abolishing any existing criteria or category of organisation.
+
+<a id="art-21"></a>
+### Article 21 – Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 20 shall be conferred on the Commission for a period of five years from 1 January 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Article 20 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5. A delegated act adopted pursuant to Article 20 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+<a id="art-22"></a>
+### Article 22 – Committee procedure
+
+1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+4. Where the opinion of the committee is to be obtained by written procedure, that procedure shall be terminated without result when, within the time-limit for delivery of the opinion, the chair of the committee so decides or a simple majority of committee members so request.
+
+<a id="art-23"></a>
+### Article 23 – Committee cooperation with standardisation organisations and stakeholders
+
+The committee referred to in Article 22(1) shall work in cooperation with the European standardisation organisations and the European stakeholder organisations receiving Union financing in accordance with this Regulation.
+
+<a id="art-24"></a>
+### Article 24 – Reports
+
+1. The European standardisation organisations shall send an annual report on the implementation of this Regulation to the Commission. It shall contain detailed information on the following:
+
+- (a) the application of Articles 4, 5, 10, 15 and 17;
+
+- (b) the representation of SMEs, consumer organisations and environmental and social stakeholders in national standardisation bodies;
+
+- (c) the representation of SMEs on the basis of the annual reports referred to in Article 6(3);
+
+- (d) the use of ICT in the standardisation system;
+
+- (e) cooperation between the national standardisation bodies and European standardisation organisations.
+
+2. The European stakeholder organisations that received Union financing in accordance with this Regulation shall send an annual report on their activities to the Commission. This report shall contain in particular detailed information about the membership of these organisations and the activities referred to in Article 16.
+
+3. By 31 December 2015 and every five years thereafter, the Commission shall present a report to the European Parliament and to the Council on the implementation of this Regulation. This report shall contain an analysis of the annual reports referred to in paragraphs 1 and 2, an evaluation of the relevance of the standardisation activities receiving Union financing in the light of the requirements of Union legislation and policies as well as an assessment of potential new measures to simplify the financing of European standardisation and to reduce the administrative burden for the European standardisation organisations.
+
+<a id="art-25"></a>
+### Article 25 – Review
+
+By 2 January 2015, the Commission shall evaluate the impact of the procedure established by Article 10 of this Regulation on the timeframe for issuing standardisation requests. The Commission shall present its conclusions in a report to the European Parliament and to the Council. Where appropriate, that report shall be accompanied by a legislative proposal to amend this Regulation.
+
+<a id="chapter-vii"></a>
+## Chapter VII – FINAL PROVISIONS
+
+<a id="art-26"></a>
+### Article 26 – Amendments
+
+1. The following provisions are deleted:
+
+- (a) Article 6(1) of Directive 89/686/EEC;
+
+▼M1 —————
+
+▼M6 —————
+
+▼B
+
+- (d) Article 6(1) of Directive 94/25/EC;
+
+- (e) Article 6(1) of Directive 95/16/EC;
+
+- (f) Article 6 of Directive 97/23/EC;
+
+▼M4 —————
+
+▼B
+
+- (h) Article 8(4) of Directive 2007/23/EC;
+
+▼M5 —————
+
+▼M2 —————
+
+▼B
+
+References to those deleted provisions shall be construed as references to Article 11 of this Regulation.
+
+▼M7 —————
+
+▼B
+
+<a id="art-27"></a>
+### Article 27 – National standardisation bodies
+
+Member States shall inform the Commission of their standardisation bodies.
+
+The Commission shall publish a list of national standardisation bodies and any updates to that list in the Official Journal of the European Union.
+
+<a id="art-28"></a>
+### Article 28 – Transitional provisions
+
+In Union acts that provide for a presumption of conformity with essential requirements through the application of harmonised standards adopted in accordance with Directive 98/34/EC, references to Directive 98/34/EC shall be construed as references to this Regulation, except references to the committee set up by Article 5 of Directive 98/34/EC regarding technical regulations.
+
+Where a Union act provides for a procedure for objection to harmonised standards, Article 11 of this Regulation shall not apply to that act.
+
+<a id="art-29"></a>
+### Article 29 – Repeal
+
+Decision No 1673/2006/EC and Decision 87/95/EEC are hereby repealed.
+
+References to the repealed Decisions shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IV to this Regulation.
+
+<a id="art-30"></a>
+### Article 30 – Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="annex-i"></a>
+## Annex I
+
+### EUROPEAN STANDARDISATION ORGANISATIONS
+
+- 1. CEN — European Committee for Standardisation
+
+- 2. Cenelec — European Committee for Electrotechnical Standardisation
+
+- 3. ETSI — European Telecommunications Standards Institute
+
+<a id="annex-ii"></a>
+## Annex II
+
+### REQUIREMENTS FOR THE IDENTIFICATION OF ICT TECHNICAL SPECIFICATIONS
+
+1. The technical specifications have market acceptance and their implementations do not hamper interoperability with the implementations of existing European or international standards. Market acceptance can be demonstrated by operational examples of compliant implementations from different vendors.
+
+2. The technical specifications are coherent as they do not conflict with European standards, that is to say they cover domains where the adoption of new European standards is not foreseen within a reasonable period, where existing standards have not gained market uptake or where these standards have become obsolete, and where the transposition of the technical specifications into European standardisation deliverables is not foreseen within a reasonable period.
+
+3. The technical specifications were developed by a non-profit making organisation which is a professional society, industry or trade association or any other membership organisation that within its area of expertise develops ICT technical specifications and which is not a European standardisation organisation, national or international standardisation body, through processes which fulfil the following criteria:
+
+- (a) openness:
+
+  the technical specifications were developed on the basis of open decision-making accessible to all interested parties in the market or markets affected by those technical specifications;
+
+- (b) consensus:
+
+  the decision-making process was collaborative and consensus based and did not favour any particular stakeholder. Consensus means a general agreement, characterised by the absence of sustained opposition to substantial issues by any important part of the concerned interests and by a process that involves seeking to take into account the views of all parties concerned and to reconcile any conflicting arguments. Consensus does not imply unanimity;
+
+- (c) transparency:
+
+  - (i) all information concerning technical discussions and decision making was archived and identified;
+
+  - (ii) information on new standardisation activities was publicly and widely announced through suitable and accessible means;
+
+  - (iii) participation of all relevant categories of interested parties was sought with a view to achieving balance;
+
+  - (iv) consideration and response were given to comments by interested parties.
+
+4. The technical specifications meet the following requirements:
+
+- (a) maintenance: ongoing support and maintenance of published specifications are guaranteed over a long period;
+
+- (b) availability: specifications are publicly available for implementation and use on reasonable terms (including for a reasonable fee or free of charge);
+
+- (c) intellectual property rights essential to the implementation of specifications are licensed to applicants on a (fair) reasonable and non-discriminatory basis ((F)RAND), which includes, at the discretion of the intellectual property right-holder, licensing essential intellectual property without compensation;
+
+- (d) relevance:
+
+  - (i) the specifications are effective and relevant;
+
+  - (ii) specifications need to respond to market needs and regulatory requirements;
+
+- (e) neutrality and stability:
+
+  - (i) specifications whenever possible are performance oriented rather than based on design or descriptive characteristics;
+
+  - (ii) specifications do not distort the market or limit the possibilities for implementers to develop competition and innovation based upon them;
+
+  - (iii) specifications are based on advanced scientific and technological developments;
+
+- (f) quality:
+
+  - (i) the quality and level of detail are sufficient to permit the development of a variety of competing implementations of interoperable products and services;
+
+  - (ii) standardised interfaces are not hidden or controlled by anyone other than the organisations that adopted the technical specifications.
+
+<a id="annex-iii"></a>
+## Annex III
+
+### EUROPEAN STAKEHOLDER ORGANISATIONS ELIGIBLE FOR UNION FINANCING
+
+1. A European organisation representing SMEs in European standardisation activities which:
+
+- (a) is non-governmental and non-profit-making;
+
+- (b) has as its statutory objectives and activities to represent the interests of SMEs in the standardisation process at European level, to raise their awareness for standardisation and to motivate them to become involved in the standardisation process;
+
+- (c) has been mandated by non-profit organisations representing SMEs in at least two thirds of the Member States, to represent the interests of SMEs in the standardisation process at European level.
+
+2. A European organisation representing consumers in European standardisation activities which:
+
+- (a) is non-governmental, non-profit-making, and independent of industry, commercial and business or other conflicting interests;
+
+- (b) has as its statutory objectives and activities to represent consumer interests in the standardisation process at European level;
+
+- (c) has been mandated by national non-profit consumer organisations in at least two thirds of the Member States, to represent the interests of consumers in the standardisation process at European level.
+
+3. A European organisation representing environmental interests in European standardisation activities which:
+
+- (a) is non-governmental, non-profit-making, and independent of industry, commercial and business or other conflicting interests;
+
+- (b) has as its statutory objectives and activities to represent environmental interests in the standardisation process at European level;
+
+- (c) has been mandated by national non-profit environmental organisations in at least two thirds of the Member States, to represent environmental interests in the standardisation process at European level.
+
+4. A European organisation representing social interests in European standardisation activities which:
+
+- (a) is non-governmental, non-profit-making, and independent of industry, commercial and business or other conflicting interests;
+
+- (b) has as its statutory objectives and activities to represent social interests in the standardisation process at European level;
+
+- (c) has been mandated by national non-profit social organisations in at least two thirds of the Member States, to represent social interests in the standardisation process at European level.
+
+<a id="annex-iv"></a>
+## Annex IV
+
+CORRELATION TABLE
+
+| Directive 98/34/EC | This Regulation |
+| --- | --- |
+| Article 1, first paragraph, point (6) | Article 2(1) |
+| Article 1, first paragraph, point (7) | — |
+| Article 1, first paragraph, point (8) | Article 2(3) |
+| Article 1, first paragraph, point (9) | Article 2(8) |
+| Article 1, first paragraph, point (10) | Article 2(10) |
+| Article 2(1) | Article 3(1) |
+| Article 2(2) | Article 3(2) |
+| Article 2(3) | Article 3(3) and (4) |
+| Article 2(4) | Article 27 |
+| Article 2(5) | Article 20(a) |
+| Article 3 | Article 4(1) |
+| Article 4(1) | Article 3(3) and (5) and Article 4(4) |
+| Article 4(2) | — |
+| Article 6(3), first indent | — |
+| Article 6(4)(a) | Article 20(a) |
+| Article 6(4)(b) | — |
+| Article 6(4)(e) | Article 10(2) |
+| Annex I | Annex I |
+| Annex II | Article 27 |
+| Decision No 1673/2006/EC | This Regulation |
+| Article 1 | Article 1 |
+| Articles 2 and 3 | Article 15 |
+| Article 4 | — |
+| Article 5 | Article 17 |
+| Article 6(1) | Article 18 |
+| Article 6(2) | Article 24(3) |
+| Article 7 | Article 19 |
+| Decision 87/95/EEC | This Regulation |
+| Article 1 | Article 2 |
+| Article 2 | Article 3 |
+| Article 3 | Article 13 |
+| Article 4 | Article 8 |
+| Article 5 | Article 14 |
+| Article 6 | — |
+| Article 7 | — |
+| Article 8 | Article 24(3) |
+| Article 9 | — |
+
+<a id="notes"></a>
+## Notes
+
+(1) OJ L 88, 4.4.2011, p. 5.
+
+(2) Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (OJ L 135, 23.5.2023, p. 1).

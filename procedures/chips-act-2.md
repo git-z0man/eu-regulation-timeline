@@ -1,14 +1,14 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 4 Nov 2026.
+Procedure 2026/0139(COD), as of 9 Nov 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 14 Sep 2026
-- **Council:** working party, latest document 20 Oct 2026
-- **Latest activity:** 20 Oct 2026 · Council: Presidency compromise text (ST 13545/26 REV 1)
+- **Council:** working party, latest document 6 Nov 2026
+- **Latest activity:** 6 Nov 2026 · Council: Opinion of the European Economic and Social Committee (EESC) (ST 15512/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -56,8 +56,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [ST 13545/26 REV 1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98936) | council-compromise | Presidency compromise text | not public\* | – | – |
 | 2026-10-20 | [WK 16215/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98931) | council-note | Explanatory Note on the first Presidency compromise text of the proposal for a Regulation of the European Parliament and of the Council on a framework of … | not public\* | – | – |
 | 2026-10-20 | [WK 16218/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98932) | council-note | Consolidated table with comments from the following Member States AT, BE, CZ, DE, DK, EE, ES, FI, FR, HR, IT, LT, MT, NL, PL, PT, SE, SI on Pillar III and its … | not public\* | – | – |
+| 2026-11-06 | [ST 15512/26](https://data.consilium.europa.eu/doc/document/ST-15512-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

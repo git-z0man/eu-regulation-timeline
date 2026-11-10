@@ -26,7 +26,7 @@
   {
     "name": "forecast-product-digitalisation-directive",
     "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Directive)",
-    "note": "Step by step; Official Journal median Dec 2026.",
+    "note": "Step by step; Official Journal median Jan 2027.",
     "page": "product-digitalisation-directive.html"
   },
   {
@@ -48,21 +48,21 @@
     "page": "digital-omnibus.html"
   },
   {
-    "name": "forecast-csa2",
-    "title": "Forecast: Cybersecurity Act 2",
-    "note": "Step by step; Official Journal median May 2028.",
-    "page": "csa2.html"
-  },
-  {
     "name": "forecast-medical-devices-simplification",
     "title": "Forecast: MDR/IVDR simplification",
     "note": "Step by step; Official Journal median May 2028.",
     "page": "medical-devices-simplification.html"
   },
   {
+    "name": "forecast-csa2",
+    "title": "Forecast: Cybersecurity Act 2",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "csa2.html"
+  },
+  {
     "name": "forecast-industrial-accelerator-act",
     "title": "Forecast: Industrial Accelerator Act",
-    "note": "Step by step; Official Journal median May 2028.",
+    "note": "Step by step; Official Journal median Jun 2028.",
     "page": "industrial-accelerator-act.html"
   },
   {
@@ -72,15 +72,9 @@
     "page": "space-act.html"
   },
   {
-    "name": "forecast-standardisation-revision",
-    "title": "Forecast: New Standardisation Regulation",
-    "note": "Step by step; Official Journal median Sep 2028.",
-    "page": "standardisation-revision.html"
-  },
-  {
     "name": "forecast-cloud-ai-development-act",
     "title": "Forecast: Cloud and AI Development Act",
-    "note": "Step by step; Official Journal median Sep 2028.",
+    "note": "Step by step; Official Journal median Oct 2028.",
     "page": "cloud-ai-development-act.html"
   },
   {
@@ -88,6 +82,12 @@
     "title": "Forecast: Chips Act 2.0",
     "note": "Step by step; Official Journal median Oct 2028.",
     "page": "chips-act-2.html"
+  },
+  {
+    "name": "forecast-standardisation-revision",
+    "title": "Forecast: New Standardisation Regulation",
+    "note": "Step by step; Official Journal median Oct 2028.",
+    "page": "standardisation-revision.html"
   },
   {
     "name": "forecast-quantum-act",
@@ -98,7 +98,7 @@
   {
     "name": "forecast-public-procurement-act",
     "title": "Forecast: Public Procurement Act",
-    "note": "Step by step; Official Journal median Dec 2028.",
+    "note": "Step by step; Official Journal median Jan 2029.",
     "page": "public-procurement-act.html"
   },
   {

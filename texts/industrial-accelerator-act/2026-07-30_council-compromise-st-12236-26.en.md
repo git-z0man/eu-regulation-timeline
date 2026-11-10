@@ -639,7 +639,9 @@ The Investment Authority shall communicate such reasoned decisions to the Commis
 
 1. Within ~~30~~ **45** days of receiving the notification referred to in Article 17a(2), **an Investment** **Authority may request** the Commission ~~may decide~~ to undertake the **admissibility** assessment ~~of the foreign direct investment only in the following circumstances:~~ **and, if** **deemed admissible, the approval process on its behalf.**
 
-- (a) (a) ~~at the request of an Investment Authority handling the notification;~~
+- (a) [no text in the PDF]
+
+- (a) ~~at the request of an Investment Authority handling the notification;~~
 
 - (b) ~~at the request of the Investment Authorities of 3 or more Member States, where the~~ ~~foreign direct investment in question would have a significant economic impact on~~ ~~their territories;~~
 

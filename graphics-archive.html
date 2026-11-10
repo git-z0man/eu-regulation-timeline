@@ -22,7 +22,7 @@ h2 { font: 600 22px/1.25 var(--s-serif); margin: 36px 0 12px; padding-bottom: 6p
 .card .body strong { display: block; margin: 0 0 2px; } .card .dl { font-size: 14.5px; color: var(--muted); margin-top: 4px; }
 footer { color: var(--muted); font-size: 14px; margin-top: 40px; padding-top: 10px; border-top: 1px solid var(--line); }
 @media (max-width: 700px) { .wrap { padding-inline: 16px; } }
-</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script></head><body>
+</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="manifest" href="site.webmanifest"><meta name="apple-mobile-web-app-title" content="EU Regulation"><meta name="theme-color" content="#0f5a63"></head><body>
 <style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
@@ -87,6 +87,8 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
 /* a column with nothing in any row (sitestyle.phone_tables) */
 [data-gone] { display: none !important; }
+/* text for screen readers only, e.g. the heading of a column that shows only a relative date (b37) */
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 /* WCAG 2.2 SC 2.5.8: a short link side by side with another (a language, a lone ↗) is a target of at least 24 by 24px */
 a.tgt { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; text-align: center; }
 /* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */

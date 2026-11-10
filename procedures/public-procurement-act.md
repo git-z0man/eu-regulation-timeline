@@ -1,6 +1,6 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 6 Nov 2026.
+Procedure 2026/0265(COD), as of 9 Nov 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
@@ -48,7 +48,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-29 | [WK 16826/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100622) | council-note | Mapping of Existing Reporting Obligations and Procurement : Related Information Requirements under EU Sectoral Legislation | not public\* | – | – |
 | 2026-11-05 | [ST 15211/26](https://data.consilium.europa.eu/doc/document/ST-15211-2026-INIT/en/pdf) | council-note | Optional consultation of the Committee of the Regions | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

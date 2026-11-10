@@ -93,6 +93,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | --- | --- | --- | --- | --- |
 | 2024-07-12 | oj | [CELEX 32024R1689](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689) | [en](../texts/ai-act/2024-07-12_oj.en.md) [de](../texts/ai-act/2024-07-12_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md) |
 | 2025-10-09 | corrigendum | [CELEX 32024R1689R(01)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689R(01)) | [de](../texts/ai-act/2025-10-09_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2025-10-09_corrigendum-01.de.md) |
+| 2026-07-27 | consolidated | [CELEX 02024R1689-20260727](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727) | [en](../texts/ai-act/2026-07-27_consolidated.en.md) [de](../texts/ai-act/2026-07-27_consolidated.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2026-07-27_consolidated.en.md) |
 
 ## Standardisation
 

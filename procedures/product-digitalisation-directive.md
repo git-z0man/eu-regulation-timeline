@@ -1,6 +1,6 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)
 
-Procedure 2025/0133(COD), as of 2 Nov 2026.
+Procedure 2025/0133(COD), as of 9 Nov 2026.
 Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive.svg), [product-digitalisation-directive.pdf](product-digitalisation-directive.pdf) · Web page: [product-digitalisation-directive.html](product-digitalisation-directive.html)
 
 ## Status and next steps
@@ -68,8 +68,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2025-10-08 | [ST 13412/25](https://www.parlament.gv.at/gegenstand/XXVIII/EU/37212) | council-note | Cover note from the Italian Chamber of Deputies | not public\* | – | – |
 | 2025-10-08 | [ST 13592/25](https://www.parlament.gv.at/gegenstand/XXVIII/EU/37211) | council-note | Cover note from the the Spanish parliament (Cortes Generales) | not public\* | – | – |
 | 2025-10-13 | [ST 13787/25](https://data.consilium.europa.eu/doc/document/ST-13787-2025-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – | [en](../texts/product-digitalisation-directive/2025-10-13_council-progress-report-st-13787-25.en.md) [de](../texts/product-digitalisation-directive/2025-10-13_council-progress-report-st-13787-25.de.md) |
-| 2025-10-24 | PE779.372 | ep-amendments | – | public status unknown | – | – |
-| 2025-10-24 | PE779.373 | ep-amendments | – | public status unknown | – | – |
+| 2025-10-24 | [PE779.372](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/IMCO-AM-779372/IMCO-AM-779372_en.pdf) | ep-amendments | AMENDMENTS 1 - 173 - Draft report Amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, … | public | – | – |
+| 2025-10-24 | [PE779.373](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/IMCO-AM-779373/IMCO-AM-779373_en.pdf) | ep-amendments | AMENDMENTS 174 - 344 - Draft report Amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, … | public | – | – |
 | 2025-12-04 | [ST 16131/25 REV 1](https://data.consilium.europa.eu/doc/document/ST-16131-2025-REV-1/en/pdf) | council-note | Simplification a) 2025 Annual Overview Report b) Annual Progress Reports - Presentation by the Commission - Exchange of views | public | – | – |
 | 2025-12-16 | [PE778.331](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-778331/ENVI-AD-778331_en.pdf) | ep-opinion | Opinion on the proposal for a directive of the European Parliament and of the Council amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, … | public | – | – |
 | 2026-01-09 | [WK 252/26](https://data.consilium.europa.eu/doc/document/WK-252-2026-INIT/en/pdf) | council-note | Priorities and work programme of the Cyprus Presidency - Presentation by the Presidency (AGS on 9 January 2026) | public | – | – |
@@ -98,7 +98,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-06-26 | [PE790.896](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790896/IMCO-AG-790896_en.pdf) | agreed-text | Provisional agreement resulting from interinstitutional negotiations Proposal for a directive of the European Parliament and of the Council amending Directives …<br>*Our summary:* Provisional agreement of June 2026 on the Omnibus IV Directive on digitalisation and common specifications, as submitted to the European Parliament's IMCO committee for a single vote; its wording is the same as the Council's final compromise text of 24 June 2026 submitted to Coreper for confirmation, and it is not yet law. Against the Commission proposal it keeps the electronic-only EU declaration of conformity and optional electronic instructions in thirteen product directives, but adds safeguards: safety information on paper or on the product where consumers may use it, a right to paper instructions up to 24 months after purchase, and a narrower "digital contact" that manufacturers and importers must show next to their postal address. The Commission may adopt common specifications only where harmonised standards are missing and a standardisation request has failed, by examination procedure, plus a time-limited last-resort route; the transposition period grows to 24 months and the digital rules apply after 30 months.<br>*Updated 2026-10-28:* Reviewed after the generated comparison was rerun against the Council's final compromise text ST 10482/26 ADD 2 REV 1: no difference in wording; the three provisions it flags differ only in footnote text, the signature block and the notes. Added checks of the amending articles against the Low Voltage and EMC Directives, and an open point on the "assigned expert group" that no provision sets up. No change to the summary. (source: [ST 10482/26 ADD 2 REV 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf)) | public | – | [en](../texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) |
 | 2026-06-26 | [ST 10980/26](https://data.consilium.europa.eu/doc/document/ST-10980-2026-INIT/en/pdf) | council-note | Offer letter to the European Parliament | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

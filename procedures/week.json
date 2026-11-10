@@ -1,15 +1,15 @@
 {
- "as_of": "2026-11-09",
+ "as_of": "2026-11-10",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "ahead": [
     {
-     "date": "2026-11-09",
-     "act": "Artificial Intelligence Act",
-     "text": "Feedback closes: Draft implementing regulation, Articles 75c – 75d AI Act Implementing Act",
-     "url": "acts/ai-act.html"
+     "date": "2026-11-10",
+     "act": "NIS 2 Directive",
+     "text": "Funding call deadline: N4CY2: Enhancing Cybersecurity for Small and Medium Enterprises (SMEs) designated as …",
+     "url": "acts/nis2.html#funding"
     },
     {
      "date": "2026-11-11",
@@ -46,8 +46,14 @@
     {
      "date": "2026-11-04",
      "act": "Simplification of the medical devices rules",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: BUDG opinion adopted",
      "url": "procedures/medical-devices-simplification.html"
+    },
+    {
+     "date": "2026-11-06",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 5 documents listed as not public, incl. Presidency first compromise text on Title IV …",
+     "url": "procedures/csa2.html"
     },
     {
      "date": "2026-11-03",
@@ -60,12 +66,6 @@
      "act": "EU Space Act",
      "text": "Council: October 2026 Presidency compromise text – Explanations (not public)",
      "url": "procedures/space-act.html"
-    },
-    {
-     "date": "2026-11-06",
-     "act": "Cyber Resilience Act",
-     "text": "8 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Closing of approval procedure",
-     "url": "acts/cra.html#standardisation"
     }
    ]
   },
@@ -74,10 +74,10 @@
    "label": "Cybersecurity",
    "ahead": [
     {
-     "date": "2026-11-09",
-     "act": "Artificial Intelligence Act",
-     "text": "Feedback closes: Draft implementing regulation, Articles 75c – 75d AI Act Implementing Act",
-     "url": "acts/ai-act.html"
+     "date": "2026-11-10",
+     "act": "NIS 2 Directive",
+     "text": "Funding call deadline: N4CY2: Enhancing Cybersecurity for Small and Medium Enterprises (SMEs) designated as …",
+     "url": "acts/nis2.html#funding"
     },
     {
      "date": "2026-11-15",
@@ -94,22 +94,28 @@
      "url": "procedures/digital-omnibus.html"
     },
     {
+     "date": "2026-11-06",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 5 documents listed as not public, incl. Presidency first compromise text on Title IV …",
+     "url": "procedures/csa2.html"
+    },
+    {
      "date": "2026-11-03",
      "act": "Digital Omnibus",
      "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
      "url": "procedures/digital-omnibus.html"
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-09",
      "act": "Cyber Resilience Act",
-     "text": "8 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Closing of approval procedure",
+     "text": "9 standardisation projects moved on, e.g. EN 304 624: Approval Stage – Comments categorisation assessed",
      "url": "acts/cra.html#standardisation"
     },
     {
-     "date": "2026-11-04",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 2 documents listed as not public",
-     "url": "procedures/csa2.html"
+     "date": "2026-11-10",
+     "act": "Machinery Regulation",
+     "text": "Standardisation: prEN ISO 13849-2: Under Approval",
+     "url": "acts/machinery-regulation.html#standardisation"
     }
    ]
   }

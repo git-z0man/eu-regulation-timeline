@@ -36,7 +36,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | WK 16128/26 | council-note | Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – |
 | 2026-11-04 | [WK 17067/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101495) | council-note | Member States comments | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

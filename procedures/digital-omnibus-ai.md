@@ -28,14 +28,7 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 | 2026-03-18 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (COMMITTEE_ADOPTING_OPINION) |
 | 2026-03-18 | European Parliament | Committee adopts report and mandate | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (COMMITTEE_ADOPTING_REPORT) |
 | 2026-03-19 | European Parliament | Report tabled for plenary | [A10-0073/2026](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_en.pdf) | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-03-20 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-03-23 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-03-23 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-03-23 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-03-23 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-03-23 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
 | 2026-03-26 | European Parliament | Plenary adopts amendments (mandate for trilogues) | [P10_TA(2026)0098](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0098_en.pdf) | EP Open Data API, procedure 2025-0359 (PLENARY_AMEND) |
-| 2026-03-26 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
 | 2026-03-26 | European Parliament | Plenary refers back for trilogues | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS) |
 | 2026-03-26 | Trilogues (informal) | Trilogue | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (INTERINSTITUTIONAL_NEGOTIATION) |
 | 2026-03-27 | Council | 4 column document – AGS meeting on 1 April 2026 | [WK 4547/26](https://data.consilium.europa.eu/doc/document/WK-4547-2026-INIT/en/pdf) | Cellar procedure file 2025/359 (Council register) |
@@ -47,11 +40,6 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 | 2026-05-08 | Council | Analysis of the final compromise text with a view to agreement | [ST 9034/26](https://data.consilium.europa.eu/doc/document/ST-9034-2026-INIT/en/pdf) | Cellar procedure file 2025/359 (Council register) |
 | 2026-06-02 | European Parliament | Committee approves provisional agreement | [PE789.081](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ40-AG-789081/CJ40-AG-789081_en.pdf) | EP Open Data API, procedure 2025-0359 (COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT) |
 | 2026-06-05 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | Cellar procedure file 2025/359 (Council register) |
-| 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
-| 2026-06-10 | European Parliament | Report tabled for plenary | A10-0073/2026 | EP Open Data API, procedure 2025-0359 (TABLING_PLENARY) |
 | 2026-06-12 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | Cellar procedure file 2025/359 (Council register) |
 | 2026-06-16 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P10_TA(2026)0198](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf) | EP Open Data API, procedure 2025-0359 (PLENARY_ADOPT_POSITION) |
 | 2026-07-08 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (SIGNATURE) |
@@ -80,9 +68,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-02-06 | ST 6057/26 | council-note | Optional consultation of the Committee of the Regions1 | public status unknown | – | – |
 | 2026-02-12 | [ST 6245/26](https://data.consilium.europa.eu/doc/document/ST-6245-2026-INIT/en/pdf) | council-compromise | Second Presidency compromise text | public | – | – |
 | 2026-02-13 | WK 2384/26 | council-note | Explanatory note on the second Presidency compromise text – AGS on 18 February | public status unknown | – | – |
-| 2026-02-14 | PE784.274 | ep-amendments | – | public status unknown | – | – |
-| 2026-02-14 | PE784.275 | ep-amendments | – | public status unknown | – | – |
-| 2026-02-14 | PE784.309 | ep-amendments | – | public status unknown | – | – |
+| 2026-02-14 | [PE784.274](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ40-AM-784274/CJ40-AM-784274_en.pdf) | ep-amendments | AMENDMENTS 25 - 170 - Draft report Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) … | public | – | – |
+| 2026-02-14 | [PE784.275](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ40-AM-784275/CJ40-AM-784275_en.pdf) | ep-amendments | AMENDMENTS 171 - 317 - Draft report Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) … | public | – | – |
+| 2026-02-14 | [PE784.309](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ40-AM-784309/CJ40-AM-784309_en.pdf) | ep-amendments | AMENDMENTS 318 - 450 - Draft report Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) … | public | – | – |
 | 2026-02-23 | WK 17679/25 ADD 1 COR 1 | council-note | compiled comments (ddl 18/12) -CORRIGENDUM | public status unknown | – | – |
 | 2026-02-23 | WK 17679/25 ADD 1 COR 2 | council-note | compiled comments (ddl 18/12) -CORRIGENDUM | public status unknown | – | – |
 | 2026-02-23 | WK 17679/25 ADD 1 REV 1 | council-note | compiled comments (ddl 18/12) | public status unknown | – | – |
@@ -100,13 +88,13 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-03-17 | ST 7384/26 | council-transmission | European Central Bank/ ECB Opinion | public status unknown | – | – |
 | 2026-03-18 | [CELEX 52025AE3929](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE3929) | opinion | Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) … | public | – | – |
 | 2026-03-19 | [A10-0073/2026](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the … | public | – | – |
-| 2026-03-20 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-03-23 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-03-26 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-03-20 | [A10-0073/84-89](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-084-089/A-10-2026-0073-AM-084-089_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-03-23 | [A10-0073/103-107](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-103-107/A-10-2026-0073-AM-103-107_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-03-23 | [A10-0073/108](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-108-108/A-10-2026-0073-AM-108-108_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-03-23 | [A10-0073/109-117](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-109-117/A-10-2026-0073-AM-109-117_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-03-23 | [A10-0073/90-96](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-090-096/A-10-2026-0073-AM-090-096_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-03-23 | [A10-0073/97-102](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-097-102/A-10-2026-0073-AM-097-102_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-03-26 | [A10-0073/1-83](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-001-083/A-10-2026-0073-AM-001-083_en.pdf) | ep-amendments | Amendment 001-083 - Arba Kokalari, Michael McNamara - Report A10-0073/2026 - Simplification of the implementation of harmonised rules on artificial … | public | – | – |
 | 2026-03-26 | [P10_TA(2026)0098](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0098_en.pdf) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public | – | – |
 | 2026-03-27 | [WK 4547/26](https://data.consilium.europa.eu/doc/document/WK-4547-2026-INIT/en/pdf) | trilogue | 4 column document – AGS meeting on 1 April 2026 | public | – | – |
 | 2026-04-17 | [ST 8253/26](https://data.consilium.europa.eu/doc/document/ST-8253-2026-INIT/en/pdf) | trilogue | 4-column table | public | – | – |
@@ -119,11 +107,11 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-05-13 | [PE789.081](https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ40-AG-789081/CJ40-AG-789081_en.pdf) | agreed-text | Provisional agreement resulting from interinstitutional negotiations Proposal for a regulation Amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as … | public | – | – |
 | 2026-05-13 | ST 9247/26 | council-note | Letter sent to the European Parliament | public status unknown | – | – |
 | 2026-06-05 | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
-| 2026-06-10 | A10-0073/2026 | ep-report | – | public status unknown | – | – |
+| 2026-06-10 | A10-0073/118 | ep-amendments | Amendment - Anna Cavazzini, Javier Zarzalejos - Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public status unknown | – | – |
+| 2026-06-10 | [A10-0073/119-121](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-119-121/A-10-2026-0073-AM-119-121_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-06-10 | A10-0073/122-127 | ep-amendments | – | public status unknown | – | – |
+| 2026-06-10 | [A10-0073/128-132](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-128-132/A-10-2026-0073-AM-128-132_en.pdf) | ep-amendments | – | public | – | – |
+| 2026-06-10 | [A10-0073/131](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0073-AM-131-131/A-10-2026-0073-AM-131-131_en.pdf) | ep-amendments | – | public | – | – |
 | 2026-06-12 | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) | council-progress-report | Omnibus simplification legislative packages - Progress report | public | – | – |
 | 2026-06-16 | [P10_TA(2026)0198](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf) | ep-position | Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) | public | – | – |
 | 2026-06-22 | ST 10752/26 | council-note | Draft Regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the … | public status unknown | – | – |

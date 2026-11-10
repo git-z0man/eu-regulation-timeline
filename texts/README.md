@@ -56,6 +56,7 @@ All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-07-12_oj | oj | 32024R1689 | [en](ai-act/2024-07-12_oj.en.md) | [de](ai-act/2024-07-12_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689) |
 | 2025-10-09_corrigendum-01 | corrigendum | 32024R1689R(01) | – | [de](ai-act/2025-10-09_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2025-10-09_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689R(01)) |
+| 2026-07-27_consolidated | consolidated | 02024R1689-20260727 | [en](ai-act/2026-07-27_consolidated.en.md) | [de](ai-act/2026-07-27_consolidated.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2026-07-27_consolidated.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) |
 
 ## Commission Decision C/2024/1459 (AI Office)
 
@@ -167,6 +168,7 @@ All texts of this act as one file: [copyright-dsm.zip](downloads/copyright-dsm.z
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2019-05-17_oj | oj | 32019L0790 | [en](copyright-dsm/2019-05-17_oj.en.md) | [de](copyright-dsm/2019-05-17_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/copyright-dsm/2019-05-17_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790) |
+| 2019-10-10_corrigendum-02 | corrigendum | 32019L0790R(02) | – | [de](copyright-dsm/2019-10-10_corrigendum-02.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/copyright-dsm/2019-10-10_corrigendum-02.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790R(02)) |
 
 ## CRA
 
@@ -309,6 +311,7 @@ All texts of this act as one file: [csa2.zip](downloads/csa2.zip)
 | 2026-08-07_council-compromise-wk-11263-26 | council-compromise | WK 11263/26 | [en](csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) |
 | 2026-09-08_council-compromise-wk-13671-26 | council-compromise | WK 13671/26 | [en](csa2/2026-09-08_council-compromise-wk-13671-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-08_council-compromise-wk-13671-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf) |
 | 2026-09-18_ep-draft-report-pe792-222 | ep-draft-report | PE792.222 | [en](csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | [de](csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_de.docx) |
+| 2026-09-21_council-compromise-wk-14487-26-add-1 | council-compromise | WK 14487/26 ADD 1 | [en](csa2/2026-09-21_council-compromise-wk-14487-26-add-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-21_council-compromise-wk-14487-26-add-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-14487-2026-ADD-1/en/pdf) |
 
 ## CSOA
 
@@ -1977,6 +1980,7 @@ All texts of this act as one file: [standardisation-regulation.zip](downloads/st
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2012-11-14_oj | oj | 32012R1025 | [en](standardisation-regulation/2012-11-14_oj.en.md) | [de](standardisation-regulation/2012-11-14_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-regulation/2012-11-14_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1025) |
+| 2024-12-13_consolidated | consolidated | 02012R1025-20241213 | [en](standardisation-regulation/2024-12-13_consolidated.en.md) | [de](standardisation-regulation/2024-12-13_consolidated.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-regulation/2024-12-13_consolidated.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R1025-20241213) |
 
 ## NSR
 

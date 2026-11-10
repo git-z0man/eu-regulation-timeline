@@ -32,6 +32,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | Date | Stage | Document | Markdown | Read |
 | --- | --- | --- | --- | --- |
 | 2012-11-14 | oj | [CELEX 32012R1025](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) | [en](../texts/standardisation-regulation/2012-11-14_oj.en.md) [de](../texts/standardisation-regulation/2012-11-14_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-regulation/2012-11-14_oj.en.md) |
+| 2024-12-13 | consolidated | [CELEX 02012R1025-20241213](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R1025-20241213) | [en](../texts/standardisation-regulation/2024-12-13_consolidated.en.md) [de](../texts/standardisation-regulation/2024-12-13_consolidated.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-regulation/2024-12-13_consolidated.en.md) |
 
 ## Committees and expert groups
 

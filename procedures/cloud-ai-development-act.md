@@ -1,6 +1,6 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 6 Nov 2026.
+Procedure 2026/0138(COD), as of 9 Nov 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
@@ -19,6 +19,7 @@ Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai
 | 2026-06-24 | European Parliament | ITRE rapporteur appointed (Diego Solier, ECR) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (participation RAPPORTEUR) |
 | 2026-06-24 | European Parliament | IMCO rapporteur appointed (Reinier Van Lanschot, VERTS-ALE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (participation RAPPORTEUR) |
 | 2026-09-17 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (REFERRAL) |
+| 2026-10-21 | Council | 5. UNCITRAL Working Group III: AOB 5.1 EU Cloud and AI Development ACT (CADA) CM 4611/1/26 REV 1 1 EN II. … | [CM 4611/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4611-2026-REV-1/en/pdf) | Council register, CM 4611/26 REV 1 (notice of meeting and provisional agenda) |
 
 ## Documents
 
@@ -55,9 +56,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | [WK 15917/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97679) | council-note | Comments from Germany | not public\* | – | – |
 | 2026-10-19 | [WK 16115/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98585) | council-note | Comments from Cyprus | not public\* | – | – |
 | 2026-10-30 | [ST 14918/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100884) | council-compromise | Presidency compromise text | not public\* | – | – |
-| 2026-11-05 | [ST 15470/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101850) | council-note | [10104/26 + ADD 1-5 - COM(2026) 502 final] - Opinion on the application of the Principles of Subsidiarity and Proportionality | not public\* | – | – |
+| 2026-11-05 | [ST 15470/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101850) | council-note | [10104/26 + ADD 1-5 - COM(2026) 502 final] - Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian … | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

@@ -1,14 +1,14 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 5 Nov 2026.
+Procedure 2026/0068(COD), as of 9 Nov 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 11 Sep 2026
-- **Council:** working party, latest document 20 Oct 2026
-- **Latest activity:** 20 Oct 2026 · Council: Presidency flash note for the meeting of the Working Party on Competitiveness and Growth … (WK 15757/26)
+- **Council:** working party, latest document 6 Nov 2026
+- **Latest activity:** 6 Nov 2026 · Council: Guidance for further work (ST 15309/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -112,35 +112,36 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-30 | [ST 13708/26](https://data.consilium.europa.eu/doc/document/ST-13708-2026-INIT/en/pdf) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Guidance for further work | public | 2026-10-22 | – |
 | 2026-09-30 | WK 15047/26 | council-note | Presidency flash note for the month of October 2026 | not public\* | – | – |
 | 2026-10-07 | [PE789.106](https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-789106/ENVI-AD-789106_en.pdf) | ep-opinion | Opinion on the proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the acceleration of industrial … | public | – | – |
-| 2026-10-13 | PE796.449 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-13 | PE796.450 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-13 | PE796.452 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-13 | [PE796.449](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796449/CJ80-AM-796449_en.pdf) | ep-amendments | AMENDMENTS 3725 - 3996 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-13 | [PE796.450](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796450/CJ80-AM-796450_en.pdf) | ep-amendments | AMENDMENTS 3997 - 4295 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-13 | [PE796.452](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796452/CJ80-AM-796452_en.pdf) | ep-amendments | AMENDMENTS 4588 - 4706 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
 | 2026-10-16 | [ST 14387/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527) | council-compromise | Third Presidency compromise text | not public\* | – | – |
 | 2026-10-16 | [WK 16102/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98526) | council-note | Explanatory Note on the third Presidency compromise text of the Regulation on establishing a framework of measures for accelerating industrial capacity and … | not public\* | – | – |
 | 2026-10-16 | [WK 16104/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525) | council-compromise | Third Presidency compromise text (clean version) | not public\* | – | – |
-| 2026-10-19 | PE796.435 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.436 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.437 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.438 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.439 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.440 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.441 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.442 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.443 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.444 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.445 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.446 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.447 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.448 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.451 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.453 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.454 | ep-amendments | – | public status unknown | – | – |
-| 2026-10-19 | PE796.455 | ep-amendments | – | public status unknown | – | – |
+| 2026-10-19 | [PE796.435](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796435/CJ80-AM-796435_en.pdf) | ep-amendments | AMENDMENTS 268 - 442 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.436](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796436/CJ80-AM-796436_en.pdf) | ep-amendments | AMENDMENTS 443 - 599 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.437](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796437/CJ80-AM-796437_en.pdf) | ep-amendments | AMENDMENTS 600 - 777 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.438](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796438/CJ80-AM-796438_en.pdf) | ep-amendments | AMENDMENTS 778 - 961 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.439](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796439/CJ80-AM-796439_en.pdf) | ep-amendments | AMENDMENTS 962 - 1244 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.440](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796440/CJ80-AM-796440_en.pdf) | ep-amendments | AMENDMENTS 1245 - 1513 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.441](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796441/CJ80-AM-796441_en.pdf) | ep-amendments | AMENDMENTS 1514 - 1771 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.442](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796442/CJ80-AM-796442_en.pdf) | ep-amendments | AMENDMENTS 1772 - 2039 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.443](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796443/CJ80-AM-796443_en.pdf) | ep-amendments | AMENDMENTS 2040 - 2298 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.444](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796444/CJ80-AM-796444_en.pdf) | ep-amendments | AMENDMENTS 2299 - 2510 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.445](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796445/CJ80-AM-796445_en.pdf) | ep-amendments | AMENDMENTS 2511 - 2838 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.446](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796446/CJ80-AM-796446_en.pdf) | ep-amendments | AMENDMENTS 2839 - 3125 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.447](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796447/CJ80-AM-796447_en.pdf) | ep-amendments | AMENDMENTS 3126 - 3467 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.448](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796448/CJ80-AM-796448_en.pdf) | ep-amendments | AMENDMENTS 3468 - 3724 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.451](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796451/CJ80-AM-796451_en.pdf) | ep-amendments | AMENDMENTS 4296 - 4587 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.453](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796453/CJ80-AM-796453_en.pdf) | ep-amendments | AMENDMENTS 4707 - 5037 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.454](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796454/CJ80-AM-796454_en.pdf) | ep-amendments | AMENDMENTS 5038 - 5368 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
+| 2026-10-19 | [PE796.455](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796455/CJ80-AM-796455_en.pdf) | ep-amendments | AMENDMENTS 5369 - 5417 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – |
 | 2026-10-19 | WK 16142/26 | council-note | Consolidated table with comments from by the following Member States AT, BE, BG, CZ, DE, DE, DK, EE, ES, FI, FR, HR, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, … | not public\* | – | – |
 | 2026-10-20 | [WK 15757/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99042) | council-note | Presidency flash note for the meeting of the Working Party on Competitiveness and Growth (Industry) (IAA) on 26 and 27 October 2026 | not public\* | – | – |
 | 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Second Presidency Options Paper on Union Origin requirements | not public\* | – | – |
+| 2026-11-06 | [ST 15309/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102099) | council-note | Guidance for further work | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-06.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
 
 ## Texts as Markdown
 

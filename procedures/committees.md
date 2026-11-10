@@ -21,6 +21,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cybersecurity Act 2](csa2.md) | [ENISA AHWG 5G](committee-enisa-ahwg-5g.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cybersecurity Act 2](csa2.md) | [ENISA AHWG Cybersecurity Market](committee-enisa-ahwg-market.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cybersecurity Act amendment on managed security services](csa-managed-security-services.md) | [ENISA AHWG EUMSS](committee-enisa-ahwg-eumss.md) | ENISA ad hoc working group | 0 | – | – |
+| [Digital Decade Policy Programme 2030](digital-decade.md) | [Digital Decade Committee](committee-c120400.md) | Comitology committee | 8 | 2026-10-16 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign for Sustainable Products Committee](committee-c130300.md) | Comitology committee | 5 | 2026-06-30 | – |
 | [Ecodesign for Sustainable Products Regulation](espr.md) | [Ecodesign Forum](committee-e03969.md) | Expert group | 7 | 2026-11-06 | – |
 | [Electromagnetic Compatibility Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0030) – No legislative procedure page; applies from 2016-04-20; [meetings](#electromagnetic-compatibility-directive) | [Committee on Electromagnetic Compatibility](committee-c48300.md) | Comitology committee | 0 | – | – |
@@ -107,16 +108,25 @@ Expert group E03587, GROW. Official source: [Register of Commission expert group
 
 Council working parties examine the Commission's proposals in the ordinary legislative procedure and prepare the Council's position (Coreper, Council). Meetings on acts under negotiation, as announced in the Council's public agendas (notice of meeting and provisional agenda, CM documents); the documents discussed there are often not public.
 
-### Horizontal Working Party on Cyber Issues
+### 5.  UNCITRAL Working Group III
 
-25 meetings on the acts we follow.
+1 meeting on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-10-21 | [Cloud and AI Development Act](cloud-ai-development-act.md) | AOB 5.1 EU Cloud and AI Development ACT (CADA) CM 4611/1/26 REV 1 1 EN II. Session on investment protection and facilitation | [CM 4611/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4611-2026-REV-1/en/pdf) |
+
+### Horizontal Working Party on Cyber Issues
+
+26 meetings on the acts we follow.
+
+| Date | Act | Agenda item | Agenda |
+| --- | --- | --- | --- |
+| 2026-11-05 | [Cybersecurity Act 2](csa2.md) | Presidency second compromise text Title IV (Security of ICT Supply Chains) – Discussion ([WK 16145/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621)) | [CM 4773/26](https://data.consilium.europa.eu/doc/document/CM-4773-2026-INIT/en/pdf) |
 | 2026-10-26 | [Cybersecurity Act 2](csa2.md) | Title II (ENISA) – Discussion ([WK 15959/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98509)) | [CM 4703/26](https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf) |
 | 2026-10-19 | [Cybersecurity Act 2](csa2.md) | Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be issued) | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) |
 | 2026-10-12 | [Cybersecurity Act 2](csa2.md) | Title III (Certification), Articles 71-97 – Discussion ([WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127)) | [CM 4436/26](https://data.consilium.europa.eu/doc/document/CM-4436-2026-INIT/en/pdf) |
-| 2026-09-28 | [Cybersecurity Act 2](csa2.md) | Title IV (ICT Supply Chain) – Discussion ([WK 14487/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92913) + [ADD1](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92999)) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) |
+| 2026-09-28 | [Cybersecurity Act 2](csa2.md) | Title IV (ICT Supply Chain) – Discussion ([WK 14487/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/92913) + [ADD1](https://data.consilium.europa.eu/doc/document/WK-14487-2026-ADD-1/en/pdf)) | [CM 4269/26](https://data.consilium.europa.eu/doc/document/CM-4269-2026-INIT/en/pdf) |
 | 2026-09-21 | [Cybersecurity Act 2](csa2.md) | Title II (ENISA) – Presentation and discussion ([WK 13671/26](https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf)) | [CM 4178/26](https://data.consilium.europa.eu/doc/document/CM-4178-2026-INIT/en/pdf) |
 | 2026-09-14 | [Cybersecurity Act 2](csa2.md) | Title III (Certification) – Presentation and discussion ([WK 11263/26](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf)) | [CM 3971/26](https://data.consilium.europa.eu/doc/document/CM-3971-2026-INIT/en/pdf) |
 | 2026-09-10 | [Cybersecurity Act 2](csa2.md) | Cyber posture – Presentation by the Commission and discussion | [CM 3845/26](https://data.consilium.europa.eu/doc/document/CM-3845-2026-INIT/en/pdf) |
@@ -154,7 +164,7 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Space Working Party
 
-24 meetings on the acts we follow.
+26 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
@@ -162,6 +172,7 @@ Council working parties examine the Commission's proposals in the ordinary legis
 | 2026-09-11 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) |
 | 2026-09-01 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3875/26](https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf) |
 | 2026-07-10 (attaché level) | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3526/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf) |
+| 2026-06-02 (attaché level) | [EU Space Act](space-act.md) | Examination ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3014/26](https://data.consilium.europa.eu/doc/document/CM-3014-2026-INIT/en/pdf) |
 | 2026-05-05 | [EU Space Act](space-act.md) | Presentation by the Commission Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 2635/26](https://data.consilium.europa.eu/doc/document/CM-2635-2026-INIT/en/pdf) |
 | 2026-04-29 | [EU Space Act](space-act.md) | Presentation by the Commission Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 2542/26](https://data.consilium.europa.eu/doc/document/CM-2542-2026-INIT/en/pdf) |
 | 2026-04-21 (attaché level) | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 2402/26](https://data.consilium.europa.eu/doc/document/CM-2402-2026-INIT/en/pdf) |
@@ -173,6 +184,7 @@ Council working parties examine the Commission's proposals in the ordinary legis
 | 2026-01-13 | [EU Space Act](space-act.md) | EU Space Act – Public consultation (doc. ) – Presentation by the Commission ([16944/25](https://data.consilium.europa.eu/doc/document/ST-16944-2025-INIT/en/pdf)) | [CM 1072/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1072-2026-REV-1/en/pdf) |
 | 2026-01-13 | [EU Space Act](space-act.md) | Exchange of views CM 1072/1/26 REV 1 1 EN ([16435/25](https://data.consilium.europa.eu/doc/document/ST-16435-2025-INIT/en/pdf), [16437/25](https://data.consilium.europa.eu/doc/document/ST-16437-2025-INIT/en/pdf)) | [CM 1072/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-1072-2026-REV-1/en/pdf) |
 | 2025-12-16 | [EU Space Act](space-act.md) | Information from the Presidency ([16435/25](https://data.consilium.europa.eu/doc/document/ST-16435-2025-INIT/en/pdf), [16437/25](https://data.consilium.europa.eu/doc/document/ST-16437-2025-INIT/en/pdf)) | [CM 5418/25](https://data.consilium.europa.eu/doc/document/CM-5418-2025-INIT/en/pdf) |
+| 2025-11-11 (attaché level) | [EU Space Act](space-act.md) | (poss.) Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) – Examination (doc. ) ([10935/25](https://data.consilium.europa.eu/doc/document/ST-10935-2025-INIT/en/pdf)+[ADD 1](https://data.consilium.europa.eu/doc/document/ST-10935-2025-ADD-1/en/pdf)) | [CM 4895/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4895-2025-REV-1/en/pdf) |
 | 2025-11-07 (attaché level) | [EU Space Act](space-act.md) | Examination (doc. ) ([10935/25](https://data.consilium.europa.eu/doc/document/ST-10935-2025-INIT/en/pdf)+[ADD 1](https://data.consilium.europa.eu/doc/document/ST-10935-2025-ADD-1/en/pdf)) | [CM 4792/25](https://data.consilium.europa.eu/doc/document/CM-4792-2025-INIT/en/pdf) |
 | 2025-11-04 | [EU Space Act](space-act.md) | Examination (doc. ) ([10935/25](https://data.consilium.europa.eu/doc/document/ST-10935-2025-INIT/en/pdf)+[ADD 1](https://data.consilium.europa.eu/doc/document/ST-10935-2025-ADD-1/en/pdf)) | [CM 4791/25](https://data.consilium.europa.eu/doc/document/CM-4791-2025-INIT/en/pdf) |
 | 2025-10-14 | [EU Space Act](space-act.md) | Examination (doc. ) ([10935/25](https://data.consilium.europa.eu/doc/document/ST-10935-2025-INIT/en/pdf)+[ADD 1](https://data.consilium.europa.eu/doc/document/ST-10935-2025-ADD-1/en/pdf)) | [CM 4496/25](https://data.consilium.europa.eu/doc/document/CM-4496-2025-INIT/en/pdf) |

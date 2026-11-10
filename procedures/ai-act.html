@@ -78,7 +78,7 @@ button.showmore { color: var(--accent); }
 .fw-late i { background: var(--s-act); } .fw-close i { background: var(--s-prepare); } .fw-ok i { background: var(--s-monitor); }
 p.fw { margin: 8px 0; max-width: 80ch; }
 </style>
-</head>
+<link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="../apple-touch-icon.png"><link rel="manifest" href="../site.webmanifest"><meta name="apple-mobile-web-app-title" content="EU Regulation"><meta name="theme-color" content="#0f5a63"></head>
 <body><style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("../fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
@@ -143,6 +143,8 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
 /* a column with nothing in any row (sitestyle.phone_tables) */
 [data-gone] { display: none !important; }
+/* text for screen readers only, e.g. the heading of a column that shows only a relative date (b37) */
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 /* WCAG 2.2 SC 2.5.8: a short link side by side with another (a language, a lone ↗) is a target of at least 24 by 24px */
 a.tgt { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; text-align: center; }
 /* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
@@ -280,6 +282,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 <div class="table"><table class="phone-stack"><thead><tr><th>Date</th><th>Stage</th><th>Document</th><th>Markdown</th><th>Read</th></tr></thead><tbody>
 <tr><td class="nowrap" data-label="Date">12 Jul 2024</td><td data-label="Stage">Official Journal</td><td class="nowrap" data-label="Document"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689" target="_blank" rel="noopener" class="ext">CELEX 32024R1689</a></td><td data-label="Markdown"><a class="tgt" href="../texts/ai-act/2024-07-12_oj.en.md">en</a> <a class="tgt" href="../texts/ai-act/2024-07-12_oj.de.md">de</a></td><td data-label="Read"><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md" target="_blank" rel="noopener" class="ext">GitHub</a></td></tr>
 <tr><td class="nowrap" data-label="Date">9 Oct 2025</td><td data-label="Stage">Corrigendum</td><td class="nowrap" data-label="Document"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689R(01)" target="_blank" rel="noopener" class="ext">CELEX 32024R1689R(01)</a></td><td data-label="Markdown"><a class="tgt" href="../texts/ai-act/2025-10-09_corrigendum-01.de.md">de</a></td><td data-label="Read"><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2025-10-09_corrigendum-01.de.md" target="_blank" rel="noopener" class="ext">GitHub</a></td></tr>
+<tr><td class="nowrap" data-label="Date">27 Jul 2026</td><td data-label="Stage">Consolidated version</td><td class="nowrap" data-label="Document"><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727" target="_blank" rel="noopener" class="ext">CELEX 02024R1689-20260727</a></td><td data-label="Markdown"><a class="tgt" href="../texts/ai-act/2026-07-27_consolidated.en.md">en</a> <a class="tgt" href="../texts/ai-act/2026-07-27_consolidated.de.md">de</a></td><td data-label="Read"><a href="https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2026-07-27_consolidated.en.md" target="_blank" rel="noopener" class="ext">GitHub</a></td></tr>
 </tbody></table></div>
 <h2 id="standardisation">Standardisation</h2>
 <p class="muted">Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission&#x27;s annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request&#x27;s annexes (hand-checked).</p>

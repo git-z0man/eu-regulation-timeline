@@ -54,7 +54,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2018-11-23 | [ST 14368/18](https://data.consilium.europa.eu/doc/document/ST-14368-2018-INIT/en/pdf) | council-progress-report | Progress report | public | – | – |
 | 2018-11-28 | [ST 14368/18 REV 1](https://data.consilium.europa.eu/doc/document/ST-14368-2018-REV-1/en/pdf) | council-progress-report | Progress report | public | – | – |
 | 2018-12-07 | [PE631.940](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-631940/ITRE-PR-631940_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing the European Cybersecurity Industrial, Technology and … | public | – | – |
-| 2019-01-17 | PE632.973 | ep-amendments | – | public status unknown | – | – |
+| 2019-01-17 | [PE632.973](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-632973/ITRE-AM-632973_en.pdf) | ep-amendments | AMENDMENTS 114 - 370 - Draft report Establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National … | public | – | – |
 | 2019-01-30 | ST 5898/19 | council-note | Opinion of the European Economic and Social Committee | public status unknown | – | – |
 | 2019-02-22 | [A8-0084/2019](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-8-2019-0084/A-8-2019-0084_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council establishing the European Cybersecurity Industrial, Technology and … | public | – | – |
 | 2019-05-07 | ST 7398/19 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 15 to 18 April 2019) | public status unknown | – | – |
