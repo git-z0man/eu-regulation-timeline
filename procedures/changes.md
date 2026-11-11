@@ -4,7 +4,9 @@ New documents and events of the legislative procedures, committees and expert gr
 
 | Date | Type | Act | Actor | Event | Document |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-10 | Legislation | [Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)](nis2-amendment.md) | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29) |
 | 2026-11-10 | Standardisation | [MR](machinery-regulation.md) | CEN/TC 114 | prEN ISO 13849-2 – Safety of machinery - Safety-related parts of control systems - Part 2: Validation (ISO/DI: Under Approval | [prEN ISO 13849-2](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78590,25&cs=1615F2EFC94B17435D134FA5D17AA93F1) |
+| 2026-11-10 | Legislation | [Cybersecurity Act 2 – COM(2026) 11 (proposal)](csa2.md) | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29) |
 | 2026-11-09 | Standardisation | [RED](committees.md) | ERM WG34 | EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Approval Stage – Deliverable approval procedure initiated | [EN 302 208](https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657) |
 | 2026-11-09 | Standardisation | [RED](committees.md) | SES HARM | EN 301 721 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) providing Low Bit : Delivery to the EC | [EN 301 721](https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020) |
 | 2026-11-09 | Standardisation | [RED](committees.md) | ERM WGEMC | EN 301 489-9 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 9: Spe: Delivery to the EC | [EN 301 489-9](https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459) |

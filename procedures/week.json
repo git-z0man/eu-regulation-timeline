@@ -1,121 +1,203 @@
 {
- "as_of": "2026-11-10",
+ "as_of": "2026-11-11",
  "views": [
   {
    "key": "all",
    "label": "All acts",
+   "note": "All acts we follow",
    "ahead": [
-    {
-     "date": "2026-11-10",
-     "act": "NIS 2 Directive",
-     "text": "Funding call deadline: N4CY2: Enhancing Cybersecurity for Small and Medium Enterprises (SMEs) designated as …",
-     "url": "acts/nis2.html#funding"
-    },
     {
      "date": "2026-11-11",
      "act": "Cloud and AI Development Act",
      "text": "Feedback closes: Proposal for a regulation, Cloud and AI Development Act",
-     "url": "procedures/cloud-ai-development-act.html"
+     "url": "procedures/cloud-ai-development-act.html",
+     "top": true
     },
     {
      "date": "2026-11-11",
      "act": "Net Zero Industry Act",
      "text": "Feedback closes: Draft implementing regulation, Implementing Regulation on a standardised reporting template …",
-     "url": "procedures/nzia.html"
+     "url": "procedures/nzia.html",
+     "top": true
     },
     {
      "date": "2026-11-13",
      "act": "European Health Data Space Regulation",
      "text": "Feedback closes: Draft implementing regulation, Templates for health data access applications, health data …",
-     "url": "procedures/ehds.html"
+     "url": "procedures/ehds.html",
+     "top": true
     },
     {
      "date": "2026-11-15",
      "act": "Cyber Resilience Act",
      "text": "ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security …",
-     "url": "acts/cra.html"
+     "url": "acts/cra.html",
+     "top": true
     }
    ],
    "recap": [
     {
+     "date": "2026-11-10",
+     "act": "Cybersecurity Act 2",
+     "text": "European Parliament: Committee opinion adopted",
+     "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
      "date": "2026-11-04",
      "act": "Digital Omnibus",
      "text": "European Parliament: Committee opinion adopted",
-     "url": "procedures/digital-omnibus.html"
+     "url": "procedures/digital-omnibus.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+     "text": "European Parliament: Committee opinion adopted",
+     "url": "procedures/nis2-amendment.html",
+     "top": true
     },
     {
      "date": "2026-11-04",
      "act": "Simplification of the medical devices rules",
      "text": "European Parliament: BUDG opinion adopted",
-     "url": "procedures/medical-devices-simplification.html"
+     "url": "procedures/medical-devices-simplification.html",
+     "top": true
     },
     {
      "date": "2026-11-06",
      "act": "Cybersecurity Act 2",
      "text": "Council released 5 documents listed as not public, incl. Presidency first compromise text on Title IV …",
-     "url": "procedures/csa2.html"
-    },
-    {
-     "date": "2026-11-03",
-     "act": "Digital Omnibus",
-     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
-     "url": "procedures/digital-omnibus.html"
+     "url": "procedures/csa2.html",
+     "top": true
     },
     {
      "date": "2026-11-04",
      "act": "EU Space Act",
      "text": "Council: October 2026 Presidency compromise text – Explanations (not public)",
-     "url": "procedures/space-act.html"
+     "url": "procedures/space-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-09",
+     "act": "Cyber Resilience Act",
+     "text": "6 standardisation projects moved on, e.g. EN 304 624: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Machinery Regulation",
+     "text": "Standardisation: prEN ISO 13849-2: Under Approval",
+     "url": "acts/machinery-regulation.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-05",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of …",
+     "url": "procedures/csa2.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-09",
+     "act": "Radio Equipment Directive",
+     "text": "9 standardisation projects moved on, e.g. EN 302 208: Approval Stage – Deliverable approval procedure …",
+     "url": "procedures/index.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-04",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council released 2 documents listed as not public",
+     "url": "procedures/medical-devices-simplification.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-06",
+     "act": "Ecodesign for Sustainable Products Regulation",
+     "text": "5 new meetings or documents of committees and expert groups",
+     "url": "procedures/espr.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-06",
+     "act": "Cyber Solidarity Act",
+     "text": "Digital Europe Programme Coordination Committee: 19th meeting of the Digital Europe Programme Committee",
+     "url": "procedures/cyber-solidarity-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-05",
+     "act": "Electromagnetic Compatibility Directive",
+     "text": "1 standardisation project moved on",
+     "url": "procedures/index.html",
+     "top": false
     }
    ]
   },
   {
    "key": "cybersecurity",
    "label": "Cybersecurity",
+   "note": "Only the acts of the timeline view “Cybersecurity incl. NIS-2” and the proposals that change them",
    "ahead": [
-    {
-     "date": "2026-11-10",
-     "act": "NIS 2 Directive",
-     "text": "Funding call deadline: N4CY2: Enhancing Cybersecurity for Small and Medium Enterprises (SMEs) designated as …",
-     "url": "acts/nis2.html#funding"
-    },
     {
      "date": "2026-11-15",
      "act": "Cyber Resilience Act",
      "text": "ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security …",
-     "url": "acts/cra.html"
+     "url": "acts/cra.html",
+     "top": true
     }
    ],
    "recap": [
     {
+     "date": "2026-11-10",
+     "act": "Cybersecurity Act 2",
+     "text": "European Parliament: Committee opinion adopted",
+     "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
      "date": "2026-11-04",
      "act": "Digital Omnibus",
      "text": "European Parliament: Committee opinion adopted",
-     "url": "procedures/digital-omnibus.html"
+     "url": "procedures/digital-omnibus.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+     "text": "European Parliament: Committee opinion adopted",
+     "url": "procedures/nis2-amendment.html",
+     "top": true
     },
     {
      "date": "2026-11-06",
      "act": "Cybersecurity Act 2",
      "text": "Council released 5 documents listed as not public, incl. Presidency first compromise text on Title IV …",
-     "url": "procedures/csa2.html"
-    },
-    {
-     "date": "2026-11-03",
-     "act": "Digital Omnibus",
-     "text": "Council released 3 documents listed as not public, incl. Presidency revised compromise text",
-     "url": "procedures/digital-omnibus.html"
+     "url": "procedures/csa2.html",
+     "top": true
     },
     {
      "date": "2026-11-09",
      "act": "Cyber Resilience Act",
-     "text": "9 standardisation projects moved on, e.g. EN 304 624: Approval Stage – Comments categorisation assessed",
-     "url": "acts/cra.html#standardisation"
+     "text": "6 standardisation projects moved on, e.g. EN 304 624: Approval Stage – Comments categorisation assessed",
+     "url": "acts/cra.html#standardisation",
+     "top": true
     },
     {
      "date": "2026-11-10",
      "act": "Machinery Regulation",
      "text": "Standardisation: prEN ISO 13849-2: Under Approval",
-     "url": "acts/machinery-regulation.html#standardisation"
+     "url": "acts/machinery-regulation.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-05",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of …",
+     "url": "procedures/csa2.html",
+     "top": false
     }
    ]
   }

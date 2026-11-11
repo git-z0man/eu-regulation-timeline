@@ -20,7 +20,7 @@
 <rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">ITRE draft report, 24 Sep 2026</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">Committee opinion adopted, 10 Nov 2026</tspan></text>
 <rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
@@ -125,9 +125,12 @@
 <text font-size="9" fill="#14181c" text-anchor="start"><tspan x="539.1" y="591.1">25 Mar 2026 · Referral to committee announced in plenary</tspan></text>
 <rect x="1260.6" y="553.0" width="210.1" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1264.6" y="562.1">24 Sep 2026 · ITRE draft report (PE792.221)</tspan></text></a>
+<rect x="1446.9" y="582.0" width="191.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1450.9" y="591.1">10 Nov 2026 · Committee opinion adopted</tspan></text>
 <g><title>26 Feb 2026: ITRE rapporteur appointed (Markéta Gregorová, VERTS-ALE)</title><polygon points="432.020202020202,567.5 437.520202020202,573 432.020202020202,578.5 426.520202020202,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>25 Mar 2026: Referral to committee announced in plenary</title><polygon points="539.0656565656566,567.5 544.5656565656566,573 539.0656565656566,578.5 533.5656565656566,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf" target="_blank"><title>24 Sep 2026: ITRE draft report – PE792.221</title><polygon points="1264.5959595959596,567.5 1270.0959595959596,573 1264.5959595959596,578.5 1259.0959595959596,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>10 Nov 2026: Committee opinion adopted</title><polygon points="1450.9343434343434,567.5 1456.4343434343434,573 1450.9343434343434,578.5 1445.4343434343434,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <rect x="729.3" y="657.0" width="205.4" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="733.3" y="666.1">13 May 2026 · Progress report (ST 9121/26)</tspan></text></a>
 <rect x="765.0" y="686.0" width="205.4" height="12.0" fill="#ffffff"/>

@@ -8,7 +8,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
 - **Council:** working party, latest document 9 Nov 2026
-- **Latest activity:** 9 Nov 2026 · Council: Proposal for a Regulation of the European Parliament and of the Council on the European … (WK 17268/26)
+- **Latest activity:** 10 Nov 2026 · European Parliament: Committee opinion adopted
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -48,6 +48,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-10-19 | Council | Horizontal Working Party on Cyber Issues: Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be … | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) | Council register, CM 4579/26 REV 1 (notice of meeting and provisional agenda) |
 | 2026-10-26 | Council | Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26) | [CM 4703/26](https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf) | Council register, CM 4703/26 (notice of meeting and provisional agenda) |
 | 2026-11-05 | Council | Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of ICT Supply … | [CM 4773/26](https://data.consilium.europa.eu/doc/document/CM-4773-2026-INIT/en/pdf) | Council register, CM 4773/26 (notice of meeting and provisional agenda) |
+| 2026-11-10 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29) | EP Open Data API, procedure 2026-0011 (COMMITTEE_ADOPTING_OPINION) |
 
 ## Notes
 
@@ -126,7 +127,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – |
 | 2026-10-12 | [WK 15801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97261) | council-note | Presentation | not public\* | – | – |
 | 2026-10-13 | [PE796.470](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-796470/ITRE-AM-796470_en.pdf) | ep-amendments | AMENDMENTS 165 - 464 - Draft report European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain … | public | – | – |
-| 2026-10-13 | [PE796.484](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-796484/ITRE-AM-796484_sv.pdf) | ep-amendments | AMENDMENTS 465 - 764 - Draft report European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain … | public | – | – |
+| 2026-10-13 | [PE796.484](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-796484/ITRE-AM-796484_de.pdf) | ep-amendments | AMENDMENTS 465 - 764 - Draft report European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain … | public | – | – |
 | 2026-10-13 | [PE796.485](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-796485/ITRE-AM-796485_en.pdf) | ep-amendments | AMENDMENTS 765 - 1004 - Draft report European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain … | public | – | – |
 | 2026-10-13 | [PE796.501](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-796501/ITRE-AM-796501_en.pdf) | ep-amendments | AMENDMENTS 1005 - Draft report European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain … | public | – | – |
 | 2026-10-16 | [WK 15415/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98233) | council-note | Comments from Member States | not public\* | – | – |

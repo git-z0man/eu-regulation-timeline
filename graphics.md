@@ -54,6 +54,12 @@ Every graphic of this site, collected on each build.
 - **ENISA's staff** (Staff per year: the programming document's plan and what the Cybersecurity Act 2 proposal adds.): [png](acts/authorities/enisa-staff.png) · [svg](acts/authorities/enisa-staff.svg) · [pdf](acts/authorities/enisa-staff.pdf)
 - **ENISA's means with the Cybersecurity Act 2** (What the agency has and would have: the plan to 2028 and the proposal's additional means to 2034 (other revenue, EUR 0.2 million in 2025, left out).): [png](acts/authorities/enisa-outlook.png) · [svg](acts/authorities/enisa-outlook.svg) · [pdf](acts/authorities/enisa-outlook.pdf)
 
+## Vulnerabilities
+
+- **Known exploited vulnerabilities added per month** (Entries added to the EU KEV catalogue (ENISA with the CSIRTs network) and to CISA's KEV catalogue, by the month of the earliest catalogue date; both: in both catalogues. Data as of 10 Nov 2026.): [png](acts/euvd/euvd-kev-month.png) · [svg](acts/euvd/euvd-kev-month.svg) · [pdf](acts/euvd/euvd-kev-month.pdf)
+- **Who brought entries into the EU KEV catalogue** (EU KEV entries by the source the EUVD names, before and since 11 Sep 2026. The source is the CSIRT or body that reported the exploitation, not the reporting route. Data as of 10 Nov 2026.): [png](acts/euvd/euvd-kev-origin.png) · [svg](acts/euvd/euvd-kev-origin.svg) · [pdf](acts/euvd/euvd-kev-origin.pdf)
+- **Records published in the EU Vulnerability Database per month** (All EUVD records by month of publication, whoever assigned them. Data as of 10 Nov 2026.): [png](acts/euvd/euvd-records-month.png) · [svg](acts/euvd/euvd-records-month.svg) · [pdf](acts/euvd/euvd-records-month.pdf)
+
 ## Charts per act
 
 - **Which harmonised standard for which industrial product (our assessment)** (as of 2026-09-28): [png](acts/img/cra-standards-pathways.png)

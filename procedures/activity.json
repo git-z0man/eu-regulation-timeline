@@ -2,6 +2,18 @@
  "items": [
   {
    "date": "2026-11-10",
+   "act": "nis2-amendment",
+   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29",
+   "key": "Committee opinion adopted",
+   "page": "nis2-amendment",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-10",
    "act": "machinery-regulation",
    "title": "MR",
    "actor": "CEN/TC 114",
@@ -11,6 +23,18 @@
    "key": "eso-00114187-2026-11-10",
    "page": "machinery-regulation",
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29",
+   "key": "Committee opinion adopted",
+   "page": "csa2",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-09",

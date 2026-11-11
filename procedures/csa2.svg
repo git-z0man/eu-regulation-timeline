@@ -125,10 +125,13 @@
 <text font-size="9" fill="#14181c" text-anchor="start"><tspan x="567.0" y="604.1">25 Mar 2026 · Referral announced in plenary; IMCO opinion rapporteur appointed</tspan></text>
 <rect x="1324.4" y="566.0" width="210.1" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1328.4" y="575.1">18 Sep 2026 · ITRE draft report (PE792.222)</tspan></text></a>
+<rect x="1552.3" y="566.0" width="191.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1556.3" y="575.1">10 Nov 2026 · Committee opinion adopted</tspan></text>
 <text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="450.9" y="561.9">ITRE (lead) with IMCO and BUDG opinions</tspan></text>
 <g><title>26 Feb 2026: ITRE rapporteur appointed (Markéta Gregorová, Greens/EFA)</title><polygon points="450.8767123287671,580.5 456.3767123287671,586 450.8767123287671,591.5 445.3767123287671,586" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>25 Mar 2026: Referral announced in plenary; IMCO opinion rapporteur appointed</title><polygon points="567.013698630137,580.5 572.513698630137,586 567.013698630137,591.5 561.513698630137,586" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_en.docx" target="_blank"><title>18 Sep 2026: ITRE draft report – PE792.222</title><polygon points="1328.3561643835617,580.5 1333.8561643835617,586 1328.3561643835617,591.5 1322.8561643835617,586" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>10 Nov 2026: Committee opinion adopted</title><polygon points="1556.3287671232877,580.5 1561.8287671232877,586 1556.3287671232877,591.5 1550.8287671232877,586" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <rect x="317.5" y="698.0" width="666.7" height="10.0" fill="#4a3aa7" stroke="none" opacity="0.25"/>
 <rect x="988.5" y="698.0" width="369.9" height="10.0" fill="#4a3aa7" stroke="none" opacity="0.25"/>
 <line x1="438.0" y1="683.0" x2="438.0" y2="697.0" stroke="#c3c8cd" stroke-width="1"/>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="704" viewBox="0 0 900 704" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Who brought entries into the EU KEV catalogue">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Who brought entries into the EU KEV catalogue</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="704" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Who brought entries into the EU KEV catalogue</text>
+<text x="24" y="60" font-size="14" fill="#454c53">EU KEV entries by source named in the EUVD, before and since 11 Sep 2026</text>
+<text x="24" y="78" font-size="14" fill="#454c53">Source: ENISA, EU Vulnerability Database; full statistics: git-z0man.github.io/single-reporting-platform/euvd/stats.html</text>
+<line x1="204.0" x2="204.0" y1="106" y2="618" stroke="#454c53"/>
+<text x="204.0" y="634" text-anchor="middle" font-size="12" fill="#454c53">0</text>
+<line x1="308.3" x2="308.3" y1="106" y2="618" stroke="#eceff1"/>
+<text x="308.3" y="634" text-anchor="middle" font-size="12" fill="#454c53">5</text>
+<line x1="412.7" x2="412.7" y1="106" y2="618" stroke="#eceff1"/>
+<text x="412.7" y="634" text-anchor="middle" font-size="12" fill="#454c53">10</text>
+<line x1="517.0" x2="517.0" y1="106" y2="618" stroke="#eceff1"/>
+<text x="517.0" y="634" text-anchor="middle" font-size="12" fill="#454c53">15</text>
+<line x1="621.3" x2="621.3" y1="106" y2="618" stroke="#eceff1"/>
+<text x="621.3" y="634" text-anchor="middle" font-size="12" fill="#454c53">20</text>
+<line x1="725.7" x2="725.7" y1="106" y2="618" stroke="#eceff1"/>
+<text x="725.7" y="634" text-anchor="middle" font-size="12" fill="#454c53">25</text>
+<line x1="830.0" x2="830.0" y1="106" y2="618" stroke="#eceff1"/>
+<text x="830.0" y="634" text-anchor="middle" font-size="12" fill="#454c53">30</text>
+<text x="830" y="98" text-anchor="end" font-size="12" fill="#454c53">entries</text>
+<text x="194" y="139.0" text-anchor="end" font-size="13" fill="#14181c">CSIRTs Network</text>
+<rect x="204" y="119.0" width="542.5" height="14" fill="#a7b7ba"><title>CSIRTs Network, before 11 Sep 2026: 26</title></rect>
+<text x="751.5" y="130.0" font-size="12" font-weight="600" fill="#14181c">26</text>
+<rect x="204" y="135.0" width="271.3" height="14" fill="#0b4f57"><title>CSIRTs Network, since 11 Sep 2026: 13</title></rect>
+<text x="480.3" y="146.0" font-size="12" font-weight="600" fill="#14181c">13</text>
+<text x="194" y="185.0" text-anchor="end" font-size="13" fill="#14181c">ENISA</text>
+<rect x="204" y="165.0" width="187.8" height="14" fill="#a7b7ba"><title>ENISA, before 11 Sep 2026: 9</title></rect>
+<text x="396.8" y="176.0" font-size="12" font-weight="600" fill="#14181c">9</text>
+<rect x="204" y="181.0" width="125.2" height="14" fill="#0b4f57"><title>ENISA, since 11 Sep 2026: 6</title></rect>
+<text x="334.2" y="192.0" font-size="12" font-weight="600" fill="#14181c">6</text>
+<text x="194" y="231.0" text-anchor="end" font-size="13" fill="#14181c">CERT-PL</text>
+<rect x="204" y="211.0" width="208.7" height="14" fill="#a7b7ba"><title>CERT-PL, before 11 Sep 2026: 10</title></rect>
+<text x="417.7" y="222.0" font-size="12" font-weight="600" fill="#14181c">10</text>
+<rect x="204" y="227.0" width="20.9" height="14" fill="#0b4f57"><title>CERT-PL, since 11 Sep 2026: 1</title></rect>
+<text x="229.9" y="238.0" font-size="12" font-weight="600" fill="#14181c">1</text>
+<text x="194" y="277.0" text-anchor="end" font-size="13" fill="#14181c">CERT Italia</text>
+<rect x="204" y="257.0" width="83.5" height="14" fill="#a7b7ba"><title>CERT Italia, before 11 Sep 2026: 4</title></rect>
+<text x="292.5" y="268.0" font-size="12" font-weight="600" fill="#14181c">4</text>
+<rect x="204" y="273.0" width="1.0" height="14" fill="#0b4f57"><title>CERT Italia, since 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="284.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<text x="194" y="323.0" text-anchor="end" font-size="13" fill="#14181c">CSIRT-IE</text>
+<rect x="204" y="303.0" width="1.0" height="14" fill="#a7b7ba"><title>CSIRT-IE, before 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="314.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<rect x="204" y="319.0" width="83.5" height="14" fill="#0b4f57"><title>CSIRT-IE, since 11 Sep 2026: 4</title></rect>
+<text x="292.5" y="330.0" font-size="12" font-weight="600" fill="#14181c">4</text>
+<text x="194" y="369.0" text-anchor="end" font-size="13" fill="#14181c">NCSC-NL</text>
+<rect x="204" y="349.0" width="1.0" height="14" fill="#a7b7ba"><title>NCSC-NL, before 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="360.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<rect x="204" y="365.0" width="62.6" height="14" fill="#0b4f57"><title>NCSC-NL, since 11 Sep 2026: 3</title></rect>
+<text x="271.6" y="376.0" font-size="12" font-weight="600" fill="#14181c">3</text>
+<text x="194" y="415.0" text-anchor="end" font-size="13" fill="#14181c">CERT-AT</text>
+<rect x="204" y="395.0" width="41.7" height="14" fill="#a7b7ba"><title>CERT-AT, before 11 Sep 2026: 2</title></rect>
+<text x="250.7" y="406.0" font-size="12" font-weight="600" fill="#14181c">2</text>
+<rect x="204" y="411.0" width="1.0" height="14" fill="#0b4f57"><title>CERT-AT, since 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="422.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<text x="194" y="461.0" text-anchor="end" font-size="13" fill="#14181c">CERT-EE, CERT-PL</text>
+<rect x="204" y="441.0" width="20.9" height="14" fill="#a7b7ba"><title>CERT-EE, CERT-PL, before 11 Sep 2026: 1</title></rect>
+<text x="229.9" y="452.0" font-size="12" font-weight="600" fill="#14181c">1</text>
+<rect x="204" y="457.0" width="1.0" height="14" fill="#0b4f57"><title>CERT-EE, CERT-PL, since 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="468.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<text x="194" y="507.0" text-anchor="end" font-size="13" fill="#14181c">EL-CSIRT</text>
+<rect x="204" y="487.0" width="20.9" height="14" fill="#a7b7ba"><title>EL-CSIRT, before 11 Sep 2026: 1</title></rect>
+<text x="229.9" y="498.0" font-size="12" font-weight="600" fill="#14181c">1</text>
+<rect x="204" y="503.0" width="1.0" height="14" fill="#0b4f57"><title>EL-CSIRT, since 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="514.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<text x="194" y="553.0" text-anchor="end" font-size="13" fill="#14181c">NCSC HU</text>
+<rect x="204" y="533.0" width="20.9" height="14" fill="#a7b7ba"><title>NCSC HU, before 11 Sep 2026: 1</title></rect>
+<text x="229.9" y="544.0" font-size="12" font-weight="600" fill="#14181c">1</text>
+<rect x="204" y="549.0" width="1.0" height="14" fill="#0b4f57"><title>NCSC HU, since 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="560.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<text x="194" y="599.0" text-anchor="end" font-size="13" fill="#14181c">NCSC-FI</text>
+<rect x="204" y="579.0" width="20.9" height="14" fill="#a7b7ba"><title>NCSC-FI, before 11 Sep 2026: 1</title></rect>
+<text x="229.9" y="590.0" font-size="12" font-weight="600" fill="#14181c">1</text>
+<rect x="204" y="595.0" width="1.0" height="14" fill="#0b4f57"><title>NCSC-FI, since 11 Sep 2026: 0</title></rect>
+<text x="209.0" y="606.0" font-size="12" font-weight="600" fill="#14181c">0</text>
+<rect x="24" y="651" width="14" height="14" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1.2"/>
+<text x="44" y="662" font-size="13" fill="#14181c">before 11 Sep 2026</text>
+<rect x="176" y="651" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="196" y="662" font-size="13" fill="#14181c">since 11 Sep 2026</text>
+<text x="24" y="694" font-size="11.5" fill="#5b646b">Data as of 10 Nov 2026.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>

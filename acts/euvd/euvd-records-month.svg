@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="514" viewBox="0 0 900 514" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Records published in the EU Vulnerability Database per month">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Records published in the EU Vulnerability Database per month</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="514" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Records published in the EU Vulnerability Database per month</text>
+<text x="24" y="60" font-size="14" fill="#454c53">All records, last 15 months; 420,254 records in all</text>
+<text x="24" y="78" font-size="14" fill="#454c53">Source: ENISA, EU Vulnerability Database; full statistics: git-z0man.github.io/single-reporting-platform/euvd/stats.html</text>
+<line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
+<text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="76" x2="876" y1="378.7" y2="378.7" stroke="#eceff1"/>
+<text x="68" y="382.7" text-anchor="end" font-size="12" fill="#454c53">2,000</text>
+<line x1="76" x2="876" y1="345.3" y2="345.3" stroke="#eceff1"/>
+<text x="68" y="349.3" text-anchor="end" font-size="12" fill="#454c53">4,000</text>
+<line x1="76" x2="876" y1="312.0" y2="312.0" stroke="#eceff1"/>
+<text x="68" y="316.0" text-anchor="end" font-size="12" fill="#454c53">6,000</text>
+<line x1="76" x2="876" y1="278.7" y2="278.7" stroke="#eceff1"/>
+<text x="68" y="282.7" text-anchor="end" font-size="12" fill="#454c53">8,000</text>
+<line x1="76" x2="876" y1="245.3" y2="245.3" stroke="#eceff1"/>
+<text x="68" y="249.3" text-anchor="end" font-size="12" fill="#454c53">10,000</text>
+<line x1="76" x2="876" y1="212.0" y2="212.0" stroke="#eceff1"/>
+<text x="68" y="216.0" text-anchor="end" font-size="12" fill="#454c53">12,000</text>
+<line x1="76" x2="876" y1="178.7" y2="178.7" stroke="#eceff1"/>
+<text x="68" y="182.7" text-anchor="end" font-size="12" fill="#454c53">14,000</text>
+<line x1="76" x2="876" y1="145.3" y2="145.3" stroke="#eceff1"/>
+<text x="68" y="149.3" text-anchor="end" font-size="12" fill="#454c53">16,000</text>
+<line x1="76" x2="876" y1="112.0" y2="112.0" stroke="#eceff1"/>
+<text x="68" y="116.0" text-anchor="end" font-size="12" fill="#454c53">18,000</text>
+<rect x="85.6" y="338.8" width="34.1" height="73.2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Sep 25: 4,394.0</title></rect>
+<text x="102.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Sep 25</text>
+<rect x="138.9" y="338.9" width="34.1" height="73.1" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Oct 25: 4,384.0</title></rect>
+<text x="156.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Oct 25</text>
+<rect x="192.3" y="360.3" width="34.1" height="51.7" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Nov 25: 3,103.0</title></rect>
+<text x="209.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Nov 25</text>
+<rect x="245.6" y="318.5" width="34.1" height="93.5" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Dec 25: 5,611.0</title></rect>
+<text x="262.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Dec 25</text>
+<rect x="298.9" y="327.5" width="34.1" height="84.5" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Jan 26: 5,068.0</title></rect>
+<text x="316.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Jan 26</text>
+<rect x="352.3" y="335.0" width="34.1" height="77.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Feb 26: 4,622.0</title></rect>
+<text x="369.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Feb 26</text>
+<rect x="405.6" y="307.4" width="34.1" height="104.6" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Mar 26: 6,276.0</title></rect>
+<text x="422.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Mar 26</text>
+<rect x="458.9" y="314.4" width="34.1" height="97.6" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Apr 26: 5,855.0</title></rect>
+<text x="476.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Apr 26</text>
+<rect x="512.3" y="296.1" width="34.1" height="115.9" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records May 26: 6,955.0</title></rect>
+<text x="529.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">May 26</text>
+<rect x="565.6" y="279.2" width="34.1" height="132.8" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Jun 26: 7,970.0</title></rect>
+<text x="582.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Jun 26</text>
+<rect x="618.9" y="248.4" width="34.1" height="163.6" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Jul 26: 9,818.0</title></rect>
+<text x="636.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Jul 26</text>
+<rect x="672.3" y="206.8" width="34.1" height="205.2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Aug 26: 12,311.0</title></rect>
+<text x="689.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Aug 26</text>
+<rect x="725.6" y="162.6" width="34.1" height="249.4" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Sep 26: 14,962.0</title></rect>
+<text x="742.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Sep 26</text>
+<rect x="778.9" y="126.3" width="34.1" height="285.7" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Oct 26: 17,144.0</title></rect>
+<text x="796.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Oct 26</text>
+<rect x="832.3" y="345.3" width="34.1" height="66.7" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Records Nov 26: 4,004.0</title></rect>
+<text x="849.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Nov 26</text>
+<text x="849.3" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">to date</text>
+<rect x="24" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="474" font-size="13" fill="#14181c">Records</text>
+<text x="24" y="504" font-size="11.5" fill="#5b646b">Data as of 10 Nov 2026.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>

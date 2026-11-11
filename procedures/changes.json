@@ -2,11 +2,27 @@
  "items": [
   {
    "date": "2026-11-10",
+   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "page": "nis2-amendment.html"
+  },
+  {
+   "date": "2026-11-10",
    "title": "MR",
    "actor": "CEN/TC 114",
    "label": "prEN ISO 13849-2 – Safety of machinery - Safety-related parts of control systems - Part 2: Validation (ISO/DI: Under Approval",
    "doc": "prEN ISO 13849-2",
    "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "page": "csa2.html"
   },
   {
    "date": "2026-11-09",
@@ -47,22 +63,6 @@
    "label": "EN 301 441 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES), including handhel: Delivery to the EC",
    "doc": "EN 301 441",
    "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-09",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 624",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-09",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 621",
-   "page": "cra.html"
   }
  ]
 }

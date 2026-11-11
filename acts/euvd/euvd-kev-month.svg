@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="514" viewBox="0 0 900 514" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Known exploited vulnerabilities added per month">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Known exploited vulnerabilities added per month</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="514" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Known exploited vulnerabilities added per month</text>
+<text x="24" y="60" font-size="14" fill="#454c53">EU KEV and CISA KEV, last 15 months; the single reporting platform went live on 11 Sep 2026</text>
+<text x="24" y="78" font-size="14" fill="#454c53">Source: ENISA, EU Vulnerability Database; CISA KEV (CC0); full statistics: git-z0man.github.io/single-reporting-platform/euvd/stats.html</text>
+<line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
+<text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="76" x2="876" y1="362.0" y2="362.0" stroke="#eceff1"/>
+<text x="68" y="366.0" text-anchor="end" font-size="12" fill="#454c53">10</text>
+<line x1="76" x2="876" y1="312.0" y2="312.0" stroke="#eceff1"/>
+<text x="68" y="316.0" text-anchor="end" font-size="12" fill="#454c53">20</text>
+<line x1="76" x2="876" y1="262.0" y2="262.0" stroke="#eceff1"/>
+<text x="68" y="266.0" text-anchor="end" font-size="12" fill="#454c53">30</text>
+<line x1="76" x2="876" y1="212.0" y2="212.0" stroke="#eceff1"/>
+<text x="68" y="216.0" text-anchor="end" font-size="12" fill="#454c53">40</text>
+<line x1="76" x2="876" y1="162.0" y2="162.0" stroke="#eceff1"/>
+<text x="68" y="166.0" text-anchor="end" font-size="12" fill="#454c53">50</text>
+<line x1="76" x2="876" y1="112.0" y2="112.0" stroke="#eceff1"/>
+<text x="68" y="116.0" text-anchor="end" font-size="12" fill="#454c53">60</text>
+<rect x="85.6" y="332.0" width="34.1" height="80.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Sep 25: 16.0</title></rect>
+<rect x="85.6" y="327.0" width="34.1" height="5.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Sep 25: 1.0</title></rect>
+<text x="102.7" y="321.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">17</text>
+<text x="102.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Sep 25</text>
+<rect x="138.9" y="257.0" width="34.1" height="155.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Oct 25: 31.0</title></rect>
+<text x="156.0" y="251.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">31</text>
+<text x="156.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Oct 25</text>
+<rect x="192.3" y="357.0" width="34.1" height="55.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Nov 25: 11.0</title></rect>
+<text x="209.3" y="351.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">11</text>
+<text x="209.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Nov 25</text>
+<rect x="245.6" y="322.0" width="34.1" height="90.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Dec 25: 18.0</title></rect>
+<rect x="245.6" y="312.0" width="34.1" height="10.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Dec 25: 2.0</title></rect>
+<text x="262.7" y="306.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">20</text>
+<text x="262.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Dec 25</text>
+<rect x="298.9" y="332.0" width="34.1" height="80.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Jan 26: 16.0</title></rect>
+<rect x="298.9" y="322.0" width="34.1" height="10.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Jan 26: 2.0</title></rect>
+<rect x="298.9" y="317.0" width="34.1" height="5.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Jan 26: 1.0</title></rect>
+<text x="316.0" y="311.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">19</text>
+<text x="316.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Jan 26</text>
+<rect x="352.3" y="277.0" width="34.1" height="135.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Feb 26: 27.0</title></rect>
+<rect x="352.3" y="272.0" width="34.1" height="5.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Feb 26: 1.0</title></rect>
+<text x="369.3" y="266.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">28</text>
+<text x="369.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Feb 26</text>
+<rect x="405.6" y="287.0" width="34.1" height="125.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Mar 26: 25.0</title></rect>
+<rect x="405.6" y="282.0" width="34.1" height="5.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Mar 26: 1.0</title></rect>
+<text x="422.7" y="276.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">26</text>
+<text x="422.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Mar 26</text>
+<rect x="458.9" y="272.0" width="34.1" height="140.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Apr 26: 28.0</title></rect>
+<rect x="458.9" y="262.0" width="34.1" height="10.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Apr 26: 2.0</title></rect>
+<text x="476.0" y="256.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">30</text>
+<text x="476.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Apr 26</text>
+<rect x="512.3" y="312.0" width="34.1" height="100.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only May 26: 20.0</title></rect>
+<rect x="512.3" y="307.0" width="34.1" height="5.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues May 26: 1.0</title></rect>
+<text x="529.3" y="301.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">21</text>
+<text x="529.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">May 26</text>
+<rect x="565.6" y="307.0" width="34.1" height="105.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Jun 26: 21.0</title></rect>
+<rect x="565.6" y="297.0" width="34.1" height="10.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Jun 26: 2.0</title></rect>
+<text x="582.7" y="291.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">23</text>
+<text x="582.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Jun 26</text>
+<rect x="618.9" y="302.0" width="34.1" height="110.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Jul 26: 22.0</title></rect>
+<rect x="618.9" y="282.0" width="34.1" height="20.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Jul 26: 4.0</title></rect>
+<rect x="618.9" y="277.0" width="34.1" height="5.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Jul 26: 1.0</title></rect>
+<text x="636.0" y="271.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">27</text>
+<text x="636.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Jul 26</text>
+<rect x="672.3" y="282.0" width="34.1" height="130.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Aug 26: 26.0</title></rect>
+<rect x="672.3" y="252.0" width="34.1" height="30.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Aug 26: 6.0</title></rect>
+<rect x="672.3" y="237.0" width="34.1" height="15.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Aug 26: 3.0</title></rect>
+<text x="689.3" y="231.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">35</text>
+<text x="689.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Aug 26</text>
+<rect x="725.6" y="267.0" width="34.1" height="145.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Sep 26: 29.0</title></rect>
+<rect x="725.6" y="182.0" width="34.1" height="85.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Sep 26: 17.0</title></rect>
+<rect x="725.6" y="162.0" width="34.1" height="20.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Sep 26: 4.0</title></rect>
+<text x="742.7" y="156.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">50</text>
+<text x="742.7" y="430" text-anchor="middle" font-size="13" fill="#14181c">Sep 26</text>
+<text x="742.7" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">SRP live</text>
+<rect x="778.9" y="272.0" width="34.1" height="140.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Oct 26: 28.0</title></rect>
+<rect x="778.9" y="247.0" width="34.1" height="25.0" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>In both catalogues Oct 26: 5.0</title></rect>
+<rect x="778.9" y="227.0" width="34.1" height="20.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Oct 26: 4.0</title></rect>
+<text x="796.0" y="221.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">37</text>
+<text x="796.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Oct 26</text>
+<rect x="832.3" y="377.0" width="34.1" height="35.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Nov 26: 7.0</title></rect>
+<text x="849.3" y="371.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">7</text>
+<text x="849.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Nov 26</text>
+<text x="849.3" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">to date</text>
+<rect x="24" y="463" width="14" height="14" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1.2"/>
+<text x="44" y="474" font-size="13" fill="#14181c">CISA KEV only</text>
+<rect x="142" y="463" width="14" height="14" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="162" y="474" font-size="13" fill="#14181c">In both catalogues</text>
+<rect x="294" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="314" y="474" font-size="13" fill="#14181c">EU KEV only</text>
+<text x="24" y="504" font-size="11.5" fill="#5b646b">Data as of 10 Nov 2026.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+</svg>
