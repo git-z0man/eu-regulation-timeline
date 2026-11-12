@@ -1,68 +1,68 @@
 {
  "items": [
   {
-   "date": "2026-11-10",
-   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "page": "nis2-amendment.html"
+   "date": "2026-11-12",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "Summary record published: 18th meeting of the Digital Europe Programme Committee - 16/02/2026 (2026-02-16)",
+   "doc": "summary record",
+   "page": "cyber-solidarity-act.html"
   },
   {
-   "date": "2026-11-10",
-   "title": "MR",
-   "actor": "CEN/TC 114",
-   "label": "prEN ISO 13849-2 – Safety of machinery - Safety-related parts of control systems - Part 2: Validation (ISO/DI: Under Approval",
-   "doc": "prEN ISO 13849-2",
-   "page": "machinery-regulation.html"
+   "date": "2026-11-11",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Minutes published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+   "doc": "minutes",
+   "page": "standardisation-regulation.html"
   },
   {
-   "date": "2026-11-10",
-   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "page": "csa2.html"
+   "date": "2026-11-11",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Minutes published: 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-02-11)",
+   "doc": "minutes",
+   "page": "standardisation-regulation.html"
   },
   {
-   "date": "2026-11-09",
-   "title": "RED",
-   "actor": "ERM WG34",
-   "label": "EN 302 208 – Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with pow: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 302 208",
-   "page": "committees.html#red"
+   "date": "2026-11-11",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Agenda published: 47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-10-21)",
+   "doc": "agenda",
+   "page": "standardisation-regulation.html"
   },
   {
-   "date": "2026-11-09",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 721 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) providing Low Bit : Delivery to the EC",
-   "doc": "EN 301 721",
-   "page": "committees.html#red"
+   "date": "2026-11-11",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Agenda published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+   "doc": "agenda",
+   "page": "standardisation-regulation.html"
   },
   {
-   "date": "2026-11-09",
-   "title": "RED",
-   "actor": "ERM WGEMC",
-   "label": "EN 301 489-9 – ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 9: Spe: Delivery to the EC",
-   "doc": "EN 301 489-9",
-   "page": "committees.html#red"
+   "date": "2026-11-11",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Agenda published: 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-02-11)",
+   "doc": "agenda",
+   "page": "standardisation-regulation.html"
   },
   {
-   "date": "2026-11-09",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 443 – Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-: Delivery to the EC",
-   "doc": "EN 301 443",
-   "page": "committees.html#red"
+   "date": "2026-11-11",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Consolidated version of draft compromise text for General Approach to the MDR Regulation (not public)",
+   "doc": "WK 17333/26",
+   "page": "medical-devices-simplification.html"
   },
   {
-   "date": "2026-11-09",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 441 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES), including handhel: Delivery to the EC",
-   "doc": "EN 301 441",
-   "page": "committees.html#red"
+   "date": "2026-11-11",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "doc": "CM 4835/26 REV 2",
+   "page": "public-procurement-act.html"
   }
  ]
 }

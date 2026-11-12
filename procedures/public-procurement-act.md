@@ -1,14 +1,14 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 9 Nov 2026.
+Procedure 2026/0265(COD), as of 12 Nov 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
 
 - **Stage:** Commission proposal
 - **Parliament:** not yet referred to committee
-- **Council:** working party, latest document 5 Nov 2026
-- **Latest activity:** 5 Nov 2026 · Council: Optional consultation of the Committee of the Regions (ST 15211/26)
+- **Council:** working party, latest document 10 Nov 2026
+- **Latest activity:** 11 Nov 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … (CM 4835/26 REV 2)
 - **Next steps:** Referral to an EP committee; Council working party
 
 ## Events
@@ -19,6 +19,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 | 2026-09-18 | Council | Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of … | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) | Council register, CM 4104/26 (notice of meeting and provisional agenda) |
 | 2026-10-02 | Council | Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) | Council register, CM 4305/26 (notice of meeting and provisional agenda) |
 | 2026-10-30 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) | Council register, CM 4602/26 (notice of meeting and provisional agenda) |
+| 2026-11-11 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 4835/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf) | Council register, CM 4835/26 REV 2 (notice of meeting and provisional agenda) |
 
 ## Documents
 
@@ -47,8 +48,10 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-29 | WK 14963/26 REV 1 ADD 6 | council-note | Public Procurement Act: Proposal for a Regulation of the European Parliament and of the Council on public contracts and concessions, repealing Directives … | not public\* | – | – |
 | 2026-10-29 | [WK 16826/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100622) | council-note | Mapping of Existing Reporting Obligations and Procurement : Related Information Requirements under EU Sectoral Legislation | not public\* | – | – |
 | 2026-11-05 | [ST 15211/26](https://data.consilium.europa.eu/doc/document/ST-15211-2026-INIT/en/pdf) | council-note | Optional consultation of the Committee of the Regions | public | – | – |
+| 2026-11-06 | WK 17255/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 11 November 2026 : Presidency Flash | not public\* | – | – |
+| 2026-11-10 | [ST 15694/26](https://data.consilium.europa.eu/doc/document/ST-15694-2026-INIT/en/pdf) | council-note | Opinion of the European Data Protection Supervisor (EDPS) | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
 
 ## Texts as Markdown
 

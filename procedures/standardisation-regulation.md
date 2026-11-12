@@ -72,6 +72,9 @@ Expert group E02758, CNECT. Official source: [Register of Commission expert grou
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
+| 2026-10-21 | 47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download) |
+| 2026-06-10 | 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140809/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download) |
+| 2026-02-11 | 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140807/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141066/download) |
 | 2025-10-23 | 44th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127709/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127713/download) |
 | 2025-05-22 | 43rd Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127710/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127711/download) |
 | 2025-02-20 | 42nd Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115357/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127712/download) |

@@ -1,15 +1,15 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 10 Nov 2026.
+Procedure 2025/0404(COD), as of 12 Nov 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 30 Jun 2026
-- **Council:** working party, latest document 9 Nov 2026
-- **Latest activity:** 9 Nov 2026 · Council: Presidency Flash for the meeting of the Working Party on Pharmaceuticals and Medical … (WK 17204/26)
-- **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Council:** draft mandate before Coreper (WK 17333/26 of 11 Nov 2026)
+- **Latest activity:** 11 Nov 2026 · Council: Consolidated version of draft compromise text for General Approach to the MDR Regulation (WK 17333/26)
+- **Next steps:** 18 Jan 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (WK 17333/26)
 
 ## Events
 
@@ -36,6 +36,7 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 | 2026-10-27 | Council | Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by … | [CM 4464/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-2/en/pdf) | Council register, CM 4464/26 REV 2 (notice of meeting and provisional agenda) |
 | 2026-10-27 | Council | Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by … | [CM 4464/26 REV 3](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-3/en/pdf) | Council register, CM 4464/26 REV 3 (notice of meeting and provisional agenda) |
 | 2026-11-04 | European Parliament | BUDG opinion adopted | [PE788.813](https://data.europarl.europa.eu/distribution/reds_iCmOp/BUDG-AD-788813/BUDG-AD-788813_en.pdf) | EP Open Data API, procedure 2025-0404 (COMMITTEE_ADOPTING_OPINION) |
+| 2026-11-10 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0404%28COD%29) | EP Open Data API, procedure 2025-0404 (COMMITTEE_ADOPTING_OPINION) |
 
 ## Documents
 
@@ -103,7 +104,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-07-28 | [PE791.890](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/SANT-AM-791890/SANT-AM-791890_en.pdf) | ep-amendments | AMENDMENTS 374 - 615 - Draft report Amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical … | public | – | – |
 | 2026-07-28 | [PE791.891](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/SANT-AM-791891/SANT-AM-791891_en.pdf) | ep-amendments | AMENDMENTS 616 - 857 - Draft report Amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical … | public | – | – |
 | 2026-07-28 | [WK 10875/26](https://data.consilium.europa.eu/doc/document/WK-10875-2026-INIT/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency | public | – | – |
-| 2026-07-28 | WK 10875/26 ADD 1 | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency | not public\* | – | – |
+| 2026-07-28 | [WK 10875/26 ADD 1](https://data.consilium.europa.eu/doc/document/WK-10875-2026-ADD-1/en/pdf) | council-note | Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the Presidency | public | 2026-11-10 | – |
 | 2026-07-29 | [WK 11067/26](https://data.consilium.europa.eu/doc/document/WK-11067-2026-INIT/en/pdf) | council-note | Presentation by Germany | public | – | – |
 | 2026-08-28 | [ST 12272/26](https://data.consilium.europa.eu/doc/document/ST-12272-2026-INIT/en/pdf) | council-note | Exchange of views | public | 2026-11-04 | – |
 | 2026-08-31 | [ST 12273/26](https://data.consilium.europa.eu/doc/document/ST-12273-2026-INIT/en/pdf) | council-note | Exchange of views | public | 2026-11-04 | – |
@@ -121,8 +122,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-05 | [ST 14673/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101904) | council-note | Exchange of views | not public\* | – | – |
 | 2026-11-05 | ST 14673/26 ADD 1 | council-note | Exchange of views | not public\* | – | – |
 | 2026-11-09 | [WK 17204/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102308) | council-note | Presidency Flash for the meeting of the Working Party on Pharmaceuticals and Medical Devices on 12 and 13 November 2026 | not public\* | – | – |
+| 2026-11-11 | [WK 17333/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102785) | council-position | Consolidated version of draft compromise text for General Approach to the MDR Regulation | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
 
 ## Texts as Markdown
 

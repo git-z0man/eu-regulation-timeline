@@ -1,14 +1,14 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 9 Nov 2026.
+Procedure 2026/0138(COD), as of 12 Nov 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 17 Sep 2026
-- **Council:** working party, latest document 5 Nov 2026
-- **Latest activity:** 5 Nov 2026 · Council: [10104/26 + ADD 1-5 - COM(2026) 502 final] - Opinion on the application of the Principles … (ST 15470/26)
+- **Council:** working party, latest document 10 Nov 2026
+- **Latest activity:** 10 Nov 2026 · Council: Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover … (ST 15641/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -57,8 +57,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | [WK 16115/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98585) | council-note | Comments from Cyprus | not public\* | – | – |
 | 2026-10-30 | [ST 14918/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100884) | council-compromise | Presidency compromise text | not public\* | – | – |
 | 2026-11-05 | [ST 15470/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101850) | council-note | [10104/26 + ADD 1-5 - COM(2026) 502 final] - Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian … | not public\* | – | – |
+| 2026-11-10 | [ST 15641/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102504) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the National Assembly of the Republic of Bulgaria | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
 
 ## Texts as Markdown
 

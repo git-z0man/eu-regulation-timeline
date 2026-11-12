@@ -46,7 +46,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Radio Equipment Directive cybersecurity delegated act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030) – Delegated act of the Commission, adopted without a legislative procedure; applies from 2025-08-01; repealed from 2027-12-11; [meetings](#radio-equipment-directive-cybersecurity-delegated-act) | [RED expert group](committee-e03587.md) | Expert group | 4 | 2025-11-27 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [Committee on Standards](committee-c41700.md) | Comitology committee | 12 | 2026-09-16 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [HLFS](committee-e03874.md) | Expert group | 2 | 2026-03-19 | – |
-| [Regulation on European standardisation](standardisation-regulation.md) | [MSP](committee-e02758.md) | Expert group | 5 | 2025-10-23 | – |
+| [Regulation on European standardisation](standardisation-regulation.md) | [MSP](committee-e02758.md) | Expert group | 8 | 2026-10-21 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [ENISA AHWG Standardisation](committee-enisa-ahwg-std.md) | ENISA ad hoc working group | 0 | – | – |
 | [Toy Safety Regulation](toy-safety-regulation.md) | [Expert Group on Toys Safety](committee-e01360.md) | Expert group | 5 | 2026-09-10 | – |
 
@@ -201,10 +201,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Working Party on Competitiveness and Growth (Public Procurement)
 
-4 meetings on the acts we follow.
+5 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-11 | [Public Procurement Act](public-procurement-act.md) | Continuation of the examination of the proposal CM 4835/2/26 REV 2 1 EN ([ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf)) | [CM 4835/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf) |
 | 2026-10-30 | [Public Procurement Act](public-procurement-act.md) | Continuation of the examination of the proposal ([ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf)) | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) |
 | 2026-10-02 | [Public Procurement Act](public-procurement-act.md) | Examination of the proposal – Parts I and II | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) |
 | 2026-10-02 | [Public Procurement Act](public-procurement-act.md) | Public Procurement Act: Digital Ecosystem – Topical debate | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) |

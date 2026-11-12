@@ -97,51 +97,57 @@ COMMISSION IMPLEMENTING DECISION of 3.2.2025 on a standardisation request to the
 
 adopted 2025-02-03; expires 2027-11-30; ESOs: CEN, CENELEC, ETSI. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/606_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)618&lang=en) · [en.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.en.md) · [de.md](../texts/cra/sreq-m606/2025-02-03_commission-decision.de.md)
 
-| Item | Standard(s) requested | Kind | Deadline | Draft amendment |
-| --- | --- | --- | --- | --- |
-| 1 | European standard(s) on designing, developing and producing products with digital elements in such a way that they ensure an appropriate level of cybersecurity based on the risks | new | 2026-08-30 | 2026-11-30 |
-| 2 | European standard(s) on making products with digital elements available on the market without known exploitable vulnerabilities | new | 2027-10-30 | – |
-| 3 | European standard(s) on making products with digital elements available on the market with a secure by default configuration | new | 2027-10-30 | – |
-| 4 | European standard(s) on ensuring that vulnerabilities in products with digital elements can be addressed through security updates | new | 2027-10-30 | – |
-| 5 | European standard(s) on ensuring protection of products with digital elements from unauthorised access and reporting on possible unauthorised access | new | 2027-10-30 | – |
-| 6 | European standard(s) on protecting the confidentiality of data stored, transmitted or otherwise processed by a product with digital elements | new | 2027-10-30 | – |
-| 7 | European standard(s) on protecting the integrity of data, commands, programs by a product with digital elements, and its configuration against any manipulation or modification not authorised by the user, as well as reporting on corruptions | new | 2027-10-30 | – |
-| 8 | European standard(s) on processing only personal or other data that are adequate, relevant and limited to what is necessary in relation to the intended purpose of the product with digital elements (‘minimisation of data’) | new | 2027-10-30 | – |
-| 9 | European standard(s) on protecting the availability of essential and basic functions of the product with digital elements | new | 2027-10-30 | – |
-| 10 | European standard(s) on minimising the negative impact of a product with digital elements or its connected devices on the availability of services provided by other devices or networks | new | 2027-10-30 | – |
-| 11 | European standard(s) on designing, developing and producing products with digital elements with limitted attack surfaces | new | 2027-10-30 | – |
-| 12 | European standard(s) on designing, developing and producing products with digital elements that reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques | new | 2027-10-30 | – |
-| 13 | European standard(s) on providing security related information by recording and/or monitoring relevant internal activity of products with digital elements with an optout mechanism for the user | new | 2027-10-30 | – |
-| 14 | European standard(s) on securely and easily removing or transferring all data and settings of a product with digital elements. | new | 2027-10-30 | – |
-| 15 | European standard(s) on vulnerability handling for products with digital elements | new | 2026-08-30 | 2026-11-30 |
-| 16 | European standard(s) on essential cybersecurity requirements for identity management systems and privileged access management software and hardware, including authentication and access control readers, including biometric readers | new | 2026-10-30 | 2027-01-31 |
-| 17 | European standard(s) on essential cybersecurity requirements for standalone and embedded browsers | new | 2026-10-30 | 2027-01-31 |
-| 18 | European standard(s) on essential cybersecurity requirements for password managers | new | 2026-10-30 | 2027-01-31 |
-| 19 | European standard(s) on essential cybersecurity requirements for software that searches for, removes, or quarantines malicious software | new | 2026-10-30 | 2027-01-31 |
-| 20 | European standard(s) on essential cybersecurity requirements for products with digital elements with the function of virtual private network (VPN) | new | 2026-10-30 | 2027-01-31 |
-| 21 | European standard(s) on essential cybersecurity requirements for network management systems | new | 2026-10-30 | 2027-01-31 |
-| 22 | European standard(s) on essential cybersecurity requirements for Security information and event management (SIEM) systems | new | 2026-10-30 | 2027-01-31 |
-| 23 | European standard(s) on essential cybersecurity requirements for boot managers | new | 2026-10-30 | 2027-01-31 |
-| 24 | European standard(s) on essential cybersecurity requirements for public key infrastructure and digital certificate issuance software | new | 2026-10-30 | 2027-01-31 |
-| 25 | European standard(s) on essential cybersecurity requirements for physical and virtual network interfaces | new | 2026-10-30 | 2027-01-31 |
-| 26 | European standard(s) on essential cybersecurity requirements for operating systems | new | 2026-10-30 | 2027-01-31 |
-| 27 | European standard(s) on essential cybersecurity requirements for routers, modems intended for the connection to the internet, and switches | new | 2026-10-30 | 2027-01-31 |
-| 28 | European standard(s) on essential cybersecurity requirements for microprocessors with security-related functionalities | new | 2026-10-30 | 2027-01-31 |
-| 29 | European standard(s) on essential cybersecurity requirements for microcontrollers with security-related functionalities | new | 2026-10-30 | 2027-01-31 |
-| 30 | European standard(s) on essential cybersecurity requirements for application specific integrated circuits (AS IC) and field-programmable gate arrays (FPGA) with security-related functionalities | new | 2026-10-30 | 2027-01-31 |
-| 31 | European standard(s) on essential cybersecurity requirements for smart home general purpose virtual assistants | new | 2026-10-30 | 2027-01-31 |
-| 32 | European standard(s) on essential cybersecurity requirements for smart home products with security functionalities, including smart door locks, security cameras, baby monitoring systems and alarm systems | new | 2026-10-30 | 2027-01-31 |
-| 33 | European standard(s) on essential cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC that have social interactive features (e.g. speaking or filming) or that have location tracking features | new | 2026-10-30 | 2027-01-31 |
-| 34 | European standard(s) on essential cybersecurity requirements for personal wearable products to be worn or placed on a human body that have a health monitoring (such as tracking) purpose and to which Regulation (EU) 2017/745 or Regulation (EU) 2017/746 do not apply or personal wearable products that are intended for the use by and for children | new | 2026-10-30 | 2027-01-31 |
-| 35 | European standard(s) on essential cybersecurity requirements for hypervisors and container runtime systems that support virtualised execution of operating systems and similar environments | new | 2026-10-30 | 2027-01-31 |
-| 36 | European standard(s) on essential cybersecurity requirements for firewalls, intrusion detection and/or prevention systems, including specifically those intended for industrial use | new | 2026-10-30 | 2027-01-31 |
-| 37 | European standard(s) on essential cybersecurity requirements for tamperresistant microprocessors | new | 2026-10-30 | 2027-01-31 |
-| 38 | European standard(s) on essential cybersecurity requirements for tamperresistant microcontrollers | new | 2026-10-30 | 2027-01-31 |
-| 39 | European standard(s) on essential cybersecurity requirements for Hardware Devices with Security Boxes | new | 2026-10-30 | 2027-01-31 |
-| 40 | European standard(s) on essential cybersecurity requirements for smart meter gateways within smart metering systems as defined in Article 2 (23) of Directive (EU) 2019/944 and other devices for advanced security purposes, including for secure cryptoprocessing | new | 2026-10-30 | 2027-01-31 |
-| 41 | European standard(s) on essential cybersecurity requirements for smartcards or similar devices, including secure elements | new | 2026-10-30 | 2027-01-31 |
+| Item | Standard(s) requested | Kind | Deadline |
+| --- | --- | --- | --- |
+| 1 | European standard(s) on designing, developing and producing products with digital elements in such a way that they ensure an appropriate level of cybersecurity based on the risks | new | 2026-11-30 |
+| 2 | European standard(s) on making products with digital elements available on the market without known exploitable vulnerabilities | new | 2027-10-30 |
+| 3 | European standard(s) on making products with digital elements available on the market with a secure by default configuration | new | 2027-10-30 |
+| 4 | European standard(s) on ensuring that vulnerabilities in products with digital elements can be addressed through security updates | new | 2027-10-30 |
+| 5 | European standard(s) on ensuring protection of products with digital elements from unauthorised access and reporting on possible unauthorised access | new | 2027-10-30 |
+| 6 | European standard(s) on protecting the confidentiality of data stored, transmitted or otherwise processed by a product with digital elements | new | 2027-10-30 |
+| 7 | European standard(s) on protecting the integrity of data, commands, programs by a product with digital elements, and its configuration against any manipulation or modification not authorised by the user, as well as reporting on corruptions | new | 2027-10-30 |
+| 8 | European standard(s) on processing only personal or other data that are adequate, relevant and limited to what is necessary in relation to the intended purpose of the product with digital elements (‘minimisation of data’) | new | 2027-10-30 |
+| 9 | European standard(s) on protecting the availability of essential and basic functions of the product with digital elements | new | 2027-10-30 |
+| 10 | European standard(s) on minimising the negative impact of a product with digital elements or its connected devices on the availability of services provided by other devices or networks | new | 2027-10-30 |
+| 11 | European standard(s) on designing, developing and producing products with digital elements with limitted attack surfaces | new | 2027-10-30 |
+| 12 | European standard(s) on designing, developing and producing products with digital elements that reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques | new | 2027-10-30 |
+| 13 | European standard(s) on providing security related information by recording and/or monitoring relevant internal activity of products with digital elements with an optout mechanism for the user | new | 2027-10-30 |
+| 14 | European standard(s) on securely and easily removing or transferring all data and settings of a product with digital elements. | new | 2027-10-30 |
+| 15 | European standard(s) on vulnerability handling for products with digital elements | new | 2026-11-30 |
+| 16 | European standard(s) on essential cybersecurity requirements for identity management systems and privileged access management software and hardware, including authentication and access control readers, including biometric readers | new | 2027-01-31 |
+| 17 | European standard(s) on essential cybersecurity requirements for standalone and embedded browsers | new | 2027-01-31 |
+| 18 | European standard(s) on essential cybersecurity requirements for password managers | new | 2027-01-31 |
+| 19 | European standard(s) on essential cybersecurity requirements for software that searches for, removes, or quarantines malicious software | new | 2027-01-31 |
+| 20 | European standard(s) on essential cybersecurity requirements for products with digital elements with the function of virtual private network (VPN) | new | 2027-01-31 |
+| 21 | European standard(s) on essential cybersecurity requirements for network management systems | new | 2027-01-31 |
+| 22 | European standard(s) on essential cybersecurity requirements for Security information and event management (SIEM) systems | new | 2027-01-31 |
+| 23 | European standard(s) on essential cybersecurity requirements for boot managers | new | 2027-01-31 |
+| 24 | European standard(s) on essential cybersecurity requirements for public key infrastructure and digital certificate issuance software | new | 2027-01-31 |
+| 25 | European standard(s) on essential cybersecurity requirements for physical and virtual network interfaces | new | 2027-01-31 |
+| 26 | European standard(s) on essential cybersecurity requirements for operating systems | new | 2027-01-31 |
+| 27 | European standard(s) on essential cybersecurity requirements for routers, modems intended for the connection to the internet, and switches | new | 2027-01-31 |
+| 28 | European standard(s) on essential cybersecurity requirements for microprocessors with security-related functionalities | new | 2027-01-31 |
+| 29 | European standard(s) on essential cybersecurity requirements for microcontrollers with security-related functionalities | new | 2027-01-31 |
+| 30 | European standard(s) on essential cybersecurity requirements for application specific integrated circuits (AS IC) and field-programmable gate arrays (FPGA) with security-related functionalities | new | 2027-01-31 |
+| 31 | European standard(s) on essential cybersecurity requirements for smart home general purpose virtual assistants | new | 2027-01-31 |
+| 32 | European standard(s) on essential cybersecurity requirements for smart home products with security functionalities, including smart door locks, security cameras, baby monitoring systems and alarm systems | new | 2027-01-31 |
+| 33 | European standard(s) on essential cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC that have social interactive features (e.g. speaking or filming) or that have location tracking features | new | 2027-01-31 |
+| 34 | European standard(s) on essential cybersecurity requirements for personal wearable products to be worn or placed on a human body that have a health monitoring (such as tracking) purpose and to which Regulation (EU) 2017/745 or Regulation (EU) 2017/746 do not apply or personal wearable products that are intended for the use by and for children | new | 2027-01-31 |
+| 35 | European standard(s) on essential cybersecurity requirements for hypervisors and container runtime systems that support virtualised execution of operating systems and similar environments | new | 2027-01-31 |
+| 36 | European standard(s) on essential cybersecurity requirements for firewalls, intrusion detection and/or prevention systems, including specifically those intended for industrial use | new | 2027-01-31 |
+| 37 | European standard(s) on essential cybersecurity requirements for tamperresistant microprocessors | new | 2027-01-31 |
+| 38 | European standard(s) on essential cybersecurity requirements for tamperresistant microcontrollers | new | 2027-01-31 |
+| 39 | European standard(s) on essential cybersecurity requirements for Hardware Devices with Security Boxes | new | 2027-01-31 |
+| 40 | European standard(s) on essential cybersecurity requirements for smart meter gateways within smart metering systems as defined in Article 2 (23) of Directive (EU) 2019/944 and other devices for advanced security purposes, including for secure cryptoprocessing | new | 2027-01-31 |
+| 41 | European standard(s) on essential cybersecurity requirements for smartcards or similar devices, including secure elements | new | 2027-01-31 |
 
-Source: Annex I to Commission Implementing Decision C(2025)618 (M/606), “List of new European Standards to be drafted”. [Draft Commission implementing decision amending Implementing Decision C(2025)618 (replaces Annex I)](https://ec.europa.eu/transparency/comitology-register/screen/documents/118113/1/consult), Ref. Ares(2026)9002280 of 2026-09-23, Committee on Standards (C41700), written procedure launched 2026-09-16: Moves the 2026 deadlines (items 1 and 15: 30 Nov 2026; items 16–41: 31 Jan 2027) after the ESOs' joint report of 3 June 2026; items 2–14 unchanged. Ceases to apply if CEN, Cenelec or ETSI do not accept it within a month (Art. 2 of the draft). Not adopted.
+Source: Annex I to Commission Implementing Decision C(2025)618 (M/606), “List of new European Standards to be drafted”, as replaced by the Annex to Commission Implementing Decision C(2026)7861 of 10 November 2026 (M/606 Amd 1).
+
+### M/606 Amd 1 – C(2026)7861 (notified to the eso)
+
+COMMISSION IMPLEMENTING DECISION of 10.11.2026 amending Implementing Decision C(2025)618 on a standardisation request to the European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and the European Telecommunications Standards Institute (ETSI) as regards products with digital elements in support of Regulation (EU) 2024/2847 of the European Parliament and of the Council
+
+adopted 2026-11-10; ESOs: CEN, CENELEC, ETSI; amends M/606. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/606AMD1_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2026)7861&lang=en) · [en.md](../texts/cra/sreq-m606-amd1/2026-11-10_commission-decision.en.md) · [de.md](../texts/cra/sreq-m606-amd1/2026-11-10_commission-decision.de.md)
 
 ### Planned (annual Union work programmes)
 

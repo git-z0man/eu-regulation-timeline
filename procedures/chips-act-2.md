@@ -58,7 +58,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 16218/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98932) | council-note | Consolidated table with comments from the following Member States AT, BE, CZ, DE, DK, EE, ES, FI, FR, HR, IT, LT, MT, NL, PL, PT, SE, SI on Pillar III and its … | not public\* | – | – |
 | 2026-11-06 | [ST 15512/26](https://data.consilium.europa.eu/doc/document/ST-15512-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | public | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
 
 ## Texts as Markdown
 

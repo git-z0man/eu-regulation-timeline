@@ -1,6 +1,6 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 9 Nov 2026.
+Procedure 2026/0068(COD), as of 12 Nov 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -141,7 +141,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Second Presidency Options Paper on Union Origin requirements | not public\* | – | – |
 | 2026-11-06 | [ST 15309/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102099) | council-note | Guidance for further work | not public\* | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-10.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
 
 ## Texts as Markdown
 

@@ -24,21 +24,21 @@
     "page": "nlf.html"
   },
   {
-    "name": "forecast-product-digitalisation-directive",
-    "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Directive)",
-    "note": "Step by step; Official Journal median Jan 2027.",
-    "page": "product-digitalisation-directive.html"
-  },
-  {
     "name": "forecast-product-digitalisation-regulation",
     "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Regulation)",
     "note": "Step by step; Official Journal median Jan 2027.",
     "page": "product-digitalisation-regulation.html"
   },
   {
+    "name": "forecast-product-digitalisation-directive",
+    "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Directive)",
+    "note": "Step by step; Official Journal median Jan 2027.",
+    "page": "product-digitalisation-directive.html"
+  },
+  {
     "name": "forecast-nis2-amendment",
     "title": "Forecast: NIS-2 amendment",
-    "note": "Step by step; Official Journal median Jan 2028.",
+    "note": "Step by step; Official Journal median Feb 2028.",
     "page": "nis2-amendment.html"
   },
   {

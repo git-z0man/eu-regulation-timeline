@@ -7,9 +7,9 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 ## At a glance
 
 - Next meeting: none announced
-- Last meeting: 2025-10-23 – 44th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127709/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127713/download))
-- Meetings since 2024: 5
-- Latest minutes: [44th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2025-10-23)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127713/download)
+- Last meeting: 2026-10-21 – 47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download))
+- Meetings since 2024: 8
+- Latest minutes: [46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download)
 - Members: 61 members: 27 Member State authorities (type D); 27 organisations (type C); 7 other public entities (type E).
 - Contact: [ec-ict-std-platform@ec.europa.eu](mailto:ec-ict-std-platform@ec.europa.eu)
 
@@ -17,7 +17,7 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 - Type: Formal, Permanent, Broad
 - Policy areas: Communication, Information Society, Research and Innovation
-- Registered: 2012-03-21; last updated: 2026-05-27
+- Registered: 2012-03-21; last updated: 2026-11-10
 - Link: <http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation>
 
 Tasks:
@@ -42,6 +42,9 @@ Tasks:
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-21 | 47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download) | – | – |
+| 2026-06-10 | 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140809/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download) | – |
+| 2026-02-11 | 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140807/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141066/download) | – |
 | 2025-10-23 | 44th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127709/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127713/download) | – |
 | 2025-05-22 | 43rd Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127710/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127711/download) | – |
 | 2025-02-20 | 42nd Meeting of the European Multi-Stakeholder Platform for ICT Standardisation | Hybrid | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/115357/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/127712/download) | – |

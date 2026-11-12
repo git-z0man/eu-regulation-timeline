@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="819" viewBox="0 0 1800 819" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="819" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-10">
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-12">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0404(COD). State as of 10 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see medical-devices-simplification.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0404(COD). State as of 12 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see medical-devices-simplification.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -20,11 +20,11 @@
 <rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">BUDG opinion adopted, 4 Nov 2026</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">Committee opinion adopted, 10 Nov 2026</tspan></text>
 <rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Working party; no Council mandate in the register</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="220.2">Draft mandate before Coreper, 11 Nov 2026</tspan></text>
 <rect x="740.0" y="150.0" width="230.0" height="58.0" fill="#f4f5f6" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="11" fill="#6f757b" text-anchor="middle"><tspan x="855.0" y="161.0">Act adopted in the wording of the EP</tspan><tspan x="855.0" y="174.7">position</tspan></text>
 <text font-size="9" fill="#9aa0a6" text-anchor="middle"><tspan x="855.0" y="199.2">Art. 294(4)</tspan></text>
@@ -112,8 +112,8 @@
 <rect x="20.0" y="711.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="724.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="724.1">no events yet</tspan></text>
-<line x1="1474.8" y1="440.0" x2="1474.8" y2="735.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1474.8" y="745.1">as of 10 Nov 2026</tspan></text>
+<line x1="1482.2" y1="440.0" x2="1482.2" y2="735.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1482.2" y="745.1">as of 12 Nov 2026</tspan></text>
 <rect x="261.2" y="453.0" width="258.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC1023" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="265.2" y="462.1">16 Dec 2025 · Commission proposal (COM(2025) 1023)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC1023" target="_blank"><title>16 Dec 2025: Commission proposal – COM(2025) 1023</title><polygon points="265.152224824356,465 273.152224824356,473 265.152224824356,481 257.152224824356,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -128,10 +128,13 @@
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/SANT-PR-787987/SANT-PR-787987_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="985.8" y="562.1">30 Jun 2026 · SANT draft report (PE787.987)</tspan></text></a>
 <rect x="1448.8" y="553.0" width="224.2" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/BUDG-AD-788813/BUDG-AD-788813_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1452.8" y="562.1">04 Nov 2026 · BUDG opinion adopted (PE788.813)</tspan></text></a>
+<rect x="1470.8" y="582.0" width="191.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1474.8" y="591.1">10 Nov 2026 · Committee opinion adopted</tspan></text>
 <g><title>13 Feb 2026: SANT rapporteur appointed (Oliver Schenk, PPE)</title><polygon points="482.08430913348946,567.5 487.58430913348946,573 482.08430913348946,578.5 476.58430913348946,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>25 Mar 2026: Referral to committee announced in plenary</title><polygon points="629.1569086651054,567.5 634.6569086651054,573 629.1569086651054,578.5 623.6569086651054,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/SANT-PR-787987/SANT-PR-787987_en.pdf" target="_blank"><title>30 Jun 2026: SANT draft report – PE787.987</title><polygon points="985.807962529274,567.5 991.307962529274,573 985.807962529274,578.5 980.307962529274,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/BUDG-AD-788813/BUDG-AD-788813_en.pdf" target="_blank"><title>4 Nov 2026: BUDG opinion adopted – PE788.813</title><polygon points="1452.7634660421545,567.5 1458.2634660421545,573 1452.7634660421545,578.5 1447.2634660421545,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>10 Nov 2026: Committee opinion adopted</title><polygon points="1474.824355971897,567.5 1480.324355971897,573 1474.824355971897,578.5 1469.324355971897,573" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <rect x="860.5" y="657.0" width="487.4" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-9114-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="864.5" y="666.1">28 May 2026 · Regulation to simplify rules on medical and in vitro diagnostic devices - … (ST 9114/26)</tspan></text></a>
 <text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="621.8" y="694.9">Working Party on Pharmaceuticals and Medical Devices: 13 meetings (23 Mar 2026 – 27 Oct 2026; ● each)</tspan></text>

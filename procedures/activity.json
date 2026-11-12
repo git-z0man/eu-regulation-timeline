@@ -1,6 +1,103 @@
 {
  "items": [
   {
+   "date": "2026-11-12",
+   "act": "cyber-solidarity-act",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "Summary record published: 18th meeting of the Digital Europe Programme Committee - 16/02/2026 (2026-02-16)",
+   "doc": "summary record",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/119006/1/consult",
+   "key": "C70600-S119006/1",
+   "page": "cyber-solidarity-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Minutes published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+   "doc": "minutes",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download",
+   "key": "E02758-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download",
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Minutes published: 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-02-11)",
+   "doc": "minutes",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141066/download",
+   "key": "E02758-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141066/download",
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Agenda published: 47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-10-21)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download",
+   "key": "E02758-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download",
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Agenda published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140809/download",
+   "key": "E02758-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140809/download",
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "Agenda published: 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-02-11)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140807/download",
+   "key": "E02758-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140807/download",
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Consolidated version of draft compromise text for General Approach to the MDR Regulation (not public)",
+   "doc": "WK 17333/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102785",
+   "key": "WK 17333/26",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "listed": "council-position"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "doc": "CM 4835/26 REV 2",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf",
+   "key": "CM 4835/26 REV 2",
+   "page": "public-procurement-act",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-11-10",
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
@@ -10,6 +107,34 @@
    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29",
    "key": "Committee opinion adopted",
    "page": "nis2-amendment",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-07-28 (Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the …), listed as not public since 2026-09-25",
+   "doc": "WK 10875/26 ADD 1",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-10875-2026-ADD-1/en/pdf",
+   "key": "WK 10875/26 ADD 1-released",
+   "page": "medical-devices-simplification",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-07-28",
+   "doc_title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the …",
+   "withheld_since": "2026-09-25",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0404%28COD%29",
+   "key": "Committee opinion adopted",
+   "page": "medical-devices-simplification",
    "type": "Legislation"
   },
   {
@@ -26,6 +151,18 @@
   },
   {
    "date": "2026-11-10",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee opinion adopted",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
+   "key": "Committee opinion adopted",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-10",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "European Parliament",
@@ -35,6 +172,19 @@
    "key": "Committee opinion adopted",
    "page": "csa2",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-11-09",
+   "act": "nis2-amendment",
+   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not public)",
+   "doc": "WK 17271/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335",
+   "key": "WK 17271/26",
+   "page": "nis2-amendment",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-11-09",
@@ -95,6 +245,19 @@
    "key": "eso-REN/SES-00442-2026-11-09",
    "page": null,
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-09",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
+   "doc": "WK 17268/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340",
+   "key": "WK 17268/26",
+   "page": "csa2",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-11-09",
@@ -1430,6 +1593,24 @@
    "key": "eso-JT021056-2026-10-22",
    "page": "ai-act",
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-10-21",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2758",
+   "key": "E02758-77998",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download"
+    ]
+   ],
+   "page": "standardisation-regulation",
+   "type": "Committees"
   },
   {
    "date": "2026-10-21",
@@ -4853,6 +5034,28 @@
   },
   {
    "date": "2026-06-10",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation",
+   "doc": "agenda, minutes",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2758",
+   "key": "E02758-77997",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140809/download"
+    ],
+    [
+     "minutes",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download"
+    ]
+   ],
+   "page": "standardisation-regulation",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-06-10",
    "act": "red",
    "title": "RED",
    "actor": "ERM WGUWB",
@@ -7148,14 +7351,18 @@
    "act": "cyber-solidarity-act",
    "title": "CSOA",
    "actor": "Digital Europe Programme Coordination Committee",
-   "label": "18th meeting of the Digital Europe Programme Committee",
-   "doc": "agenda",
+   "label": "18th meeting of the Digital Europe Programme Committee - 16/02/2026",
+   "doc": "agenda, summary record",
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)207/consult",
    "key": "C70600-CMTD(2026)207",
    "links": [
     [
      "agenda",
      "https://ec.europa.eu/transparency/comitology-register/screen/documents/113073/1/consult"
+    ],
+    [
+     "summary record",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/119006/1/consult"
     ]
    ],
    "page": "cyber-solidarity-act",
@@ -7250,6 +7457,28 @@
    "key": "ST 6245/26",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-02-11",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "MSP",
+   "label": "45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation",
+   "doc": "agenda, minutes",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=2758",
+   "key": "E02758-77996",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140807/download"
+    ],
+    [
+     "minutes",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141066/download"
+    ]
+   ],
+   "page": "standardisation-regulation",
+   "type": "Committees"
   },
   {
    "date": "2026-02-11",
@@ -8289,30 +8518,6 @@
    "key": "C130100-S111012/1",
    "page": "cra",
    "type": "Committees"
-  },
-  {
-   "date": "2025-11-11",
-   "act": "toy-safety-regulation",
-   "title": "Toy Safety Regulation – Regulation (EU) 2025/2509",
-   "actor": "European Parliament",
-   "label": "Committee adopts recommendation for second reading",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0290%28COD%29",
-   "key": "Committee adopts recommendation for second reading",
-   "page": "toy-safety-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-11-11",
-   "act": "space-act",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "Council",
-   "label": "Space Working Party meeting (Attachés): (poss.) Regulation on the safety, resilience and sustainability of …",
-   "doc": "CM 4895/25 REV 1",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4895-2025-REV-1/en/pdf",
-   "key": "CM 4895/25 REV 1",
-   "page": "space-act",
-   "type": "Legislation"
   }
  ]
 }

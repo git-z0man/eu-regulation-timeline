@@ -79,8 +79,8 @@
 <rect x="778.9" y="227.0" width="34.1" height="20.0" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>EU KEV only Oct 26: 4.0</title></rect>
 <text x="796.0" y="221.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">37</text>
 <text x="796.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">Oct 26</text>
-<rect x="832.3" y="377.0" width="34.1" height="35.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Nov 26: 7.0</title></rect>
-<text x="849.3" y="371.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">7</text>
+<rect x="832.3" y="347.0" width="34.1" height="65.0" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1"><title>CISA KEV only Nov 26: 13.0</title></rect>
+<text x="849.3" y="341.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">13</text>
 <text x="849.3" y="430" text-anchor="middle" font-size="13" fill="#14181c">Nov 26</text>
 <text x="849.3" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">to date</text>
 <rect x="24" y="463" width="14" height="14" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1.2"/>
@@ -89,5 +89,5 @@
 <text x="162" y="474" font-size="13" fill="#14181c">In both catalogues</text>
 <rect x="294" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
 <text x="314" y="474" font-size="13" fill="#14181c">EU KEV only</text>
-<text x="24" y="504" font-size="11.5" fill="#5b646b">Data as of 10 Nov 2026.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text x="24" y="504" font-size="11.5" fill="#5b646b">Data as of 11 Nov 2026.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
 </svg>

@@ -2615,7 +2615,11 @@ Member States shall lay down the rules on penalties applicable to infringements 
 
 3. Where, in exceptional circumstances, the Commission has a substantiated reason to believe that there is a significant cyber threat to the security of the Union in relation to a critical ICT supply chain and that action is required to preserve the proper functioning of the internal market, the Commission shall without delay:
 
+[blacked out in the released PDF]
+
 - (b) provide Member States with the security risk assessment conducted in accordance with point (a) including a list of the key ICT assets and any proposed measures to mitigate the identified risks and take due account of the opinions of the Member States on the need to take action under Article 102a or 102c or take one or several of the mitigating measures referred to in Article 103.
+
+[blacked out in the released PDF]
 
 3b. The NIS Cooperation Group, shall develop a common methodology for the security risk assessments conducted pursuant to paragraph 1.
 
@@ -2822,7 +2826,7 @@ Information received by the Commission pursuant to Articles 105 and 106 shall be
 
 3. [blacked out in the released PDF]
 
-4. The Commission is empowered to adopt implementing acts in accordance with Article 118(2) to specify the time periods for the phasing out the ICT components or components that include ICT components provided by high-risk suppliers with regard to fixed and satellite electronic communications networks.
+4. The Commission is empowered to adopt implementing acts in accordance with Article 118(2) to specify the time periods for the phasing out the ICT components or components that include ICT components provided by high-risk suppliers with regard to fixed and [blacked out in the released PDF] satellite electronic communications networks.
 
 The Commission shall exchange advice and cooperate with the NIS Cooperation Group on the draft implementing acts referred to in the first subparagraph.
 

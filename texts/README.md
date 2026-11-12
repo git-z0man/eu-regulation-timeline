@@ -119,6 +119,16 @@ All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-21_oj | oj | 32026R1755 | [en](ai-act/implementing-regulation-2026-1755/2026-07-21_oj.en.md) | [de](ai-act/implementing-regulation-2026-1755/2026-07-21_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/implementing-regulation-2026-1755/2026-07-21_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1755) |
 
+## Implementing Regulation (EU) 2026/2487
+
+`ai-act/implementing-regulation-2026-2487` – Commission Implementing Regulation (EU) 2026/2487 of 10 November 2026 laying down rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment, development, implementation, operation and supervision of AI regulatory sandboxes
+
+All texts of this act as one file: [ai-act.zip](downloads/ai-act.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-11_oj | oj | 32026R2487 | [en](ai-act/implementing-regulation-2026-2487/2026-11-11_oj.en.md) | [de](ai-act/implementing-regulation-2026-2487/2026-11-11_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/implementing-regulation-2026-2487/2026-11-11_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R2487) |
+
 ## M/613 – C(2025)3871
 
 `ai-act/sreq-m613` – COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
@@ -225,6 +235,16 @@ All texts of this act as one file: [cra.zip](downloads/cra.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-02-03_commission-decision | commission-decision | – | [en](cra/sreq-m606/2025-02-03_commission-decision.en.md) | [de](cra/sreq-m606/2025-02-03_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/sreq-m606/2025-02-03_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)618&lang=de) |
 
+## M/606 Amd 1 – C(2026)7861
+
+`cra/sreq-m606-amd1` – COMMISSION IMPLEMENTING DECISION of 10.11.2026 amending Implementing Decision C(2025)618 on a standardisation request to the European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and the European Telecommunications Standards Institute (ETSI) as regards products with digital elements in support of Regulation (EU) 2024/2847 of the European Parliament and of the Council
+
+All texts of this act as one file: [cra.zip](downloads/cra.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-10_commission-decision | commission-decision | – | [en](cra/sreq-m606-amd1/2026-11-10_commission-decision.en.md) | [de](cra/sreq-m606-amd1/2026-11-10_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cra/sreq-m606-amd1/2026-11-10_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2026)7861&lang=de) |
+
 ## CSA
 
 `csa` – Regulation (EU) 2019/881 on ENISA and on information and communications technology cybersecurity certification
@@ -308,10 +328,13 @@ All texts of this act as one file: [csa2.zip](downloads/csa2.zip)
 | 2026-05-13_council-progress-report-st-9121-26 | council-progress-report | ST 9121/26 | [en](csa2/2026-05-13_council-progress-report-st-9121-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-13_council-progress-report-st-9121-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) |
 | 2026-05-22_council-progress-report-st-9399-26 | council-progress-report | ST 9399/26 | [en](csa2/2026-05-22_council-progress-report-st-9399-26.en.md) | [de](csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-22_council-progress-report-st-9399-26.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/de/pdf) |
 | 2026-05-27_council-compromise-wk-7571-26 | council-compromise | WK 7571/26 | [en](csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-05-27_council-compromise-wk-7571-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-7571-2026-INIT/en/pdf) |
+| 2026-07-22_council-note-wk-10888-26 | council-note | WK 10888/26 | [en](csa2/2026-07-22_council-note-wk-10888-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-07-22_council-note-wk-10888-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-10888-2026-INIT/en/pdf) |
 | 2026-08-07_council-compromise-wk-11263-26 | council-compromise | WK 11263/26 | [en](csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-08-07_council-compromise-wk-11263-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-11263-2026-INIT/en/pdf) |
 | 2026-09-08_council-compromise-wk-13671-26 | council-compromise | WK 13671/26 | [en](csa2/2026-09-08_council-compromise-wk-13671-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-08_council-compromise-wk-13671-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-13671-2026-INIT/en/pdf) |
+| 2026-09-10_council-note-wk-13885-26 | council-note | WK 13885/26 | [en](csa2/2026-09-10_council-note-wk-13885-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-10_council-note-wk-13885-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-13885-2026-INIT/en/pdf) |
 | 2026-09-18_ep-draft-report-pe792-222 | ep-draft-report | PE792.222 | [en](csa2/2026-09-18_ep-draft-report-pe792-222.en.md) | [de](csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-18_ep-draft-report-pe792-222.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792222/ITRE-PR-792222_de.docx) |
 | 2026-09-21_council-compromise-wk-14487-26-add-1 | council-compromise | WK 14487/26 ADD 1 | [en](csa2/2026-09-21_council-compromise-wk-14487-26-add-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-21_council-compromise-wk-14487-26-add-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-14487-2026-ADD-1/en/pdf) |
+| 2026-09-22_council-note-wk-14500-26 | council-note | WK 14500/26 | [en](csa2/2026-09-22_council-note-wk-14500-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-22_council-note-wk-14500-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-14500-2026-INIT/en/pdf) |
 
 ## CSOA
 
@@ -473,6 +496,7 @@ All texts of this act as one file: [espr.zip](downloads/espr.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-04-22_oj | oj | 32026R0296 | [en](espr/delegated-regulation-2026-296/2026-04-22_oj.en.md) | [de](espr/delegated-regulation-2026-296/2026-04-22_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/delegated-regulation-2026-296/2026-04-22_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0296) |
+| 2026-11-11_corrigendum-01 | corrigendum | 32026R0296R(01) | – | [de](espr/delegated-regulation-2026-296/2026-11-11_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/delegated-regulation-2026-296/2026-11-11_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0296R(01)) |
 
 ## Implementing Regulation (EU) 2026/1778
 
@@ -493,6 +517,7 @@ All texts of this act as one file: [espr.zip](downloads/espr.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-10_oj | oj | 32026R0002 | [en](espr/implementing-regulation-2026-2/2026-02-10_oj.en.md) | [de](espr/implementing-regulation-2026-2/2026-02-10_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/implementing-regulation-2026-2/2026-02-10_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0002) |
+| 2026-11-10_corrigendum-01 | corrigendum | 32026R0002R(01) | – | [de](espr/implementing-regulation-2026-2/2026-11-10_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/espr/implementing-regulation-2026-2/2026-11-10_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0002R(01)) |
 
 ## M/604 – C(2024)5423
 
@@ -909,6 +934,16 @@ All texts of this act as one file: [guidance-enisa-2024-report-state-cybersecuri
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-12-03_final | final | – | [en](guidance/enisa/2024-report-state-cybersecurity-union/2024-12-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/2024-report-state-cybersecurity-union/2024-12-03_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2024-11/2024%20Report%20on%20the%20State%20of%20the%20Cybersecurity%20in%20the%20Union.pdf) |
+
+## 2026 Report on the State of Cybersecurity in the Union
+
+`guidance/enisa/2026-report-state-cybersecurity-union` – 2026 Report on the State of Cybersecurity in the Union
+
+All texts of this act as one file: [guidance-enisa-2026-report-state-cybersecurity-union.zip](downloads/guidance-enisa-2026-report-state-cybersecurity-union.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-10_final | final | – | [en](guidance/enisa/2026-report-state-cybersecurity-union/2026-11-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/2026-report-state-cybersecurity-union/2026-11-10_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-11/2026%20Report%20on%20the%20State%20of%20Cybersecurity%20in%20the%20Union%20-%20FINAL.pdf) |
 
 ## Accreditation of ITSEFs for EUCC
 
@@ -1638,6 +1673,9 @@ All texts of this act as one file: [nis2-amendment.zip](downloads/nis2-amendment
 | 2026-01-20_com-proposal | com-proposal | 52026PC0013 | [en](nis2-amendment/2026-01-20_com-proposal.en.md) | [de](nis2-amendment/2026-01-20_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-01-20_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0013) |
 | 2026-05-13_council-progress-report-st-9121-26 | council-progress-report | ST 9121/26 | [en](nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-05-13_council-progress-report-st-9121-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9121-2026-INIT/en/pdf) |
 | 2026-05-22_council-progress-report-st-9399-26 | council-progress-report | ST 9399/26 | [en](nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) | [de](nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/de/pdf) |
+| 2026-05-29_council-note-wk-7723-26 | council-note | WK 7723/26 | [en](nis2-amendment/2026-05-29_council-note-wk-7723-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-05-29_council-note-wk-7723-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-7723-2026-INIT/en/pdf) |
+| 2026-06-30_council-note-wk-9618-26 | council-note | WK 9618/26 | [en](nis2-amendment/2026-06-30_council-note-wk-9618-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-06-30_council-note-wk-9618-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-9618-2026-INIT/en/pdf) |
+| 2026-07-02_council-note-wk-9750-26 | council-note | WK 9750/26 | [en](nis2-amendment/2026-07-02_council-note-wk-9750-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-07-02_council-note-wk-9750-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-9750-2026-INIT/en/pdf) |
 | 2026-09-22_ep-draft-report-pe792-221 | ep-draft-report | PE792.221 | [en](nis2-amendment/2026-09-22_ep-draft-report-pe792-221.en.md) | [de](nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_de.docx) |
 
 ## Implementing Regulation (EU) 2024/2690

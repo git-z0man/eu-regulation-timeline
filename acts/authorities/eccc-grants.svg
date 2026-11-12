@@ -3,7 +3,7 @@
 <rect width="900" height="514" fill="#fff"/>
 <defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
 <text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Grants managed by the ECCC</text>
-<text x="24" y="60" font-size="14" fill="#454c53">EU contribution to the 229 projects the ECCC manages, EUR million, by the year a project starts.</text>
+<text x="24" y="60" font-size="14" fill="#454c53">EU contribution to the 230 projects the ECCC manages, EUR million, by the year a project starts.</text>
 <text x="24" y="78" font-size="14" fill="#454c53">From the Funding &amp; Tenders Portal; projects signed but not yet started included.</text>
 <line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
 <text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
@@ -34,11 +34,11 @@
 <text x="576.0" y="217.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">189.0</text>
 <text x="576.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2025</text>
 <text x="576.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">46 projects</text>
-<rect x="712.0" y="249.6" width="128.0" height="162.4" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Digital Europe 2026: 162.4</title></rect>
-<rect x="712.0" y="155.0" width="128.0" height="94.7" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Horizon Europe 2026: 94.7</title></rect>
-<text x="776.0" y="149.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">257.0</text>
+<rect x="712.0" y="244.6" width="128.0" height="167.4" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Digital Europe 2026: 167.4</title></rect>
+<rect x="712.0" y="150.0" width="128.0" height="94.7" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Horizon Europe 2026: 94.7</title></rect>
+<text x="776.0" y="144.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">262.0</text>
 <text x="776.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2026</text>
-<text x="776.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">67 projects</text>
+<text x="776.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">68 projects</text>
 <rect x="24" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
 <text x="44" y="474" font-size="13" fill="#14181c">Digital Europe</text>
 <rect x="149" y="463" width="14" height="14" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>

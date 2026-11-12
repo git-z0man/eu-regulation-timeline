@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-11",
- "previous": "2026-11-10",
+ "edition": "2026-11-12",
+ "previous": "2026-11-11",
  "stories": [
   {
    "id": "csa2/ep-vote/Committee-opinion-adopted-2026-11-10",
@@ -28,7 +28,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 83,
+   "score": 81,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -42,10 +42,10 @@
    "added": "2026-11-11"
   },
   {
-   "id": "digital-omnibus/ep-vote/Committee-opinion-adopted-2026-11-04",
+   "id": "digital-omnibus/ep-vote/Committee-opinion-adopted-2026-11-10",
    "kind": "ep-vote",
    "desk": "Legislation",
-   "date": "2026-11-04",
+   "date": "2026-11-10",
    "act": "digital-omnibus",
    "kicker": "Digital Omnibus",
    "kicker_de": "Digital-Omnibus",
@@ -65,9 +65,18 @@
      "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29"
     ]
    ],
-   "items": [],
+   "items": [
+    {
+     "label": "EP procedure file (2026-11-10)",
+     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29"
+    },
+    {
+     "label": "EP procedure file (2026-11-04)",
+     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29"
+    }
+   ],
    "brief": null,
-   "score": 71,
+   "score": 81,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -78,7 +87,89 @@
      "Gesetzgebung"
     ]
    },
-   "added": "2026-11-05"
+   "added": "2026-11-12"
+  },
+  {
+   "id": "medical-devices-simplification/mandate/WK-17333-26",
+   "kind": "mandate",
+   "desk": "Legislation",
+   "date": "2026-11-11",
+   "act": "medical-devices-simplification",
+   "kicker": "Simplification of the medical devices rules",
+   "kicker_de": "MDR/IVDR-Vereinfachung",
+   "headline": "Simplification of the medical devices rules: Consolidated version of draft compromise text for General Approach to the MDR Regulation (not public)",
+   "deck": "Council negotiating mandate. Draft until Coreper agrees it; trilogues follow.",
+   "headline_de": "MDR/IVDR-Vereinfachung: Verhandlungsmandat des Rates",
+   "deck_de": "Titel im Original: Consolidated version of draft compromise text for General Approach to the MDR Regulation (not public). Entwurf, bis Coreper es billigt; dann folgen Trilogverhandlungen.",
+   "facts": [
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/medical-devices-simplification.html"
+    ],
+    [
+     "Document",
+     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102785"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 68,
+   "crumbs": {
+    "en": [
+     "Simplification of the medical devices rules",
+     "Legislation"
+    ],
+    "de": [
+     "MDR/IVDR-Vereinfachung",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-12"
+  },
+  {
+   "id": "medical-devices-simplification/ep-vote/Committee-opinion-adopted-2026-11-10",
+   "kind": "ep-vote",
+   "desk": "Legislation",
+   "date": "2026-11-10",
+   "act": "medical-devices-simplification",
+   "kicker": "Simplification of the medical devices rules",
+   "kicker_de": "MDR/IVDR-Vereinfachung",
+   "headline": "Simplification of the medical devices rules: Committee opinion adopted",
+   "deck": "European Parliament.",
+   "headline_de": "MDR/IVDR-Vereinfachung: Stellungnahme eines Ausschusses angenommen",
+   "deck_de": "Europäisches Parlament.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/medical-devices-simplification.html"
+    ],
+    [
+     "Document",
+     "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0404%28COD%29"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 66,
+   "crumbs": {
+    "en": [
+     "Simplification of the medical devices rules",
+     "Legislation"
+    ],
+    "de": [
+     "MDR/IVDR-Vereinfachung",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "nis2-amendment/ep-vote/Committee-opinion-adopted-2026-11-10",
@@ -106,7 +197,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 68,
+   "score": 66,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -118,6 +209,98 @@
     ]
    },
    "added": "2026-11-11"
+  },
+  {
+   "id": "csa2/compromise/WK-17268-26",
+   "kind": "compromise",
+   "desk": "Legislation",
+   "date": "2026-11-09",
+   "act": "csa2",
+   "kicker": "Cybersecurity Act 2",
+   "kicker_de": "CSA2",
+   "headline": "Cybersecurity Act 2: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
+   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
+   "headline_de": "CSA2: Kompromisstext der Präsidentschaft",
+   "deck_de": "Titel im Original: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public). Vorschlag der Präsidentschaft, nicht die Position des Rates.",
+   "facts": [
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/csa2.html"
+    ],
+    [
+     "Document",
+     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 64,
+   "crumbs": {
+    "en": [
+     "Cybersecurity Act 2",
+     "Legislation"
+    ],
+    "de": [
+     "CSA2",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-12"
+  },
+  {
+   "id": "cra/enisa-survey-enisa-sme-cra-investments-survey-2026",
+   "kind": "consultation",
+   "desk": "Legislation",
+   "date": "2026-11-11",
+   "act": "cra",
+   "kicker": "Cyber Resilience Act",
+   "kicker_de": "CRA",
+   "headline": "Cyber Resilience Act: ENISA survey open",
+   "deck": "ENISA SME CRA Investments Survey 2026: ENISA collects data.",
+   "headline_de": "CRA: ENISA-Umfrage offen",
+   "deck_de": "ENISA SME CRA Investments Survey 2026: ENISA erhebt Daten.",
+   "facts": [
+    "ENISA",
+    "Survey"
+   ],
+   "facts_de": [
+    "ENISA",
+    "Umfrage"
+   ],
+   "links": [
+    [
+     "Act page",
+     "../acts/cra.html"
+    ],
+    [
+     "Survey",
+     "https://ec.europa.eu/eusurvey/runner/SME_CRA_Investments_2026"
+    ],
+    [
+     "Announcement",
+     "https://ec.europa.eu/eusurvey/runner/SME_CRA_Investments_2026"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 63,
+   "crumbs": {
+    "en": [
+     "Cyber Resilience Act",
+     "Legislation"
+    ],
+    "de": [
+     "CRA",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "medical-devices-simplification/ep-vote/PE788-813",
@@ -145,7 +328,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -196,7 +379,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 53,
+   "score": 51,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -208,6 +391,49 @@
     ]
    },
    "added": "2026-11-06"
+  },
+  {
+   "id": "nis2-amendment/compromise/WK-17271-26",
+   "kind": "compromise",
+   "desk": "Legislation",
+   "date": "2026-11-09",
+   "act": "nis2-amendment",
+   "kicker": "NIS-2 amendment",
+   "kicker_de": "NIS-2-Änderung",
+   "headline": "NIS-2 amendment: Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not public)",
+   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
+   "headline_de": "NIS-2-Änderung: Kompromisstext der Präsidentschaft",
+   "deck_de": "Titel im Original: Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not public). Vorschlag der Präsidentschaft, nicht die Position des Rates.",
+   "facts": [
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/nis2-amendment.html"
+    ],
+    [
+     "Document",
+     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 49,
+   "crumbs": {
+    "en": [
+     "NIS-2 amendment",
+     "Legislation"
+    ],
+    "de": [
+     "NIS-2-Änderung",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "csa2/released/2026-11-06",
@@ -264,7 +490,7 @@
     "de": "WK 14487/26 ADD 1: Clean version of the Presidency's first compromise text on Title IV (security of ICT supply chains, Articles 98-117) of the CSA2 proposal, WK 14487/26 ADD 1 of 22 September 2026, sent by the Presidency to the Horizontal Working Party on Cyber Issues; a draft, not law, which the Council has released only in part.",
     "lang": "en"
    },
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -303,7 +529,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Analysis"
@@ -340,7 +566,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Analysis"
@@ -381,7 +607,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -435,7 +661,7 @@
     }
    ],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -486,7 +712,7 @@
     "en": "No step was reached; it is still at Commission proposal, and the time it has waited there and the newer data on comparable files moved it.",
     "de": "Kein Schritt wurde erreicht; es steht weiter bei Kommissionsvorschlag, und die Wartezeit dort und neuere Daten zu vergleichbaren Verfahren haben ihn verschoben."
    },
-   "score": 45,
+   "score": 43,
    "ladder": {
     "place": {
      "en": [
@@ -566,7 +792,7 @@
     "de": "ST 13112/26: Presidency revised compromise text of 21 September 2026 (ST 13112/26) on the Digital Omnibus, circulated by the General Secretariat of the Council for the meeting of the Antici Group (Simplification) of 25 September 2026; it is the Presidency's text, not a Council position, and can still change.",
     "lang": "en"
    },
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -578,6 +804,51 @@
     ]
    },
    "added": "2026-11-05"
+  },
+  {
+   "id": "medical-devices-simplification/released/2026-11-10",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-10",
+   "act": "medical-devices-simplification",
+   "kicker": "Simplification of the medical devices rules",
+   "kicker_de": "MDR/IVDR-Vereinfachung",
+   "headline": "Council releases 1 Simplification of the medical devices rules document",
+   "deck": "1 note: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the … Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu MDR/IVDR-Vereinfachung frei",
+   "deck_de": "1 Vermerk: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the … Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/medical-devices-simplification.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 10875/26 ADD 1",
+     "date": "2026-07-28",
+     "title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-10875-2026-ADD-1/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 41,
+   "crumbs": {
+    "en": [
+     "Simplification of the medical devices rules",
+     "Legislation"
+    ],
+    "de": [
+     "MDR/IVDR-Vereinfachung",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "space-act/compromise/WK-17096-26",
@@ -609,7 +880,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -667,7 +938,7 @@
     }
    ],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -785,7 +1056,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -860,7 +1131,7 @@
     }
    ],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -922,7 +1193,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1076,7 +1347,7 @@
     "en": "A step further: EN 302 208 to Voting prEN; 4 without an earlier status on record (EN 301 721, EN 301 489-9, EN 301 443 …).",
     "de": "Einen Schritt weiter: EN 302 208 auf Umfrage prEN; 4 ohne früheren Stand in den Daten (EN 301 721, EN 301 489-9, EN 301 443 …)."
    },
-   "score": 34,
+   "score": 32,
    "tree": {
     "": {
      "ETSI": {
@@ -1221,7 +1492,7 @@
     "en": "No step was reached; it is still at Commission proposal, and the time it has waited there and the newer data on comparable files moved it.",
     "de": "Kein Schritt wurde erreicht; es steht weiter bei Kommissionsvorschlag, und die Wartezeit dort und neuere Daten zu vergleichbaren Verfahren haben ihn verschoben."
    },
-   "score": 32,
+   "score": 30,
    "ladder": {
     "place": {
      "en": [
@@ -1276,7 +1547,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -1330,7 +1601,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1402,7 +1673,7 @@
     "en": "2 only changed status within their step (Drafting prEN, Voting EN); 5 without an earlier status on record (EN 301 929, EN 300 386, EN 300 386 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 5 ohne früheren Stand in den Daten (EN 301 929, EN 300 386, EN 300 386 …)."
    },
-   "score": 31,
+   "score": 29,
    "tree": {
     "": {
      "ETSI": {
@@ -1596,7 +1867,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1650,7 +1921,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1700,7 +1971,7 @@
     "en": "A step further: prEN 18229-2 to Drafting EN.",
     "de": "Einen Schritt weiter: prEN 18229-2 auf Entwurf EN."
    },
-   "score": 25,
+   "score": 23,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1773,7 +2044,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1785,6 +2056,101 @@
     ]
    },
    "added": "2026-11-10"
+  },
+  {
+   "id": "public-procurement-act/meeting/2026-11-11",
+   "kind": "meeting",
+   "desk": "Committees",
+   "date": "2026-11-11",
+   "act": "public-procurement-act",
+   "kicker": "Public Procurement Act",
+   "kicker_de": "Vergabe-Rechtsakt (PPA)",
+   "headline": "Public Procurement Act: Council working party meeting",
+   "deck": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "headline_de": "Vergabe-Rechtsakt (PPA): Sitzung einer Ratsarbeitsgruppe",
+   "deck_de": "Tagesordnung des Rates (Titel im Original): Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/public-procurement-act.html"
+    ],
+    [
+     "Document",
+     "https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 18,
+   "crumbs": {
+    "en": [
+     "Public Procurement Act",
+     "Committees"
+    ],
+    "de": [
+     "Vergabe-Rechtsakt (PPA)",
+     "Ausschüsse"
+    ]
+   },
+   "added": "2026-11-12"
+  },
+  {
+   "id": "standardisation-regulation/committee/2026-11-11",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-11-11",
+   "act": "standardisation-regulation",
+   "kicker": "Regulation on European standardisation",
+   "kicker_de": "Normungs-VO",
+   "headline": "Regulation on European standardisation: 5 committee documents",
+   "deck": "MSP.",
+   "headline_de": "Normungs-VO: 5 Ausschussdokumente",
+   "deck_de": "MSP (Titel im Original): Minutes published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/standardisation-regulation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "Minutes published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141067/download"
+    },
+    {
+     "label": "Minutes published: 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-02-11)",
+     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141066/download"
+    },
+    {
+     "label": "Agenda published: 47th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-10-21)",
+     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140811/download"
+    },
+    {
+     "label": "Agenda published: 46th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-06-10)",
+     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140809/download"
+    },
+    {
+     "label": "Agenda published: 45th Meeting of the European Multi-Stakeholder Platform for ICT Standardisation (2026-02-11)",
+     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140807/download"
+    }
+   ],
+   "brief": null,
+   "score": 18,
+   "crumbs": {
+    "en": [
+     "Regulation on European standardisation",
+     "Committees"
+    ],
+    "de": [
+     "Normungs-VO",
+     "Ausschüsse"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "medical-devices-simplification/released/2026-10-29",
@@ -1818,7 +2184,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1830,6 +2196,39 @@
     ]
    },
    "added": "2026-10-30"
+  },
+  {
+   "id": "site/2026-11-11/procedures-forecast-column",
+   "kind": "site",
+   "desk": "On this site",
+   "date": "2026-11-11",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "New: the forecast publication date of every open procedure in the procedure overview",
+   "deck": "A column with the median month in which the act is likely to reach the Official Journal, and the middle half of the runs, linked to its forecast page.",
+   "headline_de": "Neu: das prognostizierte Datum der Veröffentlichung jedes offenen Verfahrens in der Verfahrensübersicht",
+   "deck_de": "Eine Spalte mit dem mittleren Monat, in dem der Rechtsakt voraussichtlich im Amtsblatt erscheint, und der mittleren Hälfte der Läufe, verlinkt mit seiner Prognoseseite.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Open",
+     "../procedures/index.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 13,
+   "crumbs": {
+    "en": [
+     "This site"
+    ],
+    "de": [
+     "Diese Seite"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "space-act/legislation/ST-14787-26",
@@ -1857,7 +2256,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -1901,7 +2300,7 @@
     "de": "Compared with the clean text of March 2026, it adds market surveillance by Member States under Regulation (EU) 2019/1020, lets a Member State self-certify spacecraft with substantial governmental involvement without a qualified technical body, narrows the obligation on space-based data to Earth observation data supplied to public contracting authorities and Union bodies (plus a landing-rights criterion for satellite communication), replaces the defence exclusions, and turns the environmental footprint into a life-cycle assessment with a standardisation request for the Union method. The cybersecurity provisions, which oblige space operators that are NIS-2 entities to follow the NIS-2 implementing act for space and apply equivalent measures to the other operators, and the incident reporting rules are unchanged apart from wording and corrected cross-references.",
     "lang": "en"
    },
-   "score": 14,
+   "score": 12,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -1914,128 +2313,6 @@
     ]
    },
    "added": "2026-11-10"
-  },
-  {
-   "id": "red/standards/M536/2026-W44",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-10-30",
-   "act": "red",
-   "kicker": "Radio Equipment Directive",
-   "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive · M/536: 3 status updates in week 44",
-   "deck": "ETSI 3. Furthest step: Voting EN.",
-   "headline_de": "Funkanlagenrichtlinie · M/536: 3 Statusänderungen in KW 44",
-   "deck_de": "ETSI 3. Weitester Schritt: Abstimmung EN.",
-   "facts": [
-    "M/536"
-   ],
-   "facts_de": [
-    "M/536"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../procedures/standardisation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 302 858: Drafting Stage – Early draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445"
-    },
-    {
-     "label": "EN 303 405: Work Item proposal endorsed by TG",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79558"
-    },
-    {
-     "label": "EN 301 843-7: Drafting Stage – Stable draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66908"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "1 only changed status within their step (Drafting prEN); 2 without an earlier status on record (EN 302 858, EN 303 405).",
-    "de": "1 nur mit neuem Status im selben Schritt (Entwurf prEN); 2 ohne früheren Stand in den Daten (EN 302 858, EN 303 405)."
-   },
-   "score": 14,
-   "tree": {
-    "": {
-     "ETSI": {
-      "ERM WGSRR": [
-       {
-        "project": "EN 302 858",
-        "title": "Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 GHz to 24,25 GHz range for vehicular applications; Harmonised standard 24 GHz narrowband vehicular radar",
-        "now": "Drafting Stage – Early draft",
-        "date": "2026-10-30",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "ERM WGDMR": [
-       {
-        "project": "EN 303 405",
-        "title": "Harmonised Standard for access to radio spectrum HEN for Analogue and Digital PMR446",
-        "now": "Work Item proposal endorsed by TG",
-        "date": "2026-10-28",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79558",
-        "step": [
-         4,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "ERM WGEMC": [
-       {
-        "project": "EN 301 843-7",
-        "title": "ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harmonised Standard for electromagnetic compatibility; Part 7: Specific conditions for Maritime Broadband Radiolink equipment EMC for Maritime Broadband Radiolink equipment",
-        "now": "Drafting Stage – Stable draft",
-        "date": "2026-10-28",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66908",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/536",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "Radio Equipment Directive",
-     "Standards",
-     "M/536",
-     "ETSI"
-    ],
-    "de": [
-     "Funkanlagenrichtlinie",
-     "Normen",
-     "M/536",
-     "ETSI"
-    ]
-   },
-   "added": "2026-10-28"
   },
   {
    "id": "site/2026-11-10/about-costs",
@@ -2059,7 +2336,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 13,
+   "score": 11,
    "crumbs": {
     "en": [
      "This site"
@@ -2092,7 +2369,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 10,
+   "score": 8,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2148,7 +2425,7 @@
     }
    ],
    "brief": null,
-   "score": 10,
+   "score": 8,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2160,6 +2437,41 @@
     ]
    },
    "added": "2026-11-06"
+  },
+  {
+   "id": "cyber-solidarity-act/committee/2026-11-12",
+   "kind": "committee",
+   "desk": "Committees",
+   "date": "2026-11-12",
+   "act": "cyber-solidarity-act",
+   "kicker": "Cyber Solidarity Act",
+   "kicker_de": "CSOA",
+   "headline": "Summary record published: 18th meeting of the Digital Europe Programme Committee - 16/02/2026 (2026-02-16)",
+   "deck": "Digital Europe Programme Coordination Committee.",
+   "headline_de": "CSOA: Ausschussdokument veröffentlicht",
+   "deck_de": "Digital Europe Programme Coordination Committee (Titel im Original): Summary record published: 18th meeting of the Digital Europe Programme Committee - 16/02/2026 (2026-02-16)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Committee page",
+     "../procedures/cyber-solidarity-act.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 5,
+   "crumbs": {
+    "en": [
+     "Cyber Solidarity Act",
+     "Committees"
+    ],
+    "de": [
+     "CSOA",
+     "Ausschüsse"
+    ]
+   },
+   "added": "2026-11-12"
   },
   {
    "id": "espr/committee/2026-11-03",
@@ -2183,7 +2495,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 4,
+   "score": 2,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2222,7 +2534,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 4,
+   "score": 2,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -2257,7 +2569,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 3,
+   "score": 1,
    "crumbs": {
     "en": [
      "This site"
@@ -2290,7 +2602,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 3,
+   "score": 1,
    "crumbs": {
     "en": [
      "This site"
@@ -2300,6 +2612,80 @@
     ]
    },
    "added": "2026-11-06"
+  },
+  {
+   "id": "red/standards/M536/2026-W44",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-10-30",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive · M/536: new status for EN 302 858",
+   "deck": "Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 GHz to 24,25 GHz range for vehicular applications; Harmonised standard 24 GHz narrowband vehicular radar. Step 2 of 8: Drafting prEN.",
+   "headline_de": "Funkanlagenrichtlinie · M/536: neuer Status für EN 302 858",
+   "deck_de": "Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 GHz to 24,25 GHz range for vehicular applications; Harmonised standard 24 GHz narrowband vehicular radar. Schritt 2 von 8: Entwurf prEN.",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 302 858: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445"
+    }
+   ],
+   "brief": null,
+   "score": 0,
+   "tree": {
+    "": {
+     "ETSI": {
+      "ERM WGSRR": [
+       {
+        "project": "EN 302 858",
+        "title": "Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 GHz to 24,25 GHz range for vehicular applications; Harmonised standard 24 GHz narrowband vehicular radar",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-10-30",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
+    ]
+   },
+   "added": "2026-10-28"
   },
   {
    "id": "public-procurement-act/meeting/2026-10-30",
@@ -2327,7 +2713,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2339,50 +2725,6 @@
     ]
    },
    "added": "2026-11-03"
-  },
-  {
-   "id": "ai-act/committee/2026-10-28",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-10-28",
-   "act": "ai-act",
-   "kicker": "Artificial Intelligence Act",
-   "kicker_de": "KI-VO",
-   "headline": "Artificial Intelligence Act: 2 committee documents",
-   "deck": "European Artificial Intelligence Board.",
-   "headline_de": "KI-VO: 2 Ausschussdokumente",
-   "deck_de": "European Artificial Intelligence Board (Titel im Original): Working document published: Eighth meeting of the European Artificial Intelligence Board (2026-06-11)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/ai-act.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "Working document published: Eighth meeting of the European Artificial Intelligence Board (2026-06-11)",
-     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138612/download"
-    },
-    {
-     "label": "Other document published: Ninth meeting of the European Artificial Intelligence Board (2026-09-17)",
-     "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download"
-    }
-   ],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "Artificial Intelligence Act",
-     "Committees"
-    ],
-    "de": [
-     "KI-VO",
-     "Ausschüsse"
-    ]
-   },
-   "added": "2026-10-28"
   },
   {
    "id": "site/2026-10-29/news-daily",
@@ -2406,7 +2748,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -11,
+   "score": -13,
    "crumbs": {
     "en": [
      "This site"
@@ -2439,7 +2781,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -21,
+   "score": -23,
    "crumbs": {
     "en": [
      "Regulation on European standardisation",
@@ -2454,20 +2796,6 @@
   }
  ],
  "ahead": [
-  {
-   "date": "2026-11-11",
-   "act": "Cloud and AI Development Act",
-   "text": "Feedback closes: Proposal for a regulation, Cloud and AI Development Act",
-   "url": "../procedures/cloud-ai-development-act.html",
-   "top": true
-  },
-  {
-   "date": "2026-11-11",
-   "act": "Net Zero Industry Act",
-   "text": "Feedback closes: Draft implementing regulation, Implementing Regulation on a standardised reporting template …",
-   "url": "../procedures/nzia.html",
-   "top": true
-  },
   {
    "date": "2026-11-13",
    "act": "European Health Data Space Regulation",

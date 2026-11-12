@@ -2,19 +2,19 @@
   {
     "name": "euvd-kev-month",
     "title": "Known exploited vulnerabilities added per month",
-    "note": "Entries added to the EU KEV catalogue (ENISA with the CSIRTs network) and to CISA's KEV catalogue, by the month of the earliest catalogue date; both: in both catalogues. Data as of 10 Nov 2026.",
+    "note": "Entries added to the EU KEV catalogue (ENISA with the CSIRTs network) and to CISA's KEV catalogue, by the month of the earliest catalogue date; both: in both catalogues. Data as of 11 Nov 2026.",
     "page": "cra.html"
   },
   {
     "name": "euvd-kev-origin",
     "title": "Who brought entries into the EU KEV catalogue",
-    "note": "EU KEV entries by the source the EUVD names, before and since 11 Sep 2026. The source is the CSIRT or body that reported the exploitation, not the reporting route. Data as of 10 Nov 2026.",
+    "note": "EU KEV entries by the source the EUVD names, before and since 11 Sep 2026. The source is the CSIRT or body that reported the exploitation, not the reporting route. Data as of 11 Nov 2026.",
     "page": "cra.html"
   },
   {
     "name": "euvd-records-month",
     "title": "Records published in the EU Vulnerability Database per month",
-    "note": "All EUVD records by month of publication, whoever assigned them. Data as of 10 Nov 2026.",
+    "note": "All EUVD records by month of publication, whoever assigned them. Data as of 11 Nov 2026.",
     "page": "nis2.html"
   }
 ]
