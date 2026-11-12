@@ -15,7 +15,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 15 Nov 2026 | [CRA](cra.md) | ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security Advisories | ENISA |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)](product-digitalisation-directive.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0133(COD) (forecasts) |
 | 23 Nov 2026 | [Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)](product-digitalisation-regulation.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0134(COD) (forecasts) |
-| 30 Nov 2026 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 1, 15) | Standardisation request, Annex (deadlines) |
+| 30 Nov 2026 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 1, 15), extended from 2026-08-30 by M/606 Amd 1 (subject to the ESOs' acceptance) | Amending decision C(2026)7861, Annex (deadlines) |
 | 30 Nov 2026 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN 18229-1 | CEN-CENELEC work programme |
 | 1 Dec 2026 | [NIS-2](nis2.md) | ENISA survey closes: ENISA NIS360 survey 2027 | ENISA |
 | 14 Dec 2026 | [Industrial Accelerator Act – COM(2026) 100 (proposal)](industrial-accelerator-act.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2026/0068(COD) (forecasts) |
@@ -25,7 +25,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | Q1 2027 | [NZIA](nzia.md) | Implementing act planned: Standardised template for Member States’ reporting under the Net-Zero Industry Act | Commission Register of delegated acts (RegDel) |
 | 7 Jan 2027 | [NSR](standardisation-revision.md) | Feedback closes: Proposal for a regulation, Revision of the Standardisation Regulation | European Commission, "Have your say" |
 | 18 Jan 2027 | [Simplification of the medical devices rules – COM(2025) 1023 (proposal)](medical-devices-simplification.md) | Indicative plenary sitting date, 1st reading | EP Legislative Observatory, procedure file 2025/0404(COD) (forecasts) |
-| 31 Jan 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 16–41) | Standardisation request, Annex (deadlines) |
+| 31 Jan 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 16–41), extended from 2026-10-30 by M/606 Amd 1 (subject to the ESOs' acceptance) | Amending decision C(2026)7861, Annex (deadlines) |
 | 8 Feb 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: EN IEC 62443-3-3:2019/prAA, EN IEC 62443-4-2:2019/prAA:2026 | CEN-CENELEC work programme |
 | 9 Feb 2027 | [ESPR](espr.md) | Feedback closes: Call for evidence (impact assessment), Ecodesign requirements on product repairability | European Commission, "Have your say" |
 | 9 Feb 2027 | [ESPR](espr.md) | Feedback closes: Public consultation, Ecodesign requirements on product repairability | European Commission, "Have your say" |
@@ -42,7 +42,7 @@ Where each procedure stands, what happened last and what comes next. One page pe
 | 26 Jul 2027 | [AI Act](ai-act.md) | Formal vote forecast by CEN-CENELEC: prEN ISO/IEC 23282 | CEN-CENELEC work programme |
 | 3 Aug 2027 | [CRA](cra.md) | Formal vote forecast by CEN-CENELEC: prEN 50770-1, prEN 50770-2, prEN 50770-3, prEN 50770-4, prEN 50770-5, prEN 50770-6 | CEN-CENELEC work programme |
 | 23 Aug 2027 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN IEC 60204-1 | CEN-CENELEC work programme |
-| 30 Oct 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 10–14, 2–9) | Standardisation request, Annex (deadlines) |
+| 30 Oct 2027 | [CRA](cra.md) | M/606: deadline for the ESOs to adopt the requested standards (items 2–14) | Standardisation request, Annex (deadlines) |
 | 21 Mar 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: EN IEC 60204-32:2025/prAA | CEN-CENELEC work programme |
 | 9 Oct 2028 | [MR](machinery-regulation.md) | Formal vote forecast by CEN-CENELEC: prEN ISO 13857 rev | CEN-CENELEC work programme |
 | 20 Jan 2034 | [MR](machinery-regulation.md) | M/605: phase 2 deadline for the requested standards (80 items) | Standardisation request, Annex (deadlines) |

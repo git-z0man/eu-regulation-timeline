@@ -90,6 +90,69 @@
    "added": "2026-11-12"
   },
   {
+   "id": "cra/sreq/M606-Amd-1",
+   "kind": "sreq",
+   "desk": "Standards",
+   "date": "2026-11-10",
+   "act": "cra",
+   "kicker": "Cyber Resilience Act",
+   "kicker_de": "CRA",
+   "headline": "Cyber Resilience Act · M/606: deadlines for the harmonised standards extended",
+   "deck": "The Commission amended standardisation request M/606 on 10 Nov 2026 (C(2026)7861, M/606 Amd 1), replacing its Annex I: items 1 and 15 from 30 Aug 2026 to 30 Nov 2026, items 16–41 from 30 Oct 2026 to 31 Jan 2027; items 2–14 unchanged (30 Oct 2027).",
+   "headline_de": "CRA · M/606: Fristen für die harmonisierten Normen verlängert",
+   "deck_de": "Die Kommission hat den Normungsauftrag M/606 am 10. Nov. 2026 geändert (C(2026)7861, M/606 Amd 1) und seinen Anhang I ersetzt: Nr. 1 und 15 vom 30.8.2026 auf den 30.11.2026, Nr. 16–41 vom 30.10.2026 auf den 31.1.2027; Nr. 2–14 unverändert (30.10.2027).",
+   "facts": [
+    "M/606 Amd 1",
+    "C(2026)7861",
+    "28 of 41 deadlines moved",
+    "Subject to the ESOs' acceptance"
+   ],
+   "facts_de": [
+    "M/606 Amd 1",
+    "C(2026)7861",
+    "28 von 41 Fristen verschoben",
+    "Vorbehaltlich der Annahme durch die ESO"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/cra.html#standardisation"
+    ],
+    [
+     "Decision (Register of Commission documents)",
+     "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2026)7861&lang=en"
+    ],
+    [
+     "eNorm",
+     "https://ec.europa.eu/growth/tools-databases/enorm/mandate/606AMD1_en"
+    ]
+   ],
+   "items": [],
+   "brief": {
+    "status": "rule",
+    "en": "The new deadlines are conditional. Art. 2: if CEN, Cenelec or ETSI “indicate that they do not accept the amendments … within a month of receiving it”, the Decision ceases to apply and C(2025)618 in its version of 3 February 2025 continues to apply. Harmonised standards developed under the request give a presumption of conformity once cited in the Official Journal; the deadlines bind the standardisation organisations, not manufacturers.",
+    "de": "Die neuen Fristen gelten unter Vorbehalt. Art. 2: Nimmt CEN, Cenelec oder ETSI „die Änderungen gemäß Artikel 1 des vorliegenden Beschlusses nicht innerhalb eines Monats nach seinem Erhalt an“, tritt der Beschluss außer Kraft und C(2025)618 in seiner Fassung vom 3. Februar 2025 gilt weiterhin. Harmonisierte Normen aus dem Auftrag begründen eine Konformitätsvermutung, sobald sie im Amtsblatt genannt sind; die Fristen binden die Normungsorganisationen, nicht die Hersteller."
+   },
+   "score": 71,
+   "ladder": {
+    "request": "M/606",
+    "org": null
+   },
+   "crumbs": {
+    "en": [
+     "Cyber Resilience Act",
+     "Standards",
+     "M/606"
+    ],
+    "de": [
+     "CRA",
+     "Normen",
+     "M/606"
+    ]
+   },
+   "added": "2026-11-12"
+  },
+  {
    "id": "medical-devices-simplification/mandate/WK-17333-26",
    "kind": "mandate",
    "desk": "Legislation",
