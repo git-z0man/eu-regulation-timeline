@@ -32,7 +32,7 @@
 <text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="28.0" y="579.3">contracts awarded by the authorities we follow (search API)</tspan></text>
 <rect x="20.0" y="600.0" width="420.0" height="46.0" fill="#e3eeef" stroke="#0f5a63"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="616.2">EU Funding &amp; Tenders Portal</tspan></text>
-<text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="28.0" y="635.3">calls, funded projects and their partners (search API)</tspan></text>
+<text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="28.0" y="635.3">calls, funded projects and their partners (search API); cascade calls only on a project&#x27;s website</tspan></text>
 <rect x="20.0" y="656.0" width="420.0" height="46.0" fill="#f6f6f4" stroke="#8a9096"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="28.0" y="672.2">foerderinfo.bund.de</tspan></text>
 <text font-size="9.5" fill="#454c53" text-anchor="start"><tspan x="28.0" y="691.3">German federal calls (RSS), standing programmes (Projektträger pages)</tspan></text>
