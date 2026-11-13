@@ -1,6 +1,6 @@
 # Forecast
 
-When the open procedures are likely to reach the Official Journal. Data of 2026-11-12; our own assessment from public sources, CC BY 4.0.
+When the open procedures are likely to reach the Official Journal. Data of 2026-11-13; our own assessment from public sources, CC BY 4.0.
 
 | Act | Where it stands | Official Journal, median | Half of the runs | Eight in ten | Before the 2029 elections | Next step on track until |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,9 +14,9 @@ When the open procedures are likely to reach the Official Journal. Data of 2026-
 | [EU Space Act](space-act.html) | referred to committee since 8 Sep 2025 | Jul 2028 | Jan 2028 – Nov 2029 | Nov 2027 – Apr 2033 | 71 % | 2026-08-10 (late since 11 Aug 2026; next: EP committee vote) |
 | [Cloud and AI Development Act](cloud-ai-development-act.html) | referred to committee since 17 Sep 2026 | Oct 2028 | Mar 2028 – Apr 2029 | Oct 2027 – Dec 2030 | 77 % | 2027-09-02 (on track; next: EP committee vote) |
 | [Chips Act 2.0](chips-act-2.html) | referred to committee since 14 Sep 2026 | Oct 2028 | Mar 2028 – Apr 2029 | Nov 2027 – Nov 2030 | 79 % | 2027-09-13 (on track; next: EP committee vote) |
-| [New Standardisation Regulation](standardisation-revision.html) | proposal since 6 Oct 2026 | Oct 2028 | Jun 2028 – Oct 2029 | Jan 2028 – Jan 2032 | 72 % | 2026-12-15 (on track; next: Referral to EP committee) |
+| [New Standardisation Regulation](standardisation-revision.html) | proposal since 6 Oct 2026 | Oct 2028 | Jun 2028 – Oct 2029 | Jan 2028 – Jan 2032 | 71 % | 2026-12-15 (on track; next: Referral to EP committee) |
 | [Quantum Act](quantum-act.html) | proposal assumed Nov 2026 | Nov 2028 | May 2028 – Oct 2029 | Dec 2027 – Sep 2030 | 73 % | – |
-| [Public Procurement Act](public-procurement-act.html) | proposal since 9 Sep 2026 | Jan 2029 | Jul 2028 – Nov 2029 | Feb 2028 – Mar 2032 | 72 % | 2026-11-18 (on track; next: Referral to EP committee) |
+| [Public Procurement Act](public-procurement-act.html) | referred to committee since 11 Nov 2026 | Nov 2028 | May 2028 – Oct 2029 | Nov 2027 – Jan 2031 | 72 % | 2027-11-17 (on track; next: EP committee vote) |
 | [European Product Act](epa.html) | proposal assumed Dec 2026 | Feb 2029 | Jul 2028 – Jan 2030 | Jan 2028 – Mar 2031 | 61 % | – |
 
 ## European Product Act: scenarios

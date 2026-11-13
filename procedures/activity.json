@@ -1,6 +1,98 @@
 {
  "items": [
   {
+   "date": "2026-11-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Closing of approval procedure",
+   "doc": "EN 302 186",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
+   "key": "eso-REN/SES-00477-2026-11-13",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-13",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Closing of approval procedure",
+   "doc": "EN 301 447",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+   "key": "eso-REN/SES-00433-2026-11-13",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-13",
+   "act": "machinery-regulation",
+   "title": "MR",
+   "actor": "CLC/TC 44X",
+   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Approved",
+   "doc": "EN 50742:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
+   "key": "eso-EN 50742:2026-2026-11-13",
+   "page": "machinery-regulation",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-13",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "FprEN 40000-1-3:2026 – Cybersecurity requirements for products with digital elements - Part 1-3: Vulnerability ha: Under Approval",
+   "doc": "FprEN 40000-1-3:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81343,25&cs=15781C8F1FFD5C2E76320E51B347858F5",
+   "key": "eso-JT013090-2026-11-13",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-12",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-13 – Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial R: Drafting Stage – Work Item proposal endorsed by TG",
+   "doc": "EN 301 908-13",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454",
+   "key": "eso-REN/MSG-TFES-1519-2026-11-12",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-12",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-19 (Correlation between articles and recitals), listed as not public since 2026-10-21",
+   "doc": "WK 16163/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-16163-2026-INIT/en/pdf",
+   "key": "WK 16163/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-19",
+   "doc_title": "Correlation between articles and recitals",
+   "withheld_since": "2026-10-21",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-12",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-19 (Consolidated table with comments from by the following Member States AT, BE, BG, CZ, DE, …), listed as not public since 2026-10-28",
+   "doc": "WK 16142/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-16142-2026-INIT/en/pdf",
+   "key": "WK 16142/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-19",
+   "doc_title": "Consolidated table with comments from by the following Member States AT, BE, BG, CZ, DE, …",
+   "withheld_since": "2026-10-28",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
    "date": "2026-11-12",
    "act": "cyber-solidarity-act",
    "title": "CSOA",
@@ -77,7 +169,7 @@
    "act": "medical-devices-simplification",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
-   "label": "Consolidated version of draft compromise text for General Approach to the MDR Regulation (not public)",
+   "label": "Consolidated version of draft compromise text for General Approach (not public)",
    "doc": "WK 17333/26",
    "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102785",
    "key": "WK 17333/26",
@@ -95,6 +187,30 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf",
    "key": "CM 4835/26 REV 2",
    "page": "public-procurement-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "European Parliament",
+   "label": "Referral to committee announced in plenary",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29",
+   "key": "Referral to committee announced in plenary",
+   "page": "public-procurement-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-11",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "Space Working Party meeting: Examination (14787/26)",
+   "doc": "CM 4859/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4859-2026-INIT/en/pdf",
+   "key": "CM 4859/26",
+   "page": "space-act",
    "type": "Legislation"
   },
   {
@@ -2151,18 +2267,6 @@
   },
   {
    "date": "2026-10-09",
-   "act": "machinery-regulation",
-   "title": "MR",
-   "actor": "CLC/TC 44X",
-   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Under Approval",
-   "doc": "EN 50742:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
-   "key": "eso-EN 50742:2026-2026-10-09",
-   "page": "machinery-regulation",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-09",
    "act": "ai-act",
    "title": "AI Act",
    "actor": "Artificial Intelligence Committee",
@@ -3738,30 +3842,6 @@
    "doc": "EN 301 908-26",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
    "key": "eso-DEN/MSG-TFES-1505-2026-08-27",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-08-20",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 302 186",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
-   "key": "eso-REN/SES-00477-2026-08-20",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-08-20",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 301 447",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
-   "key": "eso-REN/SES-00433-2026-08-20",
    "page": null,
    "type": "Standardisation"
   },
@@ -6931,18 +7011,6 @@
    "key": "PE784.261",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-03-05",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "prEN 40000-1-3 – Cybersecurity requirements for products with digital elements - Part 1-3: Vulnerability ha: Under Approval",
-   "doc": "prEN 40000-1-3",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81343,25&cs=15781C8F1FFD5C2E76320E51B347858F5",
-   "key": "eso-JT013090-2026-03-05",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-03-04",

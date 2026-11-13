@@ -4,7 +4,7 @@
 <defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
 <text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Who brought entries into the EU KEV catalogue</text>
 <text x="24" y="60" font-size="14" fill="#454c53">EU KEV entries by source named in the EUVD, before and since 11 Sep 2026</text>
-<text x="24" y="78" font-size="14" fill="#454c53">Data as of 11 Nov 2026.</text>
+<text x="24" y="78" font-size="14" fill="#454c53">Data as of 12 Nov 2026.</text>
 <line x1="204.0" x2="204.0" y1="106" y2="618" stroke="#454c53"/>
 <text x="204.0" y="634" text-anchor="middle" font-size="12" fill="#454c53">0</text>
 <line x1="308.3" x2="308.3" y1="106" y2="618" stroke="#eceff1"/>
@@ -79,5 +79,5 @@
 <text x="44" y="662" font-size="13" fill="#14181c">before 11 Sep 2026</text>
 <rect x="176" y="651" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
 <text x="196" y="662" font-size="13" fill="#14181c">since 11 Sep 2026</text>
-<text x="24" y="694" font-size="11.5" fill="#5b646b">Source: ENISA, EU Vulnerability Database; full statistics: git-z0man.github.io/single-reporting-platform/euvd/stats.html</text><text x="24" y="711" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 11 Nov 2026</text>
+<text x="24" y="694" font-size="11.5" fill="#5b646b">Source: ENISA, EU Vulnerability Database; full statistics: git-z0man.github.io/single-reporting-platform/euvd/stats.html</text><text x="24" y="711" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 12 Nov 2026</text>
 </svg>

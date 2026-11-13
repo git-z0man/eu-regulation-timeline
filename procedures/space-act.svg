@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="871" viewBox="0 0 1800 871" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="871" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-10">
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-13">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – EU Space Act – COM(2025) 335 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 10 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 13 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -120,8 +120,8 @@
 <rect x="20.0" y="763.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="776.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="776.1">no events yet</tspan></text>
-<line x1="1566.4" y1="440.0" x2="1566.4" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1566.4" y="797.1">as of 10 Nov 2026</tspan></text>
+<line x1="1574.1" y1="440.0" x2="1574.1" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1574.1" y="797.1">as of 13 Nov 2026</tspan></text>
 <rect x="267.8" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="271.8" y="462.1">25 Jun 2025 · Commission proposal (COM(2025) 335)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><title>25 Jun 2025: Commission proposal – COM(2025) 335</title><polygon points="271.7704918032787,465 279.7704918032787,473 271.7704918032787,481 263.7704918032787,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -162,7 +162,7 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1087.7" y="679.1">08 May 2026 · Preparation of the Council (Competitiveness (Internal Market, Industry, … (ST 8861/26)</tspan></text></a>
 <rect x="1278.5" y="696.0" width="501.5" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1282.5" y="705.1">29 Oct 2026 · Regulation on the safety, resilience and sustainability of space activities … (ST 15118/26)</tspan></text></a>
-<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="287.2" y="704.9">Space Working Party: 26 meetings (1 Jul 2025 – 3 Nov 2026; ● each)</tspan></text>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="287.2" y="704.9">Space Working Party: 27 meetings (1 Jul 2025 – 11 Nov 2026; ● each)</tspan></text>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf" target="_blank"><title>1 Jul 2025: Space Working Party meeting (ATTACHES): Presentation by the Commission (doc. ) (10935/25+ADD 1); Impact … – CM 3393/25 REV 1</title><polygon points="287.21311475409834,712.5 290.71311475409834,716 287.21311475409834,719.5 283.71311475409834,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3597-2025-INIT/en/pdf" target="_blank"><title>14 Jul 2025: Space Working Party meeting (morning only on Tuesday 15 July): Presentation by the Commission (doc. ) … – CM 3597/25</title><polygon points="320.672131147541,712.5 324.172131147541,716 320.672131147541,719.5 317.172131147541,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3839-2025-REV-1/en/pdf" target="_blank"><title>3 Sep 2025: Space Working Party meeting: Exchange of views (doc. ) (10935/25+ADD 1) – CM 3839/25 REV 1</title><polygon points="451.9344262295082,712.5 455.4344262295082,716 451.9344262295082,719.5 448.4344262295082,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
@@ -195,8 +195,9 @@
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf" target="_blank"><title>11 Sep 2026: Space Working Party meeting (morning only): Exchange of views (7806/26) – CM 3999/26</title><polygon points="1411.9508196721313,712.5 1415.4508196721313,716 1411.9508196721313,719.5 1408.4508196721313,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf" target="_blank"><title>29 Oct 2026: Regulation on the safety, resilience and sustainability of space activities in the Union … – ST 15118/26</title><polygon points="1535.4918032786886,710.5 1540.9918032786886,716 1535.4918032786886,721.5 1529.9918032786886,716" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf" target="_blank"><title>3 Nov 2026: Space Working Party meeting - ATTACHES FORMAT in the afternoon: Information from the Presidency (14787/26) – CM 4724/26</title><polygon points="1548.3606557377047,712.5 1551.8606557377047,716 1548.3606557377047,719.5 1544.8606557377047,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4859-2026-INIT/en/pdf" target="_blank"><title>11 Nov 2026: Space Working Party meeting: Examination (14787/26) – CM 4859/26</title><polygon points="1568.950819672131,712.5 1572.450819672131,716 1568.950819672131,719.5 1565.450819672131,716" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="818.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="836.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="862.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 10 Nov 2026</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="862.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 13 Nov 2026</tspan></text>
 </svg>

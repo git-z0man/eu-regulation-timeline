@@ -36,7 +36,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-19 | WK 16128/26 | council-note | Presentation at the Working Party on Technical Harmonisation on 19 October 2026 | not public\* | – | – | – |
 | 2026-11-04 | [WK 17067/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101495) | council-note | Member States comments | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017067%2F2026%20INIT%20%28New%20Standardisation%20Regulation%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017067%2F2026%20INIT%20of%204%20November%202026%3A%20Member%20States%20comments%0A%20%20%28interinstitutional%20file%202026%2F0307%28COD%29%2C%20New%20Standardisation%20Regulation%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17067-2026-INIT) | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
 
 ## Texts as Markdown
 

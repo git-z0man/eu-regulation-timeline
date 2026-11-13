@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="736" viewBox="0 0 1800 736" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="758" viewBox="0 0 1800 758" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="1800" height="736" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-12">
+<rect width="1800" height="758" fill="#ffffff"/>
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-13">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0265(COD). State as of 12 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see public-procurement-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0265(COD). State as of 13 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see public-procurement-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -20,6 +20,7 @@
 <rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">Referral to committee announced in plenary, 11 Nov 2026</tspan></text>
 <rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
@@ -71,14 +72,14 @@
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
 <line x1="1470.0" y1="388.0" x2="1470.0" y2="403.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
-<line x1="210.0" y1="440.0" x2="210.0" y2="652.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="517.8" y1="440.0" x2="517.8" y2="652.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="210.0" y1="440.0" x2="210.0" y2="674.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="517.8" y1="440.0" x2="517.8" y2="674.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="517.8" y="435.1">Oct</tspan></text>
-<line x1="835.9" y1="440.0" x2="835.9" y2="652.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1143.8" y1="440.0" x2="1143.8" y2="652.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1461.9" y1="440.0" x2="1461.9" y2="652.0" stroke="#b5bac0" stroke-width="1"/>
+<line x1="835.9" y1="440.0" x2="835.9" y2="674.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1143.8" y1="440.0" x2="1143.8" y2="674.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1461.9" y1="440.0" x2="1461.9" y2="674.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1461.9" y="435.1">Jan 2027</tspan></text>
-<line x1="1780.0" y1="440.0" x2="1780.0" y2="652.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="674.0" stroke="#e3e6e9" stroke-width="1"/>
 <rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
 <text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
@@ -86,33 +87,35 @@
 <rect x="20.0" y="494.0" width="6.0" height="20.0" fill="#7b8794" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="507.9">Consultative bodies</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="507.1">no events yet</tspan></text>
-<rect x="20.0" y="518.0" width="1760.0" height="28.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="522.0" width="6.0" height="20.0" fill="#1baf7a" stroke="none" opacity="0.35"/>
-<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="535.9">European Parliament</tspan></text>
-<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="535.1">no events yet</tspan></text>
-<rect x="20.0" y="546.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="550.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
-<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="563.9">Trilogues (informal)</tspan></text>
-<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="563.1">no events yet</tspan></text>
-<rect x="20.0" y="574.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="578.0" width="6.0" height="42.0" fill="#4a3aa7" stroke="none"/>
-<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="602.9">Council</tspan></text>
-<rect x="20.0" y="624.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="628.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
-<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="641.9">Signature and publication</tspan></text>
-<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="641.1">no events yet</tspan></text>
-<line x1="948.8" y1="440.0" x2="948.8" y2="652.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="948.8" y="662.1">as of 12 Nov 2026</tspan></text>
+<rect x="20.0" y="518.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="522.0" width="6.0" height="42.0" fill="#1baf7a" stroke="none"/>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="546.9">European Parliament</tspan></text>
+<rect x="20.0" y="568.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="572.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="585.9">Trilogues (informal)</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="585.1">no events yet</tspan></text>
+<rect x="20.0" y="596.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="600.0" width="6.0" height="42.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="624.9">Council</tspan></text>
+<rect x="20.0" y="646.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="650.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="663.9">Signature and publication</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="663.1">no events yet</tspan></text>
+<line x1="959.1" y1="440.0" x2="959.1" y2="674.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="959.1" y="684.1">as of 13 Nov 2026</tspan></text>
 <rect x="288.1" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="292.1" y="462.1">09 Sep 2026 · Commission proposal (COM(2026) 590)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590" target="_blank"><title>9 Sep 2026: Commission proposal – COM(2026) 590</title><polygon points="292.09150326797385,465 300.09150326797385,473 292.09150326797385,481 284.09150326797385,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
-<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="384.4" y="595.9">Working Party on Competitiveness and Growth: 4 meetings (18 Sep 2026 – 11 Nov 2026; ● each)</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf" target="_blank"><title>18 Sep 2026: Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of … – CM 4104/26</title><polygon points="384.44444444444446,603.5 387.94444444444446,607 384.44444444444446,610.5 380.94444444444446,607" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf" target="_blank"><title>2 Oct 2026: Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … – CM 4305/26</title><polygon points="528.1045751633987,603.5 531.6045751633987,607 528.1045751633987,610.5 524.6045751633987,607" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf" target="_blank"><title>30 Oct 2026: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … – CM 4602/26</title><polygon points="815.4248366013072,603.5 818.9248366013072,607 815.4248366013072,610.5 811.9248366013072,607" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf" target="_blank"><title>11 Nov 2026: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … – CM 4835/26 REV 2</title><polygon points="938.562091503268,603.5 942.062091503268,607 938.562091503268,610.5 935.062091503268,607" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="683.9">Notes</tspan></text>
-<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="701.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
+<rect x="934.6" y="531.0" width="271.2" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="938.6" y="540.1">11 Nov 2026 · Referral to committee announced in plenary</tspan></text>
+<g><title>11 Nov 2026: Referral to committee announced in plenary</title><polygon points="938.562091503268,545.5 944.062091503268,551 938.562091503268,556.5 933.062091503268,551" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="384.4" y="617.9">Working Party on Competitiveness and Growth: 4 meetings (18 Sep 2026 – 11 Nov 2026; ● each)</tspan></text>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf" target="_blank"><title>18 Sep 2026: Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of … – CM 4104/26</title><polygon points="384.44444444444446,625.5 387.94444444444446,629 384.44444444444446,632.5 380.94444444444446,629" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf" target="_blank"><title>2 Oct 2026: Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … – CM 4305/26</title><polygon points="528.1045751633987,625.5 531.6045751633987,629 528.1045751633987,632.5 524.6045751633987,629" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf" target="_blank"><title>30 Oct 2026: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … – CM 4602/26</title><polygon points="815.4248366013072,625.5 818.9248366013072,629 815.4248366013072,632.5 811.9248366013072,629" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf" target="_blank"><title>11 Nov 2026: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … – CM 4835/26 REV 2</title><polygon points="938.562091503268,625.5 942.062091503268,629 938.562091503268,632.5 935.062091503268,629" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="705.9">Notes</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="723.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="727.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 12 Nov 2026</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="749.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 13 Nov 2026</tspan></text>
 </svg>

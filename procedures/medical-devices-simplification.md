@@ -1,6 +1,6 @@
 # Legislative procedure – Simplification of the medical devices rules – COM(2025) 1023 (proposal)
 
-Procedure 2025/0404(COD), as of 12 Nov 2026.
+Procedure 2025/0404(COD), as of 13 Nov 2026.
 Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg), [medical-devices-simplification.pdf](medical-devices-simplification.pdf) · Web page: [medical-devices-simplification.html](medical-devices-simplification.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 - **Stage:** EP committee stage
 - **Parliament:** draft report 30 Jun 2026
 - **Council:** draft mandate before Coreper (WK 17333/26 of 11 Nov 2026)
-- **Latest activity:** 11 Nov 2026 · Council: Consolidated version of draft compromise text for General Approach to the MDR Regulation (WK 17333/26)
+- **Latest activity:** 11 Nov 2026 · Council: Consolidated version of draft compromise text for General Approach (WK 17333/26)
 - **Next steps:** 18 Jan 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (WK 17333/26)
 
 ## Events
@@ -122,9 +122,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-05 | [ST 14673/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101904) | council-note | Exchange of views | not public\* | – | – | – |
 | 2026-11-05 | ST 14673/26 ADD 1 | council-note | Exchange of views | not public\* | – | – | – |
 | 2026-11-09 | [WK 17204/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102308) | council-note | Presidency Flash for the meeting of the Working Party on Pharmaceuticals and Medical Devices on 12 and 13 November 2026 | not public\* | – | – | – |
-| 2026-11-11 | [WK 17333/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102785) | council-position | Consolidated version of draft compromise text for General Approach to the MDR Regulation | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017333%2F2026%20INIT%20%28Simplification%20of%20the%20medical%20devices%20rules%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017333%2F2026%20INIT%20of%2011%20November%202026%3A%20Consolidated%20version%20of%20draft%20compromise%20text%20for%20General%20Approach%20to%20the%20MDR%20Regulation%0A%20%20%28interinstitutional%20file%202025%2F0404%28COD%29%2C%20Simplification%20of%20the%20medical%20devices%20rules%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17333-2026-INIT) | – | – |
+| 2026-11-11 | [WK 17333/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102785) | council-position | Consolidated version of draft compromise text for General Approach | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017333%2F2026%20INIT%20%28Simplification%20of%20the%20medical%20devices%20rules%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017333%2F2026%20INIT%20of%2011%20November%202026%3A%20Consolidated%20version%20of%20draft%20compromise%20text%20for%20General%20Approach%0A%20%20%28interinstitutional%20file%202025%2F0404%28COD%29%2C%20Simplification%20of%20the%20medical%20devices%20rules%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17333-2026-INIT) | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
 
 ## Texts as Markdown
 

@@ -815,6 +815,1062 @@ All texts of this act as one file: [guidance-commission-nis2-art4-guidelines-202
 | --- | --- | --- | --- | --- | --- | --- |
 | 2023-09-18_final | final | 52023XC0918(01) | [en](guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.en.md) | [de](guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/nis2-art4-guidelines-2023/2023-09-18_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52023XC0918(01)) |
 
+## PQ E-000145/2025
+
+`guidance/commission/pq-e-10-2025-000145` – Question E-000145/2025 and the Commission's answer: Simplifying requirements for trade in collectors’ items
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-01-15_question | question | – | [en](guidance/commission/pq-e-10-2025-000145/2025-01-15_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000145/2025-01-15_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000145/E-10-2025-000145_en.docx) |
+| 2025-06-04_final | final | – | [en](guidance/commission/pq-e-10-2025-000145/2025-06-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000145/2025-06-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000145-ASW/E-10-2025-000145-ASW_en.docx) |
+
+## PQ E-000318/2025
+
+`guidance/commission/pq-e-10-2025-000318` – Question E-000318/2025 and the Commission's answer: Harmonised standards for intelligent transport systems under Radio Equipment Directive 2014/53/EU
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-01-24_question | question | – | [en](guidance/commission/pq-e-10-2025-000318/2025-01-24_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000318/2025-01-24_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000318/E-10-2025-000318_en.docx) |
+| 2025-04-23_final | final | – | [en](guidance/commission/pq-e-10-2025-000318/2025-04-23_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000318/2025-04-23_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000318-ASW/E-10-2025-000318-ASW_en.docx) |
+
+## PQ E-000510/2025
+
+`guidance/commission/pq-e-10-2025-000510` – Question E-000510/2025 and the Commission's answer: Delayed evaluation report on the functioning of ENISA and the European cybersecurity certification framework
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-05_question | question | – | [en](guidance/commission/pq-e-10-2025-000510/2025-02-05_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000510/2025-02-05_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000510/E-10-2025-000510_en.docx) |
+| 2025-04-04_final | final | – | [en](guidance/commission/pq-e-10-2025-000510/2025-04-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000510/2025-04-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000510-ASW/E-10-2025-000510-ASW_en.docx) |
+
+## PQ E-000722/2025
+
+`guidance/commission/pq-e-10-2025-000722` – Question E-000722/2025 and the Commission's answer: Environmental impact of the Commission’s AI Continent strategy
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-17_question | question | – | [en](guidance/commission/pq-e-10-2025-000722/2025-02-17_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000722/2025-02-17_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000722/E-10-2025-000722_en.docx) |
+| 2025-05-14_final | final | – | [en](guidance/commission/pq-e-10-2025-000722/2025-05-14_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000722/2025-05-14_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000722-ASW/E-10-2025-000722-ASW_en.docx) |
+
+## PQ E-000733/2025
+
+`guidance/commission/pq-e-10-2025-000733` – Question E-000733/2025 and the Commission's answer: Music created by artificial intelligence – competition between humans and machines?
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-18_question | question | – | [en](guidance/commission/pq-e-10-2025-000733/2025-02-18_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000733/2025-02-18_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000733/E-10-2025-000733_en.docx) |
+| 2025-05-05_final | final | – | [en](guidance/commission/pq-e-10-2025-000733/2025-05-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000733/2025-05-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000733-ASW/E-10-2025-000733-ASW_en.docx) |
+
+## PQ E-000760/2025
+
+`guidance/commission/pq-e-10-2025-000760` – Question E-000760/2025 and the Commission's answer: Restoring European AI-driven innovation, competitiveness and investment in the EU by addressing challenges in the GPAI Code of Practice and the implementation of the GDPR
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-02-19_question | question | – | [en](guidance/commission/pq-e-10-2025-000760/2025-02-19_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000760/2025-02-19_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000760/E-10-2025-000760_en.docx) |
+| 2025-05-21_final | final | – | [en](guidance/commission/pq-e-10-2025-000760/2025-05-21_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000760/2025-05-21_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000760-ASW/E-10-2025-000760-ASW_en.docx) |
+
+## PQ E-000906/2025
+
+`guidance/commission/pq-e-10-2025-000906` – Question E-000906/2025 and the Commission's answer: Digital Trade Agreement with Singapore
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-04_question | question | – | [en](guidance/commission/pq-e-10-2025-000906/2025-03-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000906/2025-03-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-000906/E-10-2025-000906_en.docx) |
+| 2025-05-05_final | final | – | [en](guidance/commission/pq-e-10-2025-000906/2025-05-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-000906/2025-05-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-000906-ASW/E-10-2025-000906-ASW_en.docx) |
+
+## PQ E-001002/2025
+
+`guidance/commission/pq-e-10-2025-001002` – Question E-001002/2025 and the Commission's answer: ENISA agreement with the Republic of Korea
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-07_question | question | – | [en](guidance/commission/pq-e-10-2025-001002/2025-03-07_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001002/2025-03-07_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001002/E-10-2025-001002_en.docx) |
+| 2025-05-05_final | final | – | [en](guidance/commission/pq-e-10-2025-001002/2025-05-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001002/2025-05-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001002-ASW/E-10-2025-001002-ASW_en.docx) |
+
+## PQ E-001083/2025
+
+`guidance/commission/pq-e-10-2025-001083` – Question E-001083/2025 and the Commission's answer: Menstrual products: transparency and health risks
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-12_question | question | – | [en](guidance/commission/pq-e-10-2025-001083/2025-03-12_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001083/2025-03-12_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001083/E-10-2025-001083_en.docx) |
+| 2025-06-16_final | final | – | [en](guidance/commission/pq-e-10-2025-001083/2025-06-16_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001083/2025-06-16_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001083-ASW/E-10-2025-001083-ASW_en.docx) |
+
+## PQ E-001084/2025
+
+`guidance/commission/pq-e-10-2025-001084` – Question E-001084/2025 and the Commission's answer: The impact of red tape on European competitiveness
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-13_question | question | – | [en](guidance/commission/pq-e-10-2025-001084/2025-03-13_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001084/2025-03-13_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001084/E-10-2025-001084_en.docx) |
+| 2025-06-03_final | final | – | [en](guidance/commission/pq-e-10-2025-001084/2025-06-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001084/2025-06-03_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001084-ASW/E-10-2025-001084-ASW_en.docx) |
+
+## PQ E-001171/2025
+
+`guidance/commission/pq-e-10-2025-001171` – Question E-001171/2025 and the Commission's answer: Implementation of the revised Waste Framework Directive – criteria for extended producer responsibility fees for textiles
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-19_question | question | – | [en](guidance/commission/pq-e-10-2025-001171/2025-03-19_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001171/2025-03-19_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001171/E-10-2025-001171_en.docx) |
+| 2025-05-08_final | final | – | [en](guidance/commission/pq-e-10-2025-001171/2025-05-08_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001171/2025-05-08_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001171-ASW/E-10-2025-001171-ASW_en.docx) |
+
+## PQ E-001194/2025
+
+`guidance/commission/pq-e-10-2025-001194` – Question E-001194/2025 and the Commission's answer: Support for small and medium-sized enterprises and challenges posed by the new Directive on liability for defective products
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-20_question | question | – | [en](guidance/commission/pq-e-10-2025-001194/2025-03-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001194/2025-03-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001194/E-10-2025-001194_en.docx) |
+| 2025-06-04_final | final | – | [en](guidance/commission/pq-e-10-2025-001194/2025-06-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001194/2025-06-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001194-ASW/E-10-2025-001194-ASW_en.docx) |
+
+## PQ E-001244/2025
+
+`guidance/commission/pq-e-10-2025-001244` – Question E-001244/2025 and the Commission's answer: Supporting small and medium-sized enterprises to adapt to the Cyber Resilience Act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-03-25_question | question | – | [en](guidance/commission/pq-e-10-2025-001244/2025-03-25_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001244/2025-03-25_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001244/E-10-2025-001244_en.docx) |
+| 2025-06-04_final | final | – | [en](guidance/commission/pq-e-10-2025-001244/2025-06-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001244/2025-06-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001244-ASW/E-10-2025-001244-ASW_en.docx) |
+
+## PQ E-001364/2025
+
+`guidance/commission/pq-e-10-2025-001364` – Question E-001364/2025 and the Commission's answer: Review of the EU Cybersecurity Act – timeline and strategic priorities
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-04-02_question | question | – | [en](guidance/commission/pq-e-10-2025-001364/2025-04-02_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001364/2025-04-02_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001364/E-10-2025-001364_en.docx) |
+| 2025-05-21_final | final | – | [en](guidance/commission/pq-e-10-2025-001364/2025-05-21_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001364/2025-05-21_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001364-ASW/E-10-2025-001364-ASW_en.docx) |
+
+## PQ E-001416/2025
+
+`guidance/commission/pq-e-10-2025-001416` – Question E-001416/2025 and the Commission's answer: Strengthening EU support for Cyprus in market surveillance of electrical appliances
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-04-08_question | question | – | [en](guidance/commission/pq-e-10-2025-001416/2025-04-08_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001416/2025-04-08_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-001416/E-10-2025-001416_en.docx) |
+| 2025-07-07_final | final | – | [en](guidance/commission/pq-e-10-2025-001416/2025-07-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-001416/2025-07-07_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-001416-ASW/E-10-2025-001416-ASW_en.docx) |
+
+## PQ E-002249/2025
+
+`guidance/commission/pq-e-10-2025-002249` – Question E-002249/2025 and the Commission's answer: Advanced AI system disobeys commands to shut down: the need for regulatory intervention
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-04_question | question | – | [en](guidance/commission/pq-e-10-2025-002249/2025-06-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002249/2025-06-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002249/E-10-2025-002249_en.docx) |
+| 2025-07-29_final | final | – | [en](guidance/commission/pq-e-10-2025-002249/2025-07-29_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002249/2025-07-29_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002249-ASW/E-10-2025-002249-ASW_en.docx) |
+
+## PQ E-002333/2025
+
+`guidance/commission/pq-e-10-2025-002333` – Question E-002333/2025 and the Commission's answer: Impact of generative AI on European dubbing industry
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-11_question | question | – | [en](guidance/commission/pq-e-10-2025-002333/2025-06-11_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002333/2025-06-11_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002333/E-10-2025-002333_en.docx) |
+| 2025-08-04_final | final | – | [en](guidance/commission/pq-e-10-2025-002333/2025-08-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002333/2025-08-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002333-ASW/E-10-2025-002333-ASW_en.docx) |
+
+## PQ E-002341/2025
+
+`guidance/commission/pq-e-10-2025-002341` – Question E-002341/2025 and the Commission's answer: Impact of AI on creative sectors
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-11_question | question | – | [en](guidance/commission/pq-e-10-2025-002341/2025-06-11_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002341/2025-06-11_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002341/E-10-2025-002341_en.docx) |
+| 2025-07-24_final | final | – | [en](guidance/commission/pq-e-10-2025-002341/2025-07-24_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002341/2025-07-24_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002341-ASW/E-10-2025-002341-ASW_en.docx) |
+
+## PQ E-002404/2025
+
+`guidance/commission/pq-e-10-2025-002404` – Question E-002404/2025 and the Commission's answer: Illegal landfills and other environmental infringements in Greece
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-14_question | question | – | [en](guidance/commission/pq-e-10-2025-002404/2025-06-14_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002404/2025-06-14_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002404/E-10-2025-002404_en.docx) |
+| 2025-08-27_final | final | – | [en](guidance/commission/pq-e-10-2025-002404/2025-08-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002404/2025-08-27_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002404-ASW/E-10-2025-002404-ASW_en.docx) |
+
+## PQ E-002415/2025
+
+`guidance/commission/pq-e-10-2025-002415` – Question E-002415/2025 and the Commission's answer: Protection of Hungarian citizens’ fundamental rights in the context of biometric identification and surveillance at public gatherings
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-16_question | question | – | [en](guidance/commission/pq-e-10-2025-002415/2025-06-16_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002415/2025-06-16_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002415/E-10-2025-002415_en.docx) |
+| 2025-08-01_final | final | – | [en](guidance/commission/pq-e-10-2025-002415/2025-08-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002415/2025-08-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002415-ASW/E-10-2025-002415-ASW_en.docx) |
+
+## PQ E-002796/2025
+
+`guidance/commission/pq-e-10-2025-002796` – Question E-002796/2025 and the Commission's answer: Ensuring public transparency in the General-Purpose AI Code of Practice
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-09_question | question | – | [en](guidance/commission/pq-e-10-2025-002796/2025-07-09_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002796/2025-07-09_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002796/E-10-2025-002796_en.docx) |
+| 2025-08-20_final | final | – | [en](guidance/commission/pq-e-10-2025-002796/2025-08-20_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002796/2025-08-20_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002796-ASW/E-10-2025-002796-ASW_en.docx) |
+
+## PQ E-002831/2025
+
+`guidance/commission/pq-e-10-2025-002831` – Question E-002831/2025 and the Commission's answer: Exemptions to the ban on the destruction of unsold consumer products
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-10_question | question | – | [en](guidance/commission/pq-e-10-2025-002831/2025-07-10_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002831/2025-07-10_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-002831/E-10-2025-002831_en.docx) |
+| 2025-08-27_final | final | – | [en](guidance/commission/pq-e-10-2025-002831/2025-08-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-002831/2025-08-27_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-002831-ASW/E-10-2025-002831-ASW_en.docx) |
+
+## PQ E-003060/2025
+
+`guidance/commission/pq-e-10-2025-003060` – Question E-003060/2025 and the Commission's answer: Risks to European security posed by the contract between Pedro Sánchez’s Government and the Chinese company Huawei
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-23_question | question | – | [en](guidance/commission/pq-e-10-2025-003060/2025-07-23_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003060/2025-07-23_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003060/E-10-2025-003060_en.docx) |
+| 2025-09-17_final | final | – | [en](guidance/commission/pq-e-10-2025-003060/2025-09-17_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003060/2025-09-17_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003060-ASW/E-10-2025-003060-ASW_en.docx) |
+
+## PQ E-003423/2025
+
+`guidance/commission/pq-e-10-2025-003423` – Question E-003423/2025 and the Commission's answer: Mandatory introduction of ill-conceived vehicle systems under the General Product Safety Regulation
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-04_question | question | – | [en](guidance/commission/pq-e-10-2025-003423/2025-09-04_question.en.md) | [de](guidance/commission/pq-e-10-2025-003423/2025-09-04_question.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003423/2025-09-04_question.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003423/E-10-2025-003423_de.docx) |
+| 2025-10-16_final | final | – | [en](guidance/commission/pq-e-10-2025-003423/2025-10-16_final.en.md) | [de](guidance/commission/pq-e-10-2025-003423/2025-10-16_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003423/2025-10-16_final.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003423-ASW/E-10-2025-003423-ASW_de.docx) |
+
+## PQ E-003667/2025
+
+`guidance/commission/pq-e-10-2025-003667` – Question E-003667/2025 and the Commission's answer: Cyberattack on check-in providers at European airports and resilience against hybrid threats and external actors
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-22_question | question | – | [en](guidance/commission/pq-e-10-2025-003667/2025-09-22_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003667/2025-09-22_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003667/E-10-2025-003667_en.docx) |
+| 2025-11-18_final | final | – | [en](guidance/commission/pq-e-10-2025-003667/2025-11-18_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003667/2025-11-18_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003667-ASW/E-10-2025-003667-ASW_en.docx) |
+
+## PQ E-003674/2025
+
+`guidance/commission/pq-e-10-2025-003674` – Question E-003674/2025 and the Commission's answer: Emotional dependence on artificial intelligence (AI) systems
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-23_question | question | – | [en](guidance/commission/pq-e-10-2025-003674/2025-09-23_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003674/2025-09-23_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003674/E-10-2025-003674_en.docx) |
+| 2025-11-07_final | final | – | [en](guidance/commission/pq-e-10-2025-003674/2025-11-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003674/2025-11-07_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003674-ASW/E-10-2025-003674-ASW_en.docx) |
+
+## PQ E-003745/2025
+
+`guidance/commission/pq-e-10-2025-003745` – Question E-003745/2025 and the Commission's answer: Opportunity to reform the Artificial Intelligence Act before 2026
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-26_question | question | – | [en](guidance/commission/pq-e-10-2025-003745/2025-09-26_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003745/2025-09-26_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003745/E-10-2025-003745_en.docx) |
+| 2025-11-17_final | final | – | [en](guidance/commission/pq-e-10-2025-003745/2025-11-17_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003745/2025-11-17_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003745-ASW/E-10-2025-003745-ASW_en.docx) |
+
+## PQ E-003771/2025
+
+`guidance/commission/pq-e-10-2025-003771` – Question E-003771/2025 and the Commission's answer: Application of the NIS2 Directive
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-29_question | question | – | [en](guidance/commission/pq-e-10-2025-003771/2025-09-29_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003771/2025-09-29_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003771/E-10-2025-003771_en.docx) |
+| 2025-11-18_final | final | – | [en](guidance/commission/pq-e-10-2025-003771/2025-11-18_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003771/2025-11-18_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003771-ASW/E-10-2025-003771-ASW_en.docx) |
+
+## PQ E-003869/2025
+
+`guidance/commission/pq-e-10-2025-003869` – Question E-003869/2025 and the Commission's answer: Industrial accelerator act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-10-02_question | question | – | [en](guidance/commission/pq-e-10-2025-003869/2025-10-02_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003869/2025-10-02_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-003869/E-10-2025-003869_en.docx) |
+| 2025-12-05_final | final | – | [en](guidance/commission/pq-e-10-2025-003869/2025-12-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-003869/2025-12-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-003869-ASW/E-10-2025-003869-ASW_en.docx) |
+
+## PQ E-004013/2025
+
+`guidance/commission/pq-e-10-2025-004013` – Question E-004013/2025 and the Commission's answer: Follow-up: protection of Hungarian citizens against biometric surveillance: follow-up of question for written answer E-002415/2025
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-10-13_question | question | – | [en](guidance/commission/pq-e-10-2025-004013/2025-10-13_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004013/2025-10-13_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-004013/E-10-2025-004013_en.docx) |
+| 2026-03-05_final | final | – | [en](guidance/commission/pq-e-10-2025-004013/2026-03-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004013/2026-03-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-004013-ASW/E-10-2025-004013-ASW_en.docx) |
+
+## PQ E-004022/2025
+
+`guidance/commission/pq-e-10-2025-004022` – Question E-004022/2025 and the Commission's answer: Creating a European network of AI-powered advanced screening centres
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-10-14_question | question | – | [en](guidance/commission/pq-e-10-2025-004022/2025-10-14_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004022/2025-10-14_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-004022/E-10-2025-004022_en.docx) |
+| 2025-12-01_final | final | – | [en](guidance/commission/pq-e-10-2025-004022/2025-12-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004022/2025-12-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-004022-ASW/E-10-2025-004022-ASW_en.docx) |
+
+## PQ E-004184/2025
+
+`guidance/commission/pq-e-10-2025-004184` – Question E-004184/2025 and the Commission's answer: Sliding scale for steel (Ecodesign for Sustainable Products Regulation and the proposed industrial decarbonisation accelerator act)
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-10-23_question | question | – | [en](guidance/commission/pq-e-10-2025-004184/2025-10-23_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004184/2025-10-23_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-004184/E-10-2025-004184_en.docx) |
+| 2025-12-19_final | final | – | [en](guidance/commission/pq-e-10-2025-004184/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004184/2025-12-19_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-004184-ASW/E-10-2025-004184-ASW_en.docx) |
+
+## PQ E-004566/2025
+
+`guidance/commission/pq-e-10-2025-004566` – Question E-004566/2025 and the Commission's answer: Digital Omnibus 2: safeguards against function creep in EU digital infrastructure if GDPR rules are relaxed
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-17_question | question | – | [en](guidance/commission/pq-e-10-2025-004566/2025-11-17_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004566/2025-11-17_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-004566/E-10-2025-004566_en.docx) |
+| 2026-01-28_final | final | – | [en](guidance/commission/pq-e-10-2025-004566/2026-01-28_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004566/2026-01-28_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-004566-ASW/E-10-2025-004566-ASW_en.docx) |
+
+## PQ E-004632/2025
+
+`guidance/commission/pq-e-10-2025-004632` – Question E-004632/2025 and the Commission's answer: European digital sovereignty and the drafting process of the ‘Digital Omnibus’
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-20_question | question | – | [en](guidance/commission/pq-e-10-2025-004632/2025-11-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004632/2025-11-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-004632/E-10-2025-004632_en.docx) |
+| 2026-02-16_final | final | – | [en](guidance/commission/pq-e-10-2025-004632/2026-02-16_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-004632/2026-02-16_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-004632-ASW/E-10-2025-004632-ASW_en.docx) |
+
+## PQ E-005052/2025
+
+`guidance/commission/pq-e-10-2025-005052` – Question E-005052/2025 and the Commission's answer: ‘Sovereign cloud’ and future framework for the cloud services market in the EU
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-22_question | question | – | [en](guidance/commission/pq-e-10-2025-005052/2025-12-22_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-005052/2025-12-22_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2025-005052/E-10-2025-005052_en.docx) |
+| 2026-02-23_final | final | – | [en](guidance/commission/pq-e-10-2025-005052/2026-02-23_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2025-005052/2026-02-23_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2025-005052-ASW/E-10-2025-005052-ASW_en.docx) |
+
+## PQ E-000099/2026
+
+`guidance/commission/pq-e-10-2026-000099` – Question E-000099/2026 and the Commission's answer: Request for urgent EU measures against AI-enabled non-consensual sexualised content involving minors on platform X
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-13_question | question | – | [en](guidance/commission/pq-e-10-2026-000099/2026-01-13_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000099/2026-01-13_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000099/E-10-2026-000099_en.docx) |
+| 2026-03-09_final | final | – | [en](guidance/commission/pq-e-10-2026-000099/2026-03-09_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000099/2026-03-09_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000099-ASW/E-10-2026-000099-ASW_en.docx) |
+
+## PQ E-000117/2026
+
+`guidance/commission/pq-e-10-2026-000117` – Question E-000117/2026 and the Commission's answer: Insufficient ambition in the Digital Omnibus for Europe’s digital and industrial competitiveness
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-14_question | question | – | [en](guidance/commission/pq-e-10-2026-000117/2026-01-14_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000117/2026-01-14_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000117/E-10-2026-000117_en.docx) |
+| 2026-03-09_final | final | – | [en](guidance/commission/pq-e-10-2026-000117/2026-03-09_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000117/2026-03-09_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000117-ASW/E-10-2026-000117-ASW_en.docx) |
+
+## PQ E-000174/2026
+
+`guidance/commission/pq-e-10-2026-000174` – Question E-000174/2026 and the Commission's answer: Investigation of AI tools providing ‘undressing applications’
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-15_question | question | – | [en](guidance/commission/pq-e-10-2026-000174/2026-01-15_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000174/2026-01-15_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000174/E-10-2026-000174_en.docx) |
+| 2026-03-05_final | final | – | [en](guidance/commission/pq-e-10-2026-000174/2026-03-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000174/2026-03-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000174-ASW/E-10-2026-000174-ASW_en.docx) |
+
+## PQ E-000198/2026
+
+`guidance/commission/pq-e-10-2026-000198` – Question E-000198/2026 and the Commission's answer: The Commission must intervene to combat non-consensual production of sexual and deepfake AI content on social media
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-20_question | question | – | [en](guidance/commission/pq-e-10-2026-000198/2026-01-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000198/2026-01-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000198/E-10-2026-000198_en.docx) |
+| 2026-03-19_final | final | – | [en](guidance/commission/pq-e-10-2026-000198/2026-03-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000198/2026-03-19_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000198-ASW/E-10-2026-000198-ASW_en.docx) |
+
+## PQ E-000202/2026
+
+`guidance/commission/pq-e-10-2026-000202` – Question E-000202/2026 and the Commission's answer: Ban AI-powered nudity and undressing applications from the EU market
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-20_question | question | – | [en](guidance/commission/pq-e-10-2026-000202/2026-01-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000202/2026-01-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000202/E-10-2026-000202_en.docx) |
+| 2026-03-09_final | final | – | [en](guidance/commission/pq-e-10-2026-000202/2026-03-09_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000202/2026-03-09_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000202-ASW/E-10-2026-000202-ASW_en.docx) |
+
+## PQ E-000255/2026
+
+`guidance/commission/pq-e-10-2026-000255` – Question E-000255/2026 and the Commission's answer: Safety of e-scooters: control faults and CE certification in the EU
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-22_question | question | – | [en](guidance/commission/pq-e-10-2026-000255/2026-01-22_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000255/2026-01-22_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000255/E-10-2026-000255_en.docx) |
+| 2026-03-11_final | final | – | [en](guidance/commission/pq-e-10-2026-000255/2026-03-11_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000255/2026-03-11_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000255-ASW/E-10-2026-000255-ASW_en.docx) |
+
+## PQ E-000256/2026
+
+`guidance/commission/pq-e-10-2026-000256` – Question E-000256/2026 and the Commission's answer: AI companion chatbots: protecting minors under EU law
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-22_question | question | – | [en](guidance/commission/pq-e-10-2026-000256/2026-01-22_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000256/2026-01-22_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000256/E-10-2026-000256_en.docx) |
+| 2026-03-18_final | final | – | [en](guidance/commission/pq-e-10-2026-000256/2026-03-18_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000256/2026-03-18_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000256-ASW/E-10-2026-000256-ASW_en.docx) |
+
+## PQ E-000449/2026
+
+`guidance/commission/pq-e-10-2026-000449` – Question E-000449/2026 and the Commission's answer: Import into and sale on the EU market of non-compliant vending machines and coffee machines from third countries
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-04_question | question | – | [en](guidance/commission/pq-e-10-2026-000449/2026-02-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000449/2026-02-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000449/E-10-2026-000449_en.docx) |
+| 2026-03-20_final | final | – | [en](guidance/commission/pq-e-10-2026-000449/2026-03-20_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000449/2026-03-20_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000449-ASW/E-10-2026-000449-ASW_en.docx) |
+
+## PQ E-000632/2026
+
+`guidance/commission/pq-e-10-2026-000632` – Question E-000632/2026 and the Commission's answer: Legal responsibility and the fight against AI-generated racist content
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-13_question | question | – | [en](guidance/commission/pq-e-10-2026-000632/2026-02-13_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000632/2026-02-13_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000632/E-10-2026-000632_en.docx) |
+| 2026-04-15_final | final | – | [en](guidance/commission/pq-e-10-2026-000632/2026-04-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000632/2026-04-15_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000632-ASW/E-10-2026-000632-ASW_en.docx) |
+
+## PQ E-000867/2026
+
+`guidance/commission/pq-e-10-2026-000867` – Question E-000867/2026 and the Commission's answer: Implications of the European Industrial Accelerator Act for the EU-UK strategic economic partnership
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-03_question | question | – | [en](guidance/commission/pq-e-10-2026-000867/2026-03-03_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000867/2026-03-03_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000867/E-10-2026-000867_en.docx) |
+| 2026-05-21_final | final | – | [en](guidance/commission/pq-e-10-2026-000867/2026-05-21_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000867/2026-05-21_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000867-ASW/E-10-2026-000867-ASW_en.docx) |
+
+## PQ E-000888/2026
+
+`guidance/commission/pq-e-10-2026-000888` – Question E-000888/2026 and the Commission's answer: Implementation timeline for the digital battery passport under Regulation (EU) 2023/1542
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-04_question | question | – | [en](guidance/commission/pq-e-10-2026-000888/2026-03-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000888/2026-03-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000888/E-10-2026-000888_en.docx) |
+| 2026-05-04_final | final | – | [en](guidance/commission/pq-e-10-2026-000888/2026-05-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000888/2026-05-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000888-ASW/E-10-2026-000888-ASW_en.docx) |
+
+## PQ E-000973/2026
+
+`guidance/commission/pq-e-10-2026-000973` – Question E-000973/2026 and the Commission's answer: Cybersecurity breach in Spain
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-09_question | question | – | [en](guidance/commission/pq-e-10-2026-000973/2026-03-09_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000973/2026-03-09_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000973/E-10-2026-000973_en.docx) |
+| 2026-05-19_final | final | – | [en](guidance/commission/pq-e-10-2026-000973/2026-05-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000973/2026-05-19_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000973-ASW/E-10-2026-000973-ASW_en.docx) |
+
+## PQ E-000998/2026
+
+`guidance/commission/pq-e-10-2026-000998` – Question E-000998/2026 and the Commission's answer: Fraud in the cultural and creative sectors through misuse of artificial intelligence
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-11_question | question | – | [en](guidance/commission/pq-e-10-2026-000998/2026-03-11_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000998/2026-03-11_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000998/E-10-2026-000998_en.docx) |
+| 2026-07-01_final | final | – | [en](guidance/commission/pq-e-10-2026-000998/2026-07-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000998/2026-07-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000998-ASW/E-10-2026-000998-ASW_en.docx) |
+
+## PQ E-001030/2026
+
+`guidance/commission/pq-e-10-2026-001030` – Question E-001030/2026 and the Commission's answer: The ‘Antwerp Declaration’
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-11_question | question | – | [en](guidance/commission/pq-e-10-2026-001030/2026-03-11_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001030/2026-03-11_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001030/E-10-2026-001030_en.docx) |
+| 2026-05-20_final | final | – | [en](guidance/commission/pq-e-10-2026-001030/2026-05-20_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001030/2026-05-20_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001030-ASW/E-10-2026-001030-ASW_en.docx) |
+
+## PQ E-001071/2026
+
+`guidance/commission/pq-e-10-2026-001071` – Question E-001071/2026 and the Commission's answer: ‘One Europe, One Market’ – clarification regarding Regulation (EU) 2023/988 in order to reduce the fragmentation of textile trade in the EU single market
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-16_question | question | – | [en](guidance/commission/pq-e-10-2026-001071/2026-03-16_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001071/2026-03-16_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001071/E-10-2026-001071_en.docx) |
+| 2026-05-18_final | final | – | [en](guidance/commission/pq-e-10-2026-001071/2026-05-18_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001071/2026-05-18_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001071-ASW/E-10-2026-001071-ASW_en.docx) |
+
+## PQ E-001101/2026
+
+`guidance/commission/pq-e-10-2026-001101` – Question E-001101/2026 and the Commission's answer: Industrial Accelerator Act and the risk of regulatory complexity for EU industry
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-18_question | question | – | [en](guidance/commission/pq-e-10-2026-001101/2026-03-18_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001101/2026-03-18_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001101/E-10-2026-001101_en.docx) |
+| 2026-05-04_final | final | – | [en](guidance/commission/pq-e-10-2026-001101/2026-05-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001101/2026-05-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001101-ASW/E-10-2026-001101-ASW_en.docx) |
+
+## PQ E-001138/2026
+
+`guidance/commission/pq-e-10-2026-001138` – Question E-001138/2026 and the Commission's answer: AI Act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-18_question | question | – | [en](guidance/commission/pq-e-10-2026-001138/2026-03-18_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001138/2026-03-18_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001138/E-10-2026-001138_en.docx) |
+| 2026-06-03_final | final | – | [en](guidance/commission/pq-e-10-2026-001138/2026-06-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001138/2026-06-03_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001138-ASW/E-10-2026-001138-ASW_en.docx) |
+
+## PQ E-001157/2026
+
+`guidance/commission/pq-e-10-2026-001157` – Question E-001157/2026 and the Commission's answer: Third-party litigation funding in the EU and the Product Liability Directive
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-19_question | question | – | [en](guidance/commission/pq-e-10-2026-001157/2026-03-19_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001157/2026-03-19_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001157/E-10-2026-001157_en.docx) |
+| 2026-05-05_final | final | – | [en](guidance/commission/pq-e-10-2026-001157/2026-05-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001157/2026-05-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001157-ASW/E-10-2026-001157-ASW_en.docx) |
+
+## PQ E-001210/2026
+
+`guidance/commission/pq-e-10-2026-001210` – Question E-001210/2026 and the Commission's answer: Compliance costs of the AI Act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-24_question | question | – | [en](guidance/commission/pq-e-10-2026-001210/2026-03-24_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001210/2026-03-24_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001210/E-10-2026-001210_en.docx) |
+| 2026-04-27_final | final | – | [en](guidance/commission/pq-e-10-2026-001210/2026-04-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001210/2026-04-27_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001210-ASW/E-10-2026-001210-ASW_en.docx) |
+
+## PQ E-001267/2026
+
+`guidance/commission/pq-e-10-2026-001267` – Question E-001267/2026 and the Commission's answer: Lethal autonomous weapon systems and use of artificial intelligence in defence
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-26_question | question | – | [en](guidance/commission/pq-e-10-2026-001267/2026-03-26_question.en.md) | [de](guidance/commission/pq-e-10-2026-001267/2026-03-26_question.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001267/2026-03-26_question.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001267/E-10-2026-001267_de.docx) |
+| 2026-05-27_final | final | – | [en](guidance/commission/pq-e-10-2026-001267/2026-05-27_final.en.md) | [de](guidance/commission/pq-e-10-2026-001267/2026-05-27_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001267/2026-05-27_final.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001267-ASW/E-10-2026-001267-ASW_de.docx) |
+
+## PQ E-001470/2026
+
+`guidance/commission/pq-e-10-2026-001470` – Question E-001470/2026 and the Commission's answer: Consumer safety and market surveillance for personal mobility devices
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-10_question | question | – | [en](guidance/commission/pq-e-10-2026-001470/2026-04-10_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001470/2026-04-10_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001470/E-10-2026-001470_en.docx) |
+| 2026-06-10_final | final | – | [en](guidance/commission/pq-e-10-2026-001470/2026-06-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001470/2026-06-10_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001470-ASW/E-10-2026-001470-ASW_en.docx) |
+
+## PQ E-001597/2026
+
+`guidance/commission/pq-e-10-2026-001597` – Question E-001597/2026 and the Commission's answer: SMEs in the creative manufacturing sector: implementing the AI Act’s support measures concerning skills, sandboxes, templates and procurement
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-20_question | question | – | [en](guidance/commission/pq-e-10-2026-001597/2026-04-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001597/2026-04-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001597/E-10-2026-001597_en.docx) |
+| 2026-07-01_final | final | – | [en](guidance/commission/pq-e-10-2026-001597/2026-07-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001597/2026-07-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001597-ASW/E-10-2026-001597-ASW_en.docx) |
+
+## PQ E-001631/2026
+
+`guidance/commission/pq-e-10-2026-001631` – Question E-001631/2026 and the Commission's answer: Preventing circumvention of the ban on the destruction of unsold textiles
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-21_question | question | – | [en](guidance/commission/pq-e-10-2026-001631/2026-04-21_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001631/2026-04-21_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001631/E-10-2026-001631_en.docx) |
+| 2026-07-06_final | final | – | [en](guidance/commission/pq-e-10-2026-001631/2026-07-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001631/2026-07-06_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001631-ASW/E-10-2026-001631-ASW_en.docx) |
+
+## PQ E-001755/2026
+
+`guidance/commission/pq-e-10-2026-001755` – Question E-001755/2026 and the Commission's answer: Risks from uncontrolled re-entry of space debris on EU territory
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-29_question | question | – | [en](guidance/commission/pq-e-10-2026-001755/2026-04-29_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001755/2026-04-29_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001755/E-10-2026-001755_en.docx) |
+| 2026-07-01_final | final | – | [en](guidance/commission/pq-e-10-2026-001755/2026-07-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001755/2026-07-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001755-ASW/E-10-2026-001755-ASW_en.docx) |
+
+## PQ E-001843/2026
+
+`guidance/commission/pq-e-10-2026-001843` – Question E-001843/2026 and the Commission's answer: European regulatory gap regarding offensive AI capabilities
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-06_question | question | – | [en](guidance/commission/pq-e-10-2026-001843/2026-05-06_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001843/2026-05-06_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001843/E-10-2026-001843_en.docx) |
+| 2026-07-07_final | final | – | [en](guidance/commission/pq-e-10-2026-001843/2026-07-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001843/2026-07-07_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001843-ASW/E-10-2026-001843-ASW_en.docx) |
+
+## PQ E-001948/2026
+
+`guidance/commission/pq-e-10-2026-001948` – Question E-001948/2026 and the Commission's answer: The compatibility with EU law of the Italian 2026 Security Law’s video surveillance measure
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-11_question | question | – | [en](guidance/commission/pq-e-10-2026-001948/2026-05-11_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001948/2026-05-11_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001948/E-10-2026-001948_en.docx) |
+| 2026-09-18_final | final | – | [en](guidance/commission/pq-e-10-2026-001948/2026-09-18_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001948/2026-09-18_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001948-ASW/E-10-2026-001948-ASW_en.docx) |
+
+## PQ E-002033/2026
+
+`guidance/commission/pq-e-10-2026-002033` – Question E-002033/2026 and the Commission's answer: Use of forensic AI software by the Spanish Tax Agency
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-18_question | question | – | [en](guidance/commission/pq-e-10-2026-002033/2026-05-18_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002033/2026-05-18_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002033/E-10-2026-002033_en.docx) |
+| 2026-07-27_final | final | – | [en](guidance/commission/pq-e-10-2026-002033/2026-07-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002033/2026-07-27_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002033-ASW/E-10-2026-002033-ASW_en.docx) |
+
+## PQ E-002061/2026
+
+`guidance/commission/pq-e-10-2026-002061` – Question E-002061/2026 and the Commission's answer: Facial recognition feature on French police officers’ phones
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-19_question | question | – | [en](guidance/commission/pq-e-10-2026-002061/2026-05-19_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002061/2026-05-19_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002061/E-10-2026-002061_en.docx) |
+| 2026-07-03_final | final | – | [en](guidance/commission/pq-e-10-2026-002061/2026-07-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002061/2026-07-03_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002061-ASW/E-10-2026-002061-ASW_en.docx) |
+
+## PQ E-002079/2026
+
+`guidance/commission/pq-e-10-2026-002079` – Question E-002079/2026 and the Commission's answer: Huawei equipment purchased in Spain using NextGenerationEU funds
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-20_question | question | – | [en](guidance/commission/pq-e-10-2026-002079/2026-05-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002079/2026-05-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002079/E-10-2026-002079_en.docx) |
+| 2026-11-06_final | final | – | [en](guidance/commission/pq-e-10-2026-002079/2026-11-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002079/2026-11-06_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002079-ASW/E-10-2026-002079-ASW_en.docx) |
+
+## PQ E-002354/2026
+
+`guidance/commission/pq-e-10-2026-002354` – Question E-002354/2026 and the Commission's answer: Implementation of Regulation (EU) 2023/1230 on machinery: shortcomings in the technical framework and risks to Europe’s industrial competitiveness
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-09_question | question | – | [en](guidance/commission/pq-e-10-2026-002354/2026-06-09_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002354/2026-06-09_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002354/E-10-2026-002354_en.docx) |
+| 2026-08-06_final | final | – | [en](guidance/commission/pq-e-10-2026-002354/2026-08-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002354/2026-08-06_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002354-ASW/E-10-2026-002354-ASW_en.docx) |
+
+## PQ E-002355/2026
+
+`guidance/commission/pq-e-10-2026-002355` – Question E-002355/2026 and the Commission's answer: Recognising renewable bio-based materials as circular solutions
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-09_question | question | – | [en](guidance/commission/pq-e-10-2026-002355/2026-06-09_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002355/2026-06-09_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002355/E-10-2026-002355_en.docx) |
+| 2026-08-25_final | final | – | [en](guidance/commission/pq-e-10-2026-002355/2026-08-25_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002355/2026-08-25_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002355-ASW/E-10-2026-002355-ASW_en.docx) |
+
+## PQ E-002386/2026
+
+`guidance/commission/pq-e-10-2026-002386` – Question E-002386/2026 and the Commission's answer: Digital sovereignty stress test: Who will foot the bill for the EU’s technological ambitions?
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-10_question | question | – | [en](guidance/commission/pq-e-10-2026-002386/2026-06-10_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002386/2026-06-10_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002386/E-10-2026-002386_en.docx) |
+| 2026-09-01_final | final | – | [en](guidance/commission/pq-e-10-2026-002386/2026-09-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002386/2026-09-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002386-ASW/E-10-2026-002386-ASW_en.docx) |
+
+## PQ E-002448/2026
+
+`guidance/commission/pq-e-10-2026-002448` – Question E-002448/2026 and the Commission's answer: Nuclear power and data centres
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-15_question | question | – | [en](guidance/commission/pq-e-10-2026-002448/2026-06-15_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002448/2026-06-15_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002448/E-10-2026-002448_en.docx) |
+| 2026-08-04_final | final | – | [en](guidance/commission/pq-e-10-2026-002448/2026-08-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002448/2026-08-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002448-ASW/E-10-2026-002448-ASW_en.docx) |
+
+## PQ E-002452/2026
+
+`guidance/commission/pq-e-10-2026-002452` – Question E-002452/2026 and the Commission's answer: Mobiles as critical endpoints for citizens’ cybersecurity and European digital resilience
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-15_question | question | – | [en](guidance/commission/pq-e-10-2026-002452/2026-06-15_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002452/2026-06-15_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002452/E-10-2026-002452_en.docx) |
+| 2026-09-07_final | final | – | [en](guidance/commission/pq-e-10-2026-002452/2026-09-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002452/2026-09-07_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002452-ASW/E-10-2026-002452-ASW_en.docx) |
+
+## PQ E-002551/2026
+
+`guidance/commission/pq-e-10-2026-002551` – Question E-002551/2026 and the Commission's answer: High microfibre emissions from synthetic textiles and the need for product-specific regulation
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-22_question | question | – | [en](guidance/commission/pq-e-10-2026-002551/2026-06-22_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002551/2026-06-22_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002551/E-10-2026-002551_en.docx) |
+| 2026-08-25_final | final | – | [en](guidance/commission/pq-e-10-2026-002551/2026-08-25_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002551/2026-08-25_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002551-ASW/E-10-2026-002551-ASW_en.docx) |
+
+## PQ E-002610/2026
+
+`guidance/commission/pq-e-10-2026-002610` – Question E-002610/2026 and the Commission's answer: Mandatory disclosure and portability of cloud control servers for connected products on the single market
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-24_question | question | – | [en](guidance/commission/pq-e-10-2026-002610/2026-06-24_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002610/2026-06-24_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002610/E-10-2026-002610_en.docx) |
+| 2026-09-17_final | final | – | [en](guidance/commission/pq-e-10-2026-002610/2026-09-17_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002610/2026-09-17_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002610-ASW/E-10-2026-002610-ASW_en.docx) |
+
+## PQ E-002639/2026
+
+`guidance/commission/pq-e-10-2026-002639` – Question E-002639/2026 and the Commission's answer: Development of EU standards for artificial intelligence
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-25_question | question | – | [en](guidance/commission/pq-e-10-2026-002639/2026-06-25_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002639/2026-06-25_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002639/E-10-2026-002639_en.docx) |
+| 2026-09-01_final | final | – | [en](guidance/commission/pq-e-10-2026-002639/2026-09-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002639/2026-09-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002639-ASW/E-10-2026-002639-ASW_en.docx) |
+
+## PQ E-002819/2026
+
+`guidance/commission/pq-e-10-2026-002819` – Question E-002819/2026 and the Commission's answer: Protection of European analogue cultural heritage against destructive scanning and circumvention of AI Act obligations by AI developers
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-08_question | question | – | [en](guidance/commission/pq-e-10-2026-002819/2026-07-08_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002819/2026-07-08_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002819/E-10-2026-002819_en.docx) |
+| 2026-09-16_final | final | – | [en](guidance/commission/pq-e-10-2026-002819/2026-09-16_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002819/2026-09-16_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002819-ASW/E-10-2026-002819-ASW_en.docx) |
+
+## PQ E-002828/2026
+
+`guidance/commission/pq-e-10-2026-002828` – Question E-002828/2026 and the Commission's answer: Protecting minors from generative artificial intelligence systems in the context of the digital omnibus measures simplifying the AI Act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-08_question | question | – | [en](guidance/commission/pq-e-10-2026-002828/2026-07-08_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002828/2026-07-08_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002828/E-10-2026-002828_en.docx) |
+| 2026-09-04_final | final | – | [en](guidance/commission/pq-e-10-2026-002828/2026-09-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002828/2026-09-04_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002828-ASW/E-10-2026-002828-ASW_en.docx) |
+
+## PQ E-002839/2026
+
+`guidance/commission/pq-e-10-2026-002839` – Question E-002839/2026 and the Commission's answer: Definition of low-carbon steel
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-08_question | question | – | [en](guidance/commission/pq-e-10-2026-002839/2026-07-08_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002839/2026-07-08_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-002839/E-10-2026-002839_en.docx) |
+| 2026-08-21_final | final | – | [en](guidance/commission/pq-e-10-2026-002839/2026-08-21_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-002839/2026-08-21_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-002839-ASW/E-10-2026-002839-ASW_en.docx) |
+
+## PQ E-003010/2026
+
+`guidance/commission/pq-e-10-2026-003010` – Question E-003010/2026 and the Commission's answer: Preventing the unwarranted classification of linear and logistic regression models as AI systems
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-16_question | question | – | [en](guidance/commission/pq-e-10-2026-003010/2026-07-16_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003010/2026-07-16_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003010/E-10-2026-003010_en.docx) |
+| 2026-09-17_final | final | – | [en](guidance/commission/pq-e-10-2026-003010/2026-09-17_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003010/2026-09-17_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003010-ASW/E-10-2026-003010-ASW_en.docx) |
+
+## PQ E-003064/2026
+
+`guidance/commission/pq-e-10-2026-003064` – Question E-003064/2026 and the Commission's answer: Implementation of the recommendations of the Commission’s Special Panel on children in the digital world
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-21_question | question | – | [en](guidance/commission/pq-e-10-2026-003064/2026-07-21_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003064/2026-07-21_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003064/E-10-2026-003064_en.docx) |
+| 2026-09-11_final | final | – | [en](guidance/commission/pq-e-10-2026-003064/2026-09-11_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003064/2026-09-11_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003064-ASW/E-10-2026-003064-ASW_en.docx) |
+
+## PQ E-003134/2026
+
+`guidance/commission/pq-e-10-2026-003134` – Question E-003134/2026 and the Commission's answer: Digital centralisation, EU gold-plating and companies’ competitiveness
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-27_question | question | – | [en](guidance/commission/pq-e-10-2026-003134/2026-07-27_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003134/2026-07-27_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003134/E-10-2026-003134_en.docx) |
+| 2026-10-05_final | final | – | [en](guidance/commission/pq-e-10-2026-003134/2026-10-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003134/2026-10-05_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003134-ASW/E-10-2026-003134-ASW_en.docx) |
+
+## PQ E-003207/2026
+
+`guidance/commission/pq-e-10-2026-003207` – Question E-003207/2026 and the Commission's answer: Proportionality in the digital product passport for handcrafted textiles
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-05_question | question | – | [en](guidance/commission/pq-e-10-2026-003207/2026-08-05_question.en.md) | [de](guidance/commission/pq-e-10-2026-003207/2026-08-05_question.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003207/2026-08-05_question.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003207/E-10-2026-003207_de.docx) |
+| 2026-10-08_final | final | – | [en](guidance/commission/pq-e-10-2026-003207/2026-10-08_final.en.md) | [de](guidance/commission/pq-e-10-2026-003207/2026-10-08_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003207/2026-10-08_final.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003207-ASW/E-10-2026-003207-ASW_de.docx) |
+
+## PQ E-003317/2026
+
+`guidance/commission/pq-e-10-2026-003317` – Question E-003317/2026 and the Commission's answer: Legal accountability and preventive measures for cybersecurity breaches caused by autonomous AI systems
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-24_question | question | – | [en](guidance/commission/pq-e-10-2026-003317/2026-08-24_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003317/2026-08-24_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003317/E-10-2026-003317_en.docx) |
+| 2026-10-21_final | final | – | [en](guidance/commission/pq-e-10-2026-003317/2026-10-21_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003317/2026-10-21_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003317-ASW/E-10-2026-003317-ASW_en.docx) |
+
+## PQ E-003343/2026
+
+`guidance/commission/pq-e-10-2026-003343` – Question E-003343/2026 and the Commission's answer: The right of EU citizens to give preferential treatment to domestic products
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-26_question | question | – | [en](guidance/commission/pq-e-10-2026-003343/2026-08-26_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003343/2026-08-26_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003343/E-10-2026-003343_en.docx) |
+| 2026-10-26_final | final | – | [en](guidance/commission/pq-e-10-2026-003343/2026-10-26_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003343/2026-10-26_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003343-ASW/E-10-2026-003343-ASW_en.docx) |
+
+## PQ E-003379/2026
+
+`guidance/commission/pq-e-10-2026-003379` – Question E-003379/2026 and the Commission's answer: Procurement transparency and SME access to public contracts
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-31_question | question | – | [en](guidance/commission/pq-e-10-2026-003379/2026-08-31_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003379/2026-08-31_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003379/E-10-2026-003379_en.docx) |
+| 2026-10-12_final | final | – | [en](guidance/commission/pq-e-10-2026-003379/2026-10-12_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003379/2026-10-12_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003379-ASW/E-10-2026-003379-ASW_en.docx) |
+
+## PQ E-003539/2026
+
+`guidance/commission/pq-e-10-2026-003539` – Question E-003539/2026 and the Commission's answer: Chatbots directing women with unwanted pregnancies to anti-abortion websites
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-08_question | question | – | [en](guidance/commission/pq-e-10-2026-003539/2026-09-08_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003539/2026-09-08_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003539/E-10-2026-003539_en.docx) |
+| 2026-11-10_final | final | – | [en](guidance/commission/pq-e-10-2026-003539/2026-11-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003539/2026-11-10_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003539-ASW/E-10-2026-003539-ASW_en.docx) |
+
+## PQ E-003554/2026
+
+`guidance/commission/pq-e-10-2026-003554` – Question E-003554/2026 and the Commission's answer: Autonomous AI-enabled cyberattacks and the protection of European critical infrastructure
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-08_question | question | – | [en](guidance/commission/pq-e-10-2026-003554/2026-09-08_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003554/2026-09-08_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003554/E-10-2026-003554_en.docx) |
+| 2026-11-10_final | final | – | [en](guidance/commission/pq-e-10-2026-003554/2026-11-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003554/2026-11-10_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003554-ASW/E-10-2026-003554-ASW_en.docx) |
+
+## PQ E-003567/2026
+
+`guidance/commission/pq-e-10-2026-003567` – Question E-003567/2026 and the Commission's answer: The forthcoming European Product Act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-09_question | question | – | [en](guidance/commission/pq-e-10-2026-003567/2026-09-09_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003567/2026-09-09_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003567/E-10-2026-003567_en.docx) |
+| 2026-11-03_final | final | – | [en](guidance/commission/pq-e-10-2026-003567/2026-11-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003567/2026-11-03_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003567-ASW/E-10-2026-003567-ASW_en.docx) |
+
+## PQ E-003691/2026
+
+`guidance/commission/pq-e-10-2026-003691` – Question E-003691/2026 and the Commission's answer: Massive data thefts: why is France still delaying transposing of the NIS2 Directive?
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-16_question | question | – | [en](guidance/commission/pq-e-10-2026-003691/2026-09-16_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003691/2026-09-16_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003691/E-10-2026-003691_en.docx) |
+| 2026-10-29_final | final | – | [en](guidance/commission/pq-e-10-2026-003691/2026-10-29_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003691/2026-10-29_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003691-ASW/E-10-2026-003691-ASW_en.docx) |
+
+## PQ P-001967/2025
+
+`guidance/commission/pq-p-10-2025-001967` – Question P-001967/2025 and the Commission's answer: Toolbox to restrict risky photovoltaic (PV) inverters from European electricity grid
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-05-15_question | question | – | [en](guidance/commission/pq-p-10-2025-001967/2025-05-15_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-001967/2025-05-15_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2025-001967/P-10-2025-001967_en.docx) |
+| 2025-08-12_final | final | – | [en](guidance/commission/pq-p-10-2025-001967/2025-08-12_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-001967/2025-08-12_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2025-001967-ASW/P-10-2025-001967-ASW_en.docx) |
+
+## PQ P-002793/2025
+
+`guidance/commission/pq-p-10-2025-002793` – Question P-002793/2025 and the Commission's answer: Generation of antisemitic content and hate speech by Grok AI on X (formerly Twitter)
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-09_question | question | – | [en](guidance/commission/pq-p-10-2025-002793/2025-07-09_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-002793/2025-07-09_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2025-002793/P-10-2025-002793_en.docx) |
+| 2025-08-21_final | final | – | [en](guidance/commission/pq-p-10-2025-002793/2025-08-21_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-002793/2025-08-21_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2025-002793-ASW/P-10-2025-002793-ASW_en.docx) |
+
+## PQ P-003002/2025
+
+`guidance/commission/pq-p-10-2025-003002` – Question P-003002/2025 and the Commission's answer: Direct (non-structural) EU funding for water infrastructure and associated cybersecurity in the context of drought and climate change
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-18_question | question | – | [en](guidance/commission/pq-p-10-2025-003002/2025-07-18_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-003002/2025-07-18_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2025-003002/P-10-2025-003002_en.docx) |
+| 2025-08-13_final | final | – | [en](guidance/commission/pq-p-10-2025-003002/2025-08-13_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-003002/2025-08-13_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2025-003002-ASW/P-10-2025-003002-ASW_en.docx) |
+
+## PQ P-003323/2025
+
+`guidance/commission/pq-p-10-2025-003323` – Question P-003323/2025 and the Commission's answer: Security risks posed by the use of Chinese-manufactured drones by EU security and enforcement bodies
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-08-28_question | question | – | [en](guidance/commission/pq-p-10-2025-003323/2025-08-28_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-003323/2025-08-28_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2025-003323/P-10-2025-003323_en.docx) |
+| 2025-09-26_final | final | – | [en](guidance/commission/pq-p-10-2025-003323/2025-09-26_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-003323/2025-09-26_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2025-003323-ASW/P-10-2025-003323-ASW_en.docx) |
+
+## PQ P-003430/2025
+
+`guidance/commission/pq-p-10-2025-003430` – Question P-003430/2025 and the Commission's answer: IT failures on the Spanish rail network and cybersecurity risks in critical transport infrastructure
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-09-04_question | question | – | [en](guidance/commission/pq-p-10-2025-003430/2025-09-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-003430/2025-09-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2025-003430/P-10-2025-003430_en.docx) |
+| 2025-10-10_final | final | – | [en](guidance/commission/pq-p-10-2025-003430/2025-10-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-003430/2025-10-10_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2025-003430-ASW/P-10-2025-003430-ASW_en.docx) |
+
+## PQ P-004565/2025
+
+`guidance/commission/pq-p-10-2025-004565` – Question P-004565/2025 and the Commission's answer: Digital Omnibus 1: Impact of GDPR ‘compatible use’ changes on eIDAS 2.0, digital identity wallets and biometric systems
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-11-17_question | question | – | [en](guidance/commission/pq-p-10-2025-004565/2025-11-17_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-004565/2025-11-17_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2025-004565/P-10-2025-004565_en.docx) |
+| 2025-12-23_final | final | – | [en](guidance/commission/pq-p-10-2025-004565/2025-12-23_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2025-004565/2025-12-23_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2025-004565-ASW/P-10-2025-004565-ASW_en.docx) |
+
+## PQ P-000438/2026
+
+`guidance/commission/pq-p-10-2026-000438` – Question P-000438/2026 and the Commission's answer: Digital Omnibus III – Inconsistency of Commission answers of 23 December 2025 and 28 January 2026 with Member State objections raised in the Council
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-04_question | question | – | [en](guidance/commission/pq-p-10-2026-000438/2026-02-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-000438/2026-02-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2026-000438/P-10-2026-000438_en.docx) |
+| 2026-03-12_final | final | – | [en](guidance/commission/pq-p-10-2026-000438/2026-03-12_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-000438/2026-03-12_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2026-000438-ASW/P-10-2026-000438-ASW_en.docx) |
+
+## PQ P-002257/2026
+
+`guidance/commission/pq-p-10-2026-002257` – Question P-002257/2026 and the Commission's answer: Geographical scope of the Union equivalence clause in the Industrial Accelerator Act
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-03_question | question | – | [en](guidance/commission/pq-p-10-2026-002257/2026-06-03_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-002257/2026-06-03_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2026-002257/P-10-2026-002257_en.docx) |
+| 2026-07-15_final | final | – | [en](guidance/commission/pq-p-10-2026-002257/2026-07-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-002257/2026-07-15_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2026-002257-ASW/P-10-2026-002257-ASW_en.docx) |
+
+## PQ P-002489/2026
+
+`guidance/commission/pq-p-10-2026-002489` – Question P-002489/2026 and the Commission's answer: Digital product passport
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-17_question | question | – | [en](guidance/commission/pq-p-10-2026-002489/2026-06-17_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-002489/2026-06-17_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2026-002489/P-10-2026-002489_en.docx) |
+| 2026-07-27_final | final | – | [en](guidance/commission/pq-p-10-2026-002489/2026-07-27_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-002489/2026-07-27_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2026-002489-ASW/P-10-2026-002489-ASW_en.docx) |
+
+## PQ P-003058/2026
+
+`guidance/commission/pq-p-10-2026-003058` – Question P-003058/2026 and the Commission's answer: Romania’s compliance with its obligation to implement Directive (EU) 2022/2555 (NIS2)
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-20_question | question | – | [en](guidance/commission/pq-p-10-2026-003058/2026-07-20_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-003058/2026-07-20_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2026-003058/P-10-2026-003058_en.docx) |
+| 2026-09-03_final | final | – | [en](guidance/commission/pq-p-10-2026-003058/2026-09-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-003058/2026-09-03_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2026-003058-ASW/P-10-2026-003058-ASW_en.docx) |
+
 ## Progress report Virkkunen 2026
 
 `guidance/commission/progress-report-virkkunen-2026` – 2026 Annual Progress Report on Simplification, Implementation and Enforcement, Executive Vice-President Henna Virkkunen (Tech Sovereignty, Security and Democracy), published on 4 November 2026

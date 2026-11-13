@@ -44,7 +44,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Product Liability Directive](pld.md) | [Expert Group on Product Liability](committee-e03995.md) | Expert group | 0 | – | – |
 | [Radio Equipment Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0053) – No legislative procedure page; applies from 2016-06-13; [meetings](#radio-equipment-directive) | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](committee-c03000.md) | Comitology committee | 5 | 2025-11-27 | – |
 | [Radio Equipment Directive cybersecurity delegated act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030) – Delegated act of the Commission, adopted without a legislative procedure; applies from 2025-08-01; repealed from 2027-12-11; [meetings](#radio-equipment-directive-cybersecurity-delegated-act) | [RED expert group](committee-e03587.md) | Expert group | 4 | 2025-11-27 | – |
-| [Regulation on European standardisation](standardisation-regulation.md) | [Committee on Standards](committee-c41700.md) | Comitology committee | 12 | 2026-09-16 | – |
+| [Regulation on European standardisation](standardisation-regulation.md) | [Committee on Standards](committee-c41700.md) | Comitology committee | 13 | 2026-09-16 | 2026-11-27 |
 | [Regulation on European standardisation](standardisation-regulation.md) | [HLFS](committee-e03874.md) | Expert group | 2 | 2026-03-19 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [MSP](committee-e02758.md) | Expert group | 8 | 2026-10-21 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [ENISA AHWG Standardisation](committee-enisa-ahwg-std.md) | ENISA ad hoc working group | 0 | – | – |
@@ -164,10 +164,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Space Working Party
 
-26 meetings on the acts we follow.
+27 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-11 | [EU Space Act](space-act.md) | Examination ([14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707)) | [CM 4859/26](https://data.consilium.europa.eu/doc/document/CM-4859-2026-INIT/en/pdf) |
 | 2026-11-03 (attaché level) | [EU Space Act](space-act.md) | Information from the Presidency ([14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707)) | [CM 4724/26](https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf) |
 | 2026-09-11 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) |
 | 2026-09-01 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3875/26](https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf) |

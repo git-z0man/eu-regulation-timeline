@@ -1,14 +1,14 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 12 Nov 2026.
+Procedure 2026/0012(COD), as of 13 Nov 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 24 Sep 2026
-- **Council:** working party, latest document 9 Nov 2026
-- **Latest activity:** 10 Nov 2026 · European Parliament: Committee opinion adopted
+- **Council:** working party, latest document 12 Nov 2026
+- **Latest activity:** 12 Nov 2026 · Council: Opinion of the European Committee of the Regions (ST 15800/26)
 - **Next steps:** 8 Mar 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -59,8 +59,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | [PE796.471](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/ITRE-AM-796471/ITRE-AM-796471_en.pdf) | ep-amendments | AMENDMENTS 34 - 170 - Draft report Amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the [Proposal for the Cybersecurity … | public | – | – | – |
 | 2026-10-23 | [ST 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99652) | council-note | European Court of Auditors’ Special Report No 19/2026: Detecting and responding to cybersecurity incidents - EU cooperation framework progressing, but only … | not public\* | – | – | – |
 | 2026-11-09 | [WK 17271/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335) | council-compromise | Presidency compromise text on the draft proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the … | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017271%2F2026%20INIT%20%28Targeted%20amendment%20of%20NIS-2%20%28simplification%2C%20alignment%20with%20CSA2%29%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017271%2F2026%20INIT%20of%209%20November%202026%3A%20Presidency%20compromise%20text%20on%20the%20draft%20proposal%20for%20a%20Directive%20amending%20Directive%20%28EU%29%202022%2F2555%20as%20regards%20simplification%20measures%20and%20alignment%20with%20the%20%5BProposal%20for%20the%20Cybersecurity%20Act%202%5D%0A%20%20%28interinstitutional%20file%202026%2F0012%28COD%29%2C%20Targeted%20amendment%20of%20NIS-2%20%28simplification%2C%20alignment%20with%20CSA2%29%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17271-2026-INIT) | – | – |
+| 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
 
 ## Texts as Markdown
 

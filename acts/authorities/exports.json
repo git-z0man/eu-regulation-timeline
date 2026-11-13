@@ -12,7 +12,7 @@
   "eccc-countries": {
     "pdf": "eccc-countries.pdf",
     "png": "eccc-countries.png",
-    "svg_sha256": "d84700e9f331608ee550232f4d48a1c00811ed2b7c53dbce84cdb774987da44d"
+    "svg_sha256": "a42b491ae4c1682bf8e40e8ed7255bbb227eaef385f5d0197bfff350e219343c"
   },
   "eccc-execution": {
     "pdf": "eccc-execution.pdf",
@@ -22,7 +22,7 @@
   "eccc-grants": {
     "pdf": "eccc-grants.pdf",
     "png": "eccc-grants.png",
-    "svg_sha256": "607874c22969f794b1b159cfd6a01c583b6988b654059e045d3bd7752f5b5266"
+    "svg_sha256": "1645bc26f775aa342b3aa4b4f3ee3302279d9034ece3f98c3335877a01ce5ae3"
   },
   "eccc-staff": {
     "pdf": "eccc-staff.pdf",

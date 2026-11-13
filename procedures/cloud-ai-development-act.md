@@ -1,6 +1,6 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 12 Nov 2026.
+Procedure 2026/0138(COD), as of 13 Nov 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
@@ -59,7 +59,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-05 | [ST 15470/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101850) | council-note | [10104/26 + ADD 1-5 - COM(2026) 502 final] - Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Italian … | not public\* | – | – | – |
 | 2026-11-10 | [ST 15641/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102504) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the National Assembly of the Republic of Bulgaria | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-12.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
 
 ## Texts as Markdown
 

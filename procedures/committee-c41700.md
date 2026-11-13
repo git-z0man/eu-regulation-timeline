@@ -6,9 +6,9 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 ## At a glance
 
-- Next meeting: none announced
+- Next meeting: 2026-11-27 – 33rd meeting of the Committee on standards - 27/11/2026
 - Last meeting: 2026-09-16 – Written procedure - Draft Commission Implementing Decision amending Implementing Decision C(2025)618 on a standardisation request as regards products with digital elements ([draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/118113/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/118783/1/consult))
-- Meetings since 2024: 12
+- Meetings since 2024: 13
 - Latest summary record: [32nd meeting of the Committee on standards (2026-04-28)](https://ec.europa.eu/transparency/comitology-register/screen/documents/115827/1/consult)
 
 ## About
@@ -19,6 +19,7 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-27 | [33rd meeting of the Committee on standards - 27/11/2026](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1814/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/119034/1/consult) | – | – |
 | 2026-09-16 | [Written procedure - Draft Commission Implementing Decision amending Implementing Decision C(2025)618 on a standardisation request as regards products with digital elements](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1607/consult) | – | – | – | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/118113/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/118783/1/consult) |
 | 2026-08-18 | [Written procedure - Draft amendment on a standardisation request as regards toys in support of Directive 2009/48/EC](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1507/consult) | – | – | – | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/117711/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/118143/1/consult) |
 | 2026-04-28 | [32nd meeting of the Committee on standards](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)498/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/115826/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/115827/1/consult) | – |

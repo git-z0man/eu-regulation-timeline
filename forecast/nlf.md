@@ -1,6 +1,6 @@
 # Product laws under the New Legislative Framework: changes in parallel
 
-Data of 2026-11-12. Our own assessment from public sources, CC BY 4.0. 23 of 31 product laws are changed by 9 files that are pending or were adopted since Nov 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
+Data of 2026-11-13. Our own assessment from public sources, CC BY 4.0. 23 of 31 product laws are changed by 9 files that are pending or were adopted since Nov 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
 
 | Act | Changed in parallel by | Announced |
 | --- | --- | --- |
@@ -32,14 +32,14 @@ Data of 2026-11-12. Our own assessment from public sources, CC BY 4.0. 23 of 31 
 | Regulation 2017/746 – In vitro diagnostic medical devices | MDR/IVDR simplification (amends; referred to committee) | Sectoral omnibus: may change, scope open |
 | Regulation 2019/1009 – EU fertilising products | – | Sectoral omnibus: may change, scope open |
 | Delegated Regulation 2019/945 – Unmanned aircraft systems (drones) | – | Sectoral omnibus: may change, scope open |
-| Regulation 2023/1542 – Batteries | Omnibus IV regulation (amends; provisionally agreed); Public Procurement Act (amends; proposal) | Sectoral omnibus: may change, scope open |
+| Regulation 2023/1542 – Batteries | Omnibus IV regulation (amends; provisionally agreed); Public Procurement Act (amends; referred to committee) | Sectoral omnibus: may change, scope open |
 | Regulation 2023/1230 – Machinery | Omnibus IV regulation (amends; provisionally agreed); Digital Omnibus on AI (amends; in force) | Sectoral omnibus: may change, scope open |
-| Regulation 2024/1781 – Ecodesign for sustainable products (ESPR) | Omnibus IV regulation (amends; provisionally agreed); Public Procurement Act (amends; proposal) | Sectoral omnibus: may change, scope open |
+| Regulation 2024/1781 – Ecodesign for sustainable products (ESPR) | Omnibus IV regulation (amends; provisionally agreed); Public Procurement Act (amends; referred to committee) | Sectoral omnibus: may change, scope open |
 | Regulation 2024/1689 – Artificial intelligence (AI Act) | MDR/IVDR simplification (amends; referred to committee); Digital Omnibus on AI (amends; in force) | Sectoral omnibus: may change, scope open |
-| Regulation 2024/2847 – Cyber Resilience Act | Public Procurement Act (amends; proposal); Health Data Space (EHDS) (amends; in force) | Sectoral omnibus: may change, scope open |
-| Regulation 2025/40 – Packaging and packaging waste | Public Procurement Act (amends; proposal) | Sectoral omnibus: may change, scope open |
+| Regulation 2024/2847 – Cyber Resilience Act | Public Procurement Act (amends; referred to committee); Health Data Space (EHDS) (amends; in force) | Sectoral omnibus: may change, scope open |
+| Regulation 2025/40 – Packaging and packaging waste | Public Procurement Act (amends; referred to committee) | Sectoral omnibus: may change, scope open |
 | Regulation 2025/2509 – Toy safety | – | Sectoral omnibus: may change, scope open |
 | Regulation 2026/405 – Detergents and surfactants | – | Sectoral omnibus: may change, scope open |
 | Directive 2000/14 – Noise emission of outdoor equipment | Omnibus IV directive (amends; provisionally agreed) | – |
 
-Columns: Sectoral omnibus (assumed Dec 2026, OJ ~Aug 2028); European Product Act (assumed Dec 2026, OJ ~Feb 2029); Omnibus IV regulation (provisionally agreed, OJ ~Jan 2027); Omnibus IV directive (provisionally agreed, OJ ~Jan 2027); MDR/IVDR simplification (referred to committee, OJ ~May 2028); New Standardisation Regulation (proposal, OJ ~Oct 2028); Public Procurement Act (proposal, OJ ~Jan 2029); Cyber Resilience Act (in force, OJ Nov 2024); Health Data Space (EHDS) (in force, OJ Mar 2025); Toy Safety Regulation (in force, OJ Dec 2025); Digital Omnibus on AI (in force, OJ Jul 2026).
+Columns: Sectoral omnibus (assumed Dec 2026, OJ ~Aug 2028); European Product Act (assumed Dec 2026, OJ ~Feb 2029); Omnibus IV regulation (provisionally agreed, OJ ~Jan 2027); Omnibus IV directive (provisionally agreed, OJ ~Jan 2027); MDR/IVDR simplification (referred to committee, OJ ~May 2028); New Standardisation Regulation (proposal, OJ ~Oct 2028); Public Procurement Act (referred to committee, OJ ~Nov 2028); Cyber Resilience Act (in force, OJ Nov 2024); Health Data Space (EHDS) (in force, OJ Mar 2025); Toy Safety Regulation (in force, OJ Dec 2025); Digital Omnibus on AI (in force, OJ Jul 2026).
