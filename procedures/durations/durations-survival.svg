@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="&quot;Source Sans 3&quot;, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="917" viewBox="0 0 1600 917" font-family="&quot;Source Sans 3&quot;, Helvetica, Arial, sans-serif">
 <title>Share of Commission proposals published as law after n months</title>
-<rect width="1600" height="900" fill="#ffffff"/>
+<rect width="1600" height="917" fill="#ffffff"/>
 <text x="40.0" y="52.0" font-size="30" fill="#14181c" text-anchor="start" font-weight="bold">Share of Commission proposals published as law after n months</text>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <text x="40.0" y="82.0" font-size="15" fill="#454c53" text-anchor="start">All files of the ordinary legislative procedure (COD), by the term in which the Commission proposed them. Files still open count until today (Kaplan-Meier), withdrawn files</text>
@@ -60,5 +60,5 @@
 <text x="1246.0" y="521.0" font-size="14" fill="#454c53" text-anchor="start">126 still open, 0 withdrawn</text>
 <text x="1246.0" y="542.0" font-size="14" fill="#454c53" text-anchor="start">Median 16.6 mo.</text>
 <text x="1246.0" y="563.0" font-size="14" fill="#454c53" text-anchor="start">curve stops where fewer than 20 files are left</text>
-<text x="40" y="884" font-size="12" fill="#5b646b">Source: EP Legislative Observatory (OEIL), key events of 1085 COD files proposed 2014–2026, as of 12 Nov 2026; own calculation. Not an official statistic.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text x="40" y="884" font-size="12" fill="#5b646b">Source: EP Legislative Observatory (OEIL), key events of 1085 COD files proposed 2014–2026, as of 12 Nov 2026; own calculation. Not an official statistic.</text><text x="40" y="901" font-size="12" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 12 Nov 2026</text>
 </svg>

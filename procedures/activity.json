@@ -3101,13 +3101,12 @@
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
-   "label": "Presidency presentation of Title II amendments (not public)",
+   "label": "Presidency presentation of Title II amendments",
    "doc": "WK 14493/26",
    "url": null,
    "key": "WK 14493/26",
    "page": "csa2",
-   "type": "Legislation",
-   "listed": "document"
+   "type": "Legislation"
   },
   {
    "date": "2026-09-20",
@@ -3290,13 +3289,12 @@
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
-   "label": "Non-paper on Title IV (ICT supply chains) by EE, FI, NL, PL, SE (not public)",
+   "label": "Non-paper on Title IV (ICT supply chains) by EE, FI, NL, PL, SE",
    "doc": "WK 13973/26",
    "url": null,
    "key": "WK 13973/26",
    "page": "csa2",
-   "type": "Legislation",
-   "listed": "document"
+   "type": "Legislation"
   },
   {
    "date": "2026-09-14",
@@ -3424,13 +3422,12 @@
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
-   "label": "Second Presidency compromise text, Title II (not public)",
+   "label": "Second Presidency compromise text, Title II",
    "doc": "WK 13671/26",
    "url": null,
    "key": "WK 13671/26",
    "page": "csa2",
-   "type": "Legislation",
-   "listed": "document"
+   "type": "Legislation"
   },
   {
    "date": "2026-09-07",
@@ -3855,13 +3852,12 @@
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
-   "label": "Second Presidency compromise text, Title III (not public)",
+   "label": "Second Presidency compromise text, Title III",
    "doc": "WK 11263/26",
    "url": null,
    "key": "WK 11263/26",
    "page": "csa2",
-   "type": "Legislation",
-   "listed": "document"
+   "type": "Legislation"
   },
   {
    "date": "2026-08-06",
@@ -4931,6 +4927,18 @@
    "doc": "P10_TA(2026)0198",
    "url": "https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0198_en.pdf",
    "key": "P10_TA(2026)0198",
+   "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-15",
+   "act": "digital-omnibus-ai",
+   "title": "Digital Omnibus on AI – Regulation (EU) 2026/1744",
+   "actor": "European Parliament",
+   "label": "Plenary debate",
+   "doc": "A10-0073/2026",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_en.pdf",
+   "key": "A10-0073/2026",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
   },
@@ -8451,72 +8459,6 @@
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/110577/2/consult",
    "key": "C106400-D110577/2",
    "page": "csa",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-12",
-   "act": "toy-safety-regulation",
-   "title": "Toy Safety Regulation – Regulation (EU) 2025/2509",
-   "actor": "European Parliament",
-   "label": "Recommendation for second reading tabled for plenary",
-   "doc": "A10-0227/2025",
-   "url": "https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2025-0227/A-10-2025-0227_en.pdf",
-   "key": "A10-0227/2025",
-   "page": "toy-safety-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-11-12",
-   "act": "nis2",
-   "title": "NIS-2",
-   "actor": "NIS Cooperation Group",
-   "label": "37th meeting",
-   "doc": "agenda",
-   "url": "https://digital-strategy.ec.europa.eu/en/library/nis-cooperation-group-meetings-agendas",
-   "key": "NIS-CG-NIS-CG-37",
-   "links": [
-    [
-     "agenda",
-     "https://ec.europa.eu/newsroom/dae/redirection/document/121620"
-    ]
-   ],
-   "page": "nis2",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-12",
-   "act": "ehds",
-   "title": "EHDS",
-   "actor": "Committee on the European Health Data Space",
-   "label": "Summary record published: 3rd meeting: Committee on the European Health Data Space (EHDS) (2025-10-24)",
-   "doc": "summary record v2",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/110776/2/consult",
-   "key": "C131500-S110776/2",
-   "page": "ehds",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-12",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "Product Security Committee",
-   "label": "Voting sheet published: 3rd Product Security Committee Meeting (2025-11-07)",
-   "doc": "voting sheet",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/111015/1/consult",
-   "key": "C130100-V111015/1",
-   "page": "cra",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-12",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "Product Security Committee",
-   "label": "Summary record published: 3rd Product Security Committee Meeting (2025-11-07)",
-   "doc": "summary record",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/111012/1/consult",
-   "key": "C130100-S111012/1",
-   "page": "cra",
    "type": "Committees"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-12",
+ "as_of": "2026-11-13",
  "views": [
   {
    "key": "all",
@@ -79,6 +79,13 @@
      "top": false
     },
     {
+     "date": "2026-11-11",
+     "act": "Cyber Resilience Act, Cybersecurity Act, NIS 2 Directive",
+     "text": "Plenary debate: Resilience against cyber and other hybrid attacks, protecting critical infrastructure and …",
+     "url": "acts/cra.html#parliament",
+     "top": false
+    },
+    {
      "date": "2026-11-09",
      "act": "Cyber Resilience Act",
      "text": "6 standardisation projects moved on, e.g. EN 304 624: Approval Stage – Comments categorisation assessed",
@@ -90,13 +97,6 @@
      "act": "Machinery Regulation",
      "text": "Standardisation: prEN ISO 13849-2: Under Approval",
      "url": "acts/machinery-regulation.html#standardisation",
-     "top": false
-    },
-    {
-     "date": "2026-11-05",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of …",
-     "url": "procedures/csa2.html",
      "top": false
     },
     {
@@ -116,7 +116,7 @@
     {
      "date": "2026-11-09",
      "act": "Radio Equipment Directive",
-     "text": "8 standardisation projects moved on, e.g. EN 302 208: Approval Stage – Deliverable approval procedure …",
+     "text": "7 standardisation projects moved on, e.g. EN 302 208: Approval Stage – Deliverable approval procedure …",
      "url": "procedures/index.html",
      "top": false
     },
@@ -139,13 +139,6 @@
      "act": "Ecodesign for Sustainable Products Regulation",
      "text": "5 new meetings or documents of committees and expert groups",
      "url": "procedures/espr.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-05",
-     "act": "Electromagnetic Compatibility Directive",
-     "text": "1 standardisation project moved on",
-     "url": "procedures/index.html",
      "top": false
     }
    ]
@@ -207,6 +200,13 @@
      "top": false
     },
     {
+     "date": "2026-11-11",
+     "act": "Cyber Resilience Act, Cybersecurity Act, NIS 2 Directive",
+     "text": "Plenary debate: Resilience against cyber and other hybrid attacks, protecting critical infrastructure and …",
+     "url": "acts/cra.html#parliament",
+     "top": false
+    },
+    {
      "date": "2026-11-09",
      "act": "Cyber Resilience Act",
      "text": "6 standardisation projects moved on, e.g. EN 304 624: Approval Stage – Comments categorisation assessed",
@@ -218,13 +218,6 @@
      "act": "Machinery Regulation",
      "text": "Standardisation: prEN ISO 13849-2: Under Approval",
      "url": "acts/machinery-regulation.html#standardisation",
-     "top": false
-    },
-    {
-     "date": "2026-11-05",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of …",
-     "url": "procedures/csa2.html",
      "top": false
     },
     {

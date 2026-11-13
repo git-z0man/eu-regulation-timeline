@@ -163,8 +163,10 @@
 <line x1="761.8" y1="605.0" x2="761.8" y2="632.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="763.1" y1="673.0" x2="763.1" y2="644.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="797.0" y1="592.0" x2="797.0" y2="632.0" stroke="#c3c8cd" stroke-width="1"/>
-<line x1="1220.6" y1="618.0" x2="1220.6" y2="632.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1219.4" y1="618.0" x2="1219.4" y2="632.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="1220.6" y1="660.0" x2="1220.6" y2="644.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1220.6" y1="605.0" x2="1220.6" y2="632.0" stroke="#c3c8cd" stroke-width="1"/>
+<line x1="1562.5" y1="618.0" x2="1562.5" y2="632.0" stroke="#c3c8cd" stroke-width="1"/>
 <rect x="1472.0" y="618.0" width="308.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0138_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="1476.0" y="627.1">13 Mar 2024 · EP position at first reading (P9_TA(2024)0138)</tspan></text></a>
 <rect x="290.2" y="618.0" width="271.2" height="12.0" fill="#ffffff"/>
@@ -189,12 +191,16 @@
 <text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1177.9" y="627.1">11 May 2023 · Committee adopts report and mandate</tspan></text>
 <rect x="1187.7" y="647.0" width="261.8" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0188/A-9-2023-0188_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1191.7" y="656.1">22 May 2023 · Report tabled for plenary (A9-0188/2023)</tspan></text></a>
-<rect x="1216.6" y="605.0" width="228.9" height="12.0" fill="#ffffff"/>
-<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1220.6" y="614.1">14 Jun 2023 · Plenary refers back for trilogues</tspan></text>
-<rect x="1216.6" y="660.0" width="388.7" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0236/TA-9-2023-0236-FNL_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1220.6" y="669.1">14 Jun 2023 · Plenary adopts amendments (mandate for trilogues) (P9_TA(2023)0236)</tspan></text></a>
+<rect x="1215.4" y="605.0" width="210.1" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0188/A-9-2023-0188_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1219.4" y="614.1">13 Jun 2023 · Plenary debate (A9-0188/2023)</tspan></text></a>
+<rect x="1216.6" y="660.0" width="228.9" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1220.6" y="669.1">14 Jun 2023 · Plenary refers back for trilogues</tspan></text>
+<rect x="1216.6" y="592.0" width="388.7" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0236/TA-9-2023-0236-FNL_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1220.6" y="601.1">14 Jun 2023 · Plenary adopts amendments (mandate for trilogues) (P9_TA(2023)0236)</tspan></text></a>
 <rect x="1461.8" y="647.0" width="318.2" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ40-AG-758862/CJ40-AG-758862_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1465.8" y="656.1">13 Feb 2024 · Committee approves provisional agreement (PE758.862)</tspan></text></a>
+<rect x="1558.5" y="605.0" width="210.1" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0188/A-9-2023-0188_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1562.5" y="614.1">12 Mar 2024 · Plenary debate (A9-0188/2023)</tspan></text></a>
 <g><title>7 Jun 2021: Referral to committee announced in plenary</title><polygon points="294.2193755004003,632.5 299.7193755004003,638 294.2193755004003,643.5 288.7193755004003,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>1 Dec 2021: IMCO rapporteur appointed (Brando Benifei, S-D)</title><polygon points="516.7093674939952,632.5 522.2093674939952,638 516.7093674939952,643.5 511.20936749399516,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>1 Dec 2021: LIBE rapporteur appointed (Dragoş Tudorache, RENEW)</title><polygon points="516.7093674939952,632.5 522.2093674939952,638 516.7093674939952,643.5 511.20936749399516,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
@@ -206,9 +212,11 @@
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/JURI-AD-719827/JURI-AD-719827_en.pdf" target="_blank"><title>5 Sep 2022: JURI opinion adopted – PE719.827</title><polygon points="866.1569255404323,632.5 871.6569255404323,638 866.1569255404323,643.5 860.6569255404323,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <g><title>11 May 2023: Committee adopts report and mandate</title><polygon points="1177.894315452362,632.5 1183.394315452362,638 1177.894315452362,643.5 1172.394315452362,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0188/A-9-2023-0188_en.pdf" target="_blank"><title>22 May 2023: Report tabled for plenary – A9-0188/2023</title><polygon points="1191.7213771016814,632.5 1197.2213771016814,638 1191.7213771016814,643.5 1186.2213771016814,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0188/A-9-2023-0188_en.pdf" target="_blank"><title>13 Jun 2023: Plenary debate – A9-0188/2023</title><polygon points="1219.3755004003203,632.5 1224.8755004003203,638 1219.3755004003203,643.5 1213.8755004003203,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <g><title>14 Jun 2023: Plenary refers back for trilogues</title><polygon points="1220.6325060048039,632.5 1226.1325060048039,638 1220.6325060048039,643.5 1215.1325060048039,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlTa_Itm/TA-9-2023-0236/TA-9-2023-0236-FNL_en.pdf" target="_blank"><title>14 Jun 2023: Plenary adopts amendments (mandate for trilogues) – P9_TA(2023)0236</title><polygon points="1220.6325060048039,632.5 1226.1325060048039,638 1220.6325060048039,643.5 1215.1325060048039,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iTrInag/CJ40-AG-758862/CJ40-AG-758862_en.pdf" target="_blank"><title>13 Feb 2024: Committee approves provisional agreement – PE758.862</title><polygon points="1527.341873498799,632.5 1532.841873498799,638 1527.341873498799,643.5 1521.841873498799,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<a xlink:href="https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2023-0188/A-9-2023-0188_en.pdf" target="_blank"><title>12 Mar 2024: Plenary debate – A9-0188/2023</title><polygon points="1562.5380304243395,632.5 1568.0380304243395,638 1562.5380304243395,643.5 1557.0380304243395,638" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/doc/TA-9-2024-0138_en.pdf" target="_blank"><title>13 Mar 2024: EP position at first reading – P9_TA(2024)0138</title><polygon points="1563.795036028823,630 1571.795036028823,638 1563.795036028823,646 1555.795036028823,638" fill="#1baf7a" stroke="#14181c" stroke-width="1.5"/></a>
 <rect x="977.8" y="735.0" width="299.4" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15698-2022-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="981.8" y="744.1">06 Dec 2022 · General approach (6 December 2022) (ST 15698/22)</tspan></text></a>
@@ -222,5 +230,5 @@
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="866.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="884.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="910.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="910.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 12 Jul 2024</tspan></text>
 </svg>

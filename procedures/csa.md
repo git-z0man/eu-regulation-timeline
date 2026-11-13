@@ -21,23 +21,23 @@ Drawing: [csa.svg](csa.svg), [csa.pdf](csa.pdf) · Web page: [csa.html](csa.html
 
 ## Documents
 
-Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public.
+Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state, and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).
 
-| Date | Document | Kind | Subject | Status | Released | Text |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2018-05-24 | ST 12183/17 REV 3 | council-transmission | – | public status unknown | – | – |
-| 2018-05-29 | [ST 9350/18](https://data.consilium.europa.eu/doc/document/ST-9350-2018-INIT/en/pdf) | council-position | General approach | public | – | – |
-| 2018-07-30 | [A8-0264/2018](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-8-2018-0264/A-8-2018-0264_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on ENISA, the "EU Cybersecurity Agency", and repealing Regulation (EU) … | public | – | – |
-| 2018-09-11 | ST 12058/18 | council-note | Preparation of the first informal trilogue | public status unknown | – | – |
-| 2018-12-20 | ST 15786/18 | council-note | Proposal for Regulation of the European Parliament and of the Council on ENISA, the "EU Cybersecurity Agency", and repealing Regulation (EU) 526/2013, and on … | public status unknown | – | – |
-| 2019-03-15 | ST 6938/19 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 11 to 14 March 2019) | public status unknown | – | – |
-| 2019-03-27 | PE 86/18 | council-note | Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – |
-| 2019-03-29 | ST 7882/19 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – |
-| 2019-03-29 | ST 7882/19 ADD 1 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – |
-| 2019-04-08 | ST 7882/19 ADD 1 REV 1 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – |
-| 2019-04-08 | ST 7882/19 REV 1 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – |
-| 2019-04-09 | ST 8377/19 | council-note | Voting result Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and … | public status unknown | – | – |
-| 2019-04-17 | PE 86/18 REV 1 | council-note | Regulation of the European Parliament and of the Council on enisa (the European Union agency for cybersecurity) and on information and communications … | public status unknown | – | – |
+| Date | Document | Kind | Subject | Status | Access | Released | Text |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-05-24 | ST 12183/17 REV 3 | council-transmission | – | public status unknown | – | – | – |
+| 2018-05-29 | [ST 9350/18](https://data.consilium.europa.eu/doc/document/ST-9350-2018-INIT/en/pdf) | council-position | General approach | public | – | – | – |
+| 2018-07-30 | [A8-0264/2018](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-8-2018-0264/A-8-2018-0264_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on ENISA, the "EU Cybersecurity Agency", and repealing Regulation (EU) … | public | – | – | – |
+| 2018-09-11 | ST 12058/18 | council-note | Preparation of the first informal trilogue | public status unknown | – | – | – |
+| 2018-12-20 | ST 15786/18 | council-note | Proposal for Regulation of the European Parliament and of the Council on ENISA, the "EU Cybersecurity Agency", and repealing Regulation (EU) 526/2013, and on … | public status unknown | – | – | – |
+| 2019-03-15 | ST 6938/19 | council-note | Outcome of the European Parliament's first reading (Strasbourg, 11 to 14 March 2019) | public status unknown | – | – | – |
+| 2019-03-27 | PE 86/18 | council-note | Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – | – |
+| 2019-03-29 | ST 7882/19 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – | – |
+| 2019-03-29 | ST 7882/19 ADD 1 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – | – |
+| 2019-04-08 | ST 7882/19 ADD 1 REV 1 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – | – |
+| 2019-04-08 | ST 7882/19 REV 1 | council-note | Draft Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and communications … | public status unknown | – | – | – |
+| 2019-04-09 | ST 8377/19 | council-note | Voting result Regulation of the European Parliament and of the Council on ENISA (the European Union Agency for Cybersecurity) and on information and … | public status unknown | – | – | – |
+| 2019-04-17 | PE 86/18 REV 1 | council-note | Regulation of the European Parliament and of the Council on enisa (the European Union agency for cybersecurity) and on information and communications … | public status unknown | – | – | – |
 
 ## Texts as Markdown
 

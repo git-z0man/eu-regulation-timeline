@@ -2,51 +2,51 @@
   "eccc-areas": {
     "pdf": "eccc-areas.pdf",
     "png": "eccc-areas.png",
-    "svg_sha256": "a47256999e364afd39dd0aadecf84fe25744318e07ff6b034826533531bfdbee"
+    "svg_sha256": "24ad8f24e81727a3f9874e7ae9092acf95a6042778c3561929575851498d9d1e"
   },
   "eccc-budget": {
     "pdf": "eccc-budget.pdf",
     "png": "eccc-budget.png",
-    "svg_sha256": "06af621314d2e642791b00c6a4a91b95d2efddeff2c3dee6bce2c26388d427ea"
+    "svg_sha256": "d8e701dc484aad2c81419d96420d6ba819f14dab7a5c1d4ec464f282c7e47b1e"
   },
   "eccc-countries": {
     "pdf": "eccc-countries.pdf",
     "png": "eccc-countries.png",
-    "svg_sha256": "a65601dff18eddfd7467fa0dc23f154f91b316dd2b3f32e365eb7148e2e758bf"
+    "svg_sha256": "d84700e9f331608ee550232f4d48a1c00811ed2b7c53dbce84cdb774987da44d"
   },
   "eccc-execution": {
     "pdf": "eccc-execution.pdf",
     "png": "eccc-execution.png",
-    "svg_sha256": "1ff77dd524fda232ecc7eaadb1248bd6be5c5331edd8ac5859df4d7d5b9fa1cf"
+    "svg_sha256": "1952b31677c60530f52429810b489b47a8ec4054ab677ceb9fdf8ede124fbcfc"
   },
   "eccc-grants": {
     "pdf": "eccc-grants.pdf",
     "png": "eccc-grants.png",
-    "svg_sha256": "b5d982713b2a88435487493a11acb42e32c35864ad09a09cc05b0440316e2001"
+    "svg_sha256": "607874c22969f794b1b159cfd6a01c583b6988b654059e045d3bd7752f5b5266"
   },
   "eccc-staff": {
     "pdf": "eccc-staff.pdf",
     "png": "eccc-staff.png",
-    "svg_sha256": "6a0f399dc09d28e3b86fa741a087b8756e95ec70db84a5167098e1d8138fb7b5"
+    "svg_sha256": "0a6b21a48ae27391609acc90ba3241ae067ffd448e228be2590aed9a6a4c9f8d"
   },
   "enisa-agreements": {
     "pdf": "enisa-agreements.pdf",
     "png": "enisa-agreements.png",
-    "svg_sha256": "eadb3712b86d99e57d91092cf5a27ba89a501549a2550508a440d2e0f7f18950"
+    "svg_sha256": "1ef4e9ac3c122e886672cb9e7650226a92f5d7b5e02b927905706d2e2c245591"
   },
   "enisa-outlook": {
     "pdf": "enisa-outlook.pdf",
     "png": "enisa-outlook.png",
-    "svg_sha256": "bdad0803fde636a27d97cc3c541bc4358757c55251c8c58ff60d32c1de22405a"
+    "svg_sha256": "dc536b9849c77272d9e405fc8df1f9f6a5ba8700a00230b0d3cec3d56d3b1418"
   },
   "enisa-revenue": {
     "pdf": "enisa-revenue.pdf",
     "png": "enisa-revenue.png",
-    "svg_sha256": "cd80083544cbe54e77dd5640558e1a8ffd045b410a7737bf27206eed1b49137b"
+    "svg_sha256": "5abc17cd4c44e35345f3ed7e8421edc5c8027a64392cf1da1dad41267fd61167"
   },
   "enisa-staff": {
     "pdf": "enisa-staff.pdf",
     "png": "enisa-staff.png",
-    "svg_sha256": "21e06f54ad3487c91083a77561493e0e710f766fae832c5ee48c1c958535cc0d"
+    "svg_sha256": "49eb12fbd89a1feed471f4b6118fbde413b94e21d60128303006fc35255f58d6"
   }
 }

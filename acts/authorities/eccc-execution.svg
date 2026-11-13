@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="322" viewBox="0 0 900 322" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="How fast the ECCC&#x27;s money is paid out">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="339" viewBox="0 0 900 339" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="How fast the ECCC&#x27;s money is paid out">
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>How fast the ECCC&#x27;s money is paid out</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="900" height="322" fill="#fff"/>
+<rect width="900" height="339" fill="#fff"/>
 <defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
 <text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">How fast the ECCC&#x27;s money is paid out</text>
 <text x="24" y="60" font-size="14" fill="#454c53">2025, EUR million: committed to projects, paid, and promised but not yet paid at year-end.</text>
@@ -36,5 +36,5 @@
 <text x="217" y="280" font-size="13" fill="#14181c">Paid in the year</text>
 <rect x="335" y="269" width="14" height="14" fill="#a7b7ba" stroke="#a7b7ba" stroke-width="1.2"/>
 <text x="355" y="280" font-size="13" fill="#14181c">Still to be paid at the end of the year</text>
-<text x="24" y="312" font-size="11.5" fill="#5b646b">Source: ECCC final annual accounts 2025, 5.5.3-5.5.5.<tspan> · Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</tspan></text>
+<text x="24" y="312" font-size="11.5" fill="#5b646b">Source: ECCC final annual accounts 2025, 5.5.3-5.5.5.</text><text x="24" y="329" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 5 Nov 2026</text>
 </svg>

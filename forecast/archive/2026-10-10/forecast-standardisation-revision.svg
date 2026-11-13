@@ -63,7 +63,7 @@
 <path d="M413.0,378.0 V373.0 H424.5 V378.0" fill="none" class="pl" stroke-width="2" data-tip="Commission: adoption in December 2027"/>
 <text x="430.5" y="377.0" font-size="11" class="pt">Commission: adoption in December 2027</text>
 <text x="238" y="466.0" text-anchor="end" font-weight="600" class="ink lnk">Application</text>
-<text x="238" y="482.0" text-anchor="end" font-size="11" class="mu">applies six months after its entry into force (Art. 43 of the proposal)</text>
+<text x="238" y="482.0" text-anchor="end" font-size="11" class="mu">applies six months after its entry into</text><text x="238" y="496.0" text-anchor="end" font-size="11" class="mu">force (Art. 43 of the proposal)</text>
 <rect x="440.6" y="466.0" width="432.1" height="6" class="b80" data-tip="Application: median Feb 2029; half of the runs Jun 2028 to Oct 2029; eight in ten Feb 2028 to Mar 2031"/>
 <rect x="491.9" y="460.0" width="184.1" height="18" class="b50" data-tip="Application: median Feb 2029; half of the runs Jun 2028 to Oct 2029; eight in ten Feb 2028 to Mar 2031"/>
 <circle cx="579.5" cy="469.0" r="7" class="med" stroke-width="3" data-tip="Application: median Feb 2029; half of the runs Jun 2028 to Oct 2029; eight in ten Feb 2028 to Mar 2031"/>

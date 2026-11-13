@@ -4,8 +4,8 @@ When the open procedures are likely to reach the Official Journal. Data of 2026-
 
 | Act | Where it stands | Official Journal, median | Half of the runs | Eight in ten | Before the 2029 elections | Next step on track until |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Omnibus IV – Digitalisation and common specifications (Regulation)](product-digitalisation-regulation.html) | provisionally agreed since 14 Jul 2026 | Jan 2027 | Dec 2026 – Feb 2027 | Nov 2026 – Apr 2027 | 100 % | – (next: Parliament's vote) |
-| [Omnibus IV – Digitalisation and common specifications (Directive)](product-digitalisation-directive.html) | provisionally agreed since 14 Jul 2026 | Jan 2027 | Dec 2026 – Feb 2027 | Nov 2026 – Apr 2027 | 100 % | – (next: Parliament's vote) |
+| [Omnibus IV – Digitalisation and common specifications (Regulation)](product-digitalisation-regulation.html) | provisionally agreed since 14 Jul 2026 | Jan 2027 | Dec 2026 – Jan 2027 | Nov 2026 – Feb 2027 | 100 % | 2026-11-24 (scheduled; next: Parliament's vote) |
+| [Omnibus IV – Digitalisation and common specifications (Directive)](product-digitalisation-directive.html) | provisionally agreed since 14 Jul 2026 | Jan 2027 | Dec 2026 – Jan 2027 | Nov 2026 – Feb 2027 | 100 % | 2026-11-24 (scheduled; next: Parliament's vote) |
 | [NIS-2 amendment](nis2-amendment.html) | referred to committee since 25 Mar 2026 | Feb 2028 | Sep 2027 – Sep 2028 | Jul 2027 – Feb 2030 | 87 % | 2026-12-16 (on track; next: EP committee vote) |
 | [Digital Omnibus](digital-omnibus.html) | referred to committee since 19 Jan 2026 | Apr 2028 | Dec 2027 – Dec 2028 | Sep 2027 – Jul 2030 | 81 % | 2027-01-04 (on track; next: EP committee vote) |
 | [MDR/IVDR simplification](medical-devices-simplification.html) | referred to committee since 25 Mar 2026 | May 2028 | Dec 2027 – Oct 2028 | Sep 2027 – Jun 2030 | 84 % | 2027-03-31 (on track; next: EP committee vote) |
