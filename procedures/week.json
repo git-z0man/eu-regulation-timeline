@@ -18,28 +18,28 @@
     {
      "date": "2026-11-10",
      "act": "Cybersecurity Act 2",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
+     "text": "European Parliament: IMCO opinion adopted",
      "url": "procedures/csa2.html",
      "top": true
     },
     {
      "date": "2026-11-10",
      "act": "Cybersecurity Act 2",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
      "url": "procedures/csa2.html",
      "top": true
     },
     {
      "date": "2026-11-10",
      "act": "Digital Omnibus",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 9 (vote)",
+     "text": "European Parliament: IMCO opinion adopted",
      "url": "procedures/digital-omnibus.html",
      "top": true
     },
     {
      "date": "2026-11-10",
      "act": "Digital Omnibus",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 9 (vote)",
      "url": "procedures/digital-omnibus.html",
      "top": true
     },
@@ -74,14 +74,14 @@
     {
      "date": "2026-11-10",
      "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
+     "text": "European Parliament: IMCO opinion adopted",
      "url": "procedures/nis2-amendment.html",
      "top": false
     },
     {
      "date": "2026-11-10",
      "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
      "url": "procedures/nis2-amendment.html",
      "top": false
     },
@@ -118,6 +118,13 @@
      "act": "Machinery Regulation",
      "text": "2 standardisation projects moved on, e.g. EN 50742:2026: Approved",
      "url": "acts/machinery-regulation.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-12",
+     "act": "Artificial Intelligence Act",
+     "text": "Plenary vote: Institutional aspects of artificial intelligence in the context of European integration (Report)",
+     "url": "acts/ai-act.html",
      "top": false
     },
     {
@@ -195,15 +202,22 @@
     {
      "date": "2026-11-10",
      "act": "Cybersecurity Act 2",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
+     "text": "European Parliament: IMCO opinion adopted",
      "url": "procedures/csa2.html",
      "top": true
     },
     {
      "date": "2026-11-10",
      "act": "Cybersecurity Act 2",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
      "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Digital Omnibus",
+     "text": "European Parliament: IMCO opinion adopted",
+     "url": "procedures/digital-omnibus.html",
      "top": true
     },
     {
@@ -215,22 +229,15 @@
     },
     {
      "date": "2026-11-10",
-     "act": "Digital Omnibus",
-     "text": "European Parliament: Committee opinion adopted",
-     "url": "procedures/digital-omnibus.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
      "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
+     "text": "European Parliament: IMCO opinion adopted",
      "url": "procedures/nis2-amendment.html",
      "top": true
     },
     {
      "date": "2026-11-10",
      "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
      "url": "procedures/nis2-amendment.html",
      "top": false
     },
@@ -267,6 +274,13 @@
      "act": "Machinery Regulation",
      "text": "2 standardisation projects moved on, e.g. EN 50742:2026: Approved",
      "url": "acts/machinery-regulation.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-12",
+     "act": "Artificial Intelligence Act",
+     "text": "Plenary vote: Institutional aspects of artificial intelligence in the context of European integration (Report)",
+     "url": "acts/ai-act.html",
      "top": false
     },
     {

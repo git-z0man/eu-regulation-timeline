@@ -212,9 +212,9 @@ It ensures a flexible implementation of the mechanism that can be refined in lig
 
 **Article 1 – paragraph 1 – point 1 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 1 – paragraph 9</Article2>
+Article 1 – paragraph 9
 
 | Present text | Amendment |
 | --- | --- |
@@ -235,9 +235,9 @@ It avoids duplicative MDR obligations where the product is already assessed unde
 
 **Article 1 – paragraph 1 – point 2 – point d**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 2 – point 48</Article2>
+Article 2 – point 48
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -254,9 +254,9 @@ This clarifies that clinical data is information generated from clinical and/or 
 
 **Article 1 – paragraph 1 – point 2 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 2 – point 72 b (new)</Article2>
+Article 2 – point 72 b (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -269,9 +269,9 @@ This clarifies that clinical data is information generated from clinical and/or 
 
 **Article 1 – paragraph 1 – point 2 – point e a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 2 – points 77, 78 and 79 (new)</Article2>
+Article 2 – points 77, 78 and 79 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -292,9 +292,9 @@ It ensure legal certainty for products that are essential for patient care but a
 
 **Article 1 – paragraph 1 – point 2 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 2 – point 44</Article2>
+Article 2 – point 44
 
 | Present text | Amendment |
 | --- | --- |
@@ -310,9 +310,9 @@ It ensure legal certainty for products that are essential for patient care but a
 
 **Article 1 – paragraph 1 – point 3**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 3 – paragraph 2 a (new)</Article2>
+Article 3 – paragraph 2 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -326,9 +326,9 @@ It ensure legal certainty for products that are essential for patient care but a
 
 **Article 1 – paragraph 1 – point 3**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4 – paragraph 1</Article2>
+Article 4 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -345,9 +345,9 @@ It clarifies that the procedure applies only once products have been placed on t
 
 **Article 1 – paragraph 1 – point 3**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4 – paragraph 3</Article2>
+Article 4 – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -364,9 +364,9 @@ It requires substantiated evidence before re-opening the regulatory status of a 
 
 **Article 1 – paragraph 1 – point 3**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4 – paragraph 5</Article2>
+Article 4 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -379,9 +379,9 @@ It requires substantiated evidence before re-opening the regulatory status of a 
 
 **Article 1 – paragraph 1 – point 3**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4 – paragraph 5 a (new)</Article2>
+Article 4 – paragraph 5 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -398,9 +398,9 @@ It enables Union-level decision-making to ensure the consistent application of t
 
 **Article 1 – paragraph 1 – point 3**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4 – paragraph 6</Article2>
+Article 4 – paragraph 6
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -413,9 +413,9 @@ It enables Union-level decision-making to ensure the consistent application of t
 
 **Article 1 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4a – paragraph 1</Article2>
+Article 4a – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -432,9 +432,9 @@ It limits the expert panel procedure to substantiated requests by competent auth
 
 **Article 1 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4a – paragraph 2</Article2>
+Article 4a – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -448,9 +448,9 @@ It limits the expert panel procedure to substantiated requests by competent auth
 
 **Article 1 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4a – paragraph 3 – subparagraph 1</Article2>
+Article 4a – paragraph 3 – subparagraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -463,9 +463,9 @@ It limits the expert panel procedure to substantiated requests by competent auth
 
 **Article 1 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4a – paragraph 3 – subparagraph 2</Article2>
+Article 4a – paragraph 3 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -478,9 +478,9 @@ It limits the expert panel procedure to substantiated requests by competent auth
 
 **Article 1 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 4a – paragraph 3 – subparagraph 3</Article2>
+Article 4a – paragraph 3 – subparagraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -493,9 +493,9 @@ It limits the expert panel procedure to substantiated requests by competent auth
 
 **Article 1 – paragraph 1 – point 5 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 5 – paragraph 5 – introductory part</Article2>
+Article 5 – paragraph 5 – introductory part
 
 | Present text | Amendment |
 | --- | --- |
@@ -515,9 +515,9 @@ It ensures that in-house exemption remains, in practice, usable for health insti
 
 **Article 1 – paragraph 1 – point 6 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 5 – paragraph 5 – point e</Article2>
+Article 5 – paragraph 5 – point e
 
 | Present text | Amendment |
 | --- | --- |
@@ -539,9 +539,9 @@ It removes a disproportionate publication requirement for non-commercial in-hous
 
 **Article 1 – paragraph 1 – point 9 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 10 – paragraph 9 – subparagraph 3 (new)</Article2>
+Article 10 – paragraph 9 – subparagraph 3 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -558,9 +558,9 @@ It allows relevant results from internationally recognised quality management au
 
 **Article 1 – paragraph 1 – point 9 – point c**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 10 – paragraph 10</Article2>
+Article 10 – paragraph 10
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -573,9 +573,9 @@ It allows relevant results from internationally recognised quality management au
 
 **Article 1 – paragraph 1 – point 9 – point d**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 10 – paragraph 11</Article2>
+Article 10 – paragraph 11
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -592,9 +592,9 @@ It reduces translation burden while taking account the technical expertise of th
 
 **Article 1 – paragraph 1 – point 9 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/45</DocAmend2>*
+*Regulation (EU) 2017/45*
 
-<Article2>Article 10 – paragraph 13</Article2>
+Article 10 – paragraph 13
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -607,9 +607,9 @@ It reduces translation burden while taking account the technical expertise of th
 
 **Article 1 – paragraph 1 – point 9 – point f**
 
-*<DocAmend2>Regulation (EU) 2017/45</DocAmend2>*
+*Regulation (EU) 2017/45*
 
-<Article2>Article 10 – paragraph 14</Article2>
+Article 10 – paragraph 14
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -628,9 +628,9 @@ It preserves the existing safeguards on manufacturer liability and financial cov
 
 **Article 1 – paragraph 1 – point 9 – point h**
 
-*<DocAmend2>Regulation (EU) 2017/45</DocAmend2>*
+*Regulation (EU) 2017/45*
 
-<Article2>Article 10 – paragraph 16</Article2>
+Article 10 – paragraph 16
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -647,9 +647,9 @@ It preserves the existing safeguards on manufacturer liability and financial cov
 
 **Article 1 – paragraph 1 – point 9 – point h a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/45</DocAmend2>*
+*Regulation (EU) 2017/45*
 
-<Article2>Article 10 – paragraph 16 a (new)</Article2>
+Article 10 – paragraph 16 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -667,9 +667,9 @@ It strengthens patient and user protection by requiring economic operators liabl
 
 **Article 1 – paragraph 1 – point 11**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 11 – paragraphs 4 and 5</Article2>
+Article 11 – paragraphs 4 and 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -686,9 +686,9 @@ The original text maintains existing liability rules for authorised representati
 
 **Article 1 – paragraph 1 – point 14 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 16 – paragraph 4</Article2>
+Article 16 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -706,9 +706,9 @@ It preserves manufacturer oversight where devices are relabeled or repackaged by
 
 **Article 1 – paragraph 1 – point 15**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 17 – paragraph 1</Article2>
+Article 17 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -726,9 +726,9 @@ It ensure that a single-use decision remains with the manufacturer, who has the 
 
 **Article 1 – paragraph 1 – point 15**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 17 – paragraph 2</Article2>
+Article 17 – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -741,9 +741,9 @@ It ensure that a single-use decision remains with the manufacturer, who has the 
 
 **Article 1 – paragraph 1 – point 15**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 17 – paragraph 3</Article2>
+Article 17 – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -756,9 +756,9 @@ It ensure that a single-use decision remains with the manufacturer, who has the 
 
 **Article 1 – paragraph 1 – point 15**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 17 – paragraph 4</Article2>
+Article 17 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -771,9 +771,9 @@ It ensure that a single-use decision remains with the manufacturer, who has the 
 
 **Article 1 – paragraph 1 – point 16 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 18 – paragraph 3</Article2>
+Article 18 – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -791,9 +791,9 @@ Patients continue to receive essential information on implanted devices, even wh
 
 **Article 1 – paragraph 1 – point 19 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 27 – paragraph 1 – point a i</Article2>
+Article 27 – paragraph 1 – point a i
 
 | Present text | Amendment |
 | --- | --- |
@@ -809,9 +809,9 @@ Patients continue to receive essential information on implanted devices, even wh
 
 **Article 1 – paragraph 1 – point 22 – point a**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 30 – paragraph 1</Article2>
+Article 30 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -828,9 +828,9 @@ Allows the SME status of manufacturers to be recorded directly in Eudamed. This 
 
 **Article 1 – paragraph 1 – point 24 – point a**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 32 – paragraph 1 – subparagraph 2</Article2>
+Article 32 – paragraph 1 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -843,9 +843,9 @@ Allows the SME status of manufacturers to be recorded directly in Eudamed. This 
 
 **Article 1 – paragraph 1 – point 24 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 32 – paragraph 2 – point h</Article2>
+Article 32 – paragraph 2 – point h
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -863,9 +863,9 @@ It ensures that all important information regarding health and safety is transmi
 
 **Article 1 – paragraph 1 – point 30**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 39 – paragraph 6</Article2>
+Article 39 – paragraph 6
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -882,9 +882,9 @@ It improves the predictability and efficiency of the designation procedure by in
 
 **Article 1 – paragraph 1 – point 30**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 39 – paragraph 11</Article2>
+Article 39 – paragraph 11
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -901,9 +901,9 @@ It improves the predictability and efficiency of the designation procedure by in
 
 **Article 1 – paragraph 1 – point 30**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 39 – paragraph 11</Article2>
+Article 39 – paragraph 11
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -920,9 +920,9 @@ It improves the predictability and efficiency of the designation procedure by in
 
 **Article 1 – paragraph 1 – point 30**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 39 – paragraph 13</Article2>
+Article 39 – paragraph 13
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -939,9 +939,9 @@ It improves the predictability and efficiency of the designation procedure by in
 
 **Article 1 – paragraph 1 – point 30**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 39 – paragraph 14</Article2>
+Article 39 – paragraph 14
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -954,9 +954,9 @@ It improves the predictability and efficiency of the designation procedure by in
 
 **Article 1 – paragraph 1 – point 35 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 44 – paragraph 4 a – subparagraph 1</Article2>
+Article 44 – paragraph 4 a – subparagraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -973,9 +973,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 35 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 44 – paragraph 4a – subparagraph 2</Article2>
+Article 44 – paragraph 4a – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -988,9 +988,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 35 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 44 – paragraph 4 b</Article2>
+Article 44 – paragraph 4 b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1003,9 +1003,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 35 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 44 – paragraph 4 b</Article2>
+Article 44 – paragraph 4 b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1018,9 +1018,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 35 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 44 – paragraph 4 c</Article2>
+Article 44 – paragraph 4 c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1033,9 +1033,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 35 – point e**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 44 – paragraph 4 c</Article2>
+Article 44 – paragraph 4 c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1048,9 +1048,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 40**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 49 – paragraph 3</Article2>
+Article 49 – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1063,9 +1063,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 41 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51 – paragraph 3 – introductory part</Article2>
+Article 51 – paragraph 3 – introductory part
 
 | Present text | Amendment |
 | --- | --- |
@@ -1081,9 +1081,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 41 b (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51 – paragraph 4</Article2>
+Article 51 – paragraph 4
 
 | Present text | Amendment |
 | --- | --- |
@@ -1099,9 +1099,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51a – paragraph 2</Article2>
+Article 51a – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1114,9 +1114,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51a – paragraph 3</Article2>
+Article 51a – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1129,9 +1129,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51a – paragraph 4</Article2>
+Article 51a – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1144,9 +1144,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51a – paragraph 5</Article2>
+Article 51a – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1159,9 +1159,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51a – paragraph 5 a (new)</Article2>
+Article 51a – paragraph 5 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1174,9 +1174,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – paragraph 5 b (new)</Article2>
+Article 51b – paragraph 5 b (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1189,9 +1189,9 @@ It reduces unnecessary administrative burden by requiring full Joint Assessment 
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – paragraph 4 a (new)</Article2>
+Article 51b – paragraph 4 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1208,9 +1208,9 @@ This Article strengthens the role of expert panels in complex classification que
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – title</Article2>
+Article 51b – title
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1223,9 +1223,9 @@ This Article strengthens the role of expert panels in complex classification que
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – paragraph 1</Article2>
+Article 51b – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1238,9 +1238,9 @@ This Article strengthens the role of expert panels in complex classification que
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – paragraph 2</Article2>
+Article 51b – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1253,9 +1253,9 @@ This Article strengthens the role of expert panels in complex classification que
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – paragraph 3</Article2>
+Article 51b – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1268,9 +1268,9 @@ This Article strengthens the role of expert panels in complex classification que
 
 **Article 1 – paragraph 1 – point 42**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 51b – paragraph 4</Article2>
+Article 51b – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1283,9 +1283,9 @@ This Article strengthens the role of expert panels in complex classification que
 
 **Article 1 – paragraph 1 – point 43 – point e a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52 – paragraph 7 – subparagraph 2 (new)</Article2>
+Article 52 – paragraph 7 – subparagraph 2 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1303,9 +1303,9 @@ It prevents divergent national prior authorisation for advertising of medical de
 
 **Article 1 – paragraph 1 – point 43 – point g**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52 – paragraph 14 – point b</Article2>
+Article 52 – paragraph 14 – point b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1322,9 +1322,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 1</Article2>
+Article 52a – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1337,9 +1337,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 2</Article2>
+Article 52a – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1352,9 +1352,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 5</Article2>
+Article 52a – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1367,9 +1367,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 6 – subparagraph 1</Article2>
+Article 52a – paragraph 6 – subparagraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1382,9 +1382,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 6 – suparagraph 2</Article2>
+Article 52a – paragraph 6 – suparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1397,9 +1397,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 6 a (new)</Article2>
+Article 52a – paragraph 6 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1412,9 +1412,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 7 – introductory part</Article2>
+Article 52a – paragraph 7 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1427,9 +1427,9 @@ Ensures that surveillance audits, unannounced audits and sample tests are organi
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 7 – subparagraph 2</Article2>
+Article 52a – paragraph 7 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1446,9 +1446,9 @@ It ensures that earlier market access based on limited clinical data is balanced
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 7 – subparagraph 2 a (new)</Article2>
+Article 52a – paragraph 7 – subparagraph 2 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1461,9 +1461,9 @@ It ensures that earlier market access based on limited clinical data is balanced
 
 **Article 1 – paragraph 1 – point 44**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 52a – paragraph 9</Article2>
+Article 52a – paragraph 9
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1476,9 +1476,9 @@ It ensures that earlier market access based on limited clinical data is balanced
 
 **Article 1 – paragraph 1 – point 46**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 54 – paragraph 1 – subparagraph 1</Article2>
+Article 54 – paragraph 1 – subparagraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1495,9 +1495,9 @@ It ensures that devices with higher risk profiles remain subject to independent 
 
 **Article 1 – paragraph 1 – point 47 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 56 – paragraph 2a</Article2>
+Article 56 – paragraph 2a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1514,9 +1514,9 @@ Surveillance during the validity of the certificate should remain proportionate 
 
 **Article 1 – paragraph 1 – point 49 – point a**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 59 – paragraph 1</Article2>
+Article 59 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1529,9 +1529,9 @@ Surveillance during the validity of the certificate should remain proportionate 
 
 **Article 1 – paragraph 1 – point 49 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 59 – paragraph 1 a</Article2>
+Article 59 – paragraph 1 a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1544,9 +1544,9 @@ Surveillance during the validity of the certificate should remain proportionate 
 
 **Article 1 – paragraph 1 – point 49 – point d**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 59 – paragraph 3</Article2>
+Article 59 – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1559,9 +1559,9 @@ Surveillance during the validity of the certificate should remain proportionate 
 
 **Article 1 – paragraph 1 – point 50**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 59b – paragraph 7 a (new)</Article2>
+Article 59b – paragraph 7 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1574,9 +1574,9 @@ Surveillance during the validity of the certificate should remain proportionate 
 
 **Article 1 – paragraph 1 – point 50**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 59c – paragraph 5 a (new)</Article2>
+Article 59c – paragraph 5 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1589,9 +1589,9 @@ Surveillance during the validity of the certificate should remain proportionate 
 
 **Article 1 – paragraph 1 – point 52 – point c**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 61 – paragraph 5</Article2>
+Article 61 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1608,9 +1608,9 @@ Introduces a risk-based approach to the use of equivalence. Ensures that relianc
 
 **Article 1 – paragraph 1 – point 52 – point f**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 61 – paragraph 11</Article2>
+Article 61 – paragraph 11
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1627,9 +1627,9 @@ Clarifies when clinical evaluation documentation must be updated.
 
 **Article 1 – paragraph 1 – point 61 – point c a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 78 – paragraph 14</Article2>
+Article 78 – paragraph 14
 
 | Present text | Amendment |
 | --- | --- |
@@ -1649,9 +1649,9 @@ The reduction of the time period and removal of the application phase will reduc
 
 **Article 1 – paragraph 1 – point 67 – point a – point ii**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 86 – paragraph 1 – subparagraph 1 – first sentence</Article2>
+Article 86 – paragraph 1 – subparagraph 1 – first sentence
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1664,9 +1664,9 @@ The reduction of the time period and removal of the application phase will reduc
 
 **Article 1 – paragraph 1 – point 67 – point a – point ii**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 86 – paragraph 1 – subparagraph 3</Article2>
+Article 86 – paragraph 1 – subparagraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1679,9 +1679,9 @@ The reduction of the time period and removal of the application phase will reduc
 
 **Article 1 – paragraph 1 – point 86**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 106 – paragraph 2 – subparagraph 1</Article2>
+Article 106 – paragraph 2 – subparagraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1698,9 +1698,9 @@ It strengthens early coordination between expert panels and notified bodies, the
 
 **Article 1 – paragraph 1 – point 86**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 106 – paragraph 4</Article2>
+Article 106 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1717,9 +1717,9 @@ It ensures that expert panels have access to all relevant stakeholder input in o
 
 **Article 1 – paragraph 1 – point 95**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Article 120 – paragraph 14 – subparagraph 1 – introductory part</Article2>
+Article 120 – paragraph 14 – subparagraph 1 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1736,9 +1736,9 @@ It ensures that the derogation also covers niche devices, thereby safeguarding t
 
 **Article 2 – paragraph 1 – point 5 – point a – point i – point 2**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 5 – paragraph 5 – point c</Article2>
+Article 5 – paragraph 5 – point c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1755,9 +1755,9 @@ It ensures an equivalent level of quality and competence for laboratories, inclu
 
 **Article 2 – paragraph 1 – point 5 – point a – point iii**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 5 – paragraph 5 – subparagraph 3</Article2>
+Article 5 – paragraph 5 – subparagraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1774,9 +1774,9 @@ It ensures consistent application of the provision to laboratories performing te
 
 **Article 2 – paragraph 1 – point 5 – point a a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 5 – paragraph 5 – introductory part</Article2>
+Article 5 – paragraph 5 – introductory part
 
 | Present text | Amendment |
 | --- | --- |
@@ -1794,9 +1794,9 @@ It ensures that the exemption from regulatory requirements also applies to equiv
 
 **Article 2 – paragraph 1 – point 7 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 7 – subparagraph 3 (new)</Article2>
+Article 7 – subparagraph 3 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1814,9 +1814,9 @@ It maintains harmonised Union rules for the advertising of medical devices by pr
 
 **Article 2 – paragraph 1 – point 9 – point b – introductory part**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 10 – Paragraph 8</Article2>
+Article 10 – Paragraph 8
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1833,9 +1833,9 @@ It preserves a clear and standardised reference framework for all components, th
 
 **Article 2 – paragraph 1 – point 9 – point c**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 10 – paragraph 9</Article2>
+Article 10 – paragraph 9
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1853,9 +1853,9 @@ It enables manufacturers to rely on audits and certifications from international
 
 **Article 2 – paragraph 1 – point 14 – point b**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 16 – paragraph 4</Article2>
+Article 16 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1872,9 +1872,9 @@ It ensures timely and accurate information on relabelling and repackaging activi
 
 **Article 2 – paragraph 1 – point 36**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 54b – paragraph 7 a (new)</Article2>
+Article 54b – paragraph 7 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1891,9 +1891,9 @@ It clarifies that participation in a regulatory sandbox does not affect the appl
 
 **Article 2 – paragraph 1 – point 51 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 78 – paragraph 4 a (new)</Article2>
+Article 78 – paragraph 4 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1911,9 +1911,9 @@ This article clarifies that post-market surveillance activities are carried out 
 
 **Article 2 – paragraph 1 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Article 13 – paragraph 2</Article2>
+Article 13 – paragraph 2
 
 | Present text | Amendment |
 | --- | --- |
@@ -1938,9 +1938,9 @@ It introduces a more risk-based and proportionate approach to importer obligatio
 
 **Annex I – paragraph 1 – point 1 – point d – point iii – paragraph 1**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex I – Section 23.1 – point f</Article2>
+Annex I – Section 23.1 – point f
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1957,9 +1957,9 @@ It facilitates the use of electronic instructions for use, while ensuring that u
 
 **Annex I – paragraph 1 – point 1 a (new)**
 
-*<DocAmend2>Regulation (EU )2017/745</DocAmend2>*
+*Regulation (EU )2017/745*
 
-<Article2>Annex I – Section 12.2</Article2>
+Annex I – Section 12.2
 
 | Present text | Amendment |
 | --- | --- |
@@ -1979,9 +1979,9 @@ It clarifies that substance-based devices should be assessed in relation to rele
 
 **Annex I – paragraph 1 – point 4 – point a**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VI – Part B – point 4</Article2>
+Annex VI – Part B – point 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1998,9 +1998,9 @@ It removes the administrative requirement to indicate the Member States in which
 
 **Annex I – paragraph 1 – point 5 – point c**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VII – Section 1.2.9</Article2>
+Annex VII – Section 1.2.9
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2013,9 +2013,9 @@ It removes the administrative requirement to indicate the Member States in which
 
 **Annex I – paragraph 1 – point 5 – point p – point i**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VII – Section 4.5.1 – paragraph 2 – indent 9</Article2>
+Annex VII – Section 4.5.1 – paragraph 2 – indent 9
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2032,9 +2032,9 @@ Ensures that issues already resolved during the conformity assessment will not b
 
 **Annex I – paragraph 1 – point 5 – point p – point iii**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VII – Section 4.5.1 – paragraph 2 – indent 11</Article2>
+Annex VII – Section 4.5.1 – paragraph 2 – indent 11
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2051,9 +2051,9 @@ Recognising assessments already carried out under the MDR avoids duplication and
 
 **Annex I – paragraph 1 – point 5 – point p – point iii a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VII – Section 4.5.1 – paragraph 2 – indent 11 a (new)</Article2>
+Annex VII – Section 4.5.1 – paragraph 2 – indent 11 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2072,9 +2072,9 @@ This amendment focuses the notified body’s assessment on critical safety and p
 
 **Annex I – paragraph 1 – point 6 – point g**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VIII – Section 6.3 – subparagraph 1 – introductory part</Article2>
+Annex VIII – Section 6.3 – subparagraph 1 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2087,9 +2087,9 @@ This amendment focuses the notified body’s assessment on critical safety and p
 
 **Annex I – paragraph 1 – point 6 – point g**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VIII – Section 6.3 – subparagraph 1 – indent 1</Article2>
+Annex VIII – Section 6.3 – subparagraph 1 – indent 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2102,9 +2102,9 @@ This amendment focuses the notified body’s assessment on critical safety and p
 
 **Annex I – paragraph 1 – point 6 – point g**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VIII – Section 6.3 – subparagraph 1 – indent 2</Article2>
+Annex VIII – Section 6.3 – subparagraph 1 – indent 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2117,9 +2117,9 @@ This amendment focuses the notified body’s assessment on critical safety and p
 
 **Annex I – paragraph 1 – point 6 – point g**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VIII – Section 6.3 – subparagraph 1 – indent 3</Article2>
+Annex VIII – Section 6.3 – subparagraph 1 – indent 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2132,9 +2132,9 @@ This amendment focuses the notified body’s assessment on critical safety and p
 
 **Annex I – paragraph 1 – point 6 – point i**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VIII – Section 7.8 – introductory part</Article2>
+Annex VIII – Section 7.8 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2147,9 +2147,9 @@ This amendment focuses the notified body’s assessment on critical safety and p
 
 **Annex I – paragraph 1 – point 6 a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex VIII – Section 7.1 – subparagraph 1 – indent 1</Article2>
+Annex VIII – Section 7.1 – subparagraph 1 – indent 1
 
 | Present text | Amendment |
 | --- | --- |
@@ -2169,9 +2169,9 @@ Avoids disproportionate classification where the substance does not play a role 
 
 **Annex I – paragraph 1 – point 7 – point a a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex IX – Section 2.4</Article2>
+Annex IX – Section 2.4
 
 | Present text | Amendment |
 | --- | --- |
@@ -2191,9 +2191,9 @@ Clarifies that additional audits or reviews are required only where necessary, r
 
 **Annex I – paragraph 1 – point 7 – point c**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex IX – Section 3.3 – subparagraph 2</Article2>
+Annex IX – Section 3.3 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2206,9 +2206,9 @@ Clarifies that additional audits or reviews are required only where necessary, r
 
 **Annex I – paragraph 1 – point 7 – point d – point i**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex IX – Section 3.4 – paragraph 1</Article2>
+Annex IX – Section 3.4 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2221,9 +2221,9 @@ Clarifies that additional audits or reviews are required only where necessary, r
 
 **Annex I – paragraph 1 – point 7 b (new)**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex IX – Section 5.4</Article2>
+Annex IX – Section 5.4
 
 | Present text | Amendment |
 | --- | --- |
@@ -2244,9 +2244,9 @@ Clarifies that substance-based medical devices must be assessed with regard to t
 
 **Annex I – paragraph 1 – point 12 – point a – point ii**
 
-*<DocAmend2>Regulation (EU) 2017/745</DocAmend2>*
+*Regulation (EU) 2017/745*
 
-<Article2>Annex XIV – Section 1</Article2>
+Annex XIV – Section 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2259,9 +2259,9 @@ Clarifies that substance-based medical devices must be assessed with regard to t
 
 **Annex II – paragraph 1 – point 1 – point b – point v**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Annex I – Section 20. 1 – point k</Article2>
+Annex I – Section 20. 1 – point k
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2274,9 +2274,9 @@ Clarifies that substance-based medical devices must be assessed with regard to t
 
 **Annex II – paragraph 1 – point 1 – point b – point v – point a (new)**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Annex I – Section 20. 1 – point j a (new)</Article2>
+Annex I – Section 20. 1 – point j a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2289,9 +2289,9 @@ Clarifies that substance-based medical devices must be assessed with regard to t
 
 **Annex II – paragraph 1 – point 6 – point c**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Annex IX – Section 3.3 – subparagraph 2</Article2>
+Annex IX – Section 3.3 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2304,9 +2304,9 @@ Clarifies that substance-based medical devices must be assessed with regard to t
 
 **Annex II – paragraph 1 – point 6 – point d – point i**
 
-*<DocAmend2>Regulation (EU) 2017/746</DocAmend2>*
+*Regulation (EU) 2017/746*
 
-<Article2>Annex IX – Section 3.4</Article2>
+Annex IX – Section 3.4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |

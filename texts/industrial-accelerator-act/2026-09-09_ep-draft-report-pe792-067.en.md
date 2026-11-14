@@ -2091,9 +2091,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 1 – point c**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 3 – point 36</Article2>
+Article 3 – point 36
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2106,9 +2106,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 1 – point c a (new)**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 3 – point 36 a (new)</Article2>
+Article 3 – point 36 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2122,9 +2122,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 3 – point a**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 25 – paragraph 1</Article2>
+Article 25 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2138,9 +2138,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 3 – point a a (new)**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 25 – paragraph 3 – point c</Article2>
+Article 25 – paragraph 3 – point c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2154,9 +2154,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2024/1735</DocAmend2>*
+*Regulation (EU) 2024/1735*
 
-<Article2>Article 25a – paragraph -1 (new)</Article2>
+Article 25a – paragraph -1 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2169,9 +2169,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 25a – paragraph 1 a (new)</Article2>
+Article 25a – paragraph 1 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2184,9 +2184,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2024/1735 </DocAmend2>*
+*Regulation (EU) 2024/1735*
 
-<Article2>Article 25a – paragraph 3 – point c</Article2>
+Article 25a – paragraph 3 – point c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2199,9 +2199,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 25a – paragraph 3 – point c – paragraph 2 (new)</Article2>
+Article 25a – paragraph 3 – point c – paragraph 2 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2214,9 +2214,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 25a – paragraph 3 – subparagraph 2 (new)</Article2>
+Article 25a – paragraph 3 – subparagraph 2 (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2229,9 +2229,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 25a – paragraph 4</Article2>
+Article 25a – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2245,9 +2245,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 5 – point c**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 26 – paragraph 2a</Article2>
+Article 26 – paragraph 2a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2260,9 +2260,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 5 – point b – paragraph 3 a (new)**
 
-*<DocAmend2>Regulation (EU) 2024/1735</DocAmend2>*
+*Regulation (EU) 2024/1735*
 
-<Article2>Article 26 – paragraph 1 a (new)</Article2>
+Article 26 – paragraph 1 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2276,9 +2276,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 5 – point e**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 26 – paragraph 4</Article2>
+Article 26 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2291,9 +2291,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 5 – e a (new)**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 26 – paragraph 4 a (new)</Article2>
+Article 26 – paragraph 4 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2307,9 +2307,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 5 – point f**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 26 – paragraph 5</Article2>
+Article 26 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2324,9 +2324,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 5 – point g**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 26 – paragraph 7</Article2>
+Article 26 – paragraph 7
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2339,9 +2339,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28a – paragraph 1</Article2>
+Article 28a – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2354,9 +2354,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28a – paragraph 3 a (new)</Article2>
+Article 28a – paragraph 3 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2369,9 +2369,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28c – paragraph 2 – point b</Article2>
+Article 28c – paragraph 2 – point b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2384,9 +2384,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28d – paragraph 1</Article2>
+Article 28d – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2399,9 +2399,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28d – paragraph 2 a (new)</Article2>
+Article 28d – paragraph 2 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2414,9 +2414,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28d – paragraph 2 b (new)</Article2>
+Article 28d – paragraph 2 b (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2437,9 +2437,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28d – paragraph 2 c (new)</Article2>
+Article 28d – paragraph 2 c (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2452,9 +2452,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28d – paragraph 2 d (new)</Article2>
+Article 28d – paragraph 2 d (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2467,9 +2467,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28e</Article2>
+Article 28e
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2482,9 +2482,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28f</Article2>
+Article 28f
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2497,9 +2497,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28g</Article2>
+Article 28g
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2512,9 +2512,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28h – paragraph 2 – introductory part</Article2>
+Article 28h – paragraph 2 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2527,9 +2527,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Article 28h – paragraph 3 a (new)</Article2>
+Article 28h – paragraph 3 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2548,9 +2548,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 7 a (new)**
 
-*<DocAmend2>Regulation (EU) 2024/1735</DocAmend2>*
+*Regulation (EU) 2024/1735*
 
-<Article2>Article 44 – paragraph 2</Article2>
+Article 44 – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2564,9 +2564,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 7 b (new)**
 
-*<DocAmend2>Regulation (EU) 2024/1735</DocAmend2>*
+*Regulation (EU) 2024/1735*
 
-<Article2>Article 44 – paragraph 3</Article2>
+Article 44 – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2580,9 +2580,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 7 c (new)**
 
-*<DocAmend2>Regulation (EU) 2024/1735</DocAmend2>*
+*Regulation (EU) 2024/1735*
 
-<Article2>Article 44 – paragraph 6</Article2>
+Article 44 – paragraph 6
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2596,9 +2596,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2611,9 +2611,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2628,9 +2628,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2643,9 +2643,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2658,9 +2658,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2673,9 +2673,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2014/1735</DocAmend2>*
+*Regulation 2014/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2688,9 +2688,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2703,9 +2703,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2718,9 +2718,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2733,9 +2733,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part I</Article2>
+Annex II – Part I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2748,9 +2748,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex – Part II</Article2>
+Annex – Part II
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2763,9 +2763,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part II</Article2>
+Annex II – Part II
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2778,9 +2778,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part II</Article2>
+Annex II – Part II
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2795,9 +2795,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part II</Article2>
+Annex II – Part II
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2810,9 +2810,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part II</Article2>
+Annex II – Part II
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2825,9 +2825,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part III</Article2>
+Annex II – Part III
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2840,9 +2840,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part III</Article2>
+Annex II – Part III
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2857,9 +2857,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part III</Article2>
+Annex II – Part III
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2872,9 +2872,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part III</Article2>
+Annex II – Part III
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2887,9 +2887,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part III</Article2>
+Annex II – Part III
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2904,9 +2904,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part III</Article2>
+Annex II – Part III
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2920,9 +2920,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part IV</Article2>
+Annex II – Part IV
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2935,9 +2935,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part IV</Article2>
+Annex II – Part IV
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2950,9 +2950,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part IV</Article2>
+Annex II – Part IV
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2965,9 +2965,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part IV</Article2>
+Annex II – Part IV
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2980,9 +2980,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 34 – paragraph 1 – point 8**
 
-*<DocAmend2>Regulation 2024/1735</DocAmend2>*
+*Regulation 2024/1735*
 
-<Article2>Annex II – Part IV</Article2>
+Annex II – Part IV
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -2995,9 +2995,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 35 – paragraph 1**
 
-*<DocAmend2>Regulation 2024/3110</DocAmend2>*
+*Regulation 2024/3110*
 
-<Article2>Annex I</Article2>
+Annex I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -3012,9 +3012,9 @@ solar technologies include solar PV and solar thermal technologies
 
 **Article 35 – paragraph 1**
 
-*<DocAmend2>Regulation 2024/3110</DocAmend2>*
+*Regulation 2024/3110*
 
-<Article2>Annex X</Article2>
+Annex X
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |

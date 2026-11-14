@@ -2091,9 +2091,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 1 – Buchstabe c**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 3 – Nummer 36</Article2>
+Artikel 3 – Nummer 36
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2106,9 +2106,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 1 – Buchstabe c a (neu)**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 3 – Nummer 36 a (neu)</Article2>
+Artikel 3 – Nummer 36 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2122,9 +2122,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 3 – Buchstabe a**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 25 – Absatz 1</Article2>
+Artikel 25 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2138,9 +2138,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 3 – Buchstabe a a (neu)**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 25 – Absatz 3 – Buchstabe c</Article2>
+Artikel 25 – Absatz 3 – Buchstabe c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2154,9 +2154,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2024/1735</DocAmend2>*
+*Verordnung (EU) 2024/1735*
 
-<Article2>Artikel 25a – Absatz -1 (neu)</Article2>
+Artikel 25a – Absatz -1 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2169,9 +2169,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 25 a – Absatz 1 a (neu)</Article2>
+Artikel 25 a – Absatz 1 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2184,9 +2184,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2024/1735 </DocAmend2>*
+*Verordnung (EU) 2024/1735*
 
-<Article2>Artikel 25 a – Absatz 3 – Buchstabe c</Article2>
+Artikel 25 a – Absatz 3 – Buchstabe c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2199,9 +2199,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 25a – Absatz 3 – Buchstabe c – Absatz 2 (neu)</Article2>
+Artikel 25a – Absatz 3 – Buchstabe c – Absatz 2 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2214,9 +2214,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 25a – Absatz 3 – Unterabsatz 2 (neu)</Article2>
+Artikel 25a – Absatz 3 – Unterabsatz 2 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2229,9 +2229,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 25a – Absatz 4</Article2>
+Artikel 25a – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2245,9 +2245,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 5 – Buchstabe c**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 26 – Absatz 2 a</Article2>
+Artikel 26 – Absatz 2 a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2260,9 +2260,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 5 – Buchstabe b – Absatz 3 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2024/1735</DocAmend2>*
+*Verordnung (EU) 2024/1735*
 
-<Article2>Artikel 26 – Absatz 1 a (neu)</Article2>
+Artikel 26 – Absatz 1 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2276,9 +2276,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 5 – Buchstabe e**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 26 – Absatz 4</Article2>
+Artikel 26 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2291,9 +2291,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 5 – Buchstabe e a (neu)**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 26 – Absatz 4 a (neu)</Article2>
+Artikel 26 – Absatz 4 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2307,9 +2307,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 5 – Buchstabe f**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 26 – Absatz 5</Article2>
+Artikel 26 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2324,9 +2324,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 5 – Buchstabe g**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 26 – Absatz 7</Article2>
+Artikel 26 – Absatz 7
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2339,9 +2339,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28a – Absatz 1</Article2>
+Artikel 28a – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2354,9 +2354,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28a – Absatz 3a (neu)</Article2>
+Artikel 28a – Absatz 3a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2369,9 +2369,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28c – Absatz 2 – Buchstabe b</Article2>
+Artikel 28c – Absatz 2 – Buchstabe b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2384,9 +2384,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28d – Absatz 1</Article2>
+Artikel 28d – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2399,9 +2399,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28d – Absatz 2 a (neu)</Article2>
+Artikel 28d – Absatz 2 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2414,9 +2414,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28d – Absatz 2 b (neu)</Article2>
+Artikel 28d – Absatz 2 b (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2437,9 +2437,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28d – Absatz 2c (neu)</Article2>
+Artikel 28d – Absatz 2c (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2452,9 +2452,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28d – Absatz 2 d (neu)</Article2>
+Artikel 28d – Absatz 2 d (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2467,9 +2467,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28e</Article2>
+Artikel 28e
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2482,9 +2482,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28f</Article2>
+Artikel 28f
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2497,9 +2497,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28g</Article2>
+Artikel 28g
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2512,9 +2512,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28h – Absatz 2 – Einleitung</Article2>
+Artikel 28h – Absatz 2 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2527,9 +2527,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Artikel 28h – Absatz 3 a (neu)</Article2>
+Artikel 28h – Absatz 3 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2548,9 +2548,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 7 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2024/1735</DocAmend2>*
+*Verordnung (EU) 2024/1735*
 
-<Article2>Artikel 44 – Absatz 2</Article2>
+Artikel 44 – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2564,9 +2564,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 7 b (neu)**
 
-*<DocAmend2>Verordnung (EU) 2024/1735</DocAmend2>*
+*Verordnung (EU) 2024/1735*
 
-<Article2>Artikel 44 – Absatz 3</Article2>
+Artikel 44 – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2580,9 +2580,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 7 c (neu)**
 
-*<DocAmend2>Verordnung (EU) 2024/1735</DocAmend2>*
+*Verordnung (EU) 2024/1735*
 
-<Article2>Artikel 44 – Absatz 6</Article2>
+Artikel 44 – Absatz 6
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2596,9 +2596,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2611,9 +2611,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2628,9 +2628,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2643,9 +2643,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2658,9 +2658,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2673,9 +2673,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2014/1735</DocAmend2>*
+*Verordnung 2014/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2688,9 +2688,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2703,9 +2703,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2718,9 +2718,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2733,9 +2733,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil I</Article2>
+Anhang II – Teil I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2748,9 +2748,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang – Teil II</Article2>
+Anhang – Teil II
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2763,9 +2763,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil II</Article2>
+Anhang II – Teil II
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2778,9 +2778,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil II</Article2>
+Anhang II – Teil II
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2795,9 +2795,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil II</Article2>
+Anhang II – Teil II
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2810,9 +2810,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil II</Article2>
+Anhang II – Teil II
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2825,9 +2825,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil III</Article2>
+Anhang II – Teil III
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2840,9 +2840,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil III</Article2>
+Anhang II – Teil III
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2857,9 +2857,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil III</Article2>
+Anhang II – Teil III
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2872,9 +2872,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil III</Article2>
+Anhang II – Teil III
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2887,9 +2887,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil III</Article2>
+Anhang II – Teil III
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2904,9 +2904,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil III</Article2>
+Anhang II – Teil III
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2920,9 +2920,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil IV</Article2>
+Anhang II – Teil IV
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2935,9 +2935,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil IV</Article2>
+Anhang II – Teil IV
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2950,9 +2950,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil IV</Article2>
+Anhang II – Teil IV
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2965,9 +2965,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil IV</Article2>
+Anhang II – Teil IV
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2980,9 +2980,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 34 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Verordnung 2024/1735</DocAmend2>*
+*Verordnung 2024/1735*
 
-<Article2>Anhang II – Teil IV</Article2>
+Anhang II – Teil IV
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2995,9 +2995,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 35 – Absatz 1**
 
-*<DocAmend2>Verordnung 2024/3110</DocAmend2>*
+*Verordnung 2024/3110*
 
-<Article2>Anhang I</Article2>
+Anhang I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -3012,9 +3012,9 @@ Solartechnologien umfassen Photovoltaik- und Solarthermietechnologien.
 
 **Artikel 35 – Absatz 1**
 
-*<DocAmend2>Verordnung 2024/3110</DocAmend2>*
+*Verordnung 2024/3110*
 
-<Article2>Anhang X</Article2>
+Anhang X
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |

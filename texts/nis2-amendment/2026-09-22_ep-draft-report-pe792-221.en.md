@@ -128,9 +128,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 4**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 6 – paragraph 1 – point 44</Article2>
+Article 6 – paragraph 1 – point 44
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -143,9 +143,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 5**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 7 – paragraph 2 – point k</Article2>
+Article 7 – paragraph 2 – point k
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -158,9 +158,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 5 a (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 14 a (new)</Article2>
+Article 14 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -181,9 +181,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 7 – point a**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 21 – paragraph 5 – subparagraph 2</Article2>
+Article 21 – paragraph 5 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -196,9 +196,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 7 – point b**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 21 – paragraph 5 – subparagraph 5</Article2>
+Article 21 – paragraph 5 – subparagraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -211,9 +211,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 7 a (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 21 – paragraph 5a</Article2>
+Article 21 – paragraph 5a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -231,9 +231,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 7 b (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 23 – paragraph 1 – subparagraph 1</Article2>
+Article 23 – paragraph 1 – subparagraph 1
 
 | Present text | Amendment |
 | --- | --- |
@@ -247,9 +247,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 8**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 23 – paragraph 13 – subparagraph 1 – introductory wording</Article2>
+Article 23 – paragraph 13 – subparagraph 1 – introductory wording
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -262,9 +262,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 8**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 23 – paragraph 13 – subparagrah 1 a (new)</Article2>
+Article 23 – paragraph 13 – subparagrah 1 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -277,9 +277,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 8**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 23 – paragraph 13 a (new)</Article2>
+Article 23 – paragraph 13 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -294,9 +294,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 9**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 24 – paragraph 4</Article2>
+Article 24 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -311,9 +311,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 9**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 24 – paragraph 5</Article2>
+Article 24 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -328,9 +328,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 10 – point a**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 26 – paragraph 1 – point d a (new) </Article2>
+Article 26 – paragraph 1 – point d a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -343,9 +343,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 11 – point c**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 27 – paragraph 4</Article2>
+Article 27 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -358,9 +358,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 11 a (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 30 – paragraph 1</Article2>
+Article 30 – paragraph 1
 
 | Present text | Amendment |
 | --- | --- |
@@ -374,9 +374,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 12**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 37a – paragraph 2</Article2>
+Article 37a – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -389,9 +389,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 12**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 37a – paragraph 5 a (new)</Article2>
+Article 37a – paragraph 5 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -404,9 +404,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 12 a (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 38</Article2>
+Article 38
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -419,9 +419,9 @@ The European Parliament,
 
 **Article 1 a – paragraph 1 – point 1 (new)**
 
-*<DocAmend2>Regulation (EU) No 910/2014</DocAmend2>*
+*Regulation (EU) No 910/2014*
 
-<Article2>Article 19a – paragraph 1 a (new)</Article2>
+Article 19a – paragraph 1 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -438,9 +438,9 @@ The European Parliament,
 
 **Article 1 a – paragraph 1 – point 2 (new)**
 
-*<DocAmend2>Regulation (EU) No 910/2014</DocAmend2>*
+*Regulation (EU) No 910/2014*
 
-<Article2>Article 24 – paragraph 2 a (new)</Article2>
+Article 24 – paragraph 2 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -454,9 +454,9 @@ The European Parliament,
 
 **Article 1 a – paragraph 1 – point 3 (new)**
 
-*<DocAmend2>Regulation (EU) No 910/2014</DocAmend2>*
+*Regulation (EU) No 910/2014*
 
-<Article2>Article 45a – paragraph 3 a (new)</Article2>
+Article 45a – paragraph 3 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -470,9 +470,9 @@ The European Parliament,
 
 **Article 1 b – paragraph 1 – point 1 (new)**
 
-*<DocAmend2>Regulation (EU) 2022/2554</DocAmend2>*
+*Regulation (EU) 2022/2554*
 
-<Article2>Article 19 – paragraph 1 – subparagraph 1</Article2>
+Article 19 – paragraph 1 – subparagraph 1
 
 | Present text | Amendment |
 | --- | --- |
@@ -489,9 +489,9 @@ The European Parliament,
 
 **Article 1 b – paragraph 1 – point 2 (new)**
 
-*<DocAmend2>Regulation (EU) 2022/2554</DocAmend2>*
+*Regulation (EU) 2022/2554*
 
-<Article2>Article 19 – paragraph 2 – subparagraph 1</Article2>
+Article 19 – paragraph 2 – subparagraph 1
 
 | Present text | Amendment |
 | --- | --- |
@@ -505,9 +505,9 @@ The European Parliament,
 
 **Article 1 c – paragraph 1 – point 1 (new)**
 
-*<DocAmend2>Directive (EU) 2022/2557</DocAmend2>*
+*Directive (EU) 2022/2557*
 
-<Article2>Article 15 – paragraph 1 – subparagraph 1 – introductory part </Article2>
+Article 15 – paragraph 1 – subparagraph 1 – introductory part
 
 | Present text | Amendment |
 | --- | --- |
@@ -524,9 +524,9 @@ The European Parliament,
 
 **Article 1 c – paragraph 1 – point 2 (new)**
 
-*<DocAmend2>Directive (EU) 2022/2557</DocAmend2>*
+*Directive (EU) 2022/2557*
 
-<Article2>Article 15 – paragraph 2 – subparagraph 1 a (new)</Article2>
+Article 15 – paragraph 2 – subparagraph 1 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -540,9 +540,9 @@ The European Parliament,
 
 **Annex I – point 1 – point d**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Annex I</Article2>
+Annex I
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -558,9 +558,9 @@ The European Parliament,
 
 **Annex I – point 2**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Annex II</Article2>
+Annex II
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |

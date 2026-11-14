@@ -199,9 +199,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 2 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 2 – Absatz 1 – Nummer 4c</Article2>
+Artikel 2 – Absatz 1 – Nummer 4c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -214,9 +214,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 2 – Buchstabe d**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 2 – Absatz 1 – Nummer 38a</Article2>
+Artikel 2 – Absatz 1 – Nummer 38a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -235,9 +235,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 2 – Buchstabe e a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 2 – Absatz 1 – Nummer 63 a (neu)</Article2>
+Artikel 2 – Absatz 1 – Nummer 63 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -251,9 +251,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 7**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 15a – Absatz 2</Article2>
+Artikel 15a – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -266,9 +266,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe b – Ziffer ii**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 17 – Absatz 2 – Unterabsatz 1 – Buchstabe e</Article2>
+Artikel 17 – Absatz 2 – Unterabsatz 1 – Buchstabe e
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -281,9 +281,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe b – Ziffer ii a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 17 – Absatz 2 – Unterabsatz 2 a (neu)</Article2>
+Artikel 17 – Absatz 2 – Unterabsatz 2 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -297,9 +297,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 10 – Buchstabe -a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 18 – Absatz 1</Article2>
+Artikel 18 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -313,9 +313,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 16 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32 – Absatz 5</Article2>
+Artikel 32 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -328,9 +328,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32c – Absatz 1 – Buchstabe b a (neu)</Article2>
+Artikel 32c – Absatz 1 – Buchstabe b a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -343,9 +343,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32c – Absatz 1 – Buchstabe b b (neu)</Article2>
+Artikel 32c – Absatz 1 – Buchstabe b b (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -358,9 +358,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32c – Absatz 1 – Buchstabe b c (neu)</Article2>
+Artikel 32c – Absatz 1 – Buchstabe b c (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -373,9 +373,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 1 – Absatz 1 – Buchstabe b d (neu)</Article2>
+Artikel 1 – Absatz 1 – Buchstabe b d (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -388,9 +388,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32c – Absatz 1 – Buchstabe d – Ziffer ii</Article2>
+Artikel 32c – Absatz 1 – Buchstabe d – Ziffer ii
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -403,9 +403,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32c – Absatz 1 – Buchstabe d – Ziffer iii</Article2>
+Artikel 32c – Absatz 1 – Buchstabe d – Ziffer iii
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -418,9 +418,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32e – Absatz 1 – Unterabsatz 1</Article2>
+Artikel 32e – Absatz 1 – Unterabsatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -433,9 +433,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32i – Absatz 1 a (neu)</Article2>
+Artikel 32i – Absatz 1 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -448,9 +448,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32i – Absatz 5</Article2>
+Artikel 32i – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -463,9 +463,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32k – Absatz 3</Article2>
+Artikel 32k – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -478,9 +478,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32q – Absatz 6</Article2>
+Artikel 32q – Absatz 6
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -493,9 +493,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32w – Absatz 3 – Buchstabe a – Ziffer ii</Article2>
+Artikel 32w – Absatz 3 – Buchstabe a – Ziffer ii
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -508,9 +508,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 32w – Absatz 5 – Unterabsatz 1 – Buchstabe a</Article2>
+Artikel 32w – Absatz 5 – Unterabsatz 1 – Buchstabe a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -523,9 +523,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 37 – Absatz 3 a (neu)</Article2>
+Artikel 37 – Absatz 3 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -539,9 +539,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 37 – Absatz 3 b (neu)</Article2>
+Artikel 37 – Absatz 3 b (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -554,9 +554,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 18 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 37 – Absatz 3 c (neu)</Article2>
+Artikel 37 – Absatz 3 c (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -569,9 +569,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 19**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 38 – Absatz 3 a (neu)</Article2>
+Artikel 38 – Absatz 3 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -584,9 +584,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 22**
 
-*<DocAmend2>Verordnung (EU) 2023/2854</DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 41a – Absatz 2</Article2>
+Artikel 41a – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -599,9 +599,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 23**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 42 – Absatz 1 – Buchstabe b a (neu)</Article2>
+Artikel 42 – Absatz 1 – Buchstabe b a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -614,9 +614,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 23**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 42 – Absatz 1 – Buchstabe c</Article2>
+Artikel 42 – Absatz 1 – Buchstabe c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -629,9 +629,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 23**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 42 – Absatz 1 – Buchstabe d a (neu)</Article2>
+Artikel 42 – Absatz 1 – Buchstabe d a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -644,9 +644,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 26 – Buchstabe a – Ziffer ii a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2023/2854 </DocAmend2>*
+*Verordnung (EU) 2023/2854*
 
-<Article2>Artikel 49 – Absatz 1 – Buchstabe m a (neu)</Article2>
+Artikel 49 – Absatz 1 – Buchstabe m a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -660,9 +660,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 1 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 4 – Absatz 1 – Nummer 32</Article2>
+Artikel 4 – Absatz 1 – Nummer 32
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -675,9 +675,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 1 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 4 – Absatz 1 – Nummer 33</Article2>
+Artikel 4 – Absatz 1 – Nummer 33
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -690,9 +690,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 2**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 5 – Absatz 1 – Buchstabe b</Article2>
+Artikel 5 – Absatz 1 – Buchstabe b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -705,9 +705,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 3 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 9 – Absatz 2 – Buchstabe l</Article2>
+Artikel 9 – Absatz 2 – Buchstabe l
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -720,9 +720,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 3 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 12 – Absatz 3</Article2>
+Artikel 12 – Absatz 3
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -736,9 +736,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 12 – Absatz 5 – Unterabsatz 1 – Einleitung </Article2>
+Artikel 12 – Absatz 5 – Unterabsatz 1 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -753,9 +753,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 12 – Absatz 5 – Unterabsatz 2</Article2>
+Artikel 12 – Absatz 5 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -768,9 +768,9 @@ Das Europäische Parlament,
 
 **Artikel 3 – Absatz 1 – Nummer 4 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 12 – Absätze 7 und 8</Article2>
+Artikel 12 – Absätze 7 und 8
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -787,9 +787,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 7**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 22 – Absatz 1 – Einleitung </Article2>
+Artikel 22 – Absatz 1 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -802,9 +802,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 7**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 22 – Absatz 1 – Buchstabe b</Article2>
+Artikel 22 – Absatz 1 – Buchstabe b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -817,9 +817,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 7 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 22 – Absatz 3</Article2>
+Artikel 22 – Absatz 3
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -833,9 +833,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 8 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 33 – Absatz 1</Article2>
+Artikel 33 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -848,9 +848,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 8 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 33 – Absatz 1 a </Article2>
+Artikel 33 – Absatz 1 a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -863,9 +863,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 8 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 33 – Absatz 6</Article2>
+Artikel 33 – Absatz 6
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -878,9 +878,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 8 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 33 – Absatz 7</Article2>
+Artikel 33 – Absatz 7
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -893,9 +893,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 9 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 35 – Absatz 4</Article2>
+Artikel 35 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -911,9 +911,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 9 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 35 – Absatz 5</Article2>
+Artikel 35 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -926,9 +926,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 9 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 35 – Absatz 6</Article2>
+Artikel 35 – Absatz 6
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -941,9 +941,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 9 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 35 – Absatz 6 a</Article2>
+Artikel 35 – Absatz 6 a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -956,9 +956,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 9 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 35 – Absatz 6 b</Article2>
+Artikel 35 – Absatz 6 b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -971,9 +971,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 9 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 35 – Absatz 6 c </Article2>
+Artikel 35 – Absatz 6 c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -986,9 +986,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 14**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 70 – Absatz 1 – Buchstabe h a (neu)</Article2>
+Artikel 70 – Absatz 1 – Buchstabe h a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1001,9 +1001,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 14**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 70 – Absatz 1 – Buchstabe h b</Article2>
+Artikel 70 – Absatz 1 – Buchstabe h b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1016,9 +1016,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 14**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 70 – Absatz 1 – Buchstabe h c</Article2>
+Artikel 70 – Absatz 1 – Buchstabe h c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1031,9 +1031,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 3 – Absatz 1 – Nummer 14 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2016/679</DocAmend2>*
+*Verordnung (EU) 2016/679*
 
-<Article2>Artikel 70 – Absatz 3</Article2>
+Artikel 70 – Absatz 3
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1047,9 +1047,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 4 – Absatz 1 – Nummer 1 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 3 – Absatz 1 – Nummer 25</Article2>
+Artikel 3 – Absatz 1 – Nummer 25
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1062,9 +1062,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 4 – Absatz 1 – Nummer 2**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 4 – Absatz 1 – Buchstabe b</Article2>
+Artikel 4 – Absatz 1 – Buchstabe b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1077,9 +1077,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 4 – Absatz 1 – Nummer 3 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 10 – Absatz 2 – Buchstabe l</Article2>
+Artikel 10 – Absatz 2 – Buchstabe l
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1092,9 +1092,9 @@ Die delegierten Rechtsakte zur Festlegung der durch die Symbole darzustellenden 
 
 **Artikel 4 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 14 – Absatz 5</Article2>
+Artikel 14 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1112,9 +1112,9 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 4 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 24 – Absatz 1 – Einleitung</Article2>
+Artikel 24 – Absatz 1 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1127,9 +1127,9 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 4 – Absatz 1 – Nummer 6**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 24 – Absatz 1 – Buchstabe b</Article2>
+Artikel 24 – Absatz 1 – Buchstabe b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1142,9 +1142,9 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 4 – Absatz 1 – Nummer 9 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2018/1725</DocAmend2>*
+*Verordnung (EU) 2018/1725*
 
-<Article2>Artikel 39 – Absatz 4</Article2>
+Artikel 39 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1157,9 +1157,9 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 6 – Absatz 1 – Nummer -1 (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 14 a (neu)</Article2>
+Artikel 14 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1175,9 +1175,9 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 6 – Absatz 1 – Nummer 1 (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 23a – Absatz 3 a (neu)</Article2>
+Artikel 23a – Absatz 3 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1190,7 +1190,7 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 10 – Absatz 1**
 
-*<DocAmend2>Verordnung (EU) 2019/1150</DocAmend2>*
+*Verordnung (EU) 2019/1150*
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1203,7 +1203,7 @@ Diese Änderung wird gestrichen, um den Wortlaut an die von den Berichterstatter
 
 **Artikel 10 – Absatz 2**
 
-*<DocAmend2>Verordnung (EU) 2019/1150</DocAmend2>*
+*Verordnung (EU) 2019/1150*
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |

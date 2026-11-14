@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 13 Nov 2026.
+Procedure 2026/0011(COD), as of 14 Nov 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -52,7 +52,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-10-19 | Council | Horizontal Working Party on Cyber Issues: Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be … | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) | Council register, CM 4579/26 REV 1 (notice of meeting and provisional agenda) |
 | 2026-10-26 | Council | Horizontal Working Party on Cyber Issues: Title II (ENISA) – Discussion (WK 15959/26) | [CM 4703/26](https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf) | Council register, CM 4703/26 (notice of meeting and provisional agenda) |
 | 2026-11-05 | Council | Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of ICT Supply … | [CM 4773/26](https://data.consilium.europa.eu/doc/document/CM-4773-2026-INIT/en/pdf) | Council register, CM 4773/26 (notice of meeting and provisional agenda) |
-| 2026-11-10 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29) | EP Open Data API, procedure 2026-0011 (COMMITTEE_ADOPTING_OPINION) |
+| 2026-11-10 | European Parliament | IMCO opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29) | EP Open Data API, procedure 2026-0011 (COMMITTEE_ADOPTING_OPINION) |
 
 ## Notes
 
@@ -147,7 +147,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-09 | [WK 17268/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340) | council-compromise | Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a Regulation on the European Union Agency for Cybersecurity (ENISA), the … | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017268%2F2026%20INIT%20%28Cybersecurity%20Act%202%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017268%2F2026%20INIT%20of%209%20November%202026%3A%20Presidency%20fourth%20compromise%20text%20on%20Title%20II%20%28ENISA%29%20of%20the%20draft%20proposal%20for%20a%20Regulation%20on%20the%20European%20Union%20Agency%20for%20Cybersecurity%20%28ENISA%29%2C%20the%20European%20cybersecurity%20certification%20framework%2C%20and%20ICT%20supply%20chain%20security%20and%20repealing%20Regulation%20%28EU%29%202019%2F881%20%28The%20Cybersecurity%20Act%202%29%0A%20%20%28interinstitutional%20file%202026%2F0011%28COD%29%2C%20Cybersecurity%20Act%202%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17268-2026-INIT) | – | – |
 | 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-14.
 
 ## Texts as Markdown
 

@@ -16,7 +16,7 @@ against the files.
 Council, public documents): [`procedures/`](procedures/index.html).
 
 **Act pages** (next dates, texts, implementing acts, standardisation requests with
-their deadlines and the CEN-CENELEC and ETSI projects, committees and expert groups): [CRA](acts/cra.html), [MR](acts/machinery-regulation.html), [AI Act](acts/ai-act.html), [NIS-2](acts/nis2.html), [CSA2](acts/csa2.html), [Digital Omnibus](acts/digital-omnibus.html), [NSR](acts/standardisation-revision.html), [MSR](acts/market-surveillance.html), [Quantum Act](acts/quantum-act.html).
+their deadlines and the CEN-CENELEC and ETSI projects, committees and expert groups): [CRA](acts/cra.html), [MR](acts/machinery-regulation.html), [AI Act](acts/ai-act.html), [NIS-2](acts/nis2.html), [CSA2](acts/csa2.html), [Digital Omnibus](acts/digital-omnibus.html), [NSR](acts/standardisation-revision.html), [MSR](acts/market-surveillance.html), [Quantum Act](acts/quantum-act.html), [Digital Omnibus on AI](acts/digital-omnibus-ai.html), [Omnibus IV – Digitalisation and common specifications (Directive)](acts/product-digitalisation-directive.html), [Omnibus IV – Digitalisation and common specifications (Regulation)](acts/product-digitalisation-regulation.html).
 
 **Texts as Markdown** (legal acts, proposals, public Council and EP documents, for reading
 and for use in chats and project folders): [`texts/`](texts/README.md). All texts of an act

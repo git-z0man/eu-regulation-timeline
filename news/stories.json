@@ -3,17 +3,17 @@
  "previous": "2026-11-13",
  "stories": [
   {
-   "id": "csa2/ep-vote/Committee-opinion-adopted-2026-11-10",
+   "id": "csa2/ep-vote/IMCO-opinion-adopted-2026-11-10",
    "kind": "ep-vote",
    "desk": "Legislation",
    "date": "2026-11-10",
    "act": "csa2",
    "kicker": "Cybersecurity Act 2",
    "kicker_de": "CSA2",
-   "headline": "Cybersecurity Act 2: Committee opinion adopted",
+   "headline": "Cybersecurity Act 2: IMCO opinion adopted",
    "deck": "European Parliament.",
-   "headline_de": "CSA2: Stellungnahme eines Ausschusses angenommen",
-   "deck_de": "Europäisches Parlament.",
+   "headline_de": "CSA2: neuer Schritt im Verfahren",
+   "deck_de": "Europäisches Parlament (im Original): IMCO opinion adopted",
    "facts": [],
    "facts_de": [],
    "links": [
@@ -39,20 +39,20 @@
      "Gesetzgebung"
     ]
    },
-   "added": "2026-11-11"
+   "added": "2026-11-14"
   },
   {
-   "id": "digital-omnibus/ep-vote/Committee-opinion-adopted-2026-11-10",
+   "id": "digital-omnibus/ep-vote/IMCO-opinion-adopted-2026-11-10",
    "kind": "ep-vote",
    "desk": "Legislation",
    "date": "2026-11-10",
    "act": "digital-omnibus",
    "kicker": "Digital Omnibus",
    "kicker_de": "Digital-Omnibus",
-   "headline": "Digital Omnibus: Committee opinion adopted",
+   "headline": "Digital Omnibus: IMCO opinion adopted",
    "deck": "European Parliament.",
-   "headline_de": "Digital-Omnibus: Stellungnahme eines Ausschusses angenommen",
-   "deck_de": "Europäisches Parlament.",
+   "headline_de": "Digital-Omnibus: neuer Schritt im Verfahren",
+   "deck_de": "Europäisches Parlament (im Original): IMCO opinion adopted",
    "facts": [],
    "facts_de": [],
    "links": [
@@ -87,7 +87,7 @@
      "Gesetzgebung"
     ]
    },
-   "added": "2026-11-12"
+   "added": "2026-11-14"
   },
   {
    "id": "cra/sreq/M606-Amd-1",
@@ -274,17 +274,17 @@
    "added": "2026-11-12"
   },
   {
-   "id": "nis2-amendment/ep-vote/Committee-opinion-adopted-2026-11-10",
+   "id": "nis2-amendment/ep-vote/IMCO-opinion-adopted-2026-11-10",
    "kind": "ep-vote",
    "desk": "Legislation",
    "date": "2026-11-10",
    "act": "nis2-amendment",
    "kicker": "NIS-2 amendment",
    "kicker_de": "NIS-2-Änderung",
-   "headline": "NIS-2 amendment: Committee opinion adopted",
+   "headline": "NIS-2 amendment: IMCO opinion adopted",
    "deck": "European Parliament.",
-   "headline_de": "NIS-2-Änderung: Stellungnahme eines Ausschusses angenommen",
-   "deck_de": "Europäisches Parlament.",
+   "headline_de": "NIS-2-Änderung: neuer Schritt im Verfahren",
+   "deck_de": "Europäisches Parlament (im Original): IMCO opinion adopted",
    "facts": [],
    "facts_de": [],
    "links": [
@@ -310,7 +310,7 @@
      "Gesetzgebung"
     ]
    },
-   "added": "2026-11-11"
+   "added": "2026-11-14"
   },
   {
    "id": "csa2/compromise/WK-17268-26",
@@ -354,6 +354,43 @@
     ]
    },
    "added": "2026-11-12"
+  },
+  {
+   "id": "article/enisa-consultations",
+   "kind": "article",
+   "desk": "Analysis",
+   "date": "2026-11-14",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "Where ENISA consults: ten channels, two feeds, and drafts that are announced elsewhere",
+   "deck": "ENISA does not publish more than it did in 2023, but in more places and by more rules. Its certification work consults in an orderly way on its own website. Its guidance for manufacturers under the Cyber Resilience Act was put out for comment in 2026 as PDF files on its server, mostly without a news item on its site, and became known through LinkedIn and community mailing lists. The Cybersecurity Act 2 would make such guidance a standing task of ENISA, so far without a duty to consult on it.",
+   "headline_de": "Wo ENISA konsultiert: zehn Kanäle, zwei Feeds und Entwürfe, die anderswo angekündigt werden",
+   "deck_de": "ENISA veröffentlicht nicht mehr als 2023, aber an mehr Orten und nach mehr Regeln. Ihre Zertifizierung konsultiert geordnet auf einer eigenen Website. Ihre Leitfäden für Hersteller nach dem Cyber Resilience Act gingen 2026 als PDF-Dateien auf ihrem Server in die Konsultation, meist ohne Meldung auf ihrer Website, und wurden über LinkedIn und Mailinglisten der Community bekannt. Der Cybersecurity Act 2 würde solche Leitfäden zur Daueraufgabe der ENISA machen, bisher ohne Pflicht, dazu zu konsultieren.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Read the article",
+     "articles/enisa-consultations.html"
+    ],
+    [
+     "Open",
+     "../acts/authority-enisa.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 60,
+   "crumbs": {
+    "en": [
+     "Analysis"
+    ],
+    "de": [
+     "Analyse"
+    ]
+   },
+   "added": "2026-11-14"
   },
   {
    "id": "cra/enisa-survey-enisa-sme-cra-investments-survey-2026",

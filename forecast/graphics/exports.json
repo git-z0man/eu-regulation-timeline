@@ -119,6 +119,16 @@
     "png": "method-criteria-de.png",
     "svg_sha256": "a90d21b8197ff4d16947c96e6d89f23fec0624e2bd363a4e5a4eebf27405e41e"
   },
+  "method-deadline-scatter": {
+    "pdf": "method-deadline-scatter.pdf",
+    "png": "method-deadline-scatter.png",
+    "svg_sha256": "6d7f9c8e04c80ffc08ca0460cad1626d0aebbc576f0949b5d95f9194b562fc6c"
+  },
+  "method-deadline-scatter-de": {
+    "pdf": "method-deadline-scatter-de.pdf",
+    "png": "method-deadline-scatter-de.png",
+    "svg_sha256": "fe4d7683111d50a45962f564c363d82365c8b1a4ee069640d8268d3e3cb597d0"
+  },
   "method-election-deadline": {
     "pdf": "method-election-deadline.pdf",
     "png": "method-election-deadline.png",

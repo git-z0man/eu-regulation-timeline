@@ -212,9 +212,9 @@ Dies gewährleistet eine flexible Umsetzung des Mechanismus, der unter Berücksi
 
 **Artikel 1 – Absatz 1 – Nummer 1 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 1 – Absatz 9</Article2>
+Artikel 1 – Absatz 9
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -235,9 +235,9 @@ Dadurch werden doppelte Pflichten der MP-VO vermieden, wenn das Produkt bereits 
 
 **Artikel 1 – Absatz 1 – Nummer 2 – Buchstabe d**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 2 – Nummer 48</Article2>
+Artikel 2 – Nummer 48
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -254,9 +254,9 @@ Damit wird klargestellt, dass klinische Daten Informationen sind, die aus der kl
 
 **Artikel 1 – Absatz 1 – Nummer 2 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 2 – Nummer 72 b (neu)</Article2>
+Artikel 2 – Nummer 72 b (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -269,9 +269,9 @@ Damit wird klargestellt, dass klinische Daten Informationen sind, die aus der kl
 
 **Artikel 1 – Absatz 1 – Nummer 2 – Buchstabe e a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 2 – Nummern 77, 78 und 79 (neu)</Article2>
+Artikel 2 – Nummern 77, 78 und 79 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -292,9 +292,9 @@ Dies gewährleistet Rechtssicherheit für Produkte, die für die Patientenversor
 
 **Artikel 1 – Absatz 1 – Nummer 2 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 2 – Nummer 44</Article2>
+Artikel 2 – Nummer 44
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -310,9 +310,9 @@ Dies gewährleistet Rechtssicherheit für Produkte, die für die Patientenversor
 
 **Artikel 1 – Absatz 1 – Nummer 3**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 3 – Absatz 2 a (neu)</Article2>
+Artikel 3 – Absatz 2 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -326,9 +326,9 @@ Dies gewährleistet Rechtssicherheit für Produkte, die für die Patientenversor
 
 **Artikel 1 – Absatz 1 – Nummer 3**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4 – Absatz 1</Article2>
+Artikel 4 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -345,9 +345,9 @@ Darin wird klargestellt, dass das Verfahren erst dann zur Anwendung kommt, wenn 
 
 **Artikel 1 – Absatz 1 – Nummer 3**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4 – Absatz 3</Article2>
+Artikel 4 – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -364,9 +364,9 @@ Es sind stichhaltige Beweise erforderlich, bevor der rechtliche Status eines Pro
 
 **Artikel 1 – Absatz 1 – Nummer 3**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4 – Absatz 5</Article2>
+Artikel 4 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -379,9 +379,9 @@ Es sind stichhaltige Beweise erforderlich, bevor der rechtliche Status eines Pro
 
 **Artikel 1 – Absatz 1 – Nummer 3**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4 – Absatz 5 a (neu)</Article2>
+Artikel 4 – Absatz 5 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -398,9 +398,9 @@ Dies ermöglicht eine Entscheidungsfindung auf Unionsebene, um die einheitliche 
 
 **Artikel 1 – Absatz 1 – Nummer 3**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4 – Absatz 6</Article2>
+Artikel 4 – Absatz 6
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -413,9 +413,9 @@ Dies ermöglicht eine Entscheidungsfindung auf Unionsebene, um die einheitliche 
 
 **Artikel 1 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4a – Absatz 1</Article2>
+Artikel 4a – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -432,9 +432,9 @@ Es beschränkt das Verfahren des Expertengremiums auf begründete Anträge zust�
 
 **Artikel 1 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4a – Absatz 2</Article2>
+Artikel 4a – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -448,9 +448,9 @@ Es beschränkt das Verfahren des Expertengremiums auf begründete Anträge zust�
 
 **Artikel 1 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4a – Absatz 3 – Unterabsatz 1</Article2>
+Artikel 4a – Absatz 3 – Unterabsatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -463,9 +463,9 @@ Es beschränkt das Verfahren des Expertengremiums auf begründete Anträge zust�
 
 **Artikel 1 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4a – Absatz 3 – Unterabsatz 2</Article2>
+Artikel 4a – Absatz 3 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -478,9 +478,9 @@ Es beschränkt das Verfahren des Expertengremiums auf begründete Anträge zust�
 
 **Artikel 1 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 4a – Absatz 3 – Unterabsatz 3</Article2>
+Artikel 4a – Absatz 3 – Unterabsatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -493,9 +493,9 @@ Es beschränkt das Verfahren des Expertengremiums auf begründete Anträge zust�
 
 **Artikel 1 – Absatz 1 – Nummer 5 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 5 – Absatz 5 – Einleitung</Article2>
+Artikel 5 – Absatz 5 – Einleitung
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -515,9 +515,9 @@ Dadurch wird sichergestellt, dass die Ausnahmeregelung für hausinterne Medizinp
 
 **Artikel 1 – Absatz 1 – Nummer 6 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 5 – Absatz 5 – Buchstabe e</Article2>
+Artikel 5 – Absatz 5 – Buchstabe e
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -539,9 +539,9 @@ Damit wird eine unverhältnismäßige Veröffentlichungspflicht für nichtkommer
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 10 – Absatz 9 – Unterabsatz 3 (neu)</Article2>
+Artikel 10 – Absatz 9 – Unterabsatz 3 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -558,9 +558,9 @@ Dadurch können relevante Ergebnisse aus international anerkannten Qualitätsman
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 10 – Absatz 10</Article2>
+Artikel 10 – Absatz 10
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -573,9 +573,9 @@ Dadurch können relevante Ergebnisse aus international anerkannten Qualitätsman
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe d**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 10 – Absatz 11</Article2>
+Artikel 10 – Absatz 11
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -592,9 +592,9 @@ Dies reduziert den Übersetzungsaufwand und berücksichtigt gleichzeitig das Fac
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/45</DocAmend2>*
+*Verordnung (EU) 2017/45*
 
-<Article2>Artikel 10 – Absatz 13</Article2>
+Artikel 10 – Absatz 13
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -607,9 +607,9 @@ Dies reduziert den Übersetzungsaufwand und berücksichtigt gleichzeitig das Fac
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe f**
 
-*<DocAmend2>Verordnung (EU) 2017/45</DocAmend2>*
+*Verordnung (EU) 2017/45*
 
-<Article2>Artikel 10 – Absatz 14</Article2>
+Artikel 10 – Absatz 14
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -628,9 +628,9 @@ Damit werden die bestehenden Schutzvorkehrungen hinsichtlich der Herstellerhaftu
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe h**
 
-*<DocAmend2>Verordnung (EU) 2017/45</DocAmend2>*
+*Verordnung (EU) 2017/45*
 
-<Article2>Artikel 10 – Absatz 16</Article2>
+Artikel 10 – Absatz 16
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -647,9 +647,9 @@ Damit werden die bestehenden Schutzvorkehrungen hinsichtlich der Herstellerhaftu
 
 **Artikel 1 – Absatz 1 – Nummer 9 – Buchstabe h a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/45</DocAmend2>*
+*Verordnung (EU) 2017/45*
 
-<Article2>Artikel 10 – Absatz 16 a (neu)</Article2>
+Artikel 10 – Absatz 16 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -667,9 +667,9 @@ Sie stärkt den Schutz von Patienten und Anwendern, indem sie die für fehlerhaf
 
 **Artikel 1 – Absatz 1 – Nummer 11**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 11 – Absätze 4 und 5</Article2>
+Artikel 11 – Absätze 4 und 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -686,9 +686,9 @@ Der ursprüngliche Text behält die bestehenden Haftungsvorschriften für Bevoll
 
 **Artikel 1 – Absatz 1 – Nummer 14 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 16 – Absatz 4</Article2>
+Artikel 16 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -706,9 +706,9 @@ Dadurch bleibt die Kontrolle durch den Hersteller gewahrt, wenn Produkte von Imp
 
 **Artikel 1 – Absatz 1 – Nummer 15**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 17 – Absatz 1</Article2>
+Artikel 17 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -726,9 +726,9 @@ Dadurch wird sichergestellt, dass die Entscheidung über die Einmalverwendung be
 
 **Artikel 1 – Absatz 1 – Nummer 15**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 17 – Absatz 2</Article2>
+Artikel 17 – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -741,9 +741,9 @@ Dadurch wird sichergestellt, dass die Entscheidung über die Einmalverwendung be
 
 **Artikel 1 – Absatz 1 – Nummer 15**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 17 – Absatz 3</Article2>
+Artikel 17 – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -756,9 +756,9 @@ Dadurch wird sichergestellt, dass die Entscheidung über die Einmalverwendung be
 
 **Artikel 1 – Absatz 1 – Nummer 15**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 17 – Absatz 4</Article2>
+Artikel 17 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -771,9 +771,9 @@ Dadurch wird sichergestellt, dass die Entscheidung über die Einmalverwendung be
 
 **Artikel 1 – Absatz 1 – Nummer 16 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 18 – Absatz 3</Article2>
+Artikel 18 – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -791,9 +791,9 @@ Die Patienten erhalten weiterhin wichtige Informationen zu implantierten Geräte
 
 **Artikel 1 – Absatz 1 – Nummer 19 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 27 – Absatz 1 – Buchstabe a i</Article2>
+Artikel 27 – Absatz 1 – Buchstabe a i
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -809,9 +809,9 @@ Die Patienten erhalten weiterhin wichtige Informationen zu implantierten Geräte
 
 **Artikel 1 – Absatz 1 – Nummer 22 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 30 – Absatz 1</Article2>
+Artikel 30 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -828,9 +828,9 @@ Ermöglicht die direkte Erfassung des KMU-Status von Herstellern in Eudamed. Die
 
 **Artikel 1 – Absatz 1 – Nummer 24 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 32 – Absatz 1 – Unterabsatz 2</Article2>
+Artikel 32 – Absatz 1 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -843,9 +843,9 @@ Ermöglicht die direkte Erfassung des KMU-Status von Herstellern in Eudamed. Die
 
 **Artikel 1 – Absatz 1 – Nummer 24 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 32 – Absatz 2 – Buchstabe h</Article2>
+Artikel 32 – Absatz 2 – Buchstabe h
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -863,9 +863,9 @@ Damit wird sichergestellt, dass alle wichtigen Informationen zu Gesundheit und S
 
 **Artikel 1 – Absatz 1 – Nummer 30**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 39 – Absatz 6</Article2>
+Artikel 39 – Absatz 6
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -882,9 +882,9 @@ Dadurch werden die Vorhersehbarkeit und die Effizienz des Benennungsverfahrens v
 
 **Artikel 1 – Absatz 1 – Nummer 30**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 39 – Absatz 11</Article2>
+Artikel 39 – Absatz 11
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -901,9 +901,9 @@ Dadurch werden die Vorhersehbarkeit und die Effizienz des Benennungsverfahrens v
 
 **Artikel 1 – Absatz 1 – Nummer 30**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 39 – Absatz 11</Article2>
+Artikel 39 – Absatz 11
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -920,9 +920,9 @@ Dadurch werden die Vorhersehbarkeit und die Effizienz des Benennungsverfahrens v
 
 **Artikel 1 – Absatz 1 – Nummer 30**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 39 – Absatz 13</Article2>
+Artikel 39 – Absatz 13
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -939,9 +939,9 @@ Dadurch werden die Vorhersehbarkeit und die Effizienz des Benennungsverfahrens v
 
 **Artikel 1 – Absatz 1 – Nummer 30**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 39 – Absatz 14</Article2>
+Artikel 39 – Absatz 14
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -954,9 +954,9 @@ Dadurch werden die Vorhersehbarkeit und die Effizienz des Benennungsverfahrens v
 
 **Artikel 1 – Absatz 1 – Nummer 35 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 44 – Absatz 4a – Unterabsatz 1</Article2>
+Artikel 44 – Absatz 4a – Unterabsatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -973,9 +973,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 35 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 44 – Absatz 4a – Unterabsatz 2</Article2>
+Artikel 44 – Absatz 4a – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -988,9 +988,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 35 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 44 – Absatz 4 b</Article2>
+Artikel 44 – Absatz 4 b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1003,9 +1003,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 35 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 44 – Absatz 4 b</Article2>
+Artikel 44 – Absatz 4 b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1018,9 +1018,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 35 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 44 – Absatz 4 c</Article2>
+Artikel 44 – Absatz 4 c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1033,9 +1033,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 35 – Buchstabe e**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 44 – Absatz 4 c</Article2>
+Artikel 44 – Absatz 4 c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1048,9 +1048,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 40**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 49 – Absatz 3</Article2>
+Artikel 49 – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1063,9 +1063,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 41 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51 – Absatz 3 – Einleitung</Article2>
+Artikel 51 – Absatz 3 – Einleitung
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1081,9 +1081,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 41 b (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51 – Absatz 4</Article2>
+Artikel 51 – Absatz 4
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1099,9 +1099,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51a – Absatz 2</Article2>
+Artikel 51a – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1114,9 +1114,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51a – Absatz 3</Article2>
+Artikel 51a – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1129,9 +1129,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51a – Absatz 4</Article2>
+Artikel 51a – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1144,9 +1144,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51a – Absatz 5</Article2>
+Artikel 51a – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1159,9 +1159,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51a – Absatz 5 a (neu)</Article2>
+Artikel 51a – Absatz 5 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1174,9 +1174,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51 b – Absatz 5 b (neu)</Article2>
+Artikel 51 b – Absatz 5 b (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1189,9 +1189,9 @@ Dadurch wird unnötiger Verwaltungsaufwand reduziert, da die vollständige Einbe
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51b – Absatz 4a (neu)</Article2>
+Artikel 51b – Absatz 4a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1208,9 +1208,9 @@ Dieser Artikel stärkt die Rolle von Expertengremien bei komplexen Klassifizieru
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51b – Überschrift</Article2>
+Artikel 51b – Überschrift
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1223,9 +1223,9 @@ Dieser Artikel stärkt die Rolle von Expertengremien bei komplexen Klassifizieru
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51b – Absatz 1</Article2>
+Artikel 51b – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1238,9 +1238,9 @@ Dieser Artikel stärkt die Rolle von Expertengremien bei komplexen Klassifizieru
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51b – Absatz 2</Article2>
+Artikel 51b – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1253,9 +1253,9 @@ Dieser Artikel stärkt die Rolle von Expertengremien bei komplexen Klassifizieru
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51b – Absatz 3</Article2>
+Artikel 51b – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1268,9 +1268,9 @@ Dieser Artikel stärkt die Rolle von Expertengremien bei komplexen Klassifizieru
 
 **Artikel 1 – Absatz 1 – Nummer 42**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 51b – Absatz 4</Article2>
+Artikel 51b – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1283,9 +1283,9 @@ Dieser Artikel stärkt die Rolle von Expertengremien bei komplexen Klassifizieru
 
 **Artikel 1 – Absatz 1 – Nummer 43 – Buchstabe e a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52 – Absatz 7 – Unterabsatz 2 (neu)</Article2>
+Artikel 52 – Absatz 7 – Unterabsatz 2 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1303,9 +1303,9 @@ Dadurch wird verhindert, dass es zu unterschiedlichen nationalen Vorabgenehmigun
 
 **Artikel 1 – Absatz 1 – Nummer 43 – Buchstabe g**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52 – Absatz 14 – Buchstabe b</Article2>
+Artikel 52 – Absatz 14 – Buchstabe b
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1322,9 +1322,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 1</Article2>
+Artikel 52a – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1337,9 +1337,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 2</Article2>
+Artikel 52a – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1352,9 +1352,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 5</Article2>
+Artikel 52a – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1367,9 +1367,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 6 – Unterabsatz 1</Article2>
+Artikel 52a – Absatz 6 – Unterabsatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1382,9 +1382,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 6 – Unterabsatz 2</Article2>
+Artikel 52a – Absatz 6 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1397,9 +1397,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 6 a (neu)</Article2>
+Artikel 52a – Absatz 6 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1412,9 +1412,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 7 – Einleitung</Article2>
+Artikel 52a – Absatz 7 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1427,9 +1427,9 @@ Stellt sicher, dass Überwachungsaudits, unangekündigte Audits und Stichprobenp
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 7 – Unterabsatz 2</Article2>
+Artikel 52a – Absatz 7 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1446,9 +1446,9 @@ Dadurch wird sichergestellt, dass ein früherer Marktzugang auf der Grundlage be
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52 a – Absatz 7 – Unterabsatz 2 a (neu)</Article2>
+Artikel 52 a – Absatz 7 – Unterabsatz 2 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1461,9 +1461,9 @@ Dadurch wird sichergestellt, dass ein früherer Marktzugang auf der Grundlage be
 
 **Artikel 1 – Absatz 1 – Nummer 44**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 52a – Absatz 9</Article2>
+Artikel 52a – Absatz 9
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1476,9 +1476,9 @@ Dadurch wird sichergestellt, dass ein früherer Marktzugang auf der Grundlage be
 
 **Artikel 1 – Absatz 1 – Nummer 46**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 54 – Absatz 1 – Unterabsatz 1</Article2>
+Artikel 54 – Absatz 1 – Unterabsatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1495,9 +1495,9 @@ Dadurch wird sichergestellt, dass Produkte mit höheren Risikoprofilen weiterhin
 
 **Artikel 1 – Absatz 1 – Nummer 47 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 56 – Absatz 2 a</Article2>
+Artikel 56 – Absatz 2 a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1514,9 +1514,9 @@ Die Überwachung während der Gültigkeitsdauer der Bescheinigung sollte verhäl
 
 **Artikel 1 – Absatz 1 – Nummer 49 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 59 – Absatz 1</Article2>
+Artikel 59 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1529,9 +1529,9 @@ Die Überwachung während der Gültigkeitsdauer der Bescheinigung sollte verhäl
 
 **Artikel 1 – Absatz 1 – Nummer 49 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 59 – Absatz 1 a</Article2>
+Artikel 59 – Absatz 1 a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1544,9 +1544,9 @@ Die Überwachung während der Gültigkeitsdauer der Bescheinigung sollte verhäl
 
 **Artikel 1 – Absatz 1 – Nummer 49 – Buchstabe d**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 59 – Absatz 3</Article2>
+Artikel 59 – Absatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1559,9 +1559,9 @@ Die Überwachung während der Gültigkeitsdauer der Bescheinigung sollte verhäl
 
 **Artikel 1 – Absatz 1 – Nummer 50**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 59b – Absatz 7a (neu)</Article2>
+Artikel 59b – Absatz 7a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1574,9 +1574,9 @@ Die Überwachung während der Gültigkeitsdauer der Bescheinigung sollte verhäl
 
 **Artikel 1 – Absatz 1 – Nummer 50**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 59c – Absatz 5a (neu)</Article2>
+Artikel 59c – Absatz 5a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1589,9 +1589,9 @@ Die Überwachung während der Gültigkeitsdauer der Bescheinigung sollte verhäl
 
 **Artikel 1 – Absatz 1 – Nummer 52 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 61 – Absatz 5</Article2>
+Artikel 61 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1608,9 +1608,9 @@ Führt einen risikobasierten Ansatz für die Anwendung der Gleichwertigkeit ein.
 
 **Artikel 1 – Absatz 1 – Nummer 52 – Buchstabe f**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 61 – Absatz 11</Article2>
+Artikel 61 – Absatz 11
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1627,9 +1627,9 @@ Stellt klar, wann die Dokumentation der klinischen Bewertung aktualisiert werden
 
 **Artikel 1 – Absatz 1 – Nummer 61 – Buchstabe c a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 78 – Absatz 14</Article2>
+Artikel 78 – Absatz 14
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1649,9 +1649,9 @@ Die Verkürzung des Zeitraums und die Streichung der Antragsphase werden den Ver
 
 **Artikel 1 – Absatz 1 – Nummer 67 – Buchstabe a – Ziffer ii**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 86 – Absatz 1 – Unterabsatz 1 – Satz 1</Article2>
+Artikel 86 – Absatz 1 – Unterabsatz 1 – Satz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1664,9 +1664,9 @@ Die Verkürzung des Zeitraums und die Streichung der Antragsphase werden den Ver
 
 **Artikel 1 – Absatz 1 – Nummer 67 – Buchstabe a – Ziffer ii**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 86 – Absatz 1 – Unterabsatz 3</Article2>
+Artikel 86 – Absatz 1 – Unterabsatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1679,9 +1679,9 @@ Die Verkürzung des Zeitraums und die Streichung der Antragsphase werden den Ver
 
 **Artikel 1 – Absatz 1 – Nummer 86**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 106 – Absatz 2 – Unterabsatz 1</Article2>
+Artikel 106 – Absatz 2 – Unterabsatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1698,9 +1698,9 @@ Dadurch wird die frühzeitige Abstimmung zwischen Expertengremien und Benannten 
 
 **Artikel 1 – Absatz 1 – Nummer 86**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 106 – Absatz 4</Article2>
+Artikel 106 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1717,9 +1717,9 @@ Dadurch wird sichergestellt, dass Expertengremien Zugang zu allen relevanten Bei
 
 **Artikel 1 – Absatz 1 – Nummer 95**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Artikel 120 – Absatz 14 – Unterabsatz 1 – Einleitung</Article2>
+Artikel 120 – Absatz 14 – Unterabsatz 1 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1736,9 +1736,9 @@ Dadurch wird sichergestellt, dass die Ausnahmeregelung auch Nischenprodukte umfa
 
 **Artikel 2 – Absatz 1 – Nummer 5 – Buchstabe a – Ziffer i – Punkt 2**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 5 – Absatz 5 – Buchstabe c</Article2>
+Artikel 5 – Absatz 5 – Buchstabe c
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1755,9 +1755,9 @@ Damit wird ein einheitliches Qualitäts- und Kompetenzniveau für Laboratorien �
 
 **Artikel 2 – Absatz 1 – Nummer 5 – Buchstabe a – Ziffer iii**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 5 – Absatz 5 – Unterabsatz 3</Article2>
+Artikel 5 – Absatz 5 – Unterabsatz 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1774,9 +1774,9 @@ Damit wird eine einheitliche Anwendung der Bestimmung auf Labore gewährleistet,
 
 **Artikel 2 – Absatz 1 – Nummer 5 – Buchstabe a a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 5 – Absatz 5 – Einleitung</Article2>
+Artikel 5 – Absatz 5 – Einleitung
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1794,9 +1794,9 @@ Damit wird sichergestellt, dass die Ausnahmeregelung von den regulatorischen Anf
 
 **Artikel 2 – Absatz 1 – Nummer 7 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 7 – Unterabsatz 3 (neu)</Article2>
+Artikel 7 – Unterabsatz 3 (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1814,9 +1814,9 @@ Damit werden harmonisierte Unionsvorschriften für die Werbung für Medizinprodu
 
 **Artikel 2 – Absatz 1 – Nummer 9 – Buchstabe b – Einleitung**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 10 – Absatz 8</Article2>
+Artikel 10 – Absatz 8
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1833,9 +1833,9 @@ Dadurch wird ein klarer und standardisierter Bezugsrahmen für alle Komponenten 
 
 **Artikel 2 – Absatz 1 – Nummer 9 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 10 – Absatz 9</Article2>
+Artikel 10 – Absatz 9
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1853,9 +1853,9 @@ Dadurch können sich Hersteller auf Audits und Zertifizierungen aus internationa
 
 **Artikel 2 – Absatz 1 – Nummer 14 – Buchstabe b**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 16 – Absatz 4</Article2>
+Artikel 16 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1872,9 +1872,9 @@ Dies gewährleistet zeitnahe und genaue Informationen über Umkennzeichnungs- un
 
 **Artikel 2 – Absatz 1 – Nummer 36**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 54b – Absatz 7a (neu)</Article2>
+Artikel 54b – Absatz 7a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1891,9 +1891,9 @@ Damit wird klargestellt, dass die Teilnahme an einem Reallabor keinen Einfluss a
 
 **Artikel 2 – Absatz 1 – Nummer 51 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 78 – Absatz 4 a (neu)</Article2>
+Artikel 78 – Absatz 4 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1911,9 +1911,9 @@ In diesem Artikel wird erläutert, dass die Überwachungsmaßnahmen nach dem Inv
 
 **Artikel 2 – Absatz 1 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Artikel 13 – Absatz 2</Article2>
+Artikel 13 – Absatz 2
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1938,9 +1938,9 @@ Damit wird ein stärker risikobasierter und verhältnismäßiger Ansatz für die
 
 **Anhang I – Absatz 1 – Nummer 1 – Buchstabe d – Ziffer iii –Absatz 1**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang I – Abschnitt 23.1 – Buchstabe f</Article2>
+Anhang I – Abschnitt 23.1 – Buchstabe f
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1957,9 +1957,9 @@ Dies erleichtert die Verwendung elektronischer Gebrauchsanweisungen und gewährl
 
 **Anhang I – Absatz 1 – Nummer 1 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang I – Abschnitt 12.2</Article2>
+Anhang I – Abschnitt 12.2
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -1979,9 +1979,9 @@ Darin wird klargestellt, dass stoffliche Produkte im Rahmen der geltenden Konfor
 
 **Anhang I – Absatz 1 – Nummer 4 – Buchstabe a**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VI – Teil B – Nummer 4</Article2>
+Anhang VI – Teil B – Nummer 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -1998,9 +1998,9 @@ Damit wird die Anforderung gestrichen, die Mitgliedstaaten anzugeben, in denen e
 
 **Anhang I – Absatz 1 – Nummer 5 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VII – Abschnitt 1.2.9.</Article2>
+Anhang VII – Abschnitt 1.2.9.
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2013,9 +2013,9 @@ Damit wird die Anforderung gestrichen, die Mitgliedstaaten anzugeben, in denen e
 
 **Anhang I – Absatz 1 – Nummer 5 – Buchstabe p – Ziffer i**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VII – Abschnitt 4.5.1 – Absatz 2 – Spiegelstrich 9</Article2>
+Anhang VII – Abschnitt 4.5.1 – Absatz 2 – Spiegelstrich 9
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2032,9 +2032,9 @@ Stellt sicher, dass Probleme, die bereits im Rahmen der Konformitätsbewertung g
 
 **Anhang I – Absatz 1 – Nummer 5 – Buchstabe p – Ziffer iii**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VII – Abschnitt 4.5.1 – Absatz 2 – Spiegelstrich 11</Article2>
+Anhang VII – Abschnitt 4.5.1 – Absatz 2 – Spiegelstrich 11
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2051,9 +2051,9 @@ Die Anerkennung von Bewertungen, die bereits im Rahmen der MP-VO durchgeführt w
 
 **Anhang I – Absatz 1 – Nummer 5 – Buchstabe p – Ziffer iii a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VII – Abschnitt 4.5.1 – Absatz 2 – Spiegelstrich 11 a (neu)</Article2>
+Anhang VII – Abschnitt 4.5.1 – Absatz 2 – Spiegelstrich 11 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2072,9 +2072,9 @@ Durch diesen Änderungsantrag konzentriert sich die Bewertung durch die Benannte
 
 **Anhang I – Absatz 1 – Nummer 6 – Buchstabe g**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Einleitung</Article2>
+Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2087,9 +2087,9 @@ Durch diesen Änderungsantrag konzentriert sich die Bewertung durch die Benannte
 
 **Anhang I – Absatz 1 – Nummer 6 – Buchstabe g**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Spiegelstrich 1</Article2>
+Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Spiegelstrich 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2102,9 +2102,9 @@ Durch diesen Änderungsantrag konzentriert sich die Bewertung durch die Benannte
 
 **Anhang I – Absatz 1 – Nummer 6 – Buchstabe g**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Spiegelstrich 2</Article2>
+Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Spiegelstrich 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2117,9 +2117,9 @@ Durch diesen Änderungsantrag konzentriert sich die Bewertung durch die Benannte
 
 **Anhang I – Absatz 1 – Nummer 6 – Buchstabe g**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Spiegelstrich 3</Article2>
+Anhang VIII – Abschnitt 6.3 – Unterabsatz 1 – Spiegelstrich 3
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2132,9 +2132,9 @@ Durch diesen Änderungsantrag konzentriert sich die Bewertung durch die Benannte
 
 **Anhang I – Absatz 1 – Nummer 6 – Buchstabe i**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VIII – Abschnitt 7.8 – Einleitung</Article2>
+Anhang VIII – Abschnitt 7.8 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2147,9 +2147,9 @@ Durch diesen Änderungsantrag konzentriert sich die Bewertung durch die Benannte
 
 **Anhang I – Absatz 1 – Nummer 6 a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang VIII – Abschnitt 7.1 – Unterabsatz 1 – Spiegelstrich 1</Article2>
+Anhang VIII – Abschnitt 7.1 – Unterabsatz 1 – Spiegelstrich 1
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -2169,9 +2169,9 @@ Vermeidet eine unverhältnismäßige Klassifizierung, wenn der Stoff keinen Beit
 
 **Anhang I – Absatz 1 – Nummer 7 – Buchstabe a a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang IX – Abschnitt 2.4</Article2>
+Anhang IX – Abschnitt 2.4
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -2191,9 +2191,9 @@ Stellt klar, dass zusätzliche Audits oder Prüfungen nur dann erforderlich sind
 
 **Anhang I – Absatz 1 – Nummer 7 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang IX – Abschnitt 3.3 – Unterabsatz 2</Article2>
+Anhang IX – Abschnitt 3.3 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2206,9 +2206,9 @@ Stellt klar, dass zusätzliche Audits oder Prüfungen nur dann erforderlich sind
 
 **Anhang I – Absatz 1 – Nummer 7 – Buchstabe d – Ziffer i**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang IX – Abschnitt 3.4 – Absatz 1</Article2>
+Anhang IX – Abschnitt 3.4 – Absatz 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2221,9 +2221,9 @@ Stellt klar, dass zusätzliche Audits oder Prüfungen nur dann erforderlich sind
 
 **Anhang I – Absatz 1 – Nummer 7 b (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang IX – Abschnitt 5.4</Article2>
+Anhang IX – Abschnitt 5.4
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -2244,9 +2244,9 @@ Stellt klar, dass stoffliche Medizinprodukte im Hinblick auf die relevanten Sich
 
 **Anhang I – Absatz 1 – Nummer 12 – Buchstabe a – Ziffer ii**
 
-*<DocAmend2>Verordnung (EU) 2017/745</DocAmend2>*
+*Verordnung (EU) 2017/745*
 
-<Article2>Anhang XIV – Abschnitt 1</Article2>
+Anhang XIV – Abschnitt 1
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2259,9 +2259,9 @@ Stellt klar, dass stoffliche Medizinprodukte im Hinblick auf die relevanten Sich
 
 **Anhang II – Absatz 1 – Nummer 1 – Buchstabe v – Ziffer v**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Anhang I – Abschnitt 20. 1 – Buchstabe k</Article2>
+Anhang I – Abschnitt 20. 1 – Buchstabe k
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2274,9 +2274,9 @@ Stellt klar, dass stoffliche Medizinprodukte im Hinblick auf die relevanten Sich
 
 **Anhang II – Absatz 1 – Nummer 1 – Buchstabe b – Ziffer v – Buchstabe a (neu)**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Anhang I – Abschnitt 20. 1 – Buchstabe j a (neu)</Article2>
+Anhang I – Abschnitt 20. 1 – Buchstabe j a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2289,9 +2289,9 @@ Stellt klar, dass stoffliche Medizinprodukte im Hinblick auf die relevanten Sich
 
 **Anhang II – Absatz 1 – Nummer 6 – Buchstabe c**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Anhang IX – Abschnitt 3.3 – Unterabsatz 2</Article2>
+Anhang IX – Abschnitt 3.3 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -2304,9 +2304,9 @@ Stellt klar, dass stoffliche Medizinprodukte im Hinblick auf die relevanten Sich
 
 **Anhang II – Absatz 1 – Nummer 6 – Buchstabe d – Ziffer i**
 
-*<DocAmend2>Verordnung (EU) 2017/746</DocAmend2>*
+*Verordnung (EU) 2017/746*
 
-<Article2>Anhang IX – Abschnitt 3.4</Article2>
+Anhang IX – Abschnitt 3.4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |

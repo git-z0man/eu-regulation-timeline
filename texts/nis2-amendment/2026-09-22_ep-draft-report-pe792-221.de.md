@@ -128,9 +128,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 4**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 6 – Absatz 1 – Nummer 44</Article2>
+Artikel 6 – Absatz 1 – Nummer 44
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -143,9 +143,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 5**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 7 – Absatz 2 – Buchstabe k</Article2>
+Artikel 7 – Absatz 2 – Buchstabe k
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -158,9 +158,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 5 a (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 14 a (neu)</Article2>
+Artikel 14 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -181,9 +181,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 7 – Buchstabe a**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 21 – Absatz 5 – Unterabsatz 2</Article2>
+Artikel 21 – Absatz 5 – Unterabsatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -196,9 +196,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 7 – Buchstabe b**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 21 – Absatz 5 – Unterabsatz 5</Article2>
+Artikel 21 – Absatz 5 – Unterabsatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -211,9 +211,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 7 a (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 21 – Absatz 5 a</Article2>
+Artikel 21 – Absatz 5 a
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -231,9 +231,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 7 b (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 23 – Absatz 1 – Unterabsatz 1</Article2>
+Artikel 23 – Absatz 1 – Unterabsatz 1
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -247,9 +247,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 23 – Absatz 13 – Unterabsatz 1 – Einleitung</Article2>
+Artikel 23 – Absatz 13 – Unterabsatz 1 – Einleitung
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -262,9 +262,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 23 – Absatz 13 – Unterabsatz 1 a (neu)</Article2>
+Artikel 23 – Absatz 13 – Unterabsatz 1 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -277,9 +277,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 8**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 23 – Absatz 13 a (neu)</Article2>
+Artikel 23 – Absatz 13 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -294,9 +294,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 9**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 24 – Absatz 4</Article2>
+Artikel 24 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -311,9 +311,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 9**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 24 – Absatz 5</Article2>
+Artikel 24 – Absatz 5
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -328,9 +328,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 10 – Buchstabe a**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 26 – Absatz 1 – Buchstabe d a (neu) </Article2>
+Artikel 26 – Absatz 1 – Buchstabe d a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -343,9 +343,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 11 – Buchstabe c**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 27 – Absatz 4</Article2>
+Artikel 27 – Absatz 4
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -358,9 +358,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 11 a (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 30 – Absatz 1</Article2>
+Artikel 30 – Absatz 1
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -374,9 +374,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 12**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 37a – Absatz 2</Article2>
+Artikel 37a – Absatz 2
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -389,9 +389,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 12**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 37a – Absatz 5 a (neu)</Article2>
+Artikel 37a – Absatz 5 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -404,9 +404,9 @@ Das Europäische Parlament,
 
 **Artikel 1 – Absatz 1 – Nummer 12 a (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Artikel 38</Article2>
+Artikel 38
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -419,9 +419,9 @@ Das Europäische Parlament,
 
 **Artikel 1 a – Absatz 1 – Nummer 1 (neu)**
 
-*<DocAmend2>Verordnung (EU) Nr. 910/2014</DocAmend2>*
+*Verordnung (EU) Nr. 910/2014*
 
-<Article2>Artikel 19 a – Absatz 1 a (neu)</Article2>
+Artikel 19 a – Absatz 1 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -438,9 +438,9 @@ Das Europäische Parlament,
 
 **Artikel 1 a – Absatz 1 – Nummer 2 (neu)**
 
-*<DocAmend2>Verordnung (EU) Nr. 910/2014</DocAmend2>*
+*Verordnung (EU) Nr. 910/2014*
 
-<Article2>Artikel 24 – Absatz 2 a (neu)</Article2>
+Artikel 24 – Absatz 2 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -454,9 +454,9 @@ Das Europäische Parlament,
 
 **Artikel 1 a – Absatz 1 – Nummer 3 (neu)**
 
-*<DocAmend2>Verordnung (EU) Nr. 910/2014</DocAmend2>*
+*Verordnung (EU) Nr. 910/2014*
 
-<Article2>Artikel 45a – Absatz 3 a (neu)</Article2>
+Artikel 45a – Absatz 3 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -470,9 +470,9 @@ Das Europäische Parlament,
 
 **Artikel 1 b – Absatz 1 – Nummer 1 (neu)**
 
-*<DocAmend2>Verordnung (EU) 2022/2554</DocAmend2>*
+*Verordnung (EU) 2022/2554*
 
-<Article2>Artikel 19 – Absatz 1 – Unterabsatz 1</Article2>
+Artikel 19 – Absatz 1 – Unterabsatz 1
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -489,9 +489,9 @@ Das Europäische Parlament,
 
 **Artikel 1 b – Absatz 1 – Nummer 2 (neu)**
 
-*<DocAmend2>Verordnung (EU) 2022/2554</DocAmend2>*
+*Verordnung (EU) 2022/2554*
 
-<Article2>Artikel 19 – Absatz 2 – Unterabsatz 1</Article2>
+Artikel 19 – Absatz 2 – Unterabsatz 1
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -505,9 +505,9 @@ Das Europäische Parlament,
 
 **Artikel 1 c – Absatz 1 – Nummer 1 (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2557</DocAmend2>*
+*Richtlinie (EU) 2022/2557*
 
-<Article2>Artikel 15 – Absatz 1 – Unterabsatz 1 – Einleitung </Article2>
+Artikel 15 – Absatz 1 – Unterabsatz 1 – Einleitung
 
 | Derzeitiger Wortlaut | Geänderter Text |
 | --- | --- |
@@ -524,9 +524,9 @@ Das Europäische Parlament,
 
 **Artikel 1 c – Absatz 1 – Nummer 2 (neu)**
 
-*<DocAmend2>Richtlinie (EU) 2022/2557</DocAmend2>*
+*Richtlinie (EU) 2022/2557*
 
-<Article2>Artikel 15 – Absatz 2 – Unterabsatz 1 a (neu)</Article2>
+Artikel 15 – Absatz 2 – Unterabsatz 1 a (neu)
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -540,9 +540,9 @@ Das Europäische Parlament,
 
 **Anhang I – Nummer 1 – Buchstabe d**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Anhang I</Article2>
+Anhang I
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |
@@ -558,9 +558,9 @@ Das Europäische Parlament,
 
 **Anhang I – Nummer 2**
 
-*<DocAmend2>Richtlinie (EU) 2022/2555</DocAmend2>*
+*Richtlinie (EU) 2022/2555*
 
-<Article2>Anhang II</Article2>
+Anhang II
 
 | Vorschlag der Kommission | Geänderter Text |
 | --- | --- |

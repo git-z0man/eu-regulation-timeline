@@ -218,6 +218,18 @@
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
    "actor": "European Parliament",
+   "label": "IMCO opinion adopted",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29",
+   "key": "IMCO opinion adopted",
+   "page": "nis2-amendment",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "nis2-amendment",
+   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
+   "actor": "European Parliament",
    "label": "IMCO committee meeting held: agenda item 11 (vote)",
    "doc": "OJ-PE797.372",
    "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/11-09/1353246EN.pdf",
@@ -225,18 +237,6 @@
    "page": "nis2-amendment",
    "type": "Legislation",
    "meeting": true
-  },
-  {
-   "date": "2026-11-10",
-   "act": "nis2-amendment",
-   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29",
-   "key": "Committee opinion adopted",
-   "page": "nis2-amendment",
-   "type": "Legislation"
   },
   {
    "date": "2026-11-10",
@@ -296,6 +296,18 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "European Parliament",
+   "label": "IMCO opinion adopted",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
+   "key": "IMCO opinion adopted",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "European Parliament",
    "label": "IMCO committee meeting held: agenda item 9 (vote)",
    "doc": "OJ-PE797.372",
    "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/11-09/1353246EN.pdf",
@@ -306,14 +318,14 @@
   },
   {
    "date": "2026-11-10",
-   "act": "digital-omnibus",
-   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "European Parliament",
-   "label": "Committee opinion adopted",
+   "label": "IMCO opinion adopted",
    "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
-   "key": "Committee opinion adopted",
-   "page": "digital-omnibus",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29",
+   "key": "IMCO opinion adopted",
+   "page": "csa2",
    "type": "Legislation"
   },
   {
@@ -328,18 +340,6 @@
    "page": "csa2",
    "type": "Legislation",
    "meeting": true
-  },
-  {
-   "date": "2026-11-10",
-   "act": "csa2",
-   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
-   "actor": "European Parliament",
-   "label": "Committee opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29",
-   "key": "Committee opinion adopted",
-   "page": "csa2",
-   "type": "Legislation"
   },
   {
    "date": "2026-11-09",
@@ -773,10 +773,10 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "European Parliament",
-   "label": "Committee opinion adopted",
+   "label": "JURI opinion adopted",
    "doc": "EP procedure file",
    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
-   "key": "Committee opinion adopted",
+   "key": "JURI opinion adopted",
    "page": "digital-omnibus",
    "type": "Legislation"
   },

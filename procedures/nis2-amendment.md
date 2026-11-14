@@ -1,6 +1,6 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 13 Nov 2026.
+Procedure 2026/0012(COD), as of 14 Nov 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -24,7 +24,7 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 | 2026-05-22 | Council | Progress report | [ST 9399/26](https://data.consilium.europa.eu/doc/document/ST-9399-2026-INIT/en/pdf) · [en.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.en.md) [de.md](../texts/nis2-amendment/2026-05-22_council-progress-report-st-9399-26.de.md) | Cellar procedure file 2026/12 (Council register) |
 | 2026-05-28 | Council | Horizontal Working Party on Cyber Issues - attachés: Examination of the Proposal (5627/26 + ADD 1) | [CM 2950/26](https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf) | Council register, CM 2950/26 (notice of meeting and provisional agenda) |
 | 2026-09-24 | European Parliament | ITRE draft report | [PE792.221](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_en.pdf) · [en.md](../texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.en.md) [de.md](../texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | EP Open Data API, procedure 2026-0012 (COMMITTEE_TABLING_REPORT) |
-| 2026-11-10 | European Parliament | Committee opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29) | EP Open Data API, procedure 2026-0012 (COMMITTEE_ADOPTING_OPINION) |
+| 2026-11-10 | European Parliament | IMCO opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29) | EP Open Data API, procedure 2026-0012 (COMMITTEE_ADOPTING_OPINION) |
 
 ## Documents
 
@@ -61,7 +61,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-09 | [WK 17271/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335) | council-compromise | Presidency compromise text on the draft proposal for a Directive amending Directive (EU) 2022/2555 as regards simplification measures and alignment with the … | not public\* | [Request running ↗](https://www.asktheeu.org/request/council_document_wk_172712026_in) (waiting response) | – | – |
 | 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-14.
 
 ## Texts as Markdown
 

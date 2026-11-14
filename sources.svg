@@ -127,7 +127,7 @@
 <text font-size="10" fill="#454c53" text-anchor="start"><tspan x="608.0" y="355.5">weekdays</tspan></text>
 <polyline points="870.0,343.0 990.0,343.0" fill="none" stroke="#14181c" stroke-width="1.2"/><polygon points="990.0,343.0 981.0,347.5 981.0,338.5" fill="#14181c"/>
 <rect x="990.0" y="320.0" width="360.0" height="46.0" fill="#fafaf8" stroke="#c9ccc6"/>
-<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="340.1">Act pages: In Parliament; Coming up and This week in the EU:</tspan><tspan x="998.0" y="353.2">plenary debates and votes</tspan></text>
+<text font-size="10.5" fill="#222222" text-anchor="start"><tspan x="998.0" y="340.1">Act pages: In Parliament, Plenary votes; Coming up and This</tspan><tspan x="998.0" y="353.2">week in the EU: plenary debates and votes</tspan></text>
 <line x1="1350.0" y1="343.0" x2="1370.0" y2="343.0" stroke="#14181c" stroke-width="1.2"/>
 <rect x="600.0" y="374.0" width="270.0" height="46.0" fill="#ffffff" stroke="#14181c"/>
 <text font-size="12" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="608.0" y="390.2">statements.py</tspan></text>

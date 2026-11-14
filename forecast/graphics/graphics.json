@@ -137,6 +137,13 @@
     "de": "method-election-deadline-de"
   },
   {
+    "name": "method-deadline-scatter",
+    "title": "The election deadline: duration of every published file",
+    "note": "Months from the proposal to the last plenary session before the elections against working months to the Official Journal, proposals since 2012.",
+    "page": "method.html",
+    "de": "method-deadline-scatter-de"
+  },
+  {
     "name": "method-size-trend",
     "title": "Are proposals becoming more complex?",
     "note": "Median words of legal text and commas per 100 words of the Commission proposals by year.",

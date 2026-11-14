@@ -199,9 +199,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 2 – point a**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 2 – paragraph 1 – point 4c</Article2>
+Article 2 – paragraph 1 – point 4c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -214,9 +214,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 2 – point d**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 2 – paragraph 1– point 38a</Article2>
+Article 2 – paragraph 1– point 38a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -235,9 +235,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 2 – point e a (new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 2 – paragraph 1 – point 63a(new)</Article2>
+Article 2 – paragraph 1 – point 63a(new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -251,9 +251,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 7**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 15a – paragraph 2</Article2>
+Article 15a – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -266,9 +266,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 9 – point b – point ii**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 17 – paragraph 2 – subparagraph 1 – point e</Article2>
+Article 17 – paragraph 2 – subparagraph 1 – point e
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -281,9 +281,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 9 – point b – point ii a (new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 17 – paragraph 2 – subparagraph 2 a (new)</Article2>
+Article 17 – paragraph 2 – subparagraph 2 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -297,9 +297,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 10 – point -a (new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 18 – paragraph 1</Article2>
+Article 18 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -313,9 +313,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 16 – point c**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32 – paragraph 5</Article2>
+Article 32 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -328,9 +328,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32c – paragraph 1 – point b a (new)</Article2>
+Article 32c – paragraph 1 – point b a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -343,9 +343,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32c – paragraph 1 – point b b (new)</Article2>
+Article 32c – paragraph 1 – point b b (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -358,9 +358,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32c – paragraph 1 – point b c (new)</Article2>
+Article 32c – paragraph 1 – point b c (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -373,9 +373,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32c – paragraph 1 – point b d (new)</Article2>
+Article 32c – paragraph 1 – point b d (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -388,9 +388,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32c – paragraph 1 – point d – point ii</Article2>
+Article 32c – paragraph 1 – point d – point ii
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -403,9 +403,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32c – paragraph 1 – point d – point iii</Article2>
+Article 32c – paragraph 1 – point d – point iii
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -418,9 +418,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32e – paragraph 1 – subparagraph 1</Article2>
+Article 32e – paragraph 1 – subparagraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -433,9 +433,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32i – paragraph 1 a (new)</Article2>
+Article 32i – paragraph 1 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -448,9 +448,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32i – paragraph 5</Article2>
+Article 32i – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -463,9 +463,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32k – paragraph 3</Article2>
+Article 32k – paragraph 3
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -478,9 +478,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32q – paragraph 6</Article2>
+Article 32q – paragraph 6
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -493,9 +493,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32w – paragraph 3 – point a – point (ii)</Article2>
+Article 32w – paragraph 3 – point a – point (ii)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -508,9 +508,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 32w – paragraph 5 – subparagraph 1– point (a)</Article2>
+Article 32w – paragraph 5 – subparagraph 1– point (a)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -523,9 +523,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18 a (new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 37 – paragraph 3 a (new)</Article2>
+Article 37 – paragraph 3 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -539,9 +539,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18 a (new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 37 – paragraph 3 b (new)</Article2>
+Article 37 – paragraph 3 b (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -554,9 +554,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 18 a (new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 37 – paragraph 3 c (new)</Article2>
+Article 37 – paragraph 3 c (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -569,9 +569,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 19**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 38 – paragraph 3 a (new)</Article2>
+Article 38 – paragraph 3 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -584,9 +584,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 22**
 
-*<DocAmend2>Regulation (EU) 2023/2854</DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 41a – paragraph 2</Article2>
+Article 41a – paragraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -599,9 +599,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 23**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 42 – paragraph 1 – point b a (new)</Article2>
+Article 42 – paragraph 1 – point b a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -614,9 +614,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 23**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 42 – paragraph 1 – point c</Article2>
+Article 42 – paragraph 1 – point c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -629,9 +629,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 23**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 42 – paragraph 1 – point d a (new)</Article2>
+Article 42 – paragraph 1 – point d a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -644,9 +644,9 @@ The European Parliament,
 
 **Article 1 – paragraph 1 – point 26 – point a – point ii a(new)**
 
-*<DocAmend2>Regulation (EU) 2023/2854 </DocAmend2>*
+*Regulation (EU) 2023/2854*
 
-<Article2>Article 49 – paragraph 1 – point m a (new)</Article2>
+Article 49 – paragraph 1 – point m a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -660,9 +660,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 1 – point b**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 4 – paragraph 1 – point 32</Article2>
+Article 4 – paragraph 1 – point 32
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -675,9 +675,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 1 – point b**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 4 – paragraph 1 – point 33</Article2>
+Article 4 – paragraph 1 – point 33
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -690,9 +690,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 2**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 5 – paragraph 1 – point b</Article2>
+Article 5 – paragraph 1 – point b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -705,9 +705,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 3 – point a**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 9 – paragraph 2 – point l</Article2>
+Article 9 – paragraph 2 – point l
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -720,9 +720,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 3 a (new)**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 12 – paragraph 3</Article2>
+Article 12 – paragraph 3
 
 | Present text | Amendment |
 | --- | --- |
@@ -736,9 +736,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 12 – paragraph 5 – subparagraph 1 – introductory part </Article2>
+Article 12 – paragraph 5 – subparagraph 1 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -753,9 +753,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 12 – paragraph 5 – subparagraph 2</Article2>
+Article 12 – paragraph 5 – subparagraph 2
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -768,9 +768,9 @@ The European Parliament,
 
 **Article 3 – paragraph 1 – point 4 a (new)**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 12 – paragraphs 7 and 8</Article2>
+Article 12 – paragraphs 7 and 8
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -787,9 +787,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 7**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 22 – paragraph 1 – introductory part </Article2>
+Article 22 – paragraph 1 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -802,9 +802,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 7**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 22 – paragraph 1 – point b</Article2>
+Article 22 – paragraph 1 – point b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -817,9 +817,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 7 a (new)**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 22 – paragraph 3</Article2>
+Article 22 – paragraph 3
 
 | Present text | Amendment |
 | --- | --- |
@@ -833,9 +833,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 8 – point a**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 33 – paragraph 1</Article2>
+Article 33 – paragraph 1
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -848,9 +848,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 8 – point b**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 33 – paragraph 1 a </Article2>
+Article 33 – paragraph 1 a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -863,9 +863,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 8 – point c**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 33 – paragraph 6</Article2>
+Article 33 – paragraph 6
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -878,9 +878,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 8 – point c**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 33 – paragraph 7</Article2>
+Article 33 – paragraph 7
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -893,9 +893,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 9 – point a**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 35 – paragraph 4</Article2>
+Article 35 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -911,9 +911,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 9 – point a**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 35 – paragraph 5</Article2>
+Article 35 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -926,9 +926,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 9 – point a**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 35 – paragraph 6</Article2>
+Article 35 – paragraph 6
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -941,9 +941,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 9 – point b**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 35 – paragraph 6 a</Article2>
+Article 35 – paragraph 6 a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -956,9 +956,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 9 – point b**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 35 – paragraph 6 b</Article2>
+Article 35 – paragraph 6 b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -971,9 +971,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 9 – point b**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 35 – paragraph 6 c </Article2>
+Article 35 – paragraph 6 c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -986,9 +986,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 14**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 70 – paragraph 1 – point h a</Article2>
+Article 70 – paragraph 1 – point h a
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1001,9 +1001,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 14**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 70 – paragraph 1 – point h b</Article2>
+Article 70 – paragraph 1 – point h b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1016,9 +1016,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 14**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 70 – paragraph 1 – point h c</Article2>
+Article 70 – paragraph 1 – point h c
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1031,9 +1031,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 3 – paragraph 1 – point 14 a (new)**
 
-*<DocAmend2>Regulation (EU) 2016/679</DocAmend2>*
+*Regulation (EU) 2016/679*
 
-<Article2>Article 70 – paragraph 3</Article2>
+Article 70 – paragraph 3
 
 | Present text | Amendment |
 | --- | --- |
@@ -1047,9 +1047,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 4 – paragraph 1 – point 1 – point b**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 3 – paragraph 1 – point 25</Article2>
+Article 3 – paragraph 1 – point 25
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1062,9 +1062,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 4 – paragraph 1 – point 2**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 4 – paragraph 1 – point b</Article2>
+Article 4 – paragraph 1 – point b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1077,9 +1077,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 4 – paragraph 1 – point 3 – point a**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 10 – paragraph 2 – point l</Article2>
+Article 10 – paragraph 2 – point l
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1092,9 +1092,9 @@ The delegated acts for the purpose of determining the information to be presente
 
 **Article 4 – paragraph 1 – point 4**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 14 – paragraph 5</Article2>
+Article 14 – paragraph 5
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1112,9 +1112,9 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 4 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 24 – paragraph 1 – introductory part</Article2>
+Article 24 – paragraph 1 – introductory part
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1127,9 +1127,9 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 4 – paragraph 1 – point 6**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 24 – paragraph 1 – point b</Article2>
+Article 24 – paragraph 1 – point b
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1142,9 +1142,9 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 4 – paragraph 1 – point 9 – point a**
 
-*<DocAmend2>Regulation (EU) 2018/1725</DocAmend2>*
+*Regulation (EU) 2018/1725*
 
-<Article2>Article 39 – paragraph 4</Article2>
+Article 39 – paragraph 4
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1157,9 +1157,9 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 6 – paragraph 1 – point -1 (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 14 a (new)</Article2>
+Article 14 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1175,9 +1175,9 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 6 – paragraph 1 – point 1 (new)**
 
-*<DocAmend2>Directive (EU) 2022/2555</DocAmend2>*
+*Directive (EU) 2022/2555*
 
-<Article2>Article 23a – paragraph 3 a (new)</Article2>
+Article 23a – paragraph 3 a (new)
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1190,7 +1190,7 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 10 – paragraph 1**
 
-*<DocAmend2>Regulation 2019/1150/EU</DocAmend2>*
+*Regulation 2019/1150/EU*
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
@@ -1203,7 +1203,7 @@ This amendment is deleted in order to align with amendments made by rapporteurs 
 
 **Article 10 – paragraph 2**
 
-*<DocAmend2>Regulation 2019/1150/EU</DocAmend2>*
+*Regulation 2019/1150/EU*
 
 | Text proposed by the Commission | Amendment |
 | --- | --- |
