@@ -218,6 +218,19 @@
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
    "actor": "European Parliament",
+   "label": "IMCO committee meeting held: agenda item 11 (vote)",
+   "doc": "OJ-PE797.372",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/11-09/1353246EN.pdf",
+   "key": "emeeting-IMCO(2026)1109_1-2026-11-10",
+   "page": "nis2-amendment",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-11-10",
+   "act": "nis2-amendment",
+   "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
+   "actor": "European Parliament",
    "label": "Committee opinion adopted",
    "doc": "EP procedure file",
    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29",
@@ -240,6 +253,19 @@
    "doc_title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the …",
    "withheld_since": "2026-09-25",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "European Parliament",
+   "label": "IMCO committee meeting held: agenda item 10 (vote)",
+   "doc": "OJ-PE797.372",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/11-09/1353246EN.pdf",
+   "key": "emeeting-IMCO(2026)1109_1-2026-11-10",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "meeting": true
   },
   {
    "date": "2026-11-10",
@@ -270,12 +296,38 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "European Parliament",
+   "label": "IMCO committee meeting held: agenda item 9 (vote)",
+   "doc": "OJ-PE797.372",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/11-09/1353246EN.pdf",
+   "key": "emeeting-IMCO(2026)1109_1-2026-11-10",
+   "page": "digital-omnibus",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-11-10",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "European Parliament",
    "label": "Committee opinion adopted",
    "doc": "EP procedure file",
    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
    "key": "Committee opinion adopted",
    "page": "digital-omnibus",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-11-10",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "European Parliament",
+   "label": "IMCO committee meeting held: agenda item 12 (vote)",
+   "doc": "OJ-PE797.372",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/11-09/1353246EN.pdf",
+   "key": "emeeting-IMCO(2026)1109_1-2026-11-10",
+   "page": "csa2",
+   "type": "Legislation",
+   "meeting": true
   },
   {
    "date": "2026-11-10",
@@ -8490,43 +8542,6 @@
     ]
    ],
    "page": "standardisation-regulation",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-13",
-   "act": "space-act",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "Council",
-   "label": "Draft progress report on the proposal for a Regulation of the European Parliament and of … (not public)",
-   "doc": "WK 15484/25",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/44282",
-   "key": "WK 15484/25",
-   "page": "space-act",
-   "type": "Legislation",
-   "listed": "council-progress-report"
-  },
-  {
-   "date": "2025-11-13",
-   "act": "csa",
-   "title": "CSA",
-   "actor": "European Cybersecurity Certification Committee",
-   "label": "Draft implementing act published: 11th Meeting of the European Cybersecurity Certification Committee (2025-10-28)",
-   "doc": "draft implementing act v2",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/110573/2/consult",
-   "key": "C106400-D110573/2",
-   "page": "csa",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-13",
-   "act": "csa",
-   "title": "CSA",
-   "actor": "European Cybersecurity Certification Committee",
-   "label": "Draft implementing act published: 11th Meeting of the European Cybersecurity Certification Committee (2025-10-28)",
-   "doc": "draft implementing act v2",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/110577/2/consult",
-   "key": "C106400-D110577/2",
-   "page": "csa",
    "type": "Committees"
   }
  ]

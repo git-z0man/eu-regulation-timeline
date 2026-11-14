@@ -4,7 +4,7 @@ The official EU documents of the regulation timeline and the legislative procedu
 
 EN and DE link the Markdown files (for download and project folders); "GitHub" opens the rendered text, where a link to a provision (`#art-13`, `#rec-12`, `#annex-i`) jumps to it.
 
-Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union Agency for Cybersecurity (ENISA). The document states no licence; reproduced with acknowledgement of the source, as a document of an EU agency. The official document is authentic. © European Union Agency for Cybersecurity (ENISA). Reproduction is authorised provided the source is acknowledged, as stated in the document. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
+Reuse: © European Union, EUR-Lex. Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council. © European Union, European Parliament. Reuse authorised as a general rule by the EP legal notice, provided the entire item is reproduced and the source is acknowledged; EP Open Data Portal: CC BY 4.0. © European Union, European Commission (Register of Commission documents). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union, European Commission (Commission website). Reuse: Commission Decision 2011/833/EU, Article 6. © European Union Agency for Cybersecurity (ENISA). Licence: CC BY 4.0, as stated in the document. © European Union Agency for Cybersecurity (ENISA). The document states no licence; reproduced with acknowledgement of the source, as a document of an EU agency. The official document is authentic. © European Union Agency for Cybersecurity (ENISA). Reproduction is authorised provided the source is acknowledged, as stated in the document. © European Union, European Commission ("Have your say" portal). A draft by the Commission services published for feedback, not adopted. Reuse: Commission Decision 2011/833/EU, Article 6.
 
 ## Reg. 765/2008
 
@@ -632,6 +632,26 @@ All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2015-11-25_commission-decision | commission-decision | – | [en](gpsr/sreq-m538/2015-11-25_commission-decision.en.md) | [de](gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=de) |
+
+## CJEU C-588/21 P Public.Resource.Org
+
+`guidance/cjeu/c-588-21-p` – Judgment of the Court (Grand Chamber) of 5 March 2024, Public.Resource.Org, Inc. and Right to Know CLG v European Commission, Case C-588/21 P, EU:C:2024:201
+
+All texts of this act as one file: [guidance-cjeu-c-588-21-p.zip](downloads/guidance-cjeu-c-588-21-p.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-03-05_judgment | judgment | 62021CJ0588 | [en](guidance/cjeu/c-588-21-p/2024-03-05_judgment.en.md) | [de](guidance/cjeu/c-588-21-p/2024-03-05_judgment.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/cjeu/c-588-21-p/2024-03-05_judgment.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0588) |
+
+## CJEU C-613/14 James Elliott
+
+`guidance/cjeu/c-613-14` – Judgment of the Court (Third Chamber) of 27 October 2016, James Elliott Construction Limited v Irish Asphalt Limited, Case C-613/14, EU:C:2016:821
+
+All texts of this act as one file: [guidance-cjeu-c-613-14.zip](downloads/guidance-cjeu-c-613-14.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2016-10-27_judgment | judgment | 62014CJ0613 | [en](guidance/cjeu/c-613-14/2016-10-27_judgment.en.md) | [de](guidance/cjeu/c-613-14/2016-10-27_judgment.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/cjeu/c-613-14/2016-10-27_judgment.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62014CJ0613) |
 
 ## AI Act draft guidelines on high-risk classification
 
@@ -1910,6 +1930,26 @@ All texts of this act as one file: [guidance-commission-simplification-overview-
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-04_final | final | – | [en](guidance/commission/simplification-overview-2026/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/simplification-overview-2026/2026-11-04_final.en.md) | [source](https://commission.europa.eu/document/download/1a61e542-802b-4931-af63-915084db559d_en?filename=2026-overview-report-simplification-implementation-enforcement_en.pdf) |
+
+## Impact assessment Standardisation Regulation
+
+`guidance/commission/standardisation-impact-assessment-2026` – Commission Staff Working Document, Impact Assessment Report accompanying the document Proposal for a Regulation of the European Parliament and of the Council on European standardisation, repealing Regulation (EU) No 1025/2012, SWD(2026) 786 final, 6.10.2026
+
+All texts of this act as one file: [guidance-commission-standardisation-impact-assessment-2026.zip](downloads/guidance-commission-standardisation-impact-assessment-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-06_final | final | 52026SC0786 | [en](guidance/commission/standardisation-impact-assessment-2026/2026-10-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/standardisation-impact-assessment-2026/2026-10-06_final.en.md) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0786) |
+
+## Impact assessment summary Standardisation Regulation
+
+`guidance/commission/standardisation-impact-assessment-summary-2026` – Commission Staff Working Document, Executive Summary of the Impact Assessment Report accompanying the document Proposal for a Regulation of the European Parliament and of the Council on European Standardisation, repealing Regulation (EU) No 1025/2012, SWD(2026) 787 final, 6.10.2026
+
+All texts of this act as one file: [guidance-commission-standardisation-impact-assessment-summary-2026.zip](downloads/guidance-commission-standardisation-impact-assessment-summary-2026.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-06_final | final | 52026SC0787 | [en](guidance/commission/standardisation-impact-assessment-summary-2026/2026-10-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/standardisation-impact-assessment-summary-2026/2026-10-06_final.en.md) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0787) |
 
 ## Annual Union work programme for European standardisation 2024
 

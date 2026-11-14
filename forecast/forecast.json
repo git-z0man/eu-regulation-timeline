@@ -3657,11 +3657,11 @@
       "window": {
         "next": "ep",
         "expected": "2026-11-25",
-        "on_track_until": "2026-12-04",
+        "on_track_until": "2026-12-11",
         "tolerance_days": 14,
-        "if_today": "2026-12-31",
-        "median_workdays": 48,
-        "comparable_min": 862,
+        "if_today": "2026-12-25",
+        "median_workdays": 42,
+        "comparable_min": 565,
         "at_step": {
           "day": "2026-07-14",
           "median": "2026-11-02",
@@ -4055,11 +4055,11 @@
       "window": {
         "next": "ep",
         "expected": "2026-11-25",
-        "on_track_until": "2026-11-27",
+        "on_track_until": "2026-12-04",
         "tolerance_days": 14,
-        "if_today": "2027-01-01",
-        "median_workdays": 49,
-        "comparable_min": 862,
+        "if_today": "2026-12-26",
+        "median_workdays": 43,
+        "comparable_min": 565,
         "at_step": {
           "day": "2026-07-14",
           "median": "2026-10-16",

@@ -1,18 +1,11 @@
 {
- "as_of": "2026-11-13",
+ "as_of": "2026-11-14",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "note": "All acts we follow",
    "ahead": [
-    {
-     "date": "2026-11-13",
-     "act": "European Health Data Space Regulation",
-     "text": "Feedback closes: Draft implementing regulation, Templates for health data access applications, health data …",
-     "url": "procedures/ehds.html",
-     "top": true
-    },
     {
      "date": "2026-11-15",
      "act": "Cyber Resilience Act",
@@ -25,8 +18,22 @@
     {
      "date": "2026-11-10",
      "act": "Cybersecurity Act 2",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
+     "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Cybersecurity Act 2",
      "text": "European Parliament: Committee opinion adopted",
      "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Digital Omnibus",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 9 (vote)",
+     "url": "procedures/digital-omnibus.html",
      "top": true
     },
     {
@@ -48,14 +55,28 @@
      "act": "Simplification of the medical devices rules",
      "text": "Council: Consolidated version of draft compromise text for General Approach (not public)",
      "url": "procedures/medical-devices-simplification.html",
-     "top": true
+     "top": false
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Simplification of the medical devices rules",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 10 (vote)",
+     "url": "procedures/medical-devices-simplification.html",
+     "top": false
     },
     {
      "date": "2026-11-10",
      "act": "Simplification of the medical devices rules",
      "text": "European Parliament: Committee opinion adopted",
      "url": "procedures/medical-devices-simplification.html",
-     "top": true
+     "top": false
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
+     "url": "procedures/nis2-amendment.html",
+     "top": false
     },
     {
      "date": "2026-11-10",
@@ -72,13 +93,6 @@
      "top": false
     },
     {
-     "date": "2026-11-06",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 3 documents listed as not public, incl. Presidency first compromise text on Title IV …",
-     "url": "procedures/csa2.html",
-     "top": false
-    },
-    {
      "date": "2026-11-09",
      "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
      "text": "Council: Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not …",
@@ -88,7 +102,7 @@
     {
      "date": "2026-11-13",
      "act": "Cyber Resilience Act",
-     "text": "7 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
+     "text": "5 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -109,7 +123,7 @@
     {
      "date": "2026-11-13",
      "act": "Radio Equipment Directive",
-     "text": "10 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Closing of approval procedure",
+     "text": "8 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Closing of approval procedure",
      "url": "procedures/index.html",
      "top": false
     },
@@ -151,7 +165,7 @@
     {
      "date": "2026-11-12",
      "act": "Cyber Solidarity Act",
-     "text": "2 new meetings or documents of committees and expert groups",
+     "text": "Digital Europe Programme Coordination Committee: Summary record published: 18th meeting of the Digital …",
      "url": "procedures/cyber-solidarity-act.html",
      "top": false
     },
@@ -160,13 +174,6 @@
      "act": "Regulation on European standardisation",
      "text": "5 new meetings or documents of committees and expert groups",
      "url": "procedures/standardisation-regulation.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-06",
-     "act": "Ecodesign for Sustainable Products Regulation",
-     "text": "5 new meetings or documents of committees and expert groups",
-     "url": "procedures/espr.html",
      "top": false
     }
    ]
@@ -188,8 +195,22 @@
     {
      "date": "2026-11-10",
      "act": "Cybersecurity Act 2",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
+     "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Cybersecurity Act 2",
      "text": "European Parliament: Committee opinion adopted",
      "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Digital Omnibus",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 9 (vote)",
+     "url": "procedures/digital-omnibus.html",
      "top": true
     },
     {
@@ -202,23 +223,23 @@
     {
      "date": "2026-11-10",
      "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
      "url": "procedures/nis2-amendment.html",
      "top": true
+    },
+    {
+     "date": "2026-11-10",
+     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
+     "text": "European Parliament: Committee opinion adopted",
+     "url": "procedures/nis2-amendment.html",
+     "top": false
     },
     {
      "date": "2026-11-09",
      "act": "Cybersecurity Act 2",
      "text": "Council: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
      "url": "procedures/csa2.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-06",
-     "act": "Cybersecurity Act 2",
-     "text": "Council released 3 documents listed as not public, incl. Presidency first compromise text on Title IV …",
-     "url": "procedures/csa2.html",
-     "top": true
+     "top": false
     },
     {
      "date": "2026-11-09",
@@ -230,7 +251,7 @@
     {
      "date": "2026-11-13",
      "act": "Cyber Resilience Act",
-     "text": "7 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
+     "text": "5 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
      "url": "acts/cra.html#standardisation",
      "top": false
     },

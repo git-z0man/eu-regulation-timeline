@@ -13,7 +13,7 @@ counts:
   annexes: 0
   amendments: 78
 official_source: https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_de.docx
-reuse: '© European Union, European Parliament (EP Open Data Portal). Licence: CC BY 4.0.'
+reuse: '© European Union, European Parliament. Reuse authorised as a general rule by the EP legal notice, provided the entire item is reproduced and the source is acknowledged; EP Open Data Portal: CC BY 4.0.'
 notice: Unofficial Markdown conversion made for reading and searching; conversion errors are possible. Only the official document linked in `official_source` is authentic.
 ---
 

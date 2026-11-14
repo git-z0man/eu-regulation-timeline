@@ -82,12 +82,12 @@
   "method-backtest-size": {
     "pdf": "method-backtest-size.pdf",
     "png": "method-backtest-size.png",
-    "svg_sha256": "298b92d9c8e8d25d99127d1fcefdadc0f06266e5c6e716eea9b2d495cf753a3c"
+    "svg_sha256": "02d1f7d4136e7f465ede65c1cb5717fe8597c44f63dc9d2c88b79d5bc5b042ca"
   },
   "method-backtest-size-de": {
     "pdf": "method-backtest-size-de.pdf",
     "png": "method-backtest-size-de.png",
-    "svg_sha256": "286a7aefbd0b69b756bb6cab3c98b929bbe4698983b0dbe7ab994ce28a0c3ed1"
+    "svg_sha256": "2fc91f5231e63d06183a193f6cdccdcfe3fca1722571c163efce23e5f1ec0c28"
   },
   "method-c-index": {
     "pdf": "method-c-index.pdf",
@@ -112,12 +112,12 @@
   "method-criteria": {
     "pdf": "method-criteria.pdf",
     "png": "method-criteria.png",
-    "svg_sha256": "c11a562fe3a02e8d00a3e3526668176784cc8ac7493cd031ac8fffee03cb5268"
+    "svg_sha256": "e84bf953f010b27c7db761f47e9be77199d2d850747ced72b84c99ecb3306b5b"
   },
   "method-criteria-de": {
     "pdf": "method-criteria-de.pdf",
     "png": "method-criteria-de.png",
-    "svg_sha256": "d83c176170aac100de17f51d6752a874958b672290c41d90c61ee4597b9048af"
+    "svg_sha256": "a90d21b8197ff4d16947c96e6d89f23fec0624e2bd363a4e5a4eebf27405e41e"
   },
   "method-election-deadline": {
     "pdf": "method-election-deadline.pdf",
@@ -142,12 +142,12 @@
   "method-rule-of-thumb": {
     "pdf": "method-rule-of-thumb.pdf",
     "png": "method-rule-of-thumb.png",
-    "svg_sha256": "d2ca87fc7e094bd5e44c35c43cf27460100f52ff7d1bd0567b3fef1a7e3c6699"
+    "svg_sha256": "0d540a1e6b8b18258e4dc372486f9eda69e52c32f6d9e3331aa712cf0fc67c13"
   },
   "method-rule-of-thumb-de": {
     "pdf": "method-rule-of-thumb-de.pdf",
     "png": "method-rule-of-thumb-de.png",
-    "svg_sha256": "bc460dcd45e2678869c13e7aba019fdd1bda990c13565c71d0ca6f4e5f95a409"
+    "svg_sha256": "3d2119970fc5de5c6c484142dae7c9114e5e0b75b44fb8b21b470583a8324e7f"
   },
   "method-size-trend": {
     "pdf": "method-size-trend.pdf",

@@ -39,7 +39,7 @@ Every graphic of this site, collected on each build.
 
 ## Forecast archive
 
-32 drawings of 2 earlier forecasts: [forecast archive](graphics-archive.md)
+48 drawings of 3 earlier forecasts: [forecast archive](graphics-archive.md)
 
 ## Authorities
 
