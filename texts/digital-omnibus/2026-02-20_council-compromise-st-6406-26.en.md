@@ -22,17 +22,17 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 20 February 2026** **(OR. en)**
 
-**6 406/26** **Interinstitutional File:** **2025/0360 (COD) LIMITE** **SIMPL 14** **ANTICI 21** **DATAPROTECT 47** **CYBER 66** **TELECOM 71** **CODEC 246** **PROCIV 27** **COMPET 195** **M I 132** **NOTE** From: General Secretariat of the Council To: Delegations Subject: Presidency compromise text on Omnibus VII – Digital (GDPR/P2B)
+**6 406/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 14** **ANTICI 21** **DATAPROTECT 47** **CYBER 66** **TELECOM 71** **CODEC 246** **PROCIV 27** **COMPET 195** **M I 132** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Presidency compromise text on Omnibus VII – Digital (GDPR/P2B)
 
 Delegations will find in the Annex a Presidency compromise text in relation to the above proposal, for examination at the meeting of the Antici Group (Simplification) on 27 February 2026.
 
-Additions to the Commission proposal are indicated in **bold**, deletions are marked as ~~strikethrough~~. Changes compared to the Commission Proposal (ST 15698/25) are marked in **bold underlined.**
+Additions to the Commission proposal are indicated in **bold**, deletions are marked as ~~strikethrough~~. Changes compared to the Commission Proposal (ST 15698/25) are marked in ++**bold underlined.**++
 
 GIP.B **LIMITE EN**
 
-**ANNEX**
+++**ANNEX**++
 
-**REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending** **Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2022/2554,** **and (EU) 910/2014 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards** **the simplification of the digital legislative framework, and repealing Regulations (EU)** **2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)**
+**REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending** **Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854,** ++**(EU) 2022/2554,**++ ++**and (EU) 910/2014**++ **and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards** **the simplification of the digital legislative framework, and repealing Regulations (EU)** **2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)**
 
 - (27) ~~This Regulation proposes a series of targeted amendments to Regulation (EU) 2016/679~~ ~~for clarification and simplification, whilst preserving the same level of data protection.~~
 

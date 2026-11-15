@@ -28,7 +28,7 @@ Delegations will find in the Annex a revised Presidency compromise text in relat
 
 Additions to the previous Presidency compromise text as set out in document 12227/25 are indicated in **bold**, deletions are marked as ~~strikethrough~~.
 
-**ANNEX**
+++**ANNEX**++
 
 2025/0134 (COD)
 

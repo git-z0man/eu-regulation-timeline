@@ -4,7 +4,7 @@ version: 2026-05-28_council-progress-report-st-9114-26
 stage: council-progress-report
 language: en
 document: ST 9114/26
-title: Council of the European Union Brussels, 28 May 2026 (OR. en)
+title: Regulation to simplify rules on medical and in vitro diagnostic devices - Progress report
 retrieved: '2026-09-25'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 28 May 2026 (OR. en)
+# Regulation to simplify rules on medical and in vitro diagnostic devices - Progress report
 
 Council of the European Union Brussels, 28 May 2026 (OR. en)
 

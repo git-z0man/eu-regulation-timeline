@@ -392,6 +392,7 @@ All texts of this act as one file: [digital-omnibus-ai.zip](downloads/digital-om
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-11-19_com-proposal | com-proposal | 52025PC0836 | [en](digital-omnibus-ai/2025-11-19_com-proposal.en.md) | [de](digital-omnibus-ai/2025-11-19_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2025-11-19_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025PC0836) |
+| 2026-03-19_ep-report-a10-0073-2026 | ep-report | A10-0073/2026 | [en](digital-omnibus-ai/2026-03-19_ep-report-a10-0073-2026.en.md) | [de](digital-omnibus-ai/2026-03-19_ep-report-a10-0073-2026.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-03-19_ep-report-a10-0073-2026.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_de.docx) |
 | 2026-07-24_oj | oj | 32026R1744 | [en](digital-omnibus-ai/2026-07-24_oj.en.md) | [de](digital-omnibus-ai/2026-07-24_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744) |
 | 2026-09-29_corrigendum-01 | corrigendum | 32026R1744R(01) | – | [de](digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)) |
 
@@ -2514,6 +2515,16 @@ All texts of this act as one file: [guidance-enisa-voices-cybersecurity-certific
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-15_final | final | – | [en](guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-12/2025_Voices%20of%20EU%20Cybersecurity%20Certification.pdf) |
 
+## IIA recasting 2001
+
+`guidance/eu/iia-recasting-2001` – Interinstitutional Agreement of 28 November 2001 on a more structured use of the recasting technique for legal acts (2002/C 77/01)
+
+All texts of this act as one file: [guidance-eu-iia-recasting-2001.zip](downloads/guidance-eu-iia-recasting-2001.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2002-03-28_agreement | agreement | – | [en](guidance/eu/iia-recasting-2001/2002-03-28_agreement.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/eu/iia-recasting-2001/2002-03-28_agreement.en.md) | [source](https://publications.europa.eu/resource/celex/32002Q0328) |
+
 ## NCSC-IE advisory on refrigeration controllers
 
 `guidance/ncsc-ie/refrigeration-controllers-2026` – NCSC Advisory, Security Incidents Targeting Remote Refrigeration Controllers, 3 November 2026, TLP:CLEAR
@@ -2533,6 +2544,36 @@ All texts of this act as one file: [guidance-nis-cg-5g-toolbox.zip](downloads/gu
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2020-01-29_final | final | – | [en](guidance/nis-cg/5g-toolbox/2020-01-29_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/nis-cg/5g-toolbox/2020-01-29_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=64468) |
+
+## ICT Supply Chain Toolbox
+
+`guidance/nis-cg/ict-supply-chain-toolbox` – EU ICT Supply Chain Security Toolbox (NIS Cooperation Group, 30 January 2026)
+
+All texts of this act as one file: [guidance-nis-cg-ict-supply-chain-toolbox.zip](downloads/guidance-nis-cg-ict-supply-chain-toolbox.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-30_final | final | – | [en](guidance/nis-cg/ict-supply-chain-toolbox/2026-01-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/nis-cg/ict-supply-chain-toolbox/2026-01-30_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/124123) |
+
+## CAV risk assessment
+
+`guidance/nis-cg/risk-assessment-cav` – EU Coordinated Risk Assessment – Connected and Automated Vehicles (NIS Cooperation Group, 30 January 2026)
+
+All texts of this act as one file: [guidance-nis-cg-risk-assessment-cav.zip](downloads/guidance-nis-cg-risk-assessment-cav.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-30_final | final | – | [en](guidance/nis-cg/risk-assessment-cav/2026-01-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/nis-cg/risk-assessment-cav/2026-01-30_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/124122) |
+
+## Detection equipment risk assessment
+
+`guidance/nis-cg/risk-assessment-detection-equipment` – EU Coordinated Risk Assessment – Detection Equipment (NIS Cooperation Group, 30 January 2026)
+
+All texts of this act as one file: [guidance-nis-cg-risk-assessment-detection-equipment.zip](downloads/guidance-nis-cg-risk-assessment-detection-equipment.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-30_final | final | – | [en](guidance/nis-cg/risk-assessment-detection-equipment/2026-01-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/nis-cg/risk-assessment-detection-equipment/2026-01-30_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/124121) |
 
 ## IMERA
 

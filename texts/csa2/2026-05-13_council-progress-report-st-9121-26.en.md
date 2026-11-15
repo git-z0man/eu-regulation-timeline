@@ -4,7 +4,7 @@ version: 2026-05-13_council-progress-report-st-9121-26
 stage: council-progress-report
 language: en
 document: ST 9121/26
-title: Council of the European Union Brussels, 13 May 2026 (OR. en)
+title: Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) Proposal for a Directive
 retrieved: '2026-10-04'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 13 May 2026 (OR. en)
+# Proposal for a Regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European cybersecurity certification framework, and ICT supply chain security and repealing Regulation (EU) 2019/881 (The Cybersecurity Act 2) Proposal for a Directive
 
 Council of the European Union Brussels, 13 May 2026 (OR. en)
 

@@ -4,7 +4,7 @@ version: 2026-05-08_council-progress-report-st-8861-26
 stage: council-progress-report
 language: en
 document: ST 8861/26
-title: Council of the European Union Brussels, 8 May 2026 (OR. en)
+title: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 28-29 May 2026 Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Progress report
 retrieved: '2026-09-25'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 8 May 2026 (OR. en)
+# Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 28-29 May 2026 Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Progress report
 
 Council of the European Union Brussels, 8 May 2026 (OR. en)
 

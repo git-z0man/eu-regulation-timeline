@@ -22,9 +22,9 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 19 September 2025** **(OR. en)**
 
-**1 3018/25** **Interinstitutional Files:** **2025/0133 (COD) LIMITE** **2025/0134 (COD)** **SIMPL 104 TELECOM 308** **ANTICI 115 POLCOM 250** **EF 292 COMPET 896** **ECOFIN 1212 ENV 861** **MI 670 CLIMA 350** **ECO 33 TRANS 394** **ENT 171 ENER 450** **IA 128 CODEC 1312** **I ND 361** **NOTE** From: General Secretariat of the Council To: Permanent Representatives Committee (Part 2) No. prev. doc.: 12523/25; 12524/25 Subject: Omnibus IV Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 76512008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 202311542 and (EU) 2024/1781 as regards digitalisation and common specifications Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 2000/14/EC 2011/65/EU, 2013/53/EU, 2014/29/EU, 20141301EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications - Mandate for negotiations with the European Parliament
+**1 3018/25** **Interinstitutional Files:** **2025/0133 (COD) LIMITE** ++**2025/0134 (COD)**++ **SIMPL 104 TELECOM 308** **ANTICI 115 POLCOM 250** **EF 292 COMPET 896** **ECOFIN 1212 ENV 861** **MI 670 CLIMA 350** **ECO 33 TRANS 394** **ENT 171 ENER 450** **IA 128 CODEC 1312** **I ND 361** **NOTE** From: General Secretariat of the Council To: Permanent Representatives Committee (Part 2) No. prev. doc.: 12523/25; 12524/25 Subject: Omnibus IV Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 76512008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 202311542 and (EU) 2024/1781 as regards digitalisation and common specifications Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 2000/14/EC 2011/65/EU, 2013/53/EU, 2014/29/EU, 20141301EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications - Mandate for negotiations with the European Parliament
 
-**I. BACKGROUND**
+**I.** ++**BACKGROUND**++
 
 1. The Commission put forward a fourth Omnibus package (‘Omnibus IV’) on 21 May 2025. It contains two proposals aiming to extend certain mitigating measures for small and mediumsized enterprises (SMEs) to small mid-cap enterprises (SMCs), two proposals regarding digitalisation and alignment of common specifications, and a ‘stop-the-clock’ proposal on certain obligations regarding battery due diligence. This note concerns the proposal for a Regulation and a Directive on digitalisation and common specifications.
 
@@ -32,11 +32,11 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 3. Furthermore, the proposal introduces alternative solutions to prove compliance of a product with EU rules via ‘a common specification’ in situations where harmonised standards do not exist or where they are insufficient.
 
-**II. STATE OF PLAY**
+**II.** ++**STATE OF PLAY**++
 
 4. The Antici Group on Simplification (AGS) met on 28 May, 4, 10, 16 and 25 June, 24 July and 1 and 11 September to examine the Commission proposals and prepare Presidency compromise texts. Following a swift procedure applied with the utmost priority by both colegislators, the ‘stop-the-clock’ text on certain battery due diligence obligations was adopted by the Council on 18 July 2025 ^(1).
 
-**III. KEY COMPROMISE ELEMENTS**
+**III.** ++**KEY COMPROMISE ELEMENTS**++
 
 5. Upon request of delegations, the Presidency deleted the proposed amendments to the Regulation on requirements for accreditation and market surveillance relating to the marketing of products, as it is not a product-related regulation and was therefore considered out of scope.
 
@@ -50,13 +50,13 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 10. The Presidency compromise text on the Regulation is set out in Annex I and the Presidency compromise text on the Directive is set out in Annex II. Changes compared to the Commission proposal are marked in **bold**, deletions in ~~strikethrough~~.
 
-**IV. CONCLUSION**
+**IV.** ++**CONCLUSION**++
 
 11. The Permanent Representatives Committee is invited to agree on a mandate with regard to the proposed Regulation and Directive, as set out in the Annexes to this note, and to invite the Presidency to conduct negotiations with the European Parliament on the basis of this mandate.
 
 12. In accordance with the approach to legislative transparency endorsed by Coreper on 14 July 2023, and in full consistency with Regulation (EC) 1049/2001 and the Council’s Rules of Procedure, the text of the mandate thus agreed will be made public unless the Permanent Representatives Committee objects.
 
-**ANNEX I**
+++**ANNEX I**++
 
 2025/0134 (COD)
 
@@ -1166,7 +1166,7 @@ Annexes VIII, IX and XIII to Regulation (EU) 2023/1542 are amended as follows:
 
 ‘(t) ‘clear, understandable and readable instructions for use in a format that makes it possible to print, download and save them on an electronic device so that the user can access them at all times, in particular during a breakdown of the battery (only for stationary battery energy storage systems).’
 
-**ANNEX II**
+++**ANNEX II**++
 
 2025/0133 (COD)
 
@@ -3008,7 +3008,7 @@ Done at Brussels,
 
 For the European Parliament For the Council The President The President
 
-**ANNEX I**
+++**ANNEX I**++
 
 Annexes II and V to VIII to Directive 2000/14/EC are amended as follows:
 
@@ -3052,7 +3052,7 @@ Annexes II and V to VIII to Directive 2000/14/EC are amended as follows:
 
 ‘— name, postal address and digital contact of the manufacturer or his authorised representative established in the Community.’
 
-**ANNEX II**
+++**ANNEX II**++
 
 Annexes V and VI to Directive 2011/65/EU are amended as follows:
 
@@ -3070,7 +3070,7 @@ Annexes V and VI to Directive 2011/65/EU are amended as follows:
 
 ‘6. Where applicable, references to the relevant harmonised standards or common specifications used or references to the technical specifications in relation to which conformity is declared:.’
 
-**ANNEX III**
+++**ANNEX III**++
 
 Annexes I, III, IV and V to Directive 2013/53/EU are amended as follows:
 
@@ -3136,7 +3136,7 @@ Annexes I, III, IV and V to Directive 2013/53/EU are amended as follows:
 
 ‘The person who is placing the product on the market or putting it into service shall draw up, in electronic form, an EU declaration of conformity and keep it at the disposal of the national authorities for 10 years after the date the post-construction assessment certificate has been issued..’
 
-**ANNEX IV**
+++**ANNEX IV**++
 
 Annexes II, III and IV to Directive 2014/29/EU are amended as follows:
 
@@ -3186,7 +3186,7 @@ Annexes II, III and IV to Directive 2014/29/EU are amended as follows:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:.’
 
-**ANNEX V**
+++**ANNEX V**++
 
 Annexes II, III and IV to Directive 2014/30/EU are amended as follows:
 

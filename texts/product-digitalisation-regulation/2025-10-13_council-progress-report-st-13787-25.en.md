@@ -4,7 +4,7 @@ version: 2025-10-13_council-progress-report-st-13787-25
 stage: council-progress-report
 language: en
 document: ST 13787/25
-title: Council of the European Union Brussels, 13 October 2025 (OR. en)
+title: Omnibus simplification legislative packages - Progress report
 retrieved: '2026-09-25'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 13 October 2025 (OR. en)
+# Omnibus simplification legislative packages - Progress report
 
 Council of the European Union Brussels, 13 October 2025 (OR. en)
 

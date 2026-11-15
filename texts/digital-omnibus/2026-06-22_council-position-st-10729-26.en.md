@@ -8,7 +8,7 @@ title: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL a
 retrieved: '2026-10-01'
 converter: tools/pdf2md.py
 counts:
-  recitals: 81
+  recitals: 82
   articles: 39
   annexes: 2
 official_source: https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf
@@ -22,9 +22,9 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 22 June 2026** **(OR. en)**
 
-**1 0729/26** **Interinstitutional File:** **2025/0360 (COD) LIMITE** **SIMPL 149** **ANTICI 155** **DATAPROTECT 209** **CYBER 302** **TELECOM 327** **PROCIV 140** **COMPET 790** **MI 660** **C ODEC 1229** **NOTE** From: General Secretariat of the Council To: Permanent Representatives Committee No. Cion doc.: 15698/25 + ADD 1 Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2016/1679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) - Mandate for negotiations with the European Parliament
+**1 0729/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 149** **ANTICI 155** **DATAPROTECT 209** **CYBER 302** **TELECOM 327** **PROCIV 140** **COMPET 790** **MI 660** **C ODEC 1229** ++**NOTE**++ From: General Secretariat of the Council To: Permanent Representatives Committee No. Cion doc.: 15698/25 + ADD 1 Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2016/1679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) - Mandate for negotiations with the European Parliament
 
-**I. BACKGROUND** 1. On 20 November 2025, the Commission transmitted a Proposal for a Council Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) (“the Proposal”) ^(1), as part of the overall Digital Omnibus package.
+**I.** ++**BACKGROUND**++ 1. On 20 November 2025, the Commission transmitted a Proposal for a Council Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) (“the Proposal”) ^(1), as part of the overall Digital Omnibus package.
 
 1 ST 15698/25
 
@@ -42,7 +42,7 @@ GIP.B **LIMITE EN**
 
 2 WK 2859/2026 3 ST 10752/26
 
-GIP.B **LIMITE EN** **II. STATE OF PLAY**
+GIP.B **LIMITE EN** **II.** ++**STATE OF PLAY**++
 
 7. The Antici Group (Simplification), the dedicated group set up on 21 February 2025 ^(4) to work on the simplification omnibus proposals, examined the proposal at its meetings on 16 January, 13 February, 27 February, 24 April, 8 May, 27 May and 15 June 2026. In the course of the meetings held between January and June, the Presidency presented five compromise texts, in which most of the comments and concerns raised by delegations have been progressively addressed.
 
@@ -74,7 +74,7 @@ GIP.B **LIMITE EN**
 
 7 ST 10677/26
 
-GIP.B **LIMITE EN** **III. CONCLUSION**
+GIP.B **LIMITE EN** **III.** ++**CONCLUSION**++
 
 15. In view of the above, the Permanent Representatives Committee is therefore invited to confirm agreement on the text of the mandate for negotiations with the European Parliament, as set out in the Annex to this Note, to enable the Presidency to conduct those negotiations.
 
@@ -82,7 +82,7 @@ GIP.B **LIMITE EN** **III. CONCLUSION**
 
 GIP.B **LIMITE EN**
 
-**ANNEX**
+++**ANNEX**++
 
 2025/0360 (COD)
 
@@ -211,7 +211,7 @@ Whereas:
 **~~Article 4 of Regulation (EU) 2016/679 provides that personal data is any information~~** **~~relating to an identified or identifiable natural person. In order to determine whether~~** **~~a natural person is identifiable, account should be taken of all the means reasonably~~** **~~likely to be used to identify the natural person directly or indirectly. Taking into~~** **~~account the case-law of the Court of Justice of the European Union concerning the~~** **~~definition of personal data, it is necessary to provide further clarity on when a~~** **~~natural person should be considered to be identifiable. The existence of additional~~** **~~information enabling the data subject to be identified does not, in itself, mean that~~** **~~pseudonymised data must be regarded as constituting, in all cases and for every~~** **~~person or entity, personal data for the purposes of the application of Regulation (EU)~~** **~~2016/679. In particular, it should be clarified that information is not to be considered~~** **~~personal data for a given entity where that entity does not have means reasonably~~** **~~likely to be used to identify the natural person to whom the information relates. A~~** **~~potential subsequent transmission of that information to third parties who have~~** **~~means reasonably allowing them to identify the natural person to whom the~~** **~~information relates, such as cross-checking with other data at their disposal, renders~~** **~~that information personal data only for those third parties who have such means at~~** **~~their disposal. An entity for which the information is not personal data, in principle,~~** **~~does not fall within the scope of application of Regulation (EU) 2016/679. In this~~** **~~respect the Court of Justice of the European Union has held that a means of~~** **~~identifying the data subject is not reasonably likely to be used where the risk of~~** **~~identification appears in reality to be insignificant, in that the identification of that~~** **~~data subject is prohibited by law or impossible in practice, for example because it~~** **~~would involve a disproportionate effort in terms of time, cost and labour. An example~~** **~~of a prohibition against reidentification can be found in the obligations of health data~~** **~~users in Article 61(3) of Regulation (EU) 2025/327 of the European Parliament and of~~** **~~the Council ^(15). The Commission, together with the European Data Protection Board,~~** **~~should support controllers in the application of this updated definition by stipulating~~** **~~technical criteria in an implementing act.~~**
 
 <a id="rec-27a"></a>
-(27a) **In order to determine whether a natural person is identifiable, account should be** **taken of all the means reasonably likely to be used to identify the natural person** **directly or indirectly. The identifiability of a natural person should be assessed by the** **controller, considering the actual technical and organisational measures, and** **applicable prohibitions by law. In light of the interpretation provided in the case‑law** **of the Court of Justice of the European Union, it is important to provide further** **clarity on when a natural person should be considered to be identifiable following the** **application of pseudonymisation to personal data and the transmission to a recipient,** **as well as when such recipient further discloses, transmits or otherwise makes such** **data available to a third party. Data which are in themselves impersonal may become** **‘personal’ in nature where they are put at the disposal of other persons who have** **means reasonably likely to enable the data subject to be identified. This applies to** **both the party that transmits this data and the third party that subsequently** **processes this data. The European Data Protection Board should ensure consistency** **and support controllers and processors by adopting an opinion on pseudonymisation** **and anonymisation, assessing and specifying the state of the art of available** **techniques, as well as the technical and organisational measures and criteria to apply** **pseudonymisation and anonymisation to personal data effectively and by clarifying** **circumstances whether and when the application of pseudonymisation to personal** **data may effectively prevent persons other than the controller from identifying the** **data subject in such a way that, for them, the data subject is not or is no longer** **identifiable. The opinion should also address the processing to be undertaken and** **other measures to be applied in order to effectively render personal data anonymous.** **It is important that the Board carries out a public consultation with relevant** **stakeholders prior to issuing its opinion. While controllers remain fully responsible to** **determine and demonstrate whether pseudonymised data do not lead to re-** **identification of data subjects by persons other than the controller, the opinion should** **support and provide guidance to controllers regarding the effective application of** **pseudonymisation to personal data.**
+(27a) **In order to determine whether a natural person is identifiable, account should be** **taken of all the means reasonably likely to be used to identify the natural person** **directly or indirectly. The identifiability of a natural person should be assessed by the** **controller, considering the actual technical and organisational measures, and** **applicable prohibitions by law. In light of the interpretation provided in the case‑law** **of the Court of Justice of the European Union, it is important to provide further** **clarity on when a natural person should be considered to be identifiable following the** **application of pseudonymisation to personal data and the transmission to a recipient,** ++**as well as when such recipient further discloses, transmits or otherwise makes such**++ ++**data available to a third party. Data which are in themselves impersonal may become**++ ++**‘personal’ in nature where they are put at the disposal of other persons who have**++ ++**means reasonably likely to enable the data subject to be identified. This applies to**++ ++**both the party that transmits this data and the third party that subsequently**++ ++**processes this data.**++ **The European Data Protection Board should ensure consistency** **and support controllers and processors by adopting an opinion on pseudonymisation** **and anonymisation, assessing and specifying the state of the art of available** **techniques, as well as the technical and organisational measures and criteria to apply** **pseudonymisation and anonymisation to personal data effectively and by clarifying** **circumstances whether and when the application of pseudonymisation to personal** **data may effectively prevent persons other than the controller from identifying the** **data subject in such a way that, for them, the data subject is not or is no longer** **identifiable. The opinion should also address the processing to be undertaken and** **other measures to be applied in order to effectively render personal data anonymous.** **It is important that the Board carries out a public consultation with relevant** **stakeholders prior to issuing its opinion. While controllers remain fully responsible to** **determine and demonstrate whether pseudonymised data do not lead to re-** **identification of data subjects by persons other than the controller, the opinion should** **support and provide guidance to controllers regarding the effective application of** **pseudonymisation to personal data.**
 
 <a id="rec-27b"></a>
 (27b) **Pseudonymisation is one of the possible security measures within the meaning of** **Article 32 of Regulation (EU) 2016/679 and does not necessarily have to be applied in** **all cases. Whether pseudonymisation is appropriate, should be assessed on a case-by-** **case basis and depends on the context, the nature of the personal data and the** **existence of other appropriate technical and organisational measures. The effective** **application of pseudonymisation may also be clarified for controllers and processors** **through the approval of specific codes of conduct in accordance with Article 40 of** **Regulation (EU) 2016/679, taking account of the specific characteristics of the** **processing carried out in certain sectors and the specific needs of micro, small and** **medium enterprises.**
@@ -238,7 +238,7 @@ Whereas:
 (33a) **The processing of personal data in the context of the development and deployment of** **an AI system or of an AI model, may be regarded as carried out for a legitimate** **interest of the controller concerned and be carried out in accordance with Article** **6(1)(f) of Regulation 2016/679, where appropriate, except where such interests are** **overridden by the interests, or fundamental rights and freedoms of the data subject** **which require protection of personal data, in particular where the data subject is a** **child, or where other Union or national laws explicitly require consent. This does not** **affect the obligation of the controller to choose an appropriate lawful ground of** **processing set out in Article 6 of Regulation (EU) 2016/679, such as Article 6(1)(e)** **with regard to processing by public authorities. Regardless of the lawful ground of** **processing, any such processing should be subject to appropriate organisational,** **technical measures and safeguards for the rights and freedoms of the data subject,** **such as to protect against non-disclosure of residually retained data in the AI system** **or AI model. Other provisions of this Regulation remain unaffected by the fact that a** **controller relies on this legal basis.**
 
 <a id="rec-34"></a>
-(34) **Processing of biometric** **~~Biometric~~** data, as defined in Article 4(14) of Regulation (EU) 2016/679, means processing of certain characteristics of a natural person through a specific technical means and which allows or confirms the unique identification of that person. **Processing** **~~The notion~~** of biometric data **could be carried out for** **~~includes~~** two distinct functions, namely the identification of a natural person or the verification (also called **'**authentication**'**) of his or her claimed identity, both of which rely on different technical processes. The identification process is based on a ‘one-to-many’ search of the data subject’s biometric data in a database, while the verification process is based on a ‘one-toone’ comparison of biometric data provided by the data subject, who is thereby claiming his or her identity. Derogating from the prohibition to process biometric data under Article 9(1) of **~~the~~** Regulation **(EU) 2016/679** should **~~also~~** be allowed where the verification of the claimed identity of the data subject is necessary for a purpose pursued by the controller **~~,~~** and**, where** ~~applicable, subject to appropriate safeguards~~ **and only insofar as they are laid** **down and applicable under Union law or** ~~Member States law~~ **Member State law** **adopted in accordance with Article 9(4) of** ~~Regulation (EU) 2016/679~~ **Regulation** **2016/679, subject to appropriate safeguards. Where biometric data are processed for** **the purpose of confirming the identity of a data subject, controllers should, where** **possible, prioritise authentication methods that do not involve the processing of** **biometric data. The controller should choose from equally effective means the less** **intrusive one. The processing of biometric data for identity verification should** **therefore only be used where necessary and proportionate and subject to appropriate** **safeguards. For example, such safeguards could include technical and organisational** **measures ensuring that original biometric samples of the data subject cannot be** **reconstructed from the template stored on a device or a database.** **For the purposes of this Regulation, biometric identification should be understood as** **the processing of biometric data through comparison against a database intended to** **determine the identity of a natural person, whereas biometric verification refers to a** **one-to-one comparison used solely to confirm a claimed identity. This derogation** **should apply where** suitable safeguards apply to **ensure that the biometric data or the** **means needed for the verification are under the** **~~enable the data subject to have~~** sole control of the **data subject. Sole control means that the data subject can effectively** **decide when and how his or her biometric data are used for** verification**, without the** **controller having the technical capacity to access such biometric data in decrypted** **form or** process **them outside the strictly limited comparison process necessary for** **verification**. For example, **this is the case** where the biometric data are securely stored solely at the **device** **~~side~~** of the data subject or are securely stored **by** **~~at the side of~~** the controller in a state-of-the-art encrypted form and the encryption key or equivalent means is **securely** held solely by the data subject, **and subject to measures ensuring the overall** **security of** **~~that~~** processing**, including during the enrolment phase of data subject’s** **~~is~~** **~~not likely to create significant risks to his or her fundamental rights and freedoms.~~** **~~The controller does not gain knowledge of the~~** biometric data **and** **~~or only for a very~~** **~~limited time~~** during the verification process. **Such verification may in particular be** **required in the context of electronic identification systems and trust services under** **Union law. Other examples of appropriate safeguards are ensuring that end-to-end** **encryption is used when data are transmitted over a communication channel and** **providing data subjects with the possibility to securely erase their biometric data at** **any time.**
+(34) **Processing of biometric** **~~Biometric~~** data, as defined in Article 4(14) of Regulation (EU) 2016/679, means processing of certain characteristics of a natural person through a specific technical means and which allows or confirms the unique identification of that person. **Processing** **~~The notion~~** of biometric data **could be carried out for** **~~includes~~** two distinct functions, namely the identification of a natural person or the verification (also called **'**authentication**'**) of his or her claimed identity, both of which rely on different technical processes. The identification process is based on a ‘one-to-many’ search of the data subject’s biometric data in a database, while the verification process is based on a ‘one-toone’ comparison of biometric data provided by the data subject, who is thereby claiming his or her identity. Derogating from the prohibition to process biometric data under Article 9(1) of **~~the~~** Regulation **(EU) 2016/679** should **~~also~~** be allowed where the verification of the claimed identity of the data subject is necessary for a purpose pursued by the controller **~~,~~** and**, where** ++~~applicable, subject to appropriate safeguards~~++ ++**and only insofar as they are**++ **laid** **down** ++**and applicable**++ **under Union law or** ++~~Member States law~~++ ++**Member State law**++ ++**adopted**++ **in accordance with Article 9(4) of** ++~~Regulation (EU) 2016/679~~++ ++**Regulation**++ ++**2016/679, subject to appropriate safeguards**++**. Where biometric data are processed for** **the purpose of confirming the identity of a data subject, controllers should, where** **possible, prioritise authentication methods that do not involve the processing of** **biometric data. The controller should choose from equally effective means the less** **intrusive one. The processing of biometric data for identity verification should** **therefore only be used where necessary and proportionate and subject to appropriate** **safeguards. For example, such safeguards could include technical and organisational** **measures ensuring that original biometric samples of the data subject cannot be** **reconstructed from the template stored on a device or a database.** **For the purposes of this Regulation, biometric identification should be understood as** **the processing of biometric data through comparison against a database intended to** **determine the identity of a natural person, whereas biometric verification refers to a** **one-to-one comparison used solely to confirm a claimed identity. This derogation** **should apply where** suitable safeguards apply to **ensure that the biometric data or the** **means needed for the verification are under the** **~~enable the data subject to have~~** sole control of the **data subject. Sole control means that the data subject can effectively** **decide when and how his or her biometric data are used for** verification**, without the** **controller having the technical capacity to access such biometric data in decrypted** **form or** process **them outside the strictly limited comparison process necessary for** **verification**. For example, **this is the case** where the biometric data are securely stored solely at the **device** **~~side~~** of the data subject or are securely stored **by** **~~at the side of~~** the controller in a state-of-the-art encrypted form and the encryption key or equivalent means is **securely** held solely by the data subject, **and subject to measures ensuring the overall** **security of** **~~that~~** processing**, including during the enrolment phase of data subject’s** **~~is~~** **~~not likely to create significant risks to his or her fundamental rights and freedoms.~~** **~~The controller does not gain knowledge of the~~** biometric data **and** **~~or only for a very~~** **~~limited time~~** during the verification process. **Such verification may in particular be** **required in the context of electronic identification systems and trust services under** **Union law. Other examples of appropriate safeguards are ensuring that end-to-end** **encryption is used when data are transmitted over a communication channel and** **providing data subjects with the possibility to securely erase their biometric data at** **any time.**
 
 <a id="rec-35"></a>
 (35) **Chapter III of Regulation (EU) 2016/679 sets out rights of the data subject and** **corresponding obligations of the controller. Inter alia,** Article 15 of Regulation (EU) 2016/679 provides data subjects with the right to obtain **confirmation** from the controller **~~confirmation~~** as to whether or not personal data concerning him or her are being processed and, where that is the case, access to the personal data and certain additional information. The right of access should allow the data subject to be aware of, and to verify, the lawfulness of the processing and enable him or her to exercise his or her other rights under Regulation (EU) 2016/679. **~~By contrast, it should be clarified in~~** Article 12 **(5) of that** **~~of~~** **~~the~~** Regulation **already provides that where the request to exercise a** **~~that the~~** right **under Regulation 2016/679 is manifestly unfounded or excessive, the controller may** **either charge a reasonable fee or refuse to act on the request. The controller** **~~of access,~~** **~~which is from the outset favourable to data subjects,~~** should **provide** **~~not be abused in~~** **~~the sense that~~** the data **subject with the reason thereof. A request is also to be** **considered excessive where an abusive intention on the part of the data subject** **submitting those requests can be demonstrated by the controller** **~~subjects abuse them~~** **~~for purposes other than the protection of their data~~**. For example, such an **abusive** **intention** **~~abuse of the right of access~~** would arise where the data subject **submits** **~~intends~~** **~~to cause the controller to refuse an access request, in order to subsequently demand~~** **~~the payment of compensation, potentially under the threat of bringing a claim for~~** **~~damages. Other examples of abuse include situations where data subjects make~~** excessive **numbers of identical or largely similar requests** **~~use of the right of access~~** with the **sole** **~~only~~** intent of causing damage or harm to the controller**. Repeated requests** **are not automatically excessive in nature but may indicate an abusive intent on the** **part of the data subject. Other examples include situations where** **~~or when~~** an individual **submits** **~~makes~~** a request, but at the same time offers to withdraw it in return for some form of benefit from the controller **~~. Moreover, in order to keep their burden to a~~** **~~reasonable extent, controllers should bear a lower burden of proof regarding the~~** **~~excessive character of~~** **, when an subject submits** a request **with the sole purpose of** **obtaining compensation for an alleged infringement** **~~than regarding the manifestly~~** **~~unfounded character of a request. The reason is that the manifestly unfounded~~** **~~character of a request depends on facts that lie principally within the controller’s~~** **~~sphere of responsibility, whereas the excessive character of a request concerns the~~** **~~possibly abusive conduct of a data subject,~~** which **is deliberately provoked by** **~~lies~~** **~~primarily outside the controller’s sphere of influence, and therefore the controller~~** **~~may be able to prove such abuse only to a reasonable level. In any event, while~~** **~~requesting access under Article 15 of Regulation (EU) 2016/679~~** the data subject**, or** **when the exercise of a right is made with the intention to adversely affect a judicial** **procedure or with deliberate intention to adversely affect and burden public** **authorities** **~~should be as specific as possible. Overly broad and undifferentiated~~** **~~requests should also be regarded as excessive~~**.
@@ -268,7 +268,7 @@ Whereas:
 (40a) **In order to ensure consistency of interpretation of this Regulation (EU) 2016/679, it is** **important that national supervisory authorities ensure that the adoption of** **guidelines, recommendations and best practices at national level on matters already** **covered by guidelines adopted by the Board, is consistent and does not contradict** **those issued by the Board, including by updating or repealing national relevant** **guidelines, recommendations and best practices when necessary. It is also important** **that national supervisory authorities and the Board duly consider matters of** **consistent application of this Regulation, including when such matters are identified** **and brought to their attention by controllers or other relevant stakeholders.**
 
 <a id="rec-40b"></a>
-(40b) **Transfers of personal data to third countries or international organisations could be** **necessary for important reasons of public interest within the meaning of Article 49,** **paragraph (1), point (d) of Regulation (EU) 2016/679. Such important reasons of** **public interest include the implementation, application and compliance with** **international agreements or administrative arrangements on mutual assistance or** **cooperation in tax matters concluded by a Member State with a third country or an** **international organisation where personal data are exchanged on a periodic or** **automated basis. In such cases, Member States should ensure that appropriate** **safeguards are provided for under Union law or national law, so that the level of** **protection of natural persons guaranteed by Regulation (EU) 2016/679 is not** **undermined. Where the competent authority responsible for the transfer considers** **that the rights and freedoms of the data subject concerned override the public** **interest pursued by the transfer, the transfer should not take place.**
+(40b) ++**Transfers of personal data to third countries or international organisations could be**++ ++**necessary for important reasons of public interest within the meaning of Article 49,**++ ++**paragraph (1), point (d) of Regulation (EU) 2016/679. Such important reasons of**++ ++**public interest include the implementation, application and compliance with**++ ++**international agreements or administrative arrangements on mutual assistance or**++ ++**cooperation in tax matters concluded by a Member State with a third country or an**++ ++**international organisation where personal data are exchanged on a periodic or**++ ++**automated basis. In such cases, Member States should ensure that appropriate**++ ++**safeguards are provided for under Union law or national law, so that the level of**++ ++**protection of natural persons guaranteed by Regulation (EU) 2016/679 is not**++ ++**undermined. Where the competent authority responsible for the transfer considers**++ ++**that the rights and freedoms of the data subject concerned override the public**++ ++**interest pursued by the transfer, the transfer should not take place.**++
 
 <a id="rec-41"></a>
 (41) Regulation (EU) 2018/1725 of the European Parliament and of the Council ^(16) applies to the processing of personal data by the Union institutions, bodies, offices and agencies. **~~Directive (EU) 2016/680 of the European Parliament and of the Council ^(17) applies to~~** **~~the processing of personal data by competent authorities for the purposes of the~~** **~~prevention, investigation, detection or prosecution of criminal offences or the~~** **~~execution of criminal penalties.~~** Regulation (EU) 2018/1725 **~~and Directive (EU)~~** **~~2016/680~~** should be brough into alignment with the amendments to Regulation (EU) 2016/679 introduced by this Regulation.
@@ -311,7 +311,7 @@ Whereas:
 (48) Article 4 of Directive 2002/58/EC should be repealed. Article 4 of Directive 2002/58/EC sets requirements for providers of publicly available electronic communications services as regards safeguarding the security of their services and notification requirements. Subsequently, Directive (EU) 2022/2555 has set new requirements as regards cybersecurity risk-management measures and incident reporting for those providers. In order to reduce overlapping obligations for entities in the electronic communications sector, Article 4 of Directive 2002/58/EC should be repealed. As regards the security of processing of personal data pursuant to Article 4(1) and (1a) of this directive and the notification of personal data breaches pursuant to Article 4(3) to (5) of Directive 2002/58/EC this directive, the Regulation (EU) 2016/679 already provide for comprehensive and up-to-date rules. These rules should therefore apply to providers of publicly available electronic communication services and providers of public communications networks, thereby ensuring that one regime applies to the controllers and processors.
 
 <a id="rec-49"></a>
-(49) Several horizontal or sectorial Union legal acts require the notification of the same event to different authorities using different technical means and channels. The **establishment by** **Member States of a national entry** **~~single-entry~~** point **~~for~~** **should support and facilitate** **the fulfillment of obligations pertaining to the** **~~incident~~** reporting **of incidents and** **related events** **~~should allow entities to fulfil reporting obligations~~** under Directive (EU) 2022/2555, Regulation (EU) 2016/679, Regulation (EU) 2022/2554, Regulation (EU) No 910/2014 and Directive (EU) 2022/2557 **~~by submitting notifications to a single~~** **~~interface~~** ~~at national level~~. Furthermore, the **national entry** **~~single-entry~~** point **~~should~~** **could** give a possibility for entities to retrieve information that they have previously submitted using the single-entry point, thereby helping entities to keep track of their compliance with reporting obligations in connection with specific incidents.
+(49) Several horizontal or sectorial Union legal acts require the notification of the same event to different authorities using different technical means and channels. The **establishment by** **Member States of a national entry** **~~single-entry~~** point ++**~~for~~**++ ++**should support and facilitate**++ ++**the fulfillment of obligations pertaining to**++ **the** **~~incident~~** reporting **of incidents and** **related events** ++**~~should allow entities to fulfil reporting obligations~~**++ under Directive (EU) 2022/2555, Regulation (EU) 2016/679, Regulation (EU) 2022/2554, Regulation (EU) No 910/2014 and Directive (EU) 2022/2557 ++**~~by submitting notifications to a single~~**++ ++**~~interface~~**++ ++~~at national level~~++. Furthermore, the **national entry** **~~single-entry~~** point ++**~~should~~**++ ++**could**++ give a possibility for entities to retrieve information that they have previously submitted using the single-entry point, thereby helping entities to keep track of their compliance with reporting obligations in connection with specific incidents.
 
 <a id="rec-49a"></a>
 (49a) **In order to facilitate compliance with the obligation to report incidents and related** **events, including the identification of the applicable related obligations, ENISA** **should develop and maintain an incident reporting information point for incident** **reporting. That information point should serve as a clearly arranged source of** **information to support entities in identifying their reporting obligations and to guide** **them to the appropriate national entry point. Further information on related** **obligations, especially in terms of cybersecurity risk management, may be added.** **Structured communication channels should be established to ensure that the** **information available on the single information point is swiftly updated based on all** **the relevant and necessary information communicated by Member States.**
@@ -325,7 +325,8 @@ Whereas:
 <a id="rec-50b"></a>
 (50b) **The national entry point could, depending on Member States’ organisational** **arrangement and national structure, allow for tasks and functionalities supporting** **the reporting of relevant incidents, such as enabling the submission of notifications,** **receiving and processing notifications submitted by entities, ensuring or facilitating** **access to such notifications for the competent authorities under the relevant Union** **act, transmitting or making available relevant information to other national** **authorities, where foreseen under Union or national law, supporting coordination** **among competent authorities in relation to reported incidents or information, or** **providing guidance or assistance to entities regarding notification procedures.**
 
-**(** ~~50b~~ **50c) The development and operation of national entry points may involve important** **costs for Member States, particularly where national reporting systems need to be** **built or existing ones need to be adapted. Further costs might be related to ensuring** **their cross-border interoperability. It is therefore important that, where applicable** **and foreseen in the relevant instruments, such activities are financially supported** **through relevant Union funding instruments, such as the Digital Europe Programme,** **the European Structural and Investment Funds and other relevant Union funding** **programmes.**
+<a id="rec-50c"></a>
+(~~50b~~ 50c) **The development and operation of national entry points may involve important** **costs for Member States, particularly where national reporting systems need to be** **built or existing ones need to be adapted. Further costs might be related to ensuring** **their cross-border interoperability. It is therefore important that, where applicable** **and foreseen in the relevant instruments, such activities are financially supported** **through relevant Union funding instruments, such as the Digital Europe Programme,** **the European Structural and Investment Funds and other relevant Union funding** **programmes.**
 
 <a id="rec-51"></a>
 (51) **It is important to support the further harmonisation of incident** **~~Before enabling the~~** notification **~~of incidents, ENISA should pilot the functioning of the single-entry point~~** **~~which should include a thorough testing of the specificities and requirements for the~~** **~~notifications for the relevant Union legal acts. Based~~** **and reporting, including by** **working** on the **exchange and interoperability of information regarding incident** **reporting. For this purpose and in cooperation withhe** **~~results of the piloting, the~~** **~~Commission should assess the proper functioning, reliability, integrity and~~** **~~confidentiality of the single-entry point. The Commission should consult the~~** CSIRTs network**, the Cooperation Group and** **~~and the~~** competent authorities under the relevant Union legal acts, **~~by making use of existing cooperation groups and networks of~~** **~~Member States established under these acts, when carrying out the assessment.~~** **~~Where the Commission finds that the single-entry point ensures the proper~~** **~~functioning, reliability, integrity and confidentiality, it should publish a notice to that~~** **~~effect in the Official Journal of the European Union. In case the Commission~~** **~~considers that the proper functioning, reliability, integrity and confidentiality is not~~** **~~ensured,~~** ENISA should **develop guidelines to foster the harmonisation of incident** **notifications** **~~take all necessary corrective measures, followed by a reassessment by the~~** **~~Commission~~**.
@@ -388,7 +389,7 @@ Regulation (EU) 2023/2854 is amended as follows:
 
 - (b) in paragraph 2, the following points are added:
 
-**~~‘(g) Chapter VIIa applies to personal and non-personal data;~~**
+++**~~‘(g)~~**++ **~~Chapter VIIa applies to personal and non-personal data;~~**
 
   - (h) Chapter VIIb applies to any non-personal data;
 
@@ -410,7 +411,7 @@ Regulation (EU) 2023/2854 is amended as follows:
 
   - (ca) **in paragraph (5) the following subparagraph is added:**
 
-~~gb~~ **‘The rules set out in Chapters VIIa and VIIc do not create a legal basis for** **the processing of personal data.’’**
+++~~gb~~++ **‘The rules set out in Chapters VIIa and VIIc do not create a legal basis for** **the processing of personal data.’’**
 
 - (d) paragraph 7 is deleted.
 
@@ -436,11 +437,11 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
   - (b) **point (10) is replaced by the following:**
 
-~~4cb.~~ **‘(10) ‘data intermediation service’ means a service which aims to establish** **relationships of an economic character for the purposes of data sharing** **between an undetermined number of data subjects or data holders and** **data users, through technical, legal or other means, including for the** **purpose of exercising the rights of data subjects in relation to personal** **data, and which:**
+++~~4cb.~~++ **‘(10) ‘data intermediation service’ means a service which aims to establish** **relationships of an economic character for the purposes of data sharing** **between an undetermined number of data subjects or data holders and** **data users, through technical, legal or other means, including for the** **purpose of exercising the rights of data subjects in relation to personal** **data, and which:**
 
-~~4cc.~~ **(a) does not have as their main purpose the intermediation of copyright-** **protected content;**
+++~~4cc.~~++ **(a) does not have as their main purpose the intermediation of copyright-** **protected content;**
 
-~~4cd.~~ **(b) is not jointly procured by several legal persons for exclusive use** **among them; ’**
+++~~4cd.~~++ **(b) is not jointly procured by several legal persons for exclusive use** **among them; ’**
 
 - (b) point (13) is replaced by the following:
 
@@ -468,7 +469,7 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
 - (e) **~~(d)~~** the following **point (38a) is** **~~points (38a) and (38b) are~~** inserted:
 
-**~~‘(38a) ‘data intermediation service’ means a service which aims to establish~~** **~~relationships of an economic character for the purposes of data sharing~~** **~~between an undetermined number of data subjects or data holders and~~** **~~data users, through technical, legal or other means, including for the~~** **~~purpose of exercising the rights of data subjects in relation to personal~~** **~~data, and which:~~**
+++**~~‘(38a)~~**++ **~~‘data intermediation service’ means a service which aims to establish~~** **~~relationships of an economic character for the purposes of data sharing~~** **~~between an undetermined number of data subjects or data holders and~~** **~~data users, through technical, legal or other means, including for the~~** **~~purpose of exercising the rights of data subjects in relation to personal~~** **~~data, and which:~~**
 
   - ~~(1)~~ **~~do not have as their main purpose the intermediation of copyright-~~** **~~protected content;~~**
 
@@ -480,7 +481,7 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
   - (f) **point (42) is amended as follows:**
 
-~~38bc.~~ **(42) ‘common specifications’ means a set of technical requirements, other** **than a standard, that provides means of complying with certain** **requirements and obligations established under this Regulation.’**
+++~~38bc.~~++ **(42) ‘common specifications’ means a set of technical requirements, other** **than a standard, that provides means of complying with certain** **requirements and obligations established under this Regulation.’**
 
 - (e) the following points (44) to (**62** **~~63~~**) are added:
 
@@ -548,7 +549,7 @@ Chapter VIIc of this Regulation **establishes a set of minimum rules** **governi
 
 **4a. in Article 11 paragraph 1 is replaced by the following:**
 
-~~11b.~~ **'(1) A data holder may apply appropriate technical protection measures,** **including encryption, to prevent unauthorised access to data, including** **metadata, and to ensure compliance with Articles 4, 5, 6, 8 and 9, as well as with** **the agreed contractual terms for making data available. Such technical** **protection measures shall not discriminate between data recipients or hinder a** **user’s right to obtain a copy of, retrieve, use or access data, to provide data to** **third parties pursuant to Article 5 or any right of a third party under Union law** **or national legislation adopted in accordance with Union law. Users, third** **parties and data recipients shall not alter or remove such technical protection** **measures unless agreed by the data holder.’**
+++~~11b.~~++ **'(1) A data holder may apply appropriate technical protection measures,** **including encryption, to prevent unauthorised access to data, including** **metadata, and to ensure compliance with Articles 4, 5, 6, 8 and 9, as well as with** **the agreed contractual terms for making data available. Such technical** **protection measures shall not discriminate between data recipients or hinder a** **user’s right to obtain a copy of, retrieve, use or access data, to provide data to** **third parties pursuant to Article 5 or any right of a third party under Union law** **or national legislation adopted in accordance with Union law. Users, third** **parties and data recipients shall not alter or remove such technical protection** **measures unless agreed by the data holder.’**
 
 5. the title of Chapter V is replaced by the following:
 
@@ -596,11 +597,11 @@ Obligation for data holders to make data available on the basis of a public emer
 
   - (iii) **Point (i) is replaced by the following:**
 
-~~(iib)~~ **‘(i)where personal data are requested, be notified without undue delay to** **the supervisory authority responsible for monitoring the application of** **Regulation (EU) 2016/679 in the Member State where the public sector** **body is established or to the EDPS where the request is made by the** **Commission, the European Central Bank or a Union body.’**
+++~~(iib)~~++ **‘(i)where personal data are requested, be notified without undue delay to** **the supervisory authority responsible for monitoring the application of** **Regulation (EU) 2016/679 in the Member State where the public sector** **body is established or to the EDPS where the request is made by the** **Commission, the European Central Bank or a Union body.’**
 
   - (ba) **paragraph 4 is replaced by the following:**
 
-~~(iid)~~ **‘Paragraph 3 of this Article does not preclude a public sector body, the** **Commission, the European Central Bank or a Union body to exchange** **data obtained pursuant to this Chapter with another public sector body or** **the Commission, the European Central Bank or a Union body in view of** **completing the tasks referred to in Article 15a, as specified in the request** **in accordance with paragraph 1, point (f), of this Article or to make the** **data available to a third party where it has delegated, by means of a** **publicly available agreement, technical inspections or other functions to** **that third party. The obligations on public sector bodies pursuant to** **Article 19, in particular safeguards to preserve the confidentiality of trade** **secrets, shall apply also to such third parties. Where a public sector body,** **the Commission, the European Central Bank or a Union body transmits or** **makes data available under this paragraph, it shall notify the data holder** **from whom the data was received without undue delay.’**
+++~~(iid)~~++ **‘Paragraph 3 of this Article does not preclude a public sector body, the** **Commission, the European Central Bank or a Union body to exchange** **data obtained pursuant to this Chapter with another public sector body or** **the Commission, the European Central Bank or a Union body in view of** **completing the tasks referred to in Article 15a, as specified in the request** **in accordance with paragraph 1, point (f), of this Article or to make the** **data available to a third party where it has delegated, by means of a** **publicly available agreement, technical inspections or other functions to** **that third party. The obligations on public sector bodies pursuant to** **Article 19, in particular safeguards to preserve the confidentiality of trade** **secrets, shall apply also to such third parties. Where a public sector body,** **the Commission, the European Central Bank or a Union body transmits or** **makes data available under this paragraph, it shall notify the data holder** **from whom the data was received without undue delay.’**
 
 - (c) paragraphs 5 and 6 are deleted;
 
@@ -670,7 +671,7 @@ Where a dispute arises concerning a request for data under Article 15a, includin
 
 The provider of such data processing services shall not be required to renegotiate or amend a contract for the provision of those services before its expiry if that contract was concluded before or on 12 September 2025. Any contractual provision contained in that contract that is contrary to Article 29(1), (2), or (3) shall be considered null and void.
 
-**~~1b. A provider of a data processing service may include provisions on proportionate~~** **~~early termination penalties in a contract of fixed duration on the provision of~~** **~~data processing services other than those referred to in Article 30(1).~~**
+++**~~1b.~~**++ **~~A provider of a data processing service may include provisions on proportionate~~** **~~early termination penalties in a contract of fixed duration on the provision of~~** **~~data processing services other than those referred to in Article 30(1).~~**
 
 Where the provider of data processing service is a small and medium-sized enterprise or a small mid-cap, the obligations laid down in Chapter VI, with the exception of Article 29, and in Article 34 shall not apply to data processing services other than those referred to in Article 30(1), if the provision of such services is based on a contract concluded before or on 12 September 2025.
 
@@ -983,23 +984,23 @@ Free flow of non-personal data **within** **~~in~~** the Union’
 
 - (4) Public sector bodies shall ensure that any charges can also be paid online through widely available cross-border payment services, without discrimination based on the place of establishment of the payment service provider, the place of issue of the payment instrument or the location of the payment account within the Union.
 
-~~4a.~~ **Article 32la**
+++~~4a.~~++ **Article 32la**
 
-~~4b.~~ **Procedure for re-quests for re-use**
+++~~4b.~~++ **Procedure for re-quests for re-use**
 
-~~4c.~~ **(1) Public sector bodies shall, through electronic means where possible and** **appropriate, process requests for re-use and shall make the data or document** **available for re-use to the applicant or, if a licence is needed, finalise the licence** **offer to the applicant within a reasonable time that is consistent with the time** **frames laid down for the processing of requests for access to data or documents.**
+++~~4c.~~++ **(1) Public sector bodies shall, through electronic means where possible and** **appropriate, process requests for re-use and shall make the data or document** **available for re-use to the applicant or, if a licence is needed, finalise the licence** **offer to the applicant within a reasonable time that is consistent with the time** **frames laid down for the processing of requests for access to data or documents.**
 
-~~4d.~~ **(2) Unless shorter time limits have been established in accordance with national** **law, public sector bodies and in the case of protected data public sector bodies** **or the competent bodies referred to in paragraph 1 of Article 32z shall process** **the request and, in case of a positive decision, shall deliver the data or** **documents for re-use to the applicant or, if a licence is needed, finalise the** **licence offer to the applicant as soon as possible and within 20 working days of** **receipt. In case of particularly complex requests, that period shall not exceed** **two months of receipt and in case of requests relating to protected data. The** **period for processing the request shall not exceed three months of** **receipt whereas this time limit may be extended within reasonable limits in** **order to deliver the protected data or to provide access for the re-use of the** **protected data within a secure processing environment.**
+++~~4d.~~++ **(2) Unless shorter time limits have been established in accordance with national** **law, public sector bodies and in the case of protected data public sector bodies** **or the competent bodies referred to in paragraph 1 of Article 32z shall process** **the request and, in case of a positive decision, shall deliver the data or** **documents for re-use to the applicant or, if a licence is needed, finalise the** **licence offer to the applicant as soon as possible and within 20 working days of** **receipt. In case of particularly complex requests, that period shall not exceed** **two months of receipt and in case of requests relating to protected data. The** **period for processing the request shall not exceed three months of** **receipt whereas this time limit may be extended within reasonable limits in** **order to deliver the protected data or to provide access for the re-use of the** **protected data within a secure processing environment.**
 
-~~4e.~~ **(3) In the event of a negative decision, the public sector bodies shall** **communicate the grounds for refusal to the applicant on the basis of the** **relevant provisions of the access regime in that Member State or the provisions** **of this Regulation. Where a negative decision is based on point (d) of** **paragraph 3 of Article 32i, the public sector body or competent body shall** **include a reference to the natural or legal person who is the rightsholder, where** **known, or alternatively to the licensor from which the public sector body has** **obtained the relevant material. Libraries, including university libraries,** **museums and archives, shall not be required to include such a reference.**
+++~~4e.~~++ **(3) In the event of a negative decision, the public sector bodies shall** **communicate the grounds for refusal to the applicant on the basis of the** **relevant provisions of the access regime in that Member State or the provisions** **of this Regulation. Where a negative decision is based on point (d) of** **paragraph 3 of Article 32i, the public sector body or competent body shall** **include a reference to the natural or legal person who is the rightsholder, where** **known, or alternatively to the licensor from which the public sector body has** **obtained the relevant material. Libraries, including university libraries,** **museums and archives, shall not be required to include such a reference.**
 
-~~4f.~~ **(4) Any natural or legal person directly affected by a decision as referred to in** **paragraph 2 shall have an effective right of redress in the Member State where** **the relevant body is located. Such a right of redress shall be laid down in** **national law and shall include the possibility of review by an impartial body** **with the appropriate expertise, such as the national competition authority, the** **relevant access-to-documents authority, the supervisory authority established in** **accordance with Regulation (EU) 2016/679 or a national judicial authority,** **whose decisions are binding upon the public sector body or the competent body** **concerned.**
+++~~4f.~~++ **(4) Any natural or legal person directly affected by a decision as referred to in** **paragraph 2 shall have an effective right of redress in the Member State where** **the relevant body is located. Such a right of redress shall be laid down in** **national law and shall include the possibility of review by an impartial body** **with the appropriate expertise, such as the national competition authority, the** **relevant access-to-documents authority, the supervisory authority established in** **accordance with Regulation (EU) 2016/679 or a national judicial authority,** **whose decisions are binding upon the public sector body or the competent body** **concerned.**
 
-~~4g.~~ **(5) This Article shall not apply to the following entities:**
+++~~4g.~~++ **(5) This Article shall not apply to the following entities:**
 
-~~4h.~~ **(a) public undertakings;**
+++~~4h.~~++ **(a) public undertakings;**
 
-~~4i.~~ **(b) educational establishments, research performing organisations and** **research funding organisations.**
+++~~4i.~~++ **(b) educational establishments, research performing organisations and** **research funding organisations.**
 
 <a id="art-32m"></a>
 ### Article 32m – Information on means of redress
@@ -1327,35 +1328,35 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
 - (a) **Point (d) in paragraph 1 is replaced by the following:**
 
-~~3c.~~ **'where applicable, the means to enable the interoperability of tools for** **automating the execution of data sharing agreements shall be provided.'**
+++~~3c.~~++ **'where applicable, the means to enable the interoperability of tools for** **automating the execution of data sharing agreements shall be provided.'**
 
 - (b) **the second subparagraph of paragraph 2 is replaced as follows:**
 
-~~3e.~~ **'The Commission shall when adopting delegated acts take into account the** **advice of the EDIB.**
+++~~3e.~~++ **'The Commission shall when adopting delegated acts take into account the** **advice of the EDIB.**
 
 **18a. Article 37 is amended as follows:**
 
-~~3g.~~ **(a) Paragraph (1) is replaced by the following:**
+++~~3g.~~++ **(a) Paragraph (1) is replaced by the following:**
 
 - (1) **‘Each Member State shall designate one or more competent authorities to be** **responsible for the application and enforcement of this Regulation, with** **exception of Chapters VIIb and VIIc (competent authorities). Member States** **may establish one or more new authorities or rely on existing authorities.’**
 
-~~3i.~~ **(b) paragraph 3 is deleted.**
+++~~3i.~~++ **(b) paragraph 3 is deleted.**
 
-~~3e.~~
+++~~3e.~~++
 
-~~3f.~~
+++~~3f.~~++
 
-~~3g.~~
+++~~3g.~~++
 
-~~3m.~~ **(c) paragraph 5 is amended as follows:**
+++~~3m.~~++ **(c) paragraph 5 is amended as follows:**
 
-~~3n.~~ **(-i) point f is replaced by the following:**
+++~~3n.~~++ **(-i) point f is replaced by the following:**
 
-~~3o.~~ **'(f) cooperating with competent authorities of other Member States and, where** **relevant, with the Commission, or the EDIB, or BEREC, to ensure the** **consistent and efficient application of this Regulation, including the exchange of** **all relevant information by electronic means, without undue delay, including** **regarding paragraph 10 of this Article;'**
+++~~3o.~~++ **'(f) cooperating with competent authorities of other Member States and, where** **relevant, with the Commission, or the EDIB, or BEREC, to ensure the** **consistent and efficient application of this Regulation, including the exchange of** **all relevant information by electronic means, without undue delay, including** **regarding paragraph 10 of this Article;'**
 
-~~3p.~~ **(ii) point g is replaced by the following:**
+++~~3p.~~++ **(ii) point g is replaced by the following:**
 
-~~3q.~~ **‘(g) cooperating with the relevant competent authorities responsible for the** **implementation of other Union or national legal acts, including with authorities** **competent in the field of data and electronic communication services, with the** **supervisory authority responsible for monitoring the application of Regulation** **(EU) 2016/679 or with sectoral authorities to ensure that this Regulation is** **enforced consistently with other Union and national law, including the exchange** **of all relevant information;’**
+++~~3q.~~++ **‘(g) cooperating with the relevant competent authorities responsible for the** **implementation of other Union or national legal acts, including with authorities** **competent in the field of data and electronic communication services, with the** **supervisory authority responsible for monitoring the application of Regulation** **(EU) 2016/679 or with sectoral authorities to ensure that this Regulation is** **enforced consistently with other Union and national law, including the exchange** **of all relevant information;’**
 
 - (d) **paragraph 17 is added:**
 
@@ -1469,7 +1470,7 @@ Role of the EDIB
 
     - (ia) **point (a) is replaced by the following:**
 
-~~1b.~~ **(a) situations to be considered to be situations of exceptional need for** **the purpose of Article 15a of this Regulation and the application of** **Chapter V of this Regulation in practice, in particular the experience** **in the application of Chapter V of this Regulation by public sector** **bodies, the Commission, the European Central Bank and Union** **bodies; the number and outcome of the proceedings brought to the** **competent authority under Article 18(5) on the application of** **Chapter V of this Regulation, as reported by the competent** **authorities; the impact of other obligations laid down in Union or** **national law for the purposes of complying with requests for access** **to information; the impact of voluntary data-sharing mechanisms,** **such as those put in place by data altruism organisations recognised** **under Regulation (EU) 2022/868, on meeting the objectives of** **Chapter V of this Regulation, and the role of personal data in the** **context of Article 15a of this Regulation, including the evolution of** **privacy-enhancing technologies;’**
+++~~1b.~~++ **(a) situations to be considered to be situations of exceptional need for** **the purpose of Article 15a of this Regulation and the application of** **Chapter V of this Regulation in practice, in particular the experience** **in the application of Chapter V of this Regulation by public sector** **bodies, the Commission, the European Central Bank and Union** **bodies; the number and outcome of the proceedings brought to the** **competent authority under Article 18(5) on the application of** **Chapter V of this Regulation, as reported by the competent** **authorities; the impact of other obligations laid down in Union or** **national law for the purposes of complying with requests for access** **to information; the impact of voluntary data-sharing mechanisms,** **such as those put in place by data altruism organisations recognised** **under Regulation (EU) 2022/868, on meeting the objectives of** **Chapter V of this Regulation, and the role of personal data in the** **context of Article 15a of this Regulation, including the evolution of** **privacy-enhancing technologies;’**
 
   - (ii) point (m) is replaced by the following:
 
@@ -1623,9 +1624,9 @@ The controller shall bear the burden of demonstrating**, in the light of all the
 
 6c. Lists of the kind of processing operations which are subject to the requirement for a data protection impact assessment and of the kind of processing operations for which no data protection impact assessment is required established and made public by supervisory authorities remain valid until the **Board establishes and makes public the lists** **~~Commission adopts the~~** **~~implementing act~~** referred to in paragraph **4 and 5** **~~6a~~**.’
 
-- ~~(9a) In Article 37, paragraph 7 is replaced by the following:~~
+- ~~(9a)~~ ++~~In Article 37, paragraph 7 is replaced by the following:~~++
 
-~~'7.The controller or the processor shall publish the contact details of the data protection~~ ~~officer.'~~
+++~~'7.The controller or the processor shall publish the contact details of the data protection~~++ ++~~officer.'~~++
 
 10. The following article is added:
 
@@ -1635,7 +1636,7 @@ The controller shall bear the burden of demonstrating**, in the light of all the
 
 - (2) **The application of pseudonymisation to personal data may, depending on the** **circumstances of the case and provided that appropriate technical and** **organisational measures are put in place and are such as to prevent the data in** **question from being attributed to the data subject, effectively prevent persons** **other than the controller from identifying the data subject in such a way that,** **for them, the data subject is not or is no longer identifiable.**
 
-- (2a) **Where a person other than the controller referred to in paragraph 2 discloses,** **transmits or otherwise makes such data available to a third party and it cannot** **be ruled out that this third party possesses or can obtain means reasonably** **likely to enable the data subject to be identified, both the transmission of the** **data to this third party and the subsequent processing of the data by this third** **party is to be considered as processing of data relating to an identifiable natural** **person.**
+- (2a) ++**Where a person other than the controller referred to in paragraph 2 discloses,**++ ++**transmits or otherwise makes such data available to a third party and it cannot**++ ++**be ruled out that this third party possesses or can obtain means reasonably**++ ++**likely to enable the data subject to be identified, both the transmission of the**++ ++**data to this third party and the subsequent processing of the data by this third**++ ++**party is to be considered as processing of data relating to an identifiable natural**++ ++**person.**++
 
 - (3) **~~(2)~~** **Paragraphs 1 and 2 are without prejudice to other provisions and obligations** **applicable to the controller, including under Chapter IV and V of this** **Regulation. The provision set out in** **~~For the purpose of~~** paragraph **2** **~~1 the~~** **~~Commission~~** shall **not apply to processors.** **~~:~~**
 
@@ -1651,13 +1652,13 @@ The controller shall bear the burden of demonstrating**, in the light of all the
 
 - ~~(5)~~ **~~The Implementing Acts shall be adopted in accordance with the examination~~** **~~procedure referred to in Article 93(3).’~~**
 
-- (10a) **Article 49 is amended as follows:**
+- (10a) ++**Article 49 is amended as follows:**++
 
-  - (a) **in paragraph 1, point (d) is replaced by the following:**
+  - (a) ++**in paragraph 1, point (d) is replaced by the following:**++
 
-    - (d) **the transfer is necessary for important reasons of public interest as recognised in** **Union law or in the law of the Member State to which the controller is subject**
+    - (d) ++**the transfer is necessary for important reasons of public interest as recognised in**++ ++**Union law or in the law of the Member State to which the controller is subject**++
 
-  - (b) **paragraph 4 is deleted.**
+  - (b) ++**paragraph 4 is deleted.**++
 
 11. **~~In~~** Article **57** **~~57(1)~~** is amended as follows:
 
@@ -1742,11 +1743,11 @@ Regulation (EU) 2018/1725 is amended as follows:
 
 - ~~(b)~~ **~~point 25 is replaced by the following:~~**
 
-**~~‘(25) for ‘electronic communications networks’ the definition of Article 2(1) of~~** **~~Directive (EU) 2018/1972 shall apply;’~~**
+++**~~‘(25)~~**++ **~~for ‘electronic communications networks’ the definition of Article 2(1) of~~** **~~Directive (EU) 2018/1972 shall apply;’~~**
 
 - (c) the following points are added:
 
-**~~‘(27) ‘mobile application’ means a mobile application as defined in Article 3(2)~~** **~~of Directive (EU) 2016/2102;~~**
+++**~~‘(27)~~**++ **~~‘mobile application’ means a mobile application as defined in Article 3(2)~~** **~~of Directive (EU) 2016/2102;~~**
 
   - ~~(28)~~ **~~‘online interface’ means an online interface as defined in Article 3(m) of~~** **~~Regulation (EU) 2022/2065;~~**
 
@@ -1804,37 +1805,37 @@ Regulation (EU) 2018/1725 is amended as follows:
 
   - (2) **The application of pseudonymisation to personal data may, depending on the** **circumstances of the case and provided that appropriate technical and organisational** **measures are put in place and are such as to prevent the data in question from being** **attributed to the data subject, effectively prevent persons other than the controller** **from identifying the data subject in such a way that, for them, the data subject is not** **or is no longer identifiable.**
 
-  - (2a) **Where a person other than the controller referred to in paragraph 2 discloses,** **transmits or otherwise makes such data available to a third party and it cannot be** **ruled out that this third party possesses or can obtain means reasonably likely to** **enable the data subject to be identified, both the transmission of the data to this third** **party and the subsequent processing of the data by this third party is to be considered** **as processing of data relating to an identifiable natural person.** **pseudonymisation and anonymisation, including the related circumstances and** **technical and organisational measures referred to paragraph 2.’**
+  - (2a) ++**Where a person other than the controller referred to in paragraph 2 discloses,**++ ++**transmits or otherwise makes such data available to a third party and it cannot be**++ ++**ruled out that this third party possesses or can obtain means reasonably likely to**++ ++**enable the data subject to be identified, both the transmission of the data to this third**++ ++**party and the subsequent processing of the data by this third party is to be considered**++ ++**as processing of data relating to an identifiable natural person.**++ **pseudonymisation and anonymisation, including the related circumstances and** **technical and organisational measures referred to paragraph 2.’**
 
 7. in Article 34, paragraph 1 is replaced by the following
 
 ‘1. In the case of a personal data breach that is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall without undue delay and, where feasible, not later than 96 hours after having become aware of it, notify the personal data breach to the European Data Protection Supervisor. Where the notification to the European Data Protection Supervisor is not made within 96 hours, it shall be accompanied by reasons for the delay.’
 
-8. **~~In Article 37 the following paragraphs are added:~~**
+8. ++**~~In Article 37 the following paragraphs are added:~~**++
 
-‘(2) **~~Storing of personal data, or gaining of access to personal data already stored, in~~** **~~the terminal equipment of a natural person is only allowed when that person~~** **~~has given his or her consent, in accordance with this Regulation.~~**
+‘(2) ++**~~Storing of personal data, or gaining of access to personal data already stored, in~~**++ ++**~~the terminal equipment of a natural person is only allowed when that person~~**++ ++**~~has given his or her consent, in accordance with this Regulation.~~**++
 
-- (3) **~~Paragraph 1 does not preclude storing of personal data, or gaining of access to~~** **~~personal data already stored, in the terminal equipment of a natural person,~~** **~~based on Union law within the meaning of, and subject to the conditions of~~** **~~Article 5, to safeguard the objectives referred to in Article 25(1).~~**
+- (3) ++**~~Paragraph 1 does not preclude storing of personal data, or gaining of access to~~**++ ++**~~personal data already stored, in the terminal equipment of a natural person,~~**++ ++**~~based on Union law within the meaning of, and subject to the conditions of~~**++ ++**~~Article 5, to safeguard the objectives referred to in Article 25(1).~~**++
 
-- (4) **~~Storing of personal data, or gaining of access to personal data already stored, in~~** **~~the terminal equipment of a natural person without consent, and subsequent~~** **~~processing~~** ~~for the same purpose~~**~~, shall be lawful to the extent it is~~** ~~strictly~~ **~~necessary for any of the following~~** ~~purposes~~**~~:~~**
+- (4) ++**~~Storing of personal data, or gaining of access to personal data already stored, in~~**++ ++**~~the terminal equipment of a natural person without consent, and subsequent~~**++ ++**~~processing~~**++ ++~~for the same purpose~~++++**~~, shall be lawful to the extent it is~~**++ ++~~strictly~~++ ++**~~necessary for any of the following~~**++ ++~~purposes~~++++**~~:~~**++
 
-  - (a) **~~carrying out the transmission of an electronic communication over an~~** **~~electronic communications network;~~**
+  - (a) ++**~~carrying out the transmission of an electronic communication over an~~**++ ++**~~electronic communications network;~~**++
 
-  - (b) **~~providing a service~~**~~, including its functionality,~~ **~~explicitly requested by the~~** **~~data subject;~~**
+  - (b) ++**~~providing a service~~**++++~~, including its functionality,~~++ ++**~~explicitly requested by the~~**++ ++**~~data subject;~~**++
 
-  - (c) ~~measuring the audience of an online service by~~ **~~creating~~** ~~anonymous~~ **~~aggregated information about the usage of~~** ~~that~~**~~an online service to measure~~** **~~the audience of such a service, where it is carried out by the~~** ~~provider~~**~~controller of that online service~~**~~, including jointly with others, or on~~ ~~behalf of that provider, or by an entitled and independent third party~~ ~~performing audience measurement in accordance with Article 24 of Regulation~~ ~~(EU) 2024/1083~~ **~~solely for its own use;~~**
+  - (c) ++~~measuring the audience of an online service by~~++ ++**~~creating~~**++ ++~~anonymous~~++ ++**~~aggregated information about the usage of~~**++ ++~~that~~++**~~an~~** ++**~~online~~**++ **~~service to measure~~** **~~the audience of such a~~** ++**~~service, where it is carried out by the~~**++ ++~~provider~~++**~~controller~~** ++**~~of that online service~~**++++~~, including jointly with others, or on~~++ ++~~behalf of that provider, or by an entitled and independent third party~~++ ++~~performing audience measurement in accordance with Article 24 of Regulation~~++ ++~~(EU) 2024/1083~~++ **~~solely for its own use~~**++**~~;~~**++
 
-  - (d) **~~maintaining or restoring the~~** ~~technical~~ **~~security of~~** ~~the means strictly~~ ~~necessary for the provision of an information society~~**~~a service provided by the~~** **~~controller and requested by the~~** ~~subscriber or user or the technical security~~ ~~of~~**~~data subject or the terminal equipment used for the provision of such~~** **~~service~~**~~;~~**~~.~~**
+  - (d) ++**~~maintaining or restoring the~~**++ ++~~technical~~++ ++**~~security of~~**++ ++~~the means strictly~~++ ++~~necessary for the provision of an information society~~++**~~a~~** ++**~~service~~**++ **~~provided by the~~** **~~controller and~~** ++**~~requested by the~~**++ ++~~subscriber or user or the technical security~~++ ++~~of~~++**~~data subject or~~** ++**~~the terminal equipment used for the provision of such~~**++ ++**~~service~~**++++~~;~~++**~~.~~**
 
-- (5) **~~Where storing of personal data, or gaining of access to personal data already~~** **~~stored, in the terminal equipment of a natural person is based on consent, the~~** **~~following shall apply:~~**
+- (5) ++**~~Where storing of personal data, or gaining of access to personal data already~~**++ ++**~~stored, in the terminal equipment of a natural person is based on consent, the~~**++ ++**~~following shall apply:~~**++
 
-  - (a) **~~the data subject shall be able to refuse requests for consent in an easy and~~** **~~intelligible manner with a single-click button or equivalent means;~~**
+  - (a) ++**~~the data subject shall be able to refuse requests for consent in an easy and~~**++ ++**~~intelligible manner with a single-click button or equivalent means;~~**++
 
-  - (b) **~~if the data subject gives consent, the controller shall not make a new~~** **~~request for consent for the same purpose for the period during which the~~** **~~controller can lawfully rely on the consent of the data subject;~~**
+  - (b) ++**~~if the data subject gives consent, the controller shall not make a new~~**++ ++**~~request for consent for the same purpose for the period during which the~~**++ ++**~~controller can lawfully rely on the consent of the data subject;~~**++
 
-  - (c) **~~if the data subject~~** ~~refuses~~**~~declines a request for consent, the controller shall~~** **~~not make a new request for consent for the same purpose for a period of at~~** **~~least six months.~~**
+  - (c) ++**~~if the data subject~~**++ ++~~refuses~~++**~~declines~~** ++**~~a request for consent, the controller shall~~**++ ++**~~not make a new request for consent for the same purpose for a period of at~~**++ ++**~~least six months.~~**++
 
-**~~This paragraph also applies to the subsequent processing of personal data based~~** **~~on consent.~~**
+++**~~This paragraph also applies to the subsequent processing of personal data based~~**++ ++**~~on consent.~~**++
 
 - ~~(8)~~ **~~Controllers shall respect the choices made by data subjects in accordance with~~** **~~paragraph 7.~~**
 
@@ -1888,7 +1889,7 @@ Directive (EU) 2022/2555 is amended as follows:
 
 - (1) ENISA shall develop and maintain **an incident reporting information** **~~a single-~~** **~~entry~~** point to support **the identification and fulfilment of** the obligation to report incidents and related events under the Union legal acts where those Union legal acts provide so (‘**incident reporting information** **~~single-entry~~** point’). **~~Without~~** **~~prejudice to Article 16 of Regulation (EU) 2024/2847 of the European~~** **~~Parliament and of the Council, ENISA may ensure that the single-entry point~~** **~~builds on the single reporting platform established under that Regulation.~~**
 
-- ~~(2)~~ **~~ENISA shall take appropriate and proportionate technical, operational and~~** **~~organisational measures to manage the risks posed to the security of the single-~~** **~~entry point and the~~**~~The incident reporting~~ **~~information submitted or disseminated~~** **~~via the single-entry point. ENISA shall~~**~~:~~ **~~take into account the sensitivity of~~** **~~information submitted or disseminated pursuant to the Union legal acts~~** **~~referred to in paragraph (1) and ensure that competent authorities under those~~** **~~Union legal acts have access to and process the information as required under~~** **~~those Union legal acts.~~**
+- ~~(2)~~ **~~ENISA shall take appropriate and proportionate technical, operational and~~** **~~organisational measures to manage the risks posed to the security of the single-~~** **~~entry point and the~~**++~~The incident reporting~~++ ++**~~information~~**++ **~~submitted or disseminated~~** **~~via the single-entry~~** ++**~~point~~**++**~~. ENISA~~** ++**~~shall~~**++++~~:~~++ **~~take into account the sensitivity of~~** **~~information submitted or disseminated pursuant to the Union legal acts~~** **~~referred to in paragraph (1) and ensure that competent authorities under those~~** **~~Union legal acts have access to and process the information as required under~~** **~~those Union legal acts.~~**
 
 - (2) **The incident reporting information point shall:**
 
@@ -1934,7 +1935,7 @@ Directive (EU) 2022/2555 is amended as follows:
 
 **National entry point for incident reporting**
 
-- (1) **Member States shall establish and maintain a national entry point for** **supporting and facilitating the reporting of incidents and related events under** **the Union legal acts where those Union legal acts provide so.** ~~The national entry~~ ~~point may, depending on Member States’ organisational arrangement, allow for~~ ~~relevant tasks and functionalities in order to support and facilitate the reporting of~~ ~~incidents.~~
+- (1) **Member States shall establish and maintain a national entry point for** ++**supporting and facilitating**++ **the reporting of incidents and related events under** **the Union legal acts where those Union legal acts provide so.** ++~~The national entry~~++ ++~~point may, depending on Member States’ organisational arrangement, allow for~~++ ++~~relevant tasks and functionalities in order to support and facilitate the reporting of~~++ ++~~incidents.~~++
 
 - (2) **Member States shall retain flexibility to configure their national entry point in** **accordance with their existing national structures and the allocation of** **competences among authorities, including by connecting existing systems and** **enabling the sharing, routing or distribution of relevant information.**
 
@@ -1964,7 +1965,7 @@ Directive (EU) 2022/2555 is amended as follows:
 
 - (c) **Review the stages of incident notifications under different Union legal acts and** **recommend measures to streamline the process for entities.**
 
-~~16.~~ **ENISA shall present to the Commission and Council a first draft of these** **guidelines [by - within 12 months after the entry into force of this Regulation],** **and a final version within 18 months, and shall update them regularly** **thereafter.**
+++~~16.~~++ **ENISA shall present to the Commission and Council a first draft of these** **guidelines [by - within 12 months after the entry into force of this Regulation],** **and a final version within 18 months, and shall update them regularly** **thereafter.**
 
 - ~~(7)~~ **~~Where the Commission finds in its assessment that the single-entry point does~~** **~~not ensure the proper functioning, reliability, integrity or confidentiality,~~** **~~ENISA shall take, in cooperation with the Commission and without undue~~** **~~delay, all necessary corrective measures to ensure the proper functioning,~~** **~~reliability, integrity or confidentiality without delay and inform the Commission~~** **~~of the results. Thereafter, the Commission shall reassess the proper functioning,~~** **~~reliability, integrity or confidentiality of the single-entry point and shall publish~~** **~~a notice in accordance with paragraph 6.~~**
 
@@ -2050,7 +2051,7 @@ Article 15 of Directive (EU) 2022/2557 is amended as follows:
 
 1. Regulation 2019/1150/EU is **amended as follows:** **~~repealed with effect from [date =~~** **~~entry into application of this Regulation].~~**
 
-~~1a.~~ **Articles 2(11), 2(12), 6, 8 to 10, 12 to 14, 16, 17, and 18 paragraphs (2) to (4), are** **deleted as of [date of entry into force].**
+++~~1a.~~++ **Articles 2(11), 2(12), 6, 8 to 10, 12 to 14, 16, 17, and 18 paragraphs (2) to (4), are** **deleted as of [date of entry into force].**
 
 **~~2. By way of derogation from paragraph 1, the following provisions shall continue to~~** **~~apply until 31 December 2032:~~**
 
@@ -2072,7 +2073,7 @@ a) **Chapters III, IV, V, VI, VII of** Regulation (EU) 2022/868;
 
 b) Regulation (EU) 2018/1807;
 
-**3. Chapter I and II of Regulation (EU) 2022/868 and Directive 2019/1024 are** **repealed [18 months after the publication in the Official Journal of the** **European Union].** **~~c) Directive 2019/1024.~~**
+**3. Chapter I and II of Regulation (EU) 2022/868 and Directive 2019/1024 are** **repealed [18 months after the publication in the Official Journal of the** **European Union].** ++**~~c)~~**++ **~~Directive 2019/1024.~~**
 
 4. References to Regulation (EU) 2022/868, Regulation (EU) 2018/1807 and Directive 2019/1024 shall be read in accordance with the correlation table set out in Annex I of this Regulation.
 

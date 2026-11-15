@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-14",
- "previous": "2026-11-13",
+ "edition": "2026-11-15",
+ "previous": "2026-11-14",
  "stories": [
   {
    "id": "csa2/ep-vote/IMCO-opinion-adopted-2026-11-10",
@@ -28,7 +28,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 77,
+   "score": 75,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -76,7 +76,7 @@
     }
    ],
    "brief": null,
-   "score": 77,
+   "score": 75,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -133,7 +133,7 @@
     "en": "The new deadlines are conditional. Art. 2: if CEN, Cenelec or ETSI “indicate that they do not accept the amendments … within a month of receiving it”, the Decision ceases to apply and C(2025)618 in its version of 3 February 2025 continues to apply. Harmonised standards developed under the request give a presumption of conformity once cited in the Official Journal; the deadlines bind the standardisation organisations, not manufacturers.",
     "de": "Die neuen Fristen gelten unter Vorbehalt. Art. 2: Nimmt CEN, Cenelec oder ETSI „die Änderungen gemäß Artikel 1 des vorliegenden Beschlusses nicht innerhalb eines Monats nach seinem Erhalt an“, tritt der Beschluss außer Kraft und C(2025)618 in seiner Fassung vom 3. Februar 2025 gilt weiterhin. Harmonisierte Normen aus dem Auftrag begründen eine Konformitätsvermutung, sobald sie im Amtsblatt genannt sind; die Fristen binden die Normungsorganisationen, nicht die Hersteller."
    },
-   "score": 67,
+   "score": 65,
    "ladder": {
     "request": "M/606",
     "org": null
@@ -182,7 +182,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 64,
+   "score": 62,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -221,7 +221,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 64,
+   "score": 62,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -260,7 +260,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 62,
+   "score": 60,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -299,7 +299,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 62,
+   "score": 60,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -342,7 +342,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 60,
+   "score": 58,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -381,7 +381,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 60,
+   "score": 58,
    "crumbs": {
     "en": [
      "Analysis"
@@ -428,7 +428,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 59,
+   "score": 57,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -486,7 +486,7 @@
     "de": "Executive Vice-President Virkkunen put supply chain security at the core of the proposal, called for clear timelines to phase out high-risk suppliers, above all in 5G networks, and urged Parliament to give ENISA the mandate and resources it needs; she said full transposition and effective implementation of the NIS2 Directive could potentially have prevented some recent incidents or reduced their impact. Of the shadow rapporteurs, Tomas Tobé (EPP) asked for quick adoption with a framework to phase out high-risk suppliers, Jens Geier (S&D) for extending the scope to energy networks, and Markus Buchheit (ESN) opposed more resources for ENISA, a central reporting point and new certificates.",
     "lang": "en"
    },
-   "score": 54,
+   "score": 52,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -549,7 +549,7 @@
     }
    ],
    "brief": null,
-   "score": 53,
+   "score": 51,
    "tree": {
     "vulnerability": {
      "CEN-CENELEC": {
@@ -678,7 +678,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -729,7 +729,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 47,
+   "score": 45,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -805,7 +805,7 @@
     "en": "A step further: EN 302 208 to Voting prEN; 7 without an earlier status on record (EN 302 186, EN 301 447, EN 301 908-13 …).",
     "de": "Einen Schritt weiter: EN 302 208 auf Umfrage prEN; 7 ohne früheren Stand in den Daten (EN 302 186, EN 301 447, EN 301 908-13 …)."
    },
-   "score": 47,
+   "score": 45,
    "tree": {
     "": {
      "ETSI": {
@@ -986,7 +986,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1054,7 +1054,7 @@
     "de": "WK 14487/26 ADD 1: Clean version of the Presidency's first compromise text on Title IV (security of ICT supply chains, Articles 98-117) of the CSA2 proposal, WK 14487/26 ADD 1 of 22 September 2026, sent by the Presidency to the Horizontal Working Party on Cyber Issues; a draft, not law, which the Council has released only in part.",
     "lang": "en"
    },
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1093,7 +1093,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 42,
+   "score": 40,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1130,7 +1130,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 42,
+   "score": 40,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1173,7 +1173,7 @@
     }
    ],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1218,7 +1218,7 @@
     }
    ],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1272,7 +1272,7 @@
     }
    ],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1322,7 +1322,7 @@
     }
    ],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1419,7 +1419,7 @@
     "en": "No step was reached; it is still at Commission proposal, and the time it has waited there and the newer data on comparable files moved it.",
     "de": "Kein Schritt wurde erreicht; es steht weiter bei Kommissionsvorschlag, und die Wartezeit dort und neuere Daten zu vergleichbaren Verfahren haben ihn verschoben."
    },
-   "score": 39,
+   "score": 37,
    "ladder": {
     "place": {
      "en": [
@@ -1499,7 +1499,7 @@
     "de": "ST 13112/26: Presidency revised compromise text of 21 September 2026 (ST 13112/26) on the Digital Omnibus, circulated by the General Secretariat of the Council for the meeting of the Antici Group (Simplification) of 25 September 2026; it is the Presidency's text, not a Council position, and can still change.",
     "lang": "en"
    },
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -1544,7 +1544,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1587,7 +1587,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -1636,7 +1636,7 @@
     "en": "The forecast now starts from the next step.",
     "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
    },
-   "score": 34,
+   "score": 32,
    "ladder": {
     "place": {
      "en": [
@@ -1710,7 +1710,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -1854,7 +1854,7 @@
     }
    ],
    "brief": null,
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1926,7 +1926,7 @@
     "en": "2 only changed status within their step (Drafting prEN, Voting EN); 5 without an earlier status on record (EN 301 929, EN 300 386, EN 300 386 …).",
     "de": "2 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 5 ohne früheren Stand in den Daten (EN 301 929, EN 300 386, EN 300 386 …)."
    },
-   "score": 25,
+   "score": 23,
    "tree": {
     "": {
      "ETSI": {
@@ -2120,7 +2120,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -2174,7 +2174,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2213,7 +2213,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 17,
+   "score": 15,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2252,7 +2252,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2291,7 +2291,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -2347,7 +2347,7 @@
     }
    ],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Regulation on European standardisation",
@@ -2382,7 +2382,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "This site"
@@ -2415,7 +2415,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 9,
+   "score": 7,
    "crumbs": {
     "en": [
      "This site"
@@ -2448,7 +2448,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 7,
+   "score": 5,
    "crumbs": {
     "en": [
      "This site"
@@ -2481,7 +2481,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 4,
+   "score": 2,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2537,7 +2537,7 @@
     }
    ],
    "brief": null,
-   "score": 4,
+   "score": 2,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2572,7 +2572,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 1,
+   "score": -1,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2607,7 +2607,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -2646,7 +2646,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -2681,7 +2681,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"
@@ -2714,7 +2714,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -3,
+   "score": -5,
    "crumbs": {
     "en": [
      "This site"

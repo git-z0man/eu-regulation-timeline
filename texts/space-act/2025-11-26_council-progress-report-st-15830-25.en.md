@@ -4,7 +4,7 @@ version: 2025-11-26_council-progress-report-st-15830-25
 stage: council-progress-report
 language: en
 document: ST 15830/25
-title: Council of the European Union Brussels, 26 November 2025 (OR. en)
+title: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 8-9 December 2025 Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Progress report
 retrieved: '2026-09-25'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 26 November 2025 (OR. en)
+# Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 8-9 December 2025 Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Progress report
 
 Council of the European Union Brussels, 26 November 2025 (OR. en)
 

@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 23 June 2026** **(OR. en)**
 
-**1 0817/26** **Interinstitutional File:** **2026/0068 (COD) LIMITE** **COMPET 803** **IND 433** **MI 674** **MAP 139** **FDI 21** **TRANS 439** **CLIMA 342** **ENV 785** **ENER 420** **ECOFIN 849** **UD 188** **POLCOM 230** **C ODEC 1257** **NOTE** From: General Secretariat of the Council To: Delegations Subject: Proposal for a Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in strategic sectors (Industrial Accelerator Act) - Partial Presidency compromise text
+**1 0817/26** **Interinstitutional File:** ++**2026/0068 (COD)**++ **LIMITE** **COMPET 803** **IND 433** **MI 674** **MAP 139** **FDI 21** **TRANS 439** **CLIMA 342** **ENV 785** **ENER 420** **ECOFIN 849** **UD 188** **POLCOM 230** **C ODEC 1257** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in strategic sectors (Industrial Accelerator Act) - Partial Presidency compromise text
 
 In view of the upcoming Working Party on Competitiveness and Growth (Industry) on 29 June 2026, delegations will find in Annex to this note, a marked version of the first Presidency compromise text. Changes in comparison to the Commission proposal, document ST 7009/26 + ADD 1, are marked in **bold** for additions and in strikethrough for deletions.
 
@@ -30,7 +30,7 @@ This first presidency compromise text **does not cover** the recitals, unless th
 
 COMPET. ^(1) **LIMITE EN**
 
-**ANNEX**
+++**ANNEX**++
 
 2026/0068 (COD)
 

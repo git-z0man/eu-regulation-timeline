@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 21 May 2026** **(OR. en)**
 
-**9 547/26** **Interinstitutional File:** **2025/0360 (COD) LIMITE** **SIMPL 108** **ANTICI 111** **DATAPROTECT 167** **CYBER 241** **TELECOM 254** **CODEC 974** **PROCIV 106** **COMPET 597** **M I 511** **NOTE** From: General Secretariat of the Council To: Delegations Subject: Digital Omnibus - Presidency compromise text (GDPR, e-privacy, cookies, P2B, cyber provisions)
+**9 547/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 108** **ANTICI 111** **DATAPROTECT 167** **CYBER 241** **TELECOM 254** **CODEC 974** **PROCIV 106** **COMPET 597** **M I 511** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Digital Omnibus - Presidency compromise text (GDPR, e-privacy, cookies, P2B, cyber provisions)
 
 Delegations will find attached the Presidency revised compromise text on the Digital Omnibus (GDPR, e-privacy, cookies, P2B, cyber provisions) in view of the AGS meeting of 27 May 2026.
 

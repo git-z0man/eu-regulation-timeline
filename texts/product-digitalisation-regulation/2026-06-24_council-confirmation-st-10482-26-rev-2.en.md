@@ -4,7 +4,7 @@ version: 2026-06-24_council-confirmation-st-10482-26-rev-2
 stage: council-confirmation
 language: en
 document: ST 10482/26 REV 2
-title: Council of the European Union Brussels, 24 June 2026 (OR. en)
+title: Omnibus IV Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications Proposal for a DIRECTIVE OF
 retrieved: '2026-09-26'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 24 June 2026 (OR. en)
+# Omnibus IV Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications Proposal for a DIRECTIVE OF
 
 Council of the European Union Brussels, 24 June 2026 (OR. en)
 

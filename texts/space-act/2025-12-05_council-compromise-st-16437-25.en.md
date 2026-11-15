@@ -32,7 +32,7 @@ It is understood that all delegations have entered a scrutiny reservation.
 
 COMPET. ^(2). **EN**
 
-**ANNEX**
+++**ANNEX**++
 
 2025/0335 (COD)
 

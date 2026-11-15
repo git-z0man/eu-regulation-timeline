@@ -4,7 +4,7 @@ version: 2026-06-12_council-progress-report-st-9834-26-rev-1
 stage: council-progress-report
 language: en
 document: ST 9834/26 REV 1
-title: Council of the European Union Brussels, 12 June 2026 (OR. en)
+title: Omnibus simplification legislative packages - Progress report
 retrieved: '2026-09-25'
 converter: tools/pdf2md.py
 counts:
@@ -18,7 +18,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# Council of the European Union Brussels, 12 June 2026 (OR. en)
+# Omnibus simplification legislative packages - Progress report
 
 Council of the European Union Brussels, 12 June 2026 (OR. en)
 

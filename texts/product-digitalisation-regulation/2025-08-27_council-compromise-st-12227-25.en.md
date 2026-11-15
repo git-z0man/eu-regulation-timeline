@@ -28,7 +28,7 @@ Delegations will find in the Annex a Presidency compromise text in relation to t
 
 Additions to the Commission proposal are indicated in **bold**, deletions are marked as ~~strikethrough~~.
 
-**ANNEX**
+++**ANNEX**++
 
 2025/0134 (COD)
 

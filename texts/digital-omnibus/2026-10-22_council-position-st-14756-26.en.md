@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 22 October 2026** **(OR. en)**
 
-**1 4756/26** **Interinstitutional File:** **2025/0360 (COD)** **SIMPL 235** **ANTICI 233** **DATAPROTECT 345** **CYBER 422** **TELECOM 498** **PROCIV 198** **COMPET 1231** **MI 1054** **C ODEC 1945** **OUTCOME OF PROCEEDINGS** From: General Secretariat of the Council To: Delegations No. prev. doc.: 14532/26 No. Cion doc.: 15698/25 + ADD 1 Subject: Proposal for a Regulation amending Regulations (EU) 2016/1679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) - Mandate for negotiations with the European Parliament
+**1 4756/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **SIMPL 235** **ANTICI 233** **DATAPROTECT 345** **CYBER 422** **TELECOM 498** **PROCIV 198** **COMPET 1231** **MI 1054** **C ODEC 1945** ++**OUTCOME OF PROCEEDINGS**++ From: General Secretariat of the Council To: Delegations No. prev. doc.: 14532/26 No. Cion doc.: 15698/25 + ADD 1 Subject: Proposal for a Regulation amending Regulations (EU) 2016/1679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) - Mandate for negotiations with the European Parliament
 
 Delegations will find in the Annex the text of the mandate for negotiations with the European Parliament on the above-mentioned file as agreed by the Permanent Representatives Committee at its meeting on 21 October 2026.
 
@@ -30,7 +30,7 @@ Changes compared to the Commission proposal are marked in **bold** and deletions
 
 GIP.B **EN**
 
-**ANNEX**
+++**ANNEX**++
 
 2025/0360 (COD)
 

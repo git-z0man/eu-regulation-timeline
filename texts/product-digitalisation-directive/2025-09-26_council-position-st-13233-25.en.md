@@ -28,7 +28,7 @@ Delegations will find in the Annex, for information, the text of the mandate for
 
 Changes compared to the Commission proposal are marked in **bold** and deletions in ~~strikethrough~~.
 
-**ANNEX**
+++**ANNEX**++
 
 2025/0133 (COD)
 
