@@ -9,7 +9,7 @@ retrieved: '2026-10-01'
 converter: tools/pdf2md.py
 counts:
   recitals: 66
-  articles: 40
+  articles: 41
   annexes: 0
 official_source: https://data.consilium.europa.eu/doc/document/ST-8261-2026-INIT/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
@@ -730,10 +730,8 @@ The registration in the public Union register shall be valid in all Member State
 
 Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall be notified to the** **Commission. The Commission shall remove the entity from the public Union** **register.** ~~.~~
 
-<a id="chapter-vii"></a>
-## Chapter VII – b
-
-Free flow of non-personal data ~~in~~ **within** the Union’
+<a id="chapter-viib"></a>
+## Chapter VIIb – Free flow of non-personal data ~~in~~ within the Union’
 
 <a id="art-32h"></a>
 ### Article 32h – Prohibition of localisation requirements for non-personal data within the Union
@@ -1557,6 +1555,15 @@ The controller shall bear the burden of demonstrating**, in the light of all the
 
 ~~This paragraph also applies to the subsequent processing of personal data based on~~ ~~consent.~~
 
+- ~~(5) This Article shall apply from [OP: please insert the date = 6 months following the~~ ~~date of entry into force of this Regulation]~~
+
+<a id="art-8b"></a>
+### Article ~~88b~~ 8b – Consent through automated and machine-readable indications of data subject’s choices with respect to processing of personal data in the terminal equipment of natural persons
+
+- (1) **For the purpose of data subject consent to the storing of personal data, or gaining** **of access to personal data already stored in the terminal equipment of a natural** **person in accordance with Directive 2002/58/EC,** controllers shall ensure that their online interfaces allow data subjects to:
+
+  - (a) Give consent **for specific categories of purposes** through automated and machine-readable means, provided that the conditions for consent laid down in this Regulation are fulfilled;
+
   - (b) decline a request for consent ~~and~~ **or** exercise the right to object pursuant to Article 21(2) through automated and machine-readable means.
 
 - (2) Controllers **storing or gaining access to personal data** shall respect the choices made by data subjects in accordance with paragraph 1.
@@ -1848,7 +1855,3 @@ For the European Parliament For the Council The President The President
 ^(18) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
 
 ^(2018) on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
-
-^(5) This Article shall apply from [OP: please insert the date = 6 months following the date of entry into force of this Regulation] Article 8b Consent through automated and machine-readable indications of data subject’s choices with respect to processing of personal data in the terminal equipment of natural persons
-
-^(1) For the purpose of data subject consent to the storing of personal data, or gaining of access to personal data already stored in the terminal equipment of a natural person in accordance with Directive 2002/58/EC, controllers shall ensure that their online interfaces allow data subjects to: (a) Give consent for specific categories of purposes through automated and machine-readable means, provided that the conditions for consent laid down in this Regulation are fulfilled;

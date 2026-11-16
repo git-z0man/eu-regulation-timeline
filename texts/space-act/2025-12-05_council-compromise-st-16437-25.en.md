@@ -1858,9 +1858,8 @@ The Commission shall integrate those datasets in the Union database storing EF-r
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
-**Chapter IVa**
-
-**Light regime**
+<a id="title-iv-chapter-iva"></a>
+## Chapter IVa – Light regime
 
 <a id="art-101a"></a>
 ### Article 101a – Light regime for safety

@@ -765,10 +765,8 @@ The registration in the public Union register shall be valid in all Member State
 
 Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall be notified to the** **Commission. The Commission shall remove the entity from the public Union** **register.** ~~.~~
 
-<a id="chapter-vii"></a>
-## Chapter VII – b
-
-Free flow of non-personal data ~~in~~ **within** the Union’
+<a id="chapter-viib"></a>
+## Chapter VIIb – Free flow of non-personal data ~~in~~ within the Union’
 
 <a id="art-32h"></a>
 ### Article 32h – Prohibition of localisation requirements for non-personal data within the Union
@@ -954,7 +952,9 @@ Scope and General Principles
 <a id="art-32o"></a>
 ### Article 32o – ~~Processing requests for re-use~~
 
-~~weeks of the initial request, that more time is needed to process the request and the~~ ~~reasons why.~~
+- ~~(1) Public sector bodies shall, through electronic means where possible and appropriate,~~ ~~process requests for re-use and shall make the document available for re-use to the~~ ~~applicant or, if a licence is needed, finalise the licence offer to the applicant within a~~ ~~reasonable time that is consistent with the time frames laid down for the processing~~ ~~of requests for access to data or documents.~~
+
+- ~~(2) Where no time limits or other rules regulating the timely provision of data or~~ ~~documents have been established, public sector bodies shall process the request and~~ ~~shall deliver the data or documents for re-use to the applicant or, if a licence is~~ ~~needed, finalise the licence offer to the applicant as soon as possible, and in any~~ ~~event within 20 working days of receipt. That time frame may be extended by a~~ ~~further 20 working days in the case of extensive or complex requests. In such cases,~~ ~~the applicant shall be notified as soon as possible, and in any event within three~~ ~~weeks of the initial request, that more time is needed to process the request and the~~ ~~reasons why.~~
 
 - ~~(3) In the event of a negative decision, the public sector bodies shall communicate the~~ ~~grounds for refusal to the applicant on the basis of the relevant provisions of the~~ ~~access regime in that Member State or the provisions of this Regulation, in particular~~ ~~points (a) to (c) of paragraph 2 of Article 32i and points (a) to (d) of paragraph 3 of~~ ~~Article 32i or Article 32n (general principle ODD Section). Where a negative~~ ~~decision is based on point (d) of paragraph 3 of Article 32i, the public sector body~~ ~~shall include a reference to the natural or legal person who is the rightsholder, where~~ ~~known, or alternatively to the licensor from which the public sector body has~~ ~~obtained the relevant material. Libraries, including university libraries, museums and~~ ~~archives, shall not be required to include such a reference.~~
 
@@ -1241,6 +1241,8 @@ The re-user to whom the right to re-use non-personal data was granted may transf
 
 <a id="art-32ab"></a>
 ### Article 32ab – ~~Procedure for requests for re-use~~
+
+- ~~(1) Unless shorter time limits have been established in accordance with national law, the~~ ~~competent public sector bodies or the competent bodies referred to in paragraph 1 of~~ ~~Article 32z shall adopt a decision on the request for the re-use of certain categories of~~ ~~protected data within two months of the date of receipt of the request.~~
 
 - ~~(2) In the case of exceptionally extensive and complex requests for re-use, that two-~~ ~~month period may be extended by up to 30 days. In such cases the competent public~~ ~~sector bodies or the competent bodies referred to in paragraph 1 of Article 32z shall~~ ~~notify the applicant as soon as possible that more time is needed for conducting the~~ ~~procedure, together with the reasons for the delay.~~
 
@@ -1658,6 +1660,8 @@ For discussion**: [**that there are reasonable grounds to believe that it is exc
 - ~~(4) The Commission shall, in accordance with Article 10(1) of Regulation (EU) 1025/2012,~~ ~~request one or more European standardisation organisations to draft standards for the~~ ~~interpretation of machine-readable indications of data subjects’ choices.~~
 
 ~~Online interfaces of controllers which are in conformity with harmonised standards or~~ ~~parts thereof the references of which have been published in the Official Journal of the~~ ~~European Union shall be presumed to be in conformity with the requirements covered~~ ~~by those standards or parts thereof, set out in paragraph 1.~~
+
+- ~~(5) Paragraphs 1 and 2 shall apply from [OP: please insert the date = 24 months~~ ~~following the date of entry into force of this Regulation].~~
 
 - ~~(6) Providers of web browsers, which are not SMEs, shall provide the technical means to~~ ~~allow data subjects to give their consent and to refuse a request for consent and~~ ~~exercise the right to object pursuant to Article 21(2) through the automated and~~ ~~machine-readable means referred to in paragraph 1 of this Article, as applied~~ ~~pursuant to paragraphs 2 to 5 of this Article.~~
 
@@ -2143,11 +2147,3 @@ Annex II GIP.B **LIMITE EN**
 ^(18) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
 
 ^(2018) on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
-
-^(1) Public sector bodies shall, through electronic means where possible and appropriate, process requests for re-use and shall make the document available for re-use to the applicant or, if a licence is needed, finalise the licence offer to the applicant within a reasonable time that is consistent with the time frames laid down for the processing of requests for access to data or documents.
-
-^(2) Where no time limits or other rules regulating the timely provision of data or documents have been established, public sector bodies shall process the request and shall deliver the data or documents for re-use to the applicant or, if a licence is needed, finalise the licence offer to the applicant as soon as possible, and in any event within 20 working days of receipt. That time frame may be extended by a further 20 working days in the case of extensive or complex requests. In such cases, the applicant shall be notified as soon as possible, and in any event within three
-
-^(1) Unless shorter time limits have been established in accordance with national law, the competent public sector bodies or the competent bodies referred to in paragraph 1 of Article 32z shall adopt a decision on the request for the re-use of certain categories of protected data within two months of the date of receipt of the request.
-
-^(5) Paragraphs 1 and 2 shall apply from [OP: please insert the date = 24 months following the date of entry into force of this Regulation].

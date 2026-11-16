@@ -1,19 +1,11 @@
 {
- "as_of": "2026-11-15",
+ "as_of": "2026-11-16",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "note": "All acts we follow",
-   "ahead": [
-    {
-     "date": "2026-11-15",
-     "act": "Cyber Resilience Act",
-     "text": "ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security …",
-     "url": "acts/cra.html",
-     "top": true
-    }
-   ],
+   "ahead": [],
    "recap": [
     {
      "date": "2026-11-10",
@@ -44,11 +36,18 @@
      "top": true
     },
     {
-     "date": "2026-11-11",
-     "act": "Public Procurement Act",
-     "text": "European Parliament: Referral to committee announced in plenary",
-     "url": "procedures/public-procurement-act.html",
+     "date": "2026-11-13",
+     "act": "EU Space Act",
+     "text": "Council: Progress Report",
+     "url": "procedures/space-act.html",
      "top": true
+    },
+    {
+     "date": "2026-11-13",
+     "act": "Cloud and AI Development Act",
+     "text": "Council: Progress report",
+     "url": "procedures/cloud-ai-development-act.html",
+     "top": false
     },
     {
      "date": "2026-11-11",
@@ -58,16 +57,23 @@
      "top": false
     },
     {
+     "date": "2026-11-11",
+     "act": "Public Procurement Act",
+     "text": "European Parliament: Referral to committee announced in plenary",
+     "url": "procedures/public-procurement-act.html",
+     "top": false
+    },
+    {
      "date": "2026-11-10",
      "act": "Simplification of the medical devices rules",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 10 (vote)",
+     "text": "European Parliament: IMCO opinion adopted",
      "url": "procedures/medical-devices-simplification.html",
      "top": false
     },
     {
      "date": "2026-11-10",
      "act": "Simplification of the medical devices rules",
-     "text": "European Parliament: Committee opinion adopted",
+     "text": "European Parliament: IMCO committee meeting held: agenda item 10 (vote)",
      "url": "procedures/medical-devices-simplification.html",
      "top": false
     },
@@ -90,6 +96,13 @@
      "act": "Cybersecurity Act 2",
      "text": "Council: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
      "url": "procedures/csa2.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-13",
+     "act": "Chips Act 2.0",
+     "text": "Council released 1 document listed as not public, incl. Presidency compromise text",
+     "url": "procedures/chips-act-2.html",
      "top": false
     },
     {
@@ -128,10 +141,17 @@
      "top": false
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-15",
      "act": "Radio Equipment Directive",
-     "text": "8 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Closing of approval procedure",
+     "text": "9 standardisation projects moved on, e.g. EN 302 454: Approval Stage – Deliverable approval procedure …",
      "url": "procedures/index.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-13",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council: Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise …",
+     "url": "procedures/medical-devices-simplification.html",
      "top": false
     },
     {
@@ -150,16 +170,16 @@
     },
     {
      "date": "2026-11-11",
-     "act": "Public Procurement Act",
-     "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
-     "url": "procedures/public-procurement-act.html",
+     "act": "EU Space Act",
+     "text": "Council: Space Working Party meeting: Examination (14787/26)",
+     "url": "procedures/space-act.html",
      "top": false
     },
     {
      "date": "2026-11-11",
-     "act": "EU Space Act",
-     "text": "Council: Space Working Party meeting: Examination (14787/26)",
-     "url": "procedures/space-act.html",
+     "act": "Public Procurement Act",
+     "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
+     "url": "procedures/public-procurement-act.html",
      "top": false
     },
     {
@@ -189,15 +209,7 @@
    "key": "cybersecurity",
    "label": "Cybersecurity",
    "note": "Only the acts of the timeline view “Cybersecurity incl. NIS-2” and the proposals that change them",
-   "ahead": [
-    {
-     "date": "2026-11-15",
-     "act": "Cyber Resilience Act",
-     "text": "ENISA consultation closes: Draft ENISA Technical Advisory on security.txt, CVD Policies and Security …",
-     "url": "acts/cra.html",
-     "top": true
-    }
-   ],
+   "ahead": [],
    "recap": [
     {
      "date": "2026-11-10",

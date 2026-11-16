@@ -112,7 +112,17 @@ HAVE ADOPTED THIS REGULATION:
 <a id="art-1"></a>
 ### Article 1 – ~~Amendments to Regulation (EU) 765/2008~~
 
-~~Regulation (EU) 765/2008 is amended as follows:~~ ~~requirements including those set out in relevant sectoral schemes, to carry out a~~ ~~specific conformity assessment activity;;’~~
+~~Regulation (EU) 765/2008 is amended as follows:~~
+
+- ~~(1) Article 2 is amended as follows:~~
+
+  - ~~(a) the following point (9a) is inserted:~~
+
+~~‘(9a) ‘a common specification’ means a set of technical requirements, other than a~~ ~~standard, that provides a means of complying with the legal obligations~~ ~~applicable to a product, device, service, process or system;;’~~
+
+  - ~~(b) paragraph 10 is replaced by the following:~~
+
+~~‘10. ‘accreditation’ shall mean an attestation by a national accreditation body that a~~ ~~conformity assessment body meets the requirements set by harmonised~~ ~~standards or common specifications and, where applicable, any additional~~ ~~requirements including those set out in relevant sectoral schemes, to carry out a~~ ~~specific conformity assessment activity;;’~~
 
 - ~~(2) in Article 10, paragraph 5 is replaced by the following:~~
 
@@ -1164,5 +1174,3 @@ ANNEX V **LIMITE EN**
 ^(13) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj).
 
 ^(14) Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1542/oj).
-
-^(1) Article 2 is amended as follows: (a) the following point (9a) is inserted: ‘(9a) ‘a common specification’ means a set of technical requirements, other than a standard, that provides a means of complying with the legal obligations applicable to a product, device, service, process or system;;’ (b) paragraph 10 is replaced by the following: ‘10. ‘accreditation’ shall mean an attestation by a national accreditation body that a conformity assessment body meets the requirements set by harmonised standards or common specifications and, where applicable, any additional

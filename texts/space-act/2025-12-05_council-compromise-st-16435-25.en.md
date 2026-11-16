@@ -688,6 +688,10 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 - ~~(37) ‘delta V’ means the velocity increment necessary to reach a specific orbit or flight path;~~
 
+- ~~(38) ‘object of interest’ means any object involved in any situation that could affect the other~~ ~~space objects or the situation on Earth;~~
+
+- (39) ‘re-entry’ means the ~~permanent~~ return of a space object into the Earth’s atmosphere;
+
 (~~52~~ **39a**) ‘ ~~telemetry/telecommand~~ **telemetry**’ means ~~the links that transmit the telemetry~~ **information** **sent** from the space segment to the ground segment and ~~the links that send the~~ ~~telecommand from the ground segment~~ **relayed** to the ~~space segment~~ **mission control** **centre**;
 
 (~~30~~ **39b**) ‘launch vehicle orbital stage’ means a complete element of a launch vehicle that is designed to propel a defined thrust during a dedicated phase of the launch vehicle’s operation and achieve orbit;
@@ -2938,9 +2942,8 @@ The Commission shall integrate those datasets in the Union database storing EF-r
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(2).
 
-**Chapter IVa**
-
-**Light regime**
+<a id="title-iv-chapter-iva"></a>
+## Chapter IVa – Light regime
 
 <a id="art-101a"></a>
 ### Article ~~62~~ 101a – ~~Special~~ Light regime for ~~research and education spacecraft~~ safety
@@ -4717,9 +4720,5 @@ Annex X COMPET. ^(2). **LIMITE EN**
 ^(2019) on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance ELI: http://data.europa.eu/eli/reg/2019/881/oj)
 
 ^(19) ^(17) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj).
-
-^(38) ‘object of interest’ means any object involved in any situation that could affect the other space objects or the situation on Earth;
-
-^(39) ‘re-entry’ means the permanent return of a space object into the Earth’s atmosphere;
 
 ^(20) ^(18) Commission Recommendation (EU) 2021/2279 of 15 December 2021 on the use of the Environmental Footprint methods to measure and communicate the life cycle environmental performance of products and organisations (OJ L 471, 30.12.2021, p. 1, ELI: http://data.europa.eu/eli/reco/2021/2279/oj).

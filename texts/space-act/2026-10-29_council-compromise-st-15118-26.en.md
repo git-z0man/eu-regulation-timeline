@@ -1754,9 +1754,8 @@ The Commission shall follow the procedure laid down in Article 112a.
 
 - (b) the design principles for functional modular systems that can be connected to a spacecraft to deliver new spacecraft functionality or payload, making use of SSIs referred to in paragraph 2.
 
-**Chapter IVa**
-
-**Light regime**
+<a id="title-iv-chapter-iva"></a>
+## Chapter IVa – Light regime
 
 <a id="art-101a"></a>
 ### Article 101a – Light regime for safety

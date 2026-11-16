@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="551" viewBox="0 0 900 551" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Jeder Bereich der ENISA veröffentlicht woanders, und nur wenig lässt sich abonnieren">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Jeder Bereich der ENISA veröffentlicht woanders, und nur wenig lässt sich abonnieren</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="551" fill="#fff"/>
+<text x="24" y="36" font-size="19.1" font-weight="700" fill="#14181c">Jeder Bereich der ENISA veröffentlicht woanders, und nur wenig lässt sich abonnieren</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Wo die Arbeitsbereiche der ENISA veröffentlichen, danach, ob man es abonnieren kann</text>
+<line x1="24" x2="876" y1="108.0" y2="108.0" stroke="#eceff1"/>
+<text x="24" y="134.0" font-size="14" font-weight="700" fill="#14181c">Cyber Resilience Act</text>
+<text x="24" y="152.0" font-size="12.5" fill="#454c53">Produktsicherheit</text>
+<rect x="214.0" y="118.0" width="156.0" height="34.0" rx="3" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="292.0" y="140.0" text-anchor="middle" font-size="12.9" fill="#14181c">Themenseite Hauptseite</text>
+<rect x="380.0" y="118.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="458.0" y="140.0" text-anchor="middle" font-size="13" fill="#454c53">PDF und EUSurvey</text>
+<rect x="546.0" y="118.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="624.0" y="140.0" text-anchor="middle" font-size="13" fill="#454c53">SRP-Portal und FAQ</text>
+<rect x="712.0" y="118.0" width="156.0" height="34.0" rx="3" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="790.0" y="140.0" text-anchor="middle" font-size="13" fill="#ffffff">Zertifizierungsseite</text>
+<rect x="214.0" y="162.0" width="156.0" height="34.0" rx="3" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="292.0" y="184.0" text-anchor="middle" font-size="11.8" fill="#14181c">CRA-Verteiler Kommission</text>
+<rect x="380.0" y="162.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="458.0" y="184.0" text-anchor="middle" font-size="13" fill="#454c53">CRA Expert Group</text>
+<line x1="24" x2="876" y1="210.0" y2="210.0" stroke="#eceff1"/>
+<text x="24" y="236.0" font-size="14" font-weight="700" fill="#14181c">Zertifizierung</text>
+<text x="24" y="254.0" font-size="12.5" fill="#454c53">EUCC, EUMSS, EUDIW</text>
+<rect x="214.0" y="220.0" width="156.0" height="34.0" rx="3" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="292.0" y="242.0" text-anchor="middle" font-size="13" fill="#ffffff">Zertifizierungsseite</text>
+<rect x="380.0" y="220.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="458.0" y="242.0" text-anchor="middle" font-size="13" fill="#454c53">EUSurvey</text>
+<rect x="546.0" y="220.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="624.0" y="242.0" text-anchor="middle" font-size="13" fill="#454c53">Seiten ECCG und SCCG</text>
+<rect x="712.0" y="220.0" width="156.0" height="34.0" rx="3" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="790.0" y="242.0" text-anchor="middle" font-size="12.3" fill="#14181c">Hauptseite Meilensteine</text>
+<line x1="24" x2="876" y1="268.0" y2="268.0" stroke="#eceff1"/>
+<text x="24" y="294.0" font-size="14" font-weight="700" fill="#14181c">NIS-2 und Lageberichte</text>
+<text x="24" y="312.0" font-size="12.5" fill="#454c53">Leitfäden, Lagebilder</text>
+<rect x="214.0" y="278.0" width="156.0" height="34.0" rx="3" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="292.0" y="300.0" text-anchor="middle" font-size="13" fill="#14181c">Meldungen Hauptseite</text>
+<rect x="380.0" y="278.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="458.0" y="300.0" text-anchor="middle" font-size="13" fill="#454c53">EUSurvey, enablor.dk</text>
+<line x1="24" x2="876" y1="326.0" y2="326.0" stroke="#eceff1"/>
+<text x="24" y="352.0" font-size="14" font-weight="700" fill="#14181c">Schwachstellen</text>
+<text x="24" y="370.0" font-size="12.5" fill="#454c53">EUVD, CVE</text>
+<rect x="214.0" y="336.0" width="156.0" height="34.0" rx="3" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="292.0" y="358.0" text-anchor="middle" font-size="13" fill="#454c53">EUVD (App und API)</text>
+<rect x="380.0" y="336.0" width="156.0" height="34.0" rx="3" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="458.0" y="358.0" text-anchor="middle" font-size="13" fill="#ffffff">GitHub enisaeu</text>
+<rect x="546.0" y="336.0" width="156.0" height="34.0" rx="3" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="624.0" y="358.0" text-anchor="middle" font-size="13" fill="#14181c">Meldungen Hauptseite</text>
+<line x1="24" x2="876" y1="384.0" y2="384.0" stroke="#eceff1"/>
+<text x="24" y="410.0" font-size="14" font-weight="700" fill="#14181c">Alle Bereiche</text>
+<text x="24" y="428.0" font-size="12.5" fill="#454c53">Social Media und Video</text>
+<rect x="214.0" y="394.0" width="156.0" height="34.0" rx="3" fill="#eceff1" stroke="#8a9096" stroke-width="1.2"/>
+<text x="292.0" y="416.0" text-anchor="middle" font-size="13" fill="#14181c">LinkedIn</text>
+<rect x="380.0" y="394.0" width="156.0" height="34.0" rx="3" fill="#eceff1" stroke="#8a9096" stroke-width="1.2"/>
+<text x="458.0" y="416.0" text-anchor="middle" font-size="13" fill="#14181c">X und Facebook</text>
+<rect x="546.0" y="394.0" width="156.0" height="34.0" rx="3" fill="#eceff1" stroke="#8a9096" stroke-width="1.2"/>
+<text x="624.0" y="416.0" text-anchor="middle" font-size="13" fill="#14181c">YouTube</text>
+<rect x="712.0" y="394.0" width="156.0" height="34.0" rx="3" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="790.0" y="416.0" text-anchor="middle" font-size="13" fill="#ffffff">Videoportal PeerTube</text>
+<line x1="24" x2="876" y1="442.0" y2="442.0" stroke="#eceff1"/>
+<rect x="24.0" y="461.0" width="14.0" height="14.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="472" font-size="13" fill="#14181c">Abonnierbar: RSS-Feed oder GitHub</text>
+<rect x="297.6" y="461.0" width="14.0" height="14.0" rx="2" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="318" y="472" font-size="13" fill="#14181c">Nur per E-Mail (Alert-Dienst oder Verteiler)</text>
+<rect x="24.0" y="483.0" width="14.0" height="14.0" rx="2" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="44" y="494" font-size="13" fill="#14181c">Nicht abonnierbar oder geschlossene Gruppe</text>
+<rect x="362.4" y="483.0" width="14.0" height="14.0" rx="2" fill="#eceff1" stroke="#8a9096" stroke-width="1.2"/>
+<text x="382" y="494" font-size="13" fill="#14181c">Social Media: folgen, Strom unvollständig</text>
+<text x="24" y="524" font-size="11.5" fill="#5b646b">Quellen: Websites, Feeds und Portale der ENISA, geprüft am 14.11.2026.</text><text x="24" y="541" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · Stand 14.11.2026</text>
+</svg>

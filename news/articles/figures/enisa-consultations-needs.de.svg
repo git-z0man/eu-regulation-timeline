@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="331" viewBox="0 0 900 331" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Jede zweite private Stelle sieht ihren Bedarf nur teilweise oder weniger getroffen">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Jede zweite private Stelle sieht ihren Bedarf nur teilweise oder weniger getroffen</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="331" fill="#fff"/>
+<text x="24" y="36" font-size="19.6" font-weight="700" fill="#14181c">Jede zweite private Stelle sieht ihren Bedarf nur teilweise oder weniger getroffen</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Umfrage zur Evaluierung der ENISA durch die Kommission: wie weit ihre Unterstützung den Bedarf jeder Gruppe trifft</text>
+<text x="238" y="141.0" text-anchor="end" font-size="13.5" font-weight="600" fill="#14181c">Private Stellen</text>
+<text x="238" y="157.0" text-anchor="end" font-size="12" fill="#454c53">N = 63</text>
+<rect x="250.0" y="128.0" width="30.5" height="30" fill="#e4e6e8" stroke="#fff" stroke-width="1"><title>Private Stellen, Gar nicht: 5 %</title></rect>
+<text x="265.2" y="147.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">5 %</text>
+<rect x="280.5" y="128.0" width="115.9" height="30" fill="#cfe2e4" stroke="#fff" stroke-width="1"><title>Private Stellen, In geringem Maß: 19 %</title></rect>
+<text x="338.4" y="147.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">19 %</text>
+<rect x="396.4" y="128.0" width="164.7" height="30" fill="#9fc3c7" stroke="#fff" stroke-width="1"><title>Private Stellen, Teilweise: 27 %</title></rect>
+<text x="478.8" y="147.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">27 %</text>
+<rect x="561.1" y="128.0" width="201.3" height="30" fill="#3d7f86" stroke="#fff" stroke-width="1"><title>Private Stellen, In hohem Maß: 33 %</title></rect>
+<text x="661.7" y="147.0" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">33 %</text>
+<rect x="762.4" y="128.0" width="97.6" height="30" fill="#0b4f57" stroke="#fff" stroke-width="1"><title>Private Stellen, Vollständig: 16 %</title></rect>
+<text x="811.2" y="147.0" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">16 %</text>
+<path d="M250.0 122.0V116.0H561.1V122.0" fill="none" stroke="#14181c"/>
+<text x="567.1" y="120.0" font-size="12.5" font-weight="700" fill="#14181c">51 % nur teilweise oder weniger</text>
+<text x="238" y="205.0" text-anchor="end" font-size="13.5" font-weight="600" fill="#14181c">Nationale Behörden</text>
+<text x="238" y="221.0" text-anchor="end" font-size="12" fill="#454c53">N = 86</text>
+<rect x="250.0" y="192.0" width="30.8" height="30" fill="#e4e6e8" stroke="#fff" stroke-width="1"><title>Nationale Behörden, Gar nicht: 5 %</title></rect>
+<text x="265.4" y="211.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">5 %</text>
+<rect x="280.8" y="192.0" width="18.5" height="30" fill="#cfe2e4" stroke="#fff" stroke-width="1"><title>Nationale Behörden, In geringem Maß: 3 %</title></rect>
+<rect x="299.3" y="192.0" width="191.0" height="30" fill="#9fc3c7" stroke="#fff" stroke-width="1"><title>Nationale Behörden, Teilweise: 31 %</title></rect>
+<text x="394.8" y="211.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">31 %</text>
+<rect x="490.3" y="192.0" width="264.9" height="30" fill="#3d7f86" stroke="#fff" stroke-width="1"><title>Nationale Behörden, In hohem Maß: 43 %</title></rect>
+<text x="622.8" y="211.0" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">43 %</text>
+<rect x="755.3" y="192.0" width="104.7" height="30" fill="#0b4f57" stroke="#fff" stroke-width="1"><title>Nationale Behörden, Vollständig: 17 %</title></rect>
+<text x="807.6" y="211.0" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">17 %</text>
+<path d="M250.0 186.0V180.0H490.3V186.0" fill="none" stroke="#14181c"/>
+<text x="496.3" y="184.0" font-size="12.5" font-weight="700" fill="#14181c">39 % nur teilweise oder weniger</text>
+<rect x="24.0" y="251.0" width="14.0" height="14.0" rx="2" fill="#e4e6e8" stroke="#8a9096" stroke-width="1.2"/>
+<text x="44" y="262" font-size="13" fill="#14181c">Gar nicht</text>
+<rect x="124.8" y="251.0" width="14.0" height="14.0" rx="2" fill="#cfe2e4" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="145" y="262" font-size="13" fill="#14181c">In geringem Maß</text>
+<rect x="268.8" y="251.0" width="14.0" height="14.0" rx="2" fill="#9fc3c7" stroke="#6e9195" stroke-width="1.2"/>
+<text x="289" y="262" font-size="13" fill="#14181c">Teilweise</text>
+<rect x="369.6" y="251.0" width="14.0" height="14.0" rx="2" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="390" y="262" font-size="13" fill="#14181c">In hohem Maß</text>
+<rect x="492.0" y="251.0" width="14.0" height="14.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="512" y="262" font-size="13" fill="#14181c">Vollständig</text>
+<text x="24" y="292" font-size="11.5" fill="#5b646b">Quelle: Kommission, SWD(2026) 2, Abbildung 3 (Stakeholder-Umfrage 2024). EU-Institutionen und kleinere Gruppen nicht gezeigt.</text><text x="24" y="309" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · Stand 20.1.2026</text>
+</svg>

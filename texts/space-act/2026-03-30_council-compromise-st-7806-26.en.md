@@ -1816,9 +1816,8 @@ The Commission shall integrate those datasets in the Union database storing EF-r
 
 4. The Commission is empowered to adopt delegated acts in accordance with Article 113 to further supplement this Regulation, in particular Annex VIII, taking into account European or international standards or methods in place or under development, by specifying, where space debris are threatening other spacecraft and increase the risk of orbit pollution, the requirements needed to enable removal of debris from orbits by means of ISOS.
 
-**Chapter IVa**
-
-**Light regime**
+<a id="title-iv-chapter-iva"></a>
+## Chapter IVa – Light regime
 
 <a id="art-101a"></a>
 ### Article 101a – Light regime for safety

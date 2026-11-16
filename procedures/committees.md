@@ -30,6 +30,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [General Product Safety Regulation](gpsr.md) | [CSN](committee-e00935.md) | Expert group | 4 | 2024-11-27 | – |
 | [Internal Market Emergency and Resilience Act](imera.md) | [Internal Market Emergency and Resilience Committee](committee-c131800.md) | Comitology committee | 0 | – | – |
 | [Low Voltage Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0035) – No legislative procedure page; applies from 2016-04-20; [meetings](#low-voltage-directive) | [Committee on Electrical Equipment](committee-c47700.md) | Comitology committee | 2 | 2025-06-25 | – |
+| [Machinery Directive](machinery-directive.md) | [Machinery Committee](committee-c00200.md) | Comitology committee | 0 | – | – |
 | [Machinery Regulation](machinery-regulation.md) | [Machinery Committee](committee-c128700.md) | Comitology committee | 1 | 2024-06-27 | – |
 | [Machinery Regulation](machinery-regulation.md) | [Commission Expert Group on Machinery](committee-e03676.md) | Expert group | 7 | 2026-10-22 | – |
 | [Market Surveillance Regulation](market-surveillance.md) | [Committee on market surveillance and compliance of products](committee-c52400.md) | Comitology committee | 1 | 2024-06-27 | – |
@@ -216,10 +217,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Working Party on Pharmaceuticals and Medical Devices
 
-13 meetings on the acts we follow.
+14 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-13 | [Simplification of the medical devices rules](medical-devices-simplification.md) | = Exchange of views on the fourth compromise proposed by the Presidency (documents to be distributed) ([14673/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101904) + ADD 1) | [CM 4831/26](https://data.consilium.europa.eu/doc/document/CM-4831-2026-INIT/en/pdf) |
 | 2026-10-27 | [Simplification of the medical devices rules](medical-devices-simplification.md) | = Exchange of views on the third compromise proposed by the Presidency ([13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) + ADD 1) | [CM 4464/26 REV 3](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-3/en/pdf) |
 | 2026-10-27 | [Simplification of the medical devices rules](medical-devices-simplification.md) | = Exchange of views on the third compromise proposed by the Presidency ([13649/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98477) + ADD 1) | [CM 4464/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-2/en/pdf) |
 | 2026-09-25 | [Simplification of the medical devices rules](medical-devices-simplification.md) | Exchange of views on the second Presidency compromise text – part 1 (special pathways, derogations, regulatory sandboxes & clinical)  Exchange of views on the second Presidency compromise text – part 2 (document to be distributed) = – = ([12287/26](https://data.consilium.europa.eu/doc/document/ST-12287-2026-INIT/en/pdf), [12698/26](https://data.consilium.europa.eu/doc/document/ST-12698-2026-INIT/en/pdf)) | [CM 4059/26](https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf) |

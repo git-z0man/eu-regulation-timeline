@@ -1,0 +1,58 @@
+[
+  {
+    "name": "enisa-consultations-volume.en",
+    "title": "Product security went from almost nothing to ENISA's largest area in 2026",
+    "note": "ENISA's publication list per year and area. Product security under the Cyber Resilience Act had one entry in 2023 and none in 2024 or 2025; in 2026 it has eight of 22. Drafts for consultation and the documents of the certification website are not in this list.",
+    "page": "enisa-consultations.html",
+    "lang": "en"
+  },
+  {
+    "name": "enisa-consultations-volume.de",
+    "title": "Produktsicherheit wurde 2026 vom Randthema zum gr\u00f6\u00dften Bereich der ENISA",
+    "note": "Die Publikationsliste der ENISA je Jahr und Bereich. Produktsicherheit nach dem Cyber Resilience Act hatte 2023 einen Eintrag und 2024 und 2025 keinen; 2026 sind es acht von 22. Entw\u00fcrfe zur Konsultation und die Dokumente der Zertifizierungs-Website stehen nicht in dieser Liste.",
+    "page": "enisa-consultations.html",
+    "lang": "de"
+  },
+  {
+    "name": "enisa-consultations-needs.en",
+    "title": "Half of private bodies say ENISA meets their needs only somewhat or less",
+    "note": "Answers of private bodies and national authorities in the survey for the Commission's evaluation of ENISA. 51 % of private bodies and 39 % of national authorities said their needs were met only somewhat, to a small extent or not at all; the evaluation gives 44 % for all respondents and 50 % for industry organisations.",
+    "page": "enisa-consultations.html",
+    "lang": "en"
+  },
+  {
+    "name": "enisa-consultations-needs.de",
+    "title": "Jede zweite private Stelle sieht ihren Bedarf nur teilweise oder weniger getroffen",
+    "note": "Antworten privater Stellen und nationaler Beh\u00f6rden in der Umfrage zur Evaluierung der ENISA durch die Kommission. 51 % der privaten Stellen und 39 % der nationalen Beh\u00f6rden sahen ihren Bedarf nur teilweise, in geringem Ma\u00df oder gar nicht getroffen; die Evaluierung nennt 44 % f\u00fcr alle Befragten und 50 % f\u00fcr Industrieorganisationen.",
+    "page": "enisa-consultations.html",
+    "lang": "de"
+  },
+  {
+    "name": "enisa-consultations-channels.en",
+    "title": "Each area of ENISA publishes elsewhere, and few channels can be followed",
+    "note": "Where ENISA publishes, by area of work. Only the certification website, GitHub and the video portal offer a feed; the main website has had an e-mail alert service instead of RSS since its relaunch.",
+    "page": "enisa-consultations.html",
+    "lang": "en"
+  },
+  {
+    "name": "enisa-consultations-channels.de",
+    "title": "Jeder Bereich der ENISA ver\u00f6ffentlicht woanders, und nur wenig l\u00e4sst sich abonnieren",
+    "note": "Wo ENISA ver\u00f6ffentlicht, nach Arbeitsbereich. Einen Feed bieten nur die Zertifizierungs-Website, GitHub und das Videoportal; die Hauptseite hat seit ihrem Relaunch statt RSS einen E-Mail-Alert-Dienst.",
+    "page": "enisa-consultations.html",
+    "lang": "de"
+  },
+  {
+    "name": "enisa-consultations-periods.en",
+    "title": "Three of four CRA drafts in 2026 were not announced on an ENISA website",
+    "note": "How long ENISA's consultations ran, in weeks, in the order they opened. The guidance drafts under the Cyber Resilience Act of 2026 ran three to eight weeks, and three of the four had no announcement on an ENISA website; certification consultations were announced and ran four to ten weeks.",
+    "page": "enisa-consultations.html",
+    "lang": "en"
+  },
+  {
+    "name": "enisa-consultations-periods.de",
+    "title": "Drei von vier CRA-Entw\u00fcrfen 2026 wurden auf keiner ENISA-Website angek\u00fcndigt",
+    "note": "Wie lange die Konsultationen der ENISA liefen, in Wochen, in der Reihenfolge ihres Beginns. Die Leitfaden-Entw\u00fcrfe zum Cyber Resilience Act von 2026 liefen drei bis acht Wochen, und drei der vier hatten keine Ank\u00fcndigung auf einer ENISA-Website; die Konsultationen der Zertifizierung waren angek\u00fcndigt und liefen vier bis zehn Wochen.",
+    "page": "enisa-consultations.html",
+    "lang": "de"
+  }
+]

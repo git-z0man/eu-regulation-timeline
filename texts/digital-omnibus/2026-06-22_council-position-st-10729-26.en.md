@@ -9,7 +9,7 @@ retrieved: '2026-10-01'
 converter: tools/pdf2md.py
 counts:
   recitals: 82
-  articles: 39
+  articles: 41
   annexes: 2
 official_source: https://data.consilium.europa.eu/doc/document/ST-10729-2026-INIT/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
@@ -836,10 +836,8 @@ The registration in the public Union register shall be valid in all Member State
 
 Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall be notified to the** **Commission. The Commission shall remove the entity from the public Union** **register.** **~~.~~**
 
-<a id="chapter-vii"></a>
-## Chapter VII – b
-
-Free flow of non-personal data **within** **~~in~~** the Union’
+<a id="chapter-viib"></a>
+## Chapter VIIb – Free flow of non-personal data within ~~in~~ the Union’
 
 <a id="art-32h"></a>
 ### Article 32h – Prohibition of localisation requirements for non-personal data within the Union
@@ -1030,7 +1028,9 @@ Scope and General Principles
 <a id="art-32o"></a>
 ### Article 32o – ~~Processing requests for re-use~~
 
-**~~and shall deliver the data or documents for re-use to the applicant or, if a~~** **~~licence is needed, finalise the licence offer to the applicant as soon as possible,~~** **~~and in any event within 20 working days of receipt. That time frame may be~~** **~~extended by a further 20 working days in the case of extensive or complex~~** **~~requests. In such cases, the applicant shall be notified as soon as possible, and in~~** **~~any event within three weeks of the initial request, that more time is needed to~~** **~~process the request and the reasons why.~~**
+- ~~(1)~~ **~~Public sector bodies shall, through electronic means where possible and~~** **~~appropriate, process requests for re-use and shall make the document available~~** **~~for re-use to the applicant or, if a licence is needed, finalise the licence offer to~~** **~~the applicant within a reasonable time that is consistent with the time frames~~** **~~laid down for the processing of requests for access to data or documents.~~**
+
+- ~~(2)~~ **~~Where no time limits or other rules regulating the timely provision of data or~~** **~~documents have been established, public sector bodies shall process the request~~** **~~and shall deliver the data or documents for re-use to the applicant or, if a~~** **~~licence is needed, finalise the licence offer to the applicant as soon as possible,~~** **~~and in any event within 20 working days of receipt. That time frame may be~~** **~~extended by a further 20 working days in the case of extensive or complex~~** **~~requests. In such cases, the applicant shall be notified as soon as possible, and in~~** **~~any event within three weeks of the initial request, that more time is needed to~~** **~~process the request and the reasons why.~~**
 
 - ~~(3)~~ **~~In the event of a negative decision, the public sector bodies shall communicate~~** **~~the grounds for refusal to the applicant on the basis of the relevant provisions of~~** **~~the access regime in that Member State or the provisions of this Regulation, in~~** **~~particular points (a) to (c) of paragraph 2 of Article 32i and points (a) to (d) of~~** **~~paragraph 3 of Article 32i or Article 32n (general principle ODD Section).~~** **~~Where a negative decision is based on point (d) of paragraph 3 of Article 32i,~~** **~~the public sector body shall include a reference to the natural or legal person~~** **~~who is the rightsholder, where known, or alternatively to the licensor from~~** **~~which the public sector body has obtained the relevant material. Libraries,~~** **~~including university libraries, museums and archives, shall not be required to~~** **~~include such a reference.~~**
 
@@ -1716,6 +1716,17 @@ The controller shall bear the burden of demonstrating**, in the light of all the
 
 **~~This paragraph also applies to the subsequent processing of personal data based~~** **~~on consent.~~**
 
+- ~~(5)~~ **~~This Article shall apply from [OP: please insert the date = 6 months following~~** **~~the date of entry into force of this Regulation]~~**
+
+<a id="art-88b"></a>
+### Article 88b – ~~Automated and machine-readable indications of data subject’s choices with respect to processing of personal data in the terminal equipment of natural persons~~
+
+- ~~(1)~~ **~~Controllers shall ensure that their online interfaces allow data subjects to:~~**
+
+  - ~~(a)~~ **~~Give consent through automated and machine-readable means, provided~~** **~~that the conditions for consent laid down in this Regulation are fulfilled;~~**
+
+  - ~~(b)~~ **~~decline a request for consent and exercise the right to object pursuant to~~** **~~Article 21(2) through automated and machine-readable means.~~**
+
 ~~(ba)~~
 
 - ~~(2)~~ **~~Controllers shall respect the choices made by data subjects in accordance with~~** **~~paragraph 1.~~**
@@ -1725,6 +1736,17 @@ The controller shall bear the burden of demonstrating**, in the light of all the
 - ~~(4)~~ **~~The Commission shall, in accordance with Article 10(1) of Regulation (EU)~~** **~~1025/2012, request one or more European standardisation organisations to draft~~** **~~standards for the interpretation of machine-readable indications of data~~** **~~subjects’ choices.~~**
 
 **~~Online interfaces of controllers which are in conformity with harmonised~~** **~~standards or parts thereof the references of which have been published in the~~** **~~Official Journal of the European Union shall be presumed to be in conformity with~~** **~~the requirements covered by those standards or parts thereof, set out in~~** **~~paragraph 1.~~**
+
+- ~~(5)~~ **~~Paragraphs 1 and 2 shall apply from [OP: please insert the date = 24 months~~** **~~following the date of entry into force of this Regulation].~~**
+
+- ~~(6)~~ **~~Providers of web browsers, which are not SMEs, shall provide the technical~~** **~~means to allow data subjects to give their consent and to refuse a request for~~** **~~consent and exercise the right to object pursuant to Article 21(2) through the~~** **~~automated and machine-readable means referred to in paragraph 1 of this~~** **~~Article, as applied pursuant to paragraphs 2 to 5 of this Article.~~**
+
+- ~~(7)~~ **~~Paragraph 6 shall apply from [OP: please insert the date = 48 months following~~** **~~the date of entry into force of this Regulation].~~**
+
+~~7a.~~
+
+<a id="art-88c"></a>
+### Article 88c – ~~Processing in the context of the development and operation of AI~~
 
 **~~Where the processing of personal data is necessary for the interests of the~~** **~~controller in the context of the development and operation of an AI system as~~** **~~defined in Article 3, point (1), of Regulation (EU) 2024/1689 or an AI model, such~~** **~~processing may be pursued for legitimate interests within the meaning of Article~~** **~~6(1)(f) of Regulation (EU) 2016/679, where appropriate, except where other Union~~** **~~or national laws explicitly require consent, and where such interests are~~** **~~overridden by the interests, or fundamental rights and freedoms of the data~~** **~~subject which require protection of personal data, in particular where the data~~** **~~subject is a child.~~**
 
@@ -1805,7 +1827,11 @@ Regulation (EU) 2018/1725 is amended as follows:
 
   - (2) **The application of pseudonymisation to personal data may, depending on the** **circumstances of the case and provided that appropriate technical and organisational** **measures are put in place and are such as to prevent the data in question from being** **attributed to the data subject, effectively prevent persons other than the controller** **from identifying the data subject in such a way that, for them, the data subject is not** **or is no longer identifiable.**
 
-  - (2a) ++**Where a person other than the controller referred to in paragraph 2 discloses,**++ ++**transmits or otherwise makes such data available to a third party and it cannot be**++ ++**ruled out that this third party possesses or can obtain means reasonably likely to**++ ++**enable the data subject to be identified, both the transmission of the data to this third**++ ++**party and the subsequent processing of the data by this third party is to be considered**++ ++**as processing of data relating to an identifiable natural person.**++ **pseudonymisation and anonymisation, including the related circumstances and** **technical and organisational measures referred to paragraph 2.’**
+  - (2a) ++**Where a person other than the controller referred to in paragraph 2 discloses,**++ ++**transmits or otherwise makes such data available to a third party and it cannot be**++ ++**ruled out that this third party possesses or can obtain means reasonably likely to**++ ++**enable the data subject to be identified, both the transmission of the data to this third**++ ++**party and the subsequent processing of the data by this third party is to be considered**++ ++**as processing of data relating to an identifiable natural person.**++
+
+  - (3) **Paragraphs 1 and 2 are without prejudice to other provisions and obligations** **applicable to the controller, including under Chapter IV and V of this Regulation.** **The provision set out in paragraph 2 shall not apply to processors.**
+
+  - (4) **The European Data Protection Board shall issue an opinion, in accordance** **with Article 64(2) of the Regulation (EU) 2016/679, addressing the application of** **pseudonymisation and anonymisation, including the related circumstances and** **technical and organisational measures referred to paragraph 2.’**
 
 7. in Article 34, paragraph 1 is replaced by the following
 
@@ -1836,6 +1862,14 @@ Regulation (EU) 2018/1725 is amended as follows:
   - (c) ++**~~if the data subject~~**++ ++~~refuses~~++**~~declines~~** ++**~~a request for consent, the controller shall~~**++ ++**~~not make a new request for consent for the same purpose for a period of at~~**++ ++**~~least six months.~~**++
 
 ++**~~This paragraph also applies to the subsequent processing of personal data based~~**++ ++**~~on consent.~~**++
+
+- (6) ++**~~This Article shall apply from [OP: please insert the date = 6 months following~~**++ ++**~~the date of entry into force of this Regulation] ]~~**++
+
+- ~~(7)~~ **~~Controllers shall ensure that their online interfaces allow data subjects to:~~**
+
+  - ~~(a)~~ **~~give consent through automated and machine-readable means, provided~~** **~~that the conditions for consent laid down in this Regulation are fulfilled;~~**
+
+  - ~~(b)~~ **~~decline a request for consent through automated and machine-readable~~** **~~means.~~**
 
 - ~~(8)~~ **~~Controllers shall respect the choices made by data subjects in accordance with~~** **~~paragraph 7.~~**
 
@@ -2171,25 +2205,3 @@ Article 7 Repealed Article 8 Repealed Article 9 Repealed
 ^(18) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
 
 ^(2018) on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
-
-^(1) Public sector bodies shall, through electronic means where possible and appropriate, process requests for re-use and shall make the document available for re-use to the applicant or, if a licence is needed, finalise the licence offer to the applicant within a reasonable time that is consistent with the time frames laid down for the processing of requests for access to data or documents.
-
-^(2) Where no time limits or other rules regulating the timely provision of data or documents have been established, public sector bodies shall process the request
-
-^(5) This Article shall apply from [OP: please insert the date = 6 months following the date of entry into force of this Regulation] Article 88b Automated and machine-readable indications of data subject’s choices with respect to processing of personal data in the terminal equipment of natural persons
-
-^(1) Controllers shall ensure that their online interfaces allow data subjects to: (a) Give consent through automated and machine-readable means, provided that the conditions for consent laid down in this Regulation are fulfilled; (b) decline a request for consent and exercise the right to object pursuant to Article 21(2) through automated and machine-readable means.
-
-^(5) Paragraphs 1 and 2 shall apply from [OP: please insert the date = 24 months following the date of entry into force of this Regulation].
-
-^(6) Providers of web browsers, which are not SMEs, shall provide the technical means to allow data subjects to give their consent and to refuse a request for consent and exercise the right to object pursuant to Article 21(2) through the automated and machine-readable means referred to in paragraph 1 of this Article, as applied pursuant to paragraphs 2 to 5 of this Article.
-
-^(7) Paragraph 6 shall apply from [OP: please insert the date = 48 months following the date of entry into force of this Regulation]. 7a. Article 88c Processing in the context of the development and operation of AI
-
-^(3) Paragraphs 1 and 2 are without prejudice to other provisions and obligations applicable to the controller, including under Chapter IV and V of this Regulation. The provision set out in paragraph 2 shall not apply to processors.
-
-^(4) The European Data Protection Board shall issue an opinion, in accordance with Article 64(2) of the Regulation (EU) 2016/679, addressing the application of
-
-^(6) This Article shall apply from [OP: please insert the date = 6 months following the date of entry into force of this Regulation] ]
-
-^(7) Controllers shall ensure that their online interfaces allow data subjects to: (a) give consent through automated and machine-readable means, provided that the conditions for consent laid down in this Regulation are fulfilled; (b) decline a request for consent through automated and machine-readable means.

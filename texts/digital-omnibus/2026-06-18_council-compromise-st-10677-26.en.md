@@ -781,10 +781,8 @@ The registration in the public Union register shall be valid in all Member State
 
 Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall** **be notified to the Commission. The Commission shall remove the entity from** **the public Union register.** **~~.~~**
 
-<a id="chapter-vii"></a>
-## Chapter VII – b
-
-Free flow of non-personal data **within** **~~in~~** the Union’
+<a id="chapter-viib"></a>
+## Chapter VIIb – Free flow of non-personal data within ~~in~~ the Union’
 
 <a id="art-32h"></a>
 ### Article 32h – Prohibition of localisation requirements for non-personal data within the Union

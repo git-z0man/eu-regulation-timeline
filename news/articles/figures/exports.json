@@ -1,0 +1,42 @@
+{
+  "enisa-consultations-channels.de": {
+    "pdf": "enisa-consultations-channels.de.pdf",
+    "png": "enisa-consultations-channels.de.png",
+    "svg_sha256": "32625891b9b0d9d51c4def455568158276ea0100cbed5f989d77909cbeb954bb"
+  },
+  "enisa-consultations-channels.en": {
+    "pdf": "enisa-consultations-channels.en.pdf",
+    "png": "enisa-consultations-channels.en.png",
+    "svg_sha256": "3bdafca7f517a9d5d06ea2508cabce60028354b2cd25391913da235d118b290e"
+  },
+  "enisa-consultations-needs.de": {
+    "pdf": "enisa-consultations-needs.de.pdf",
+    "png": "enisa-consultations-needs.de.png",
+    "svg_sha256": "6bafaa554c7cee9922ca0faf9c6464a1e7a228b228c2631c5281bece529eb3ff"
+  },
+  "enisa-consultations-needs.en": {
+    "pdf": "enisa-consultations-needs.en.pdf",
+    "png": "enisa-consultations-needs.en.png",
+    "svg_sha256": "ad01021907cead4c47c8befe49bfd0ed3a6ef90ce1d8db72893e82da44a515bf"
+  },
+  "enisa-consultations-periods.de": {
+    "pdf": "enisa-consultations-periods.de.pdf",
+    "png": "enisa-consultations-periods.de.png",
+    "svg_sha256": "b9a546aaca48d51622c433269687f939d7633bc97394b935ba583729116cbbbf"
+  },
+  "enisa-consultations-periods.en": {
+    "pdf": "enisa-consultations-periods.en.pdf",
+    "png": "enisa-consultations-periods.en.png",
+    "svg_sha256": "c6a98e31ce40f675f4aef8191776c76844a852aeb8c134c69d76dab515e26579"
+  },
+  "enisa-consultations-volume.de": {
+    "pdf": "enisa-consultations-volume.de.pdf",
+    "png": "enisa-consultations-volume.de.png",
+    "svg_sha256": "01f9a0f27df6d29270fb157833b61a738b5549eb975e884fd1e49da016159cee"
+  },
+  "enisa-consultations-volume.en": {
+    "pdf": "enisa-consultations-volume.en.pdf",
+    "png": "enisa-consultations-volume.en.png",
+    "svg_sha256": "32ead440b01613d8db35809757ac061c811715149073e91f630aa3ca193b69d6"
+  }
+}

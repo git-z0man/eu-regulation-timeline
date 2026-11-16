@@ -1824,7 +1824,7 @@ For the European Parliament For the Council The President The President
 ## Annex II – Low-carbon and Union origin requirements for energy intensive industries
 
 <a id="annex-ii-part-i"></a>
-### Part I – ~~Part I –~~ Public procurement procedures
+### Part I – Public procurement procedures
 
 Where, in the context of public procurement procedures ~~launched~~ **for which the call for** **competition or commencement takes place** on or after 1 January 2029 falling within the scope of Directives 2014/23/EU, 2014/24/EU or 2014/25/EU, where the contracts, works contracts or work concessions include the procurement of products ~~from energy intensive industries~~ **set out under** **points (a) to (c)**, contracting authorities **and contracting entities** shall require the following minimum percentage shares:
 
@@ -1837,7 +1837,7 @@ Where, in the context of public procurement procedures ~~launched~~ **for which 
 **Where the delegated acts and harmonised technical specifications or European Technical** **Assessments establishing the relevant criteria and methodology referred to in Article 7b have** **not entered into force at least six months before the date referred to in the first paragraph, the** **application of the requirements set out in this Part shall be postponed until six months after** **the entry into force of those delegated acts.**
 
 <a id="annex-ii-part-ii"></a>
-### Part II – ~~Part II –~~ Other forms of public intervention
+### Part II – Other forms of public intervention
 
 For schemes established or updated on or after 1 January 2029 that benefit households or companies and that primarily aim to support the construction or renovation of buildings for residential and commercial purposes and infrastructure and the lease and purchase of motor vehicles for civil purposes, Member States, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law, shall ensure that only beneficiaries that comply with the following minimum requirements, are eligible.
 
@@ -1872,7 +1872,7 @@ For schemes established or updated on or after 1 January 2029 that benefit house
 The requirements set out in points d), e) and f) apply from [OP: please insert date 3 years after the date of entry into force of this Regulation].
 
 <a id="annex-iii-part-ii"></a>
-### Part ~~I~~ II – ~~Part I –~~ Public procurement procedures of electric vehicles
+### Part ~~I~~ II – Public procurement procedures of electric vehicles
 
 New pure electric vehicles (PEV), off-vehicle charging hybrid electric vehicles (OVC-HEV) or fuel cell vehicles (FCV) purchased, leased, rented or hire-purchased in public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, ~~launched~~ **for which** **the call for competition has been sent or commencement takes place** on or after [OP: Please insert the date = six months after the date of entry into force of this Regulation] shall comply with ~~the~~ Union origin requirements set out **above in Part I of** ~~in~~ this Annex **and the definition of** **Union Origin as per Article 8 of this regulation**.
 
@@ -1909,7 +1909,7 @@ New PEV, OVC-HEV and FCV that are used for the provision of services sourced thr
 Where public procurement procedures concern public service contracts ~~referred to in~~ ~~subparagraph 2,~~ **, motor** vehicles already registered in the Union shall be deemed to comply with the **Union origin** requirements set out in this Annex until 31 December 2035.
 
 <a id="annex-iii-part-iii"></a>
-### Part ~~II~~ III – ~~Part II –~~ Other forms of public intervention ~~and financial~~
+### Part ~~II~~ III – Other forms of public intervention ~~and financial~~
 
 **~~support for corporate vehicles~~**
 
@@ -1944,7 +1944,7 @@ For schemes established or updated after [OP: Please insert the date = six month
 ~~Upon request of a vehicle manufacturer, all PEV, OVC-HEV or FCV from that vehicle~~ ~~manufacturer can be considered compliant, for a period of twelve months, with the Un ion origin~~ ~~requirements if the manufacturer demonstrates that all PEV, OVC-HEV or FCV compliant with the~~ ~~Union origin requirements that were assembled by that vehicle manufacturer during the period~~ ~~comprised between 1 January and 31 December (included) of the previous year represent a~~ ~~percentage equal or greater than 85% of the total number of PEV, OVC-HEV or FCV from the~~ ~~same vehicle manufacturer that were registered within the Union in the same period.~~
 
 <a id="annex-iii-part-iv"></a>
-### Part ~~III~~ IV – ~~Part III –~~ Super credits for small zero-emission vehicles
+### Part ~~III~~ IV – Super credits for small zero-emission vehicles
 
 For the purpose of considering vehicles as “made in the EU” in accordance with Article 5 of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission performance standards for new light duty vehicles and vehicle labelling], the ~~following criteria~~ **definition of Union origin in Article 7 of** **this regulation and the below requirements** apply ~~:~~ **.**
 

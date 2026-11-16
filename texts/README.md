@@ -148,6 +148,7 @@ All texts of this act as one file: [chips-act-2.zip](downloads/chips-act-2.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0504 | [en](chips-act-2/2026-06-03_com-proposal.en.md) | [de](chips-act-2/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0504) |
+| 2026-09-29_council-compromise-st-13545-26 | council-compromise | ST 13545/26 | [en](chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-13545-2026-INIT/en/pdf) |
 
 ## CADA
 
@@ -158,6 +159,7 @@ All texts of this act as one file: [cloud-ai-development-act.zip](downloads/clou
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0502 | [en](cloud-ai-development-act/2026-06-03_com-proposal.en.md) | [de](cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0502) |
+| 2026-11-13_council-progress-report-st-15300-26 | council-progress-report | ST 15300/26 | [en](cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf) |
 
 ## ECF
 
@@ -634,6 +636,26 @@ All texts of this act as one file: [gpsr.zip](downloads/gpsr.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2015-11-25_commission-decision | commission-decision | – | [en](gpsr/sreq-m538/2015-11-25_commission-decision.en.md) | [de](gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/gpsr/sreq-m538/2015-11-25_commission-decision.de.md) | [source](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2015)8011&lang=de) |
 
+## BSI NIS-2 checklist
+
+`guidance/bsi/nis2-checkliste` – NIS-2-Checkliste. NIS-2 – Was Unternehmen jetzt tun sollten
+
+All texts of this act as one file: [guidance-bsi-nis2-checkliste.zip](downloads/guidance-bsi-nis2-checkliste.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-15_final | final | – | – | [de](guidance/bsi/nis2-checkliste/2026-11-15_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-checkliste/2026-11-15_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-checkliste.pdf?__blob=publicationFile&v=9) |
+
+## BSI registration procedure (§ 33(6) BSIG)
+
+`guidance/bsi/nis2-registrierungsverfahren` – Festlegung der Einzelheiten zur Ausgestaltung des Registrierungsverfahrens gemäß § 33 Absatz 6 BSIG, Version 1.0, 26.06.2026
+
+All texts of this act as one file: [guidance-bsi-nis2-registrierungsverfahren.zip](downloads/guidance-bsi-nis2-registrierungsverfahren.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-26_final | final | – | – | [de](guidance/bsi/nis2-registrierungsverfahren/2026-06-26_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-registrierungsverfahren/2026-06-26_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KRITIS/ausgestaltung_registrierungsverfahren.pdf?__blob=publicationFile&v=4) |
+
 ## CJEU C-588/21 P Public.Resource.Org
 
 `guidance/cjeu/c-588-21-p` – Judgment of the Court (Grand Chamber) of 5 March 2024, Public.Resource.Org, Inc. and Right to Know CLG v European Commission, Case C-588/21 P, EU:C:2024:201
@@ -716,6 +738,16 @@ All texts of this act as one file: [guidance-commission-c-2025-5053.zip](downloa
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-07-29_final | final | – | [en](guidance/commission/c-2025-5053/2025-07-29_final.en.md) | [de](guidance/commission/c-2025-5053/2025-07-29_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2025-5053/2025-07-29_final.de.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/118628) |
 
+## Opinion C(2025) 5361 (GPAI Code)
+
+`guidance/commission/c-2025-5361` – Commission Opinion C(2025) 5361 on the assessment of the General-Purpose AI Code of Practice
+
+All texts of this act as one file: [guidance-commission-c-2025-5361.zip](downloads/guidance-commission-c-2025-5361.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-08-01_final | final | – | [en](guidance/commission/c-2025-5361/2025-08-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2025-5361/2025-08-01_final.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/118688) |
+
 ## AI Act guidelines on GPAI obligations C(2025) 7719
 
 `guidance/commission/c-2025-7719` – Communication from the Commission, Commission Guidelines on the scope of the obligations for providers of general-purpose AI models established by Regulation (EU) 2024/1689 (AI Act), C(2025) 7719 final of 19 November 2025
@@ -796,6 +828,16 @@ All texts of this act as one file: [guidance-commission-gpsr-guidelines-2025.zip
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-11-21_final | final | 52025XC06233 | [en](guidance/commission/gpsr-guidelines-2025/2025-11-21_final.en.md) | [de](guidance/commission/gpsr-guidelines-2025/2025-11-21_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/gpsr-guidelines-2025/2025-11-21_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025XC06233) |
 
+## LVD Guide 2018
+
+`guidance/commission/lvd-guide-2018` – Guidelines on the application of the Low Voltage Directive 2014/35/EU (LVD Guide, August 2018)
+
+All texts of this act as one file: [guidance-commission-lvd-guide-2018.zip](downloads/guidance-commission-lvd-guide-2018.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2018-08-14_final | final | – | [en](guidance/commission/lvd-guide-2018/2018-08-14_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/lvd-guide-2018/2018-08-14_final.en.md) | [source](https://ec.europa.eu/docsroom/documents/31221/attachments/1/translations/en/renditions/native) |
+
 ## Machinery Regulation Art. 6(5) data guidance
 
 `guidance/commission/machinery-data-notice-2024` – Commission Notice, Guidance to the Member States for the collection of the data and the information referred to in Article 6(5), points (a) to (d), of Regulation (EU) 2023/1230 (C/2024/6142), OJ C, 14.10.2024
@@ -805,6 +847,26 @@ All texts of this act as one file: [guidance-commission-machinery-data-notice-20
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-10-14_final | final | 52024XC06142 | [en](guidance/commission/machinery-data-notice-2024/2024-10-14_final.en.md) | [de](guidance/commission/machinery-data-notice-2024/2024-10-14_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/machinery-data-notice-2024/2024-10-14_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52024XC06142) |
+
+## Machinery Directive guide 2.3
+
+`guidance/commission/machinery-directive-guide-2-3` – Guide to the application of the Machinery Directive 2006/42/EC (Edition 2.3) April 2024
+
+All texts of this act as one file: [guidance-commission-machinery-directive-guide-2-3.zip](downloads/guidance-commission-machinery-directive-guide-2-3.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-04-25_final | final | – | [en](guidance/commission/machinery-directive-guide-2-3/2024-04-25_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/machinery-directive-guide-2-3/2024-04-25_final.en.md) | [source](https://ec.europa.eu/docsroom/documents/60145/attachments/1/translations/en/renditions/native) |
+
+## MDCG 2025-6 (MDR/IVDR and the AI Act)
+
+`guidance/commission/mdcg-2025-6` – MDCG 2025-6, Interplay between MDR/IVDR and the AI Act (joint MDCG and AIB document, June 2025)
+
+All texts of this act as one file: [guidance-commission-mdcg-2025-6.zip](downloads/guidance-commission-mdcg-2025-6.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-19_final | final | – | [en](guidance/commission/mdcg-2025-6/2025-06-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/mdcg-2025-6/2025-06-19_final.en.md) | [source](https://health.ec.europa.eu/document/download/b78a17d7-e3cd-4943-851d-e02a2f22bbb4_en?filename=mdcg_2025-6_en.pdf) |
 
 ## MSR Art. 4 guidelines
 
@@ -1912,6 +1974,16 @@ All texts of this act as one file: [guidance-commission-recommendation-2019-534.
 | --- | --- | --- | --- | --- | --- | --- |
 | 2019-03-26_final | final | 32019H0534 | [en](guidance/commission/recommendation-2019-534/2019-03-26_final.en.md) | [de](guidance/commission/recommendation-2019-534/2019-03-26_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/recommendation-2019-534/2019-03-26_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019H0534) |
 
+## RED FAQ
+
+`guidance/commission/red-faq-2017` – FAQs - Radio Equipment Directive (RE-D)
+
+All texts of this act as one file: [guidance-commission-red-faq-2017.zip](downloads/guidance-commission-red-faq-2017.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2017-08-07_final | final | – | [en](guidance/commission/red-faq-2017/2017-08-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/red-faq-2017/2017-08-07_final.en.md) | [source](https://single-market-economy.ec.europa.eu/document/download/eaa8a3d6-61c3-41b1-b14c-5067c693bd52_en?filename=RED-FAQ.pdf) |
+
 ## RED Guide 2026
 
 `guidance/commission/red-guide-2026` – Guide to the Radio Equipment Directive - Directive 2014/53/EU, version 07.07.2026
@@ -2123,6 +2195,36 @@ All texts of this act as one file: [guidance-enisa-composite-product-evaluation-
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-06_final | final | – | [en](guidance/enisa/composite-product-evaluation-smart-cards-similar-devices/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/composite-product-evaluation-smart-cards-similar-devices/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/8243df3e-9655-4650-a304-40c02e463442_en?filename=EUCC_state_of_the_art_Composite%20evaluation%20Smart%20Cards_CC3.1%20v2%20%28final%29.pdf) |
 
+## CRA Single Reporting Platform AR User Manual
+
+`guidance/enisa/cra-single-reporting-platform-ar-user-manual` – CRA Single Reporting Platform AR User Manual
+
+All texts of this act as one file: [guidance-enisa-cra-single-reporting-platform-ar-user-manual.zip](downloads/guidance-enisa-cra-single-reporting-platform-ar-user-manual.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-17_final | final | – | [en](guidance/enisa/cra-single-reporting-platform-ar-user-manual/2026-09-17_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/cra-single-reporting-platform-ar-user-manual/2026-09-17_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-09/CRA%20SRP%20--%20AR%20User%20Manual.pdf) |
+
+## CRA Single Reporting Platform Factsheet
+
+`guidance/enisa/cra-single-reporting-platform-factsheet` – CRA Single Reporting Platform Factsheet
+
+All texts of this act as one file: [guidance-enisa-cra-single-reporting-platform-factsheet.zip](downloads/guidance-enisa-cra-single-reporting-platform-factsheet.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-31_final | final | – | [en](guidance/enisa/cra-single-reporting-platform-factsheet/2026-07-31_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/cra-single-reporting-platform-factsheet/2026-07-31_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA_CRA_SRP_Factsheet_v1.0_0.pdf) |
+
+## CRA Single Reporting Platform Terms and Conditions
+
+`guidance/enisa/cra-single-reporting-platform-terms-conditions` – CRA Single Reporting Platform Terms and Conditions
+
+All texts of this act as one file: [guidance-enisa-cra-single-reporting-platform-terms-conditions.zip](downloads/guidance-enisa-cra-single-reporting-platform-terms-conditions.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-10_final | final | – | [en](guidance/enisa/cra-single-reporting-platform-terms-conditions/2026-09-10_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/cra-single-reporting-platform-terms-conditions/2026-09-10_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-09/Terms%20and%20conditions%20CRA%20SRP%20v1.0%2020260910.pdf) |
+
 ## Cyber Resilience Act implementation via EUCC and its applicable techni
 
 `guidance/enisa/cyber-resilience-act-implementation-via-eucc-its` – Cyber Resilience Act implementation via EUCC and its applicable technical elements
@@ -2162,6 +2264,26 @@ All texts of this act as one file: [guidance-enisa-eccg-agreed-cryptographic-mec
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05-07_draft | draft | – | [en](guidance/enisa/eccg-agreed-cryptographic-mechanisms/2026-05-07_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eccg-agreed-cryptographic-mechanisms/2026-05-07_draft.en.md) | [source](https://certification.enisa.europa.eu/document/download/9993abb8-5f27-47d0-bdb2-f6f284cd5141_en?filename=20260507-acm-draft.pdf) |
+
+## ECCG Agreed Cryptographic Mechanisms version 2.0 (April 2025)
+
+`guidance/enisa/eccg-agreed-cryptographic-mechanisms-version-2` – ECCG Agreed Cryptographic Mechanisms version 2.0 (April 2025)
+
+All texts of this act as one file: [guidance-enisa-eccg-agreed-cryptographic-mechanisms-version-2.zip](downloads/guidance-enisa-eccg-agreed-cryptographic-mechanisms-version-2.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-04-30_final | final | – | [en](guidance/enisa/eccg-agreed-cryptographic-mechanisms-version-2/2025-04-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eccg-agreed-cryptographic-mechanisms-version-2/2025-04-30_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/a845662b-aee0-484e-9191-890c4cfa7aaa_en?filename=ECCG%20Agreed%20Cryptographic%20Mechanisms%20version%202.pdf) |
+
+## ECCG Opinion on the EUCC Guidance on Cryptography, Agreed Cryptographi
+
+`guidance/enisa/eccg-opinion-eucc-guidance-cryptography-agreed-cryptographic` – ECCG Opinion on the EUCC Guidance on Cryptography, Agreed Cryptographic Mechanisms version 0.2
+
+All texts of this act as one file: [guidance-enisa-eccg-opinion-eucc-guidance-cryptography-agreed-cryptographic.zip](downloads/guidance-enisa-eccg-opinion-eucc-guidance-cryptography-agreed-cryptographic.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-07-05_final | final | – | [en](guidance/enisa/eccg-opinion-eucc-guidance-cryptography-agreed-cryptographic/2024-07-05_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/eccg-opinion-eucc-guidance-cryptography-agreed-cryptographic/2024-07-05_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/3b8d78a4-6bbf-4e70-977a-0f091e0482e0_en?filename=Final%20Opinion%20on%20ENISA%20guidance%20on%20crypto_endorsed%20by%20ECCG.pdf) |
 
 ## EUCC Guidelines on Cryptography
 
@@ -2243,6 +2365,16 @@ All texts of this act as one file: [guidance-enisa-hardware-assessment-en-hsm-pp
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-19_final | final | – | [en](guidance/enisa/hardware-assessment-en-hsm-pp/2025-12-19_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/hardware-assessment-en-hsm-pp/2025-12-19_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/c0cb0cdf-046e-440e-9994-1146c27b96d0_en?filename=EUCC_state_of_the_art_HSM%20PP%20v1%20%28final%29.pdf) |
 
+## Hybridization of traditional cryptographic mechanisms with PQC: standa
+
+`guidance/enisa/hybridization-traditional-cryptographic-mechanisms-with-pqc-standardisation` – Hybridization of traditional cryptographic mechanisms with PQC: standardisation status
+
+All texts of this act as one file: [guidance-enisa-hybridization-traditional-cryptographic-mechanisms-with-pqc-standardisation.zip](downloads/guidance-enisa-hybridization-traditional-cryptographic-mechanisms-with-pqc-standardisation.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-30_final | final | – | [en](guidance/enisa/hybridization-traditional-cryptographic-mechanisms-with-pqc-standardisation/2026-04-30_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/hybridization-traditional-cryptographic-mechanisms-with-pqc-standardisation/2026-04-30_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/02f54596-6a99-4c9e-88c4-8c711ebff9c1_en?filename=ENISA%20report%20-%20Hybridization%20of%20traditional%20cryptographic%20mechanisms%20with%20PQC%20-%20Standardisation%20Status%20-%2030%20April%202026%20.pdf) |
+
 ## Joint statement on refrigeration incidents
 
 `guidance/enisa/joint-statement-refrigeration-2026` – Joint statement on cyber incidents in refrigeration systems across the EU (ENISA, European Commission (DG CNECT), Europol EC3, EU CSIRTs Network, EU-CyCLONe), news item of 4 November 2026
@@ -2252,6 +2384,26 @@ All texts of this act as one file: [guidance-enisa-joint-statement-refrigeration
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-04_final | final | – | [en](guidance/enisa/joint-statement-refrigeration-2026/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/joint-statement-refrigeration-2026/2026-11-04_final.en.md) | [source](https://www.enisa.europa.eu/news/joint-statement-on-cyber-incidents-in-refrigeration-systems-across-the-eu) |
+
+## Management Board Decision MB/2020/2 on the Establishment and Operation
+
+`guidance/enisa/management-board-decision-mb-2020-establishment-operation` – Management Board Decision MB/2020/2 on the Establishment and Operation of the Advisory Group
+
+All texts of this act as one file: [guidance-enisa-management-board-decision-mb-2020-establishment-operation.zip](downloads/guidance-enisa-management-board-decision-mb-2020-establishment-operation.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2020-02-03_final | final | – | [en](guidance/enisa/management-board-decision-mb-2020-establishment-operation/2020-02-03_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/management-board-decision-mb-2020-establishment-operation/2020-02-03_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/all_files/Rules%20on%20the%20Establishment%20and%20Operation%20of%20the%20Advisory%20Group.pdf) |
+
+## Management Board Decision MB/2025/13 setting up the ENISA Advisory Gro
+
+`guidance/enisa/management-board-decision-mb-2025-setting-up` – Management Board Decision MB/2025/13 setting up the ENISA Advisory Group
+
+All texts of this act as one file: [guidance-enisa-management-board-decision-mb-2025-setting-up.zip](downloads/guidance-enisa-management-board-decision-mb-2025-setting-up.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-11_final | final | – | [en](guidance/enisa/management-board-decision-mb-2025-setting-up/2025-07-11_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/management-board-decision-mb-2025-setting-up/2025-07-11_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-07/MB%20Decision%202025-13%20setting%20up%20the%20ENISA%20Advisory%20Group.pdf) |
 
 ## Minimum ITSEF requirements for security evaluations of smart cards and
 
@@ -2634,6 +2786,18 @@ All texts of this act as one file: [lvd.zip](downloads/lvd.zip)
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2014-03-29_oj | oj | 32014L0035 | [en](lvd/2014-03-29_oj.en.md) | [de](lvd/2014-03-29_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/lvd/2014-03-29_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0035) |
+
+## MD
+
+`machinery-directive` – Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC (recast)
+
+All texts of this act as one file: [machinery-directive.zip](downloads/machinery-directive.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2006-06-09_oj | oj | 32006L0042 | [en](machinery-directive/2006-06-09_oj.en.md) | [de](machinery-directive/2006-06-09_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-directive/2006-06-09_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006L0042) |
+| 2007-03-16_corrigendum-02 | corrigendum | 32006L0042R(02) | [en](machinery-directive/2007-03-16_corrigendum-02.en.md) | [de](machinery-directive/2007-03-16_corrigendum-02.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-directive/2007-03-16_corrigendum-02.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006L0042R(02)) |
+| 2026-05-30_consolidated | consolidated | 02006L0042-20260530 | [en](machinery-directive/2026-05-30_consolidated.en.md) | [de](machinery-directive/2026-05-30_consolidated.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-directive/2026-05-30_consolidated.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02006L0042-20260530) |
 
 ## MR
 
@@ -3136,6 +3300,7 @@ All texts of this act as one file: [space-act.zip](downloads/space-act.zip)
 | 2026-03-30_council-compromise-st-7806-26 | council-compromise | ST 7806/26 | [en](space-act/2026-03-30_council-compromise-st-7806-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-03-30_council-compromise-st-7806-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf) |
 | 2026-05-08_council-progress-report-st-8861-26 | council-progress-report | ST 8861/26 | [en](space-act/2026-05-08_council-progress-report-st-8861-26.en.md) | [de](space-act/2026-05-08_council-progress-report-st-8861-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-05-08_council-progress-report-st-8861-26.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/de/pdf) |
 | 2026-10-29_council-compromise-st-15118-26 | council-compromise | ST 15118/26 | [en](space-act/2026-10-29_council-compromise-st-15118-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-10-29_council-compromise-st-15118-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf) |
+| 2026-11-13_council-progress-report-st-15547-26 | council-progress-report | ST 15547/26 | [en](space-act/2026-11-13_council-progress-report-st-15547-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-11-13_council-progress-report-st-15547-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15547-2026-INIT/en/pdf) |
 
 ## Reg. 2022/2480
 

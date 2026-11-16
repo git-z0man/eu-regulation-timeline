@@ -9,7 +9,7 @@ retrieved: '2026-11-04'
 converter: tools/pdf2md.py
 counts:
   recitals: 88
-  articles: 40
+  articles: 41
   annexes: 2
 official_source: https://data.consilium.europa.eu/doc/document/ST-13112-2026-INIT/en/pdf
 reuse: '© European Union, Council of the EU (Council register). Reuse: Council Decision (EU) 2017/1842, Article 6: source acknowledged, meaning not distorted, no liability of the Council.'
@@ -818,10 +818,8 @@ The registration in the public Union register shall be valid in all Member State
 
 Any decision revoking the right to use the label as referred to in the first subparagraph, point (a), shall be made public by the competent authority **and shall be notified to the** **Commission. The Commission shall remove the entity from the public Union** **register.** **~~.~~**
 
-<a id="chapter-vii"></a>
-## Chapter VII – b
-
-Free flow of non-personal data **within** **~~in~~** the Union’
+<a id="chapter-viib"></a>
+## Chapter VIIb – Free flow of non-personal data within ~~in~~ the Union’
 
 <a id="art-32h"></a>
 ### Article 32h – Prohibition of localisation requirements for non-personal data within the Union
@@ -1708,6 +1706,19 @@ The controller shall bear the burden of demonstrating **~~that~~** ++**that**++ 
 
 **~~This paragraph also applies to the subsequent processing of personal data based~~** **~~on consent.~~**
 
+- ~~(5)~~ **~~This Article shall apply from [OP: please insert the date = 6 months following~~** **~~the date of entry into force of this Regulation]~~**
+
+<a id="art-88b"></a>
+### Article 88b – ~~Automated and machine-readable indications of data subject’s choices with respect to processing of personal data in the terminal equipment of natural persons~~
+
+- ~~(1)~~ **~~Controllers shall ensure that their online interfaces allow data subjects to:~~**
+
+  - ~~(a)~~ **~~Give consent through automated and machine-readable means, provided~~** **~~that the conditions for consent laid down in this Regulation are fulfilled;~~**
+
+  - ~~(b)~~ **~~decline a request for consent and exercise the right to object pursuant to~~** **~~Article 21(2) through automated and machine-readable means.~~**
+
+- ~~(2)~~ **~~Controllers shall respect the choices made by data subjects in accordance with~~** **~~paragraph 1.~~**
+
 - ~~(3)~~ **~~Paragraphs 1 and 2 shall not apply to controllers that are media service~~** **~~providers when providing a media service.~~**
 
 - ~~(4)~~ **~~The Commission shall, in accordance with Article 10(1) of Regulation (EU)~~** **~~1025/2012, request one or more European standardisation organisations to draft~~** **~~standards for the interpretation of machine-readable indications of data~~** **~~subjects’ choices.~~**
@@ -1849,6 +1860,18 @@ Regulation (EU) 2018/1725 is amended as follows:
   - ~~(c)~~ ++**~~if the data subject~~**++ ++~~refuses~~++**~~declines~~** ++**~~a request for consent, the controller shall~~**++ ++**~~not make a new request for consent for the same purpose for a period of at~~**++ ++**~~least six months.~~**++
 
 ++**~~This paragraph also applies to the subsequent processing of personal data based~~**++ ++**~~on consent.~~**++
+
+- ~~(6)~~ ++**~~This Article shall apply from [OP: please insert the date = 6 months following~~**++ ++**~~the date of entry into force of this Regulation] ]~~**++
+
+- ~~(7)~~ **~~Controllers shall ensure that their online interfaces allow data subjects to:~~**
+
+  - ~~(a)~~ **~~give consent through automated and machine-readable means, provided~~** **~~that the conditions for consent laid down in this Regulation are fulfilled;~~**
+
+  - ~~(b)~~ **~~decline a request for consent through automated and machine-readable~~** **~~means.~~**
+
+- ~~(8)~~ **~~Controllers shall respect the choices made by data subjects in accordance with~~** **~~paragraph 7.~~**
+
+- ~~(9)~~ **~~Online interfaces of controllers which are in conformity with harmonised~~** **~~standards or parts thereof referred to in paragraph 4 of Article 88b of~~** **~~Regulation (EC) 2016/679 shall be presumed to be in conformity with the~~** **~~requirements covered by those standards or parts thereof, set out in~~** **~~paragraph 7.~~**
 
 - ~~(10)~~ **~~Paragraphs 7 to 9 shall apply from [OP: please insert the date = 24 months~~** **~~following the date of entry into force of this Regulation].’~~**
 
@@ -2212,17 +2235,3 @@ Annex II GIP.B **LIMITE EN**
 ^(18) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
 
 ^(2018) on the protection of natural persons with regard to the processing of personal data by
-
-^(5) This Article shall apply from [OP: please insert the date = 6 months following the date of entry into force of this Regulation] Article 88b Automated and machine-readable indications of data subject’s choices with respect to processing of personal data in the terminal equipment of natural persons
-
-^(1) Controllers shall ensure that their online interfaces allow data subjects to: (a) Give consent through automated and machine-readable means, provided that the conditions for consent laid down in this Regulation are fulfilled; (b) decline a request for consent and exercise the right to object pursuant to Article 21(2) through automated and machine-readable means.
-
-^(2) Controllers shall respect the choices made by data subjects in accordance with paragraph 1.
-
-^(6) This Article shall apply from [OP: please insert the date = 6 months following the date of entry into force of this Regulation] ]
-
-^(7) Controllers shall ensure that their online interfaces allow data subjects to: (a) give consent through automated and machine-readable means, provided that the conditions for consent laid down in this Regulation are fulfilled; (b) decline a request for consent through automated and machine-readable means.
-
-^(8) Controllers shall respect the choices made by data subjects in accordance with paragraph 7.
-
-^(9) Online interfaces of controllers which are in conformity with harmonised standards or parts thereof referred to in paragraph 4 of Article 88b of Regulation (EC) 2016/679 shall be presumed to be in conformity with the requirements covered by those standards or parts thereof, set out in paragraph 7.

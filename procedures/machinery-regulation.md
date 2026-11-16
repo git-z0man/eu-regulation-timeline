@@ -52,7 +52,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the Council of … | public status unknown | – | – | – |
 | 2023-06-14 | PE 6/23 REV 1 | council-note | Regulation of the European Parliament and of the Council on machinery and repealing Directive 2006/42/ec of the European Parliament and of the Council and … | public status unknown | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-13.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-16.
 
 ## Texts as Markdown
 
@@ -167,7 +167,7 @@ Source: Annex I to Commission Implementing Decision C(2025)129 (M/605), Table 1 
 | 2025 | 68. Anthropometric considerations for machinery safety | Carrying out anthropometric studies, such as gathering anthropometric data that is representative of the EU population or conducting workshops convening manufacturers, users and standardisers, to reduce or eliminate the discomfort, fatigue and physical and psychological stress faced by the operator to the minimum possible allowing for the variability of the operator’s physical dimensions, strength and stamina. Such data should also include the dimension of body parts, notably limbs and extremities, in order to prevent risks of contact with the machine through openings. | [en.md](../texts/guidance/commission/uwp-2025/2025-03-27_final.en.md) · [de.md](../texts/guidance/commission/uwp-2025/2025-03-27_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) |
 | 2026 | 34. Anthropometric considerations for personal protective equipment | Prenormative work to strengthen the inclusiveness of European standards for machinery and personal protective equipment in support of Regulation (EU) 2023/1230 and Regulation (EU) 2016/425. The Commission will request expert mentoring in anthropometrics to relevant technical committees and to develop horizontal guidance deliverables. Activities will include expert-led workshops, ad hoc advice during drafting, and structured feedback on drafts, plus practical checklists for design and test methods that accommodate a wider range of body sizes, shapes and capabilities. Guidance will cover user panels, sampling strategies, adjustability, fit/comfort metrics and documentation. | [en.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.en.md) · [de.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) |
 
-Other actions of the work programmes that ask for coordination with this act: [2026, Action 35: Lifts and safety components for lifts](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695).
+Other actions of the work programmes that ask for coordination with this act: [2026, Action 35: Lifts and safety components for lifts](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) (an action under Directive 2014/33/EU).
 
 ## Work at the standardisation organisations
 

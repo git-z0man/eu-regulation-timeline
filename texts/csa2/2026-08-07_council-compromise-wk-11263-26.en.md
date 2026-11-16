@@ -117,11 +117,11 @@ WK 11263/2026 INIT LIMITE EN
 | --- | --- |
 | Acting in accordance with the ordinary legislative procedure, | Acting in accordance with the ordinary legislative procedure, |
 
-### Formula 13 Whereas:
+### Formula
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | Whereas: |
+| Whereas: | Whereas: |
 
 <a id="rec-1"></a>
 ### Recital 1
@@ -8333,11 +8333,11 @@ WK 11263/2026 INIT LIMITE EN
 | --- | --- |
 | This Regulation shall be binding in its entirety and directly applicable in all Member States. | This Regulation shall be binding in its entirety and directly applicable in all Member States. |
 
-### Formula 1286 Done at Strasbourg,
+### Formula
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | Done at Strasbourg, |
+| Done at Strasbourg, | Done at Strasbourg, |
 
 ### Formula
 
@@ -8345,11 +8345,11 @@ WK 11263/2026 INIT LIMITE EN
 | --- | --- |
 | For the European Parliament | For the European Parliament |
 
-### Formula 1288 The President
+### Formula
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | The President |
+| The President | The President |
 
 ### Formula
 
@@ -8357,18 +8357,18 @@ WK 11263/2026 INIT LIMITE EN
 | --- | --- |
 | For the Council | For the Council |
 
-### Formula 1290 The President
+### Formula
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | The President |
+| The President | The President |
 
 <a id="annex-i"></a>
-### ANNEX I 1291 ANNEX I
+### ANNEX I
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | ANNEX I |
+| ANNEX I | ANNEX I |
 
 ### ANNEX I, first paragraph
 
@@ -8560,42 +8560,42 @@ WK 11263/2026 INIT LIMITE EN
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 24. Conformity assessment bodies shall keep at the disposal of the national cybersecurity certification authority the relevant documents concerning the 1323 assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation. | 24. Conformity assessment bodies shall keep at the disposal of the national cybersecurity certification authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation. |
+| 24. Conformity assessment bodies shall keep at the disposal of the national cybersecurity certification authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation. | 24. Conformity assessment bodies shall keep at the disposal of the national cybersecurity certification authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation. |
 
 <a id="annex-ii"></a>
 ### ANNEX II
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1324 ANNEX II | ANNEX II |
+| ANNEX II | ANNEX II |
 
 ### ANNEX II, first paragraph
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1325 Key ICT assets for mobile and fixed electronic communications networks | Key ICT assets for mobile and fixed electronic communications networks |
+| Key ICT assets for mobile and fixed electronic communications networks | Key ICT assets for mobile and fixed electronic communications networks |
 
 ### ANNEX II, Table 1
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1326 Table 1 | Table 1 |
+| Table 1 | Table 1 |
 
 <a id="annex-iii"></a>
 ### ANNEX III
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1327 ANNEX III | ANNEX III |
+| ANNEX III | ANNEX III |
 
 ### ANNEX III, first paragraph
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1328 CORRELATION TABLE | CORRELATION TABLE |
+| CORRELATION TABLE | CORRELATION TABLE |
 
 ### ANNEX III, Table 2
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-| 1329 Table 2 | Table 2 |
+| Table 2 | Table 2 |

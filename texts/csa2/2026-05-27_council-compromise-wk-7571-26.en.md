@@ -121,11 +121,11 @@ WK 7571/2026 INIT LIMITE EN
 | --- | --- |
 | Acting in accordance with the ordinary legislative procedure, | Acting in accordance with the ordinary legislative procedure, |
 
-### Formula 13 Whereas:
+### Formula
 
 | Commission Proposal | Council Mandate |
 | --- | --- |
-|  | Whereas: |
+| Whereas: | Whereas: |
 
 <a id="rec-1"></a>
 ### Recital 1
