@@ -1,6 +1,136 @@
 {
  "items": [
   {
+   "date": "2026-11-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
+   "doc": "EN 305 550-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
+   "key": "eso-REN/ERM-WGUWB-640-2026-11-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 302 885 – Portable Very High Frequency (VHF) radiotelephone equipment for the maritime mobile servic: Drafting Stage – Early draft",
+   "doc": "EN 302 885",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728",
+   "key": "eso-REN/ERM-WGMAR-626-2026-11-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Final deliverable adopted for publicatio",
+   "doc": "EN 302 186",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
+   "key": "eso-REN/SES-00477-2026-11-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Final deliverable adopted for publicatio",
+   "doc": "EN 301 447",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+   "key": "eso-REN/SES-00433-2026-11-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-17",
+   "act": "ehds",
+   "title": "EHDS",
+   "actor": "Committee on the European Health Data Space",
+   "label": "Summary record published: 11th meeting: Committee on the European Health Data Space (EHDS) - 22/10/2026 (2026-10-22)",
+   "doc": "summary record",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/119130/1/consult",
+   "key": "C131500-S119130/1",
+   "page": "ehds",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-17",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CRA Expert Group",
+   "label": "Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
+   "doc": "minutes",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download",
+   "key": "E03967-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download",
+   "page": "cra",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-16",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Consolidated version of draft compromise text for General Approach to the IVDR Regulation (not public)",
+   "doc": "WK 17474/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/103622",
+   "key": "WK 17474/26",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "listed": "council-position"
+  },
+  {
+   "date": "2026-11-16",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-01 (Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …), listed as not public since 2026-10-02",
+   "doc": "WK 15043/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15043-2026-INIT/en/pdf",
+   "key": "WK 15043/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-01",
+   "doc_title": "Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …",
+   "withheld_since": "2026-10-02",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-11-16",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text (Part 2) (not public)",
+   "doc": "ST 15830/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/103754",
+   "key": "ST 15830/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
+  },
+  {
+   "date": "2026-11-16",
+   "act": "chips-act-2",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-29 (Explanatory Note on the first Presidency compromise text of the proposal for a Regulation …), listed as not public since 2026-09-30",
+   "doc": "WK 14980/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14980-2026-INIT/en/pdf",
+   "key": "WK 14980/26-released",
+   "page": "chips-act-2",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-29",
+   "doc_title": "Explanatory Note on the first Presidency compromise text of the proposal for a Regulation …",
+   "withheld_since": "2026-09-30",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)"
+  },
+  {
    "date": "2026-11-15",
    "act": "red",
    "title": "RED",
@@ -26,30 +156,6 @@
   },
   {
    "date": "2026-11-13",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Closing of approval procedure",
-   "doc": "EN 302 186",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
-   "key": "eso-REN/SES-00477-2026-11-13",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-13",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Closing of approval procedure",
-   "doc": "EN 301 447",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
-   "key": "eso-REN/SES-00433-2026-11-13",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-13",
    "act": "machinery-regulation",
    "title": "MR",
    "actor": "CLC/TC 44X",
@@ -65,7 +171,7 @@
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
-   "label": "Progress Report",
+   "label": "Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, …",
    "doc": "ST 15547/26",
    "url": "https://data.consilium.europa.eu/doc/document/ST-15547-2026-INIT/en/pdf",
    "key": "ST 15547/26",
@@ -493,6 +599,18 @@
   },
   {
    "date": "2026-11-09",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "European Parliament",
+   "label": "ITRE draft report",
+   "doc": "PE797.426",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-797426/ITRE-PR-797426_en.pdf",
+   "key": "PE797.426",
+   "page": "chips-act-2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-09",
    "act": "cra",
    "title": "CRA",
    "actor": "CYBER EUSR",
@@ -537,18 +655,6 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
    "key": "eso-DEN/CYBER-EUS-006-2026-11-09",
    "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-06",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGUWB",
-   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
-   "doc": "EN 305 550-5",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
-   "key": "eso-REN/ERM-WGUWB-640-2026-11-06",
-   "page": null,
    "type": "Standardisation"
   },
   {
@@ -1729,14 +1835,18 @@
    "act": "ehds",
    "title": "EHDS",
    "actor": "Committee on the European Health Data Space",
-   "label": "11th meeting: Committee on the European Health Data Space (EHDS)",
-   "doc": "agenda",
+   "label": "11th meeting: Committee on the European Health Data Space (EHDS) - 22/10/2026",
+   "doc": "agenda, summary record",
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1615/consult",
    "key": "C131500-CMTD(2026)1615",
    "links": [
     [
      "agenda",
      "https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult"
+    ],
+    [
+     "summary record",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/119130/1/consult"
     ]
    ],
    "page": "ehds",
@@ -2443,13 +2553,17 @@
    "title": "CRA",
    "actor": "CRA Expert Group",
    "label": "6th meeting of the CRA Expert Group",
-   "doc": "agenda",
+   "doc": "agenda, minutes",
    "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3967",
    "key": "E03967-76324",
    "links": [
     [
      "agenda",
      "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download"
+    ],
+    [
+     "minutes",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download"
     ]
    ],
    "page": "cra",
@@ -3037,18 +3151,6 @@
    "key": "C129100-S118216/1",
    "page": "ai-act",
    "type": "Committees"
-  },
-  {
-   "date": "2026-09-28",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGMARINE",
-   "label": "EN 302 885 – Portable Very High Frequency (VHF) radiotelephone equipment for the maritime mobile servic: Drafting Stage – Early draft",
-   "doc": "EN 302 885",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728",
-   "key": "eso-REN/ERM-WGMAR-626-2026-09-28",
-   "page": null,
-   "type": "Standardisation"
   },
   {
    "date": "2026-09-28",

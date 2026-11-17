@@ -7,9 +7,9 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 ## At a glance
 
 - Next meeting: none announced
-- Last meeting: 2026-10-08 – 6th meeting of the CRA Expert Group ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download))
+- Last meeting: 2026-10-08 – 6th meeting of the CRA Expert Group ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download))
 - Meetings since 2024: 6
-- Latest minutes: [5th meeting of the CRA Expert Group (2026-06-10)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download)
+- Latest minutes: [6th meeting of the CRA Expert Group (2026-10-08)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download)
 - Members: 58 members: 27 Member State authorities (type D); 25 organisations (type C); 2 other public entities (type E); 4 individuals appointed in a personal capacity (type A); 3 observers.
 - Contact: [CNECT-CRA-EXPERT-GROUP@ec.europa.eu](mailto:CNECT-CRA-EXPERT-GROUP@ec.europa.eu)
 
@@ -17,7 +17,7 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 - Type: Informal, Permanent, Limited
 - Policy areas: Information Society, Internal Market
-- Registered: 2024-09-19; last updated: 2026-09-25
+- Registered: 2024-09-19; last updated: 2026-11-16
 - Link: <https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act>
 
 Tasks:
@@ -40,7 +40,7 @@ Tasks:
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-08 | 6th meeting of the CRA Expert Group | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download) | – | – |
+| 2026-10-08 | 6th meeting of the CRA Expert Group | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download) | – |
 | 2026-06-10 | 5th meeting of the CRA Expert Group | Brussels (hybrid) | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133174/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download) | – |
 | 2026-03-04 | 4th meeting of the CRA Expert Group | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/126784/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/129854/download) | – |
 | 2025-10-22 | 3rd meeting of the CRA Expert Group | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/121846/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124083/download) | – |

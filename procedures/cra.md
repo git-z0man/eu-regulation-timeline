@@ -225,7 +225,7 @@ Expert group E03967, CNECT. Official source: [Register of Commission expert grou
 
 | Date | Meeting | Documents |
 | --- | --- | --- |
-| 2026-10-08 | 6th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download) |
+| 2026-10-08 | 6th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138355/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/141686/download) |
 | 2026-06-10 | 5th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/133174/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/135392/download) |
 | 2026-03-04 | 4th meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/126784/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/129854/download) |
 | 2025-10-22 | 3rd meeting of the CRA Expert Group | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/121846/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124083/download) |

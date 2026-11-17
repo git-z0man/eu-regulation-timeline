@@ -38,7 +38,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-13 | [ST 15773/26](https://data.consilium.europa.eu/doc/document/ST-15773-2026-INIT/en/pdf) | council-note | CEN and CENELEC priorities on the NSR - Presentation at the Working Party on Technical Harmonisation on 11 November 2026 | public | – | – | – |
 | 2026-11-13 | [ST 15776/26](https://data.consilium.europa.eu/doc/document/ST-15776-2026-INIT/en/pdf) | council-note | ETSI observations on the Proposal for a New Standardisation Regulation (NSR) repealing Regulation (EU) No 1025/2012 : Modernise the system without undermining … | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-16.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-17.
 
 ## Texts as Markdown
 

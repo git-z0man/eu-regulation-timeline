@@ -1,68 +1,68 @@
 {
  "items": [
   {
-   "date": "2026-11-15",
+   "date": "2026-11-17",
    "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 454 – Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels r: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 302 454",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-5 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Early draft",
+   "doc": "EN 305 550-5",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-11-13",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise proposed …",
-   "doc": "CM 4831/26",
-   "page": "medical-devices-simplification.html"
+   "date": "2026-11-17",
+   "title": "RED",
+   "actor": "ERM WGMARINE",
+   "label": "EN 302 885 – Portable Very High Frequency (VHF) radiotelephone equipment for the maritime mobile servic: Drafting Stage – Early draft",
+   "doc": "EN 302 885",
+   "page": "committees.html#red"
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-17",
    "title": "RED",
    "actor": "SES HARM",
-   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Closing of approval procedure",
+   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Final deliverable adopted for publicatio",
    "doc": "EN 302 186",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-17",
    "title": "RED",
    "actor": "SES HARM",
-   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Closing of approval procedure",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Final deliverable adopted for publicatio",
    "doc": "EN 301 447",
    "page": "committees.html#red"
   },
   {
-   "date": "2026-11-13",
-   "title": "MR",
-   "actor": "CLC/TC 44X",
-   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Approved",
-   "doc": "EN 50742:2026",
-   "page": "machinery-regulation.html"
+   "date": "2026-11-17",
+   "title": "EHDS",
+   "actor": "Committee on the European Health Data Space",
+   "label": "Summary record published: 11th meeting: Committee on the European Health Data Space (EHDS) - 22/10/2026 (2026-10-22)",
+   "doc": "summary record",
+   "page": "ehds.html"
   },
   {
-   "date": "2026-11-13",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "Council",
-   "label": "Progress Report",
-   "doc": "ST 15547/26",
-   "page": "space-act.html"
+   "date": "2026-11-17",
+   "title": "CRA",
+   "actor": "CRA Expert Group",
+   "label": "Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
+   "doc": "minutes",
+   "page": "cra.html"
   },
   {
-   "date": "2026-11-13",
-   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "date": "2026-11-16",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
-   "label": "Progress report",
-   "doc": "ST 15300/26",
-   "page": "cloud-ai-development-act.html"
+   "label": "Consolidated version of draft compromise text for General Approach to the IVDR Regulation (not public)",
+   "doc": "WK 17474/26",
+   "page": "medical-devices-simplification.html"
   },
   {
-   "date": "2026-11-13",
-   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "date": "2026-11-16",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
-   "label": "Released: Council compromise of 2026-09-29 (Presidency compromise text), listed as not public since 2026-09-30",
-   "doc": "ST 13545/26",
-   "page": "chips-act-2.html"
+   "label": "Released: Council note of 2026-10-01 (Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …), listed as not public since 2026-10-02",
+   "doc": "WK 15043/26",
+   "page": "digital-omnibus.html"
   }
  ]
 }

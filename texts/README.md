@@ -149,6 +149,7 @@ All texts of this act as one file: [chips-act-2.zip](downloads/chips-act-2.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0504 | [en](chips-act-2/2026-06-03_com-proposal.en.md) | [de](chips-act-2/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0504) |
 | 2026-09-29_council-compromise-st-13545-26 | council-compromise | ST 13545/26 | [en](chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-13545-2026-INIT/en/pdf) |
+| 2026-11-09_ep-draft-report-pe797-426 | ep-draft-report | PE797.426 | [en](chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-797426/ITRE-PR-797426_en.docx) |
 
 ## CADA
 
@@ -645,6 +646,36 @@ All texts of this act as one file: [guidance-bsi-nis2-checkliste.zip](downloads/
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-15_final | final | – | – | [de](guidance/bsi/nis2-checkliste/2026-11-15_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-checkliste/2026-11-15_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-checkliste.pdf?__blob=publicationFile&v=9) |
+
+## BSI curriculum for management training
+
+`guidance/bsi/nis2-curriculum-geschaeftsleitungsschulung` – Curriculum für eine Geschäftsleitungsschulung nach NIS-2. Beispiel für die Vermittlung von Pflicht- und Steuerungswissen für Geschäftsleitungen, Version 1
+
+All texts of this act as one file: [guidance-bsi-nis2-curriculum-geschaeftsleitungsschulung.zip](downloads/guidance-bsi-nis2-curriculum-geschaeftsleitungsschulung.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-28_final | final | – | – | [de](guidance/bsi/nis2-curriculum-geschaeftsleitungsschulung/2026-10-28_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-curriculum-geschaeftsleitungsschulung/2026-10-28_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-curriculum-geschaeftsleitungsschulung.pdf?__blob=publicationFile&v=6) |
+
+## BSI training guide for management
+
+`guidance/bsi/nis2-geschaeftsleitungsschulung` – Schulung für Geschäftsleitungen. Handreichung für die Empfehlung zur Schulungspflicht für Geschäftsleitungen wichtiger Einrichtungen und besonders wichtiger Einrichtungen nach dem BSI-Gesetz, Version 1.0
+
+All texts of this act as one file: [guidance-bsi-nis2-geschaeftsleitungsschulung.zip](downloads/guidance-bsi-nis2-geschaeftsleitungsschulung.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-17_final | final | – | – | [de](guidance/bsi/nis2-geschaeftsleitungsschulung/2026-04-17_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-geschaeftsleitungsschulung/2026-04-17_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-geschaeftsleitungsschulung.pdf?__blob=publicationFile&v=8) |
+
+## BSI one-pager ISO/IEC 27001 and NIS-2
+
+`guidance/bsi/nis2-iso-27001-onepager` – ISO/IEC 27001 im Kontext NIS-2/BSIG
+
+All texts of this act as one file: [guidance-bsi-nis2-iso-27001-onepager.zip](downloads/guidance-bsi-nis2-iso-27001-onepager.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-01_final | final | – | – | [de](guidance/bsi/nis2-iso-27001-onepager/2026-04-01_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-iso-27001-onepager/2026-04-01_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-iso-27000-onepager.pdf?__blob=publicationFile&v=5) |
 
 ## BSI registration procedure (§ 33(6) BSIG)
 
@@ -1371,6 +1402,17 @@ All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidan
 | 2026-02-04_question | question | – | [en](guidance/commission/pq-e-10-2026-000449/2026-02-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000449/2026-02-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000449/E-10-2026-000449_en.docx) |
 | 2026-03-20_final | final | – | [en](guidance/commission/pq-e-10-2026-000449/2026-03-20_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000449/2026-03-20_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000449-ASW/E-10-2026-000449-ASW_en.docx) |
 
+## PQ E-000626/2026
+
+`guidance/commission/pq-e-10-2026-000626` – Question E-000626/2026 and the Commission's answer: Malicious SMS messages sent to the mobile phones of European citizens
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-12_question | question | – | [en](guidance/commission/pq-e-10-2026-000626/2026-02-12_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000626/2026-02-12_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-000626/E-10-2026-000626_en.docx) |
+| 2026-04-15_final | final | – | [en](guidance/commission/pq-e-10-2026-000626/2026-04-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-000626/2026-04-15_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-000626-ASW/E-10-2026-000626-ASW_en.docx) |
+
 ## PQ E-000632/2026
 
 `guidance/commission/pq-e-10-2026-000632` – Question E-000632/2026 and the Commission's answer: Legal responsibility and the fight against AI-generated racist content
@@ -1557,6 +1599,17 @@ All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidan
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-05-06_question | question | – | [en](guidance/commission/pq-e-10-2026-001843/2026-05-06_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001843/2026-05-06_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001843/E-10-2026-001843_en.docx) |
 | 2026-07-07_final | final | – | [en](guidance/commission/pq-e-10-2026-001843/2026-07-07_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001843/2026-07-07_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001843-ASW/E-10-2026-001843-ASW_en.docx) |
+
+## PQ E-001864/2026
+
+`guidance/commission/pq-e-10-2026-001864` – Question E-001864/2026 and the Commission's answer: Capacity and institutional strengthening of the EU AI Office
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-06_question | question | – | [en](guidance/commission/pq-e-10-2026-001864/2026-05-06_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001864/2026-05-06_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-001864/E-10-2026-001864_en.docx) |
+| 2026-07-01_final | final | – | [en](guidance/commission/pq-e-10-2026-001864/2026-07-01_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-001864/2026-07-01_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-001864-ASW/E-10-2026-001864-ASW_en.docx) |
 
 ## PQ E-001948/2026
 
@@ -1921,6 +1974,17 @@ All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidan
 | 2026-02-04_question | question | – | [en](guidance/commission/pq-p-10-2026-000438/2026-02-04_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-000438/2026-02-04_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2026-000438/P-10-2026-000438_en.docx) |
 | 2026-03-12_final | final | – | [en](guidance/commission/pq-p-10-2026-000438/2026-03-12_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-000438/2026-03-12_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2026-000438-ASW/P-10-2026-000438-ASW_en.docx) |
 
+## PQ P-001672/2026
+
+`guidance/commission/pq-p-10-2026-001672` – Question P-001672/2026 and the Commission's answer: Why is the European Union lagging behind other countries in assessing advanced AI models?
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-23_question | question | – | [en](guidance/commission/pq-p-10-2026-001672/2026-04-23_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-001672/2026-04-23_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/P-10-2026-001672/P-10-2026-001672_en.docx) |
+| 2026-05-29_final | final | – | [en](guidance/commission/pq-p-10-2026-001672/2026-05-29_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-p-10-2026-001672/2026-05-29_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/P-10-2026-001672-ASW/P-10-2026-001672-ASW_en.docx) |
+
 ## PQ P-002257/2026
 
 `guidance/commission/pq-p-10-2026-002257` – Question P-002257/2026 and the Commission's answer: Geographical scope of the Union equivalence clause in the Industrial Accelerator Act
@@ -2194,6 +2258,16 @@ All texts of this act as one file: [guidance-enisa-composite-product-evaluation-
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-06_final | final | – | [en](guidance/enisa/composite-product-evaluation-smart-cards-similar-devices/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/composite-product-evaluation-smart-cards-similar-devices/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/8243df3e-9655-4650-a304-40c02e463442_en?filename=EUCC_state_of_the_art_Composite%20evaluation%20Smart%20Cards_CC3.1%20v2%20%28final%29.pdf) |
+
+## CRA-Module B and H: CABs accreditation for notification
+
+`guidance/enisa/cra-module-b-h-cabs-accreditation-notification` – CRA-Module B and H: CABs accreditation for notification
+
+All texts of this act as one file: [guidance-enisa-cra-module-b-h-cabs-accreditation-notification.zip](downloads/guidance-enisa-cra-module-b-h-cabs-accreditation-notification.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-16_final | final | – | [en](guidance/enisa/cra-module-b-h-cabs-accreditation-notification/2026-11-16_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/cra-module-b-h-cabs-accreditation-notification/2026-11-16_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-11/CRA%20Notified%20Body%20Accreditation%20-%20Gap%20Analysis%20-%20CRA%20vs%20RED%20and%20EUCC%20%28Modules%20B%20and%20H%29%20v.2.6.pdf) |
 
 ## CRA Single Reporting Platform AR User Manual
 

@@ -8,7 +8,7 @@ title: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL o
 retrieved: '2026-11-15'
 converter: tools/pdf2md.py
 counts:
-  recitals: 103
+  recitals: 104
   articles: 33
   annexes: 6
 official_source: https://data.consilium.europa.eu/doc/document/ST-13545-2026-INIT/en/pdf
@@ -217,6 +217,7 @@ Whereas:
 <a id="rec-45"></a>
 (45) Where a European semiconductor technology initiative offers production capacity to undertakings not related to the operator of the facility, it should establish, implement and maintain adequate and effective functional separation in order to prevent the exchange of confidential information between internal and external production. This should apply to any information obtained in the design and in the front-end or back-end manufacturing processes**, while ensuring that the implementation of such requirements remains** **proportionate and avoids unnecessary administrative burdens, taking into account** **the specific business model and technological characteristics of the initiative**.
 
+<a id="rec-46"></a>
 46) In order to qualify as a European semiconductor technology initiative, the establishment of the initiative by a domestic ~~undertaking~~ **entity** should have a clear positive impact with spill-over effects beyond the undertaking or the Member State concerned on the Union’s semiconductor value chain in the medium to long term with a view to strengthening resilience, competitiveness and innovation of the semiconductor ecosystem, including the growth of start-ups and SMEs, and contributing to the Union’s twin green and digital transitions. Moreover, following the same reasoning, participation in the Business-to-Business Semiconductor Supply Chain Platform (‘the Platform’) should be obligatory for production facilities – such as front-end and back-end production facilities, but also other production facilities like for the production of ~~semiconductor~~ **chip** manufacturing equipment, substrates or materials. This commitment serves the strengthening of the resilience, competitiveness and innovation of the semiconductor ecosystem’s supply chains. Various activities of domestic ~~undertakings~~ **entity** aiming to create positive spill-over effects may be considered for the purpose of qualifying as European semiconductor technology initiatives. Examples include giving access to manufacturing facilities against a market fee; giving process design kits to smaller design companies or to the virtual design platform; disseminating results from their R&D activities; engaging in research collaboration with European ~~universities and~~ research ~~institutes~~ **and knowledge-** **dissemination organisations**; cooperating with national authorities or educational and vocational institutions to contribute to skills development; contributing to Union-wide research projects; or offering dedicated support opportunities for start-ups and SMEs. The impact on several Member States, including with regard to cohesion objectives, should be considered as one of the indicators of a clear positive impact of a European semiconductor technology initiative on the semiconductor value chain in the Union.
 
 <a id="rec-47"></a>

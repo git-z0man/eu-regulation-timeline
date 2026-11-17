@@ -7,9 +7,9 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 ## At a glance
 
 - Next meeting: none announced
-- Last meeting: 2026-10-22 – 11th meeting: Committee on the European Health Data Space (EHDS) ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult))
+- Last meeting: 2026-10-22 – 11th meeting: Committee on the European Health Data Space (EHDS) - 22/10/2026 ([agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/119130/1/consult))
 - Meetings since 2024: 11
-- Latest summary record: [10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026 (2026-09-30)](https://ec.europa.eu/transparency/comitology-register/screen/documents/118652/1/consult)
+- Latest summary record: [11th meeting: Committee on the European Health Data Space (EHDS) - 22/10/2026 (2026-10-22)](https://ec.europa.eu/transparency/comitology-register/screen/documents/119130/1/consult)
 
 ## About
 
@@ -19,7 +19,7 @@ Official source: [Comitology Register](https://ec.europa.eu/transparency/comitol
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-22 | [11th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1615/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult) | – | – |
+| 2026-10-22 | [11th meeting: Committee on the European Health Data Space (EHDS) - 22/10/2026](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1615/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/118309/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/119130/1/consult) | – |
 | 2026-09-30 | [10th meeting: Committee on the European Health Data Space (EHDS) - 30.09.2026](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)94/consult) | – | – | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/118652/1/consult) | – |
 | 2026-06-23 | [9th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)93/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/116505/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/117154/1/consult) | [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/116698/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/116759/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/116761/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/116899/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/116900/1/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/116908/1/consult) |
 | 2026-05-28 | [8th meeting: Committee on the European Health Data Space (EHDS)](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)92/consult) | – | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/116503/1/consult) | [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/116504/1/consult) | – |

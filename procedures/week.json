@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-16",
+ "as_of": "2026-11-17",
  "views": [
   {
    "key": "all",
@@ -36,10 +36,10 @@
      "top": true
     },
     {
-     "date": "2026-11-13",
-     "act": "EU Space Act",
-     "text": "Council: Progress Report",
-     "url": "procedures/space-act.html",
+     "date": "2026-11-16",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council: Consolidated version of draft compromise text for General Approach to the IVDR Regulation (not …",
+     "url": "procedures/medical-devices-simplification.html",
      "top": true
     },
     {
@@ -47,6 +47,13 @@
      "act": "Cloud and AI Development Act",
      "text": "Council: Progress report",
      "url": "procedures/cloud-ai-development-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-13",
+     "act": "EU Space Act",
+     "text": "Council: Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, …",
+     "url": "procedures/space-act.html",
      "top": false
     },
     {
@@ -92,30 +99,23 @@
      "top": false
     },
     {
-     "date": "2026-11-09",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
-     "url": "procedures/csa2.html",
+     "date": "2026-11-16",
+     "act": "Cloud and AI Development Act",
+     "text": "Council: Presidency compromise text (Part 2) (not public)",
+     "url": "procedures/cloud-ai-development-act.html",
      "top": false
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "act": "Chips Act 2.0",
-     "text": "Council released 1 document listed as not public, incl. Presidency compromise text",
+     "text": "Council released 2 documents listed as not public, incl. Presidency compromise text",
      "url": "procedures/chips-act-2.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-09",
-     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "Council: Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not …",
-     "url": "procedures/nis2-amendment.html",
      "top": false
     },
     {
      "date": "2026-11-13",
      "act": "Cyber Resilience Act",
-     "text": "5 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
+     "text": "Standardisation: FprEN 40000-1-3:2026: Under Approval",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -141,9 +141,16 @@
      "top": false
     },
     {
-     "date": "2026-11-15",
+     "date": "2026-11-16",
+     "act": "Digital Omnibus",
+     "text": "Council released 1 document listed as not public",
+     "url": "procedures/digital-omnibus.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-17",
      "act": "Radio Equipment Directive",
-     "text": "9 standardisation projects moved on, e.g. EN 302 454: Approval Stage – Deliverable approval procedure …",
+     "text": "6 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Final deliverable adopted for …",
      "url": "procedures/index.html",
      "top": false
     },
@@ -187,6 +194,20 @@
      "act": "Simplification of the medical devices rules",
      "text": "Council released 1 document listed as not public",
      "url": "procedures/medical-devices-simplification.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-17",
+     "act": "Cyber Resilience Act",
+     "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
+     "url": "acts/cra.html#committees",
+     "top": false
+    },
+    {
+     "date": "2026-11-17",
+     "act": "European Health Data Space Regulation",
+     "text": "Committee on the European Health Data Space: Summary record published: 11th meeting: Committee on the …",
+     "url": "procedures/ehds.html",
      "top": false
     },
     {
@@ -254,23 +275,9 @@
      "top": false
     },
     {
-     "date": "2026-11-09",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
-     "url": "procedures/csa2.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-09",
-     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "Council: Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not …",
-     "url": "procedures/nis2-amendment.html",
-     "top": false
-    },
-    {
      "date": "2026-11-13",
      "act": "Cyber Resilience Act",
-     "text": "5 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
+     "text": "Standardisation: FprEN 40000-1-3:2026: Under Approval",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -293,6 +300,20 @@
      "act": "Artificial Intelligence Act",
      "text": "Plenary vote: Institutional aspects of artificial intelligence in the context of European integration (Report)",
      "url": "acts/ai-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-16",
+     "act": "Digital Omnibus",
+     "text": "Council released 1 document listed as not public",
+     "url": "procedures/digital-omnibus.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-17",
+     "act": "Cyber Resilience Act",
+     "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
+     "url": "acts/cra.html#committees",
      "top": false
     },
     {
