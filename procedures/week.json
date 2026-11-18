@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-17",
+ "as_of": "2026-11-18",
  "views": [
   {
    "key": "all",
@@ -7,34 +7,6 @@
    "note": "All acts we follow",
    "ahead": [],
    "recap": [
-    {
-     "date": "2026-11-10",
-     "act": "Cybersecurity Act 2",
-     "text": "European Parliament: IMCO opinion adopted",
-     "url": "procedures/csa2.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Cybersecurity Act 2",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
-     "url": "procedures/csa2.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Digital Omnibus",
-     "text": "European Parliament: IMCO opinion adopted",
-     "url": "procedures/digital-omnibus.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Digital Omnibus",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 9 (vote)",
-     "url": "procedures/digital-omnibus.html",
-     "top": true
-    },
     {
      "date": "2026-11-16",
      "act": "Simplification of the medical devices rules",
@@ -47,55 +19,34 @@
      "act": "Cloud and AI Development Act",
      "text": "Council: Progress report",
      "url": "procedures/cloud-ai-development-act.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-13",
      "act": "EU Space Act",
      "text": "Council: Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, …",
      "url": "procedures/space-act.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-11",
      "act": "Simplification of the medical devices rules",
      "text": "Council: Consolidated version of draft compromise text for General Approach (not public)",
      "url": "procedures/medical-devices-simplification.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-11",
      "act": "Public Procurement Act",
      "text": "European Parliament: Referral to committee announced in plenary",
      "url": "procedures/public-procurement-act.html",
-     "top": false
+     "top": true
     },
     {
-     "date": "2026-11-10",
-     "act": "Simplification of the medical devices rules",
-     "text": "European Parliament: IMCO opinion adopted",
-     "url": "procedures/medical-devices-simplification.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Simplification of the medical devices rules",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 10 (vote)",
-     "url": "procedures/medical-devices-simplification.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: IMCO opinion adopted",
-     "url": "procedures/nis2-amendment.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
-     "url": "procedures/nis2-amendment.html",
+     "date": "2026-11-16",
+     "act": "Digital Omnibus",
+     "text": "Council released 1 document listed as not public, incl. Draft proposal for a Regulation amending Regulations …",
+     "url": "procedures/digital-omnibus.html",
      "top": false
     },
     {
@@ -113,9 +64,9 @@
      "top": false
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-18",
      "act": "Cyber Resilience Act",
-     "text": "Standardisation: FprEN 40000-1-3:2026: Under Approval",
+     "text": "3 standardisation projects moved on, e.g. EN 40000-1-2:2026: Published",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -129,8 +80,15 @@
     {
      "date": "2026-11-13",
      "act": "Machinery Regulation",
-     "text": "2 standardisation projects moved on, e.g. EN 50742:2026: Approved",
+     "text": "Standardisation: EN 50742:2026: Approved",
      "url": "acts/machinery-regulation.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-18",
+     "act": "Artificial Intelligence Act",
+     "text": "Standardisation: prEN 18229-4: Under Approval",
+     "url": "acts/ai-act.html#standardisation",
      "top": false
     },
     {
@@ -142,15 +100,15 @@
     },
     {
      "date": "2026-11-16",
-     "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/digital-omnibus.html",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) …",
+     "url": "procedures/csa2.html",
      "top": false
     },
     {
-     "date": "2026-11-17",
+     "date": "2026-11-18",
      "act": "Radio Equipment Directive",
-     "text": "6 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Final deliverable adopted for …",
+     "text": "7 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Final deliverable adopted for …",
      "url": "procedures/index.html",
      "top": false
     },
@@ -190,13 +148,6 @@
      "top": false
     },
     {
-     "date": "2026-11-10",
-     "act": "Simplification of the medical devices rules",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/medical-devices-simplification.html",
-     "top": false
-    },
-    {
      "date": "2026-11-17",
      "act": "Cyber Resilience Act",
      "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
@@ -233,67 +184,39 @@
    "ahead": [],
    "recap": [
     {
-     "date": "2026-11-10",
-     "act": "Cybersecurity Act 2",
-     "text": "European Parliament: IMCO opinion adopted",
-     "url": "procedures/csa2.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Cybersecurity Act 2",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 12 (vote)",
-     "url": "procedures/csa2.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
+     "date": "2026-11-16",
      "act": "Digital Omnibus",
-     "text": "European Parliament: IMCO opinion adopted",
+     "text": "Council released 1 document listed as not public, incl. Draft proposal for a Regulation amending Regulations …",
      "url": "procedures/digital-omnibus.html",
      "top": true
     },
     {
-     "date": "2026-11-10",
-     "act": "Digital Omnibus",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 9 (vote)",
-     "url": "procedures/digital-omnibus.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: IMCO opinion adopted",
-     "url": "procedures/nis2-amendment.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-10",
-     "act": "Targeted amendment of NIS-2 (simplification, alignment with CSA2)",
-     "text": "European Parliament: IMCO committee meeting held: agenda item 11 (vote)",
-     "url": "procedures/nis2-amendment.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-13",
+     "date": "2026-11-18",
      "act": "Cyber Resilience Act",
-     "text": "Standardisation: FprEN 40000-1-3:2026: Under Approval",
+     "text": "3 standardisation projects moved on, e.g. EN 40000-1-2:2026: Published",
      "url": "acts/cra.html#standardisation",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-11",
      "act": "Cyber Resilience Act, Cybersecurity Act, NIS 2 Directive",
      "text": "Plenary debate: Resilience against cyber and other hybrid attacks, protecting critical infrastructure and …",
      "url": "acts/cra.html#parliament",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-13",
      "act": "Machinery Regulation",
-     "text": "2 standardisation projects moved on, e.g. EN 50742:2026: Approved",
+     "text": "Standardisation: EN 50742:2026: Approved",
      "url": "acts/machinery-regulation.html#standardisation",
-     "top": false
+     "top": true
+    },
+    {
+     "date": "2026-11-18",
+     "act": "Artificial Intelligence Act",
+     "text": "Standardisation: prEN 18229-4: Under Approval",
+     "url": "acts/ai-act.html#standardisation",
+     "top": true
     },
     {
      "date": "2026-11-12",
@@ -304,9 +227,9 @@
     },
     {
      "date": "2026-11-16",
-     "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/digital-omnibus.html",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) …",
+     "url": "procedures/csa2.html",
      "top": false
     },
     {

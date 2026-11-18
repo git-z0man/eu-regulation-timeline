@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-17",
- "previous": "2026-11-16",
+ "edition": "2026-11-18",
+ "previous": "2026-11-17",
  "stories": [
   {
    "id": "csa2/ep-vote/IMCO-opinion-adopted-2026-11-10",
@@ -28,7 +28,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 71,
+   "score": 69,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -76,7 +76,7 @@
     }
    ],
    "brief": null,
-   "score": 71,
+   "score": 69,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -128,7 +128,7 @@
     }
    ],
    "brief": null,
-   "score": 68,
+   "score": 66,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -186,7 +186,7 @@
     "en": "The new deadlines are conditional. Art. 2: if CEN, Cenelec or ETSI “indicate that they do not accept the amendments … within a month of receiving it”, the Decision ceases to apply and C(2025)618 in its version of 3 February 2025 continues to apply. Harmonised standards developed under the request give a presumption of conformity once cited in the Official Journal; the deadlines bind the standardisation organisations, not manufacturers.",
     "de": "Die neuen Fristen gelten unter Vorbehalt. Art. 2: Nimmt CEN, Cenelec oder ETSI „die Änderungen gemäß Artikel 1 des vorliegenden Beschlusses nicht innerhalb eines Monats nach seinem Erhalt an“, tritt der Beschluss außer Kraft und C(2025)618 in seiner Fassung vom 3. Februar 2025 gilt weiterhin. Harmonisierte Normen aus dem Auftrag begründen eine Konformitätsvermutung, sobald sie im Amtsblatt genannt sind; die Fristen binden die Normungsorganisationen, nicht die Hersteller."
    },
-   "score": 61,
+   "score": 59,
    "ladder": {
     "request": "M/606",
     "org": null
@@ -231,7 +231,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -276,7 +276,7 @@
     }
    ],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -315,7 +315,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -354,7 +354,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 56,
+   "score": 54,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -375,10 +375,10 @@
    "act": "csa2",
    "kicker": "Cybersecurity Act 2",
    "kicker_de": "CSA2",
-   "headline": "Cybersecurity Act 2 · Council Presidency: fourth compromise text on Title II (ENISA)",
+   "headline": "Cybersecurity Act 2 · Council Presidency: fourth compromise text Title II (ENISA)",
    "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
    "headline_de": "CSA2 · Präsidentschaft: Vierter Kompromisstext zu Titel II (ENISA)",
-   "deck_de": "Titel im Original: Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a …. Vorschlag der Präsidentschaft, nicht die Position des Rates.",
+   "deck_de": "Titel im Original: Presidency fourth compromise text Title II (ENISA). Vorschlag der Präsidentschaft, nicht die Position des Rates.",
    "facts": [
     "Draft, not law"
    ],
@@ -397,7 +397,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -437,7 +437,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 54,
+   "score": 52,
    "crumbs": {
     "en": [
      "Analysis"
@@ -447,6 +447,100 @@
     ]
    },
    "added": "2026-11-14"
+  },
+  {
+   "id": "cra/standards/M606/2026-W47",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-18",
+   "act": "cra",
+   "kicker": "Cyber Resilience Act",
+   "kicker_de": "CRA",
+   "headline": "Cyber Resilience Act: 2 CEN-CENELEC standards with a new status this week",
+   "deck": "2 adopted. Standardisation request M/606.",
+   "headline_de": "CRA: 2 CEN-CENELEC-Normen mit neuem Status diese Woche",
+   "deck_de": "2 angenommen. Normungsauftrag M/606.",
+   "facts": [
+    "M/606",
+    "Request expires 30 Nov 2027"
+   ],
+   "facts_de": [
+    "M/606",
+    "Auftrag läuft aus 30. Nov. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 40000-1-2:2026: Published",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:81335&cs=143BCB4D3D774EA107DC0DA1AD4CBFB39"
+    },
+    {
+     "label": "EN 40000-1-1:2026: Published",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:82349&cs=12B351AE0FCE0CBB0AD0AE475F77AD3AB"
+    }
+   ],
+   "brief": null,
+   "score": 52,
+   "tree": {
+    "horizontal": {
+     "CEN-CENELEC": {
+      "CEN/CLC/JTC 13": [
+       {
+        "project": "EN 40000-1-2:2026",
+        "title": "Cybersecurity requirements for products with digital elements - Part 1-2: Principles, product risk management, and lifecycle activities",
+        "now": "Published",
+        "date": "2026-11-18",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:81335&cs=143BCB4D3D774EA107DC0DA1AD4CBFB39",
+        "step": [
+         5,
+         true,
+         false
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 40000-1-1:2026",
+        "title": "Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary",
+        "now": "Published",
+        "date": "2026-11-18",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:82349&cs=12B351AE0FCE0CBB0AD0AE475F77AD3AB",
+        "step": [
+         5,
+         true,
+         false
+        ],
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/606",
+    "org": "CEN-CENELEC"
+   },
+   "crumbs": {
+    "en": [
+     "Cyber Resilience Act",
+     "Standards",
+     "M/606",
+     "CEN-CENELEC"
+    ],
+    "de": [
+     "CRA",
+     "Normen",
+     "M/606",
+     "CEN-CENELEC"
+    ]
+   },
+   "added": "2026-11-18"
   },
   {
    "id": "cra/enisa-survey-enisa-sme-cra-investments-survey-2026",
@@ -484,7 +578,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 53,
+   "score": 51,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -496,208 +590,6 @@
     ]
    },
    "added": "2026-11-12"
-  },
-  {
-   "id": "red/standards/M536/2026-W46",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-11-15",
-   "act": "red",
-   "kicker": "Radio Equipment Directive",
-   "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive: 2 standards a step further in week 46",
-   "deck": "1 in the final vote, 2 in the public enquiry on the draft. Standardisation request M/536.",
-   "headline_de": "Funkanlagenrichtlinie: 2 Normen in KW 46 einen Schritt weiter",
-   "deck_de": "1 in der Schlussabstimmung, 2 in der Umfrage zum Entwurf. Normungsauftrag M/536.",
-   "facts": [
-    "M/536"
-   ],
-   "facts_de": [
-    "M/536"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../procedures/standardisation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 302 454: Approval Stage – Deliverable approval procedure initiated",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361"
-    },
-    {
-     "label": "EN 301 908-13: Drafting Stage – Work Item proposal endorsed by TG",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454"
-    },
-    {
-     "label": "EN 302 208: Approval Stage – Deliverable approval procedure initiated",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657"
-    },
-    {
-     "label": "EN 301 721: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020"
-    },
-    {
-     "label": "EN 301 489-9: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459"
-    },
-    {
-     "label": "EN 301 443: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017"
-    },
-    {
-     "label": "EN 301 441: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "A step further: EN 302 454 to Voting prEN; EN 302 208 to Voting prEN; 5 without an earlier status on record (EN 301 908-13, EN 301 721, EN 301 489-9 …).",
-    "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN; EN 302 208 auf Umfrage prEN; 5 ohne früheren Stand in den Daten (EN 301 908-13, EN 301 721, EN 301 489-9 …)."
-   },
-   "score": 53,
-   "tree": {
-    "": {
-     "ETSI": {
-      "ERM WGAERO": [
-       {
-        "project": "EN 302 454",
-        "title": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1 500 mW; Harmonised Standard for access to radio spectrum",
-        "now": "Approval Stage – Deliverable approval procedure initiated",
-        "date": "2026-11-15",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "MSG TFES": [
-       {
-        "project": "EN 301 908-13",
-        "title": "Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE) E-UTRA UE v19.1.1",
-        "now": "Drafting Stage – Work Item proposal endorsed by TG",
-        "date": "2026-11-12",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454",
-        "step": [
-         4,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "ERM WG34": [
-       {
-        "project": "EN 302 208",
-        "title": "Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with power levels up to 2 W and in the band 915 MHz to 921 MHz with power levels up to 4 W; Harmonised Standard for access to radio spectrum",
-        "now": "Approval Stage – Deliverable approval procedure initiated",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "SES HARM": [
-       {
-        "project": "EN 301 721",
-        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) providing Low Bit Rate Data Communications (LBRDC) using Low Earth Orbiting (LEO) satellites operating below 1 GHz frequency band; Harmonised Standard for access to radio spectrum Low Bit Rate Data Communications using LEO satellites operating below 1 GHz",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 301 443",
-        "title": "Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-only, transmit-and-receive, receive-only satellite earth stations operating in the 4 GHz and 6 GHz frequency bands; Harmonised Standard for access to radio spectrum C-band VSAT 4 GHz and 6 GHz",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 301 441",
-        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES), including handheld earth stations, for Satellite Personal Communications Networks (S-PCN) operating in the 1,6 GHz/2,4 GHz frequency band under the Mobile Satellite Service (MSS); Harmonised Standard for access to radio spectrum Satellite Personal Communications Networks (S-PCN) in the 1,6/2,4 GHz",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "ERM WGEMC": [
-       {
-        "project": "EN 301 489-9",
-        "title": "ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 9: Specific conditions for wireless microphones, similar Radio Frequency (RF) audio link equipment, cordless audio, in-ear monitoring and assistive listening devices; Harmonised Standard for ElectroMagnetic Compatibility EMC Requirements for Cordless Audio",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/536",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "Radio Equipment Directive",
-     "Standards",
-     "M/536",
-     "ETSI"
-    ],
-    "de": [
-     "Funkanlagenrichtlinie",
-     "Normen",
-     "M/536",
-     "ETSI"
-    ]
-   },
-   "added": "2026-11-10"
   },
   {
    "id": "cloud-ai-development-act/compromise/ST-15830-26",
@@ -729,7 +621,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 53,
+   "score": 51,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -742,6 +634,90 @@
     ]
    },
    "added": "2026-11-17"
+  },
+  {
+   "id": "ai-act/standards/M613/2026-W47",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-18",
+   "act": "ai-act",
+   "kicker": "Artificial Intelligence Act",
+   "kicker_de": "KI-VO",
+   "headline": "Artificial Intelligence Act: 1 standard a step further this week",
+   "deck": "Artificial Intelligence - AI system requirements - Part 4: Transparency. The standard is in drafting of the final text (step 4 of 8: Drafting EN).",
+   "headline_de": "KI-VO: 1 Norm diese Woche einen Schritt weiter",
+   "deck_de": "Artificial Intelligence - AI system requirements - Part 4: Transparency. Die Norm ist in der Ausarbeitung des Endtexts (Schritt 4 von 8: Entwurf EN).",
+   "facts": [
+    "M/613",
+    "Request expires 28 Feb 2027"
+   ],
+   "facts_de": [
+    "M/613",
+    "Auftrag läuft aus 28. Feb. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/ai-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "prEN 18229-4: Under Approval",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "A step further: prEN 18229-4 to Drafting EN.",
+    "de": "Einen Schritt weiter: prEN 18229-4 auf Entwurf EN."
+   },
+   "score": 49,
+   "tree": {
+    "": {
+     "CEN-CENELEC": {
+      "CEN/CLC/JTC 21": [
+       {
+        "project": "prEN 18229-4",
+        "title": "Artificial Intelligence - AI system requirements - Part 4: Transparency",
+        "now": "Under Approval",
+        "date": "2026-11-18",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
+        "step": [
+         3,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/613",
+    "org": "CEN-CENELEC"
+   },
+   "crumbs": {
+    "en": [
+     "Artificial Intelligence Act",
+     "Standards",
+     "M/613",
+     "CEN-CENELEC"
+    ],
+    "de": [
+     "KI-VO",
+     "Normen",
+     "M/613",
+     "CEN-CENELEC"
+    ]
+   },
+   "added": "2026-11-18"
   },
   {
    "id": "debate/MTG-PL-2026-11-11-PVCRE-ITM-19",
@@ -788,7 +764,7 @@
     "de": "Executive Vice-President Virkkunen put supply chain security at the core of the proposal, called for clear timelines to phase out high-risk suppliers, above all in 5G networks, and urged Parliament to give ENISA the mandate and resources it needs; she said full transposition and effective implementation of the NIS2 Directive could potentially have prevented some recent incidents or reduced their impact. Of the shadow rapporteurs, Tomas Tobé (EPP) asked for quick adoption with a framework to phase out high-risk suppliers, Jens Geier (S&D) for extending the scope to energy networks, and Markus Buchheit (ESN) opposed more resources for ENISA, a central reporting point and new certificates.",
     "lang": "en"
    },
-   "score": 48,
+   "score": 46,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -851,7 +827,7 @@
     }
    ],
    "brief": null,
-   "score": 47,
+   "score": 45,
    "tree": {
     "vulnerability": {
      "CEN-CENELEC": {
@@ -989,7 +965,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 46,
+   "score": 44,
    "ladder": {
     "place": {
      "en": [
@@ -1050,7 +1026,7 @@
     "en": "Until 16 Dec 2026 the median of publication in the Official Journal stays within 14 days of 25 Aug 2027, the median of 25 Mar 2026, when the procedure reached its current step; later, it moves later with every week. If the step came on 17 Nov 2026, the median would be 31 Jul 2027.",
     "de": "Bis 16. Dez. 2026 bleibt der Median der Veröffentlichung im Amtsblatt innerhalb von 14 Tagen um den 25. Aug. 2027, den Median vom 25. März 2026, als das Verfahren seinen jetzigen Schritt erreichte; danach rückt er mit jeder Woche später. Käme der Schritt am 17. Nov. 2026, läge der Median beim 31. Juli 2027."
    },
-   "score": 45,
+   "score": 43,
    "ladder": {
     "place": {
      "en": [
@@ -1101,7 +1077,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1123,9 +1099,9 @@
    "kicker": "Chips Act 2.0",
    "kicker_de": "Chips-Gesetz 2.0",
    "headline": "Chips Act 2.0: ITRE draft report",
-   "deck": "The rapporteur's draft, not the Parliament's position. Amendments follow in committee.",
+   "deck": "Draft report of 9 November 2026 by the rapporteur of the Industry, Research and Energy committee on the Chips Act 2.0 proposal, with 226 amendments covering the whole proposal; it is the rapporteur's draft, not the position of the committee or of Parliament, and not law.",
    "headline_de": "Chips-Gesetz 2.0: Berichtsentwurf im Parlament",
-   "deck_de": "Titel im Original: ITRE draft report. Entwurf des Berichterstatters, nicht die Position des Parlaments.",
+   "deck_de": "Draft report of 9 November 2026 by the rapporteur of the Industry, Research and Energy committee on the Chips Act 2.0 proposal, with 226 amendments covering the whole proposal; it is the rapporteur's draft, not the position of the committee or of Parliament, and not law.",
    "facts": [
     "Draft, not law"
    ],
@@ -1143,8 +1119,14 @@
     ]
    ],
    "items": [],
-   "brief": null,
-   "score": 44,
+   "brief": {
+    "status": "summary",
+    "en": "It would shorten the permit-granting procedure to six months (extendable once by three months) and extend it to other publicly supported projects in the value chain, add first-buyer commitments for public buyers, an independent Semiconductor Expert Panel for strategic projects, competitive calls for European Semiconductor Regions and a European Semiconductor Strategy, and make the supply chain platform optional and participation in it voluntary. In the domestic-undertaking test it adds as domestic an undertaking holding a valid recognition under the Chips Acts, an IPCEI or another Union programme without a disqualifying change of ownership or control; in public procurement it adds a Commission template for the security of supply declaration, and for risk-prone sectors it requires evidence of significant supply chain risks and makes the dual-sourcing guidance conditional on an economically and technically viable alternative.",
+    "de": "It would shorten the permit-granting procedure to six months (extendable once by three months) and extend it to other publicly supported projects in the value chain, add first-buyer commitments for public buyers, an independent Semiconductor Expert Panel for strategic projects, competitive calls for European Semiconductor Regions and a European Semiconductor Strategy, and make the supply chain platform optional and participation in it voluntary. In the domestic-undertaking test it adds as domestic an undertaking holding a valid recognition under the Chips Acts, an IPCEI or another Union programme without a disqualifying change of ownership or control; in public procurement it adds a Commission template for the security of supply declaration, and for risk-prone sectors it requires evidence of significant supply chain risks and makes the dual-sourcing guidance conditional on an economically and technically viable alternative.",
+    "lang": "en"
+   },
+   "score": 42,
+   "deck_lang": "en",
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -1156,6 +1138,188 @@
     ]
    },
    "added": "2026-11-17"
+  },
+  {
+   "id": "red/standards/M536/2026-W46",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-15",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive: 2 standards a step further in week 46",
+   "deck": "2 in the public enquiry on the draft. Standardisation request M/536.",
+   "headline_de": "Funkanlagenrichtlinie: 2 Normen in KW 46 einen Schritt weiter",
+   "deck_de": "2 in der Umfrage zum Entwurf. Normungsauftrag M/536.",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 302 454: Approval Stage – Deliverable approval procedure initiated",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361"
+    },
+    {
+     "label": "EN 302 208: Approval Stage – Deliverable approval procedure initiated",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657"
+    },
+    {
+     "label": "EN 301 721: Delivery to the EC",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020"
+    },
+    {
+     "label": "EN 301 489-9: Delivery to the EC",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459"
+    },
+    {
+     "label": "EN 301 443: Delivery to the EC",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017"
+    },
+    {
+     "label": "EN 301 441: Delivery to the EC",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "A step further: EN 302 454 to Voting prEN; EN 302 208 to Voting prEN; 4 without an earlier status on record (EN 301 721, EN 301 489-9, EN 301 443 …).",
+    "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN; EN 302 208 auf Umfrage prEN; 4 ohne früheren Stand in den Daten (EN 301 721, EN 301 489-9, EN 301 443 …)."
+   },
+   "score": 41,
+   "tree": {
+    "": {
+     "ETSI": {
+      "ERM WGAERO": [
+       {
+        "project": "EN 302 454",
+        "title": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1 500 mW; Harmonised Standard for access to radio spectrum",
+        "now": "Approval Stage – Deliverable approval procedure initiated",
+        "date": "2026-11-15",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ],
+      "ERM WG34": [
+       {
+        "project": "EN 302 208",
+        "title": "Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with power levels up to 2 W and in the band 915 MHz to 921 MHz with power levels up to 4 W; Harmonised Standard for access to radio spectrum",
+        "now": "Approval Stage – Deliverable approval procedure initiated",
+        "date": "2026-11-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ],
+      "SES HARM": [
+       {
+        "project": "EN 301 721",
+        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) providing Low Bit Rate Data Communications (LBRDC) using Low Earth Orbiting (LEO) satellites operating below 1 GHz frequency band; Harmonised Standard for access to radio spectrum Low Bit Rate Data Communications using LEO satellites operating below 1 GHz",
+        "now": "Delivery to the EC",
+        "date": "2026-11-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020",
+        "step": null,
+        "prev": [
+         5,
+         true,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 301 443",
+        "title": "Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-only, transmit-and-receive, receive-only satellite earth stations operating in the 4 GHz and 6 GHz frequency bands; Harmonised Standard for access to radio spectrum C-band VSAT 4 GHz and 6 GHz",
+        "now": "Delivery to the EC",
+        "date": "2026-11-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017",
+        "step": null,
+        "prev": [
+         5,
+         true,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 301 441",
+        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES), including handheld earth stations, for Satellite Personal Communications Networks (S-PCN) operating in the 1,6 GHz/2,4 GHz frequency band under the Mobile Satellite Service (MSS); Harmonised Standard for access to radio spectrum Satellite Personal Communications Networks (S-PCN) in the 1,6/2,4 GHz",
+        "now": "Delivery to the EC",
+        "date": "2026-11-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923",
+        "step": null,
+        "prev": [
+         5,
+         true,
+         true
+        ],
+        "also": []
+       }
+      ],
+      "ERM WGEMC": [
+       {
+        "project": "EN 301 489-9",
+        "title": "ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 9: Specific conditions for wireless microphones, similar Radio Frequency (RF) audio link equipment, cordless audio, in-ear monitoring and assistive listening devices; Harmonised Standard for ElectroMagnetic Compatibility EMC Requirements for Cordless Audio",
+        "now": "Delivery to the EC",
+        "date": "2026-11-09",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459",
+        "step": null,
+        "prev": [
+         5,
+         true,
+         true
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
+    ]
+   },
+   "added": "2026-11-10"
   },
   {
    "id": "chips-act-2/released/2026-11-16",
@@ -1189,7 +1353,7 @@
     }
    ],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -1198,6 +1362,180 @@
     "de": [
      "Chips-Gesetz 2.0",
      "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-17"
+  },
+  {
+   "id": "red/standards/M536/2026-W47",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-18",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive: 6 ETSI standards with a new status this week",
+   "deck": "1 in the final vote, 3 in drafting. Standardisation request M/536.",
+   "headline_de": "Funkanlagenrichtlinie: 6 ETSI-Normen mit neuem Status diese Woche",
+   "deck_de": "1 in der Schlussabstimmung, 3 in der Ausarbeitung. Normungsauftrag M/536.",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 301 908-13: Drafting Stage – NSB Adoption vote initiated",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454"
+    },
+    {
+     "label": "EN 305 550-5: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268"
+    },
+    {
+     "label": "EN 302 885: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728"
+    },
+    {
+     "label": "EN 302 186: Approval Stage – Final deliverable adopted for publicatio",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313"
+    },
+    {
+     "label": "EN 302 065-6-1: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55069"
+    },
+    {
+     "label": "EN 301 447: Approval Stage – Final deliverable adopted for publicatio",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "2 only changed status within their step (Drafting prEN, Voting EN); 4 without an earlier status on record (EN 302 885, EN 302 186, EN 302 065-6-1 …).",
+    "de": "2 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 4 ohne früheren Stand in den Daten (EN 302 885, EN 302 186, EN 302 065-6-1 …)."
+   },
+   "score": 41,
+   "tree": {
+    "": {
+     "ETSI": {
+      "MSG TFES": [
+       {
+        "project": "EN 301 908-13",
+        "title": "Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE) E-UTRA UE v19.1.1",
+        "now": "Drafting Stage – NSB Adoption vote initiated",
+        "date": "2026-11-18",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454",
+        "step": [
+         4,
+         false,
+         true
+        ],
+        "prev": [
+         4,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ],
+      "ERM WGUWB": [
+       {
+        "project": "EN 305 550-5",
+        "title": "Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised Standard for access to radio spectrum; Part 5: Ultra Short Range Communication (USRC) equipment operating within 57 GHz to 64 GHz Revision 305 55-5",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-11-17",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 302 065-6-1",
+        "title": "Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for access to radio spectrum; Part 6: Ultra Wide Band radio-determination for radar sensing devices; Sub-part 1: Requirements for presence detection applications within 6,0 GHz to 8,5 GHz. Generic UWB presence detection applications",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-11-17",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55069",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WGMARINE": [
+       {
+        "project": "EN 302 885",
+        "title": "Portable Very High Frequency (VHF) radiotelephone equipment for the maritime mobile service operating in the VHF bands with integrated handheld class H DSC; Harmonised Standard for access to radio spectrum and for features for emergency services",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-11-17",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "SES HARM": [
+       {
+        "project": "EN 302 186",
+        "title": "Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in the 11/12/14 GHz frequency bands; Harmonised Standard for access to radio spectrum Ku-band AES 11/12/14 GHz",
+        "now": "Approval Stage – Final deliverable adopted for publicatio",
+        "date": "2026-11-17",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
+        "step": null,
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 301 447",
+        "title": "Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESVs) operating in the 4/6 GHz frequency bands allocated to the Fixed Satellite Service (FSS); Harmonised Standard for access to radio spectrum Earth Stations on board Vessels (ESVs) 4/6 GHz bands allocated to FSS",
+        "now": "Approval Stage – Final deliverable adopted for publicatio",
+        "date": "2026-11-17",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+        "step": null,
+        "prev": null,
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
     ]
    },
    "added": "2026-11-17"
@@ -1240,7 +1578,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "NIS 2 Directive",
@@ -1264,7 +1602,7 @@
    "headline": "NIS-2 amendment · Council Presidency: compromise text",
    "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
    "headline_de": "NIS-2-Änderung · Präsidentschaft: Kompromisstext",
-   "deck_de": "Titel im Original: Presidency compromise text on the draft proposal for a Directive amending Directive (EU) …. Vorschlag der Präsidentschaft, nicht die Position des Rates.",
+   "deck_de": "Titel im Original: Presidency compromise text. Vorschlag der Präsidentschaft, nicht die Position des Rates.",
    "facts": [
     "Draft, not law"
    ],
@@ -1283,7 +1621,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -1352,7 +1690,7 @@
     "de": "WK 14487/26 ADD 1: Clean version of the Presidency's first compromise text on Title IV (security of ICT supply chains, Articles 98-117) of the CSA2 proposal, WK 14487/26 ADD 1 of 22 September 2026, sent by the Presidency to the Horizontal Working Party on Cyber Issues; a draft, not law, which the Council has released only in part. WK 14500/26: Explanatory note of the Irish Presidency, Council working document WK 14500/26 of 22 September 2026, on its first revised text (REV1) of Title IV (security of ICT supply chains) of the Cybersecurity Act 2 proposal; it explains the compromise text but is neither a legal text nor a Council position, and the released version blacks out the passages on designating third countries and high-risk suppliers.",
     "lang": "en"
    },
-   "score": 38,
+   "score": 36,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1402,7 +1740,7 @@
     "de": "ST 13545/26: Presidency compromise text of 29 September 2026 on Pillars I and II of the proposed Chips Act 2.0 (Chips for Europe Initiative 2.0; security of supply and demand), sent by the General Secretariat of the Council to the Working Party on Competitiveness and Growth (Industry) with the changes against the Commission proposal marked; it is the Presidency's draft, not a Council position and not law, and it can still change.",
     "lang": "en"
    },
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -1441,7 +1779,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1478,7 +1816,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 36,
+   "score": 34,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1521,7 +1859,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1566,7 +1904,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1625,7 +1963,7 @@
     "de": "WK 13885/26: Council working document WK 13885/26 of 10 September 2026 compiles the written answers of 18 Member States to six guiding questions on Title IV (security of ICT supply chains) of the Cybersecurity Act 2 proposal; it is a set of national comments, not a Council position or a legal text, and the released version blacks out all but one of the answers on designating third countries.",
     "lang": "en"
    },
-   "score": 34,
+   "score": 32,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -1675,7 +2013,7 @@
     }
    ],
    "brief": null,
-   "score": 34,
+   "score": 32,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1772,7 +2110,7 @@
     "en": "No step was reached; it is still at Commission proposal, and the time it has waited there and the newer data on comparable files moved it.",
     "de": "Kein Schritt wurde erreicht; es steht weiter bei Kommissionsvorschlag, und die Wartezeit dort und neuere Daten zu vergleichbaren Verfahren haben ihn verschoben."
    },
-   "score": 33,
+   "score": 31,
    "ladder": {
     "place": {
      "en": [
@@ -1798,72 +2136,43 @@
    "added": "2026-11-05"
   },
   {
-   "id": "digital-omnibus/released/2026-11-03",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-11-03",
-   "act": "digital-omnibus",
-   "kicker": "Digital Omnibus",
-   "kicker_de": "Digital-Omnibus",
-   "headline": "Council releases 3 Digital Omnibus documents",
-   "deck": "1 compromise text, 2 notes: Presidency revised compromise text; Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026; Non-paper from Poland on Digital Omnibus provisions concerning cookies. Listed as not public since 26 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 3 Dokumente zu Digital-Omnibus frei",
-   "deck_de": "1 Kompromisstext, 2 Vermerke: Presidency revised compromise text; Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026; Non-paper from Poland on Digital Omnibus provisions concerning cookies. Seit 26. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "id": "csa2/meeting/2026-11-16",
+   "kind": "meeting",
+   "desk": "Committees",
+   "date": "2026-11-16",
+   "act": "csa2",
+   "kicker": "Cybersecurity Act 2",
+   "kicker_de": "CSA2",
+   "headline": "Cybersecurity Act 2: Council working party meeting",
+   "deck": "Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) – Discussion (WK …",
+   "headline_de": "CSA2: Sitzung einer Ratsarbeitsgruppe",
+   "deck_de": "Tagesordnung des Rates (Titel im Original): Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) – Discussion (WK …",
    "facts": [],
    "facts_de": [],
    "links": [
     [
      "Procedure",
-     "../procedures/digital-omnibus.html"
+     "../procedures/csa2.html"
+    ],
+    [
+     "Document",
+     "https://data.consilium.europa.eu/doc/document/CM-4987-2026-INIT/en/pdf"
     ]
    ],
-   "items": [
-    {
-     "type": "compromise text",
-     "type_de": "Kompromisstext",
-     "rank": 0,
-     "ref": "ST 13112/26",
-     "date": "2026-09-21",
-     "title": "Presidency revised compromise text",
-     "url": "https://data.consilium.europa.eu/doc/document/ST-13112-2026-INIT/en/pdf"
-    },
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 14017/26",
-     "date": "2026-09-22",
-     "title": "Steering and Explanatory Note by the Presidency - AGS meeting on 25 September 2026",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-14017-2026-INIT/en/pdf"
-    },
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 14298/26",
-     "date": "2026-09-17",
-     "title": "Non-paper from Poland on Digital Omnibus provisions concerning cookies",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-14298-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": {
-    "status": "summary",
-    "en": "ST 13112/26: Presidency revised compromise text of 21 September 2026 (ST 13112/26) on the Digital Omnibus, circulated by the General Secretariat of the Council for the meeting of the Antici Group (Simplification) of 25 September 2026; it is the Presidency's text, not a Council position, and can still change.",
-    "de": "ST 13112/26: Presidency revised compromise text of 21 September 2026 (ST 13112/26) on the Digital Omnibus, circulated by the General Secretariat of the Council for the meeting of the Antici Group (Simplification) of 25 September 2026; it is the Presidency's text, not a Council position, and can still change.",
-    "lang": "en"
-   },
-   "score": 32,
+   "items": [],
+   "brief": null,
+   "score": 31,
    "crumbs": {
     "en": [
-     "Digital Omnibus",
-     "Legislation"
+     "Cybersecurity Act 2",
+     "Committees"
     ],
     "de": [
-     "Digital-Omnibus",
-     "Gesetzgebung"
+     "CSA2",
+     "Ausschüsse"
     ]
    },
-   "added": "2026-11-05"
+   "added": "2026-11-18"
   },
   {
    "id": "cloud-ai-development-act/legislation/ST-15300-26",
@@ -1896,7 +2205,7 @@
     "de": "It reports a first, partial Presidency compromise text on the autonomy part (the cloud sovereignty framework, public procurement and the public sector cloud federation), discussed in the working party on 10 November 2026: among other things, the Commission's implementing acts on Member States' assurance levels give way to recommendations, the mandated migration period goes from 12 to 18 months, the annual review of audit opinions becomes biennial, and the procurement rules extend to utilities' contracting entities. For the research and data centre parts, still being drafted, it announces among other things a later date of application (18 instead of 12 months after entry into force) and longer deadlines for data centre acceleration zones; the recognition architecture, penalties for SMEs and alignment with the proposed Cybersecurity Act revision and Public Procurement Act remain open.",
     "lang": "en"
    },
-   "score": 32,
+   "score": 30,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -1942,7 +2251,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1985,7 +2294,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -1998,138 +2307,6 @@
     ]
    },
    "added": "2026-11-06"
-  },
-  {
-   "id": "red/standards/M536/2026-W47",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-11-17",
-   "act": "red",
-   "kicker": "Radio Equipment Directive",
-   "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive: 4 ETSI standards with a new status this week",
-   "deck": "2 in drafting. Standardisation request M/536.",
-   "headline_de": "Funkanlagenrichtlinie: 4 ETSI-Normen mit neuem Status diese Woche",
-   "deck_de": "2 in der Ausarbeitung. Normungsauftrag M/536.",
-   "facts": [
-    "M/536"
-   ],
-   "facts_de": [
-    "M/536"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../procedures/standardisation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 305 550-5: Drafting Stage – Early draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268"
-    },
-    {
-     "label": "EN 302 885: Drafting Stage – Early draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728"
-    },
-    {
-     "label": "EN 302 186: Approval Stage – Final deliverable adopted for publicatio",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313"
-    },
-    {
-     "label": "EN 301 447: Approval Stage – Final deliverable adopted for publicatio",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "1 only changed status within their step (Drafting prEN); 3 without an earlier status on record (EN 302 885, EN 302 186, EN 301 447).",
-    "de": "1 nur mit neuem Status im selben Schritt (Entwurf prEN); 3 ohne früheren Stand in den Daten (EN 302 885, EN 302 186, EN 301 447)."
-   },
-   "score": 29,
-   "tree": {
-    "": {
-     "ETSI": {
-      "ERM WGUWB": [
-       {
-        "project": "EN 305 550-5",
-        "title": "Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised Standard for access to radio spectrum; Part 5: Ultra Short Range Communication (USRC) equipment operating within 57 GHz to 64 GHz Revision 305 55-5",
-        "now": "Drafting Stage – Early draft",
-        "date": "2026-11-17",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78268",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "ERM WGMARINE": [
-       {
-        "project": "EN 302 885",
-        "title": "Portable Very High Frequency (VHF) radiotelephone equipment for the maritime mobile service operating in the VHF bands with integrated handheld class H DSC; Harmonised Standard for access to radio spectrum and for features for emergency services",
-        "now": "Drafting Stage – Early draft",
-        "date": "2026-11-17",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68728",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "SES HARM": [
-       {
-        "project": "EN 302 186",
-        "title": "Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in the 11/12/14 GHz frequency bands; Harmonised Standard for access to radio spectrum Ku-band AES 11/12/14 GHz",
-        "now": "Approval Stage – Final deliverable adopted for publicatio",
-        "date": "2026-11-17",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
-        "step": null,
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 301 447",
-        "title": "Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESVs) operating in the 4/6 GHz frequency bands allocated to the Fixed Satellite Service (FSS); Harmonised Standard for access to radio spectrum Earth Stations on board Vessels (ESVs) 4/6 GHz bands allocated to FSS",
-        "now": "Approval Stage – Final deliverable adopted for publicatio",
-        "date": "2026-11-17",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
-        "step": null,
-        "prev": null,
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/536",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "Radio Equipment Directive",
-     "Standards",
-     "M/536",
-     "ETSI"
-    ],
-    "de": [
-     "Funkanlagenrichtlinie",
-     "Normen",
-     "M/536",
-     "ETSI"
-    ]
-   },
-   "added": "2026-11-17"
   },
   {
    "id": "public-procurement-act/forecast/reached/referral/2026-11-11",
@@ -2167,7 +2344,7 @@
     "en": "The forecast now starts from the next step.",
     "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
    },
-   "score": 28,
+   "score": 26,
    "ladder": {
     "place": {
      "en": [
@@ -2200,9 +2377,9 @@
    "act": "cra",
    "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
-   "headline": "Cyber Resilience Act: 3 ETSI and 2 CEN-CENELEC standards with a new status in week 45",
+   "headline": "Cyber Resilience Act: 2 ETSI standards with a new status in week 45",
    "deck": "Standardisation request M/606.",
-   "headline_de": "CRA: 3 ETSI- und 2 CEN-CENELEC-Normen mit neuem Status in KW 45",
+   "headline_de": "CRA: 2 ETSI-Normen mit neuem Status in KW 45",
    "deck_de": "Normungsauftrag M/606.",
    "facts": [
     "M/606",
@@ -2226,22 +2403,10 @@
     {
      "label": "EN 304 622: Approval Stage – Closing of approval procedure",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413"
-    },
-    {
-     "label": "EN 40000-1-2:2026: Approved",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073"
-    },
-    {
-     "label": "EN 40000-1-1:2026: Approved",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B"
-    },
-    {
-     "label": "EN 304 625: Approval Stage – Closing of approval procedure",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 18,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -2273,54 +2438,6 @@
          true
         ],
         "also": []
-       },
-       {
-        "project": "EN 304 625",
-        "title": "Cybersecurity requirements for physical and virtual network interfaces",
-        "now": "Approval Stage – Closing of approval procedure",
-        "date": "2026-11-03",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-        "step": null,
-        "prev": [
-         2,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    },
-    "horizontal": {
-     "CEN-CENELEC": {
-      "CEN/CLC/JTC 13": [
-       {
-        "project": "EN 40000-1-2:2026",
-        "title": "Cybersecurity requirements for products with digital elements - Part 1-2: Principles, product risk management, and lifecycle activities",
-        "now": "Approved",
-        "date": "2026-11-03",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
-        "step": null,
-        "prev": [
-         5,
-         false,
-         false
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 40000-1-1:2026",
-        "title": "Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary",
-        "now": "Approved",
-        "date": "2026-11-03",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
-        "step": null,
-        "prev": [
-         5,
-         false,
-         false
-        ],
-        "also": []
        }
       ]
      }
@@ -2328,18 +2445,20 @@
    },
    "ladder": {
     "request": "M/606",
-    "org": null
+    "org": "ETSI"
    },
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
      "Standards",
-     "M/606"
+     "M/606",
+     "ETSI"
     ],
     "de": [
      "CRA",
      "Normen",
-     "M/606"
+     "M/606",
+     "ETSI"
     ]
    },
    "added": "2026-11-03"
@@ -2366,7 +2485,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 20,
+   "score": 18,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -2401,7 +2520,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 20,
+   "score": 18,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -2455,7 +2574,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -2463,114 +2582,6 @@
     ],
     "de": [
      "MDR/IVDR-Vereinfachung",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-05"
-  },
-  {
-   "id": "industrial-accelerator-act/released/2026-11-03",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-11-03",
-   "act": "industrial-accelerator-act",
-   "kicker": "Industrial Accelerator Act",
-   "kicker_de": "IAA",
-   "headline": "Council releases 2 Industrial Accelerator Act documents",
-   "deck": "2 notes: Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, …; Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, … Listed as not public since 25 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 2 Dokumente zu IAA frei",
-   "deck_de": "2 Vermerke: Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, …; Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, … Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/industrial-accelerator-act.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 11040/26",
-     "date": "2026-07-30",
-     "title": "Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, …",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-11040-2026-INIT/en/pdf"
-    },
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 11039/26",
-     "date": "2026-07-30",
-     "title": "Consolidated table with comments from these Member States AT, BE, BG, CZ, DE, DK, EE, EL, …",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-11039-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": null,
-   "score": 17,
-   "crumbs": {
-    "en": [
-     "Industrial Accelerator Act",
-     "Legislation"
-    ],
-    "de": [
-     "IAA",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-05"
-  },
-  {
-   "id": "public-procurement-act/released/2026-11-03",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-11-03",
-   "act": "public-procurement-act",
-   "kicker": "Public Procurement Act",
-   "kicker_de": "Vergabe-Rechtsakt (PPA)",
-   "headline": "Council releases 2 Public Procurement Act documents",
-   "deck": "2 notes: Public Procurement Act - Presentation at the Working Party on Competitiveness and Growth …; Public Procurement Act : Impact Assessment - Presentation at the Working Party on … Listed as not public since 30 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 2 Dokumente zu Vergabe-Rechtsakt (PPA) frei",
-   "deck_de": "2 Vermerke: Public Procurement Act - Presentation at the Working Party on Competitiveness and Growth …; Public Procurement Act : Impact Assessment - Presentation at the Working Party on … Seit 30. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/public-procurement-act.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 14276/26",
-     "date": "2026-09-21",
-     "title": "Public Procurement Act - Presentation at the Working Party on Competitiveness and Growth …",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-14276-2026-INIT/en/pdf"
-    },
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 14274/26",
-     "date": "2026-09-21",
-     "title": "Public Procurement Act : Impact Assessment - Presentation at the Working Party on …",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-14274-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": null,
-   "score": 17,
-   "crumbs": {
-    "en": [
-     "Public Procurement Act",
-     "Legislation"
-    ],
-    "de": [
-     "Vergabe-Rechtsakt (PPA)",
      "Gesetzgebung"
     ]
    },
@@ -2619,7 +2630,7 @@
     "en": "1 only changed status within their step (Voting EN); 2 without an earlier status on record (EN 301 929, EN 300 386).",
     "de": "1 nur mit neuem Status im selben Schritt (Abstimmung EN); 2 ohne früheren Stand in den Daten (EN 301 929, EN 300 386)."
    },
-   "score": 16,
+   "score": 14,
    "tree": {
     "": {
      "ETSI": {
@@ -2726,7 +2737,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -2748,9 +2759,9 @@
    "kicker": "EU Space Act",
    "kicker_de": "EU-Weltraumgesetz",
    "headline": "EU Space Act: Council working party meeting",
-   "deck": "Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, …",
+   "deck": "Progress report on the EU Space Act of 13 November 2026, sent by the General Secretariat of the Council to Coreper and the Council for the Competitiveness Council of 3-4 December 2026, which are invited to take note of it; it records the work of the Irish Presidency, is not a Council position and changes no text.",
    "headline_de": "EU-Weltraumgesetz: Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, …",
+   "deck_de": "Progress report on the EU Space Act of 13 November 2026, sent by the General Secretariat of the Council to Coreper and the Council for the Competitiveness Council of 3-4 December 2026, which are invited to take note of it; it records the work of the Irish Presidency, is not a Council position and changes no text.",
    "facts": [],
    "facts_de": [],
    "links": [
@@ -2764,8 +2775,14 @@
     ]
    ],
    "items": [],
-   "brief": null,
-   "score": 12,
+   "brief": {
+    "status": "summary",
+    "en": "It reports on the Presidency compromise text of 29 October 2026: \"EUSA verification\" replaces \"EUSA registration\" for third-country operators and international organisations, the scope excludes space objects operated by military or defence authorities for their entire lifetime or owned by military authorities, a self-certification without a qualified technical body is offered for spacecraft with governmental ownership or operation, the rules on space-based data now centre on Earth observation data bought by public contracting authorities and Union bodies, and the environmental footprint gives way to a life-cycle assessment with a voluntary Union method. On cybersecurity the Presidency did not modify the provisions; the report says the compromise text deals with the scope of the NIS-2 Directive, third-country operators and derogations through two implementing acts. All Member States keep a scrutiny reservation, and the Working Party continues with a view to reaching the Council's position.",
+    "de": "It reports on the Presidency compromise text of 29 October 2026: \"EUSA verification\" replaces \"EUSA registration\" for third-country operators and international organisations, the scope excludes space objects operated by military or defence authorities for their entire lifetime or owned by military authorities, a self-certification without a qualified technical body is offered for spacecraft with governmental ownership or operation, the rules on space-based data now centre on Earth observation data bought by public contracting authorities and Union bodies, and the environmental footprint gives way to a life-cycle assessment with a voluntary Union method. On cybersecurity the Presidency did not modify the provisions; the report says the compromise text deals with the scope of the NIS-2 Directive, third-country operators and derogations through two implementing acts. All Member States keep a scrutiny reservation, and the Working Party continues with a view to reaching the Council's position.",
+    "lang": "en"
+   },
+   "score": 10,
+   "deck_lang": "en",
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -2804,7 +2821,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 11,
+   "score": 9,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2843,7 +2860,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2882,7 +2899,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -2938,7 +2955,7 @@
     }
    ],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "Regulation on European standardisation",
@@ -2973,7 +2990,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 5,
+   "score": 3,
    "crumbs": {
     "en": [
      "This site"
@@ -3006,7 +3023,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 3,
+   "score": 1,
    "crumbs": {
     "en": [
      "This site"
@@ -3039,7 +3056,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 1,
+   "score": -1,
    "crumbs": {
     "en": [
      "This site"
@@ -3072,7 +3089,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3128,7 +3145,7 @@
     }
    ],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Ecodesign for Sustainable Products Regulation",
@@ -3163,7 +3180,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -5,
+   "score": -7,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3175,80 +3192,6 @@
     ]
    },
    "added": "2026-11-12"
-  },
-  {
-   "id": "espr/committee/2026-11-03",
-   "kind": "committee",
-   "desk": "Committees",
-   "date": "2026-11-03",
-   "act": "espr",
-   "kicker": "Ecodesign for Sustainable Products Regulation",
-   "kicker_de": "ESPR",
-   "headline": "Ecodesign Forum: new document published",
-   "deck": "Ecodesign Forum.",
-   "headline_de": "ESPR: Ausschussdokument veröffentlicht",
-   "deck_de": "Ecodesign Forum (Titel im Original): Ecodesign Forum",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Committee page",
-     "../procedures/espr.html"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "Ecodesign for Sustainable Products Regulation",
-     "Committees"
-    ],
-    "de": [
-     "ESPR",
-     "Ausschüsse"
-    ]
-   },
-   "added": "2026-11-03"
-  },
-  {
-   "id": "space-act/meeting/2026-11-03",
-   "kind": "meeting",
-   "desk": "Committees",
-   "date": "2026-11-03",
-   "act": "space-act",
-   "kicker": "EU Space Act",
-   "kicker_de": "EU-Weltraumgesetz",
-   "headline": "EU Space Act: Council working party meeting",
-   "deck": "Space Working Party meeting - ATTACHES FORMAT in the afternoon: Information from the Presidency (14787/26)",
-   "headline_de": "EU-Weltraumgesetz: Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Space Working Party meeting - ATTACHES FORMAT in the afternoon: Information from the Presidency (14787/26)",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/space-act.html"
-    ],
-    [
-     "Document",
-     "https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "EU Space Act",
-     "Committees"
-    ],
-    "de": [
-     "EU-Weltraumgesetz",
-     "Ausschüsse"
-    ]
-   },
-   "added": "2026-11-06"
   },
   {
    "id": "site/2026-11-05/authorities",
@@ -3272,7 +3215,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -9,
+   "score": -11,
    "crumbs": {
     "en": [
      "This site"
@@ -3305,7 +3248,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -9,
+   "score": -11,
    "crumbs": {
     "en": [
      "This site"

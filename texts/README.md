@@ -384,6 +384,7 @@ All texts of this act as one file: [digital-omnibus.zip](downloads/digital-omnib
 | 2026-06-22_ep-draft-report-pe786-818 | ep-draft-report | PE786.818 | [en](digital-omnibus/2026-06-22_ep-draft-report-pe786-818.en.md) | [de](digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-06-22_ep-draft-report-pe786-818.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ72-PR-786818/CJ72-PR-786818_de.docx) |
 | 2026-09-03_council-compromise-st-12535-26 | council-compromise | ST 12535/26 | [en](digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-09-03_council-compromise-st-12535-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-12535-2026-INIT/en/pdf) |
 | 2026-09-21_council-compromise-st-13112-26 | council-compromise | ST 13112/26 | [en](digital-omnibus/2026-09-21_council-compromise-st-13112-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-09-21_council-compromise-st-13112-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-13112-2026-INIT/en/pdf) |
+| 2026-10-01_council-note-wk-15043-26 | council-note | WK 15043/26 | [en](digital-omnibus/2026-10-01_council-note-wk-15043-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-10-01_council-note-wk-15043-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-15043-2026-INIT/en/pdf) |
 | 2026-10-22_council-position-st-14756-26 | council-position | ST 14756/26 | [en](digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) |
 
 ## Digital Omnibus on AI
@@ -687,6 +688,16 @@ All texts of this act as one file: [guidance-bsi-nis2-registrierungsverfahren.zi
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-26_final | final | – | – | [de](guidance/bsi/nis2-registrierungsverfahren/2026-06-26_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/bsi/nis2-registrierungsverfahren/2026-06-26_final.de.md) | [source](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KRITIS/ausgestaltung_registrierungsverfahren.pdf?__blob=publicationFile&v=4) |
 
+## CJEU C-188/92 TWD Deggendorf
+
+`guidance/cjeu/c-188-92` – Judgment of the Court of 9 March 1994, TWD Textilwerke Deggendorf GmbH v Bundesrepublik Deutschland, Case C-188/92, EU:C:1994:90
+
+All texts of this act as one file: [guidance-cjeu-c-188-92.zip](downloads/guidance-cjeu-c-188-92.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1994-03-09_judgment | judgment | – | [en](guidance/cjeu/c-188-92/1994-03-09_judgment.en.md) | [de](guidance/cjeu/c-188-92/1994-03-09_judgment.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/cjeu/c-188-92/1994-03-09_judgment.de.md) | [source](https://publications.europa.eu/resource/celex/61992CJ0188) |
+
 ## CJEU C-588/21 P Public.Resource.Org
 
 `guidance/cjeu/c-588-21-p` – Judgment of the Court (Grand Chamber) of 5 March 2024, Public.Resource.Org, Inc. and Right to Know CLG v European Commission, Case C-588/21 P, EU:C:2024:201
@@ -809,15 +820,16 @@ All texts of this act as one file: [guidance-commission-c-2026-5054.zip](downloa
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-20_draft | draft | – | [en](guidance/commission/c-2026-5054/2026-07-20_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2026-5054/2026-07-20_draft.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/131214) |
 
-## CRA guidance C(2026) 5252
+## CRA guidance C/2026/6013
 
-`guidance/commission/c-2026-5252` – Communication to the Commission, Approval of the content of the draft Communication from the Commission, Commission guidance on the application of Regulation (EU) 2024/2847 (Cyber Resilience Act), C(2026) 5252 final of 27 July 2026, with Annex
+`guidance/commission/c-2026-5252` – Communication from the Commission, Commission guidance on the application of Regulation (EU) 2024/2847 (Cyber Resilience Act) (C/2026/6013), OJ C, 17.11.2026; content approved as C(2026) 5252 final of 27 July 2026
 
 All texts of this act as one file: [guidance-commission-c-2026-5252.zip](downloads/guidance-commission-c-2026-5252.zip)
 
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-27_draft | draft | – | [en](guidance/commission/c-2026-5252/2026-07-27_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2026-5252/2026-07-27_draft.en.md) | [source](https://ec.europa.eu/newsroom/dae/redirection/document/131455) |
+| 2026-11-17_final | final | 52026XC06013 | [en](guidance/commission/c-2026-5252/2026-11-17_final.en.md) | [de](guidance/commission/c-2026-5252/2026-11-17_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/c-2026-5252/2026-11-17_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026XC06013) |
 
 ## CRA FAQ
 
@@ -1841,6 +1853,17 @@ All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidan
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-08-26_question | question | – | [en](guidance/commission/pq-e-10-2026-003343/2026-08-26_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003343/2026-08-26_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003343/E-10-2026-003343_en.docx) |
 | 2026-10-26_final | final | – | [en](guidance/commission/pq-e-10-2026-003343/2026-10-26_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003343/2026-10-26_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003343-ASW/E-10-2026-003343-ASW_en.docx) |
+
+## PQ E-003378/2026
+
+`guidance/commission/pq-e-10-2026-003378` – Question E-003378/2026 and the Commission's answer: Data-driven oversight by national procurement review bodies
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-31_question | question | – | [en](guidance/commission/pq-e-10-2026-003378/2026-08-31_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003378/2026-08-31_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003378/E-10-2026-003378_en.docx) |
+| 2026-11-13_final | final | – | [en](guidance/commission/pq-e-10-2026-003378/2026-11-13_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003378/2026-11-13_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003378-ASW/E-10-2026-003378-ASW_en.docx) |
 
 ## PQ E-003379/2026
 

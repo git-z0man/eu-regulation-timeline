@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "date": "2026-11-18",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-13 – Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial R: Drafting Stage – NSB Adoption vote initiated",
+   "doc": "EN 301 908-13",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454",
+   "key": "eso-REN/MSG-TFES-1519-2026-11-18",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "EN 40000-1-2:2026 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Published",
+   "doc": "EN 40000-1-2:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:81335&cs=143BCB4D3D774EA107DC0DA1AD4CBFB39",
+   "key": "eso-JT013089-2026-11-18",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "EN 40000-1-1:2026 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Published",
+   "doc": "EN 40000-1-1:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:82349&cs=12B351AE0FCE0CBB0AD0AE475F77AD3AB",
+   "key": "eso-JT013095-2026-11-18",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18229-4 – Artificial Intelligence - AI system requirements - Part 4: Transparency: Under Approval",
+   "doc": "prEN 18229-4",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
+   "key": "eso-JT021047-2026-11-18",
+   "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-11-17",
    "act": "red",
    "title": "RED",
@@ -33,6 +81,18 @@
    "doc": "EN 302 186",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
    "key": "eso-REN/SES-00477-2026-11-17",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-17",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 302 065-6-1 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – Early draft",
+   "doc": "EN 302 065-6-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55069",
+   "key": "eso-REN/ERM-WGUWB-150-1-2-2026-11-17",
    "page": null,
    "type": "Standardisation"
   },
@@ -100,6 +160,18 @@
    "doc_title": "Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …",
    "withheld_since": "2026-10-02",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-11-16",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) – Discussion (WK …",
+   "doc": "CM 4987/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4987-2026-INIT/en/pdf",
+   "key": "CM 4987/26",
+   "page": "csa2",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-16",
@@ -216,18 +288,6 @@
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81343,25&cs=15781C8F1FFD5C2E76320E51B347858F5",
    "key": "eso-JT013090-2026-11-13",
    "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-12",
-   "act": "red",
-   "title": "RED",
-   "actor": "MSG TFES",
-   "label": "EN 301 908-13 – Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial R: Drafting Stage – Work Item proposal endorsed by TG",
-   "doc": "EN 301 908-13",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=79454",
-   "key": "eso-REN/MSG-TFES-1519-2026-11-12",
-   "page": null,
    "type": "Standardisation"
   },
   {
@@ -516,7 +576,7 @@
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
    "actor": "Council",
-   "label": "Presidency compromise text on the draft proposal for a Directive amending Directive (EU) … (not public)",
+   "label": "Presidency compromise text (not public)",
    "doc": "WK 17271/26",
    "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335",
    "key": "WK 17271/26",
@@ -589,7 +649,7 @@
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
-   "label": "Presidency fourth compromise text on Title II (ENISA) of the draft proposal for a … (not public)",
+   "label": "Presidency fourth compromise text Title II (ENISA) (not public)",
    "doc": "WK 17268/26",
    "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340",
    "key": "WK 17268/26",
@@ -1144,30 +1204,6 @@
    "date": "2026-11-03",
    "act": "cra",
    "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "EN 40000-1-2:2026 – Cybersecurity requirements for products with digital elements - Part 1-2: Principles, prod: Approved",
-   "doc": "EN 40000-1-2:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81335,25&cs=12AE5EC727F6FE08205C3342F485FB073",
-   "key": "eso-JT013089-2026-11-03",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-03",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "EN 40000-1-1:2026 – Cybersecurity requirements for products with digital elements - Part 1-1: Vocabulary: Approved",
-   "doc": "EN 40000-1-1:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82349,25&cs=16635E5B87CB4221D8FFC1A74EC94EC6B",
-   "key": "eso-JT013095-2026-11-03",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-03",
-   "act": "cra",
-   "title": "CRA",
    "actor": "CYBER EUSR",
    "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Closing of approval procedure",
    "doc": "EN 304 625",
@@ -1253,18 +1289,6 @@
    "page": "cloud-ai-development-act",
    "type": "Legislation",
    "listed": "council-compromise"
-  },
-  {
-   "date": "2026-10-30",
-   "act": "ai-act",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18229-4 – Artificial Intelligence - AI system requirements - Part 4: Transparency: Under Approval",
-   "doc": "prEN 18229-4",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
-   "key": "eso-JT021047-2026-10-30",
-   "page": "ai-act",
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-29",

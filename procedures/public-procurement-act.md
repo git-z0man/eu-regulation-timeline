@@ -1,14 +1,14 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 17 Nov 2026.
+Procedure 2026/0265(COD), as of 18 Nov 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 11 Nov 2026
-- **Council:** working party, latest document 16 Nov 2026
-- **Latest activity:** 16 Nov 2026 · Council: Preparation of the Competitiveness Council (Internal Market, Industry, Research, and … (ST 15648/26)
+- **Council:** working party, latest document 17 Nov 2026
+- **Latest activity:** 17 Nov 2026 · Council: Preparation of the Competitiveness Council (Internal Market, Industry, Research, and … (ST 15648/26 REV 1)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 
 ## Events
@@ -52,8 +52,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-10 | [ST 15694/26](https://data.consilium.europa.eu/doc/document/ST-15694-2026-INIT/en/pdf) | council-note | Opinion of the European Data Protection Supervisor (EDPS) | public | – | – | – |
 | 2026-11-13 | [WK 17660/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103354) | council-note | Presidency Flash for the Working Party Meeting on Competitiveness and Growth (Public Procurement) on 19 - 20 November 2026 | not public\* | – | – | – |
 | 2026-11-16 | [ST 15648/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103696) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research, and Space) on 3 December 2026: Public Procurement Act: The Proposed Reform of … | not public\* | – | – | – |
+| 2026-11-17 | ST 15648/26 REV 1 | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research, and Space) on 3 December 2026: Regulation on public contracts and concessions … | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-17.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-18.
 
 ## Texts as Markdown
 

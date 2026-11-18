@@ -119,10 +119,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Horizontal Working Party on Cyber Issues
 
-26 meetings on the acts we follow.
+27 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-16 | [Cybersecurity Act 2](csa2.md) | Presidency fourth compromise text Title II (ENISA) – Discussion ([WK 17268/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340)) | [CM 4987/26](https://data.consilium.europa.eu/doc/document/CM-4987-2026-INIT/en/pdf) |
 | 2026-11-05 | [Cybersecurity Act 2](csa2.md) | Presidency second compromise text Title IV (Security of ICT Supply Chains) – Discussion ([WK 16145/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99621)) | [CM 4773/26](https://data.consilium.europa.eu/doc/document/CM-4773-2026-INIT/en/pdf) |
 | 2026-10-26 | [Cybersecurity Act 2](csa2.md) | Title II (ENISA) – Discussion ([WK 15959/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/98509)) | [CM 4703/26](https://data.consilium.europa.eu/doc/document/CM-4703-2026-INIT/en/pdf) |
 | 2026-10-19 | [Cybersecurity Act 2](csa2.md) | Title II (Fees), Articles 47 – Discussion WK 15959/2026 (to be issued) | [CM 4579/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4579-2026-REV-1/en/pdf) |
