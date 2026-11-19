@@ -128,6 +128,7 @@ III. FAZIT
 
 45. Der Ausschuss der Ständigen Vertreter wird ersucht, diesen Fortschrittsbericht zur Kenntnis zu nehmen und ihn dem Rat (Allgemeine Angelegenheiten) im Hinblick auf seine Tagung am 16. Juni 2026 zu übermitteln.
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) „Weit mehr als ein Markt“ bzw. „Die Zukunft der europäischen Wettbewerbsfähigkeit“.

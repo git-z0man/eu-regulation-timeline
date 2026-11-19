@@ -176,6 +176,7 @@ Done at Brussels, 26.2.2025
 
 For the Commission Stéphane SÉJOURNÉ Executive Vice-President
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12.

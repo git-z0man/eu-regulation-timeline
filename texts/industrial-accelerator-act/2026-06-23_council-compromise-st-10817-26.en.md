@@ -365,6 +365,7 @@ For the European Parliament For the Council The President The President
 
 ANNEX I COMPET. ^(1) **LIMITE EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Proposal for a Regulation of the European Parliament and of the Council on the establishment of European Business Wallets (COM/2025/838 final).

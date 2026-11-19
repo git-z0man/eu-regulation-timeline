@@ -2158,6 +2158,7 @@ Article 7 Repealed Article 8 Repealed Article 9 Repealed
 
 6. Mobility
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C […], […], p. […].

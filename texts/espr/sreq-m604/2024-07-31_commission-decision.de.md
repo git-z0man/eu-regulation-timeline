@@ -174,6 +174,7 @@ Brüssel, den 31.7.2024
 
 Für die Kommission Thierry BRETON Mitglied der Kommission
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) ABl. L 316 vom 14.11.2012, S. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj.

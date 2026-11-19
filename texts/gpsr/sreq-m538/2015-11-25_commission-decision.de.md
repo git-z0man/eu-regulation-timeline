@@ -111,6 +111,7 @@ Für die Kommission
 
 Mitglied der Kommission Vĕra JOUROVÁ Mitglied der Kommission
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) ABl. L 316 vom 14.11.2012, S. 12.

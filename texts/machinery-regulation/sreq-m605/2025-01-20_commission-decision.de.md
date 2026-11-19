@@ -193,6 +193,7 @@ Brüssel, den 20.1.2025
 
 Für die Kommission Stéphane SÉJOURNÉ Exekutiv-Vizepräsident
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) ABl. L 316 vom 14.11.2012, S. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj.

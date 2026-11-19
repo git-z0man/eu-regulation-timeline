@@ -2954,6 +2954,7 @@ Annex II to Directive 2014/90/EU is amended as follows:
 
 ‘- the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, its name, postal address and digital contact as well.’
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Opinion of... (not yet published in the Official Journal).

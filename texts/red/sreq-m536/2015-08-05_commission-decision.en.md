@@ -118,6 +118,7 @@ Done at Brussels, 4.8.2015
 
 For the Commission Elżbieta BIEŃKOWSKA Member of the Commission
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12.

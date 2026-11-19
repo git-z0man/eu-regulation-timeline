@@ -4659,6 +4659,7 @@ Annex X COMPET. ^(2). **LIMITE EN**
 
 Annex X COMPET. ^(2). **LIMITE EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) ^(1) OJ C [...], [...], p. [...]

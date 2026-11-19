@@ -149,6 +149,7 @@ Brüssel, den 24.10.2022
 
 Für die Kommission Thierry BRETON Mitglied der Kommission
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) ABl. L 316 vom 14.11.2012, S. 12.

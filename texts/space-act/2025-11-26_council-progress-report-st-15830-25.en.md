@@ -100,6 +100,7 @@ V. CONCLUSION
 
 26. The Competitiveness Council is invited to take note of this progress report on the EU Space Act.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) 10935/25.

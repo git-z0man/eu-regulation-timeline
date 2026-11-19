@@ -8,7 +8,7 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 - **Stage:** EP committee stage
 - **Parliament:** draft report 3 Mar 2026
 - **Council:** working party, latest document 13 Nov 2026
-- **Latest activity:** 13 Nov 2026 · Council: Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, … (ST 15547/26)
+- **Latest activity:** 19 Nov 2026 · European Parliament: ITRE committee meeting held: agenda item 9 (vote) (OJ-1354563)
 - **Next steps:** 19 Nov 2026: ITRE committee vote scheduled (EP committee agenda); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events

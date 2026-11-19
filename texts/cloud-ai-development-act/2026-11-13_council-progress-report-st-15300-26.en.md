@@ -84,6 +84,7 @@ V. CONCLUSION
 
 13. The Permanent Representatives Committee is invited to take note of this progress report from the Presidency, with a view to submitting it to the TTE (Telecommunications) Council at its meeting on 1 December 2026.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Doc. 10104/26 + ADD 1.

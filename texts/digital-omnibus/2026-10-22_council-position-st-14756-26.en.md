@@ -2182,6 +2182,7 @@ Article 7 32z Article 8 32aa Article 9 ~~32ab~~ **32la** Art. 10 Repealed Art. 1
 
 6. Mobility
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C […], […], p. […].

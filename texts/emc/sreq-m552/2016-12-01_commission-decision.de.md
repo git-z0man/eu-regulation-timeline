@@ -65,6 +65,7 @@ Referenzinformationen Frist für die Veröffentlichung
 
 Normen, die in der Liste der Bezugsnummern der Veröffentlichung gemäß der harmonisierten Normen nach der Richtlinie 2004/108/EG internen Planung der europäischen enthalten sind, welche im Amtsblatt der Europäischen Union Normungsgremien oder nach einer C 14 vom 16. Januar 2015 veröffentlicht wurde, einschließlich auf der Grundlage der harmonisierter Normen, die sich zum Zeitpunkt der aufgehobenen Normungsaufträge Bekanntgabe dieses Beschlusses auf der Grundlage von festgesetzten Frist. aufgehobenen Aufträgen noch in Ausarbeitung befinden; ausgenommen davon sind allerdings harmonisierte Normen oder Entwürfe harmonisierter Normen, die reine Hörfunk- und Fernsehempfangsgeräte betreffen.
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) „Annahme“ bezeichnet den Zeitpunkt, an dem das zuständige europäische Normungsgremium eine Norm ihren Mitgliedern oder der Öffentlichkeit zugänglich macht.

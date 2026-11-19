@@ -1141,6 +1141,7 @@ Annexes VIII, IX and XIII to Regulation (EU) 2023/1542 are amended as follows:
 
 ANNEX V **LIMITE EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C,, p..

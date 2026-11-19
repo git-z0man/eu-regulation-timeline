@@ -1424,6 +1424,7 @@ _____________
 
 ANNEX IV COMPET. ^(1) **LIMITE EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, 31.10.2003, pp. 51–70, ELI: http://data.europa.eu/eli/dir/2003/96/oj).

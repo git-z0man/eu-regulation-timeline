@@ -2100,6 +2100,7 @@ ANNEX I GIP.B **LIMITE EN**
 
 Annex II GIP.B **LIMITE EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C […], […], p. […].

@@ -2690,6 +2690,7 @@ The staff of a national QTB shall observe professional secrecy regarding all inf
 
 Annex IX COMPET. ^(2). **EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C [...], [...], p. [...]

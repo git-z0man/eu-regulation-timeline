@@ -1991,6 +1991,7 @@ _____________
 
 - (b) rows ‘Critical raw materials projects’ and ‘Net-zero technology manufacturing projects’ are deleted.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) https://www.consilium.europa.eu/en/policies/european-economic-security/

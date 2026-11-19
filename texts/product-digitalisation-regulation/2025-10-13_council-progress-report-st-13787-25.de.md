@@ -120,6 +120,7 @@ III. FAZIT
 
 37. Der Ausschuss der Ständigen Vertreter wird ersucht, diesen Fortschrittsbericht zur Kenntnis zu nehmen und ihn dem Rat zu übermitteln.
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) Richtlinie (EU) 2022/2464 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 zur Änderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen (ABl. L 322 vom 16.12.2022, S. 15, ELI: http://data.europa.eu/eli/dir/2022/2464/oj).

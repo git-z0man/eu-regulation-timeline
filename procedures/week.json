@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-18",
+ "as_of": "2026-11-19",
  "views": [
   {
    "key": "all",
@@ -8,17 +8,17 @@
    "ahead": [],
    "recap": [
     {
+     "date": "2026-11-19",
+     "act": "EU Space Act",
+     "text": "European Parliament: ITRE committee meeting held: agenda item 9 (vote)",
+     "url": "procedures/space-act.html",
+     "top": true
+    },
+    {
      "date": "2026-11-16",
      "act": "Simplification of the medical devices rules",
      "text": "Council: Consolidated version of draft compromise text for General Approach to the IVDR Regulation (not …",
      "url": "procedures/medical-devices-simplification.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-13",
-     "act": "Cloud and AI Development Act",
-     "text": "Council: Progress report",
-     "url": "procedures/cloud-ai-development-act.html",
      "top": true
     },
     {
@@ -29,17 +29,10 @@
      "top": true
     },
     {
-     "date": "2026-11-11",
-     "act": "Simplification of the medical devices rules",
-     "text": "Council: Consolidated version of draft compromise text for General Approach (not public)",
-     "url": "procedures/medical-devices-simplification.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-11",
-     "act": "Public Procurement Act",
-     "text": "European Parliament: Referral to committee announced in plenary",
-     "url": "procedures/public-procurement-act.html",
+     "date": "2026-11-13",
+     "act": "Cloud and AI Development Act",
+     "text": "Council: Progress report",
+     "url": "procedures/cloud-ai-development-act.html",
      "top": true
     },
     {
@@ -47,7 +40,7 @@
      "act": "Digital Omnibus",
      "text": "Council released 1 document listed as not public, incl. Draft proposal for a Regulation amending Regulations …",
      "url": "procedures/digital-omnibus.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-16",
@@ -68,13 +61,6 @@
      "act": "Cyber Resilience Act",
      "text": "3 standardisation projects moved on, e.g. EN 40000-1-2:2026: Published",
      "url": "acts/cra.html#standardisation",
-     "top": false
-    },
-    {
-     "date": "2026-11-11",
-     "act": "Cyber Resilience Act, Cybersecurity Act, NIS 2 Directive",
-     "text": "Plenary debate: Resilience against cyber and other hybrid attacks, protecting critical infrastructure and …",
-     "url": "acts/cra.html#parliament",
      "top": false
     },
     {
@@ -134,20 +120,6 @@
      "top": false
     },
     {
-     "date": "2026-11-11",
-     "act": "EU Space Act",
-     "text": "Council: Space Working Party meeting: Examination (14787/26)",
-     "url": "procedures/space-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-11",
-     "act": "Public Procurement Act",
-     "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
-     "url": "procedures/public-procurement-act.html",
-     "top": false
-    },
-    {
      "date": "2026-11-17",
      "act": "Cyber Resilience Act",
      "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
@@ -166,13 +138,6 @@
      "act": "Cyber Solidarity Act",
      "text": "Digital Europe Programme Coordination Committee: Summary record published: 18th meeting of the Digital …",
      "url": "procedures/cyber-solidarity-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-11",
-     "act": "Regulation on European standardisation",
-     "text": "5 new meetings or documents of committees and expert groups",
-     "url": "procedures/standardisation-regulation.html",
      "top": false
     }
    ]
@@ -198,13 +163,6 @@
      "top": true
     },
     {
-     "date": "2026-11-11",
-     "act": "Cyber Resilience Act, Cybersecurity Act, NIS 2 Directive",
-     "text": "Plenary debate: Resilience against cyber and other hybrid attacks, protecting critical infrastructure and …",
-     "url": "acts/cra.html#parliament",
-     "top": true
-    },
-    {
      "date": "2026-11-13",
      "act": "Machinery Regulation",
      "text": "Standardisation: EN 50742:2026: Approved",
@@ -223,7 +181,7 @@
      "act": "Artificial Intelligence Act",
      "text": "Plenary vote: Institutional aspects of artificial intelligence in the context of European integration (Report)",
      "url": "acts/ai-act.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-16",
@@ -237,13 +195,6 @@
      "act": "Cyber Resilience Act",
      "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
      "url": "acts/cra.html#committees",
-     "top": false
-    },
-    {
-     "date": "2026-11-11",
-     "act": "Regulation on European standardisation",
-     "text": "5 new meetings or documents of committees and expert groups",
-     "url": "procedures/standardisation-regulation.html",
      "top": false
     }
    ]

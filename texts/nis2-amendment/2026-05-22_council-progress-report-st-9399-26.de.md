@@ -68,6 +68,7 @@ EINLEITUNG
 
 20. Vor diesem Hintergrund werden der Ausschuss der Ständigen Vertreter und der Rat ersucht, die bei der Prüfung des Verordnungsvorschlags erzielten Fortschritte zur Kenntnis zu nehmen.
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) Dok. 16527/24.

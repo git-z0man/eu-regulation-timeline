@@ -121,6 +121,7 @@ Done at Brussels, 24.11.2015
 
 For the Commission Vĕra JOUROVÁ Member of the Commission
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12

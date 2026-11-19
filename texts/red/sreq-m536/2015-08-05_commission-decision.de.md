@@ -118,6 +118,7 @@ Geschehen zu Brüssel am 4.8.2015
 
 Für die Kommission Elżbieta BIEŃKOWSKA Mitglied der Kommission
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) ABl. L 316 vom 14.11.2012, S. 12.

@@ -108,6 +108,7 @@ Done at Brussels, 23.8.2023
 
 For the Commission Thierry BRETON Member of the Commission
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12.

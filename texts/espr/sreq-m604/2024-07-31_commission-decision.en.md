@@ -173,6 +173,7 @@ Done at Brussels, 31.7.2024
 
 For the Commission Thierry BRETON Member of the Commission
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj.

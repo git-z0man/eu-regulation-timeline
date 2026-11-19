@@ -1339,6 +1339,7 @@ Done at Brussels,
 
 For the European Parliament For the Council The President The President
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C […], […], p. […].

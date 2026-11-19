@@ -1138,6 +1138,7 @@ Annexes VIII, IX and XIII to Regulation (EU) 2023/1542 are amended as follows:
 
 ‘(t) ‘clear, understandable and readable instructions for use in a format that makes it possible to print, download and save them on an electronic device so that the user can access them at all times, in particular during a breakdown of the battery (only for stationary battery energy storage systems).’
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C,, p..

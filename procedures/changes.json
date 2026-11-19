@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "date": "2026-11-19",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "European Parliament",
+   "label": "ITRE committee meeting held: agenda item 9 (vote)",
+   "doc": "OJ-1354563",
+   "page": "space-act.html"
+  },
+  {
    "date": "2026-11-18",
    "title": "RED",
    "actor": "MSG TFES",
@@ -54,14 +62,6 @@
    "actor": "SES HARM",
    "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Final deliverable adopted for publicatio",
    "doc": "EN 302 186",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-17",
-   "title": "RED",
-   "actor": "ERM WGUWB",
-   "label": "EN 302 065-6-1 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – Early draft",
-   "doc": "EN 302 065-6-1",
    "page": "committees.html#red"
   }
  ]

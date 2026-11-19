@@ -192,6 +192,7 @@ Done at Brussels, 28.11.2025
 
 For the Commission Stéphane SÉJOURNÉ Executive Vice-President
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj.

@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "date": "2026-11-19",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "European Parliament",
+   "label": "ITRE committee meeting held: agenda item 9 (vote)",
+   "doc": "OJ-1354563",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/ITRE/OJ/2026/11-19/1354563EN.pdf",
+   "key": "emeeting-ITRE(2026)1119_1-2026-11-19",
+   "page": "space-act",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
    "date": "2026-11-18",
    "act": "red",
    "title": "RED",
@@ -8698,28 +8711,6 @@
    "key": "COM(2025) 836",
    "page": "digital-omnibus-ai",
    "type": "Legislation"
-  },
-  {
-   "date": "2025-11-18",
-   "act": "standardisation-regulation",
-   "title": "Standardisation Regulation",
-   "actor": "Committee on Standards",
-   "label": "31st meeting of the Committee on standards",
-   "doc": "agenda, summary record",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)1847/consult",
-   "key": "C41700-CMTD(2025)1847",
-   "links": [
-    [
-     "agenda",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/110541/1/consult"
-    ],
-    [
-     "summary record",
-     "https://ec.europa.eu/transparency/comitology-register/screen/documents/111390/1/consult"
-    ]
-   ],
-   "page": "standardisation-regulation",
-   "type": "Committees"
   }
  ]
 }

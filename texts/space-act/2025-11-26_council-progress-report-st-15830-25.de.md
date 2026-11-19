@@ -94,6 +94,7 @@ V. FAZIT
 
 26. Der Rat (Wettbewerbsfähigkeit) wird ersucht, diesen Fortschrittsbericht zum EU-Weltraum-Rechtsakt zur Kenntnis zu nehmen.
 
+<a id="notes"></a>
 ## Fußnoten
 
 ^(1) 10935/25.

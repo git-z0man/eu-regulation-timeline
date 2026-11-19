@@ -1662,6 +1662,7 @@ ANNEX V COMPET. ^(1) **LIMITE EN**
 
 13545/26 144 ANNEX VI Industrial sectors COMPET. ^(1) **LIMITE EN** using semiconductors
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C,, p..

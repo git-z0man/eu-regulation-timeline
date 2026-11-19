@@ -62,6 +62,7 @@ STATE OF PLAY WITHIN THE COUNCIL PREPARATORY BODIES 3. A general presentation of
 
 18. In the light of the above, the Permanent Representatives Committee and the Council are invited to take note of the progress made on the examination of the proposal for a Regulation.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) 10133/24.

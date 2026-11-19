@@ -72,6 +72,7 @@ III. CONCLUSION
 
 20. Against this background, it is suggested that the Committee of Permanent Representatives invites the Council to take note of this progress report.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) ST 16919/25 + ADD1

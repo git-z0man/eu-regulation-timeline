@@ -774,6 +774,7 @@ _____________
 
 - (b) rows ‘Critical raw materials projects’ and ‘Net-zero technology manufacturing projects’ are deleted.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) World Trade Organisation (WTO), Agreement on Government Procurement 2012, available at https://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.pdf.

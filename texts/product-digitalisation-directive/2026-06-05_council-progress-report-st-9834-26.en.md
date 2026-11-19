@@ -126,6 +126,7 @@ III. CONCLUSION
 
 44. The Permanent Representatives Committee is invited to take note of this progress report and forward it to the General Affairs Council for its meeting on 16 June 2026.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Respectively ‘Much more than a market’ and ‘The future of European competitiveness’.

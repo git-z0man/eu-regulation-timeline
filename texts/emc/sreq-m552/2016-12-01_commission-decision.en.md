@@ -65,6 +65,7 @@ Reference information Deadline for publication
 
 Standards contained in the list of references of the harmonised Publication according to internal standards under Directive 2004/108/EC published in the planning of the European Official Journal of the European Union C 14 of 16 January standardisation organisations or 2015 including harmonised standards still under development according to a deadline set on the on the basis of repealed standardisation requests on the date of basis of repealed standardisation notification of this Decision, excluding, however, any requests. harmonised standards or draft harmonised standards concerning sound and TV receive-only equipment.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) ‘Adoption makes reference to the moment when the relevant European standardisation organisation makes a standard available for its members or to the public.

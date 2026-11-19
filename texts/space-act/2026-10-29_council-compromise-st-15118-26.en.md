@@ -2540,6 +2540,7 @@ Annex IX COMPET. ^(2). **EN** 1.10. Where appropriate, the staff of a QTB shall 
 
 Annex IX COMPET. ^(2). **EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C, C/2026/882, 27.2.2026, ELI: http://data.europa.eu/eli/C/2026/882/oj.

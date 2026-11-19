@@ -118,6 +118,7 @@ III. CONCLUSION
 
 37. The Permanent Representatives Committee is invited to take note of this progress report and forward it to the Council.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 amending Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive 2013/34/EU, as regards corporate sustainability reporting (OJ L 322, 16.12.2022, pp. 15–80, ELI: http://data.europa.eu/eli/dir/2022/2464/oj).

@@ -3111,6 +3111,7 @@ Annex IX COMPET. ^(2). **EN**
 
 Annex IX COMPET. ^(2). **EN**
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ C [...], [...], p. [...]

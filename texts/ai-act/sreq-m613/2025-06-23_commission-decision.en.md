@@ -175,6 +175,7 @@ Done at Brussels, 23.6.2025
 
 For the Commission Henna VIRKKUNEN Executive Vice-President
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) OJ L 316, 14.11.2012, p. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj.

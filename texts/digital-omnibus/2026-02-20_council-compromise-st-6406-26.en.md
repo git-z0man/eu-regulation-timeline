@@ -320,6 +320,7 @@ Any such processing shall be subject to appropriate organisational, technical me
 
   - (f) Article 15.
 
+<a id="notes"></a>
 ## Notes
 
 ^(1) Regulation (EU) 2025/327 of the European Parliament and of the Council of 11 February
