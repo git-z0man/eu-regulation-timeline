@@ -2,6 +2,54 @@
  "items": [
   {
    "date": "2026-11-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 574-3 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Waiting - see \"Remarks\"",
+   "doc": "EN 302 574-3",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51243",
+   "key": "eso-REN/SES-00441-2026-11-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 574-2 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Waiting - see \"Remarks\"",
+   "doc": "EN 302 574-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67519",
+   "key": "eso-REN/SES-00466-2026-11-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 574-1 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Waiting - see \"Remarks\"",
+   "doc": "EN 302 574-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518",
+   "key": "eso-REN/SES-00465-2026-11-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Publication",
+   "doc": "EN 301 447",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+   "key": "eso-REN/SES-00433-2026-11-19",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-19",
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "European Parliament",
@@ -14,6 +62,42 @@
    "meeting": true
   },
   {
+   "date": "2026-11-19",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CEN/CLC/JTC 13",
+   "label": "FprEN 40000-1-3:2026 – Cybersecurity requirements for products with digital elements - Part 1-3: Vulnerability ha: Under Approval",
+   "doc": "FprEN 40000-1-3:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81343,25&cs=15781C8F1FFD5C2E76320E51B347858F5",
+   "key": "eso-JT013090-2026-11-19",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN 18229-4 – Artificial Intelligence - AI system requirements - Part 4: Transparency: Under Enquiry",
+   "doc": "prEN 18229-4",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
+   "key": "eso-JT021047-2026-11-19",
+   "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-9 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Stable draft",
+   "doc": "EN 305 550-9",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73777",
+   "key": "eso-DEN/ERM-WGUWB-634-2026-11-18",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-11-18",
    "act": "red",
    "title": "RED",
@@ -24,6 +108,54 @@
    "key": "eso-REN/MSG-TFES-1519-2026-11-18",
    "page": null,
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-10-16 (Third Presidency compromise text), listed as not public since 2026-10-21",
+   "doc": "ST 14387/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14387-2026-INIT/en/pdf",
+   "key": "ST 14387/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-10-16",
+   "doc_title": "Third Presidency compromise text",
+   "withheld_since": "2026-10-21",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council position of 2026-10-05 (Mandate for negotiations with the European Parliament), listed as not public since 2026-10-06",
+   "doc": "ST 13886/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-REV-1/en/pdf",
+   "key": "ST 13886/26 REV 1-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-position",
+   "doc_date": "2026-10-05",
+   "doc_title": "Mandate for negotiations with the European Parliament",
+   "withheld_since": "2026-10-06",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "digital-omnibus",
+   "actor": "Council",
+   "label": "Released: Council position of 2026-10-02 (Mandate for negotiations with the European Parliament), listed as not public since 2026-10-04",
+   "doc": "ST 13886/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-INIT/en/pdf",
+   "key": "ST 13886/26-released",
+   "page": "digital-omnibus",
+   "type": "Released",
+   "kind": "council-position",
+   "doc_date": "2026-10-02",
+   "doc_title": "Mandate for negotiations with the European Parliament",
+   "withheld_since": "2026-10-04",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)"
   },
   {
    "date": "2026-11-18",
@@ -47,18 +179,6 @@
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:82349&cs=12B351AE0FCE0CBB0AD0AE475F77AD3AB",
    "key": "eso-JT013095-2026-11-18",
    "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-18",
-   "act": "ai-act",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18229-4 – Artificial Intelligence - AI system requirements - Part 4: Transparency: Under Approval",
-   "doc": "prEN 18229-4",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7",
-   "key": "eso-JT021047-2026-11-18",
-   "page": "ai-act",
    "type": "Standardisation"
   },
   {
@@ -106,18 +226,6 @@
    "doc": "EN 302 065-6-1",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=55069",
    "key": "eso-REN/ERM-WGUWB-150-1-2-2026-11-17",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-17",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Approval Stage – Final deliverable adopted for publicatio",
-   "doc": "EN 301 447",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
-   "key": "eso-REN/SES-00433-2026-11-17",
    "page": null,
    "type": "Standardisation"
   },
@@ -290,18 +398,6 @@
    "doc_title": "Presidency compromise text",
    "withheld_since": "2026-09-30",
    "title": "Chips Act 2.0 – COM(2026) 504 (proposal)"
-  },
-  {
-   "date": "2026-11-13",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "FprEN 40000-1-3:2026 – Cybersecurity requirements for products with digital elements - Part 1-3: Vulnerability ha: Under Approval",
-   "doc": "FprEN 40000-1-3:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:81343,25&cs=15781C8F1FFD5C2E76320E51B347858F5",
-   "key": "eso-JT013090-2026-11-13",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-11-12",
@@ -2188,10 +2284,10 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Third Presidency compromise text (not public)",
-   "doc": "ST 14387/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98527",
-   "key": "ST 14387/26",
+   "label": "Third Presidency compromise text (clean version) (not public)",
+   "doc": "WK 16104/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525",
+   "key": "WK 16104/26",
    "page": "industrial-accelerator-act",
    "type": "Legislation",
    "listed": "council-compromise"
@@ -2201,13 +2297,12 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Third Presidency compromise text (clean version) (not public)",
-   "doc": "WK 16104/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525",
-   "key": "WK 16104/26",
+   "label": "Third Presidency compromise text",
+   "doc": "ST 14387/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14387-2026-INIT/en/pdf",
+   "key": "ST 14387/26",
    "page": "industrial-accelerator-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-10-16",
@@ -2496,18 +2591,6 @@
    "date": "2026-10-09",
    "act": "red",
    "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 574-2 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Final draft registered by ETSI Secretariat",
-   "doc": "EN 302 574-2",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67519",
-   "key": "eso-REN/SES-00466-2026-10-09",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-09",
-   "act": "red",
-   "title": "RED",
    "actor": "ERM WG11",
    "label": "EN 300 328 – Data transmission equipment operating in the 2,4 GHz band; Harmonised Standard for access : Drafting Stage – Stable draft",
    "doc": "EN 300 328",
@@ -2537,18 +2620,6 @@
    "doc": "EN 305 550-8",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73776",
    "key": "eso-DEN/ERM-WGUWB-633-2026-10-08",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-08",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 574-3 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Final draft registered by ETSI Secretari",
-   "doc": "EN 302 574-3",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51243",
-   "key": "eso-REN/SES-00441-2026-10-08",
    "page": null,
    "type": "Standardisation"
   },
@@ -2628,18 +2699,6 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
    "key": "eso-DEN/CYBER-EUS-0020-2026-10-07",
    "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-06",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 574-1 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Final draft registered by ETSI Secretari",
-   "doc": "EN 302 574-1",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518",
-   "key": "eso-REN/SES-00465-2026-10-06",
-   "page": null,
    "type": "Standardisation"
   },
   {
@@ -2737,13 +2796,12 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
-   "label": "Mandate for negotiations with the European Parliament (not public)",
+   "label": "Mandate for negotiations with the European Parliament",
    "doc": "ST 13886/26 REV 1",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/96016",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-REV-1/en/pdf",
    "key": "ST 13886/26 REV 1",
    "page": "digital-omnibus",
-   "type": "Legislation",
-   "listed": "council-position"
+   "type": "Legislation"
   },
   {
    "date": "2026-10-02",
@@ -2882,13 +2940,12 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
-   "label": "Mandate for negotiations with the European Parliament (not public, leak available)",
+   "label": "Mandate for negotiations with the European Parliament",
    "doc": "ST 13886/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/95158",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-INIT/en/pdf",
    "key": "ST 13886/26",
    "page": "digital-omnibus",
-   "type": "Legislation",
-   "listed": "council-position"
+   "type": "Legislation"
   },
   {
    "date": "2026-10-02",
@@ -4377,18 +4434,6 @@
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:80556&cs=14AE42ED2F03B261D02113245F6A65F24",
    "key": "eso-JT021039-2026-07-22",
    "page": "ai-act",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-07-21",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGUWB",
-   "label": "EN 305 550-9 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Stable draft",
-   "doc": "EN 305 550-9",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73777",
-   "key": "eso-DEN/ERM-TGUWB-634-2026-07-21",
-   "page": null,
    "type": "Standardisation"
   },
   {

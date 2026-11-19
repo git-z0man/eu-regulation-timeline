@@ -36,11 +36,18 @@
      "top": true
     },
     {
-     "date": "2026-11-16",
+     "date": "2026-11-18",
      "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public, incl. Draft proposal for a Regulation amending Regulations …",
+     "text": "Council released 3 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
      "url": "procedures/digital-omnibus.html",
      "top": true
+    },
+    {
+     "date": "2026-11-18",
+     "act": "Industrial Accelerator Act",
+     "text": "Council released 2 documents listed as not public, incl. Third Presidency compromise text",
+     "url": "procedures/industrial-accelerator-act.html",
+     "top": false
     },
     {
      "date": "2026-11-16",
@@ -57,9 +64,9 @@
      "top": false
     },
     {
-     "date": "2026-11-18",
+     "date": "2026-11-19",
      "act": "Cyber Resilience Act",
-     "text": "3 standardisation projects moved on, e.g. EN 40000-1-2:2026: Published",
+     "text": "3 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -71,9 +78,9 @@
      "top": false
     },
     {
-     "date": "2026-11-18",
+     "date": "2026-11-19",
      "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-4: Under Approval",
+     "text": "Standardisation: prEN 18229-4: Under Enquiry",
      "url": "acts/ai-act.html#standardisation",
      "top": false
     },
@@ -92,9 +99,9 @@
      "top": false
     },
     {
-     "date": "2026-11-18",
+     "date": "2026-11-19",
      "act": "Radio Equipment Directive",
-     "text": "7 standardisation projects moved on, e.g. EN 302 186: Approval Stage – Final deliverable adopted for …",
+     "text": "11 standardisation projects moved on, e.g. EN 301 447: Publication",
      "url": "procedures/index.html",
      "top": false
     },
@@ -110,13 +117,6 @@
      "act": "Public Procurement Act",
      "text": "Council released 1 document listed as not public",
      "url": "procedures/public-procurement-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-12",
-     "act": "Industrial Accelerator Act",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/industrial-accelerator-act.html",
      "top": false
     },
     {
@@ -149,16 +149,16 @@
    "ahead": [],
    "recap": [
     {
-     "date": "2026-11-16",
+     "date": "2026-11-18",
      "act": "Digital Omnibus",
-     "text": "Council released 1 document listed as not public, incl. Draft proposal for a Regulation amending Regulations …",
+     "text": "Council released 3 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
      "url": "procedures/digital-omnibus.html",
      "top": true
     },
     {
-     "date": "2026-11-18",
+     "date": "2026-11-19",
      "act": "Cyber Resilience Act",
-     "text": "3 standardisation projects moved on, e.g. EN 40000-1-2:2026: Published",
+     "text": "3 standardisation projects moved on, e.g. FprEN 40000-1-3:2026: Under Approval",
      "url": "acts/cra.html#standardisation",
      "top": true
     },
@@ -170,9 +170,9 @@
      "top": true
     },
     {
-     "date": "2026-11-18",
+     "date": "2026-11-19",
      "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-4: Under Approval",
+     "text": "Standardisation: prEN 18229-4: Under Enquiry",
      "url": "acts/ai-act.html#standardisation",
      "top": true
     },

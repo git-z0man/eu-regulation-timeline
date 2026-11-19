@@ -54,16 +54,16 @@
     "page": "digital-omnibus.html"
   },
   {
-    "name": "forecast-csa2",
-    "title": "Forecast: Cybersecurity Act 2",
-    "note": "Step by step; Official Journal median May 2028.",
-    "page": "csa2.html"
-  },
-  {
     "name": "forecast-medical-devices-simplification",
     "title": "Forecast: MDR/IVDR simplification",
     "note": "Step by step; Official Journal median May 2028.",
     "page": "medical-devices-simplification.html"
+  },
+  {
+    "name": "forecast-csa2",
+    "title": "Forecast: Cybersecurity Act 2",
+    "note": "Step by step; Official Journal median May 2028.",
+    "page": "csa2.html"
   },
   {
     "name": "forecast-industrial-accelerator-act",

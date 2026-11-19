@@ -1,6 +1,6 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 18 Nov 2026.
+Procedure 2026/0138(COD), as of 19 Nov 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
@@ -63,7 +63,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-13 | [ST 15850/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103315) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Portuguese Parliament (Assembleia da República) | not public\* | – | – | – |
 | 2026-11-16 | [ST 15830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103754) | council-compromise | Presidency compromise text (Part 2) | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20ST%2015830%2F2026%20INIT%20%28Cloud%20and%20AI%20Development%20Act%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20ST%2015830%2F2026%20INIT%20of%2016%20November%202026%3A%20Presidency%20compromise%20text%20%28Part%202%29%0A%20%20%28interinstitutional%20file%202026%2F0138%28COD%29%2C%20Cloud%20and%20AI%20Development%20Act%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AST-15830-2026-INIT) | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-18.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-19.
 
 ## Texts as Markdown
 

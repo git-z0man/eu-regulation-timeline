@@ -52,7 +52,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the Council of … | public status unknown | – | – | – |
 | 2023-06-14 | PE 6/23 REV 1 | council-note | Regulation of the European Parliament and of the Council on machinery and repealing Directive 2006/42/ec of the European Parliament and of the Council and … | public status unknown | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-18.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-19.
 
 ## Texts as Markdown
 
@@ -63,6 +63,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2023-06-29 | oj | [CELEX 32023R1230](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230) | [en](../texts/machinery-regulation/2023-06-29_oj.en.md) [de](../texts/machinery-regulation/2023-06-29_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/2023-06-29_oj.en.md) |
 | 2023-07-04 | corrigendum | [CELEX 32023R1230R(01)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230R(01)) | [en](../texts/machinery-regulation/2023-07-04_corrigendum-01.en.md) [de](../texts/machinery-regulation/2023-07-04_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/2023-07-04_corrigendum-01.en.md) |
 | 2025-04-01 | corrigendum | [CELEX 32023R1230R(03)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230R(03)) | [de](../texts/machinery-regulation/2025-04-01_corrigendum-03.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/2025-04-01_corrigendum-03.de.md) |
+| 2026-11-18 | corrigendum | [CELEX 32023R1230R(05)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230R(05)) | [de](../texts/machinery-regulation/2026-11-18_corrigendum-05.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/machinery-regulation/2026-11-18_corrigendum-05.de.md) |
 
 ## Standardisation
 

@@ -12,9 +12,9 @@ The site is built and kept up to date with an AI model (Claude, by Anthropic). C
 
 | Period | USD | Routines | Working sessions |
 | --- | ---: | ---: | ---: |
-| Last 7 days | 1,591.04 | 206.34 | 1,384.70 |
-| Last 30 days | 2,127.91 | 340.00 | 1,787.91 |
-| November 2026 | 2,127.91 | 340.00 | 1,787.91 |
-| Since 7 Nov 2026 | 2,127.91 | 340.00 | 1,787.91 |
+| Last 7 days | 1,294.67 | 207.47 | 1,087.20 |
+| Last 30 days | 2,186.35 | 376.22 | 1,810.14 |
+| November 2026 | 2,186.35 | 376.22 | 1,810.14 |
+| Since 7 Nov 2026 | 2,186.35 | 376.22 | 1,810.14 |
 
 Recorded since 2026-11-07; the time spent on the project is not counted.

@@ -2645,7 +2645,19 @@ Member States shall lay down the rules on penalties applicable to infringements 
 
 1. [blacked out in the released PDF]
 
-[Pages 169 to 170 blacked out in the released PDF.]
+[six points blacked out in the released PDF, their labels included]
+
+[a paragraph blacked out in the released PDF, its number included]
+
+[blacked out in the released PDF]
+
+[a paragraph blacked out in the released PDF, its number included]
+
+[a paragraph blacked out in the released PDF, its number included]
+
+[a paragraph blacked out in the released PDF, its number included]
+
+[a paragraph blacked out in the released PDF, its number included]
 
 <a id="art-102"></a>
 ### Article 102 – Designation of key ICT assets
@@ -2681,9 +2693,11 @@ Member States shall lay down the rules on penalties applicable to infringements 
 
 1. [blacked out in the released PDF]
 
-[two points blacked out in the released PDF, their labels included]
+[six points blacked out in the released PDF, their labels included]
 
-[Page 173 blacked out in the released PDF.]
+[blacked out in the released PDF]
+
+[a paragraph blacked out in the released PDF, its number included]
 
 [Page 174 is an image without a text layer; the following is transcribed from the page image.]
 
