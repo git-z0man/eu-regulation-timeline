@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Timeline chart</title>
-<meta name="description" content="Pick the EU acts you need and download the timeline as PNG or SVG, e.g. for slides.">
+<meta name="description" content="Pick the EU acts you need and download the timeline as PNG, as a 16:9 slide or as SVG.">
 <style>
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
@@ -181,8 +181,8 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
 </style><div class="navwrap"><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" aria-current="page" data-en="Timeline" data-de="Zeitachse">Timeline</a><a class="item" href="acts/index.html" data-en="Regulations" data-de="Rechtsakte">Regulations</a><a class="item" href="acts/authorities.html" data-en="Authorities" data-de="Behörden">Authorities</a><a class="item" href="procedures/index.html" data-en="Procedures" data-de="Verfahren">Procedures</a><a class="item" href="forecast/index.html" data-en="Forecast" data-de="Prognose">Forecast</a><a class="item" href="news/index.html" data-en="News" data-de="Nachrichten">News</a><a class="item" href="procedures/changes.html" data-en="Latest activity" data-de="Neueste Aktivität">Latest activity</a><a class="item" href="procedures/standardisation.html" data-en="Standards" data-de="Normung">Standards</a><a class="item" href="procedures/committees.html" data-en="Committees" data-de="Ausschüsse">Committees</a><a class="item" href="texts/index.html" data-en="Texts" data-de="Texte">Texts</a><a class="item" href="graphics.html" data-en="Graphics" data-de="Grafiken">Graphics</a><span class="navend"><span class="theme" role="group" aria-label="Colour scheme" hidden><button type="button" data-scheme="light" aria-pressed="false" aria-label="Light" title="Light"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="3"/><path d="M8 1v2M8 13v2M1 8h2M13 8h2M3 3l1.4 1.4M11.6 11.6 13 13M3 13l1.4-1.4M11.6 4.4 13 3" stroke-linecap="round"/></svg></button><button type="button" data-scheme="dark" aria-pressed="false" aria-label="Dark" title="Dark"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 9.5A5.5 5.5 0 0 1 6.5 2.5a5.5 5.5 0 1 0 7 7z" stroke-linejoin="round"/></svg></button><button type="button" data-scheme="" aria-pressed="false" aria-label="As the system setting" title="As the system setting"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><path d="M8 2a6 6 0 0 1 0 12z" fill="currentColor" stroke="none"/></svg></button></span><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></span><span class="brk" aria-hidden="true"></span></nav><script>(function(){var d=document.documentElement,w=document.currentScript.parentNode,g=w&&w.querySelector('.theme');if(!g)return;var bs=g.querySelectorAll('button');function show(){var t=d.dataset.theme||'';bs.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.scheme===t));});}function apply(t){if(t)d.dataset.theme=t;else delete d.dataset.theme;show();try{document.dispatchEvent(new CustomEvent('rt:theme',{detail:t}));}catch(e){}}bs.forEach(function(b){b.addEventListener('click',function(){var t=b.dataset.scheme;try{if(t)localStorage.setItem('rt:theme',t);else localStorage.removeItem('rt:theme');}catch(e){}apply(t);});});addEventListener('storage',function(e){if(e.key==='rt:theme')apply(e.newValue||'');});g.hidden=false;show();})();(function(){var d=document.documentElement;function lang(){var l=d.lang==='de'?'de':'en';document.querySelectorAll('[data-en][data-de]').forEach(function(e){var t=e.dataset[l];if(e.textContent!==t)e.textContent=t;});}lang();if(window.MutationObserver)new MutationObserver(lang).observe(d,{attributes:true,attributeFilter:['lang']});})();</script></div>
 <div class="wrap"><main id="main">
   <h1>Timeline chart</h1>
-  <p class="muted">Pick the acts you need and download the timeline as an image, e.g. for slides (PNG at double
-    resolution, white background) or as SVG to edit. Title and subtitle can be changed, and the act names set
+  <p class="muted">Pick the acts you need and download the timeline as an image (PNG at double resolution, white
+    background), as a slide (the chart fitted whole onto 16:9, 1920 × 1080 pixels) or as SVG to edit. Title and subtitle can be changed, and the act names set
     larger (one size for all). The chart is the same as on the <a href="index.html">timeline</a>,
     with the criticality of the selected company profile and the dates of the day it was built. The selection is kept
     in the address of this page, so it can be bookmarked or shared.</p>
@@ -215,6 +215,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
     <div class="row">
       <button type="button" class="primary" id="png">Download PNG</button>
       <button type="button" id="svg">Download SVG</button>
+      <button type="button" id="slide" title="The chart fitted whole onto a 16:9 slide, 1920 × 1080 pixels, white">Slide 16:9 (PNG)</button>
       <span class="muted" id="count"></span>
     </div>
   </div>
@@ -222,7 +223,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
   <footer id="foot"></footer>
 <div class="sitefoot">EU regulation timeline, a private project by <a href="about.html">Steffen Zimmermann</a> · <a href="LICENSE.md">CC BY 4.0</a></div></main></div>
 <script id="data" type="application/json">{
- "as_of": "2026-11-19",
+ "as_of": "2026-11-20",
  "groups": [
   "Cybersecurity",
   "AI and digital",
@@ -547,7 +548,7 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
     if (!source) return;
     $("#preview").replaceChildren(selected.size ? chart() :
       Object.assign(document.createElement("p"), { className: "muted", textContent: "Pick at least one act." }));
-    $("#png").disabled = $("#svg").disabled = !selected.size;
+    $("#png").disabled = $("#svg").disabled = $("#slide").disabled = !selected.size;
   }
 
   function load() {
@@ -571,19 +572,31 @@ html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transp
   function svgText() { return new XMLSerializer().serializeToString(chart()); }
 
   $("#svg").onclick = () => download(new Blob([svgText()], { type: "image/svg+xml" }), fileName("svg"));
-  $("#png").onclick = () => {
-    const svg = chart(), w = +svg.getAttribute("width"), h = +svg.getAttribute("height"), scale = 2, margin = 20;
+  // PNG: the chart at double resolution with a margin; slide: fitted whole onto 1920 x 1080 (16:9) with a margin of
+  // 48 px, centred, never cropped or distorted (the slide versions of the drawings, tools/slides.py)
+  function png(slide) {
+    const svg = chart(), w = +svg.getAttribute("width"), h = +svg.getAttribute("height");
     const img = new Image();
     img.onload = () => {
       const c = document.createElement("canvas");
-      c.width = (w + 2 * margin) * scale; c.height = (h + 2 * margin) * scale;
+      let x, y, dw, dh;
+      if (slide) {
+        const m = 48, k = Math.min((1920 - 2 * m) / w, (1080 - 2 * m) / h);
+        c.width = 1920; c.height = 1080; dw = w * k; dh = h * k; x = (1920 - dw) / 2; y = (1080 - dh) / 2;
+      } else {
+        const scale = 2, margin = 20;
+        c.width = (w + 2 * margin) * scale; c.height = (h + 2 * margin) * scale;
+        x = y = margin * scale; dw = w * scale; dh = h * scale;
+      }
       const ctx = c.getContext("2d");
       ctx.fillStyle = "#fff"; ctx.fillRect(0, 0, c.width, c.height);
-      ctx.drawImage(img, margin * scale, margin * scale, w * scale, h * scale);
-      c.toBlob(b => download(b, fileName("png")), "image/png");
+      ctx.drawImage(img, x, y, dw, dh);
+      c.toBlob(b => download(b, slide ? fileName("png").replace(/\.png$/, "-slide-16x9.png") : fileName("png")), "image/png");
     };
     img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(new XMLSerializer().serializeToString(svg));
-  };
+  }
+  $("#png").onclick = () => png(false);
+  $("#slide").onclick = () => png(true);
   $("#profile").onchange = e => { profile = e.target.value; load(); };
   $("#notes").onchange = e => { notes = e.target.checked; update(); };
   $("#title").oninput = e => { title = e.target.value.trim(); save(); if (source) $("#preview").replaceChildren(chart()); };

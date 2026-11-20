@@ -8732,30 +8732,6 @@
    "key": "eso-00114186-2025-11-20",
    "page": "machinery-regulation",
    "type": "Standardisation"
-  },
-  {
-   "date": "2025-11-19",
-   "act": "digital-omnibus",
-   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
-   "actor": "European Commission",
-   "label": "Commission proposal (Art. 294(2) TFEU)",
-   "doc": "COM(2025) 837",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0837",
-   "key": "COM(2025) 837",
-   "page": "digital-omnibus",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-11-19",
-   "act": "digital-omnibus-ai",
-   "title": "Digital Omnibus on AI – Regulation (EU) 2026/1744",
-   "actor": "European Commission",
-   "label": "Commission proposal (Art. 294(2) TFEU)",
-   "doc": "COM(2025) 836",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0836",
-   "key": "COM(2025) 836",
-   "page": "digital-omnibus-ai",
-   "type": "Legislation"
   }
  ]
 }

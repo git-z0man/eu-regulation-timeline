@@ -12,6 +12,12 @@
     "page": "epa.html"
   },
   {
+    "name": "forecast-epa-chance",
+    "title": "Forecast: European Product Act, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "epa.html"
+  },
+  {
     "name": "forecast-epa-package",
     "title": "Forecast: European Product Act and its package",
     "note": "With the New Standardisation Regulation and the announced sectoral omnibus (the Commission's intention; scope open).",
@@ -24,9 +30,21 @@
     "page": "nlf.html"
   },
   {
+    "name": "forecast-history",
+    "title": "Forecast: what comparable laws took",
+    "note": "Months from the Commission proposal to the Official Journal of the adopted acts we follow, against the median of all files.",
+    "page": "index.html"
+  },
+  {
     "name": "forecast-product-digitalisation-regulation",
     "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Regulation)",
     "note": "Step by step; Official Journal median Jan 2027.",
+    "page": "product-digitalisation-regulation.html"
+  },
+  {
+    "name": "forecast-product-digitalisation-regulation-chance",
+    "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Regulation), chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "product-digitalisation-regulation.html"
   },
   {
@@ -36,9 +54,21 @@
     "page": "product-digitalisation-directive.html"
   },
   {
+    "name": "forecast-product-digitalisation-directive-chance",
+    "title": "Forecast: Omnibus IV – Digitalisation and common specifications (Directive), chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "product-digitalisation-directive.html"
+  },
+  {
     "name": "forecast-space-act",
     "title": "Forecast: EU Space Act",
     "note": "Step by step; Official Journal median Dec 2027.",
+    "page": "space-act.html"
+  },
+  {
+    "name": "forecast-space-act-chance",
+    "title": "Forecast: EU Space Act, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "space-act.html"
   },
   {
@@ -48,9 +78,21 @@
     "page": "nis2-amendment.html"
   },
   {
+    "name": "forecast-nis2-amendment-chance",
+    "title": "Forecast: NIS-2 amendment, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "nis2-amendment.html"
+  },
+  {
     "name": "forecast-digital-omnibus",
     "title": "Forecast: Digital Omnibus",
     "note": "Step by step; Official Journal median Apr 2028.",
+    "page": "digital-omnibus.html"
+  },
+  {
+    "name": "forecast-digital-omnibus-chance",
+    "title": "Forecast: Digital Omnibus, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "digital-omnibus.html"
   },
   {
@@ -60,9 +102,21 @@
     "page": "medical-devices-simplification.html"
   },
   {
+    "name": "forecast-medical-devices-simplification-chance",
+    "title": "Forecast: MDR/IVDR simplification, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "medical-devices-simplification.html"
+  },
+  {
     "name": "forecast-csa2",
     "title": "Forecast: Cybersecurity Act 2",
     "note": "Step by step; Official Journal median May 2028.",
+    "page": "csa2.html"
+  },
+  {
+    "name": "forecast-csa2-chance",
+    "title": "Forecast: Cybersecurity Act 2, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "csa2.html"
   },
   {
@@ -72,9 +126,21 @@
     "page": "industrial-accelerator-act.html"
   },
   {
+    "name": "forecast-industrial-accelerator-act-chance",
+    "title": "Forecast: Industrial Accelerator Act, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "industrial-accelerator-act.html"
+  },
+  {
     "name": "forecast-cloud-ai-development-act",
     "title": "Forecast: Cloud and AI Development Act",
     "note": "Step by step; Official Journal median Sep 2028.",
+    "page": "cloud-ai-development-act.html"
+  },
+  {
+    "name": "forecast-cloud-ai-development-act-chance",
+    "title": "Forecast: Cloud and AI Development Act, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "cloud-ai-development-act.html"
   },
   {
@@ -84,9 +150,21 @@
     "page": "chips-act-2.html"
   },
   {
+    "name": "forecast-chips-act-2-chance",
+    "title": "Forecast: Chips Act 2.0, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "chips-act-2.html"
+  },
+  {
     "name": "forecast-standardisation-revision",
     "title": "Forecast: New Standardisation Regulation",
     "note": "Step by step; Official Journal median Oct 2028.",
+    "page": "standardisation-revision.html"
+  },
+  {
+    "name": "forecast-standardisation-revision-chance",
+    "title": "Forecast: New Standardisation Regulation, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "standardisation-revision.html"
   },
   {
@@ -96,9 +174,21 @@
     "page": "quantum-act.html"
   },
   {
+    "name": "forecast-quantum-act-chance",
+    "title": "Forecast: Quantum Act, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
+    "page": "quantum-act.html"
+  },
+  {
     "name": "forecast-public-procurement-act",
     "title": "Forecast: Public Procurement Act",
     "note": "Step by step; Official Journal median Nov 2028.",
+    "page": "public-procurement-act.html"
+  },
+  {
+    "name": "forecast-public-procurement-act-chance",
+    "title": "Forecast: Public Procurement Act, chance by date",
+    "note": "Chance of publication in the Official Journal by date.",
     "page": "public-procurement-act.html"
   },
   {
@@ -163,5 +253,165 @@
     "note": "By year of the proposal; since 14 Oct 2026 counted as negotiated after a long committee-plenary gap.",
     "page": "method.html",
     "de": "method-further-back-de"
+  },
+  {
+    "name": "forecast-cra-rule",
+    "title": "Cyber Resilience Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "../acts/cra.html",
+    "de": "forecast-cra-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-machinery-regulation-rule",
+    "title": "Machinery Regulation: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "../acts/machinery-regulation.html",
+    "de": "forecast-machinery-regulation-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-ai-act-rule",
+    "title": "Artificial Intelligence Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "../acts/ai-act.html",
+    "de": "forecast-ai-act-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-nis2-rule",
+    "title": "NIS 2 Directive: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "../acts/nis2.html",
+    "de": "forecast-nis2-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-market-surveillance-rule",
+    "title": "Market Surveillance Regulation: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "../acts/market-surveillance.html",
+    "de": "forecast-market-surveillance-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-digital-omnibus-ai-rule",
+    "title": "Digital Omnibus on AI: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "../acts/digital-omnibus-ai.html",
+    "de": "forecast-digital-omnibus-ai-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-chips-act-2-rule",
+    "title": "Chips Act 2.0: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "chips-act-2.html",
+    "de": "forecast-chips-act-2-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-cloud-ai-development-act-rule",
+    "title": "Cloud and AI Development Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "cloud-ai-development-act.html",
+    "de": "forecast-cloud-ai-development-act-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-csa2-rule",
+    "title": "Cybersecurity Act 2: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "csa2.html",
+    "de": "forecast-csa2-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-digital-omnibus-rule",
+    "title": "Digital Omnibus: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "digital-omnibus.html",
+    "de": "forecast-digital-omnibus-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-epa-rule",
+    "title": "European Product Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "epa.html",
+    "de": "forecast-epa-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-industrial-accelerator-act-rule",
+    "title": "Industrial Accelerator Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "industrial-accelerator-act.html",
+    "de": "forecast-industrial-accelerator-act-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-medical-devices-simplification-rule",
+    "title": "MDR/IVDR simplification: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "medical-devices-simplification.html",
+    "de": "forecast-medical-devices-simplification-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-nis2-amendment-rule",
+    "title": "NIS-2 amendment: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "nis2-amendment.html",
+    "de": "forecast-nis2-amendment-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-product-digitalisation-directive-rule",
+    "title": "Omnibus IV – Digitalisation and common specifications (Directive): rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "product-digitalisation-directive.html",
+    "de": "forecast-product-digitalisation-directive-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-product-digitalisation-regulation-rule",
+    "title": "Omnibus IV – Digitalisation and common specifications (Regulation): rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "product-digitalisation-regulation.html",
+    "de": "forecast-product-digitalisation-regulation-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-public-procurement-act-rule",
+    "title": "Public Procurement Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "public-procurement-act.html",
+    "de": "forecast-public-procurement-act-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-quantum-act-rule",
+    "title": "Quantum Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "quantum-act.html",
+    "de": "forecast-quantum-act-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-space-act-rule",
+    "title": "EU Space Act: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "space-act.html",
+    "de": "forecast-space-act-rule-de",
+    "section": "Rule of thumb per act"
+  },
+  {
+    "name": "forecast-standardisation-revision-rule",
+    "title": "New Standardisation Regulation: rule of thumb, duration by words of legal text",
+    "note": "Working months from the proposal to the Official Journal against words of legal text; data of 19 November 2026.",
+    "page": "standardisation-revision.html",
+    "de": "forecast-standardisation-revision-rule-de",
+    "section": "Rule of thumb per act"
   }
 ]

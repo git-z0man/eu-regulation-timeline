@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-19",
+ "as_of": "2026-11-20",
  "views": [
   {
    "key": "all",
@@ -45,7 +45,7 @@
     {
      "date": "2026-11-18",
      "act": "Industrial Accelerator Act",
-     "text": "Council released 2 documents listed as not public, incl. Third Presidency compromise text",
+     "text": "Council released 1 document listed as not public, incl. Third Presidency compromise text",
      "url": "procedures/industrial-accelerator-act.html",
      "top": false
     },
@@ -85,13 +85,6 @@
      "top": false
     },
     {
-     "date": "2026-11-12",
-     "act": "Artificial Intelligence Act",
-     "text": "Plenary vote: Institutional aspects of artificial intelligence in the context of European integration (Report)",
-     "url": "acts/ai-act.html",
-     "top": false
-    },
-    {
      "date": "2026-11-16",
      "act": "Cybersecurity Act 2",
      "text": "Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) …",
@@ -113,13 +106,6 @@
      "top": false
     },
     {
-     "date": "2026-11-12",
-     "act": "Public Procurement Act",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/public-procurement-act.html",
-     "top": false
-    },
-    {
      "date": "2026-11-17",
      "act": "Cyber Resilience Act",
      "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
@@ -131,13 +117,6 @@
      "act": "European Health Data Space Regulation",
      "text": "Committee on the European Health Data Space: Summary record published: 11th meeting: Committee on the …",
      "url": "procedures/ehds.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-12",
-     "act": "Cyber Solidarity Act",
-     "text": "Digital Europe Programme Coordination Committee: Summary record published: 18th meeting of the Digital …",
-     "url": "procedures/cyber-solidarity-act.html",
      "top": false
     }
    ]
@@ -177,18 +156,11 @@
      "top": true
     },
     {
-     "date": "2026-11-12",
-     "act": "Artificial Intelligence Act",
-     "text": "Plenary vote: Institutional aspects of artificial intelligence in the context of European integration (Report)",
-     "url": "acts/ai-act.html",
-     "top": true
-    },
-    {
      "date": "2026-11-16",
      "act": "Cybersecurity Act 2",
      "text": "Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) …",
      "url": "procedures/csa2.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-17",

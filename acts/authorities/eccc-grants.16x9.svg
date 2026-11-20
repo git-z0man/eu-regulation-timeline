@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Grants managed by the ECCC" x="48" y="48" width="1824" height="984" viewBox="0 0 900 531" preserveAspectRatio="xMidYMid meet">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Grants managed by the ECCC</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="531" fill="#fff"/>
+<defs><pattern id="plan" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cfe2e4" stroke-width="3"/></pattern></defs>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Grants managed by the ECCC</text>
+<text x="24" y="60" font-size="14" fill="#454c53">EU contribution to the 230 projects the ECCC manages, EUR million, by the year a project starts.</text>
+<text x="24" y="78" font-size="14" fill="#454c53">From the Funding &amp; Tenders Portal; projects signed but not yet started included.</text>
+<line x1="76" x2="876" y1="412.0" y2="412.0" stroke="#454c53"/>
+<text x="68" y="416.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="76" x2="876" y1="362.0" y2="362.0" stroke="#eceff1"/>
+<text x="68" y="366.0" text-anchor="end" font-size="12" fill="#454c53">50</text>
+<line x1="76" x2="876" y1="312.0" y2="312.0" stroke="#eceff1"/>
+<text x="68" y="316.0" text-anchor="end" font-size="12" fill="#454c53">100</text>
+<line x1="76" x2="876" y1="262.0" y2="262.0" stroke="#eceff1"/>
+<text x="68" y="266.0" text-anchor="end" font-size="12" fill="#454c53">150</text>
+<line x1="76" x2="876" y1="212.0" y2="212.0" stroke="#eceff1"/>
+<text x="68" y="216.0" text-anchor="end" font-size="12" fill="#454c53">200</text>
+<line x1="76" x2="876" y1="162.0" y2="162.0" stroke="#eceff1"/>
+<text x="68" y="166.0" text-anchor="end" font-size="12" fill="#454c53">250</text>
+<line x1="76" x2="876" y1="112.0" y2="112.0" stroke="#eceff1"/>
+<text x="68" y="116.0" text-anchor="end" font-size="12" fill="#454c53">300</text>
+<text x="68" y="98" text-anchor="end" font-size="12" fill="#454c53">EUR million</text>
+<rect x="112.0" y="305.8" width="128.0" height="106.2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Digital Europe 2023: 106.2</title></rect>
+<text x="176.0" y="299.8" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">106.2</text>
+<text x="176.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2023</text>
+<text x="176.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">55 projects</text>
+<rect x="312.0" y="277.5" width="128.0" height="134.5" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Digital Europe 2024: 134.5</title></rect>
+<rect x="312.0" y="219.7" width="128.0" height="57.8" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Horizon Europe 2024: 57.8</title></rect>
+<text x="376.0" y="213.7" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">192.3</text>
+<text x="376.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2024</text>
+<text x="376.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">61 projects</text>
+<rect x="512.0" y="284.4" width="128.0" height="127.6" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Digital Europe 2025: 127.6</title></rect>
+<rect x="512.0" y="223.0" width="128.0" height="61.3" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Horizon Europe 2025: 61.3</title></rect>
+<text x="576.0" y="217.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">189.0</text>
+<text x="576.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2025</text>
+<text x="576.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">46 projects</text>
+<rect x="712.0" y="244.6" width="128.0" height="167.4" fill="#0b4f57" stroke="#0b4f57" stroke-width="1"><title>Digital Europe 2026: 167.4</title></rect>
+<rect x="712.0" y="150.0" width="128.0" height="94.7" fill="#3d7f86" stroke="#3d7f86" stroke-width="1"><title>Horizon Europe 2026: 94.7</title></rect>
+<text x="776.0" y="144.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#14181c">262.0</text>
+<text x="776.0" y="430" text-anchor="middle" font-size="13" fill="#14181c">2026</text>
+<text x="776.0" y="446" text-anchor="middle" font-size="11.5" fill="#454c53">68 projects</text>
+<rect x="24" y="463" width="14" height="14" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="474" font-size="13" fill="#14181c">Digital Europe</text>
+<rect x="149" y="463" width="14" height="14" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="169" y="474" font-size="13" fill="#14181c">Horizon Europe</text>
+<text x="24" y="504" font-size="11.5" fill="#5b646b">Source: EU Funding &amp; Tenders Portal, projects managed by the ECCC.</text><text x="24" y="521" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 19 Nov 2026</text>
+</svg>
+
+</svg>

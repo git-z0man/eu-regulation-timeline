@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Produktsicherheit wurde 2026 vom Randthema zum größten Bereich der ENISA" x="48" y="48" width="1824" height="984" viewBox="0 0 900 529" preserveAspectRatio="xMidYMid meet">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Produktsicherheit wurde 2026 vom Randthema zum größten Bereich der ENISA</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="529" fill="#fff"/>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Produktsicherheit wurde 2026 vom Randthema zum größten Bereich der ENISA</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Einträge der Publikationsliste der ENISA je Jahr, nach dem Thema, mit dem ENISA sie verschlagwortet hat</text>
+<line x1="70" x2="860" y1="408.0" y2="408.0" stroke="#454c53"/>
+<text x="62" y="412.0" text-anchor="end" font-size="12" fill="#454c53">0</text>
+<line x1="70" x2="860" y1="365.1" y2="365.1" stroke="#eceff1"/>
+<text x="62" y="369.1" text-anchor="end" font-size="12" fill="#454c53">5</text>
+<line x1="70" x2="860" y1="322.3" y2="322.3" stroke="#eceff1"/>
+<text x="62" y="326.3" text-anchor="end" font-size="12" fill="#454c53">10</text>
+<line x1="70" x2="860" y1="279.4" y2="279.4" stroke="#eceff1"/>
+<text x="62" y="283.4" text-anchor="end" font-size="12" fill="#454c53">15</text>
+<line x1="70" x2="860" y1="236.6" y2="236.6" stroke="#eceff1"/>
+<text x="62" y="240.6" text-anchor="end" font-size="12" fill="#454c53">20</text>
+<line x1="70" x2="860" y1="193.7" y2="193.7" stroke="#eceff1"/>
+<text x="62" y="197.7" text-anchor="end" font-size="12" fill="#454c53">25</text>
+<line x1="70" x2="860" y1="150.9" y2="150.9" stroke="#eceff1"/>
+<text x="62" y="154.9" text-anchor="end" font-size="12" fill="#454c53">30</text>
+<line x1="70" x2="860" y1="108.0" y2="108.0" stroke="#eceff1"/>
+<text x="62" y="112.0" text-anchor="end" font-size="12" fill="#454c53">35</text>
+<rect x="114.4" y="399.4" width="108.6" height="8.6" fill="#0b4f57" stroke="#fff" stroke-width="1"><title>2023, Produktsicherheit (CRA): 1</title></rect>
+<rect x="114.4" y="390.9" width="108.6" height="8.6" fill="#3d7f86" stroke="#fff" stroke-width="1"><title>2023, Zertifizierung: 1</title></rect>
+<rect x="114.4" y="219.4" width="108.6" height="171.4" fill="#9fc3c7" stroke="#fff" stroke-width="1"><title>2023, NIS-2, Bedrohungen, kritische Sektoren: 20</title></rect>
+<text x="168.8" y="309.1" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">20</text>
+<rect x="114.4" y="116.6" width="108.6" height="102.9" fill="#e4e6e8" stroke="#fff" stroke-width="1"><title>2023, Andere Themen oder keines: 12</title></rect>
+<text x="168.8" y="172.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">12</text>
+<text x="168.8" y="109.6" text-anchor="middle" font-size="13" font-weight="700" fill="#14181c">34</text>
+<text x="168.8" y="426.0" text-anchor="middle" font-size="13" fill="#14181c">2023</text>
+<rect x="311.9" y="382.3" width="108.6" height="25.7" fill="#3d7f86" stroke="#fff" stroke-width="1"><title>2024, Zertifizierung: 3</title></rect>
+<text x="366.2" y="399.1" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">3</text>
+<rect x="311.9" y="288.0" width="108.6" height="94.3" fill="#9fc3c7" stroke="#fff" stroke-width="1"><title>2024, NIS-2, Bedrohungen, kritische Sektoren: 11</title></rect>
+<text x="366.2" y="339.1" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">11</text>
+<rect x="311.9" y="202.3" width="108.6" height="85.7" fill="#e4e6e8" stroke="#fff" stroke-width="1"><title>2024, Andere Themen oder keines: 10</title></rect>
+<text x="366.2" y="249.1" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">10</text>
+<text x="366.2" y="195.3" text-anchor="middle" font-size="13" font-weight="700" fill="#14181c">24</text>
+<text x="366.2" y="426.0" text-anchor="middle" font-size="13" fill="#14181c">2024</text>
+<rect x="509.4" y="390.9" width="108.6" height="17.1" fill="#3d7f86" stroke="#fff" stroke-width="1"><title>2025, Zertifizierung: 2</title></rect>
+<text x="563.8" y="403.4" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">2</text>
+<rect x="509.4" y="270.9" width="108.6" height="120.0" fill="#9fc3c7" stroke="#fff" stroke-width="1"><title>2025, NIS-2, Bedrohungen, kritische Sektoren: 14</title></rect>
+<text x="563.8" y="334.9" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">14</text>
+<rect x="509.4" y="236.6" width="108.6" height="34.3" fill="#e4e6e8" stroke="#fff" stroke-width="1"><title>2025, Andere Themen oder keines: 4</title></rect>
+<text x="563.8" y="257.7" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">4</text>
+<text x="563.8" y="229.6" text-anchor="middle" font-size="13" font-weight="700" fill="#14181c">20</text>
+<text x="563.8" y="426.0" text-anchor="middle" font-size="13" fill="#14181c">2025</text>
+<rect x="706.9" y="339.4" width="108.6" height="68.6" fill="#0b4f57" stroke="#fff" stroke-width="1"><title>2026 (bis 15.11.), Produktsicherheit (CRA): 8</title></rect>
+<text x="761.2" y="377.7" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">8</text>
+<rect x="706.9" y="296.6" width="108.6" height="42.9" fill="#9fc3c7" stroke="#fff" stroke-width="1"><title>2026 (bis 15.11.), NIS-2, Bedrohungen, kritische Sektoren: 5</title></rect>
+<text x="761.2" y="322.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">5</text>
+<rect x="706.9" y="219.4" width="108.6" height="77.1" fill="#e4e6e8" stroke="#fff" stroke-width="1"><title>2026 (bis 15.11.), Andere Themen oder keines: 9</title></rect>
+<text x="761.2" y="262.0" text-anchor="middle" font-size="12" font-weight="600" fill="#14181c">9</text>
+<text x="761.2" y="212.4" text-anchor="middle" font-size="13" font-weight="700" fill="#14181c">22</text>
+<text x="761.2" y="426.0" text-anchor="middle" font-size="13" fill="#14181c">2026 (bis 15.11.)</text>
+<rect x="24.0" y="447.0" width="14.0" height="14.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="458" font-size="13" fill="#14181c">Produktsicherheit (CRA)</text>
+<rect x="225.6" y="447.0" width="14.0" height="14.0" rx="2" fill="#3d7f86" stroke="#3d7f86" stroke-width="1.2"/>
+<text x="246" y="458" font-size="13" fill="#14181c">Zertifizierung</text>
+<rect x="362.4" y="447.0" width="14.0" height="14.0" rx="2" fill="#9fc3c7" stroke="#6e9195" stroke-width="1.2"/>
+<text x="382" y="458" font-size="13" fill="#14181c">NIS-2, Bedrohungen, kritische Sektoren</text>
+<rect x="24.0" y="469.0" width="14.0" height="14.0" rx="2" fill="#e4e6e8" stroke="#8a9096" stroke-width="1.2"/>
+<text x="44" y="480" font-size="13" fill="#14181c">Andere Themen oder keines</text>
+<text x="24" y="510" font-size="11.5" fill="#5b646b">Quelle: www.enisa.europa.eu/publications, 110 Einträge gelesen am 15.11.2026, davon 100 aus 2023 bis 2026; ein Bereich je Eintrag, Produktsicherheit zuerst.</text><text x="24" y="527" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · Stand 15.11.2026</text>
+</svg>
+
+</svg>

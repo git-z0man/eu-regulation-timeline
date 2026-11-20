@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="13" role="img" aria-label="Drei von vier CRA-Entwürfen 2026 wurden auf keiner ENISA-Website angekündigt" x="48" y="48" width="1824" height="984" viewBox="0 0 900 527" preserveAspectRatio="xMidYMid meet">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>Drei von vier CRA-Entwürfen 2026 wurden auf keiner ENISA-Website angekündigt</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="900" height="527" fill="#fff"/>
+<text x="24" y="36" font-size="21" font-weight="700" fill="#14181c">Drei von vier CRA-Entwürfen 2026 wurden auf keiner ENISA-Website angekündigt</text>
+<text x="24" y="60" font-size="14" fill="#454c53">Wie lange die Konsultationen der ENISA 2024 bis 2026 liefen, in Wochen; gestrichelt: die Fristen der Kommission</text>
+<line x1="330.0" x2="330.0" y1="126" y2="432" stroke="#454c53"/>
+<text x="330.0" y="448" text-anchor="middle" font-size="12" fill="#454c53">0</text>
+<line x1="408.5" x2="408.5" y1="126" y2="432" stroke="#eceff1"/>
+<text x="408.5" y="448" text-anchor="middle" font-size="12" fill="#454c53">2</text>
+<line x1="486.9" x2="486.9" y1="126" y2="432" stroke="#eceff1"/>
+<text x="486.9" y="448" text-anchor="middle" font-size="12" fill="#454c53">4</text>
+<line x1="565.4" x2="565.4" y1="126" y2="432" stroke="#eceff1"/>
+<text x="565.4" y="448" text-anchor="middle" font-size="12" fill="#454c53">6</text>
+<line x1="643.8" x2="643.8" y1="126" y2="432" stroke="#eceff1"/>
+<text x="643.8" y="448" text-anchor="middle" font-size="12" fill="#454c53">8</text>
+<line x1="722.3" x2="722.3" y1="126" y2="432" stroke="#eceff1"/>
+<text x="722.3" y="448" text-anchor="middle" font-size="12" fill="#454c53">10</text>
+<line x1="800.8" x2="800.8" y1="126" y2="432" stroke="#eceff1"/>
+<text x="800.8" y="448" text-anchor="middle" font-size="12" fill="#454c53">12</text>
+<text x="840" y="448" text-anchor="start" font-size="12" fill="#454c53" dx="8">Wochen</text>
+<line x1="486.9" x2="486.9" y1="110" y2="432" stroke="#14181c" stroke-dasharray="5 4"/>
+<text x="480.9" y="106" text-anchor="end" font-size="12" fill="#14181c">4 Wochen: Kommission, Feedback zu Entwürfen</text>
+<line x1="800.8" x2="800.8" y1="96" y2="432" stroke="#14181c" stroke-dasharray="5 4"/>
+<text x="794.8" y="92" text-anchor="end" font-size="12" fill="#14181c">12 Wochen: Kommission, öffentliche Konsultation</text>
+<text x="320" y="151.0" text-anchor="end" font-size="13" fill="#14181c">Zertifizierung: EU5G eUICC</text>
+<rect x="330.0" y="138.0" width="397.9" height="18.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"><title>Zertifizierung: EU5G eUICC: 26.6.2024 – 5.9.2024</title></rect>
+<text x="733.9" y="151.0" font-size="12" font-weight="600" fill="#14181c">10,1</text>
+<text x="320" y="181.0" text-anchor="end" font-size="13" fill="#14181c">NIS-2: Umsetzungsleitfaden</text>
+<rect x="330.0" y="168.0" width="353.1" height="18.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"><title>NIS-2: Umsetzungsleitfaden: 7.11.2024 – 9.1.2025</title></rect>
+<text x="689.1" y="181.0" font-size="12" font-weight="600" fill="#14181c">9,0</text>
+<text x="320" y="211.0" text-anchor="end" font-size="13" fill="#14181c">CRA: Paketmanager und SBOM</text>
+<rect x="330.0" y="198.0" width="207.4" height="18.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"><title>CRA: Paketmanager und SBOM: 17.12.2025 – 23.1.2026</title></rect>
+<text x="543.4" y="211.0" font-size="12" font-weight="600" fill="#14181c">5,3</text>
+<text x="320" y="241.0" text-anchor="end" font-size="13" fill="#14181c">CRA: Secure-by-Design-Playbook</text>
+<rect x="330.0" y="228.0" width="319.5" height="18.0" rx="2" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"><title>CRA: Secure-by-Design-Playbook: 19.3.2026 – 15.5.2026</title></rect>
+<text x="655.5" y="241.0" font-size="12" font-weight="600" fill="#14181c">8,1</text>
+<text x="320" y="271.0" text-anchor="end" font-size="13" fill="#14181c">Zertifizierung: Identitäts-Wallet</text>
+<rect x="330.0" y="258.0" width="156.9" height="18.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"><title>Zertifizierung: Identitäts-Wallet: 2.4.2026 – 30.4.2026</title></rect>
+<text x="492.9" y="271.0" font-size="12" font-weight="600" fill="#14181c">4,0</text>
+<text x="320" y="301.0" text-anchor="end" font-size="13" fill="#14181c">CRA: sichere Update-Mechanismen</text>
+<rect x="330.0" y="288.0" width="213.0" height="18.0" rx="2" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"><title>CRA: sichere Update-Mechanismen: 2.6.2026 – 10.7.2026</title></rect>
+<text x="549.0" y="301.0" font-size="12" font-weight="600" fill="#14181c">5,4</text>
+<text x="320" y="331.0" text-anchor="end" font-size="13" fill="#14181c">Zertifizierung: Kryptomechanismen</text>
+<rect x="330.0" y="318.0" width="330.7" height="18.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"><title>Zertifizierung: Kryptomechanismen: 2.6.2026 – 31.7.2026</title></rect>
+<text x="666.7" y="331.0" font-size="12" font-weight="600" fill="#14181c">8,4</text>
+<text x="320" y="361.0" text-anchor="end" font-size="13" fill="#14181c">Zertifizierung: Managed Security Services</text>
+<rect x="330.0" y="348.0" width="285.8" height="18.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"><title>Zertifizierung: Managed Security Services: 24.7.2026 – 13.9.2026</title></rect>
+<text x="621.8" y="361.0" font-size="12" font-weight="600" fill="#14181c">7,3</text>
+<text x="320" y="391.0" text-anchor="end" font-size="13" fill="#14181c">CRA: KI-gestützte Entwicklung</text>
+<rect x="330.0" y="378.0" width="156.9" height="18.0" rx="2" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"><title>CRA: KI-gestützte Entwicklung: 17.9.2026 – 15.10.2026</title></rect>
+<text x="492.9" y="391.0" font-size="12" font-weight="600" fill="#14181c">4,0</text>
+<text x="320" y="421.0" text-anchor="end" font-size="13" fill="#14181c">CRA: security.txt und Offenlegung</text>
+<rect x="330.0" y="408.0" width="112.1" height="18.0" rx="2" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"><title>CRA: security.txt und Offenlegung: 26.10.2026 – 15.11.2026</title></rect>
+<text x="448.1" y="421.0" font-size="12" font-weight="600" fill="#14181c">2,9</text>
+<rect x="24.0" y="467.0" width="14.0" height="14.0" rx="2" fill="#0b4f57" stroke="#0b4f57" stroke-width="1.2"/>
+<text x="44" y="478" font-size="13" fill="#14181c">Auf einer ENISA-Website angekündigt</text>
+<rect x="312.0" y="467.0" width="14.0" height="14.0" rx="2" fill="#ffffff" stroke="#8a9096" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="332" y="478" font-size="13" fill="#14181c">Auf keiner ENISA-Website angekündigt</text>
+<text x="24" y="508" font-size="11.5" fill="#5b646b">Quellen: ENISA-Websites, EUSurvey, Archiv der ORC-WG-Liste. Playbook ab etwa 19.3.2026; Kryptomechanismen bis Ende Juli (31.7.).</text><text x="24" y="525" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · Stand 14.11.2026</text>
+</svg>
+
+</svg>
