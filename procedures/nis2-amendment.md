@@ -61,7 +61,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-09 | [WK 17271/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335) | council-compromise | Presidency compromise text | not public\* | [Request running ↗](https://www.asktheeu.org/request/council_document_wk_172712026_in) (waiting response) | – | – |
 | 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-19.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-20.
 
 ## Texts as Markdown
 

@@ -52,7 +52,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2023-05-31 | ST 10004/23 | council-note | Voting result Regulation of the European Parliament and of the Council on machinery products Adoption of the legislative act 3949th meeting of the Council of … | public status unknown | – | – | – |
 | 2023-06-14 | PE 6/23 REV 1 | council-note | Regulation of the European Parliament and of the Council on machinery and repealing Directive 2006/42/ec of the European Parliament and of the Council and … | public status unknown | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-19.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-20.
 
 ## Texts as Markdown
 
@@ -176,6 +176,7 @@ Projects of CEN, CENELEC and ETSI for the act, from their public work programmes
 
 | Body | Project | Title | Status | Next step | Vote (forecast) | Request |
 | --- | --- | --- | --- | --- | --- | --- |
+| CLC/TC 44X | [EN 50742:2026](https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_ORG_ID,FSP_PROJECT,FSP_LANG_ID:1257239,77624,25&cs=133CC570B65336222E8042A420E4E9D66) | Safety of machinery - Protection against corruption | Published (2026-11-20) | – | – | M/605 |
 | CEN/TC 114 | [prEN ISO 11161](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80059,25&cs=1A98811FDAC3A2DD114BEB0ECF149EEA9) (WI 00114191) | Safety of machinery - Integration of machinery into a system - Basic requirements (ISO/DIS 11161:2024) | Under Approval (2024-10-21) | next stage (2025-06-23) | 2025-06-23 | M/396, M/605 |
 | CEN/TC 114 | [prEN ISO 12100](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79119,25&cs=1E895BDE91FF1EF11D8AA26C89B19B09A) (WI 00114190) | Safety of machinery - General principles for design - Risk assessment and risk reduction (ISO/DIS 12100:2026) | Under Approval (2026-09-15) | next stage (2027-05-17) | 2027-05-17 | M/396, M/605 |
 | CEN/TC 114 | [prEN ISO 12895](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76052,25&cs=15AE98D65BBE1EE0FD7DE34027F06493B) (WI 00114186) | Safety of machinery - Identification of whole body access and prevention of associated risk(s) (ISO/DIS 12895:2025) | Under Approval (2025-11-20) | next stage (2026-01-22) | 2025-11-20 | M/396, M/605 |
@@ -184,7 +185,6 @@ Projects of CEN, CENELEC and ETSI for the act, from their public work programmes
 | CEN/TC 114 | [prEN ISO 14122 rev](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79117,25&cs=1873F7A1929413C7D903F62B4029909CA) (WI 00114188) | Safety of machinery — Permanent means of access to machinery — Part 1: Choice of fixed means of access between two levels | Under Drafting (2023-12-04) | next stage (2024-06-04) | 2026-01-02 | M/605 |
 | CEN/TC 114 | [prEN ISO 14159](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79118,25&cs=14615C5D026E520460547A546B360D9E7) (WI 00114189) | Safety of machinery - General requirements for hygienic design (ISO/DIS 14159:2026) | Under Approval (2026-10-01) | next stage (2027-06-01) | 2027-06-01 | M/605 |
 | CEN/TC 114 | [prEN ISO 20607](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80777,25&cs=116F2C5BF6F1EE7F72BAE3BF341E61765) (WI 00114192) | Safety of machinery - Instruction handbook - General drafting principles (ISO/DIS 20607:2025) | Under Approval (2025-05-02) | next stage (2026-01-02) | 2026-01-02 | M/396, M/605 |
-| CLC/TC 44X | [EN 50742:2026](https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963) | Safety of machinery - Protection against corruption | Approved (2026-11-13) | next stage (2026-11-20) | 2026-09-02 | M/605 |
 | CLC/TC 44X | [EN IEC 60204-32:2025/prAA](https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:83711,25&cs=1E8784E924801A1A4871BC0BAE1E1E8A5) | SAFETY OF MACHINERY – ELECTRICAL EQUIPMENT OF MACHINES – Part 32: Requirements for hoisting machines | Under Drafting (2026-06-10) | next stage (2026-10-12) | 2028-03-21 | M/511, M/605 |
 | CLC/TC 44X | [prEN IEC 60204-1](https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77271,25&cs=17901F8CE96571419AABDA4F20E67109B) | Safety of machinery - Electrical equipment of machines - Part 1: General requirements | Under Drafting (2026-01-22) | next stage (2026-07-22) | 2027-08-23 | M/396, M/511, M/605 |
 | CLC/TC 44X | [prEN IEC 62745:2025](https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:76011,25&cs=17C7C78434E5AFEAD6F5F4843F8472B2F) | Safety of machinery - Requirements for cableless control systems of machinery | Under Approval (2026-02-20) | next stage (2026-10-20) | 2026-10-20 | M/396, M/511, M/605 |

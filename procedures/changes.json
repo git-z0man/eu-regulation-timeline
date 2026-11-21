@@ -1,67 +1,67 @@
 {
  "items": [
   {
+   "date": "2026-11-20",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Closing of approval procedure",
+   "doc": "EN 302 977",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-26 – Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aeri: Approval Stage – Closing of approval procedure",
+   "doc": "EN 301 908-26",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "MR",
+   "actor": "CLC/TC 44X",
+   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Published",
+   "doc": "EN 50742:2026",
+   "page": "machinery-regulation.html"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "Draft implementing act published: COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027 (2026-11-17)",
+   "doc": "draft implementing act",
+   "page": "cyber-solidarity-act.html"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 626",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 625",
+   "page": "cra.html"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 622",
+   "page": "cra.html"
+  },
+  {
    "date": "2026-11-19",
    "title": "RED",
    "actor": "SES HARM",
    "label": "EN 302 574-3 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Waiting - see \"Remarks\"",
    "doc": "EN 302 574-3",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 574-2 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Waiting - see \"Remarks\"",
-   "doc": "EN 302 574-2",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 574-1 – Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) operating in the 1: Drafting Stage – Waiting - see \"Remarks\"",
-   "doc": "EN 302 574-1",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Publication",
-   "doc": "EN 301 447",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "European Parliament",
-   "label": "ITRE committee meeting held: agenda item 9 (vote)",
-   "doc": "OJ-1354563",
-   "page": "space-act.html"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "CRA",
-   "actor": "CEN/CLC/JTC 13",
-   "label": "FprEN 40000-1-3:2026 – Cybersecurity requirements for products with digital elements - Part 1-3: Vulnerability ha: Under Approval",
-   "doc": "FprEN 40000-1-3:2026",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18229-4 – Artificial Intelligence - AI system requirements - Part 4: Transparency: Under Enquiry",
-   "doc": "prEN 18229-4",
-   "page": "ai-act.html"
-  },
-  {
-   "date": "2026-11-18",
-   "title": "RED",
-   "actor": "ERM WGUWB",
-   "label": "EN 305 550-9 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range; Harmonised : Drafting Stage – Stable draft",
-   "doc": "EN 305 550-9",
    "page": "committees.html#red"
   }
  ]

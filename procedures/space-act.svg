@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="871" viewBox="0 0 1800 871" font-family='"Source Sans 3", Helvetica, Arial, sans-serif'>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect width="1800" height="871" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-19">
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-20">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – EU Space Act – COM(2025) 335 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 19 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2025/0335(COD). State as of 20 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see space-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -20,7 +20,7 @@
 <rect x="250.0" y="150.0" width="200.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="167.8">EP position at first reading</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="350.0" y="199.2">Art. 294(3)</tspan></text>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">IMCO opinion adopted, 24 Mar 2026</tspan></text>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="350.0" y="220.2">Committee adopts report and mandate, 19 Nov 2026</tspan></text>
 <rect x="490.0" y="150.0" width="210.0" height="58.0" fill="#ffffff" stroke="#0f5a63" stroke-dasharray="6 3" stroke-width="2.5"/>
 <text font-size="11" fill="#14181c" text-anchor="middle" font-weight="bold"><tspan x="595.0" y="167.8">Council approves the EP position?</tspan></text>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="595.0" y="199.2">Art. 294(4)</tspan></text>
@@ -120,8 +120,8 @@
 <rect x="20.0" y="763.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="776.9">Signature and publication</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="776.1">no events yet</tspan></text>
-<line x1="1589.5" y1="440.0" x2="1589.5" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1589.5" y="797.1">as of 19 Nov 2026</tspan></text>
+<line x1="1592.1" y1="440.0" x2="1592.1" y2="787.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1592.1" y="797.1">as of 20 Nov 2026</tspan></text>
 <rect x="267.8" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="271.8" y="462.1">25 Jun 2025 · Commission proposal (COM(2025) 335)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0335" target="_blank"><title>25 Jun 2025: Commission proposal – COM(2025) 335</title><polygon points="271.7704918032787,465 279.7704918032787,473 271.7704918032787,481 263.7704918032787,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -142,11 +142,14 @@
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-785496/ENVI-AD-785496_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="953.8" y="617.1">17 Mar 2026 · ENVI opinion adopted (PE785.496)</tspan></text></a>
 <rect x="967.8" y="566.0" width="224.2" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-779484/IMCO-AD-779484_en.pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="971.8" y="575.1">24 Mar 2026 · IMCO opinion adopted (PE779.484)</tspan></text></a>
+<rect x="1541.7" y="579.0" width="238.3" height="12.0" fill="#ffffff"/>
+<text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1545.7" y="588.1">19 Nov 2026 · Committee adopts report and mandate</tspan></text>
 <g><title>29 Jul 2025: ITRE rapporteur appointed (Elena Donazzan, ECR)</title><polygon points="359.27868852459017,593.5 364.77868852459017,599 359.27868852459017,604.5 353.77868852459017,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>8 Sep 2025: Referral to committee announced in plenary</title><polygon points="464.80327868852464,593.5 470.30327868852464,599 464.80327868852464,604.5 459.30327868852464,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-784432/ITRE-PR-784432_en.pdf" target="_blank"><title>3 Mar 2026: ITRE draft report – PE784.432</title><polygon points="917.7868852459017,593.5 923.2868852459017,599 917.7868852459017,604.5 912.2868852459017,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/ENVI-AD-785496/ENVI-AD-785496_en.pdf" target="_blank"><title>17 Mar 2026: ENVI opinion adopted – PE785.496</title><polygon points="953.8196721311475,593.5 959.3196721311475,599 953.8196721311475,604.5 948.3196721311475,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
 <a xlink:href="https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-779484/IMCO-AD-779484_en.pdf" target="_blank"><title>24 Mar 2026: IMCO opinion adopted – PE779.484</title><polygon points="971.8360655737705,593.5 977.3360655737705,599 971.8360655737705,604.5 966.3360655737705,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
+<g><title>19 Nov 2026: Committee adopts report and mandate</title><polygon points="1589.5409836065573,593.5 1595.0409836065573,599 1589.5409836065573,604.5 1584.0409836065573,599" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <line x1="691.3" y1="696.0" x2="691.3" y2="710.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="987.3" y1="738.0" x2="987.3" y2="722.0" stroke="#c3c8cd" stroke-width="1"/>
 <line x1="1087.7" y1="683.0" x2="1087.7" y2="710.0" stroke="#c3c8cd" stroke-width="1"/>
@@ -202,5 +205,5 @@
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="818.9">Notes</tspan></text>
 <text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="836.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="862.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 19 Nov 2026</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="862.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 20 Nov 2026</tspan></text>
 </svg>

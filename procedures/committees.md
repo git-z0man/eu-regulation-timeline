@@ -10,7 +10,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Cyber Resilience Act](cra.md) | [CRA Expert Group](committee-e03967.md) | Expert group | 6 | 2026-10-08 | – |
 | [Cyber Resilience Act](cra.md) | [ENISA AHWG Standardisation](committee-enisa-ahwg-std.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cyber Resilience Act](cra.md) | [ENISA AHWG Security Architecture and Vulnerability Management](committee-enisa-ahwg-saevm.md) | ENISA ad hoc working group | 0 | – | – |
-| [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 17 | 2026-11-06 | – |
+| [Cyber Solidarity Act](cyber-solidarity-act.md) | [Digital Europe Programme Coordination Committee](committee-c70600.md) | Comitology committee | 18 | 2026-11-17 | – |
 | [Cybersecurity Act](csa.md) | [European Cybersecurity Certification Committee](committee-c106400.md) | Comitology committee | 4 | 2025-10-28 | – |
 | [Cybersecurity Act](csa.md) | [ENISA AHWG Cloud Services](committee-enisa-ahwg-cloud.md) | ENISA ad hoc working group | 0 | – | – |
 | [Cybersecurity Act](csa.md) | [ENISA AHWG 5G](committee-enisa-ahwg-5g.md) | ENISA ad hoc working group | 0 | – | – |

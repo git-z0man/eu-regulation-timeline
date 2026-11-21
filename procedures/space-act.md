@@ -1,15 +1,15 @@
 # Legislative procedure – EU Space Act – COM(2025) 335 (proposal)
 
-Procedure 2025/0335(COD), as of 19 Nov 2026.
+Procedure 2025/0335(COD), as of 20 Nov 2026.
 Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web page: [space-act.html](space-act.html)
 
 ## Status and next steps
 
-- **Stage:** EP committee stage
-- **Parliament:** draft report 3 Mar 2026
+- **Stage:** EP mandate adopted
+- **Parliament:** mandate 19 Nov 2026
 - **Council:** working party, latest document 13 Nov 2026
-- **Latest activity:** 19 Nov 2026 · European Parliament: ITRE committee meeting held: agenda item 9 (vote) (OJ-1354563)
-- **Next steps:** 19 Nov 2026: ITRE committee vote scheduled (EP committee agenda); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Latest activity:** 19 Nov 2026 · European Parliament: Committee adopts report and mandate
+- **Next steps:** Council mandate for negotiations; then trilogues
 
 ## Events
 
@@ -57,6 +57,7 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 | 2026-11-03 | Council | Space Working Party meeting - ATTACHES FORMAT in the afternoon: Information from the Presidency (14787/26) | [CM 4724/26](https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf) | Council register, CM 4724/26 (notice of meeting and provisional agenda) |
 | 2026-11-11 | Council | Space Working Party meeting: Examination (14787/26) | [CM 4859/26](https://data.consilium.europa.eu/doc/document/CM-4859-2026-INIT/en/pdf) | Council register, CM 4859/26 (notice of meeting and provisional agenda) |
 | 2026-11-13 | Council | Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, … | [ST 15547/26](https://data.consilium.europa.eu/doc/document/ST-15547-2026-INIT/en/pdf) · [en.md](../texts/space-act/2026-11-13_council-progress-report-st-15547-26.en.md) | Cellar procedure file 2025/335 (Council register) |
+| 2026-11-19 | European Parliament | Committee adopts report and mandate | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29) | EP Open Data API, procedure 2025-0335 (COMMITTEE_ADOPTING_REPORT) |
 
 ## Documents
 
@@ -120,7 +121,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-04 | [WK 17096/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/101555) | council-compromise | October 2026 Presidency compromise text – Explanations | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017096%2F2026%20INIT%20%28EU%20Space%20Act%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017096%2F2026%20INIT%20of%204%20November%202026%3A%20October%202026%20Presidency%20compromise%20text%20%E2%80%93%20Explanations%0A%20%20%28interinstitutional%20file%202025%2F0335%28COD%29%2C%20EU%20Space%20Act%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17096-2026-INIT) | – | – |
 | 2026-11-13 | [ST 15547/26](https://data.consilium.europa.eu/doc/document/ST-15547-2026-INIT/en/pdf) | council-progress-report | Preparation of the Meeting of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 3-4 December 2026 Regulation on the safety, …<br>*Our summary:* Progress report on the EU Space Act of 13 November 2026, sent by the General Secretariat of the Council to Coreper and the Council for the Competitiveness Council of 3-4 December 2026, which are invited to take note of it; it records the work of the Irish Presidency, is not a Council position and changes no text. It reports on the Presidency compromise text of 29 October 2026: "EUSA verification" replaces "EUSA registration" for third-country operators and international organisations, the scope excludes space objects operated by military or defence authorities for their entire lifetime or owned by military authorities, a self-certification without a qualified technical body is offered for spacecraft with governmental ownership or operation, the rules on space-based data now centre on Earth observation data bought by public contracting authorities and Union bodies, and the environmental footprint gives way to a life-cycle assessment with a voluntary Union method. On cybersecurity the Presidency did not modify the provisions; the report says the compromise text deals with the scope of the NIS-2 Directive, third-country operators and derogations through two implementing acts. All Member States keep a scrutiny reservation, and the Working Party continues with a view to reaching the Council's position.<br>*Updated 2026-11-19:* Decided points applied (rule, r1, r2, r3). Environmental sustainability: the open question whether the Union environmental footprint standard binds every operator narrowed (the grandfathering sentence of Art. 97(4b) of ST 15118/26 points towards a standard binding for all; international against European standard kept; our reading); what ST 8861/26 recorded completed (points 10(f) and 12(e)). Cybersecurity and open point "Derogations": Art. 93(5c) and (8) of ST 15118/26 added as a further candidate; the chapter has three implementing acts, the mapping of the report's two stays our reading. Summary unchanged. (source: [ST 15118/26](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf)) | public | – | – | [en](../texts/space-act/2026-11-13_council-progress-report-st-15547-26.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-19.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-20.
 
 ## Texts as Markdown
 

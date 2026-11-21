@@ -1,6 +1,90 @@
 {
  "items": [
   {
+   "date": "2026-11-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Closing of approval procedure",
+   "doc": "EN 302 977",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
+   "key": "eso-REN/SES-00438-2026-11-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-26 – Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aeri: Approval Stage – Closing of approval procedure",
+   "doc": "EN 301 908-26",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
+   "key": "eso-DEN/MSG-TFES-1505-2026-11-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "machinery-regulation",
+   "title": "MR",
+   "actor": "CLC/TC 44X",
+   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Published",
+   "doc": "EN 50742:2026",
+   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_ORG_ID,FSP_PROJECT,FSP_LANG_ID:1257239,77624,25&cs=133CC570B65336222E8042A420E4E9D66",
+   "key": "eso-EN 50742:2026-2026-11-20",
+   "page": "machinery-regulation",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "cyber-solidarity-act",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "Draft implementing act published: COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027 (2026-11-17)",
+   "doc": "draft implementing act",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/119283/1/consult",
+   "key": "C70600-D119283/1",
+   "page": "cyber-solidarity-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 626",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
+   "key": "eso-DEN/CYBER-EUS-0012-2026-11-20",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 625",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+   "key": "eso-DEN/CYBER-EUS-0017-2026-11-20",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Comments categorisation assessed",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "key": "eso-DEN/CYBER-EUS-0010-2026-11-20",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-11-19",
    "act": "red",
    "title": "RED",
@@ -50,6 +134,70 @@
   },
   {
    "date": "2026-11-19",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-02 (Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October …), listed as not public since 2026-10-04",
+   "doc": "WK 15255/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15255-2026-INIT/en/pdf",
+   "key": "WK 15255/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-02",
+   "doc_title": "Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October …",
+   "withheld_since": "2026-10-04",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-16 (Explanatory Note on the third Presidency compromise text of the Regulation on …), listed as not public since 2026-10-21",
+   "doc": "WK 16102/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-16102-2026-INIT/en/pdf",
+   "key": "WK 16102/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-16",
+   "doc_title": "Explanatory Note on the third Presidency compromise text of the Regulation on …",
+   "withheld_since": "2026-10-21",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-11 (Presidency flash note for the meeting of the Working Party on Competitiveness and Growth …), listed as not public since 2026-09-25",
+   "doc": "WK 13937/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13937-2026-INIT/en/pdf",
+   "key": "WK 13937/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-11",
+   "doc_title": "Presidency flash note for the meeting of the Working Party on Competitiveness and Growth …",
+   "withheld_since": "2026-09-25",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-11-19",
+   "act": "industrial-accelerator-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-10-16 (Third Presidency compromise text (clean version)), listed as not public since 2026-10-21",
+   "doc": "WK 16104/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-16104-2026-INIT/en/pdf",
+   "key": "WK 16104/26-released",
+   "page": "industrial-accelerator-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-10-16",
+   "doc_title": "Third Presidency compromise text (clean version)",
+   "withheld_since": "2026-10-21",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)"
+  },
+  {
+   "date": "2026-11-19",
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "European Parliament",
@@ -60,6 +208,18 @@
    "page": "space-act",
    "type": "Legislation",
    "meeting": true
+  },
+  {
+   "date": "2026-11-19",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "European Parliament",
+   "label": "Committee adopts report and mandate",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29",
+   "key": "Committee adopts report and mandate",
+   "page": "space-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-19",
@@ -243,6 +403,24 @@
   },
   {
    "date": "2026-11-17",
+   "act": "cyber-solidarity-act",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027 (written procedure)",
+   "doc": "draft implementing act",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)2032/consult",
+   "key": "C70600-CMTD(2026)2032",
+   "links": [
+    [
+     "draft implementing act",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/119283/1/consult"
+    ]
+   ],
+   "page": "cyber-solidarity-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-17",
    "act": "cra",
    "title": "CRA",
    "actor": "CRA Expert Group",
@@ -346,18 +524,6 @@
    "key": "CM 4831/26",
    "page": "medical-devices-simplification",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-11-13",
-   "act": "machinery-regulation",
-   "title": "MR",
-   "actor": "CLC/TC 44X",
-   "label": "EN 50742:2026 – Safety of machinery - Protection against corruption: Approved",
-   "doc": "EN 50742:2026",
-   "url": "https://standards.cencenelec.eu/ords/f?p=305:110:::::FSP_PROJECT,FSP_LANG_ID:77624,25&cs=1A793B0E9FC1AEE6D3C9A836D312A0963",
-   "key": "eso-EN 50742:2026-2026-11-13",
-   "page": "machinery-regulation",
-   "type": "Standardisation"
   },
   {
    "date": "2026-11-13",
@@ -979,30 +1145,6 @@
    "type": "Committees"
   },
   {
-   "date": "2026-11-06",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 626",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
-   "key": "eso-DEN/CYBER-EUS-0012-2026-11-06",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-06",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 622",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-   "key": "eso-DEN/CYBER-EUS-0010-2026-11-06",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-11-05",
    "act": "red",
    "title": "RED",
@@ -1113,9 +1255,9 @@
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "European Parliament",
    "label": "JURI opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
-   "key": "JURI opinion adopted",
+   "doc": "PE789.142",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmOp/JURI-AD-789142/JURI-AD-789142_en.pdf",
+   "key": "PE789.142",
    "page": "digital-omnibus",
    "type": "Legislation"
   },
@@ -1308,18 +1450,6 @@
    "doc_title": "Presidency revised compromise text",
    "withheld_since": "2026-09-26",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)"
-  },
-  {
-   "date": "2026-11-03",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Closing of approval procedure",
-   "doc": "EN 304 625",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-   "key": "eso-DEN/CYBER-EUS-0017-2026-11-03",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-11-02",
@@ -2284,13 +2414,12 @@
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "Council",
-   "label": "Third Presidency compromise text (clean version) (not public)",
+   "label": "Third Presidency compromise text (clean version)",
    "doc": "WK 16104/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98525",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-16104-2026-INIT/en/pdf",
    "key": "WK 16104/26",
    "page": "industrial-accelerator-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-10-16",
@@ -4119,30 +4248,6 @@
    "key": "ITRE rapporteur appointed (Oliver Schenk, PPE)",
    "page": "chips-act-2",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-08-27",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 302 977",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
-   "key": "eso-REN/SES-00438-2026-08-27",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-08-27",
-   "act": "red",
-   "title": "RED",
-   "actor": "MSG TFES",
-   "label": "EN 301 908-26 – Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aeri: Approval Stage – Deliverable approval procedure initiated",
-   "doc": "EN 301 908-26",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
-   "key": "eso-DEN/MSG-TFES-1505-2026-08-27",
-   "page": null,
-   "type": "Standardisation"
   },
   {
    "date": "2026-08-20",
@@ -8720,18 +8825,6 @@
    ],
    "page": "espr",
    "type": "Committees"
-  },
-  {
-   "date": "2025-11-20",
-   "act": "machinery-regulation",
-   "title": "MR",
-   "actor": "CEN/TC 114",
-   "label": "prEN ISO 12895 – Safety of machinery - Identification of whole body access and prevention of associated ris: Under Approval",
-   "doc": "prEN ISO 12895",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76052,25&cs=15AE98D65BBE1EE0FD7DE34027F06493B",
-   "key": "eso-00114186-2025-11-20",
-   "page": "machinery-regulation",
-   "type": "Standardisation"
   }
  ]
 }
