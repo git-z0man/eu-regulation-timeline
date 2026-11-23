@@ -166,10 +166,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Space Working Party
 
-27 meetings on the acts we follow.
+28 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-20 | [EU Space Act](space-act.md) | clean version: doc. ) – Examination ([14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707), [15118/26](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf)) | [CM 5015/26](https://data.consilium.europa.eu/doc/document/CM-5015-2026-INIT/en/pdf) |
 | 2026-11-11 | [EU Space Act](space-act.md) | Examination ([14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707)) | [CM 4859/26](https://data.consilium.europa.eu/doc/document/CM-4859-2026-INIT/en/pdf) |
 | 2026-11-03 (attaché level) | [EU Space Act](space-act.md) | Information from the Presidency ([14787/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/100707)) | [CM 4724/26](https://data.consilium.europa.eu/doc/document/CM-4724-2026-INIT/en/pdf) |
 | 2026-09-11 | [EU Space Act](space-act.md) | Exchange of views ([7806/26](https://data.consilium.europa.eu/doc/document/ST-7806-2026-INIT/en/pdf)) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) |
@@ -204,10 +205,11 @@ Council working parties examine the Commission's proposals in the ordinary legis
 
 ### Working Party on Competitiveness and Growth (Public Procurement)
 
-5 meetings on the acts we follow.
+6 meetings on the acts we follow.
 
 | Date | Act | Agenda item | Agenda |
 | --- | --- | --- | --- |
+| 2026-11-20 | [Public Procurement Act](public-procurement-act.md) | Continuation of the examination of the proposal ([ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf)) | [CM 5033/26](https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf) |
 | 2026-11-11 | [Public Procurement Act](public-procurement-act.md) | Continuation of the examination of the proposal CM 4835/2/26 REV 2 1 EN ([ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf)) | [CM 4835/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf) |
 | 2026-10-30 | [Public Procurement Act](public-procurement-act.md) | Continuation of the examination of the proposal ([ST 12969/26](https://data.consilium.europa.eu/doc/document/ST-12969-2026-INIT/en/pdf)) | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) |
 | 2026-10-02 | [Public Procurement Act](public-procurement-act.md) | Examination of the proposal – Parts I and II | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) |

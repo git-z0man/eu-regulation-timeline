@@ -1,6 +1,295 @@
 {
  "items": [
   {
+   "date": "2026-11-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGAERO",
+   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 302 054",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+   "key": "eso-REN/ERM-WGAERO-200-2026-11-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-26 – Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aeri: Approval Stage – Start of TB review after AP comments",
+   "doc": "EN 301 908-26",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
+   "key": "eso-DEN/MSG-TFES-1505-2026-11-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Approval Stage – Final deliverable registered for formal adoption",
+   "doc": "EN 301 908-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
+   "key": "eso-REN/MSG-TFES-1516-2026-11-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGEMC",
+   "label": "EN 301 843-5 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harm: Drafting Stage – Early draft",
+   "doc": "EN 301 843-5",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66906",
+   "key": "eso-REN/ERM-EMC-416-2026-11-23",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cyber-solidarity-act",
+   "title": "CSOA",
+   "actor": "Digital Europe Programme Coordination Committee",
+   "label": "Voting sheet published: COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027 (2026-11-17)",
+   "doc": "voting sheet",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/119427/1/consult",
+   "key": "C70600-V119427/1",
+   "page": "cyber-solidarity-act",
+   "type": "Committees"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 636",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
+   "key": "eso-DEN/CYBER-EUS-0020-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 635 – Cybersecurity requirements for Virtualisation Execution Stack (VES) and Container Executio: Approval Stage – EC assessment before WNV requested",
+   "doc": "EN 304 635",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74858",
+   "key": "eso-DEN/CYBER-EUS-0016-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 634",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
+   "key": "eso-DEN/CYBER-EUS-003-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 633",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
+   "key": "eso-DEN/CYBER-EUS-004-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 632",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
+   "key": "eso-DEN/CYBER-EUS-0014-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 631",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
+   "key": "eso-DEN/CYBER-EUS-0011-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 627 – Cybersecurity requirements for routers, modems intended for the connection to the internet: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 627",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416",
+   "key": "eso-DEN/CYBER-EUS-0013-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 626",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
+   "key": "eso-DEN/CYBER-EUS-0012-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 625",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+   "key": "eso-DEN/CYBER-EUS-0017-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Approval Stage – Draft Review after PE",
+   "doc": "EN 304 624",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837",
+   "key": "eso-DEN/CYBER-EUS-0015-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 623 – Cybersecurity requirements for boot managers: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 623",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74414",
+   "key": "eso-DEN/CYBER-EUS-008-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "key": "eso-DEN/CYBER-EUS-0010-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 621",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
+   "key": "eso-DEN/CYBER-EUS-009-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Approval Stage – Draft Review after PE",
+   "doc": "EN 304 620",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
+   "key": "eso-DEN/CYBER-EUS-005-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – EC assessment before WNV requested",
+   "doc": "EN 304 619",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
+   "key": "eso-DEN/CYBER-EUS-0018-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 618 – Cybersecurity requirements for password managers: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 618",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74410",
+   "key": "eso-DEN/CYBER-EUS-007-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 617 – Cybersecurity requirements for browsers: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 617",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
+   "key": "eso-DEN/CYBER-EUS-006-2026-11-23",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "General approach (not public)",
+   "doc": "ST 15342/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/104990",
+   "key": "ST 15342/26",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "listed": "council-position"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGUWB",
+   "label": "EN 305 550-4 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range Harmonised S: Drafting Stage – Early draft",
+   "doc": "EN 305 550-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58456",
+   "key": "eso-DEN/ERM-WGUWB-599EN 305 550-4-2026-11-20",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
    "date": "2026-11-20",
    "act": "red",
    "title": "RED",
@@ -14,15 +303,47 @@
   },
   {
    "date": "2026-11-20",
-   "act": "red",
-   "title": "RED",
-   "actor": "MSG TFES",
-   "label": "EN 301 908-26 – Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aeri: Approval Stage – Closing of approval procedure",
-   "doc": "EN 301 908-26",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
-   "key": "eso-DEN/MSG-TFES-1505-2026-11-20",
-   "page": null,
-   "type": "Standardisation"
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "doc": "CM 5033/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf",
+   "key": "CM 5033/26",
+   "page": "public-procurement-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-29 (Public Procurement Act: Proposal for a Regulation of the European Parliament and of the …), listed as not public since 2026-11-02",
+   "doc": "WK 14963/26 REV 1 ADD 6",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14963-2026-REV-1-ADD-6/en/pdf",
+   "key": "WK 14963/26 REV 1 ADD 6-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-29",
+   "doc_title": "Public Procurement Act: Proposal for a Regulation of the European Parliament and of the …",
+   "withheld_since": "2026-11-02",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-29 (Public Procurement Act: Proposal for a Regulation of the European Parliament and of the …), listed as not public since 2026-11-02",
+   "doc": "WK 14963/26 REV 1 ADD 5",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14963-2026-REV-1-ADD-5/en/pdf",
+   "key": "WK 14963/26 REV 1 ADD 5-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-29",
+   "doc_title": "Public Procurement Act: Proposal for a Regulation of the European Parliament and of the …",
+   "withheld_since": "2026-11-02",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
   },
   {
    "date": "2026-11-20",
@@ -38,6 +359,30 @@
   },
   {
    "date": "2026-11-20",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26)",
+   "doc": "CM 5015/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5015-2026-INIT/en/pdf",
+   "key": "CM 5015/26",
+   "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-20",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "European Parliament",
+   "label": "Report tabled for plenary",
+   "doc": "A10-0314/2026",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0314/A-10-2026-0314_en.pdf",
+   "key": "A10-0314/2026",
+   "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-20",
    "act": "cyber-solidarity-act",
    "title": "CSOA",
    "actor": "Digital Europe Programme Coordination Committee",
@@ -47,42 +392,6 @@
    "key": "C70600-D119283/1",
    "page": "cyber-solidarity-act",
    "type": "Committees"
-  },
-  {
-   "date": "2026-11-20",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 626 – Cybersecurity requirements for operating systems: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 626",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415",
-   "key": "eso-DEN/CYBER-EUS-0012-2026-11-20",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-20",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 625",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-   "key": "eso-DEN/CYBER-EUS-0017-2026-11-20",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-20",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 622",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-   "key": "eso-DEN/CYBER-EUS-0010-2026-11-20",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-11-19",
@@ -403,17 +712,33 @@
   },
   {
    "date": "2026-11-17",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "European Parliament",
+   "label": "CJ18 draft report",
+   "doc": "PE797.430",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.pdf",
+   "key": "PE797.430",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-17",
    "act": "cyber-solidarity-act",
    "title": "CSOA",
    "actor": "Digital Europe Programme Coordination Committee",
    "label": "COMMISSION IMPLEMENTING DECISION amending Implementing Decision C(2025) 1839 on the financing of the Digital Europe Programme and the adoption of the multiannual work programme 2025-2027 (written procedure)",
-   "doc": "draft implementing act",
+   "doc": "draft implementing act, voting sheet",
    "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)2032/consult",
    "key": "C70600-CMTD(2026)2032",
    "links": [
     [
      "draft implementing act",
      "https://ec.europa.eu/transparency/comitology-register/screen/documents/119283/1/consult"
+    ],
+    [
+     "voting sheet",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/119427/1/consult"
     ]
    ],
    "page": "cyber-solidarity-act",
@@ -443,6 +768,18 @@
    "page": "medical-devices-simplification",
    "type": "Legislation",
    "listed": "council-position"
+  },
+  {
+   "date": "2026-11-16",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "European Parliament",
+   "label": "IMCO rapporteur appointed (Christian Doleschal, PPE)",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29",
+   "key": "IMCO rapporteur appointed (Christian Doleschal, PPE)",
+   "page": "public-procurement-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-16",
@@ -724,9 +1061,9 @@
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
    "actor": "European Parliament",
    "label": "IMCO opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0012%28COD%29",
-   "key": "IMCO opinion adopted",
+   "doc": "PE797.654",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-797654/IMCO-AD-797654_en.pdf",
+   "key": "PE797.654",
    "page": "nis2-amendment",
    "type": "Legislation"
   },
@@ -765,9 +1102,9 @@
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "European Parliament",
    "label": "IMCO opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0404%28COD%29",
-   "key": "IMCO opinion adopted",
+   "doc": "PE789.887",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-789887/IMCO-AD-789887_en.pdf",
+   "key": "PE789.887",
    "page": "medical-devices-simplification",
    "type": "Legislation"
   },
@@ -827,9 +1164,9 @@
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "European Parliament",
    "label": "IMCO opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0011%28COD%29",
-   "key": "IMCO opinion adopted",
+   "doc": "PE796.192",
+   "url": "https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-796192/IMCO-AD-796192_en.pdf",
+   "key": "PE796.192",
    "page": "csa2",
    "type": "Legislation"
   },
@@ -943,54 +1280,6 @@
    "key": "PE797.426",
    "page": "chips-act-2",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-11-09",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 624 – Cybersecurity requirements for Public key infrastructure and digital certificate issuance : Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 624",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837",
-   "key": "eso-DEN/CYBER-EUS-0015-2026-11-09",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-09",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 621 – Cybersecurity requirements for Network Management systems: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 621",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
-   "key": "eso-DEN/CYBER-EUS-009-2026-11-09",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-09",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 620",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
-   "key": "eso-DEN/CYBER-EUS-005-2026-11-09",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-09",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 617 – Cybersecurity requirements for browsers: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 617",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74408",
-   "key": "eso-DEN/CYBER-EUS-006-2026-11-09",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-11-06",
@@ -1450,18 +1739,6 @@
    "doc_title": "Presidency revised compromise text",
    "withheld_since": "2026-09-26",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)"
-  },
-  {
-   "date": "2026-11-02",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGAERO",
-   "label": "EN 302 054 – Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels rang: Drafting Stage – Final draft registered by ETSI Secretariat",
-   "doc": "EN 302 054",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
-   "key": "eso-REN/ERM-WGAERO-200-2026-11-02",
-   "page": null,
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-30",
@@ -2316,18 +2593,6 @@
    "type": "Standardisation"
   },
   {
-   "date": "2026-10-21",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 634 – Cybersecurity requirements for personal wearable: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 634",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74419",
-   "key": "eso-DEN/CYBER-EUS-003-2026-10-21",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-10-20",
    "act": "public-procurement-act",
    "actor": "Council",
@@ -2350,7 +2615,7 @@
    "actor": "Council",
    "label": "Presidency compromise text (not public)",
    "doc": "ST 13545/26 REV 1",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/98936",
+   "url": null,
    "key": "ST 13545/26 REV 1",
    "page": "chips-act-2",
    "type": "Legislation",
@@ -2523,54 +2788,6 @@
    "page": "csa2",
    "type": "Legislation",
    "listed": "council-compromise"
-  },
-  {
-   "date": "2026-10-15",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 633 – Cybersecurity requirements for Internet connected toys covered by Directive 2009/48/EC tha: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 633",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74418",
-   "key": "eso-DEN/CYBER-EUS-004-2026-10-15",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-15",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 632 – Cybersecurity requirements for smart home products with security functionalities; includin: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 632",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74417",
-   "key": "eso-DEN/CYBER-EUS-0014-2026-10-15",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-15",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 631 – Cybersecurity requirements for smart home general purpose virtual assistants: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 631",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74420",
-   "key": "eso-DEN/CYBER-EUS-0011-2026-10-15",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-15",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 619 – Cybersecurity requirements for software that searches for, removes, or quarantines malicio: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 619",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74411",
-   "key": "eso-DEN/CYBER-EUS-0018-2026-10-15",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-14",
@@ -2817,18 +3034,6 @@
    "key": "C129100-D115456/2",
    "page": "ai-act",
    "type": "Committees"
-  },
-  {
-   "date": "2026-10-07",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 636 – Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 636",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859",
-   "key": "eso-DEN/CYBER-EUS-0020-2026-10-07",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-06",
@@ -3298,18 +3503,6 @@
    "listed": "council-compromise"
   },
   {
-   "date": "2026-10-02",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 627 – Cybersecurity requirements for routers, modems intended for the connection to the internet: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 627",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74416",
-   "key": "eso-DEN/CYBER-EUS-0013-2026-10-02",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-10-01",
    "act": "machinery-regulation",
    "title": "MR",
@@ -3326,8 +3519,8 @@
    "act": "ai-act",
    "title": "AI Act",
    "actor": "CEN/CLC/JTC 21",
-   "label": "prEN 18229-2 – Artificial Intelligence – AI system requirements – Part 2: Concepts, measures and requirem: Under Enquiry",
-   "doc": "prEN 18229-2",
+   "label": "prEN 18283 – Artificial Intelligence – AI system requirements – Part 2: Concepts, measures and requirem: Under Enquiry",
+   "doc": "prEN 18283",
    "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80353,25&cs=1A0A0C0DBC7B012D69EA9AAAF8D5DFDA3",
    "key": "eso-JT021036-2026-10-01",
    "page": "ai-act",
@@ -3532,18 +3725,6 @@
    "type": "Standardisation"
   },
   {
-   "date": "2026-09-23",
-   "act": "red",
-   "title": "RED",
-   "actor": "MSG TFES",
-   "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Drafting Stage – Stable draft",
-   "doc": "EN 301 908-1",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
-   "key": "eso-REN/MSG-TFES-1516-2026-09-23",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-09-22",
    "act": "standardisation-regulation",
    "title": "Standardisation Regulation",
@@ -3567,18 +3748,6 @@
    "page": "csa2",
    "type": "Legislation",
    "listed": "council-compromise"
-  },
-  {
-   "date": "2026-09-22",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 618 – Cybersecurity requirements for password managers: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 618",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74410",
-   "key": "eso-DEN/CYBER-EUS-007-2026-09-22",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-09-21",
@@ -3702,18 +3871,6 @@
   },
   {
    "date": "2026-09-17",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 635 – Cybersecurity requirements for Virtualisation Execution Stack (VES) and Container Executio: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 635",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74858",
-   "key": "eso-DEN/CYBER-EUS-0016-2026-09-17",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-17",
    "act": "ai-act",
    "title": "AI Act",
    "actor": "European Artificial Intelligence Board",
@@ -3766,18 +3923,6 @@
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499",
    "key": "eso-REN/DECT-00437-2026-09-16",
    "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-09-16",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 623 – Cybersecurity requirements for boot managers: Approval Stage – Comments categorisation assessed",
-   "doc": "EN 304 623",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74414",
-   "key": "eso-DEN/CYBER-EUS-008-2026-09-16",
-   "page": "cra",
    "type": "Standardisation"
   },
   {
@@ -4708,18 +4853,6 @@
    "key": "CM 3526/26 REV 1",
    "page": "space-act",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-07-09",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGUWB",
-   "label": "EN 305 550-4 – Short Range Devices (SRD) to be used in the 40 GHz to 260 GHz frequency range Harmonised S: Drafting Stage – Early draft",
-   "doc": "EN 305 550-4",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58456",
-   "key": "eso-DEN/ERM-TGUWB-599EN 305 550-4-2026-07-09",
-   "page": null,
-   "type": "Standardisation"
   },
   {
    "date": "2026-07-09",

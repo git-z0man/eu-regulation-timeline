@@ -1,6 +1,6 @@
 # Legislative procedure – Industrial Accelerator Act – COM(2026) 100 (proposal)
 
-Procedure 2026/0068(COD), as of 20 Nov 2026.
+Procedure 2026/0068(COD), as of 23 Nov 2026.
 Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [industrial-accelerator-act.pdf](industrial-accelerator-act.pdf) · Web page: [industrial-accelerator-act.html](industrial-accelerator-act.html)
 
 ## Status and next steps
@@ -117,7 +117,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-13 | [PE796.449](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796449/CJ80-AM-796449_en.pdf) | ep-amendments | AMENDMENTS 3725 - 3996 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – | – |
 | 2026-10-13 | [PE796.450](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796450/CJ80-AM-796450_en.pdf) | ep-amendments | AMENDMENTS 3997 - 4295 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – | – |
 | 2026-10-13 | [PE796.452](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796452/CJ80-AM-796452_en.pdf) | ep-amendments | AMENDMENTS 4588 - 4706 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – | – |
-| 2026-10-16 | [ST 14387/26](https://data.consilium.europa.eu/doc/document/ST-14387-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text | public | – | 2026-11-18 | [en](../texts/industrial-accelerator-act/2026-10-16_council-compromise-st-14387-26.en.md) |
+| 2026-10-16 | [ST 14387/26](https://data.consilium.europa.eu/doc/document/ST-14387-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text<br>*Our summary:* Third Presidency compromise text of 16 October 2026 (ST 14387/26) on the Industrial Accelerator Act proposal, sent to delegations for the working party meetings of 26 and 27 October 2026 and marked against the second compromise text (ST 12236/26 REV 1); a Presidency draft, not law, which can still change. It drops the coordinating authority and makes the single submission of permit information a function of the digital single access point, rebuilds partner origin as lists of third countries by product, with the Union-origin requirements postponed if the lists come late, deletes the power to extend the investment conditions to further sectors while adding wind technologies as a fifth targeted sector, and limits to 50 % the workers from the investor's third country unless they were already resident or employed in the Union for six months; motor vehicles stay in the text. For high-risk suppliers identified under the proposed Cybersecurity Act 2, the exclusion from control systems, SCADA, remote access systems and firewalls in net-zero auctions, support schemes and State support is unchanged apart from a corrected cross-reference. | public | – | 2026-11-18 | [en](../texts/industrial-accelerator-act/2026-10-16_council-compromise-st-14387-26.en.md) |
 | 2026-10-16 | [WK 16102/26](https://data.consilium.europa.eu/doc/document/WK-16102-2026-INIT/en/pdf) | council-note | Explanatory Note on the third Presidency compromise text of the Regulation on establishing a framework of measures for accelerating industrial capacity and … | public | – | 2026-11-19 | – |
 | 2026-10-16 | [WK 16104/26](https://data.consilium.europa.eu/doc/document/WK-16104-2026-INIT/en/pdf) | council-compromise | Third Presidency compromise text (clean version) | public | – | 2026-11-19 | [en](../texts/industrial-accelerator-act/2026-10-16_council-compromise-wk-16104-26.en.md) |
 | 2026-10-19 | [PE796.435](https://data.europarl.europa.eu/distribution/reds_iCmDoc_Amd/CJ80-AM-796435/CJ80-AM-796435_en.pdf) | ep-amendments | AMENDMENTS 268 - 442 - Draft report Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for the … | public | – | – | – |
@@ -143,7 +143,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-10-20 | [WK 16237/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/99041) | council-note | Regulation on accelerating industrial capacity and decarbonisation (Industrial Accelerator Act) - Second Presidency Options Paper on Union Origin requirements | not public\* | – | – | – |
 | 2026-11-06 | [ST 15309/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102099) | council-note | Guidance for further work | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-20.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-23.
 
 ## Texts as Markdown
 

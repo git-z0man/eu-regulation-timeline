@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-22",
+ "as_of": "2026-11-23",
  "views": [
   {
    "key": "all",
@@ -9,12 +9,26 @@
     {
      "date": "2026-11-27",
      "act": "Regulation on European standardisation",
-     "text": "Committee on Standards: 33rd meeting of the Committee on standards - 27/11/2026",
+     "text": "Committee on Standards: 33rd meeting of the Committee on standards",
      "url": "procedures/committee-c41700.html",
      "top": true
     }
    ],
    "recap": [
+    {
+     "date": "2026-11-20",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council: General approach (not public)",
+     "url": "procedures/medical-devices-simplification.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-20",
+     "act": "EU Space Act",
+     "text": "European Parliament: Report tabled for plenary",
+     "url": "procedures/space-act.html",
+     "top": true
+    },
     {
      "date": "2026-11-19",
      "act": "EU Space Act",
@@ -30,25 +44,39 @@
      "top": true
     },
     {
+     "date": "2026-11-17",
+     "act": "Cloud and AI Development Act",
+     "text": "European Parliament: CJ18 draft report",
+     "url": "procedures/cloud-ai-development-act.html",
+     "top": true
+    },
+    {
      "date": "2026-11-16",
      "act": "Simplification of the medical devices rules",
      "text": "Council: Consolidated version of draft compromise text for General Approach to the IVDR Regulation (not …",
      "url": "procedures/medical-devices-simplification.html",
-     "top": true
+     "top": false
+    },
+    {
+     "date": "2026-11-16",
+     "act": "Public Procurement Act",
+     "text": "European Parliament: IMCO rapporteur appointed (Christian Doleschal, PPE)",
+     "url": "procedures/public-procurement-act.html",
+     "top": false
     },
     {
      "date": "2026-11-18",
      "act": "Digital Omnibus",
      "text": "Council released 3 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
      "url": "procedures/digital-omnibus.html",
-     "top": true
+     "top": false
     },
     {
      "date": "2026-11-19",
      "act": "Industrial Accelerator Act",
      "text": "Council released 4 documents listed as not public, incl. Third Presidency compromise text (clean version)",
      "url": "procedures/industrial-accelerator-act.html",
-     "top": true
+     "top": false
     },
     {
      "date": "2026-11-16",
@@ -58,9 +86,9 @@
      "top": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "act": "Cyber Resilience Act",
-     "text": "6 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Comments categorisation assessed",
+     "text": "20 standardisation projects moved on, e.g. EN 304 636: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -86,17 +114,31 @@
      "top": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "act": "Radio Equipment Directive",
-     "text": "13 standardisation projects moved on, e.g. EN 302 977: Approval Stage – Closing of approval procedure",
+     "text": "16 standardisation projects moved on, e.g. EN 302 054: Approval Stage – Deliverable approval procedure …",
      "url": "procedures/index.html",
      "top": false
     },
     {
-     "date": "2026-11-19",
+     "date": "2026-11-20",
      "act": "Public Procurement Act",
-     "text": "Council released 1 document listed as not public",
+     "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
      "url": "procedures/public-procurement-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-20",
+     "act": "Public Procurement Act",
+     "text": "Council released 3 documents listed as not public",
+     "url": "procedures/public-procurement-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-20",
+     "act": "EU Space Act",
+     "text": "Council: Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26)",
+     "url": "procedures/space-act.html",
      "top": false
     },
     {
@@ -114,9 +156,9 @@
      "top": false
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "act": "Cyber Solidarity Act",
-     "text": "2 new meetings or documents of committees and expert groups",
+     "text": "3 new meetings or documents of committees and expert groups",
      "url": "procedures/cyber-solidarity-act.html",
      "top": false
     },
@@ -137,7 +179,7 @@
     {
      "date": "2026-11-27",
      "act": "Regulation on European standardisation",
-     "text": "Committee on Standards: 33rd meeting of the Committee on standards - 27/11/2026",
+     "text": "Committee on Standards: 33rd meeting of the Committee on standards",
      "url": "procedures/committee-c41700.html",
      "top": true
     }
@@ -151,9 +193,9 @@
      "top": true
     },
     {
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "act": "Cyber Resilience Act",
-     "text": "6 standardisation projects moved on, e.g. EN 304 626: Approval Stage – Comments categorisation assessed",
+     "text": "20 standardisation projects moved on, e.g. EN 304 636: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": true
     },

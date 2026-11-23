@@ -161,6 +161,7 @@ All texts of this act as one file: [cloud-ai-development-act.zip](downloads/clou
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0502 | [en](cloud-ai-development-act/2026-06-03_com-proposal.en.md) | [de](cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0502) |
 | 2026-11-13_council-progress-report-st-15300-26 | council-progress-report | ST 15300/26 | [en](cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf) |
+| 2026-11-17_ep-draft-report-pe797-430 | ep-draft-report | PE797.430 | [en](cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.docx) |
 
 ## ECF
 
@@ -1922,6 +1923,17 @@ All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidan
 | 2026-09-16_question | question | – | [en](guidance/commission/pq-e-10-2026-003691/2026-09-16_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003691/2026-09-16_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003691/E-10-2026-003691_en.docx) |
 | 2026-10-29_final | final | – | [en](guidance/commission/pq-e-10-2026-003691/2026-10-29_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003691/2026-10-29_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003691-ASW/E-10-2026-003691-ASW_en.docx) |
 
+## PQ E-003986/2026
+
+`guidance/commission/pq-e-10-2026-003986` – Question E-003986/2026 and the Commission's answer: Public food procurement – nutritional criteria and limiting ultra-processed food in school and hospital canteens
+
+All texts of this act as one file: [guidance-commission-pq.zip](downloads/guidance-commission-pq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-02_question | question | – | [en](guidance/commission/pq-e-10-2026-003986/2026-10-02_question.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003986/2026-10-02_question.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp/E-10-2026-003986/E-10-2026-003986_en.docx) |
+| 2026-11-20_final | final | – | [en](guidance/commission/pq-e-10-2026-003986/2026-11-20_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/pq-e-10-2026-003986/2026-11-20_final.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iMaQp_Asw/E-10-2026-003986-ASW/E-10-2026-003986-ASW_en.docx) |
+
 ## PQ P-001967/2025
 
 `guidance/commission/pq-p-10-2025-001967` – Question P-001967/2025 and the Commission's answer: Toolbox to restrict risky photovoltaic (PV) inverters from European electricity grid
@@ -2162,7 +2174,7 @@ All texts of this act as one file: [guidance-commission-work-programme-2027.zip]
 
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-04_final | final | – | [en](guidance/commission/work-programme-2027/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/work-programme-2027/2026-11-04_final.en.md) | [source](https://commission.europa.eu/document/download/c8399880-b208-46f0-a14c-0e67c3f8dca4_en?filename=COM_2026_710_1_EN.pdf) |
+| 2026-11-04_final | final | 52026DC0710 | [en](guidance/commission/work-programme-2027/2026-11-04_final.en.md) | [de](guidance/commission/work-programme-2027/2026-11-04_final.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/work-programme-2027/2026-11-04_final.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026DC0710) |
 
 ## Council AOB note: The European Product Act as cornerstone of the Single Market (non-paper of NL, FI, FR, PL, PT, SE)
 
@@ -2694,6 +2706,7 @@ All texts of this act as one file: [guidance-enisa-technical-advisory-software-b
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-10-22_final | final | – | [en](guidance/enisa/technical-advisory-software-bill-materials/2026-10-22_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-software-bill-materials/2026-10-22_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-10/ENISA%20Technical%20Advisory%20-%20Software%20Bill%20of%20Materials%20-%20v1.10.pdf) |
+| 2026-10-22_final-0e2fd8 | final | – | [en](guidance/enisa/technical-advisory-software-bill-materials/2026-10-22_final-0e2fd8.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/technical-advisory-software-bill-materials/2026-10-22_final-0e2fd8.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-11/ENISA%20Technical%20Advisory%20-%20Software%20Bill%20of%20Materials%20-%20v1.20.pdf) |
 
 ## ENISA advisory on secure update mechanisms
 
@@ -3403,6 +3416,7 @@ All texts of this act as one file: [space-act.zip](downloads/space-act.zip)
 | 2026-05-08_council-progress-report-st-8861-26 | council-progress-report | ST 8861/26 | [en](space-act/2026-05-08_council-progress-report-st-8861-26.en.md) | [de](space-act/2026-05-08_council-progress-report-st-8861-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-05-08_council-progress-report-st-8861-26.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/de/pdf) |
 | 2026-10-29_council-compromise-st-15118-26 | council-compromise | ST 15118/26 | [en](space-act/2026-10-29_council-compromise-st-15118-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-10-29_council-compromise-st-15118-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf) |
 | 2026-11-13_council-progress-report-st-15547-26 | council-progress-report | ST 15547/26 | [en](space-act/2026-11-13_council-progress-report-st-15547-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-11-13_council-progress-report-st-15547-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15547-2026-INIT/en/pdf) |
+| 2026-11-20_ep-report-a10-0314-2026 | ep-report | A10-0314/2026 | [en](space-act/2026-11-20_ep-report-a10-0314-2026.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/space-act/2026-11-20_ep-report-a10-0314-2026.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0314/A-10-2026-0314_en.docx) |
 
 ## Reg. 2022/2480
 

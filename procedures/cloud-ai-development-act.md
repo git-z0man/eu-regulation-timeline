@@ -1,15 +1,15 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 19 Nov 2026.
+Procedure 2026/0138(COD), as of 23 Nov 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
-- **Parliament:** in committee since 17 Sep 2026
+- **Parliament:** draft report 17 Nov 2026
 - **Council:** working party, latest document 16 Nov 2026
-- **Latest activity:** 16 Nov 2026 · Council: Presidency compromise text (Part 2) (ST 15830/26)
-- **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
+- **Latest activity:** 17 Nov 2026 · European Parliament: CJ18 draft report (PE797.430)
+- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
 
@@ -21,6 +21,7 @@ Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai
 | 2026-09-17 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138%28COD%29) | EP Open Data API, procedure 2026-0138 (REFERRAL) |
 | 2026-10-21 | Council | 5. UNCITRAL Working Group III: AOB 5.1 EU Cloud and AI Development ACT (CADA) CM 4611/1/26 REV 1 1 EN II. … | [CM 4611/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4611-2026-REV-1/en/pdf) | Council register, CM 4611/26 REV 1 (notice of meeting and provisional agenda) |
 | 2026-11-13 | Council | Progress report | [ST 15300/26](https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf) · [en.md](../texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | Cellar procedure file 2026/138 (Council register) |
+| 2026-11-17 | European Parliament | CJ18 draft report | [PE797.430](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.pdf) · [en.md](../texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) | EP Open Data API, procedure 2026-0138 (COMMITTEE_TABLING_REPORT) |
 
 ## Documents
 
@@ -62,8 +63,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-13 | [ST 15300/26](https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf) | council-progress-report | Progress report<br>*Our summary:* Progress report of the Irish Presidency of 13 November 2026 on the proposed Cloud and AI Development Act, for Coreper to take note of and to pass to the Telecommunications Council of 1 December 2026; it is not a Council position and contains no legal text. It reports a first, partial Presidency compromise text on the autonomy part (the cloud sovereignty framework, public procurement and the public sector cloud federation), discussed in the working party on 10 November 2026: among other things, the Commission's implementing acts on Member States' assurance levels give way to recommendations, the mandated migration period goes from 12 to 18 months, the annual review of audit opinions becomes biennial, and the procurement rules extend to utilities' contracting entities. For the research and data centre parts, still being drafted, it announces among other things a later date of application (18 instead of 12 months after entry into force) and longer deadlines for data centre acceleration zones; the recognition architecture, penalties for SMEs and alignment with the proposed Cybersecurity Act revision and Public Procurement Act remain open. | public | – | – | [en](../texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) |
 | 2026-11-13 | [ST 15850/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103315) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Portuguese Parliament (Assembleia da República) | not public\* | – | – | – |
 | 2026-11-16 | [ST 15830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103754) | council-compromise | Presidency compromise text (Part 2) | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20ST%2015830%2F2026%20INIT%20%28Cloud%20and%20AI%20Development%20Act%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20ST%2015830%2F2026%20INIT%20of%2016%20November%202026%3A%20Presidency%20compromise%20text%20%28Part%202%29%0A%20%20%28interinstitutional%20file%202026%2F0138%28COD%29%2C%20Cloud%20and%20AI%20Development%20Act%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AST-15830-2026-INIT) | – | – |
+| 2026-11-17 | [PE797.430](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe’s … | public | – | – | [en](../texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-20.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-23.
 
 ## Texts as Markdown
 
@@ -73,5 +75,6 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | --- | --- | --- | --- | --- |
 | 2026-06-03 | com-proposal | [CELEX 52026PC0502](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0502) | [en](../texts/cloud-ai-development-act/2026-06-03_com-proposal.en.md) [de](../texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-06-03_com-proposal.en.md) |
 | 2026-11-13 | council-progress-report | [ST 15300/26](https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf) | [en](../texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) |
+| 2026-11-17 | ep-draft-report | [PE797.430](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.docx) | [en](../texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.
