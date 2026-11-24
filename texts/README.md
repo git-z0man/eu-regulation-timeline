@@ -149,7 +149,7 @@ All texts of this act as one file: [chips-act-2.zip](downloads/chips-act-2.zip)
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0504 | [en](chips-act-2/2026-06-03_com-proposal.en.md) | [de](chips-act-2/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0504) |
 | 2026-09-29_council-compromise-st-13545-26 | council-compromise | ST 13545/26 | [en](chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-13545-2026-INIT/en/pdf) |
-| 2026-11-09_ep-draft-report-pe797-426 | ep-draft-report | PE797.426 | [en](chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-797426/ITRE-PR-797426_en.docx) |
+| 2026-11-09_ep-draft-report-pe797-426 | ep-draft-report | PE797.426 | [en](chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) | [de](chips-act-2/2026-11-09_ep-draft-report-pe797-426.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-797426/ITRE-PR-797426_de.docx) |
 
 ## CADA
 

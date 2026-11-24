@@ -1,6 +1,6 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)
 
-Procedure 2025/0134(COD), as of 23 Nov 2026.
+Procedure 2025/0134(COD), as of 24 Nov 2026.
 Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulation.svg), [product-digitalisation-regulation.pdf](product-digitalisation-regulation.pdf) · Web page: [product-digitalisation-regulation.html](product-digitalisation-regulation.html)
 
 ## Status and next steps
@@ -102,7 +102,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-18 | [A10-0024/1-85](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0024-AM-001-085/A-10-2026-0024-AM-001-085_en.pdf) | ep-amendments | Amendment 001-085 - Reinier Van Lanschot - Report A10-0024/2026 - Amending certain Regulations as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
 | 2026-11-18 | [A10-0024/86](https://data.europarl.europa.eu/distribution/reds_iPlRp_Amd/A-10-2026-0024-AM-086-086/A-10-2026-0024-AM-086-086_en.pdf) | ep-amendments | Amendment - Anna Cavazzini - Amending certain Regulations as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-23.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
 
 ## Texts as Markdown
 

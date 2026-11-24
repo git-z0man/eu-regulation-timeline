@@ -1,6 +1,6 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 23 Nov 2026.
+Procedure 2026/0011(COD), as of 24 Nov 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
@@ -126,8 +126,8 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-22 | [WK 14518/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93046) | council-note | Template for the submission of drafting suggestions for the recitals and Articles 98-122 of the first Presidency compromise | not public\* | – | – | – |
 | 2026-09-24 | [WK 14696/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93429) | council-note | Template for the submission of drafting suggestions on the first Presidency compromise (Recitals and Title IV) | not public\* | – | – | – |
 | 2026-09-25 | [WK 14801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/93813) | council-note | Member States' consolidated comments on Presidency second compromise text on Title III (Certification), Articles 71-97 | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2014801%2F2026%20INIT%20%28Cybersecurity%20Act%202%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2014801%2F2026%20INIT%20of%2025%20September%202026%3A%20Member%20States%27%20consolidated%20comments%20on%20Presidency%20second%20compromise%20text%20on%20Title%20III%20%28Certification%29%2C%20Articles%2071-97%0A%20%20%28interinstitutional%20file%202026%2F0011%28COD%29%2C%20Cybersecurity%20Act%202%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-14801-2026-INIT) | – | – |
-| 2026-09-29 | [WK 14896/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94268) | council-note | Member States' comments (Presidency second compromise text - Recitals & Titles I, II) | not public\* | Release expected about 2026-11-26 | – | – |
-| 2026-09-30 | [WK 15065/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/94509) | council-note | Presentation | not public\* | – | – | – |
+| 2026-09-29 | [WK 14896/26](https://data.consilium.europa.eu/doc/document/WK-14896-2026-INIT/en/pdf) | council-note | Member States' comments (Presidency second compromise text - Recitals & Titles I, II) | public | – | 2026-11-23 | – |
+| 2026-09-30 | [WK 15065/26](https://data.consilium.europa.eu/doc/document/WK-15065-2026-INIT/en/pdf) | council-note | Presentation | public | – | 2026-11-23 | – |
 | 2026-10-02 | [WK 15236/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95003) | council-compromise | Presidency third compromise text on Title III (European Cybersecurity Certification Framework, Articles 71-97) | not public\* | [Request running ↗](https://www.asktheeu.org/request/council_document_wk_152362026_in) (waiting response) | – | – |
 | 2026-10-02 | [WK 15266/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/95127) | council-note | Template for the submission of drafting suggestions (Presidency third compromise – recitals and Title III (Certification)) | not public\* | – | – | – |
 | 2026-10-12 | [WK 15801/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/97261) | council-note | Presentation | not public\* | – | – | – |
@@ -149,7 +149,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 | 2026-11-13 | [PE796.192](https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-796192/IMCO-AD-796192_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European … | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-23.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
 
 ## Texts as Markdown
 

@@ -56,7 +56,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-16 | [ST 15648/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103696) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research, and Space) on 3 December 2026: Public Procurement Act: The Proposed Reform of … | not public\* | – | – | – |
 | 2026-11-17 | ST 15648/26 REV 1 | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research, and Space) on 3 December 2026: Regulation on public contracts and concessions … | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-23.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
 
 ## Texts as Markdown
 

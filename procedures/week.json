@@ -72,6 +72,13 @@
      "top": false
     },
     {
+     "date": "2026-11-23",
+     "act": "Industrial Accelerator Act",
+     "text": "Council: Fourth Presidency compromise text (not public)",
+     "url": "procedures/industrial-accelerator-act.html",
+     "top": false
+    },
+    {
      "date": "2026-11-19",
      "act": "Industrial Accelerator Act",
      "text": "Council released 4 documents listed as not public, incl. Third Presidency compromise text (clean version)",
@@ -79,9 +86,9 @@
      "top": false
     },
     {
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "act": "Cyber Resilience Act",
-     "text": "20 standardisation projects moved on, e.g. EN 304 636: Approval Stage – Draft Review after PE",
+     "text": "20 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -93,10 +100,17 @@
      "top": false
     },
     {
-     "date": "2026-11-19",
+     "date": "2026-11-24",
      "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-4: Under Enquiry",
+     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Approved",
      "url": "acts/ai-act.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-23",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 2 documents listed as not public",
+     "url": "procedures/csa2.html",
      "top": false
     },
     {
@@ -104,6 +118,13 @@
      "act": "Radio Equipment Directive",
      "text": "16 standardisation projects moved on, e.g. EN 302 054: Approval Stage – Deliverable approval procedure …",
      "url": "procedures/index.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-23",
+     "act": "Cloud and AI Development Act",
+     "text": "Council released 1 document listed as not public",
+     "url": "procedures/cloud-ai-development-act.html",
      "top": false
     },
     {
@@ -186,9 +207,9 @@
      "top": true
     },
     {
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "act": "Cyber Resilience Act",
-     "text": "20 standardisation projects moved on, e.g. EN 304 636: Approval Stage – Draft Review after PE",
+     "text": "20 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": true
     },
@@ -200,10 +221,17 @@
      "top": true
     },
     {
-     "date": "2026-11-19",
+     "date": "2026-11-24",
      "act": "Artificial Intelligence Act",
-     "text": "Standardisation: prEN 18229-4: Under Enquiry",
+     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Approved",
      "url": "acts/ai-act.html#standardisation",
+     "top": true
+    },
+    {
+     "date": "2026-11-23",
+     "act": "Cybersecurity Act 2",
+     "text": "Council released 2 documents listed as not public",
+     "url": "procedures/csa2.html",
      "top": true
     },
     {
@@ -211,7 +239,7 @@
      "act": "Cyber Resilience Act",
      "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
      "url": "acts/cra.html#committees",
-     "top": true
+     "top": false
     }
    ]
   }

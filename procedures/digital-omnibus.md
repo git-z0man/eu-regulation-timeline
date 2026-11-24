@@ -146,7 +146,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-11 | [PE789.142](https://data.europarl.europa.eu/distribution/reds_iCmOp/JURI-AD-789142/JURI-AD-789142_en.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) … | public | – | – | – |
 | 2026-11-12 | [ST 15001/26](https://data.consilium.europa.eu/doc/document/ST-15001-2026-INIT/en/pdf) | council-note | AOB item for the meeting of the General Affairs Council on 19 November 2026 Omnibus simplification packages: state of play - Information from the Presidency | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-23.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
 
 ## Documents known only from unofficially leaked copies
 

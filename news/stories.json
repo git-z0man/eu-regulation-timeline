@@ -68,9 +68,9 @@
    "kicker": "EU Space Act",
    "kicker_de": "EU-Weltraumgesetz",
    "headline": "EU Space Act: Report tabled for plenary",
-   "deck": "European Parliament.",
+   "deck": "Report of Parliament's Industry, Research and Energy committee on the EU Space Act proposal, adopted in committee on 19 November 2026 and tabled for plenary on 20 November 2026; it is the committee's text for the plenary vote, not Parliament's position and not law.",
    "headline_de": "EU-Weltraumgesetz: Bericht für das Plenum eingereicht",
-   "deck_de": "Europäisches Parlament.",
+   "deck_de": "Report of Parliament's Industry, Research and Energy committee on the EU Space Act proposal, adopted in committee on 19 November 2026 and tabled for plenary on 20 November 2026; it is the committee's text for the plenary vote, not Parliament's position and not law.",
    "facts": [],
    "facts_de": [],
    "links": [
@@ -84,8 +84,14 @@
     ]
    ],
    "items": [],
-   "brief": null,
+   "brief": {
+    "status": "summary",
+    "en": "Like the rapporteur's draft report, it removes the proposal's own cybersecurity regime for space operators (risk management, incident reporting and the resilience annex) and instead extends the space sector of the NIS 2 Directive to all space activities, space services and Union-owned assets, with transposition 24 months after entry into force; unlike the draft, it keeps the link to NIS 2 as a without-prejudice clause and drops the reduced duty to report incidents. It also cuts the authorisation deadline to six months with tacit approval where national law allows (not for launch services), adds a security and defence filter for authorisations, exempts SMEs and research institutions from the environmental footprint rules and deletes the Union Space Label; none of the tracked concepts is touched.",
+    "de": "Like the rapporteur's draft report, it removes the proposal's own cybersecurity regime for space operators (risk management, incident reporting and the resilience annex) and instead extends the space sector of the NIS 2 Directive to all space activities, space services and Union-owned assets, with transposition 24 months after entry into force; unlike the draft, it keeps the link to NIS 2 as a without-prejudice clause and drops the reduced duty to report incidents. It also cuts the authorisation deadline to six months with tacit approval where national law allows (not for launch services), adds a security and defence filter for authorisations, exempts SMEs and research institutions from the environmental footprint rules and deletes the Union Space Label; none of the tracked concepts is touched.",
+    "lang": "en"
+   },
    "score": 62,
+   "deck_lang": "en",
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -175,6 +181,60 @@
    "added": "2026-11-24"
   },
   {
+   "id": "csa2/released/2026-11-23",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-23",
+   "act": "csa2",
+   "kicker": "Cybersecurity Act 2",
+   "kicker_de": "CSA2",
+   "headline": "Council releases 2 Cybersecurity Act 2 documents",
+   "deck": "2 notes: Presentation; Member States' comments (Presidency second compromise text - Recitals & Titles I, II). Listed as not public since 30 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 2 Dokumente zu CSA2 frei",
+   "deck_de": "2 Vermerke: Presentation; Member States' comments (Presidency second compromise text - Recitals & Titles I, II). Seit 30. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/csa2.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 15065/26",
+     "date": "2026-09-30",
+     "title": "Presentation",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-15065-2026-INIT/en/pdf"
+    },
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 14896/26",
+     "date": "2026-09-29",
+     "title": "Member States' comments (Presidency second compromise text - Recitals & Titles I, II)",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-14896-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 58,
+   "crumbs": {
+    "en": [
+     "Cybersecurity Act 2",
+     "Legislation"
+    ],
+    "de": [
+     "CSA2",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-24"
+  },
+  {
    "id": "csa2/ep-vote/PE796-192",
    "kind": "ep-vote",
    "desk": "Legislation",
@@ -251,6 +311,108 @@
     ]
    },
    "added": "2026-11-14"
+  },
+  {
+   "id": "industrial-accelerator-act/compromise/ST-15418-26",
+   "kind": "compromise",
+   "desk": "Legislation",
+   "date": "2026-11-23",
+   "act": "industrial-accelerator-act",
+   "kicker": "Industrial Accelerator Act",
+   "kicker_de": "IAA",
+   "headline": "Industrial Accelerator Act · Council Presidency: fourth compromise text",
+   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
+   "headline_de": "IAA · Präsidentschaft: Vierter Kompromisstext",
+   "deck_de": "Titel im Original: Fourth Presidency compromise text. Vorschlag der Präsidentschaft, nicht die Position des Rates.",
+   "facts": [
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/industrial-accelerator-act.html"
+    ],
+    [
+     "Document",
+     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/105318"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 53,
+   "not_public": true,
+   "crumbs": {
+    "en": [
+     "Industrial Accelerator Act",
+     "Legislation"
+    ],
+    "de": [
+     "IAA",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-24"
+  },
+  {
+   "id": "forecast/method/2026-W48",
+   "kind": "forecast-shift",
+   "desk": "Analysis",
+   "date": "2026-11-24",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "Forecast method changed: 1 median moved by two months or more",
+   "deck": "After the change of 15 Nov 2026, up to 5 months; the earlier forecasts are kept in the archive.",
+   "headline_de": "Methode der Prognose geändert: 1 Median um zwei Monate oder mehr verschoben",
+   "deck_de": "Nach der Änderung vom 15. Nov. 2026 um bis zu 5 Monate; die früheren Prognosen bleiben im Archiv.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Forecast",
+     "../forecast/index.html"
+    ],
+    [
+     "Earlier forecasts",
+     "../graphics-archive.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "Simplification of the medical devices rules: May 2028 → Dec 2027",
+     "url": "../forecast/medical-devices-simplification.html"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
+    "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
+   },
+   "score": 50,
+   "ladder": {
+    "place": {
+     "en": [
+      "Forecast"
+     ],
+     "de": [
+      "Prognose"
+     ]
+    }
+   },
+   "crumbs": {
+    "en": [
+     "Analysis",
+     "Forecast"
+    ],
+    "de": [
+     "Analyse",
+     "Prognose"
+    ]
+   },
+   "added": "2026-11-24"
   },
   {
    "id": "digital-omnibus/released/2026-11-18",
@@ -383,9 +545,9 @@
    "kicker": "Cloud and AI Development Act",
    "kicker_de": "CADA",
    "headline": "Cloud and AI Development Act: CJ18 draft report",
-   "deck": "The rapporteur's draft, not the Parliament's position. Amendments follow in committee.",
+   "deck": "Joint draft report of 17 November 2026 of the co-rapporteurs of the Industry, Research and Energy and the Internal Market committees on the proposed Cloud and AI Development Act, with 366 amendments to the Commission proposal; it is the rapporteurs' draft, not the position of the committees or of Parliament, and not law.",
    "headline_de": "CADA: Berichtsentwurf im Parlament",
-   "deck_de": "Titel im Original: CJ18 draft report. Entwurf des Berichterstatters, nicht die Position des Parlaments.",
+   "deck_de": "Joint draft report of 17 November 2026 of the co-rapporteurs of the Industry, Research and Energy and the Internal Market committees on the proposed Cloud and AI Development Act, with 366 amendments to the Commission proposal; it is the rapporteurs' draft, not the position of the committees or of Parliament, and not law.",
    "facts": [
     "Draft, not law"
    ],
@@ -403,8 +565,14 @@
     ]
    ],
    "items": [],
-   "brief": null,
+   "brief": {
+    "status": "summary",
+    "en": "On data centres it would make the designation of acceleration zones optional and add an impact analysis, grid, water and local benefit requirements, anti-speculation rules for grid reservations and a time-limited priority for Union operators not controlled from third countries. On the cloud sovereignty framework it would add a list of public sector activities assigned to each assurance level (new Annex IIa), a Commission methodology with powers to warn, suspend and take over national recognition, auditors approved by national authorities and limits on delegated acts amending the criteria, while easing some criteria, such as processing of telemetry and operational metadata outside the Union for cybersecurity purposes at levels 1 to 3. It would oblige private entities in the sectors of Annex I to the NIS-2 Directive to assess their cloud workloads and, after a transition, to use recognised services for critical ones, and it raises the procurement target for innovative SMEs from 25 % to 35 %.",
+    "de": "On data centres it would make the designation of acceleration zones optional and add an impact analysis, grid, water and local benefit requirements, anti-speculation rules for grid reservations and a time-limited priority for Union operators not controlled from third countries. On the cloud sovereignty framework it would add a list of public sector activities assigned to each assurance level (new Annex IIa), a Commission methodology with powers to warn, suspend and take over national recognition, auditors approved by national authorities and limits on delegated acts amending the criteria, while easing some criteria, such as processing of telemetry and operational metadata outside the Union for cybersecurity purposes at levels 1 to 3. It would oblige private entities in the sectors of Annex I to the NIS-2 Directive to assess their cloud workloads and, after a transition, to use recognised services for critical ones, and it raises the procurement target for innovative SMEs from 25 % to 35 %.",
+    "lang": "en"
+   },
    "score": 46,
+   "deck_lang": "en",
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -418,99 +586,10 @@
    "added": "2026-11-23"
   },
   {
-   "id": "public-procurement-act/ep-vote/Referral-to-committee-announced-in-plenary-2026-11-11",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-11-11",
-   "act": "public-procurement-act",
-   "kicker": "Public Procurement Act",
-   "kicker_de": "Vergabe-Rechtsakt (PPA)",
-   "headline": "Public Procurement Act: Referral to committee announced in plenary",
-   "deck": "European Parliament.",
-   "headline_de": "Vergabe-Rechtsakt (PPA): Überweisung an den Ausschuss im Plenum bekanntgegeben",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/public-procurement-act.html"
-    ],
-    [
-     "Document",
-     "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 44,
-   "crumbs": {
-    "en": [
-     "Public Procurement Act",
-     "Legislation"
-    ],
-    "de": [
-     "Vergabe-Rechtsakt (PPA)",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-13"
-  },
-  {
-   "id": "digital-omnibus/released/2026-11-16",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-11-16",
-   "act": "digital-omnibus",
-   "kicker": "Digital Omnibus",
-   "kicker_de": "Digital-Omnibus",
-   "headline": "Council releases 1 Digital Omnibus document",
-   "deck": "1 note: Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) … Listed as not public since 2 Oct 2026; now public in the register.",
-   "headline_de": "Rat gibt 1 Dokument zu Digital-Omnibus frei",
-   "deck_de": "1 Vermerk: Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) … Seit 2. Okt. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/digital-omnibus.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 15043/26",
-     "date": "2026-10-01",
-     "title": "Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-15043-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": {
-    "status": "summary",
-    "en": "WK 15043/26: Working document WK 15043/26 of 1 October 2026, in which the General Secretariat of the Council compiles for the Antici Group (Simplification) the written comments of 19 Member States on the Presidency's revised compromise text ST 13112/26 on the Digital Omnibus, after the group's meeting of 25 September 2026; it records national views, is neither a Presidency compromise nor a Council position, and changes no text.",
-    "de": "WK 15043/26: Working document WK 15043/26 of 1 October 2026, in which the General Secretariat of the Council compiles for the Antici Group (Simplification) the written comments of 19 Member States on the Presidency's revised compromise text ST 13112/26 on the Digital Omnibus, after the group's meeting of 25 September 2026; it records national views, is neither a Presidency compromise nor a Council position, and changes no text.",
-    "lang": "en"
-   },
-   "score": 44,
-   "crumbs": {
-    "en": [
-     "Digital Omnibus",
-     "Legislation"
-    ],
-    "de": [
-     "Digital-Omnibus",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-17"
-  },
-  {
    "id": "cra/standards/M606/2026-W48",
    "kind": "standard",
    "desk": "Standards",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "act": "cra",
    "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
@@ -533,6 +612,14 @@
     ]
    ],
    "items": [
+    {
+     "label": "EN 304 625: Approval Stage – Draft Review after PE",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
+    },
+    {
+     "label": "EN 304 621: Approval Stage – Draft Review after PE",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412"
+    },
     {
      "label": "EN 304 636: Approval Stage – Draft Review after PE",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74859"
@@ -566,10 +653,6 @@
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74415"
     },
     {
-     "label": "EN 304 625: Approval Stage – Draft Review after PE",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
-    },
-    {
      "label": "EN 304 624: Approval Stage – Draft Review after PE",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74837"
     },
@@ -580,10 +663,6 @@
     {
      "label": "EN 304 622: Approval Stage – Draft Review after PE",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413"
-    },
-    {
-     "label": "EN 304 621: Approval Stage – Draft Review after PE",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412"
     },
     {
      "label": "EN 304 620: Approval Stage – Draft Review after PE",
@@ -603,11 +682,39 @@
     }
    ],
    "brief": null,
-   "score": 44,
+   "score": 46,
    "tree": {
     "vertical": {
      "ETSI": {
       "CYBER EUSR": [
+       {
+        "project": "EN 304 625",
+        "title": "Cybersecurity requirements for physical and virtual network interfaces",
+        "now": "Approval Stage – Draft Review after PE",
+        "date": "2026-11-24",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+        "step": null,
+        "prev": [
+         3,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 304 621",
+        "title": "Cybersecurity requirements for Network Management systems",
+        "now": "Approval Stage – Draft Review after PE",
+        "date": "2026-11-24",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
+        "step": null,
+        "prev": [
+         3,
+         false,
+         true
+        ],
+        "also": []
+       },
        {
         "project": "EN 304 636",
         "title": "Cybersecurity requirements for firewalls, intrusion detection and/or prevention systems",
@@ -725,20 +832,6 @@
         "also": []
        },
        {
-        "project": "EN 304 625",
-        "title": "Cybersecurity requirements for physical and virtual network interfaces",
-        "now": "Approval Stage – Draft Review after PE",
-        "date": "2026-11-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-        "step": null,
-        "prev": [
-         3,
-         false,
-         true
-        ],
-        "also": []
-       },
-       {
         "project": "EN 304 624",
         "title": "Cybersecurity requirements for Public key infrastructure and digital certificate issuance software",
         "now": "Approval Stage – Draft Review after PE",
@@ -772,20 +865,6 @@
         "now": "Approval Stage – Draft Review after PE",
         "date": "2026-11-23",
         "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-        "step": null,
-        "prev": [
-         3,
-         false,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 304 621",
-        "title": "Cybersecurity requirements for Network Management systems",
-        "now": "Approval Stage – Draft Review after PE",
-        "date": "2026-11-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74412",
         "step": null,
         "prev": [
          3,
@@ -877,6 +956,95 @@
     ]
    },
    "added": "2026-11-23"
+  },
+  {
+   "id": "public-procurement-act/ep-vote/Referral-to-committee-announced-in-plenary-2026-11-11",
+   "kind": "ep-vote",
+   "desk": "Legislation",
+   "date": "2026-11-11",
+   "act": "public-procurement-act",
+   "kicker": "Public Procurement Act",
+   "kicker_de": "Vergabe-Rechtsakt (PPA)",
+   "headline": "Public Procurement Act: Referral to committee announced in plenary",
+   "deck": "European Parliament.",
+   "headline_de": "Vergabe-Rechtsakt (PPA): Überweisung an den Ausschuss im Plenum bekanntgegeben",
+   "deck_de": "Europäisches Parlament.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/public-procurement-act.html"
+    ],
+    [
+     "Document",
+     "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 44,
+   "crumbs": {
+    "en": [
+     "Public Procurement Act",
+     "Legislation"
+    ],
+    "de": [
+     "Vergabe-Rechtsakt (PPA)",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-13"
+  },
+  {
+   "id": "digital-omnibus/released/2026-11-16",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-16",
+   "act": "digital-omnibus",
+   "kicker": "Digital Omnibus",
+   "kicker_de": "Digital-Omnibus",
+   "headline": "Council releases 1 Digital Omnibus document",
+   "deck": "1 note: Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) … Listed as not public since 2 Oct 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu Digital-Omnibus frei",
+   "deck_de": "1 Vermerk: Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) … Seit 2. Okt. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/digital-omnibus.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 15043/26",
+     "date": "2026-10-01",
+     "title": "Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-15043-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": {
+    "status": "summary",
+    "en": "WK 15043/26: Working document WK 15043/26 of 1 October 2026, in which the General Secretariat of the Council compiles for the Antici Group (Simplification) the written comments of 19 Member States on the Presidency's revised compromise text ST 13112/26 on the Digital Omnibus, after the group's meeting of 25 September 2026; it records national views, is neither a Presidency compromise nor a Council position, and changes no text.",
+    "de": "WK 15043/26: Working document WK 15043/26 of 1 October 2026, in which the General Secretariat of the Council compiles for the Antici Group (Simplification) the written comments of 19 Member States on the Presidency's revised compromise text ST 13112/26 on the Digital Omnibus, after the group's meeting of 25 September 2026; it records national views, is neither a Presidency compromise nor a Council position, and changes no text.",
+    "lang": "en"
+   },
+   "score": 44,
+   "crumbs": {
+    "en": [
+     "Digital Omnibus",
+     "Legislation"
+    ],
+    "de": [
+     "Digital-Omnibus",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-17"
   },
   {
    "id": "cra/standards/M606/2026-W47",
@@ -1073,6 +1241,51 @@
    "added": "2026-11-21"
   },
   {
+   "id": "cloud-ai-development-act/released/2026-11-23",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-23",
+   "act": "cloud-ai-development-act",
+   "kicker": "Cloud and AI Development Act",
+   "kicker_de": "CADA",
+   "headline": "Council releases 1 Cloud and AI Development Act document",
+   "deck": "1 note: Cloud and AI Development Act: Presentation. Listed as not public since 1 Oct 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu CADA frei",
+   "deck_de": "1 Vermerk: Cloud and AI Development Act: Presentation. Seit 1. Okt. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/cloud-ai-development-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 15040/26",
+     "date": "2026-09-29",
+     "title": "Cloud and AI Development Act: Presentation",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-15040-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 43,
+   "crumbs": {
+    "en": [
+     "Cloud and AI Development Act",
+     "Legislation"
+    ],
+    "de": [
+     "CADA",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-24"
+  },
+  {
    "id": "medical-devices-simplification/ep-vote/PE789-887",
    "kind": "ep-vote",
    "desk": "Legislation",
@@ -1149,6 +1362,82 @@
     ]
    },
    "added": "2026-11-23"
+  },
+  {
+   "id": "ai-act/standards/M613/2026-W48",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-24",
+   "act": "ai-act",
+   "kicker": "Artificial Intelligence Act",
+   "kicker_de": "KI-VO",
+   "headline": "Artificial Intelligence Act: new status for standard FprEN ISO/IEC 24970",
+   "deck": "Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026). New status: Approved.",
+   "headline_de": "KI-VO: neuer Status für Norm FprEN ISO/IEC 24970",
+   "deck_de": "Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026). Neuer Status: Approved.",
+   "facts": [
+    "M/613",
+    "Request expires 28 Feb 2027"
+   ],
+   "facts_de": [
+    "M/613",
+    "Auftrag läuft aus 28. Feb. 2027"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../acts/ai-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "FprEN ISO/IEC 24970: Approved",
+     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587"
+    }
+   ],
+   "brief": null,
+   "score": 41,
+   "tree": {
+    "": {
+     "CEN-CENELEC": {
+      "CEN/CLC/JTC 21": [
+       {
+        "project": "FprEN ISO/IEC 24970",
+        "title": "Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026)",
+        "now": "Approved",
+        "date": "2026-11-24",
+        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587",
+        "step": null,
+        "prev": [
+         5,
+         false,
+         false
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/613",
+    "org": "CEN-CENELEC"
+   },
+   "crumbs": {
+    "en": [
+     "Artificial Intelligence Act",
+     "Standards",
+     "M/613",
+     "CEN-CENELEC"
+    ],
+    "de": [
+     "KI-VO",
+     "Normen",
+     "M/613",
+     "CEN-CENELEC"
+    ]
+   },
+   "added": "2026-11-24"
   },
   {
    "id": "article/enisa-consultations",
@@ -1383,7 +1672,12 @@
      "url": "https://data.consilium.europa.eu/doc/document/WK-13937-2026-INIT/en/pdf"
     }
    ],
-   "brief": null,
+   "brief": {
+    "status": "summary",
+    "en": "WK 16104/26: Working document of the Presidency of 16 October 2026 (WK 16104/26): the clean version of the third Presidency compromise text on the Industrial Accelerator Act proposal, that is the text of ST 14387/26 of the same day with its changes applied and without marks; a Presidency draft, not law, which can still change.",
+    "de": "WK 16104/26: Working document of the Presidency of 16 October 2026 (WK 16104/26): the clean version of the third Presidency compromise text on the Industrial Accelerator Act proposal, that is the text of ST 14387/26 of the same day with its changes applied and without marks; a Presidency draft, not law, which can still change.",
+    "lang": "en"
+   },
    "score": 35,
    "crumbs": {
     "en": [

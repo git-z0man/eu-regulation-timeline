@@ -1,28 +1,28 @@
 # Forecast
 
-When the open procedures are likely to reach the Official Journal. Data of 2026-11-23; our own assessment from public sources, CC BY 4.0.
+When the open procedures are likely to reach the Official Journal. Data of 2026-11-24; our own assessment from public sources, CC BY 4.0.
 
 | Act | Where it stands | Official Journal, median | Half of the runs | Eight in ten | Before the 2029 elections | Next step on track until |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Omnibus IV – Digitalisation and common specifications (Regulation)](product-digitalisation-regulation.html) | provisionally agreed since 14 Jul 2026 | Jan 2027 | Dec 2026 – Jan 2027 | Nov 2026 – Feb 2027 | 100 % | 2026-11-24 (scheduled; next: Parliament's vote) |
 | [Omnibus IV – Digitalisation and common specifications (Directive)](product-digitalisation-directive.html) | provisionally agreed since 14 Jul 2026 | Jan 2027 | Dec 2026 – Jan 2027 | Nov 2026 – Feb 2027 | 100 % | 2026-11-24 (scheduled; next: Parliament's vote) |
 | [EU Space Act](space-act.html) | EP committee voted since 19 Nov 2026 | Dec 2027 | Aug 2027 – Sep 2028 | May 2027 – Dec 2029 | 89 % | 2027-02-25 (on track; next: Trilogues can start) |
+| [MDR/IVDR simplification](medical-devices-simplification.html) | referred to committee since 25 Mar 2026 | Dec 2027 | Sep 2027 – Sep 2028 | Jun 2027 – Jan 2030 | 88 % | 2026-12-03 (scheduled; next: EP committee vote) |
 | [NIS-2 amendment](nis2-amendment.html) | referred to committee since 25 Mar 2026 | Feb 2028 | Sep 2027 – Sep 2028 | Jul 2027 – Feb 2030 | 86 % | 2026-12-16 (close; next: EP committee vote) |
 | [Digital Omnibus](digital-omnibus.html) | referred to committee since 19 Jan 2026 | Apr 2028 | Jan 2028 – Dec 2028 | Oct 2027 – Sep 2030 | 80 % | 2027-01-04 (on track; next: EP committee vote) |
-| [MDR/IVDR simplification](medical-devices-simplification.html) | referred to committee since 25 Mar 2026 | May 2028 | Dec 2027 – Oct 2028 | Sep 2027 – Jun 2030 | 83 % | 2027-03-31 (on track; next: EP committee vote) |
-| [Cybersecurity Act 2](csa2.html) | referred to committee since 25 Mar 2026 | Jun 2028 | Dec 2027 – Dec 2028 | Sep 2027 – Jun 2030 | 83 % | 2027-04-07 (on track; next: EP committee vote) |
+| [Cybersecurity Act 2](csa2.html) | referred to committee since 25 Mar 2026 | May 2028 | Dec 2027 – Dec 2028 | Sep 2027 – Oct 2030 | 83 % | 2027-04-07 (on track; next: EP committee vote) |
 | [Industrial Accelerator Act](industrial-accelerator-act.html) | referred to committee since 30 Apr 2026 | Jun 2028 | Dec 2027 – Nov 2028 | Aug 2027 – Jul 2030 | 82 % | 2027-04-01 (on track; next: EP committee vote) |
 | [Cloud and AI Development Act](cloud-ai-development-act.html) | referred to committee since 17 Sep 2026 | Sep 2028 | Mar 2028 – Apr 2029 | Oct 2027 – Dec 2030 | 78 % | 2027-09-02 (on track; next: EP committee vote) |
+| [New Standardisation Regulation](standardisation-revision.html) | proposal since 6 Oct 2026 | Sep 2028 | Jun 2028 – Oct 2029 | Feb 2028 – Apr 2032 | 72 % | 2026-12-15 (on track; next: Referral to EP committee) |
 | [Chips Act 2.0](chips-act-2.html) | referred to committee since 14 Sep 2026 | Oct 2028 | Mar 2028 – Apr 2029 | Nov 2027 – Nov 2030 | 77 % | 2027-09-13 (on track; next: EP committee vote) |
-| [New Standardisation Regulation](standardisation-revision.html) | proposal since 6 Oct 2026 | Oct 2028 | Jun 2028 – Dec 2029 | Feb 2028 – Apr 2032 | 69 % | 2026-12-15 (on track; next: Referral to EP committee) |
-| [Quantum Act](quantum-act.html) | proposal assumed Nov 2026 | Nov 2028 | Apr 2028 – Nov 2029 | Dec 2027 – Sep 2030 | 71 % | – |
+| [Quantum Act](quantum-act.html) | proposal assumed Nov 2026 | Nov 2028 | May 2028 – Nov 2029 | Dec 2027 – Sep 2030 | 71 % | – |
 | [Public Procurement Act](public-procurement-act.html) | referred to committee since 11 Nov 2026 | Nov 2028 | Apr 2028 – Nov 2029 | Nov 2027 – Oct 2030 | 71 % | 2027-11-17 (on track; next: EP committee vote) |
 | [European Product Act](epa.html) | proposal assumed Dec 2026 | Jan 2029 | Jul 2028 – Jan 2030 | Jan 2028 – Mar 2031 | 61 % | – |
 
 ## European Product Act: scenarios
 
 - **One act**: The European Product Act as one act that merges the New Legislative Framework, the Market Surveillance Regulation and the Standardisation Regulation. The separate proposal for a New Standardisation Regulation of 6 October 2026 would then be folded into it. Official Journal: median Jan 2029, half of the runs Jul 2028 – Jan 2030; before the 2029 elections 61 %.
-- **Package of two acts**: Two acts negotiated side by side, the New Standardisation Regulation (proposed on 6 October 2026) and one act on market surveillance and the New Legislative Framework. The package is complete when both are published. Official Journal: median Nov 2029, half of the runs Dec 2028 – Oct 2030; before the 2029 elections 42 %.
+- **Package of two acts**: Two acts negotiated side by side, the New Standardisation Regulation (proposed on 6 October 2026) and one act on market surveillance and the New Legislative Framework. The package is complete when both are published. Official Journal: median Nov 2029, half of the runs Dec 2028 – Oct 2030; before the 2029 elections 44 %.
 
 ## Method
 
