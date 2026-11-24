@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-23",
- "previous": "2026-11-22",
+ "edition": "2026-11-24",
+ "previous": "2026-11-23",
  "stories": [
   {
    "id": "medical-devices-simplification/mandate/ST-15342-26",
@@ -45,7 +45,7 @@
     }
    ],
    "brief": null,
-   "score": 64,
+   "score": 62,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -85,7 +85,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 64,
+   "score": 62,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -124,7 +124,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 62,
+   "score": 60,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -136,6 +136,43 @@
     ]
    },
    "added": "2026-11-21"
+  },
+  {
+   "id": "article/harmonised-standards-access",
+   "kind": "article",
+   "desk": "Analysis",
+   "date": "2026-11-24",
+   "act": "site",
+   "kicker": "",
+   "kicker_de": "",
+   "headline": "Harmonised standards for free: where to read them, and how to comment on the drafts",
+   "deck": "Harmonised standards cited in the Official Journal can be read free of charge on the portals of the national standardisation bodies; drafts only during the public enquiry. A country-by-country list, what it means for the Cyber Resilience Act standards, and what the proposed new Standardisation Regulation would change.",
+   "headline_de": "Harmonisierte Normen kostenlos: wo man sie liest und wie man Entwürfe kommentiert",
+   "deck_de": "Harmonisierte Normen, die im Amtsblatt zitiert sind, lassen sich kostenlos auf den Portalen der nationalen Normungsorganisationen lesen, Entwürfe nur während der öffentlichen Umfrage. Eine Liste nach Ländern, was das für die Normen zum Cyber Resilience Act heißt und was die vorgeschlagene neue Normungsverordnung ändern würde.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Read the article",
+     "articles/harmonised-standards-access.html"
+    ],
+    [
+     "Open",
+     "../acts/cra.html"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 60,
+   "crumbs": {
+    "en": [
+     "Analysis"
+    ],
+    "de": [
+     "Analyse"
+    ]
+   },
+   "added": "2026-11-24"
   },
   {
    "id": "csa2/ep-vote/PE796-192",
@@ -163,7 +200,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 59,
+   "score": 57,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -202,7 +239,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 59,
+   "score": 57,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -261,7 +298,7 @@
     "de": "ST 13886/26 REV 1: ST 13886/26 REV 1 of 5 October 2026 is a revised note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law. ST 13886/26: ST 13886/26 of 2 October 2026 is a note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law.",
     "lang": "en"
    },
-   "score": 50,
+   "score": 48,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -318,7 +355,7 @@
     "en": "The new deadlines are conditional. Art. 2: if CEN, Cenelec or ETSI “indicate that they do not accept the amendments … within a month of receiving it”, the Decision ceases to apply and C(2025)618 in its version of 3 February 2025 continues to apply. Harmonised standards developed under the request give a presumption of conformity once cited in the Official Journal; the deadlines bind the standardisation organisations, not manufacturers.",
     "de": "Die neuen Fristen gelten unter Vorbehalt. Art. 2: Nimmt CEN, Cenelec oder ETSI „die Änderungen gemäß Artikel 1 des vorliegenden Beschlusses nicht innerhalb eines Monats nach seinem Erhalt an“, tritt der Beschluss außer Kraft und C(2025)618 in seiner Fassung vom 3. Februar 2025 gilt weiterhin. Harmonisierte Normen aus dem Auftrag begründen eine Konformitätsvermutung, sobald sie im Amtsblatt genannt sind; die Fristen binden die Normungsorganisationen, nicht die Hersteller."
    },
-   "score": 49,
+   "score": 47,
    "ladder": {
     "request": "M/606",
     "org": null
@@ -367,7 +404,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -406,7 +443,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -456,7 +493,7 @@
     "de": "WK 15043/26: Working document WK 15043/26 of 1 October 2026, in which the General Secretariat of the Council compiles for the Antici Group (Simplification) the written comments of 19 Member States on the Presidency's revised compromise text ST 13112/26 on the Digital Omnibus, after the group's meeting of 25 September 2026; it records national views, is neither a Presidency compromise nor a Council position, and changes no text.",
     "lang": "en"
    },
-   "score": 46,
+   "score": 44,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -566,7 +603,7 @@
     }
    ],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -882,7 +919,7 @@
     }
    ],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "tree": {
     "vulnerability": {
      "CEN-CENELEC": {
@@ -992,7 +1029,7 @@
     }
    ],
    "brief": null,
-   "score": 45,
+   "score": 43,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1061,7 +1098,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -1100,7 +1137,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "NIS-2 amendment",
@@ -1112,50 +1149,6 @@
     ]
    },
    "added": "2026-11-23"
-  },
-  {
-   "id": "csa2/compromise/WK-17268-26",
-   "kind": "compromise",
-   "desk": "Legislation",
-   "date": "2026-11-09",
-   "act": "csa2",
-   "kicker": "Cybersecurity Act 2",
-   "kicker_de": "CSA2",
-   "headline": "Cybersecurity Act 2 · Council Presidency: fourth compromise text Title II (ENISA)",
-   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
-   "headline_de": "CSA2 · Präsidentschaft: Vierter Kompromisstext zu Titel II (ENISA)",
-   "deck_de": "Titel im Original: Presidency fourth compromise text Title II (ENISA). Vorschlag der Präsidentschaft, nicht die Position des Rates.",
-   "facts": [
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/csa2.html"
-    ],
-    [
-     "Document",
-     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 42,
-   "not_public": true,
-   "crumbs": {
-    "en": [
-     "Cybersecurity Act 2",
-     "Legislation"
-    ],
-    "de": [
-     "CSA2",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-12"
   },
   {
    "id": "article/enisa-consultations",
@@ -1183,7 +1176,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 42,
+   "score": 40,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1230,7 +1223,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -1273,7 +1266,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -1328,7 +1321,7 @@
     }
    ],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1391,7 +1384,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1436,7 +1429,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1496,7 +1489,7 @@
     "en": "A step further: EN 302 054 to Voting prEN; 1 only changed status within their step (Drafting prEN); 2 without an earlier status on record (EN 301 908-26, EN 301 908-1).",
     "de": "Einen Schritt weiter: EN 302 054 auf Umfrage prEN; 1 nur mit neuem Status im selben Schritt (Entwurf prEN); 2 ohne früheren Stand in den Daten (EN 301 908-26, EN 301 908-1)."
    },
-   "score": 37,
+   "score": 35,
    "tree": {
     "": {
      "ETSI": {
@@ -1634,7 +1627,7 @@
     "de": "Executive Vice-President Virkkunen put supply chain security at the core of the proposal, called for clear timelines to phase out high-risk suppliers, above all in 5G networks, and urged Parliament to give ENISA the mandate and resources it needs; she said full transposition and effective implementation of the NIS2 Directive could potentially have prevented some recent incidents or reduced their impact. Of the shadow rapporteurs, Tomas Tobé (EPP) asked for quick adoption with a framework to phase out high-risk suppliers, Jens Geier (S&D) for extending the scope to energy networks, and Markus Buchheit (ESN) opposed more resources for ENISA, a central reporting point and new certificates.",
     "lang": "en"
    },
-   "score": 36,
+   "score": 34,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -1685,7 +1678,7 @@
     "de": "ST 14387/26: Third Presidency compromise text of 16 October 2026 (ST 14387/26) on the Industrial Accelerator Act proposal, sent to delegations for the working party meetings of 26 and 27 October 2026 and marked against the second compromise text (ST 12236/26 REV 1); a Presidency draft, not law, which can still change.",
     "lang": "en"
    },
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1777,7 +1770,7 @@
     "en": "5 only changed status within their step (Drafting prEN, Voting EN); 7 without an earlier status on record (EN 305 550-4, EN 302 977, EN 301 447 …).",
     "de": "5 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 7 ohne früheren Stand in den Daten (EN 305 550-4, EN 302 977, EN 301 447 …)."
    },
-   "score": 35,
+   "score": 33,
    "tree": {
     "": {
      "ETSI": {
@@ -2031,7 +2024,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 34,
+   "score": 32,
    "ladder": {
     "place": {
      "en": [
@@ -2092,7 +2085,7 @@
     "en": "Until 16 Dec 2026 the median of publication in the Official Journal stays within 14 days of 25 Aug 2027, the median of 25 Mar 2026, when the procedure reached its current step; later, it moves later with every week. If the step came on 17 Nov 2026, the median would be 31 Jul 2027.",
     "de": "Bis 16. Dez. 2026 bleibt der Median der Veröffentlichung im Amtsblatt innerhalb von 14 Tagen um den 25. Aug. 2027, den Median vom 25. März 2026, als das Verfahren seinen jetzigen Schritt erreichte; danach rückt er mit jeder Woche später. Käme der Schritt am 17. Nov. 2026, läge der Median beim 31. Juli 2027."
    },
-   "score": 33,
+   "score": 31,
    "ladder": {
     "place": {
      "en": [
@@ -2150,7 +2143,7 @@
     }
    ],
    "brief": null,
-   "score": 33,
+   "score": 31,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -2198,55 +2191,6 @@
    "added": "2026-11-18"
   },
   {
-   "id": "chips-act-2/ep-draft/PE797-426",
-   "kind": "ep-draft",
-   "desk": "Legislation",
-   "date": "2026-11-09",
-   "act": "chips-act-2",
-   "kicker": "Chips Act 2.0",
-   "kicker_de": "Chips-Gesetz 2.0",
-   "headline": "Chips Act 2.0: ITRE draft report",
-   "deck": "Draft report of 9 November 2026 by the rapporteur of the Industry, Research and Energy committee on the Chips Act 2.0 proposal, with 226 amendments covering the whole proposal; it is the rapporteur's draft, not the position of the committee or of Parliament, and not law.",
-   "headline_de": "Chips-Gesetz 2.0: Berichtsentwurf im Parlament",
-   "deck_de": "Draft report of 9 November 2026 by the rapporteur of the Industry, Research and Energy committee on the Chips Act 2.0 proposal, with 226 amendments covering the whole proposal; it is the rapporteur's draft, not the position of the committee or of Parliament, and not law.",
-   "facts": [
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/chips-act-2.html"
-    ],
-    [
-     "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-797426/ITRE-PR-797426_en.pdf"
-    ]
-   ],
-   "items": [],
-   "brief": {
-    "status": "summary",
-    "en": "It would shorten the permit-granting procedure to six months (extendable once by three months) and extend it to other publicly supported projects in the value chain, add first-buyer commitments for public buyers, an independent Semiconductor Expert Panel for strategic projects, competitive calls for European Semiconductor Regions and a European Semiconductor Strategy, and make the supply chain platform optional and participation in it voluntary. In the domestic-undertaking test it adds as domestic an undertaking holding a valid recognition under the Chips Acts, an IPCEI or another Union programme without a disqualifying change of ownership or control; in public procurement it adds a Commission template for the security of supply declaration, and for risk-prone sectors it requires evidence of significant supply chain risks and makes the dual-sourcing guidance conditional on an economically and technically viable alternative.",
-    "de": "It would shorten the permit-granting procedure to six months (extendable once by three months) and extend it to other publicly supported projects in the value chain, add first-buyer commitments for public buyers, an independent Semiconductor Expert Panel for strategic projects, competitive calls for European Semiconductor Regions and a European Semiconductor Strategy, and make the supply chain platform optional and participation in it voluntary. In the domestic-undertaking test it adds as domestic an undertaking holding a valid recognition under the Chips Acts, an IPCEI or another Union programme without a disqualifying change of ownership or control; in public procurement it adds a Commission template for the security of supply declaration, and for risk-prone sectors it requires evidence of significant supply chain risks and makes the dual-sourcing guidance conditional on an economically and technically viable alternative.",
-    "lang": "en"
-   },
-   "score": 32,
-   "deck_lang": "en",
-   "crumbs": {
-    "en": [
-     "Chips Act 2.0",
-     "Legislation"
-    ],
-    "de": [
-     "Chips-Gesetz 2.0",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-17"
-  },
-  {
    "id": "space-act/forecast/reached/committee/2026-11-19",
    "kind": "forecast-step",
    "desk": "Analysis",
@@ -2284,7 +2228,7 @@
     "en": "The step came after its window: the median of publication had moved later by then; the forecast now starts from the next step.",
     "de": "Der Schritt kam nach seinem Fenster: der Median der Veröffentlichung war bis dahin später gerückt; die Prognose geht jetzt vom nächsten Schritt aus."
    },
-   "score": 32,
+   "score": 30,
    "ladder": {
     "place": {
      "en": [
@@ -2308,188 +2252,6 @@
     ]
    },
    "added": "2026-11-21"
-  },
-  {
-   "id": "red/standards/M536/2026-W46",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-11-15",
-   "act": "red",
-   "kicker": "Radio Equipment Directive",
-   "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive: 2 standards a step further in week 46",
-   "deck": "2 in the public enquiry on the draft. Standardisation request M/536.",
-   "headline_de": "Funkanlagenrichtlinie: 2 Normen in KW 46 einen Schritt weiter",
-   "deck_de": "2 in der Umfrage zum Entwurf. Normungsauftrag M/536.",
-   "facts": [
-    "M/536"
-   ],
-   "facts_de": [
-    "M/536"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../procedures/standardisation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 302 454: Approval Stage – Deliverable approval procedure initiated",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361"
-    },
-    {
-     "label": "EN 302 208: Approval Stage – Deliverable approval procedure initiated",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657"
-    },
-    {
-     "label": "EN 301 721: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020"
-    },
-    {
-     "label": "EN 301 489-9: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459"
-    },
-    {
-     "label": "EN 301 443: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017"
-    },
-    {
-     "label": "EN 301 441: Delivery to the EC",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "A step further: EN 302 454 to Voting prEN; EN 302 208 to Voting prEN; 4 without an earlier status on record (EN 301 721, EN 301 489-9, EN 301 443 …).",
-    "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN; EN 302 208 auf Umfrage prEN; 4 ohne früheren Stand in den Daten (EN 301 721, EN 301 489-9, EN 301 443 …)."
-   },
-   "score": 31,
-   "tree": {
-    "": {
-     "ETSI": {
-      "ERM WGAERO": [
-       {
-        "project": "EN 302 454",
-        "title": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1 500 mW; Harmonised Standard for access to radio spectrum",
-        "now": "Approval Stage – Deliverable approval procedure initiated",
-        "date": "2026-11-15",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "ERM WG34": [
-       {
-        "project": "EN 302 208",
-        "title": "Radio Frequency Identification Equipment operating in the band 865 MHz to 868 MHz with power levels up to 2 W and in the band 915 MHz to 921 MHz with power levels up to 4 W; Harmonised Standard for access to radio spectrum",
-        "now": "Approval Stage – Deliverable approval procedure initiated",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73657",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "SES HARM": [
-       {
-        "project": "EN 301 721",
-        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES) providing Low Bit Rate Data Communications (LBRDC) using Low Earth Orbiting (LEO) satellites operating below 1 GHz frequency band; Harmonised Standard for access to radio spectrum Low Bit Rate Data Communications using LEO satellites operating below 1 GHz",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51020",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 301 443",
-        "title": "Satellite Earth Stations and Systems (SES); Very Small Aperture Terminal (VSAT); Transmit-only, transmit-and-receive, receive-only satellite earth stations operating in the 4 GHz and 6 GHz frequency bands; Harmonised Standard for access to radio spectrum C-band VSAT 4 GHz and 6 GHz",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51017",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 301 441",
-        "title": "Satellite Earth Stations and Systems (SES); Mobile Earth Stations (MES), including handheld earth stations, for Satellite Personal Communications Networks (S-PCN) operating in the 1,6 GHz/2,4 GHz frequency band under the Mobile Satellite Service (MSS); Harmonised Standard for access to radio spectrum Satellite Personal Communications Networks (S-PCN) in the 1,6/2,4 GHz",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=52923",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "ERM WGEMC": [
-       {
-        "project": "EN 301 489-9",
-        "title": "ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 9: Specific conditions for wireless microphones, similar Radio Frequency (RF) audio link equipment, cordless audio, in-ear monitoring and assistive listening devices; Harmonised Standard for ElectroMagnetic Compatibility EMC Requirements for Cordless Audio",
-        "now": "Delivery to the EC",
-        "date": "2026-11-09",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=69459",
-        "step": null,
-        "prev": [
-         5,
-         true,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/536",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "Radio Equipment Directive",
-     "Standards",
-     "M/536",
-     "ETSI"
-    ],
-    "de": [
-     "Funkanlagenrichtlinie",
-     "Normen",
-     "M/536",
-     "ETSI"
-    ]
-   },
-   "added": "2026-11-10"
   },
   {
    "id": "chips-act-2/released/2026-11-16",
@@ -2523,7 +2285,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -2535,50 +2297,6 @@
     ]
    },
    "added": "2026-11-17"
-  },
-  {
-   "id": "nis2-amendment/compromise/WK-17271-26",
-   "kind": "compromise",
-   "desk": "Legislation",
-   "date": "2026-11-09",
-   "act": "nis2-amendment",
-   "kicker": "NIS-2 amendment",
-   "kicker_de": "NIS-2-Änderung",
-   "headline": "NIS-2 amendment · Council Presidency: compromise text",
-   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
-   "headline_de": "NIS-2-Änderung · Präsidentschaft: Kompromisstext",
-   "deck_de": "Titel im Original: Presidency compromise text. Vorschlag der Präsidentschaft, nicht die Position des Rates.",
-   "facts": [
-    "Draft, not law"
-   ],
-   "facts_de": [
-    "Entwurf, kein Recht"
-   ],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/nis2-amendment.html"
-    ],
-    [
-     "Document",
-     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 27,
-   "not_public": true,
-   "crumbs": {
-    "en": [
-     "NIS-2 amendment",
-     "Legislation"
-    ],
-    "de": [
-     "NIS-2-Änderung",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-12"
   },
   {
    "id": "public-procurement-act/legislation/IMCO-rapporteur-appointed-Christian-Doleschal-PPE-2026-11-16",
@@ -2606,7 +2324,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 26,
+   "score": 24,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2656,7 +2374,7 @@
     "de": "ST 13545/26: Presidency compromise text of 29 September 2026 on Pillars I and II of the proposed Chips Act 2.0 (Chips for Europe Initiative 2.0; security of supply and demand), sent by the General Secretariat of the Council to the Working Party on Competitiveness and Growth (Industry) with the changes against the Commission proposal marked; it is the Presidency's draft, not a Council position and not law, and it can still change.",
     "lang": "en"
    },
-   "score": 25,
+   "score": 23,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -2701,7 +2419,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -2746,7 +2464,7 @@
     }
    ],
    "brief": null,
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2785,7 +2503,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2829,7 +2547,7 @@
     "de": "It reports a first, partial Presidency compromise text on the autonomy part (the cloud sovereignty framework, public procurement and the public sector cloud federation), discussed in the working party on 10 November 2026: among other things, the Commission's implementing acts on Member States' assurance levels give way to recommendations, the mandated migration period goes from 12 to 18 months, the annual review of audit opinions becomes biennial, and the procurement rules extend to utilities' contracting entities. For the research and data centre parts, still being drafted, it announces among other things a later date of application (18 instead of 12 months after entry into force) and longer deadlines for data centre acceleration zones; the recognition architecture, penalties for SMEs and alignment with the proposed Cybersecurity Act revision and Public Procurement Act remain open.",
     "lang": "en"
    },
-   "score": 20,
+   "score": 18,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -2865,7 +2583,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 20,
+   "score": 18,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2910,7 +2628,7 @@
     }
    ],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -2922,6 +2640,88 @@
     ]
    },
    "added": "2026-11-12"
+  },
+  {
+   "id": "red/standards/M536/2026-W46",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-15",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive: 1 standard a step further in week 46",
+   "deck": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1 500 mW; Harmonised Standard for access to radio spectrum. The standard is in the public enquiry on the draft (step 3 of 8: Voting prEN).",
+   "headline_de": "Funkanlagenrichtlinie: 1 Norm in KW 46 einen Schritt weiter",
+   "deck_de": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1 500 mW; Harmonised Standard for access to radio spectrum. Die Norm ist in der Umfrage zum Entwurf (Schritt 3 von 8: Umfrage prEN).",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 302 454: Approval Stage – Deliverable approval procedure initiated",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "A step further: EN 302 454 to Voting prEN.",
+    "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN."
+   },
+   "score": 16,
+   "tree": {
+    "": {
+     "ETSI": {
+      "ERM WGAERO": [
+       {
+        "project": "EN 302 454",
+        "title": "Radiosondes to be used in the 1 668,4 MHz to 1 690 MHz frequency range with power levels ranging up to 1 500 mW; Harmonised Standard for access to radio spectrum",
+        "now": "Approval Stage – Deliverable approval procedure initiated",
+        "date": "2026-11-15",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74361",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
+    ]
+   },
+   "added": "2026-11-10"
   },
   {
    "id": "public-procurement-act/forecast/reached/referral/2026-11-11",
@@ -2959,7 +2759,7 @@
     "en": "The forecast now starts from the next step.",
     "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
    },
-   "score": 16,
+   "score": 14,
    "ladder": {
     "place": {
      "en": [
@@ -3017,7 +2817,7 @@
     }
    ],
    "brief": null,
-   "score": 15,
+   "score": 13,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -3082,7 +2882,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3121,7 +2921,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -3160,7 +2960,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 14,
+   "score": 12,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -3195,7 +2995,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -3230,7 +3030,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3265,7 +3065,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 8,
+   "score": 6,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -3304,7 +3104,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 0,
+   "score": -2,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -3348,7 +3148,7 @@
     "de": "It reports on the Presidency compromise text of 29 October 2026: \"EUSA verification\" replaces \"EUSA registration\" for third-country operators and international organisations, the scope excludes space objects operated by military or defence authorities for their entire lifetime or owned by military authorities, a self-certification without a qualified technical body is offered for spacecraft with governmental ownership or operation, the rules on space-based data now centre on Earth observation data bought by public contracting authorities and Union bodies, and the environmental footprint gives way to a life-cycle assessment with a voluntary Union method. On cybersecurity the Presidency did not modify the provisions; the report says the compromise text deals with the scope of the NIS-2 Directive, third-country operators and derogations through two implementing acts. All Member States keep a scrutiny reservation, and the Working Party continues with a view to reaching the Council's position.",
     "lang": "en"
    },
-   "score": 0,
+   "score": -2,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -3388,7 +3188,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -3427,7 +3227,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -3483,7 +3283,7 @@
     }
    ],
    "brief": null,
-   "score": -4,
+   "score": -6,
    "crumbs": {
     "en": [
      "Regulation on European standardisation",
@@ -3518,7 +3318,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -7,
+   "score": -9,
    "crumbs": {
     "en": [
      "This site"
@@ -3551,7 +3351,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -9,
+   "score": -11,
    "crumbs": {
     "en": [
      "This site"
@@ -3584,7 +3384,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -11,
+   "score": -13,
    "crumbs": {
     "en": [
      "This site"
@@ -3617,7 +3417,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -17,
+   "score": -19,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3637,6 +3437,20 @@
    "act": "Regulation on European standardisation",
    "text": "Committee on Standards: 33rd meeting of the Committee on standards",
    "url": "../procedures/committee-c41700.html",
+   "top": true
+  },
+  {
+   "date": "2026-11-30",
+   "act": "Cyber Resilience Act",
+   "text": "M/606: deadline for the ESOs to adopt the requested standards (items 1, 15), extended from 2026-08-30 by …",
+   "url": "../acts/cra.html",
+   "top": true
+  },
+  {
+   "date": "2026-11-30",
+   "act": "Artificial Intelligence Act",
+   "text": "Formal vote forecast by CEN-CENELEC: prEN 18229-3",
+   "url": "../acts/ai-act.html",
    "top": true
   }
  ],

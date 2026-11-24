@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-23",
+ "as_of": "2026-11-24",
  "views": [
   {
    "key": "all",
@@ -11,6 +11,20 @@
      "act": "Regulation on European standardisation",
      "text": "Committee on Standards: 33rd meeting of the Committee on standards",
      "url": "procedures/committee-c41700.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-30",
+     "act": "Cyber Resilience Act",
+     "text": "M/606: deadline for the ESOs to adopt the requested standards (items 1, 15), extended from 2026-08-30 by …",
+     "url": "acts/cra.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-30",
+     "act": "Artificial Intelligence Act",
+     "text": "Formal vote forecast by CEN-CENELEC: prEN 18229-3",
+     "url": "acts/ai-act.html",
      "top": true
     }
    ],
@@ -51,23 +65,9 @@
      "top": true
     },
     {
-     "date": "2026-11-16",
-     "act": "Simplification of the medical devices rules",
-     "text": "Council: Consolidated version of draft compromise text for General Approach to the IVDR Regulation (not …",
-     "url": "procedures/medical-devices-simplification.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-16",
-     "act": "Public Procurement Act",
-     "text": "European Parliament: IMCO rapporteur appointed (Christian Doleschal, PPE)",
-     "url": "procedures/public-procurement-act.html",
-     "top": false
-    },
-    {
      "date": "2026-11-18",
      "act": "Digital Omnibus",
-     "text": "Council released 3 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
+     "text": "Council released 2 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
      "url": "procedures/digital-omnibus.html",
      "top": false
     },
@@ -76,13 +76,6 @@
      "act": "Industrial Accelerator Act",
      "text": "Council released 4 documents listed as not public, incl. Third Presidency compromise text (clean version)",
      "url": "procedures/industrial-accelerator-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-16",
-     "act": "Cloud and AI Development Act",
-     "text": "Council: Presidency compromise text (Part 2) (not public)",
-     "url": "procedures/cloud-ai-development-act.html",
      "top": false
     },
     {
@@ -104,13 +97,6 @@
      "act": "Artificial Intelligence Act",
      "text": "Standardisation: prEN 18229-4: Under Enquiry",
      "url": "acts/ai-act.html#standardisation",
-     "top": false
-    },
-    {
-     "date": "2026-11-16",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) …",
-     "url": "procedures/csa2.html",
      "top": false
     },
     {
@@ -139,13 +125,6 @@
      "act": "EU Space Act",
      "text": "Council: Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26)",
      "url": "procedures/space-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-16",
-     "act": "Chips Act 2.0",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/chips-act-2.html",
      "top": false
     },
     {
@@ -182,13 +161,27 @@
      "text": "Committee on Standards: 33rd meeting of the Committee on standards",
      "url": "procedures/committee-c41700.html",
      "top": true
+    },
+    {
+     "date": "2026-11-30",
+     "act": "Cyber Resilience Act",
+     "text": "M/606: deadline for the ESOs to adopt the requested standards (items 1, 15), extended from 2026-08-30 by …",
+     "url": "acts/cra.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-30",
+     "act": "Artificial Intelligence Act",
+     "text": "Formal vote forecast by CEN-CENELEC: prEN 18229-3",
+     "url": "acts/ai-act.html",
+     "top": true
     }
    ],
    "recap": [
     {
      "date": "2026-11-18",
      "act": "Digital Omnibus",
-     "text": "Council released 3 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
+     "text": "Council released 2 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
      "url": "procedures/digital-omnibus.html",
      "top": true
     },
@@ -214,18 +207,11 @@
      "top": true
     },
     {
-     "date": "2026-11-16",
-     "act": "Cybersecurity Act 2",
-     "text": "Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) …",
-     "url": "procedures/csa2.html",
-     "top": true
-    },
-    {
      "date": "2026-11-17",
      "act": "Cyber Resilience Act",
      "text": "CRA Expert Group: Minutes published: 6th meeting of the CRA Expert Group (2026-10-08)",
      "url": "acts/cra.html#committees",
-     "top": false
+     "top": true
     }
    ]
   }
