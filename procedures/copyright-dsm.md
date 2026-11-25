@@ -34,7 +34,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2018-04-25 | ST 8332/18 | council-note | CZ proposal on Article 11 | public status unknown | – | – | – |
 | 2018-05-17 | [ST 8672/18](https://data.consilium.europa.eu/doc/document/ST-8672-2018-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | – | – |
 | 2018-05-25 | [ST 9134/18](https://data.consilium.europa.eu/doc/document/ST-9134-2018-INIT/en/pdf) | council-position | Agreed negotiating mandate | public | – | – | – |
-| 2018-06-29 | [A8-0245/2018](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-8-2018-0245/A-8-2018-0245_en.pdf) | ep-report | Report on the proposal for a directive of the European Parliament and of the Council on copyright in the Digital Single Market | public | – | – | – |
+| 2018-06-29 | [A8-0245/2018](https://www.europarl.europa.eu/doceo/document/A-8-2018-0245_EN.pdf) | ep-report | Report on the proposal for a directive of the European Parliament and of the Council on copyright in the Digital Single Market | public | – | – | – |
 | 2018-09-25 | ST 11520/18 | council-note | Outcome of the European Parliament's proceedings (Strasbourg 10-13 September 2018) | public status unknown | – | – | – |
 | 2018-09-26 | [ST 12513/18](https://data.consilium.europa.eu/doc/document/ST-12513-2018-INIT/en/pdf) | trilogue | 4-column document | public | – | – | – |
 | 2019-02-20 | ST 6637/19 | council-note | Outcome of proceedings | public status unknown | – | – | – |

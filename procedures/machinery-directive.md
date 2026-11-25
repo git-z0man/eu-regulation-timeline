@@ -25,7 +25,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Access | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2005-11-25 | [A6-0338/2005](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2005-0338/A-6-2005-0338_en.pdf) | ep-report | Recommendation for second reading on the Council common position for adopting a directive of the European Parliament and of the Council on machinery, and … | public | – | – | – |
+| 2005-11-25 | [A6-0338/2005](https://www.europarl.europa.eu/doceo/document/A-6-2005-0338_EN.pdf) | ep-report | Recommendation for second reading on the Council common position for adopting a directive of the European Parliament and of the Council on machinery, and … | public | – | – | – |
 
 ## Texts as Markdown
 

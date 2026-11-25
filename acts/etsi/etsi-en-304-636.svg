@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="546" viewBox="0 0 860 546" font-family="&quot;Source Sans 3&quot;, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" role="img" aria-label="EN 304 636 · Firewalls">
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:title>EN 304 636 · Firewalls</dc:title><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
+<rect width="860" height="546" fill="#fff"/>
+<text x="140" y="24" font-size="17" font-weight="600" fill="#1f2328">EN 304 636 · Firewalls</text>
+<text x="140" y="44" font-size="11.5" fill="#6b7280">Class II, point 2 · 1 step back · ETSI plan: published Feb 2027, cited May 2027</text>
+<text x="140" y="60" font-size="11.5" fill="#b45309">Our estimate: published May 2027 (Oct 2027 if EC/HAS find gaps again), cited Feb 2028 (Aug 2028)</text>
+<text x="140" y="76" font-size="11.5" fill="#4b5563">Typical path: enquiry closed Oct 2026 (397 d late for ETSI&#x27;s planned publication); typical from there: published Mar 2028, cited Jan 2029</text>
+<rect x="377.9" y="104" width="35.8" height="260" fill="#fef3c7" opacity="0.7"/>
+<line x1="140" x2="840" y1="364.0" y2="364.0" stroke="#e5e7eb"/>
+<text x="134" y="368.0" font-size="10.5" text-anchor="end" fill="#6b7280">Work item</text>
+<line x1="140" x2="840" y1="340.4" y2="340.4" stroke="#e5e7eb"/>
+<text x="134" y="344.4" font-size="10.5" text-anchor="end" fill="#6b7280">Early draft</text>
+<line x1="140" x2="840" y1="316.7" y2="316.7" stroke="#e5e7eb"/>
+<text x="134" y="320.7" font-size="10.5" text-anchor="end" fill="#6b7280">Stable draft</text>
+<line x1="140" x2="840" y1="293.1" y2="293.1" stroke="#e5e7eb"/>
+<text x="134" y="297.1" font-size="10.5" text-anchor="end" fill="#6b7280">Mature draft</text>
+<line x1="140" x2="840" y1="269.5" y2="269.5" stroke="#e5e7eb"/>
+<text x="134" y="273.5" font-size="10.5" text-anchor="end" fill="#6b7280">Final draft</text>
+<line x1="140" x2="840" y1="245.8" y2="245.8" stroke="#e5e7eb"/>
+<text x="134" y="249.8" font-size="10.5" text-anchor="end" fill="#6b7280">TB endorsed</text>
+<line x1="140" x2="840" y1="222.2" y2="222.2" stroke="#e5e7eb"/>
+<text x="134" y="226.2" font-size="10.5" text-anchor="end" fill="#6b7280">Enquiry (ENAP)</text>
+<line x1="140" x2="840" y1="198.5" y2="198.5" stroke="#e5e7eb"/>
+<text x="134" y="202.5" font-size="10.5" text-anchor="end" fill="#6b7280">Review after enquiry</text>
+<line x1="140" x2="840" y1="174.9" y2="174.9" stroke="#e5e7eb"/>
+<text x="134" y="178.9" font-size="10.5" text-anchor="end" fill="#6b7280">EC check before vote</text>
+<line x1="140" x2="840" y1="151.3" y2="151.3" stroke="#e5e7eb"/>
+<text x="134" y="155.3" font-size="10.5" text-anchor="end" fill="#6b7280">Vote</text>
+<line x1="140" x2="840" y1="127.6" y2="127.6" stroke="#e5e7eb"/>
+<text x="134" y="131.6" font-size="10.5" text-anchor="end" fill="#6b7280">Published (hEN)</text>
+<line x1="140" x2="840" y1="104.0" y2="104.0" stroke="#e5e7eb"/>
+<text x="134" y="108.0" font-size="10.5" text-anchor="end" fill="#6b7280">Cited in OJ</text>
+<line x1="140.0" x2="140.0" y1="104" y2="364" stroke="#e5e7eb" stroke-width="1.2"/>
+<text x="143.0" y="378" font-size="10.5" fill="#6b7280">2025</text>
+<line x1="178.4" x2="178.4" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="217.2" x2="217.2" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="256.4" x2="256.4" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="295.6" x2="295.6" y1="104" y2="364" stroke="#e5e7eb" stroke-width="1.2"/>
+<text x="298.6" y="378" font-size="10.5" fill="#6b7280">2026</text>
+<line x1="334.0" x2="334.0" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="372.8" x2="372.8" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="412.0" x2="412.0" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="451.2" x2="451.2" y1="104" y2="364" stroke="#e5e7eb" stroke-width="1.2"/>
+<text x="454.2" y="378" font-size="10.5" fill="#6b7280">2027</text>
+<line x1="489.6" x2="489.6" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="528.4" x2="528.4" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="567.6" x2="567.6" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="606.8" x2="606.8" y1="104" y2="364" stroke="#e5e7eb" stroke-width="1.2"/>
+<text x="609.8" y="378" font-size="10.5" fill="#6b7280">2028</text>
+<line x1="645.6" x2="645.6" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="684.4" x2="684.4" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="723.6" x2="723.6" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="762.8" x2="762.8" y1="104" y2="364" stroke="#e5e7eb" stroke-width="1.2"/>
+<text x="765.8" y="378" font-size="10.5" fill="#6b7280">2029</text>
+<line x1="801.2" x2="801.2" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<line x1="840.0" x2="840.0" y1="104" y2="364" stroke="#e5e7eb" stroke-width="0.6"/>
+<polygon fill="#9ca3af" opacity="0.22" points="140.0,364.0 140.0,364.0 140.0,340.4 140.0,340.4 140.0,316.7 140.0,316.7 140.0,293.1 140.0,293.1 140.0,269.5 140.0,269.5 140.0,245.8 152.4,245.8 152.4,222.2 190.7,222.2 190.7,198.5 257.2,198.5 257.2,174.9 438.8,174.9 438.8,151.3 472.1,151.3 472.1,127.6 559.5,127.6 559.5,104.0 623.9,104.0 623.9,127.6 472.1,127.6 472.1,151.3 444.8,151.3 444.8,174.9 388.5,174.9 388.5,198.5 338.2,198.5 338.2,222.2 299.9,222.2 299.9,245.8 247.0,245.8 247.0,269.5 169.8,269.5 169.8,293.1 178.4,293.1 178.4,316.7 143.4,316.7 143.4,340.4 140.0,340.4 140.0,364.0 140.0,364.0"/>
+<polyline fill="none" stroke="#6b7280" stroke-width="4" opacity="0.8" points="140.0,364.0 140.0,364.0 140.0,340.4 140.0,340.4 140.0,316.7 140.0,316.7 140.0,293.1 140.0,293.1 140.0,269.5 151.1,269.5 151.1,245.8 205.7,245.8 205.7,222.2 244.4,222.2 244.4,198.5 322.0,198.5 322.0,174.9 444.0,174.9 444.0,151.3 472.1,151.3 472.1,127.6 585.9,127.6 585.9,104.0"/>
+<line x1="424.3" x2="424.3" y1="100" y2="364" stroke="#111" stroke-dasharray="2 3"/>
+<text x="421.3" y="98" font-size="9.5" text-anchor="end" fill="#111">M/606 deadline</text>
+<line x1="464.0" x2="464.0" y1="100" y2="364" stroke="#111" stroke-dasharray="2 3"/>
+<text x="467.0" y="98" font-size="9.5" text-anchor="start" fill="#111">amended</text>
+<line x1="597.9" x2="597.9" y1="100" y2="364" stroke="#111" stroke-dasharray="2 3"/>
+<text x="600.9" y="98" font-size="9.5" text-anchor="start" fill="#111">CRA applies</text>
+<line x1="435.0" x2="435.0" y1="104" y2="364" stroke="#059669" stroke-width="1.5"/>
+<line x1="178.8" y1="364.0" x2="227.0" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="227.0" y1="364.0" x2="227.0" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="227.0" y1="364.0" x2="227.4" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="227.4" y1="364.0" x2="234.6" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="234.6" y1="364.0" x2="239.3" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="239.3" y1="364.0" x2="239.3" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="239.3" y1="364.0" x2="240.2" y2="364.0" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="240.2" y1="364.0" x2="240.2" y2="340.4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="240.2" y1="340.4" x2="249.1" y2="340.4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="249.1" y1="340.4" x2="252.5" y2="340.4" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="252.5" y1="340.4" x2="252.5" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="252.5" y1="316.7" x2="258.5" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="258.5" y1="316.7" x2="272.2" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="272.2" y1="316.7" x2="280.7" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="280.7" y1="316.7" x2="285.4" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="285.4" y1="316.7" x2="285.4" y2="293.1" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="285.4" y1="293.1" x2="288.4" y2="293.1" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="288.4" y1="293.1" x2="288.4" y2="316.7" stroke="#dc2626" stroke-width="2.2"/>
+<line x1="288.4" y1="316.7" x2="342.9" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="342.9" y1="316.7" x2="364.2" y2="316.7" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="364.2" y1="316.7" x2="364.2" y2="269.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="364.2" y1="269.5" x2="369.4" y2="269.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="369.4" y1="269.5" x2="370.6" y2="269.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="370.6" y1="269.5" x2="370.6" y2="269.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="370.6" y1="269.5" x2="370.6" y2="245.8" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="370.6" y1="245.8" x2="370.6" y2="245.8" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="370.6" y1="245.8" x2="370.6" y2="245.8" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="370.6" y1="245.8" x2="377.9" y2="245.8" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="377.9" y1="245.8" x2="377.9" y2="222.2" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="377.9" y1="222.2" x2="413.7" y2="222.2" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="413.7" y1="222.2" x2="413.7" y2="198.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="413.7" y1="198.5" x2="414.1" y2="198.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="414.1" y1="198.5" x2="432.9" y2="198.5" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="432.9" y1="198.5" x2="435.0" y2="198.5" stroke="#1d4ed8" stroke-width="2"/>
+<polyline fill="none" stroke="#0f766e" stroke-width="1.8" stroke-dasharray="5 4" points="435.0,198.5 446.9,198.5 446.9,151.3 452.5,151.3 452.5,151.3 455.5,151.3 455.5,151.3 468.7,151.3 468.7,151.3 468.7,151.3 468.7,127.6 472.1,127.6 472.1,127.6 475.1,127.6 475.1,127.6 508.3,127.6 508.3,104.0"/>
+<path d="M283.4,117 L293.4,117 L288.4,107 Z" fill="#7c3aed"/>
+<path d="M336.5,107 L341.5,112 L336.5,117 L331.5,112 Z" fill="none" stroke="#7c3aed" stroke-width="1.6"/>
+<path d="M371.6,117 L381.6,117 L376.6,107 Z" fill="#7c3aed"/>
+<path d="M393.7,107 L398.7,112 L393.7,117 L388.7,112 Z" fill="none" stroke="#7c3aed" stroke-width="1.6"/>
+<path d="M641.3,121.6 L647.3,127.6 L641.3,133.6 L635.3,127.6 Z" fill="#374151"/>
+<path d="M768.8,98.0 L774.8,104.0 L768.8,110.0 L762.8,104.0 Z" fill="#374151"/>
+<line x1="502.8" x2="570.6" y1="127.6" y2="127.6" stroke="#b45309" stroke-width="3" opacity=".35"/>
+<circle cx="570.6" cy="127.6" r="5" fill="#b45309" opacity=".45"/>
+<circle cx="502.8" cy="127.6" r="5" fill="#b45309"/>
+<line x1="630.3" x2="698.0" y1="104.0" y2="104.0" stroke="#b45309" stroke-width="3" opacity=".35"/>
+<circle cx="698.0" cy="104.0" r="5" fill="#b45309" opacity=".45"/>
+<circle cx="630.3" cy="104.0" r="5" fill="#b45309"/>
+<g transform="translate(0,390)"><line x1="10" x2="28" y1="14" y2="14" stroke="#1d4ed8" stroke-width="2.4"/><text x="34" y="18" font-size="11.5" fill="#1f2328">stage over time</text><line x1="141.5" x2="159.5" y1="14" y2="14" stroke="#dc2626" stroke-width="2.4"/><text x="165.5" y="18" font-size="11.5" fill="#1f2328">step back</text><line x1="236.4" x2="254.4" y1="14" y2="14" stroke="#0f766e" stroke-width="2.4" stroke-dasharray="5 3"/><text x="260.4" y="18" font-size="11.5" fill="#1f2328">ETSI plan</text><rect x="331.3" y="8" width="18" height="12" fill="#9ca3af" opacity=".3"/><line x1="331.3" x2="349.3" y1="14" y2="14" stroke="#6b7280" stroke-width="3"/><text x="355.3" y="18" font-size="11.5" fill="#1f2328">typical path (29 ETSI hENs on the same path)</text><path d="M19,30 L25,36 L19,42 L13,36 Z" fill="#374151"/><text x="34" y="40" font-size="11.5" fill="#1f2328">typical publication and citation from the actual end of the enquiry</text><rect x="458.7" y="30" width="18" height="12" fill="#fef3c7"/><text x="482.7" y="40" font-size="11.5" fill="#1f2328">enquiry</text><path d="M545.4,41 L555.4,41 L550.4,31 Z" fill="#7c3aed"/><text x="565.4" y="40" font-size="11.5" fill="#1f2328">EC/HAS assessment requested</text><path d="M19,53 L24,58 L19,63 L14,58 Z" fill="none" stroke="#7c3aed" stroke-width="1.6"/><text x="34" y="62" font-size="11.5" fill="#1f2328">EC/HAS result received</text><circle cx="193.2" cy="58" r="5" fill="#b45309"/><text x="208.2" y="62" font-size="11.5" fill="#1f2328">our estimate</text><circle cx="306.4" cy="58" r="5" fill="#b45309" opacity=".45"/><text x="321.4" y="62" font-size="11.5" fill="#1f2328">our estimate if EC/HAS find gaps again</text><line x1="578.1999999999999" x2="578.1999999999999" y1="51" y2="65" stroke="#059669" stroke-width="2"/><text x="593.1999999999999" y="62" font-size="11.5" fill="#1f2328">data as of</text></g>
+<text x="10" y="476" font-size="10.5" fill="#b45309">Our estimate: the steps still open at the durations seen on these standards (resolving the EC/HAS comments 85 d, then 15 d to the EC check, which takes</text>
+<text x="10" y="491" font-size="10.5" fill="#b45309">59 d), ETSI&#x27;s planned 64 d to publication and the typical 299 d to the OJ; lighter: one more round of EC/HAS comments.</text>
+<text x="10" y="506" font-size="10.5" fill="#5b646b">Source: ETSI work programme (eWPM schedules of the work items, read daily; data as of 24 Nov 2026). Typical path: 29 ETSI harmonised standards on the</text>
+<text x="10" y="521" font-size="10.5" fill="#5b646b">same path, published since 2019 (reference set of 24 Nov 2026).</text><text x="10" y="536" font-size="10.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 24 Nov 2026</text>
+</svg>

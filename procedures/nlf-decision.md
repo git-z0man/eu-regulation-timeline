@@ -23,7 +23,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Access | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0490/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0490/A-6-2007-0490_en.pdf) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | public | – | – | – |
+| 2007-12-04 | [A6-0490/2007](https://www.europarl.europa.eu/doceo/document/A-6-2007-0490_EN.pdf) | ep-report | Report on the proposal for a decision of the European Parliament and of the Council on a common framework for the marketing of products | public | – | – | – |
 
 ## Texts as Markdown
 

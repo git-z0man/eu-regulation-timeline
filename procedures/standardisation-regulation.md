@@ -23,7 +23,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Access | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2012-05-07 | [A7-0069/2012](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-7-2012-0069/A-7-2012-0069_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | public | – | – | – |
+| 2012-05-07 | [A7-0069/2012](https://www.europarl.europa.eu/doceo/document/A-7-2012-0069_EN.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on European Standardisation and amending Council Directives 89/686/EEC … | public | – | – | – |
 
 ## Texts as Markdown
 

@@ -20,7 +20,7 @@ Drawing: [gpsr.svg](gpsr.svg), [gpsr.pdf](gpsr.pdf) · Web page: [gpsr.html](gps
 | 2022-07-20 | Council | Mandate for negotiations with the European Parliament | [ST 11469/22](https://data.consilium.europa.eu/doc/document/ST-11469-2022-INIT/en/pdf) | Cellar procedure file 2021/170 (Council register) |
 | 2022-09-02 | Council | 4 column table | [ST 12074/22](https://data.consilium.europa.eu/doc/document/ST-12074-2022-INIT/en/pdf) | Cellar procedure file 2021/170 (Council register) |
 | 2023-03-29 | European Parliament | Plenary debate | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0170%28COD%29) | EP Open Data API, procedure 2021-0170 (PLENARY_DEBATE) |
-| 2023-03-30 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P9_TA(2023)0090](https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0090_en.pdf) | EP Open Data API, procedure 2021-0170 (PLENARY_AMEND_PROPOSAL) |
+| 2023-03-30 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P9_TA(2023)0090](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0090_EN.pdf) | EP Open Data API, procedure 2021-0170 (PLENARY_AMEND_PROPOSAL) |
 | 2023-05-10 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0170%28COD%29) | EP Open Data API, procedure 2021-0170 (SIGNATURE) |
 | 2023-05-23 | Signature and publication | Published in the Official Journal | [CELEX 32023R0988](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0988) · [en.md](../texts/gpsr/2023-05-23_oj.en.md) [de.md](../texts/gpsr/2023-05-23_oj.de.md) | EP Open Data API, procedure 2021-0170 (PUBLICATION_OFFICIAL_JOURNAL) |
 
@@ -50,7 +50,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2022-04-04 | ST 10381/21 REV 1 | council-transmission | – | public status unknown | – | – | – |
 | 2022-04-08 | ST 8086/22 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the first quarter of 2022 | public status unknown | – | – | – |
 | 2022-04-08 | ST 8086/22 COR 1 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the first quarter of 2022 | public status unknown | – | – | – |
-| 2022-06-24 | [A9-0191/2022](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-9-2022-0191/A-9-2022-0191_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | public | – | – | – |
+| 2022-06-24 | [A9-0191/2022](https://www.europarl.europa.eu/doceo/document/A-9-2022-0191_EN.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the … | public | – | – | – |
 | 2022-07-05 | ST 10381/21 REV 2 | council-transmission | – | public status unknown | – | – | – |
 | 2022-07-20 | [ST 11469/22](https://data.consilium.europa.eu/doc/document/ST-11469-2022-INIT/en/pdf) | council-position | Mandate for negotiations with the European Parliament | public | – | – | – |
 | 2022-09-02 | [ST 12074/22](https://data.consilium.europa.eu/doc/document/ST-12074-2022-INIT/en/pdf) | trilogue | 4 column table | public | – | – | – |
@@ -59,7 +59,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2022-10-04 | ST 13123/22 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information (Attachés) in the third quarter of 2022 | public status unknown | – | – | – |
 | 2022-12-21 | ST 16312/22 | council-note | Letter to the Chair of the European Parliament IMCO Committee | public status unknown | – | – | – |
 | 2023-02-15 | ST 6455/23 | council-note | List of working papers (WK) distributed in the Working Party on Consumer Protection and Information in the fourth quarter of 2022 | public status unknown | – | – | – |
-| 2023-03-30 | [P9_TA(2023)0090](https://data.europarl.europa.eu/distribution/doc/TA-9-2023-0090_en.pdf) | ep-position | General Product Safety Regulation | public | – | – | – |
+| 2023-03-30 | [P9_TA(2023)0090](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0090_EN.pdf) | ep-position | General Product Safety Regulation | public | – | – | – |
 | 2023-04-05 | ST 7800/23 | council-note | Outcome of the European Parliament's first reading (Brussels, 29 to 30 March 2023) | public status unknown | – | – | – |
 | 2023-04-12 | PE 79/22 | council-note | Regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the … | public status unknown | – | – | – |
 | 2023-04-14 | ST 7846/23 | council-note | Draft Regulation of the European Parliament and of the Council on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and … | public status unknown | – | – | – |

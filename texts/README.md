@@ -3095,6 +3095,16 @@ All texts of this act as one file: [nis2-amendment.zip](downloads/nis2-amendment
 | 2026-07-02_council-note-wk-9750-26 | council-note | WK 9750/26 | [en](nis2-amendment/2026-07-02_council-note-wk-9750-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-07-02_council-note-wk-9750-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/WK-9750-2026-INIT/en/pdf) |
 | 2026-09-22_ep-draft-report-pe792-221 | ep-draft-report | PE792.221 | [en](nis2-amendment/2026-09-22_ep-draft-report-pe792-221.en.md) | [de](nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-792221/ITRE-PR-792221_de.docx) |
 
+## Common incident reporting templates under the NIS2 Directive
+
+`nis2/hys-19595` – COMMISSION IMPLEMENTING REGULATION (EU) …/... laying down rules for the application of Directive (EU) 2022/2555 of the European Parliament and of the Council further specifying the type of information, the format and the procedure of a notification submitted pursuant to Article 23(1) of that Directive
+
+All texts of this act as one file: [nis2.zip](downloads/nis2.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-24_hys-draft | hys-draft | Ares(2026)10961481 | [en](nis2/hys-19595/2026-11-24_hys-draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/nis2/hys-19595/2026-11-24_hys-draft.en.md) | [source](https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e537694453) |
+
 ## Implementing Regulation (EU) 2024/2690
 
 `nis2/implementing-regulation-2024-2690` – Commission Implementing Regulation (EU) 2024/2690 of 17 October 2024 laying down rules for the application of Directive (EU) 2022/2555 as regards technical and methodological requirements of cybersecurity risk-management measures and further specification of the cases in which an incident is considered to be significant with regard to DNS service providers, TLD name registries, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, providers of online market places, of online search engines and of social networking services platforms, and trust service providers

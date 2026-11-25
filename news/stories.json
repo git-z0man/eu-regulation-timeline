@@ -1,7 +1,52 @@
 {
- "edition": "2026-11-24",
- "previous": "2026-11-23",
+ "edition": "2026-11-25",
+ "previous": "2026-11-24",
  "stories": [
+  {
+   "id": "nis2/hys-19595-26812",
+   "kind": "consultation",
+   "desk": "Legislation",
+   "date": "2026-11-24",
+   "act": "nis2",
+   "kicker": "NIS 2 Directive",
+   "kicker_de": "NIS-2",
+   "headline": "NIS 2 Directive: draft implementing regulation open for feedback",
+   "deck": "Common incident reporting templates under the NIS2 Directive: a draft by the Commission services, not adopted; feedback until 22 Dec 2026. The NIS2 Directive sets out obligations on essential and important entities in 18 critical sectors in the EU for the reporting of significant cybersecurity incidents. This act will provide common incident notification templates for notifications under the NIS2 Directive, thereby streamlining the format and the type of information to be notified across all 27 Member States and supporting the Commission’s broader simplification agenda.",
+   "headline_de": "NIS-2: Entwurf zur Konsultation",
+   "deck_de": "Common incident reporting templates under the NIS2 Directive: Entwurf der Kommissionsdienststellen, nicht angenommen; Rückmeldungen bis 22. Dez. 2026. The NIS2 Directive sets out obligations on essential and important entities in 18 critical sectors in the EU for the reporting of significant cybersecurity incidents. This act will provide common incident notification templates for notifications under the NIS2 Directive, thereby streamlining the format and the type of information to be notified across all 27 Member States and supporting the Commission’s broader simplification agenda.",
+   "facts": [
+    "Ares(2026)10961481",
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Ares(2026)10961481",
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Act page",
+     "../acts/nis2.html"
+    ],
+    [
+     "Have your say",
+     "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19595_en"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 63,
+   "crumbs": {
+    "en": [
+     "NIS 2 Directive",
+     "Legislation"
+    ],
+    "de": [
+     "NIS-2",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-25"
+  },
   {
    "id": "medical-devices-simplification/mandate/ST-15342-26",
    "kind": "mandate",
@@ -45,7 +90,7 @@
     }
    ],
    "brief": null,
-   "score": 62,
+   "score": 60,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -80,7 +125,7 @@
     ],
     [
      "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0314/A-10-2026-0314_en.pdf"
+     "https://www.europarl.europa.eu/doceo/document/A-10-2026-0314_EN.pdf"
     ]
    ],
    "items": [],
@@ -90,7 +135,7 @@
     "de": "Like the rapporteur's draft report, it removes the proposal's own cybersecurity regime for space operators (risk management, incident reporting and the resilience annex) and instead extends the space sector of the NIS 2 Directive to all space activities, space services and Union-owned assets, with transposition 24 months after entry into force; unlike the draft, it keeps the link to NIS 2 as a without-prejudice clause and drops the reduced duty to report incidents. It also cuts the authorisation deadline to six months with tacit approval where national law allows (not for launch services), adds a security and defence filter for authorisations, exempts SMEs and research institutions from the environmental footprint rules and deletes the Union Space Label; none of the tracked concepts is touched.",
     "lang": "en"
    },
-   "score": 62,
+   "score": 60,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -130,7 +175,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 60,
+   "score": 58,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -169,7 +214,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 60,
+   "score": 58,
    "crumbs": {
     "en": [
      "Analysis"
@@ -221,7 +266,7 @@
     }
    ],
    "brief": null,
-   "score": 58,
+   "score": 56,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -233,84 +278,6 @@
     ]
    },
    "added": "2026-11-24"
-  },
-  {
-   "id": "csa2/ep-vote/PE796-192",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-11-10",
-   "act": "csa2",
-   "kicker": "Cybersecurity Act 2",
-   "kicker_de": "CSA2",
-   "headline": "Cybersecurity Act 2: IMCO opinion adopted",
-   "deck": "European Parliament.",
-   "headline_de": "CSA2: Stellungnahme des Ausschusses IMCO angenommen",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/csa2.html"
-    ],
-    [
-     "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-796192/IMCO-AD-796192_en.pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 57,
-   "crumbs": {
-    "en": [
-     "Cybersecurity Act 2",
-     "Legislation"
-    ],
-    "de": [
-     "CSA2",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-23"
-  },
-  {
-   "id": "digital-omnibus/ep-vote/IMCO-opinion-adopted-2026-11-10",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-11-10",
-   "act": "digital-omnibus",
-   "kicker": "Digital Omnibus",
-   "kicker_de": "Digital-Omnibus",
-   "headline": "Digital Omnibus: IMCO opinion adopted",
-   "deck": "European Parliament.",
-   "headline_de": "Digital-Omnibus: Stellungnahme des Ausschusses IMCO angenommen",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/digital-omnibus.html"
-    ],
-    [
-     "Document",
-     "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 57,
-   "crumbs": {
-    "en": [
-     "Digital Omnibus",
-     "Legislation"
-    ],
-    "de": [
-     "Digital-Omnibus",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-14"
   },
   {
    "id": "industrial-accelerator-act/compromise/ST-15418-26",
@@ -342,7 +309,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 53,
+   "score": 51,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -391,7 +358,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 50,
+   "score": 48,
    "ladder": {
     "place": {
      "en": [
@@ -460,7 +427,7 @@
     "de": "ST 13886/26 REV 1: ST 13886/26 REV 1 of 5 October 2026 is a revised note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law. ST 13886/26: ST 13886/26 of 2 October 2026 is a note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law.",
     "lang": "en"
    },
-   "score": 48,
+   "score": 46,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -472,69 +439,6 @@
     ]
    },
    "added": "2026-11-19"
-  },
-  {
-   "id": "cra/sreq/M606-Amd-1",
-   "kind": "sreq",
-   "desk": "Standards",
-   "date": "2026-11-10",
-   "act": "cra",
-   "kicker": "Cyber Resilience Act",
-   "kicker_de": "CRA",
-   "headline": "Cyber Resilience Act · M/606: deadlines for the harmonised standards extended",
-   "deck": "The Commission amended standardisation request M/606 on 10 Nov 2026 (C(2026)7861, M/606 Amd 1), replacing its Annex I: items 1 and 15 from 30 Aug 2026 to 30 Nov 2026, items 16–41 from 30 Oct 2026 to 31 Jan 2027; items 2–14 unchanged (30 Oct 2027).",
-   "headline_de": "CRA · M/606: Fristen für die harmonisierten Normen verlängert",
-   "deck_de": "Die Kommission hat den Normungsauftrag M/606 am 10. Nov. 2026 geändert (C(2026)7861, M/606 Amd 1) und seinen Anhang I ersetzt: Nr. 1 und 15 vom 30.8.2026 auf den 30.11.2026, Nr. 16–41 vom 30.10.2026 auf den 31.1.2027; Nr. 2–14 unverändert (30.10.2027).",
-   "facts": [
-    "M/606 Amd 1",
-    "C(2026)7861",
-    "28 of 41 deadlines moved",
-    "Subject to the ESOs' acceptance"
-   ],
-   "facts_de": [
-    "M/606 Amd 1",
-    "C(2026)7861",
-    "28 von 41 Fristen verschoben",
-    "Vorbehaltlich der Annahme durch die ESO"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/cra.html#standardisation"
-    ],
-    [
-     "Decision (Register of Commission documents)",
-     "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2026)7861&lang=en"
-    ],
-    [
-     "eNorm",
-     "https://ec.europa.eu/growth/tools-databases/enorm/mandate/606AMD1_en"
-    ]
-   ],
-   "items": [],
-   "brief": {
-    "status": "rule",
-    "en": "The new deadlines are conditional. Art. 2: if CEN, Cenelec or ETSI “indicate that they do not accept the amendments … within a month of receiving it”, the Decision ceases to apply and C(2025)618 in its version of 3 February 2025 continues to apply. Harmonised standards developed under the request give a presumption of conformity once cited in the Official Journal; the deadlines bind the standardisation organisations, not manufacturers.",
-    "de": "Die neuen Fristen gelten unter Vorbehalt. Art. 2: Nimmt CEN, Cenelec oder ETSI „die Änderungen gemäß Artikel 1 des vorliegenden Beschlusses nicht innerhalb eines Monats nach seinem Erhalt an“, tritt der Beschluss außer Kraft und C(2025)618 in seiner Fassung vom 3. Februar 2025 gilt weiterhin. Harmonisierte Normen aus dem Auftrag begründen eine Konformitätsvermutung, sobald sie im Amtsblatt genannt sind; die Fristen binden die Normungsorganisationen, nicht die Hersteller."
-   },
-   "score": 47,
-   "ladder": {
-    "request": "M/606",
-    "org": null
-   },
-   "crumbs": {
-    "en": [
-     "Cyber Resilience Act",
-     "Standards",
-     "M/606"
-    ],
-    "de": [
-     "CRA",
-     "Normen",
-     "M/606"
-    ]
-   },
-   "added": "2026-11-12"
   },
   {
    "id": "cloud-ai-development-act/ep-draft/PE797-430",
@@ -561,7 +465,7 @@
     ],
     [
      "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.pdf"
+     "https://www.europarl.europa.eu/doceo/document/CJ18-PR-797430_EN.pdf"
     ]
    ],
    "items": [],
@@ -571,7 +475,7 @@
     "de": "On data centres it would make the designation of acceleration zones optional and add an impact analysis, grid, water and local benefit requirements, anti-speculation rules for grid reservations and a time-limited priority for Union operators not controlled from third countries. On the cloud sovereignty framework it would add a list of public sector activities assigned to each assurance level (new Annex IIa), a Commission methodology with powers to warn, suspend and take over national recognition, auditors approved by national authorities and limits on delegated acts amending the criteria, while easing some criteria, such as processing of telemetry and operational metadata outside the Union for cybersecurity purposes at levels 1 to 3. It would oblige private entities in the sectors of Annex I to the NIS-2 Directive to assess their cloud workloads and, after a transition, to use recognised services for critical ones, and it raises the procurement target for innovative SMEs from 25 % to 35 %.",
     "lang": "en"
    },
-   "score": 46,
+   "score": 44,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -682,7 +586,7 @@
     }
    ],
    "brief": null,
-   "score": 46,
+   "score": 44,
    "tree": {
     "vertical": {
      "ETSI": {
@@ -983,7 +887,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1033,7 +937,7 @@
     "de": "WK 15043/26: Working document WK 15043/26 of 1 October 2026, in which the General Secretariat of the Council compiles for the Antici Group (Simplification) the written comments of 19 Member States on the Presidency's revised compromise text ST 13112/26 on the Digital Omnibus, after the group's meeting of 25 September 2026; it records national views, is neither a Presidency compromise nor a Council position, and changes no text.",
     "lang": "en"
    },
-   "score": 44,
+   "score": 42,
    "crumbs": {
     "en": [
      "Digital Omnibus",
@@ -1087,7 +991,7 @@
     }
    ],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "tree": {
     "vulnerability": {
      "CEN-CENELEC": {
@@ -1197,7 +1101,7 @@
     }
    ],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1272,7 +1176,7 @@
     }
    ],
    "brief": null,
-   "score": 43,
+   "score": 41,
    "crumbs": {
     "en": [
      "Cloud and AI Development Act",
@@ -1284,84 +1188,6 @@
     ]
    },
    "added": "2026-11-24"
-  },
-  {
-   "id": "medical-devices-simplification/ep-vote/PE789-887",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-11-10",
-   "act": "medical-devices-simplification",
-   "kicker": "Simplification of the medical devices rules",
-   "kicker_de": "MDR/IVDR-Vereinfachung",
-   "headline": "Simplification of the medical devices rules: IMCO opinion adopted",
-   "deck": "European Parliament.",
-   "headline_de": "MDR/IVDR-Vereinfachung: Stellungnahme des Ausschusses IMCO angenommen",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/medical-devices-simplification.html"
-    ],
-    [
-     "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-789887/IMCO-AD-789887_en.pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 42,
-   "crumbs": {
-    "en": [
-     "Simplification of the medical devices rules",
-     "Legislation"
-    ],
-    "de": [
-     "MDR/IVDR-Vereinfachung",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-23"
-  },
-  {
-   "id": "nis2-amendment/ep-vote/PE797-654",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-11-10",
-   "act": "nis2-amendment",
-   "kicker": "NIS-2 amendment",
-   "kicker_de": "NIS-2-Änderung",
-   "headline": "NIS-2 amendment: IMCO opinion adopted",
-   "deck": "European Parliament.",
-   "headline_de": "NIS-2-Änderung: Stellungnahme des Ausschusses IMCO angenommen",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/nis2-amendment.html"
-    ],
-    [
-     "Document",
-     "https://data.europarl.europa.eu/distribution/reds_iCmOp/IMCO-AD-797654/IMCO-AD-797654_en.pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 42,
-   "crumbs": {
-    "en": [
-     "NIS-2 amendment",
-     "Legislation"
-    ],
-    "de": [
-     "NIS-2-Änderung",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-23"
   },
   {
    "id": "ai-act/standards/M613/2026-W48",
@@ -1396,7 +1222,7 @@
     }
    ],
    "brief": null,
-   "score": 41,
+   "score": 39,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -1465,7 +1291,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 40,
+   "score": 38,
    "crumbs": {
     "en": [
      "Analysis"
@@ -1512,7 +1338,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -1555,7 +1381,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 39,
+   "score": 37,
    "not_public": true,
    "crumbs": {
     "en": [
@@ -1610,7 +1436,7 @@
     }
    ],
    "brief": null,
-   "score": 37,
+   "score": 35,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1678,7 +1504,7 @@
     "de": "WK 16104/26: Working document of the Presidency of 16 October 2026 (WK 16104/26): the clean version of the third Presidency compromise text on the Industrial Accelerator Act proposal, that is the text of ST 14387/26 of the same day with its changes applied and without marks; a Presidency draft, not law, which can still change.",
     "lang": "en"
    },
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -1723,7 +1549,7 @@
     }
    ],
    "brief": null,
-   "score": 35,
+   "score": 33,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -1783,7 +1609,7 @@
     "en": "A step further: EN 302 054 to Voting prEN; 1 only changed status within their step (Drafting prEN); 2 without an earlier status on record (EN 301 908-26, EN 301 908-1).",
     "de": "Einen Schritt weiter: EN 302 054 auf Umfrage prEN; 1 nur mit neuem Status im selben Schritt (Entwurf prEN); 2 ohne früheren Stand in den Daten (EN 301 908-26, EN 301 908-1)."
    },
-   "score": 35,
+   "score": 33,
    "tree": {
     "": {
      "ETSI": {
@@ -1921,7 +1747,7 @@
     "de": "Executive Vice-President Virkkunen put supply chain security at the core of the proposal, called for clear timelines to phase out high-risk suppliers, above all in 5G networks, and urged Parliament to give ENISA the mandate and resources it needs; she said full transposition and effective implementation of the NIS2 Directive could potentially have prevented some recent incidents or reduced their impact. Of the shadow rapporteurs, Tomas Tobé (EPP) asked for quick adoption with a framework to phase out high-risk suppliers, Jens Geier (S&D) for extending the scope to energy networks, and Markus Buchheit (ESN) opposed more resources for ENISA, a central reporting point and new certificates.",
     "lang": "en"
    },
-   "score": 34,
+   "score": 32,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -1972,7 +1798,7 @@
     "de": "ST 14387/26: Third Presidency compromise text of 16 October 2026 (ST 14387/26) on the Industrial Accelerator Act proposal, sent to delegations for the working party meetings of 26 and 27 October 2026 and marked against the second compromise text (ST 12236/26 REV 1); a Presidency draft, not law, which can still change.",
     "lang": "en"
    },
-   "score": 33,
+   "score": 31,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -2064,7 +1890,7 @@
     "en": "5 only changed status within their step (Drafting prEN, Voting EN); 7 without an earlier status on record (EN 305 550-4, EN 302 977, EN 301 447 …).",
     "de": "5 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 7 ohne früheren Stand in den Daten (EN 305 550-4, EN 302 977, EN 301 447 …)."
    },
-   "score": 33,
+   "score": 31,
    "tree": {
     "": {
      "ETSI": {
@@ -2318,7 +2144,7 @@
     "en": "The procedures did not move: the method of the forecast changed, and with it the median of publication of each act listed.",
     "de": "Nicht die Verfahren haben sich bewegt, sondern die Methode der Prognose, und mit ihr der Median der Veröffentlichung jedes genannten Rechtsakts."
    },
-   "score": 32,
+   "score": 30,
    "ladder": {
     "place": {
      "en": [
@@ -2379,7 +2205,7 @@
     "en": "Until 16 Dec 2026 the median of publication in the Official Journal stays within 14 days of 25 Aug 2027, the median of 25 Mar 2026, when the procedure reached its current step; later, it moves later with every week. If the step came on 17 Nov 2026, the median would be 31 Jul 2027.",
     "de": "Bis 16. Dez. 2026 bleibt der Median der Veröffentlichung im Amtsblatt innerhalb von 14 Tagen um den 25. Aug. 2027, den Median vom 25. März 2026, als das Verfahren seinen jetzigen Schritt erreichte; danach rückt er mit jeder Woche später. Käme der Schritt am 17. Nov. 2026, läge der Median beim 31. Juli 2027."
    },
-   "score": 31,
+   "score": 29,
    "ladder": {
     "place": {
      "en": [
@@ -2437,7 +2263,7 @@
     }
    ],
    "brief": null,
-   "score": 31,
+   "score": 29,
    "tree": {
     "": {
      "CEN-CENELEC": {
@@ -2519,10 +2345,10 @@
    "items": [],
    "brief": {
     "status": "rule",
-    "en": "The step came after its window: the median of publication had moved later by then; the forecast now starts from the next step.",
-    "de": "Der Schritt kam nach seinem Fenster: der Median der Veröffentlichung war bis dahin später gerückt; die Prognose geht jetzt vom nächsten Schritt aus."
+    "en": "The step came after its window: the median of publication had moved later by then; the forecast now starts from the next step. On 8 Sep 2025, when the procedure reached its previous step, the median of publication in the Official Journal was 13 Aug 2027; since 19 Nov 2026 it is 4 Dec 2027.",
+    "de": "Der Schritt kam nach seinem Fenster: der Median der Veröffentlichung war bis dahin später gerückt; die Prognose geht jetzt vom nächsten Schritt aus. Der Median der Veröffentlichung im Amtsblatt lag beim 13. Aug. 2027 (am 8. Sept. 2025, als das Verfahren seinen vorigen Schritt erreichte); seit dem 19. Nov. 2026 liegt er beim 4. Dez. 2027."
    },
-   "score": 30,
+   "score": 28,
    "ladder": {
     "place": {
      "en": [
@@ -2579,7 +2405,7 @@
     }
    ],
    "brief": null,
-   "score": 29,
+   "score": 27,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -2618,7 +2444,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 24,
+   "score": 22,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2668,7 +2494,7 @@
     "de": "ST 13545/26: Presidency compromise text of 29 September 2026 on Pillars I and II of the proposed Chips Act 2.0 (Chips for Europe Initiative 2.0; security of supply and demand), sent by the General Secretariat of the Council to the Working Party on Competitiveness and Growth (Industry) with the changes against the Commission proposal marked; it is the Presidency's draft, not a Council position and not law, and it can still change.",
     "lang": "en"
    },
-   "score": 23,
+   "score": 21,
    "crumbs": {
     "en": [
      "Chips Act 2.0",
@@ -2713,7 +2539,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Industrial Accelerator Act",
@@ -2758,7 +2584,7 @@
     }
    ],
    "brief": null,
-   "score": 21,
+   "score": 19,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -2797,7 +2623,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 19,
+   "score": 17,
    "crumbs": {
     "en": [
      "Cybersecurity Act 2",
@@ -2841,7 +2667,7 @@
     "de": "It reports a first, partial Presidency compromise text on the autonomy part (the cloud sovereignty framework, public procurement and the public sector cloud federation), discussed in the working party on 10 November 2026: among other things, the Commission's implementing acts on Member States' assurance levels give way to recommendations, the mandated migration period goes from 12 to 18 months, the annual review of audit opinions becomes biennial, and the procurement rules extend to utilities' contracting entities. For the research and data centre parts, still being drafted, it announces among other things a later date of application (18 instead of 12 months after entry into force) and longer deadlines for data centre acceleration zones; the recognition architecture, penalties for SMEs and alignment with the proposed Cybersecurity Act revision and Public Procurement Act remain open.",
     "lang": "en"
    },
-   "score": 18,
+   "score": 16,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -2877,7 +2703,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 18,
+   "score": 16,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -2889,51 +2715,6 @@
     ]
    },
    "added": "2026-11-23"
-  },
-  {
-   "id": "medical-devices-simplification/released/2026-11-10",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-11-10",
-   "act": "medical-devices-simplification",
-   "kicker": "Simplification of the medical devices rules",
-   "kicker_de": "MDR/IVDR-Vereinfachung",
-   "headline": "Council releases 1 Simplification of the medical devices rules document",
-   "deck": "1 note: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the … Listed as not public since 25 Sep 2026; now public in the register.",
-   "headline_de": "Rat gibt 1 Dokument zu MDR/IVDR-Vereinfachung frei",
-   "deck_de": "1 Vermerk: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the … Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/medical-devices-simplification.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "note",
-     "type_de": "Vermerk",
-     "rank": 8,
-     "ref": "WK 10875/26 ADD 1",
-     "date": "2026-07-28",
-     "title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices - Presentation by the …",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-10875-2026-ADD-1/en/pdf"
-    }
-   ],
-   "brief": null,
-   "score": 17,
-   "crumbs": {
-    "en": [
-     "Simplification of the medical devices rules",
-     "Legislation"
-    ],
-    "de": [
-     "MDR/IVDR-Vereinfachung",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-12"
   },
   {
    "id": "red/standards/M536/2026-W46",
@@ -2970,7 +2751,7 @@
     "en": "A step further: EN 302 454 to Voting prEN.",
     "de": "Einen Schritt weiter: EN 302 454 auf Umfrage prEN."
    },
-   "score": 16,
+   "score": 14,
    "tree": {
     "": {
      "ETSI": {
@@ -3053,7 +2834,7 @@
     "en": "The forecast now starts from the next step.",
     "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
    },
-   "score": 14,
+   "score": 12,
    "ladder": {
     "place": {
      "en": [
@@ -3079,82 +2860,6 @@
    "added": "2026-11-13"
   },
   {
-   "id": "machinery-regulation/standards/M605/2026-W46",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-11-10",
-   "act": "machinery-regulation",
-   "kicker": "Machinery Regulation",
-   "kicker_de": "MVO",
-   "headline": "Machinery Regulation: new status for standard prEN ISO 13849-2",
-   "deck": "Safety of machinery - Safety-related parts of control systems - Part 2: Validation (ISO/DIS 13849-2:2026). The standard is in drafting of the final text (step 4 of 8: Drafting EN).",
-   "headline_de": "MVO: neuer Status für Norm prEN ISO 13849-2",
-   "deck_de": "Safety of machinery - Safety-related parts of control systems - Part 2: Validation (ISO/DIS 13849-2:2026). Die Norm ist in der Ausarbeitung des Endtexts (Schritt 4 von 8: Entwurf EN).",
-   "facts": [
-    "M/605",
-    "Request expires 20 Jan 2035"
-   ],
-   "facts_de": [
-    "M/605",
-    "Auftrag läuft aus 20. Jan. 2035"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../acts/machinery-regulation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "prEN ISO 13849-2: Under Approval",
-     "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78590,25&cs=1615F2EFC94B17435D134FA5D17AA93F1"
-    }
-   ],
-   "brief": null,
-   "score": 13,
-   "tree": {
-    "": {
-     "CEN-CENELEC": {
-      "CEN/TC 114": [
-       {
-        "project": "prEN ISO 13849-2",
-        "title": "Safety of machinery - Safety-related parts of control systems - Part 2: Validation (ISO/DIS 13849-2:2026)",
-        "now": "Under Approval",
-        "date": "2026-11-10",
-        "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78590,25&cs=1615F2EFC94B17435D134FA5D17AA93F1",
-        "step": [
-         3,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/605",
-    "org": "CEN-CENELEC"
-   },
-   "crumbs": {
-    "en": [
-     "Machinery Regulation",
-     "Standards",
-     "M/605",
-     "CEN-CENELEC"
-    ],
-    "de": [
-     "MVO",
-     "Normen",
-     "M/605",
-     "CEN-CENELEC"
-    ]
-   },
-   "added": "2026-11-10"
-  },
-  {
    "id": "cyber-solidarity-act/committee/2026-11-20",
    "kind": "committee",
    "desk": "Committees",
@@ -3176,7 +2881,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3215,7 +2920,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -3254,7 +2959,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 12,
+   "score": 10,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -3289,7 +2994,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 6,
+   "score": 4,
    "crumbs": {
     "en": [
      "Cyber Resilience Act",
@@ -3324,7 +3029,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 6,
+   "score": 4,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3359,7 +3064,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": 6,
+   "score": 4,
    "crumbs": {
     "en": [
      "European Health Data Space Regulation",
@@ -3398,7 +3103,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -2,
+   "score": -4,
    "crumbs": {
     "en": [
      "Simplification of the medical devices rules",
@@ -3442,7 +3147,7 @@
     "de": "It reports on the Presidency compromise text of 29 October 2026: \"EUSA verification\" replaces \"EUSA registration\" for third-country operators and international organisations, the scope excludes space objects operated by military or defence authorities for their entire lifetime or owned by military authorities, a self-certification without a qualified technical body is offered for spacecraft with governmental ownership or operation, the rules on space-based data now centre on Earth observation data bought by public contracting authorities and Union bodies, and the environmental footprint gives way to a life-cycle assessment with a voluntary Union method. On cybersecurity the Presidency did not modify the provisions; the report says the compromise text deals with the scope of the NIS-2 Directive, third-country operators and derogations through two implementing acts. All Member States keep a scrutiny reservation, and the Working Party continues with a view to reaching the Council's position.",
     "lang": "en"
    },
-   "score": -2,
+   "score": -4,
    "deck_lang": "en",
    "crumbs": {
     "en": [
@@ -3482,7 +3187,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -6,
+   "score": -8,
    "crumbs": {
     "en": [
      "Public Procurement Act",
@@ -3521,7 +3226,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -6,
+   "score": -8,
    "crumbs": {
     "en": [
      "EU Space Act",
@@ -3577,7 +3282,7 @@
     }
    ],
    "brief": null,
-   "score": -6,
+   "score": -8,
    "crumbs": {
     "en": [
      "Regulation on European standardisation",
@@ -3612,7 +3317,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -9,
+   "score": -11,
    "crumbs": {
     "en": [
      "This site"
@@ -3645,39 +3350,6 @@
    ],
    "items": [],
    "brief": null,
-   "score": -11,
-   "crumbs": {
-    "en": [
-     "This site"
-    ],
-    "de": [
-     "Diese Seite"
-    ]
-   },
-   "added": "2026-11-12"
-  },
-  {
-   "id": "site/2026-11-10/about-costs",
-   "kind": "site",
-   "desk": "On this site",
-   "date": "2026-11-10",
-   "act": "site",
-   "kicker": "",
-   "kicker_de": "",
-   "headline": "New: what the site costs, on the About page",
-   "deck": "The AI use behind the daily routines and the work on the site, at list prices, per week and per routine.",
-   "headline_de": "Neu: was die Seite kostet, auf der Seite „About“",
-   "deck_de": "Die KI-Nutzung hinter den täglichen Routinen und der Arbeit an der Seite, zu Listenpreisen, je Woche und je Routine.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Open",
-     "../about.html#costs"
-    ]
-   ],
-   "items": [],
-   "brief": null,
    "score": -13,
    "crumbs": {
     "en": [
@@ -3687,7 +3359,7 @@
      "Diese Seite"
     ]
    },
-   "added": "2026-11-11"
+   "added": "2026-11-12"
   },
   {
    "id": "cyber-solidarity-act/committee/2026-11-12",
@@ -3711,7 +3383,7 @@
    ],
    "items": [],
    "brief": null,
-   "score": -19,
+   "score": -21,
    "crumbs": {
     "en": [
      "Cyber Solidarity Act",
@@ -3745,6 +3417,20 @@
    "act": "Artificial Intelligence Act",
    "text": "Formal vote forecast by CEN-CENELEC: prEN 18229-3",
    "url": "../acts/ai-act.html",
+   "top": true
+  },
+  {
+   "date": "2026-12-01",
+   "act": "NIS 2 Directive",
+   "text": "Funding call deadline: EYVOR NCC-IS: The NCC-IS Cybersecurity Grant (FSTP)",
+   "url": "../acts/nis2.html#funding",
+   "top": true
+  },
+  {
+   "date": "2026-12-01",
+   "act": "NIS 2 Directive",
+   "text": "ENISA survey closes: ENISA NIS360 survey 2027",
+   "url": "../acts/nis2.html",
    "top": true
   }
  ],

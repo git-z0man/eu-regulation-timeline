@@ -23,7 +23,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 
 | Date | Document | Kind | Subject | Status | Access | Released | Text |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2007-12-04 | [A6-0491/2007](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-6-2007-0491/A-6-2007-0491_en.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – | – | – |
+| 2007-12-04 | [A6-0491/2007](https://www.europarl.europa.eu/doceo/document/A-6-2007-0491_EN.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance … | public | – | – | – |
 
 ## Texts as Markdown
 
