@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-25",
+ "as_of": "2026-11-26",
  "views": [
   {
    "key": "all",
@@ -44,10 +44,31 @@
    ],
    "recap": [
     {
-     "date": "2026-11-20",
-     "act": "Simplification of the medical devices rules",
-     "text": "Council: General approach (not public)",
-     "url": "procedures/medical-devices-simplification.html",
+     "date": "2026-11-24",
+     "act": "Omnibus IV – Digitalisation and common specifications (Directive)",
+     "text": "European Parliament: Plenary vote",
+     "url": "procedures/product-digitalisation-directive.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-24",
+     "act": "Omnibus IV – Digitalisation and common specifications (Regulation)",
+     "text": "European Parliament: Plenary vote",
+     "url": "procedures/product-digitalisation-regulation.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-25",
+     "act": "EU Space Act",
+     "text": "European Parliament: Plenary confirms mandate for trilogues",
+     "url": "procedures/space-act.html",
+     "top": true
+    },
+    {
+     "date": "2026-11-24",
+     "act": "Digital Networks Act",
+     "text": "Council: Progress report",
+     "url": "procedures/dna.html",
      "top": true
     },
     {
@@ -58,25 +79,32 @@
      "top": true
     },
     {
+     "date": "2026-11-20",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council: General approach (not public)",
+     "url": "procedures/medical-devices-simplification.html",
+     "top": false
+    },
+    {
      "date": "2026-11-19",
      "act": "EU Space Act",
      "text": "European Parliament: ITRE committee meeting held: agenda item 9 (vote)",
      "url": "procedures/space-act.html",
-     "top": true
+     "top": false
     },
     {
      "date": "2026-11-19",
      "act": "EU Space Act",
      "text": "European Parliament: Committee adopts report and mandate",
      "url": "procedures/space-act.html",
-     "top": true
+     "top": false
     },
     {
-     "date": "2026-11-18",
-     "act": "Digital Omnibus",
-     "text": "Council released 2 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
-     "url": "procedures/digital-omnibus.html",
-     "top": true
+     "date": "2026-11-24",
+     "act": "Cloud and AI Development Act",
+     "text": "Council released 2 documents listed as not public, incl. Presidency compromise text",
+     "url": "procedures/cloud-ai-development-act.html",
+     "top": false
     },
     {
      "date": "2026-11-23",
@@ -88,14 +116,14 @@
     {
      "date": "2026-11-19",
      "act": "Industrial Accelerator Act",
-     "text": "Council released 4 documents listed as not public, incl. Third Presidency compromise text (clean version)",
+     "text": "Council released 3 documents listed as not public, incl. Third Presidency compromise text (clean version)",
      "url": "procedures/industrial-accelerator-act.html",
      "top": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "act": "Cyber Resilience Act",
-     "text": "20 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
+     "text": "18 standardisation projects moved on, e.g. EN 304 623: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -107,10 +135,17 @@
      "top": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "act": "Artificial Intelligence Act",
-     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Approved",
+     "text": "3 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
      "url": "acts/ai-act.html#standardisation",
+     "top": false
+    },
+    {
+     "date": "2026-11-23",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Discussion WK17271/2026",
+     "url": "procedures/csa2.html",
      "top": false
     },
     {
@@ -121,17 +156,24 @@
      "top": false
     },
     {
-     "date": "2026-11-23",
+     "date": "2026-11-25",
      "act": "Radio Equipment Directive",
-     "text": "12 standardisation projects moved on, e.g. EN 302 054: Approval Stage – Deliverable approval procedure …",
+     "text": "13 standardisation projects moved on, e.g. EN 302 977: Approval Stage – Final deliverable adopted for …",
      "url": "procedures/index.html",
      "top": false
     },
     {
+     "date": "2026-11-24",
+     "act": "Public Procurement Act",
+     "text": "Council released 4 documents listed as not public",
+     "url": "procedures/public-procurement-act.html",
+     "top": false
+    },
+    {
      "date": "2026-11-23",
-     "act": "Cloud and AI Development Act",
-     "text": "Council released 1 document listed as not public",
-     "url": "procedures/cloud-ai-development-act.html",
+     "act": "EU Space Act",
+     "text": "Council working parties met 2 times, latest: Space Working Party meeting: clean version: doc. ) …",
+     "url": "procedures/space-act.html",
      "top": false
     },
     {
@@ -139,20 +181,6 @@
      "act": "Public Procurement Act",
      "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
      "url": "procedures/public-procurement-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-20",
-     "act": "Public Procurement Act",
-     "text": "Council released 3 documents listed as not public",
-     "url": "procedures/public-procurement-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-20",
-     "act": "EU Space Act",
-     "text": "Council: Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26)",
-     "url": "procedures/space-act.html",
      "top": false
     },
     {
@@ -207,16 +235,9 @@
    ],
    "recap": [
     {
-     "date": "2026-11-18",
-     "act": "Digital Omnibus",
-     "text": "Council released 2 documents listed as not public, incl. Mandate for negotiations with the European Parliament",
-     "url": "procedures/digital-omnibus.html",
-     "top": true
-    },
-    {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "act": "Cyber Resilience Act",
-     "text": "20 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
+     "text": "18 standardisation projects moved on, e.g. EN 304 623: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": true
     },
@@ -228,10 +249,17 @@
      "top": true
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "act": "Artificial Intelligence Act",
-     "text": "2 standardisation projects moved on, e.g. FprEN ISO/IEC 24970: Approved",
+     "text": "3 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
      "url": "acts/ai-act.html#standardisation",
+     "top": true
+    },
+    {
+     "date": "2026-11-23",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Horizontal Working Party on Cyber Issues: Discussion WK17271/2026",
+     "url": "procedures/csa2.html",
      "top": true
     },
     {

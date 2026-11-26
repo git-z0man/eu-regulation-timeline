@@ -30,9 +30,7 @@ Changes compared to the Commission proposal (document 10935/25 + ADD1) are marke
 
 Please note that the numbering of the Commission proposal remains unchanged until the end of negotiations. The lawyer-linguist will insert the correct numbering and cross-references after final agreement.
 
-COMPET. ^(2). **LIMITE EN** It is understood that all delegations have entered a scrutiny reservation.
-
-COMPET. ^(2). **LIMITE EN**
+It is understood that all delegations have entered a scrutiny reservation.
 
 ++**ANNEX**++
 
@@ -3394,9 +3392,7 @@ Union launch operators shall implement the following **notification and** coordi
 
 1.2.1. The LCOLA shall be carried out before launch.
 
-Annex I COMPET. ^(2). **LIMITE EN**
-
-Annex I COMPET. ^(2). **LIMITE EN** 1.2.2. The LCOLA shall be carried out with the support of the relevant entity referred to in Article 64(1).
+1.2.2. The LCOLA shall be carried out with the support of the relevant entity referred to in Article 64(1).
 
 The Union launch operator shall ensure that the entity referred to in Article 64(1) obtains the predicated ephemerides for the ~~launcher~~ **launch vehicle**.
 
@@ -3418,9 +3414,7 @@ The Union launch operator shall ensure that the entity referred to in Article 64
 
 1.2.4. The Union launch operator shall assess and mitigate the risks related to collision in line with point 1.3, of Annex II.
 
-Annex I COMPET. ^(2). **LIMITE EN**
-
-Annex I COMPET. ^(2). **LIMITE EN** 1.2.5. The Union launch operator shall define the launch closure window according to the LCOLA assessment.
+1.2.5. The Union launch operator shall define the launch closure window according to the LCOLA assessment.
 
 1.3. Casualty risk
 
@@ -3442,13 +3436,11 @@ The casualty risk at launch and at re-entry shall be limited by the application 
 
 - (b) The casualty risk shall be limited to a threshold ~~which shall be specified in the~~ ~~implementing act referred to in Article 59(3)~~, ~~point (b) by~~ duly taking into account the differences in the types of risks entailed by the following risk scenarios:
 
-Annex I COMPET. ^(2). **LIMITE EN**
+  - (i) risk at launch;
 
-- (i) risk at launch;
+  - (ii) risk at re-entry (controlled and un-controlled);
 
-- (ii) risk at re-entry (controlled and un-controlled);
-
-- (iii) risk for the recovery phase of reusable ~~launcher~~ **launch vehicle** elements.
+  - (iii) risk for the recovery phase of reusable ~~launcher~~ **launch vehicle** elements.
 
 ~~The implementing act referred to in Article 59(3), point (c), shall set out specific quantitative~~ ~~allocations for a particular risk of catastrophic damage, in particular for the specific cases of sea and~~ ~~air routes.~~
 
@@ -3470,9 +3462,7 @@ Annex I COMPET. ^(2). **LIMITE EN**
 
 - ~~(b) For automatic systems, Union launch operators shall submit the detailed data and~~ ~~validation test results to the competent authority.~~
 
-Annex I COMPET. ^(2). **LIMITE EN**
-
-Annex I COMPET. ^(2). **LIMITE EN** 2.2.2. Specific rules for controlled re-entry shall be in place.
+2.2.2. Specific rules for controlled re-entry shall be in place.
 
 On-board automatic systems shall be in place, and criteria to ensure controlled re-entry shall be defined, in line with point 2.1.3
 
@@ -3487,8 +3477,6 @@ The ~~launcher~~ **launch** safety plan shall include at least the following ele
 - (c) the result of the calculation of the collective casualty risk at launch and re-entry, in line with point 1.3;
 
 - (d) the risk assessment of the failure scenario of the flight safety system, in line with point **2.1 and, where applicable, mitigations measures, including neutralisation** **in line with point** 2.2.
-
-Annex I COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-ii"></a>
 ## Annex II – SPACE DEBRIS MITIGATION FOR ~~LAUNCHERS~~ LAUNCH VEHICLES REFERRED TO IN ARTICLE 61
@@ -3513,7 +3501,7 @@ Annex I COMPET. ^(2). **LIMITE EN**
 
 **For the purpose of this Annex, ‘GEO protected region’ means a segment of the spherical shell** **defined by the following: lower altitude = geostationary altitude minus 200 km; upper altitude** **= geostationary altitude plus 200 km; -15 degrees ≤ latitude ≤ +15 degrees; geostationary** **altitude: 35.786 km is the altitude of the geostationary Earth orbit.**
 
-Annex II COMPET. ^(2). **LIMITE EN** 1.1.2. The requirements referred to in point 1.1.1., (a) and (b), shall not apply to the pyrotechnic system and to the solid or hybrid propellants.
+1.1.2. The requirements referred to in point 1.1.1., (a) and (b), shall not apply to the pyrotechnic system and to the solid or hybrid propellants.
 
 1.2. Avoiding fragmentation in orbit due to internal causes
 
@@ -3535,8 +3523,6 @@ In accordance with ~~the requirements in terms of duration and threshold establi
 
 - (b) ~~launcher~~ **launch vehicle** elements and existing space objects in orbit (crewed, uncrewed and debris).
 
-Annex II COMPET. ^(2). **LIMITE EN**
-
 2. End of life disposal
 
 2.1. Design coordination between the Union launch operator and spacecraft mission designer
@@ -3557,7 +3543,7 @@ The design shall allow for the demise (‘design for demise’) or deliberate de
 
   - (ii) the design shall allow for the demise (‘design for demise’) or the deliberate destruction of the launch vehicle orbital stage ~~in line with conditions to be~~ ~~specified in the implementing act referred to in Article 61(3), point (e)~~.
 
-Annex II COMPET. ^(2). **LIMITE EN** 2.3. Disposal of ~~launchers~~ **launch vehicles** in MEO
+2.3. Disposal of ~~launchers~~ **launch vehicles** in MEO
 
 The disposal of launch vehicles in MEO shall be performed in an orbit that does not interfere with **GEO** protected regions and valuable orbits for a limited amount of time, in line with point 1.1.1, point (d).
 
@@ -3582,10 +3568,6 @@ The disposal of launch vehicle in GEO shall be performed by placing the ~~launch
 - (c) the power requirements for disposal or re-orbit manoeuvre;
 
 - (d) the control requirements for disposal or re-orbit manoeuvre;
-
-Annex II COMPET. ^(2). **LIMITE EN**
-
-Annex II COMPET. ^(2). **LIMITE EN**
 
 - (e) the communication requirements for disposal or re-orbit manoeuvre.
 
@@ -3617,10 +3599,6 @@ The end-of-mission disposal plan shall include at least the following:
 
 - (a) The description of the planned disposal method ~~, in line with point 2.2, point 2.3 or~~ ~~point 2.4, as applicable,~~ for both nominal and non-nominal scenarios.
 
-Annex II COMPET. ^(2). **LIMITE EN**
-
-Annex II COMPET. ^(2). **LIMITE EN**
-
 - (b) The confirmation regarding the collaboration between the Union launch operator and the spacecraft mission designer, ~~in line with point 2.1,~~ including the specification of the final injection orbit.
 
 - (c) Evidence of compliance with the description on the adherence to the threshold of probability of successful disposal, including the relevant verification and analysis ~~,~~ ~~in line with point 2.5.1, point 2.5.2 and point 2.5.3~~.
@@ -3628,8 +3606,6 @@ Annex II COMPET. ^(2). **LIMITE EN**
 - (d) The identification of systems and capabilities ~~, in line with point 2.5.4~~.
 
 - ~~(e) A failure response plan, in line with point 2.6.~~
-
-Annex II COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-iii"></a>
 ## Annex III – TRACKING AND SOFTWARE REFERRED TO IN ~~ARTICLE 63~~ ARTICLES 63 and 63a
@@ -3656,8 +3632,6 @@ A spacecraft shall be trackable, according to the following principles:
 
 - (c) covariances.
 
-Annex III COMPET. ^(2). **LIMITE EN**
-
 2. Ground-based segment software requirements
 
 2.1. The ground segment shall be capable of providing a daily orbital forecast, including manoeuvres, for the spacecraft, for up to:
@@ -3673,8 +3647,6 @@ Annex III COMPET. ^(2). **LIMITE EN**
 2.3. The ground-based segment shall be able to process CCSDS data format, and in particular Orbital ephemerides Messages (OEM) and Conjunction Data Messages (CDM), for the collision avoidance operations.
 
 **For the purpose of Annex III and IV, ‘conjunction data messages’ means information about a** **conjunction between two space objects.**
-
-Annex III COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-iv"></a>
 ## Annex IV – COLLISION AVOIDANCE REFERRED TO IN ARTICLES 15 AND 64
@@ -3698,8 +3670,6 @@ The CA system shall be either external or in-house, provided that in the case of
 - (a) The CA ~~space services~~ provider shall be able to ingest orbits in standard format and associated covariance, including planned manoeuvres.
 
 - (b) The CA ~~space services~~ provider shall be able to ingest data from various sources, such as ephemerides provided directly by spacecraft operators, orbits from catalogue of space objects and Conjunction Data Messages (CDMs) provided by external data source.
-
-Annex IV COMPET. ^(2). **LIMITE EN**
 
 - (c) The CA ~~space services~~ provider shall be able to compute covariance information in exceptional cases when not included in the data source.
 
@@ -3727,8 +3697,6 @@ Annex IV COMPET. ^(2). **LIMITE EN**
 
   - (v) checking that mitigation actions decrease the risk level of the conjunctions to be mitigated, and do not unduly increase the risk level of other conjunctions.
 
-Annex IV COMPET. ^(2). **LIMITE EN**
-
 - (d) The CA ~~space services~~ provider shall use collision probability estimation techniques whose soundness is generally accepted, such as those used by the Union CA ~~space~~ ~~services provider referred to in Article 64(1)~~ **entity**, and appropriate for a given encounter.
 
 - (e) The CA ~~space services~~ provider shall be able to coordinate with other CA ~~service~~ providers, especially in case of high interest event.
@@ -3753,7 +3721,7 @@ The recommended time interval shall be once per day, per GEO spacecraft, and onc
 
 - (b) as soon as possible for automatic CA systems.
 
-Annex IV COMPET. ^(2). **LIMITE EN** 2.4. The Union spacecraft operator shall notify the Union CA ~~space services provider referred~~ ~~to in Article 64(1)~~ **entity** about:
+2.4. The Union spacecraft operator shall notify the Union CA ~~space services provider referred~~ ~~to in Article 64(1)~~ **entity** about:
 
 - (a) any change as regards the active and manoeuvrability status of its spacecraft;
 
@@ -3779,8 +3747,6 @@ Annex IV COMPET. ^(2). **LIMITE EN** 2.4. The Union spacecraft operator shall no
 
 - (b) specific requirements according to the different phases of the mission (launch, transit, passivation, EOL-operations).
 
-Annex IV COMPET. ^(2). **LIMITE EN**
-
 <a id="annex-v"></a>
 ## Annex V – SPACECRAFT SPACE DEBRIS MITIGATION REFERRED TO IN ARTICLE 70
 
@@ -3803,8 +3769,6 @@ To limit the planned generation of debris during nominal operations, the followi
 - (a) The probability of accidental fragmentation of a spacecraft in Earth orbit shall be limited, in accordance with the requirements laid down in the implementing act referred to in Article 70(3), point (b)(i), until its end of life.
 
 The calculation of the risk of accidental fragmentation of a spacecraft shall follow a standardised method, taking into account all known failure modes.
-
-Annex V COMPET. ^(2). **LIMITE EN**
 
 - (b) The spacecraft on-board sources of energy shall be designed to be robust and take into account the following factors:
 
@@ -3832,19 +3796,15 @@ Annex V COMPET. ^(2). **LIMITE EN**
 
   - (v) Union spacecraft operators shall deplete energy reserve in either of the following ways:
 
-Annex V COMPET. ^(2). **LIMITE EN**
+    - (1) through hard passivation, whereby a Union spacecraft operator shall put in place controls with parameters set to a level which cannot cause an explosion or deflagration large enough to release orbital debris or fragmentation of the spacecraft;
 
-Annex V COMPET. ^(2). **LIMITE EN**
+    - (2) through soft passivation in accordance with the conditions set out in the implementing act referred to in Article 70(3), point (b).
 
-- (1) through hard passivation, whereby a Union spacecraft operator shall put in place controls with parameters set to a level which cannot cause an explosion or deflagration large enough to release orbital debris or fragmentation of the spacecraft;
+  - (vi) Union spacecraft operators shall deactivate the parts of the spacecraft that produce energy.
 
-- (2) through soft passivation in accordance with the conditions set out in the implementing act referred to in Article 70(3), point (b).
+  - (vii) Following the passivation there shall be no more radioelectric emissions of the platform and the payload.
 
-- (vi) Union spacecraft operators shall deactivate the parts of the spacecraft that produce energy.
-
-- (vii) Following the passivation there shall be no more radioelectric emissions of the platform and the payload.
-
-- (viii) Passivation shall not generate space debris larger ~~to~~ **than** 1 mm, with the exception of the ventilation of propellant.
+  - (viii) Passivation shall not generate space debris larger ~~to~~ **than** 1 mm, with the exception of the ventilation of propellant.
 
 - (f) In the case of electrical passivation, energy sources shall be isolated and the battery drained.
 
@@ -3855,8 +3815,6 @@ Specific rules regarding passivation for re-entry shall be specified in the impl
 To limit the fragmentation caused by collision, the following requirements shall be implemented:
 
 - (a) Spacecraft shall be designed and manufactured, and space missions shall be respectively designed, in a way that limits the risk of collision, in accordance with the requirements laid down in the implementing act referred to in Article 70(3), point (b).
-
-Annex V COMPET. ^(2). **LIMITE EN**
 
 - (b) Spacecraft shall be designed and manufactured to limit the risk that a space debris or meteoroids causes the spacecraft or its component(s) to fragment, and, where tethers are used, additional measures shall be implemented to mitigate the risk of collision with space objects and meteoroids, in accordance with the requirements laid down in the implementing act referred to in Article 70(3), point (b).
 
@@ -3878,7 +3836,7 @@ Annex V COMPET. ^(2). **LIMITE EN**
 
 2.1.2. Control of the design, manufacture, integration and implementation of spacecraft systems shall be put in place, in order to manage hazards, especially those arising from critical activities.
 
-Annex V COMPET. ^(2). **LIMITE EN** 2.2. Operational procedures for quality and reliability control
+2.2. Operational procedures for quality and reliability control
 
 Union spacecraft operators shall implement a quality management system.
 
@@ -3908,27 +3866,23 @@ The implementation of a quality management system shall cover at least quality a
 
   - (a) The procedures shall foresee a re-evaluation to be carried out at least the following times:
 
-Annex V COMPET. ^(2). **LIMITE EN**
+    - (i) upon request of the component authority, during nominal lifetime and during time of mission extension;
 
-Annex V COMPET. ^(2). **LIMITE EN**
+    - (ii) upon detection of an anomaly which could affect the successful deorbiting;
 
-- (i) upon request of the component authority, during nominal lifetime and during time of mission extension;
+    - (iii) when evaluating a space mission lifetime extension;
 
-- (ii) upon detection of an anomaly which could affect the successful deorbiting;
+    - (iv) upon occurrence of a major change on the space environment (for example a catastrophic fragmentation) with a significant impact on the operational orbit or disposal approach;
 
-- (iii) when evaluating a space mission lifetime extension;
+  - (b) At least the following parameters shall be re-assessed in the procedures referred to in point (a):
 
-- (iv) upon occurrence of a major change on the space environment (for example a catastrophic fragmentation) with a significant impact on the operational orbit or disposal approach;
+    - (i) the monitored and updated probability of successful disposal with flight data, to ensure that the probability of successful disposal is high;
 
-- (b) At least the following parameters shall be re-assessed in the procedures referred to in point (a):
+    - ~~(ii) the foreseen probability of successful disposal as referenced in Section III, Part~~ ~~A, for the remaining time in orbit;~~
 
-  - (i) the monitored and updated probability of successful disposal with flight data, to ensure that the probability of successful disposal is high;
+    - (iii) the foreseen number of collision avoidance manoeuvres up to the end of life, with updated environmental models (and respective Delta V);
 
-  - ~~(ii) the foreseen probability of successful disposal as referenced in Section III, Part~~ ~~A, for the remaining time in orbit;~~
-
-  - (iii) the foreseen number of collision avoidance manoeuvres up to the end of life, with updated environmental models (and respective Delta V);
-
-  - (iv) the ~~disposal~~ **decay** orbit and the respective risk of collisions from the foreseen deorbit time up to re-entry (and guarantee that the respective Delta V is available).
+    - (iv) the ~~disposal~~ **decay** orbit and the respective risk of collisions from the foreseen deorbit time up to re-entry (and guarantee that the respective Delta V is available).
 
 **For the purpose of paragraph 2.2.3., point (b), points (iii) and (iv), ‘delta** **V’ means the velocity increment necessary to reach a specific orbit or** **flight path.**
 
@@ -3938,7 +3892,7 @@ Annex V COMPET. ^(2). **LIMITE EN**
 
 3.1.1. Union spacecraft operators shall calculate and adhere to assigned limits on the probability of successful disposal.
 
-Annex V COMPET. ^(2). **LIMITE EN** 3.1.2. The probability of successful disposal shall be high and shall be calculated according to the requirements set out in the implementing act referred to in Article 70(3), point (c).
+3.1.2. The probability of successful disposal shall be high and shall be calculated according to the requirements set out in the implementing act referred to in Article 70(3), point (c).
 
 3.1.3. At the design phase, the calculation by Union spacecraft operators of the probability of successful disposal shall be based on recognised method, based on state of the art, set out in the implementing act referred to in Article 70(3), point (c), and shall include:
 
@@ -3960,7 +3914,7 @@ Annex V COMPET. ^(2). **LIMITE EN** 3.1.2. The probability of successful disposa
 
 - (b) **In due time** before disposal, the Union spacecraft operator shall check that it has ~~to~~ the necessary propellant to perform the disposal.
 
-Annex V COMPET. ^(2). **LIMITE EN** 3.2. Design of the spacecraft in view of end of life disposal
+3.2. Design of the spacecraft in view of end of life disposal
 
 3.2.1. Spacecraft shall be designed to support end of life disposal through the means referred to in point 3.3, point 3.6 or point 3.7, as applicable.
 
@@ -3986,8 +3940,6 @@ The removal of spacecraft in LEO shall be performed by one or more of the follow
 
 - (e) In exceptional justified cases, for Very High LEO, disposal can take place in an orbit not interfering with protected regions and valuable orbits;
 
-Annex V COMPET. ^(2). **LIMITE EN**
-
 - (f) Removal by ISOS.
 
 **For the purpose of points (b) and (c), ‘end of space mission’ means the phase when a** **spacecraft or launch vehicle orbital stage completes the tasks for which it has been** **designed, other than its disposal, becomes non-functional as a consequence of a** **failure, or is permanently halted through a voluntary decision.**
@@ -4010,7 +3962,7 @@ Annex V COMPET. ^(2). **LIMITE EN**
 
 3.5.3. Union spacecraft operators shall carry out an assessment as to whether parts of the spacecraft will survive atmospheric re-entry and impact the surface of the Earth and shall set out the measures to be taken to reduce the casualty risk, in line with point 3.5.4.
 
-Annex V COMPET. ^(2). **LIMITE EN** 3.5.4. The probability of casualties per re-entry shall be further specified in the implementing act referred to in Article 70(3), point (c)(iii), considering the following requirements:
+3.5.4. The probability of casualties per re-entry shall be further specified in the implementing act referred to in Article 70(3), point (c)(iii), considering the following requirements:
 
 - (a) be as low as possible;
 
@@ -4038,9 +3990,7 @@ Annex V COMPET. ^(2). **LIMITE EN** 3.5.4. The probability of casualties per re-
 
 Removal from Earth orbits outside of the protected orbital regions to an orbit not interfering with protected regions and valuable orbits within a number of years specified in the implementing act referred to in Article 70(3), point (c).
 
-Annex V COMPET. ^(2). **LIMITE EN**
-
-Annex V COMPET. ^(2). **LIMITE EN** 3.7. Removal of spacecraft in GEO
+3.7. Removal of spacecraft in GEO
 
 Removal from Earth orbits outside of the protected orbital regions in an orbit not interfering with protected regions and valuable orbits within 100 years after its end of life.
 
@@ -4072,10 +4022,6 @@ Removal from Earth orbits outside of the protected orbital regions in an orbit n
 
 - (b) a description of adherence to the requirement on probability of accidental fragmentation, ~~in line with point 1.2.~~
 
-Annex V COMPET. ^(2). **LIMITE EN**
-
-Annex V COMPET. ^(2). **LIMITE EN**
-
 - (c) a description of adherence to limiting the risk of fragmentation due to collision, ~~in~~ ~~line with point 1.3.~~
 
 - (d) a description of the adherence to space reliability of design, ~~in line with point 2.1.~~
@@ -4104,8 +4050,6 @@ The Union spacecraft operator shall develop a failure response plan that shall i
 
 - (c) for Union spacecraft operators in MEO and GEO, steps to remove spacecraft to an alternative orbit, and passivate it before any further critical systems are lost;
 
-Annex V COMPET. ^(2). **LIMITE EN**
-
 - (d) steps to ensure the safe re-entry of the spacecraft from LEO, and to passivate it before any further critical systems are lost;
 
 - (e) the component of existing or future spacecraft that share components that could lead to a similar failure of the critical system (lessons learned);
@@ -4117,8 +4061,6 @@ Annex V COMPET. ^(2). **LIMITE EN**
   - (ii) the technical means and the specific mission mode ~~;~~ **.**
 
   - ~~(iii) if the removal plan is not successful, or if it excludes the use of ISOS providers in~~ ~~mitigating risks and leaves the spacecraft in a protected orbit without~~ ~~manoeuvrability, spacecraft operators shall include the dedicated spacecraft service~~ ~~interfaces (SSI) referred to in Article 101(3), in future spacecraft as part of the~~ ~~authorisation requirements.~~
-
-Annex V COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-vi"></a>
 ## Annex VI – CONSTELLATIONS REFERRED TO IN ARTICLE 73
@@ -4143,8 +4085,6 @@ Annex V COMPET. ^(2). **LIMITE EN**
 
 - (a) the debris control plan referred to in Article 70(2), point (a), shall include an analysis that demonstrate that specific care has been taken to avoid collision with the international space stations for any phase of the space mission;
 
-Annex VI COMPET. ^(2). **LIMITE EN**
-
 - (b) a report shall analyse, after one year of operation, the probability of intra and intercollision risks, and compare it with the one calculated at the time of the granting of the authorisation;
 
 - (c) Union spacecraft operators shall, after one year of operation, demonstrate the effectiveness of measures taken to address the light and radio pollution which have been explained in their application for authorisation. If such measures are not effective, Union spacecraft operators shall initiate the development of technical solutions through research to diminish the measured pollution for their next generation spacecraft in the respective constellation;
@@ -4154,8 +4094,6 @@ Annex VI COMPET. ^(2). **LIMITE EN**
   - (i) prepare a plan for transit and demonstrate that the probability of collision is limited;
 
   - (ii) report on the functioning of vital systems is due before reaching operational orbit.
-
-Annex VI COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-vii"></a>
 ## Annex VII – ~~RESILIENCE ANNEX VII~~
@@ -4181,8 +4119,6 @@ Annex VI COMPET. ^(2). **LIMITE EN**
 - ~~(e) the security objectives, including criteria scales and the risk appetite which shall be~~ ~~tailored to the respective space mission;~~
 
 - ~~(f) the risk scenarios covering at least the attack vectors that are well-known at that~~ ~~point in time;~~
-
-Annex VII COMPET. ^(2). **LIMITE EN**
 
 - ~~(g) the applicable treatment for each identified risk and scenario, including~~ ~~comprehensive corporate information security policies and system specific security~~ ~~requirements.~~
 
@@ -4212,7 +4148,7 @@ Annex VII COMPET. ^(2). **LIMITE EN**
 
 - ~~(d) assets that require use of highly specialised skills or know-how.~~
 
-Annex VII COMPET. ^(2). **LIMITE EN** ~~2.2. Setting-out procedures for the handling of assets of space infrastructure identified in point~~ ~~2.1, including during transitional stages, such as transport, or throughout testing and~~ ~~validation phases.~~
+~~2.2. Setting-out procedures for the handling of assets of space infrastructure identified in point~~ ~~2.1, including during transitional stages, such as transport, or throughout testing and~~ ~~validation phases.~~
 
 ~~3. PHYSICAL RESILIENCE~~
 
@@ -4229,8 +4165,6 @@ Annex VII COMPET. ^(2). **LIMITE EN** ~~2.2. Setting-out procedures for the hand
 - ~~(e) secure assets during all transitional stages, such as notably, transport, testing, as well~~ ~~as at the launching sites, in particular to avoid unauthorised access, tampering and~~ ~~damage;~~
 
 - ~~(f) place critical back-up assets into distinct geographic zones and maintaining~~ ~~inventories of relevant equipment, to allow the latter to be readily available in case of~~ ~~incidents;~~
-
-Annex VII COMPET. ^(2). **LIMITE EN**
 
 ~~4. DETECTION MECHANISMS~~
 
@@ -4260,7 +4194,7 @@ Annex VII COMPET. ^(2). **LIMITE EN**
 
 ~~5.2. The claimed identity of any device attempting to communicate with the satellite in view of~~ ~~modifying its internal state shall be authenticated.~~
 
-Annex VII COMPET. ^(2). **LIMITE EN** ~~5.3. The configuration of the flight systems and associated systems at the ground segment shall~~ ~~be done pursuant to pre-defined policies and shall be subject to verification in a way that~~ ~~prevents the installation or upgrade to software or firmware from being executed without~~ ~~an explicitly identified privilege to install such software.~~
+~~5.3. The configuration of the flight systems and associated systems at the ground segment shall~~ ~~be done pursuant to pre-defined policies and shall be subject to verification in a way that~~ ~~prevents the installation or upgrade to software or firmware from being executed without~~ ~~an explicitly identified privilege to install such software.~~
 
 ~~5.4. Minimal protection and preventive measures:~~
 
@@ -4285,8 +4219,6 @@ Annex VII COMPET. ^(2). **LIMITE EN** ~~5.3. The configuration of the flight sys
 - ~~(a) ICT security awareness programmes.~~
 
 - ~~(b) Compulsory modules with exercises on basic cyber hygiene practices.~~
-
-Annex VII COMPET. ^(2). **LIMITE EN**
 
 - ~~(c) Specific cybersecurity trainings with complexity levels that are commensurate to the~~ ~~remit of staff functions and tasks.~~
 
@@ -4324,7 +4256,7 @@ Annex VII COMPET. ^(2). **LIMITE EN**
 
 ~~9.4. Development of the risk scenarios referred to in point 1.4, point (f).~~
 
-Annex VII COMPET. ^(2). **LIMITE EN** ~~9.5. Setting-up and maintaining inventories referred to in Article 80(4), first subparagraph.~~
+~~9.5. Setting-up and maintaining inventories referred to in Article 80(4), first subparagraph.~~
 
 ~~9.6. Prevention and protection measures in accordance with Article 84(3).~~
 
@@ -4333,8 +4265,6 @@ Annex VII COMPET. ^(2). **LIMITE EN** ~~9.5. Setting-up and maintaining inventor
 ~~9.8. Measures for the backup management pursuant to Article 86(1) and (3).~~
 
 ~~9.9. Handling of incidents pursuant to Article 91.~~
-
-Annex VII COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-viii"></a>
 ## Annex VIII – IN-SPACE OPERATIONS AND SERVICES (ISOS) REFERRED TO IN ARTICLE 101
@@ -4357,7 +4287,7 @@ Annex VII COMPET. ^(2). **LIMITE EN**
 
 **For the purpose of this Annex, ‘ISOS operation’ means the execution of the planned ISOS** **tasks involving one or more space objects and ‘ISOS servicer spacecraft’ means a spacecraft** **specifically designed for the purpose of providing specific ISOS.**
 
-Annex VIII COMPET. ^(2). **LIMITE EN** 1.2. Coordination of control centers
+1.2. Coordination of control centers
 
 - (a) The respective control centers of the **ISOS** servicer spacecraft and the client object shall ensure appropriate coordination, by sharing all data, including the telemetry, that is necessary to ensure the safety of the respective operations.
 
@@ -4381,7 +4311,7 @@ and, where such prevention is not possible or is not immediately possible, shall
 
 2.2.2. The Union ISOS provider shall define in the operational concept a safe zone where presence of a third party will lead to non-engagement or withdrawal of the ongoing ISOS operation.
 
-Annex VIII COMPET. ^(2). **LIMITE EN** 2.2.3. Where anomalies occur, or where unforeseen events, including those caused by the carrying out of ISOS, lead to potential adverse impact on third party space objects, the Union ISOS provider shall immediately notify the space operator of the third-party space object impacted.
+2.2.3. Where anomalies occur, or where unforeseen events, including those caused by the carrying out of ISOS, lead to potential adverse impact on third party space objects, the Union ISOS provider shall immediately notify the space operator of the third-party space object impacted.
 
 2.2.4. The Union ISOS provider shall closely cooperate with **the Union CA entity** ~~CA service~~ ~~provider referred to in Article 63~~, including in the service operation phase.
 
@@ -4396,8 +4326,6 @@ Annex VIII COMPET. ^(2). **LIMITE EN** 2.2.3. Where anomalies occur, or where un
 2.4. Qualification of the system and servicing concept - Prior testing
 
 Except for non-reversible ISOS operations, Union ISOS providers shall, for the purposes of ascertaining the proper system functioning for the planned ISOS, carry out tests in orbit at least before engaging in the first service operation or in the first step and only if no danger is posed to any other space object.
-
-Annex VIII COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-ix"></a>
 ## Annex IX – QUALIFIED TECHNICAL BODIES ~~FOR SPACE ACTIVITIES REFRRED~~ REFERRED TO IN ARTICLE ~~35~~ 32a
@@ -4416,7 +4344,7 @@ Annex VIII COMPET. ^(2). **LIMITE EN**
 
 1.3. A body belonging to a business association or professional federation that represents undertakings which are involved in the design, development, production, provision, assembly, use, maintenance, testing, or operation of a product which a technical body assesses, or respectively undertakings which are involved in the use or operation of a service, activity or process that such technical body certifies, may only be considered as a ~~qualified technical body for space activities~~ **national QTB**, under this Regulation, if such body meets the requirements of independence and absence of conflict of interest.
 
-Annex IX COMPET. ^(2). **LIMITE EN** 1.4. A ~~qualified technical body for space activities~~ **national QTB** shall be organised and managed in a way that safeguards the independence, objectivity and the impartiality in carrying out its activities. **For that purpose, a national QTB shall ensure that:**
+1.4. A ~~qualified technical body for space activities~~ **national QTB** shall be organised and managed in a way that safeguards the independence, objectivity and the impartiality in carrying out its activities. **For that purpose, a national QTB shall ensure that:**
 
 ~~For that purpose, a qualified technical body for space activities shall ensure that:~~
 
@@ -4432,7 +4360,7 @@ Annex IX COMPET. ^(2). **LIMITE EN** 1.4. A ~~qualified technical body for space
 
 - (f) transparency is ensured regarding the procedure for carrying out technical assessments, for instance by means of publication on the relevant website of a description of such procedures.
 
-Annex IX COMPET. ^(2). **LIMITE EN** A ~~qualified technical body for space activities~~ **national QTB** shall meet the organisational, quality management, resource-related and process-related requirements necessary to fulfil its tasks.
+A ~~qualified technical body for space activities~~ **national QTB** shall meet the organisational, quality management, resource-related and process-related requirements necessary to fulfil its tasks.
 
 The organisational structure and operation of a ~~qualified technical body for space activities~~ **national** **QTB**, as well as the allocation of responsibilities and reporting shall be such as to ensure confidence in the performance of tasks and in the results of its technical assessment activities.
 
@@ -4454,8 +4382,6 @@ The organisational structure and operation of a ~~qualified technical body for s
 
 - (b) sound knowledge of the specific requirements for which a technical assessment activity is carried out;
 
-Annex IX COMPET. ^(2). **LIMITE EN**
-
 - (c) sound technical and vocational training covering all technical assessment activities in relation to which a ~~qualified technical body for space activities~~ **national QTB** has been notified;
 
 - (d) the ability to draw up certificates, records and reports demonstrating that technical assessments have been carried out.
@@ -4472,7 +4398,7 @@ The staff of a ~~qualified technical body for space activities~~ **national QTB*
 
 1.10. A ~~qualified technical body for space activities~~ **national QTB** shall hold or be in a position to obtain in due time, a valid personnel security clearance certificate.
 
-Annex IX COMPET. ^(2). **LIMITE EN** 1.11. A ~~qualified technical body for space activities~~ **national QTB** shall hold an appropriate liability insurance for carrying out its technical assessment activities.
+1.11. A ~~qualified technical body for space activities~~ **national QTB** shall hold an appropriate liability insurance for carrying out its technical assessment activities.
 
 1.12. A ~~qualified technical body for space activities~~ **national QTB** shall participate in the coordination activities as referred to in Article 39.
 
@@ -4483,8 +4409,6 @@ Annex IX COMPET. ^(2). **LIMITE EN** 1.11. A ~~qualified technical body for spac
 2. Specific requirements for ~~qualified technical bodies for space activities~~ **national QTBs** carrying out tasks of verification and validation of the environmental footprint study
 
 2.1. ~~Qualified technical bodies for space activities~~ **National QTBs** that carry out technical assessment of matters covered by Chapter III of Title IV, shall meet, in addition to the requirements laid down in section I of this Annex, the requirements **and shall follow the** **verification process, as** laid down in Section 8 of the Commission recommendation C(2021)9332.
-
-Annex IX COMPET. ^(2). **LIMITE EN**
 
 <a id="annex-x"></a>
 ## Annex X – ~~INFRINGEMENTS TO THE REGULATION REFERRED TO IN ARTICLE 54~~
@@ -4499,7 +4423,7 @@ Annex IX COMPET. ^(2). **LIMITE EN**
 
 ~~1.4. A Union space operator infringes Article 7(2), by not submitting in the application for~~ ~~authorisation a technical file with all necessary documentation and supporting evidence to~~ ~~demonstrate compliance with the requirements laid down in Title IV, Chapters I to V, as~~ ~~applicable to its specific space mission.~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~1.5. A Union space operator infringes Article 7(3), by not indicating in its application for~~ ~~authorisation, to the competent authority which qualified technical bodies for space~~ ~~activities the applicant intends to use for the technical assessment of the requirements laid~~ ~~down in Title IV, Chapters I to V, as applicable.~~
+~~1.5. A Union space operator infringes Article 7(3), by not indicating in its application for~~ ~~authorisation, to the competent authority which qualified technical bodies for space~~ ~~activities the applicant intends to use for the technical assessment of the requirements laid~~ ~~down in Title IV, Chapters I to V, as applicable.~~
 
 ~~1.6. A Union space operator infringes Article 9(1), by not ensuring that they comply with the~~ ~~conditions laid down in Article 9(1), points (a) and (b), when submitting the declaration~~ ~~referred to in Article 9(1), second subparagraph, or by failing to submit that declaration.~~
 
@@ -4513,7 +4437,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~1.5. A Union space operator infringes Arti
 
 ~~1.11. A Union space operator of Union-owned assets infringes Article 13(1), by not reporting~~ ~~any unforeseen event that may require the modification of its authorisation or any planned~~ ~~or imminent termination of its activity.~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~1.12. A Union space operator of Union-owned assets is found in any of the situations referred to~~ ~~in Article 13(2), first subparagraph.~~
+~~1.12. A Union space operator of Union-owned assets is found in any of the situations referred to~~ ~~in Article 13(2), first subparagraph.~~
 
 ~~1.13. A Union space operator infringes Article 26(1) and (2), by failing to accompany the~~ ~~contracts for the provision of space-based data and space services in the Union by the e-~~ ~~certificate.~~
 
@@ -4533,7 +4457,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~1.12. A Union space operator of Union-owne
 
 ~~1.21. A Union space operator infringes resilience requirements, by failing to comply with the~~ ~~risk management rules laid down in Article 76, Article 77, Article 78, Article 79, Article~~ ~~80, Article 81, Article 82, Article 83, Article 84, Article 85, Article 86, Article 87, Article~~ ~~88, Article 89, Article 90, Article 91, Article 92 and Article 95(1), (2) and (3).~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~1.22. A Union space operator of Union-owned assets infringes Article 93 regarding the reporting~~ ~~of significant incidents of Union-owned assets, by failing to report to the structure referred~~ ~~to in Article 93(1) or by not reporting in the manner specified in Article 93(7), first~~ ~~subparagraph.~~
+~~1.22. A Union space operator of Union-owned assets infringes Article 93 regarding the reporting~~ ~~of significant incidents of Union-owned assets, by failing to report to the structure referred~~ ~~to in Article 93(1) or by not reporting in the manner specified in Article 93(7), first~~ ~~subparagraph.~~
 
 ~~1.23. A Union space operator operating the assets referred to in Article 5, first paragraph, point~~ ~~(21), infringes Article 93, by failing to report to the competent authorities, as laid down in~~ ~~Article 93(2), or by failing to report in the manner specified in Article 93(7), first~~ ~~subparagraph.~~
 
@@ -4551,7 +4475,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~1.22. A Union space operator of Union-owne
 
 ~~1.30. An applicant for authorisation as Union space operator infringes Article 99, by failing to~~ ~~transmit the datasets referred to in Article 99(1), first subparagraph.~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~1.31. A Union space operator infringes Article 101.~~
+~~1.31. A Union space operator infringes Article 101.~~
 
 ~~1.32. A Union space operator infringes Article 112(1), first subparagraph, by failing to~~ ~~accompany the application for a Union Space Label by a detailed technical file~~ ~~demonstrating the fulfilment of the requirements established in the Union Labelling~~ ~~Scheme(s) for which the Union Space Label is sought.~~
 
@@ -4567,7 +4491,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~1.31. A Union space operator infringes Art
 
 ~~2.4. A third country space operator infringes Article 22, by failing to provide during the~~ ~~dialogue with the Agency the required explanations, documentation and evidence in~~ ~~support of its explanations, including any technical analysis, and to achieve compliance.~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~2.5. A third country space operator infringes Article 23, by failing to designate in writing one~~ ~~or more legal persons in one of the Member States to act as their legal representative in the~~ ~~Union, or by failing to mandating that legal representative to have the powers to be~~ ~~addressed in addition to, or instead of, the third country space operator, by the competent~~ ~~authorities, the Commission and the Agency, on all issues related to compliance with this~~ ~~Regulation, and to have all necessary powers and resources to guarantee an efficient and~~ ~~timely cooperation with such authorities.~~
+~~2.5. A third country space operator infringes Article 23, by failing to designate in writing one~~ ~~or more legal persons in one of the Member States to act as their legal representative in the~~ ~~Union, or by failing to mandating that legal representative to have the powers to be~~ ~~addressed in addition to, or instead of, the third country space operator, by the competent~~ ~~authorities, the Commission and the Agency, on all issues related to compliance with this~~ ~~Regulation, and to have all necessary powers and resources to guarantee an efficient and~~ ~~timely cooperation with such authorities.~~
 
 ~~2.6. A third country space operator infringes Article 25(3), by failing to accompany the~~ ~~contracts for the provision of space-based data and space services in the Union by the e-~~ ~~certificate.~~
 
@@ -4583,7 +4507,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~2.5. A third country space operator infrin
 
 ~~2.12. A third country space operator that met the requirement referred to in Article 52(1), point~~ ~~(b), infringes Article 52, by not submitting to the inspection or by hindering the exercise of~~ ~~the powers laid down in Article 52(2).~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~2.13. A third country space operator infringes Article 53(2), in conjunction with Articles 49, 50~~ ~~and 51.~~
+~~2.13. A third country space operator infringes Article 53(2), in conjunction with Articles 49, 50~~ ~~and 51.~~
 
 ~~3. Infringements applicable to international organisations~~
 
@@ -4605,7 +4529,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~2.13. A third country space operator infri
 
 ~~3.9. An international organisation infringes Article 53(2), in conjunction with Articles 49, 50~~ ~~and 51.~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~3.10. An international organisation infringes Article 58, Article 59, Article 60, or Article 61 as~~ ~~regards the safety of launchers.~~
+~~3.10. An international organisation infringes Article 58, Article 59, Article 60, or Article 61 as~~ ~~regards the safety of launchers.~~
 
 ~~3.11. An international organisation infringes Article 62, Article 63, Article 64, Article 65,~~
 
@@ -4629,7 +4553,7 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~3.10. An international organisation infrin
 
 ~~3.17. An international organisation operating the Union owned-assets infringes Article 97(3), by~~ ~~failing to include the components referred to in Article 3(1), points (a) to (c) and point (e),~~ ~~of Regulation (EU) 2021/696 and in Article 1 of Regulation (EU) 2023/588, as applicable.~~
 
-Annex X COMPET. ^(2). **LIMITE EN** ~~3.18. An international organisation infringes Article 98(1), by failing to possess the EF~~ ~~certificate in order to provide space services as regards the assets referred to in Article 5,~~ ~~first paragraph, points (20) and (21).~~
+~~3.18. An international organisation infringes Article 98(1), by failing to possess the EF~~ ~~certificate in order to provide space services as regards the assets referred to in Article 5,~~ ~~first paragraph, points (20) and (21).~~
 
 ~~3.19. An international organisation infringes Article 99, by failing to transmit to the Commission~~ ~~the datasets referred to in Article 99(1), first subparagraph.~~
 
@@ -4645,8 +4569,6 @@ Annex X COMPET. ^(2). **LIMITE EN** ~~3.18. An international organisation infrin
 
 ~~5.2. A collision avoidance space service provider infringes Article 103(1), first subparagraph,~~ ~~by failing to ensure the conditions referred to in Article 103(1), first subparagraph for the~~ ~~CAM, or infringes Article 103(2), by failing to ensure the coordination according to that~~ ~~paragraph, or infringes Article 103(3), first subparagraph, by failing to base the strategy of~~ ~~action on the principles laid down in that first subparagraph, or infringes Article 103(4), by~~ ~~failing to establish contact with the respective spacecraft, or in case of successful contact~~ ~~infringes Article 103(5), first subparagraph, by failing to observe the requirements laid~~ ~~down in that first subparagraph, or infringes Article 103(6), by failing to recommend a~~ ~~strategy in accordance with the requirements laid down in that paragraph.~~
 
-Annex X COMPET. ^(2). **LIMITE EN**
-
 ~~6. Infringements applicable to qualified bodies for space activities~~
 
 ~~6.1. Without prejudice to the regime of other entities that can provide technical assessments~~ ~~pursuant to Article 8(1), first subparagraph, an entity infringes Article 34(1), by carrying~~ ~~out such technical assessments without being designated and notified as a qualified~~ ~~technical body for space activities under this Regulation.~~
@@ -4656,8 +4578,6 @@ Annex X COMPET. ^(2). **LIMITE EN**
 ~~6.3. An entity that intends to carry out technical assessment for one or more matters covered by~~ ~~Title IV, Chapters I to V, infringes Article 35, by failing to meet any of the conditions laid~~ ~~down in Article 35(1), (2), (3) and (4), as applicable, in conjunction with the provisions of~~ ~~Annex IX.~~
 
 ~~6.4. A qualified body for space activities infringes Article 35, by no longer meeting any of the~~ ~~requirements laid down therein, in conjunction with the provisions of point 1, of Annex IX~~ ~~or point 2, of Annex IX.~~
-
-Annex X COMPET. ^(2). **LIMITE EN**
 
 <a id="notes"></a>
 ## Notes

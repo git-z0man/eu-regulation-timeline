@@ -1,6 +1,170 @@
 {
  "items": [
   {
+   "date": "2026-11-25",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Final deliverable adopted for publicatio",
+   "doc": "EN 302 977",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
+   "key": "eso-REN/SES-00438-2026-11-25",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Publication",
+   "doc": "EN 302 186",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
+   "key": "eso-REN/SES-00477-2026-11-25",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "red",
+   "title": "RED",
+   "actor": "DECT",
+   "label": "EN 301 406-2 – Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to rad: Drafting Stage – Final draft",
+   "doc": "EN 301 406-2",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499",
+   "key": "eso-REN/DECT-00437-2026-11-25",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG17",
+   "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Stable draft",
+   "doc": "EN 300 422-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
+   "key": "eso-REN/ERM-WG17-158-2026-11-25",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "European Parliament",
+   "label": "Plenary confirms mandate for trilogues",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29",
+   "key": "Plenary confirms mandate for trilogues",
+   "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 623 – Cybersecurity requirements for boot managers: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 623",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74414",
+   "key": "eso-DEN/CYBER-EUS-008-2026-11-25",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 622",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
+   "key": "eso-DEN/CYBER-EUS-0010-2026-11-25",
+   "page": "cra",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "CEN/CLC/JTC 21",
+   "label": "prEN ISO/IEC 23282 – Artificial Intelligence - Evaluation methods for accurate natural language processing syst: Under Approval",
+   "doc": "prEN ISO/IEC 23282",
+   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:77582,25&cs=12CADCFE745035835A4EE315C44A5045C",
+   "key": "eso-JT021012-2026-11-25",
+   "page": "ai-act",
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-29 (Mapping of Existing Reporting Obligations and Procurement : Related Information …), listed as not public since 2026-10-30",
+   "doc": "WK 16826/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-16826-2026-INIT/en/pdf",
+   "key": "WK 16826/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-29",
+   "doc_title": "Mapping of Existing Reporting Obligations and Procurement : Related Information …",
+   "withheld_since": "2026-10-30",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "European Parliament",
+   "label": "Plenary vote",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0134%28COD%29",
+   "key": "Plenary vote",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "product-digitalisation-directive",
+   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
+   "actor": "European Parliament",
+   "label": "Plenary vote",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29",
+   "key": "Plenary vote",
+   "page": "product-digitalisation-directive",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Progress report",
+   "doc": "ST 15968/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15968-2026-INIT/en/pdf",
+   "key": "ST 15968/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "cloud-ai-development-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-10-30 (Presidency compromise text), listed as not public since 2026-11-02",
+   "doc": "ST 14918/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14918-2026-INIT/en/pdf",
+   "key": "ST 14918/26-released",
+   "page": "cloud-ai-development-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-10-30",
+   "doc_title": "Presidency compromise text",
+   "withheld_since": "2026-11-02",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)"
+  },
+  {
    "date": "2026-11-24",
    "act": "cra",
    "title": "CRA",
@@ -99,6 +263,18 @@
   },
   {
    "date": "2026-11-23",
+   "act": "space-act",
+   "title": "EU Space Act – COM(2025) 335 (proposal)",
+   "actor": "Council",
+   "label": "Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26)",
+   "doc": "CM 5104/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5104-2026-INIT/en/pdf",
+   "key": "CM 5104/26",
+   "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-23",
    "act": "csa2",
    "actor": "Council",
    "label": "Released: Council note of 2026-09-30 (Presentation), listed as not public since 2026-09-30",
@@ -128,6 +304,18 @@
    "doc_title": "Member States' comments (Presidency second compromise text - Recitals & Titles I, II)",
    "withheld_since": "2026-09-30",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)"
+  },
+  {
+   "date": "2026-11-23",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Horizontal Working Party on Cyber Issues: Discussion WK17271/2026",
+   "doc": "CM 5124/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5124-2026-INIT/en/pdf",
+   "key": "CM 5124/26",
+   "page": "csa2",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-23",
@@ -270,30 +458,6 @@
    "act": "cra",
    "title": "CRA",
    "actor": "CYBER EUSR",
-   "label": "EN 304 623 – Cybersecurity requirements for boot managers: Approval Stage – Draft Review after PE",
-   "doc": "EN 304 623",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74414",
-   "key": "eso-DEN/CYBER-EUS-008-2026-11-23",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-23",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Draft Review after PE",
-   "doc": "EN 304 622",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-   "key": "eso-DEN/CYBER-EUS-0010-2026-11-23",
-   "page": "cra",
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-23",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
    "label": "EN 304 620 – Cybersecurity requirements for Virtual Private Networks (VPNs): Approval Stage – Draft Review after PE",
    "doc": "EN 304 620",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74409",
@@ -359,18 +523,6 @@
    "doc": "EN 305 550-4",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58456",
    "key": "eso-DEN/ERM-WGUWB-599EN 305 550-4-2026-11-20",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-20",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Closing of approval procedure",
-   "doc": "EN 302 977",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
-   "key": "eso-REN/SES-00438-2026-11-20",
    "page": null,
    "type": "Standardisation"
   },
@@ -751,18 +903,6 @@
    "date": "2026-11-17",
    "act": "red",
    "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Approval Stage – Final deliverable adopted for publicatio",
-   "doc": "EN 302 186",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
-   "key": "eso-REN/SES-00477-2026-11-17",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-17",
-   "act": "red",
-   "title": "RED",
    "actor": "ERM WGUWB",
    "label": "EN 302 065-6-1 – Short Range Devices (SRD) using Ultra Wide Band technology (UWB); Harmonised Standard for : Drafting Stage – Early draft",
    "doc": "EN 302 065-6-1",
@@ -945,6 +1085,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-15547-2026-INIT/en/pdf",
    "key": "ST 15547/26",
    "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-13",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Progress report",
+   "doc": "ST 15128/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15128-2026-INIT/en/pdf",
+   "key": "ST 15128/26",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -1212,9 +1364,9 @@
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "European Parliament",
    "label": "IMCO opinion adopted",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360%28COD%29",
-   "key": "IMCO opinion adopted",
+   "doc": "PE789.877",
+   "url": "https://www.europarl.europa.eu/doceo/document/IMCO-AD-789877_EN.pdf",
+   "key": "PE789.877",
    "page": "digital-omnibus",
    "type": "Legislation"
   },
@@ -1255,6 +1407,18 @@
    "page": "csa2",
    "type": "Legislation",
    "meeting": true
+  },
+  {
+   "date": "2026-11-10",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) – first …",
+   "doc": "CM 4811/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4811-2026-INIT/en/pdf",
+   "key": "CM 4811/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-09",
@@ -1625,6 +1789,18 @@
   },
   {
    "date": "2026-11-04",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "European Parliament",
+   "label": "LIBE opinion adopted",
+   "doc": "PE789.917",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-789917_EN.pdf",
+   "key": "PE789.917",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-11-04",
    "act": "csa2",
    "actor": "Council",
    "label": "Released: Council note of 2026-09-21 (Presidency presentation of Title II amendments), listed as not public since 2026-09-25",
@@ -1871,13 +2047,12 @@
    "act": "cloud-ai-development-act",
    "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
    "actor": "Council",
-   "label": "Presidency compromise text (not public)",
+   "label": "Presidency compromise text",
    "doc": "ST 14918/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/100884",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14918-2026-INIT/en/pdf",
    "key": "ST 14918/26",
    "page": "cloud-ai-development-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-10-29",
@@ -1930,6 +2105,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf",
    "key": "ST 15118/26",
    "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-29",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0): Examination of the Presidency …",
+   "doc": "CM 4566/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4566-2026-INIT/en/pdf",
+   "key": "CM 4566/26",
+   "page": "chips-act-2",
    "type": "Legislation"
   },
   {
@@ -2483,6 +2670,18 @@
   },
   {
    "date": "2026-10-22",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act Scope, Objectives and …",
+   "doc": "CM 4581/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4581-2026-INIT/en/pdf",
+   "key": "CM 4581/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-22",
    "act": "csa2",
    "actor": "Council",
    "label": "Released: Council note of 2026-09-08 (Template for the submission of drafting suggestions), listed as not public since 2026-09-30",
@@ -2634,7 +2833,7 @@
    "act": "cloud-ai-development-act",
    "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
    "actor": "Council",
-   "label": "5. UNCITRAL Working Group III: AOB 5.1 EU Cloud and AI Development ACT (CADA) CM 4611/1/26 REV 1 1 EN II. …",
+   "label": "Trade Policy Committee (Experts - Services and Investment): AOB 5.1 EU Cloud and AI Development ACT (CADA) CM …",
    "doc": "CM 4611/26 REV 1",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4611-2026-REV-1/en/pdf",
    "key": "CM 4611/26 REV 1",
@@ -2668,6 +2867,18 @@
    "doc_title": "Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October …",
    "withheld_since": "2026-10-04",
    "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-10-20",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "European Parliament",
+   "label": "ITRE draft report",
+   "doc": "PE791.994",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-791994_EN.pdf",
+   "key": "PE791.994",
+   "page": "dna",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-20",
@@ -2806,6 +3017,18 @@
    "doc_title": "Presidency revised compromise text",
    "withheld_since": "2026-09-25",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)"
+  },
+  {
+   "date": "2026-10-16",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Presidency compromise text - Articles 1-12 and 87-114",
+   "doc": "ST 14468/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14468-2026-INIT/en/pdf",
+   "key": "ST 14468/26",
+   "page": "dna",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-16",
@@ -2995,6 +3218,18 @@
    "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)"
   },
   {
+   "date": "2026-10-12",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0): Examination of the Presidency …",
+   "doc": "CM 4509/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4509-2026-INIT/en/pdf",
+   "key": "CM 4509/26",
+   "page": "chips-act-2",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-10-09",
    "act": "red",
    "title": "RED",
@@ -3097,6 +3332,18 @@
    "type": "Committees"
   },
   {
+   "date": "2026-10-07",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the Presidency compromise text – Doc. …",
+   "doc": "CM 4192/26 REV 2",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4192-2026-REV-2/en/pdf",
+   "key": "CM 4192/26 REV 2",
+   "page": "chips-act-2",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-10-06",
    "act": "red",
    "title": "RED",
@@ -3131,6 +3378,30 @@
    "key": "E03676-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/130398/download",
    "page": "machinery-regulation",
    "type": "Committees"
+  },
+  {
+   "date": "2026-10-06",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act – Part VII Governance a) b) …",
+   "doc": "CM 4451/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4451-2026-INIT/en/pdf",
+   "key": "CM 4451/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-06",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Attaches of the Working Party on Telecommunications and Information Society: Cloud and AI Development Act …",
+   "doc": "CM 4449/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4449-2026-INIT/en/pdf",
+   "key": "CM 4449/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-05",
@@ -3607,6 +3878,18 @@
   },
   {
    "date": "2026-09-29",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) – Pillar 1 …",
+   "doc": "CM 4246/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4246-2026-INIT/en/pdf",
+   "key": "CM 4246/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-29",
    "act": "chips-act-2",
    "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
    "actor": "Council",
@@ -3654,6 +3937,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-09-25",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification) (morning only): Omnibus VII: Digital Omnibus Proposal for a …",
+   "doc": "CM 4156/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4156-2026-INIT/en/pdf",
+   "key": "CM 4156/26",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-09-24",
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
@@ -3663,6 +3958,18 @@
    "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-792221_EN.pdf",
    "key": "PE792.221",
    "page": "nis2-amendment",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-24",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act – Part V – Title IV: …",
+   "doc": "CM 3966/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3966-2026-INIT/en/pdf",
+   "key": "CM 3966/26",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -3809,6 +4116,18 @@
    "page": "csa2",
    "type": "Legislation",
    "listed": "council-compromise"
+  },
+  {
+   "date": "2026-09-22",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) – Pillar 3 …",
+   "doc": "CM 3965/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3965-2026-INIT/en/pdf",
+   "key": "CM 3965/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-09-21",
@@ -3975,18 +4294,6 @@
    "type": "Committees"
   },
   {
-   "date": "2026-09-16",
-   "act": "red",
-   "title": "RED",
-   "actor": "DECT",
-   "label": "EN 301 406-2 – Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to rad: Drafting Stage – Final draft",
-   "doc": "EN 301 406-2",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499",
-   "key": "eso-REN/DECT-00437-2026-09-16",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
    "date": "2026-09-15",
    "act": "red",
    "title": "RED",
@@ -4023,6 +4330,18 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-09-15",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunication and Information Society: Digital Networks Act – Part V – Articles 77-79 …",
+   "doc": "CM 3962/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3962-2026-INIT/en/pdf",
+   "key": "CM 3962/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-09-14",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
@@ -4032,6 +4351,18 @@
    "url": null,
    "key": "WK 13973/26",
    "page": "csa2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-14",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the …",
+   "doc": "CM 4043/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4043-2026-INIT/en/pdf",
+   "key": "CM 4043/26",
+   "page": "chips-act-2",
    "type": "Legislation"
   },
   {
@@ -4080,6 +4411,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf",
    "key": "CM 3999/26",
    "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-11",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Format 1+1 Proposal for a …",
+   "doc": "CM 3890/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3890-2026-INIT/en/pdf",
+   "key": "CM 3890/26",
+   "page": "digital-omnibus",
    "type": "Legislation"
   },
   {
@@ -4133,6 +4476,18 @@
   },
   {
    "date": "2026-09-10",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act – Part V – continuation of …",
+   "doc": "CM 3956/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3956-2026-INIT/en/pdf",
+   "key": "CM 3956/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-10",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -4165,6 +4520,18 @@
    "url": null,
    "key": "WK 13671/26",
    "page": "csa2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-08",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications Ans Information Society: Cloud and AI Development Act (CADA) – Public …",
+   "doc": "CM 3901/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3901-2026-INIT/en/pdf",
+   "key": "CM 3901/26",
+   "page": "cloud-ai-development-act",
    "type": "Legislation"
   },
   {
@@ -4385,15 +4752,27 @@
   },
   {
    "date": "2026-09-03",
-   "act": "ai-act",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN ISO/IEC 23282 – Artificial Intelligence - Evaluation methods for accurate natural language processing syst: Under Enquiry",
-   "doc": "prEN ISO/IEC 23282",
-   "url": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:77582,25&cs=12CADCFE745035835A4EE315C44A5045C",
-   "key": "eso-JT021012-2026-09-03",
-   "page": "ai-act",
-   "type": "Standardisation"
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act – Part V transition to …",
+   "doc": "CM 3876/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3876-2026-INIT/en/pdf",
+   "key": "CM 3876/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-03",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the …",
+   "doc": "CM 3874/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3874-2026-INIT/en/pdf",
+   "key": "CM 3874/26",
+   "page": "chips-act-2",
+   "type": "Legislation"
   },
   {
    "date": "2026-09-02",
@@ -4509,7 +4888,7 @@
    "label": "EN 304 661 – Low Power Hearing Implant (LP-HI) systems operating in the frequency ranges 2000-3000 kHz : Drafting Stage – Early draft",
    "doc": "EN 304 661",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78881",
-   "key": "eso-DEN/ERM-TG30-329-2026-08-07",
+   "key": "eso-DEN/ERM-WGMED-329-2026-08-07",
    "page": null,
    "type": "Standardisation"
   },
@@ -4521,7 +4900,7 @@
    "label": "EN 304 660 – Low Power Active Medical Implants (LP-AMI) and associated Peripherals (LP-AMI-P), Low Powe: Drafting Stage – Early draft",
    "doc": "EN 304 660",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78777",
-   "key": "eso-DEN/ERM-TG30-327-2026-08-07",
+   "key": "eso-DEN/ERM-WGMED-327-2026-08-07",
    "page": null,
    "type": "Standardisation"
   },
@@ -4533,7 +4912,7 @@
    "label": "EN 302 510 – Ultra Low Power Active Medical Membrane Implants (ULP-AMI-M) and Peripherals (ULP-AMI-M-P): Drafting Stage – Early draft",
    "doc": "EN 302 510",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78774",
-   "key": "eso-REN/ERM-TG30-328-2026-08-07",
+   "key": "eso-REN/ERM-WGMED-328-2026-08-07",
    "page": null,
    "type": "Standardisation"
   },
@@ -4736,6 +5115,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-07-24",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the …",
+   "doc": "CM 3525/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3525-2026-INIT/en/pdf",
+   "key": "CM 3525/26",
+   "page": "chips-act-2",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-07-22",
    "act": "ai-act",
    "title": "AI Act",
@@ -4769,6 +5160,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-3558-2026-INIT/en/pdf",
    "key": "CM 3558/26",
    "page": "csa2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-07-17",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the …",
+   "doc": "CM 3524/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3524-2026-INIT/en/pdf",
+   "key": "CM 3524/26",
+   "page": "chips-act-2",
    "type": "Legislation"
   },
   {
@@ -4806,6 +5209,18 @@
    "key": "C131500-S117154/1",
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-07-16",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Format 1+1 Proposal for a …",
+   "doc": "CM 3630/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3630-2026-INIT/en/pdf",
+   "key": "CM 3630/26",
+   "page": "digital-omnibus",
+   "type": "Legislation"
   },
   {
    "date": "2026-07-16",
@@ -4892,6 +5307,30 @@
    "type": "Committees"
   },
   {
+   "date": "2026-07-14",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act – Radio Spectrum Articles …",
+   "doc": "CM 3596/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3596-2026-REV-1/en/pdf",
+   "key": "CM 3596/26 REV 1",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-07-14",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the …",
+   "doc": "CM 3523/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3523-2026-INIT/en/pdf",
+   "key": "CM 3523/26",
+   "page": "chips-act-2",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-07-13",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
@@ -4908,7 +5347,7 @@
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
-   "label": "Space Working Party meeting - full day meeting (ATTACHES LEVEL in: Exchange of views (7806/26)",
+   "label": "Space Working Party meeting - full day meeting (ATTACHES LEVEL in the afternoon): Exchange of views (7806/26)",
    "doc": "CM 3526/26 REV 1",
    "url": "https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf",
    "key": "CM 3526/26 REV 1",
@@ -4976,6 +5415,18 @@
    "type": "Committees"
   },
   {
+   "date": "2026-07-09",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act – Radio Spectrum Articles …",
+   "doc": "CM 3509/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3509-2026-INIT/en/pdf",
+   "key": "CM 3509/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-07-08",
    "act": "espr",
    "title": "ESPR",
@@ -5012,6 +5463,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-07-08",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the …",
+   "doc": "CM 3519/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3519-2026-INIT/en/pdf",
+   "key": "CM 3519/26",
+   "page": "chips-act-2",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-07-07",
    "act": "red",
    "title": "RED",
@@ -5022,6 +5485,18 @@
    "key": "eso-DEN/ERM-TGMAR-540-2026-07-07",
    "page": null,
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-07-07",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) Title IV: …",
+   "doc": "CM 3483/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3483-2026-INIT/en/pdf",
+   "key": "CM 3483/26",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-07-06",
@@ -5119,6 +5594,30 @@
    "page": "industrial-accelerator-act",
    "type": "Legislation",
    "listed": "council-compromise"
+  },
+  {
+   "date": "2026-07-02",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: (poss.) Digital Networks Act – Radio Spectrum …",
+   "doc": "CM 3440/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3440-2026-INIT/en/pdf",
+   "key": "CM 3440/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-07-01",
+   "act": "chips-act-2",
+   "title": "Chips Act 2.0 – COM(2026) 504 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Article by Article examination of the proposal (ST …",
+   "doc": "CM 3335/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3335-2026-INIT/en/pdf",
+   "key": "CM 3335/26",
+   "page": "chips-act-2",
+   "type": "Legislation"
   },
   {
    "date": "2026-06-30",
@@ -5585,6 +6084,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-06-17",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Consultative bodies",
+   "label": "EESC opinion",
+   "doc": "CELEX 52026AE0515",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026AE0515",
+   "key": "CELEX 52026AE0515",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-06-16",
    "act": "digital-omnibus-ai",
    "title": "Digital Omnibus on AI – Regulation (EU) 2026/1744",
@@ -5594,6 +6105,30 @@
    "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0198_EN.pdf",
    "key": "P10_TA(2026)0198",
    "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-16",
+   "act": "cloud-ai-development-act",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: 2. Third EU-India Trade and Technology Council …",
+   "doc": "CM 3196/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3196-2026-REV-1/en/pdf",
+   "key": "CM 3196/26 REV 1",
+   "page": "cloud-ai-development-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-15",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital rules Format 1+1 Proposal for a REGULATION …",
+   "doc": "CM 3059/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3059-2026-REV-1/en/pdf",
+   "key": "CM 3059/26 REV 1",
+   "page": "digital-omnibus",
    "type": "Legislation"
   },
   {
@@ -5667,6 +6202,18 @@
    "key": "eso-DEN/ERM-WGMAR-600-2026-06-11",
    "page": null,
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-06-11",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Attaches of the Working Party on Telecommunications and Information Society: Digital Networks Act Part IV, …",
+   "doc": "CM 3136/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3136-2026-INIT/en/pdf",
+   "key": "CM 3136/26",
+   "page": "dna",
+   "type": "Legislation"
   },
   {
    "date": "2026-06-11",
@@ -5947,6 +6494,18 @@
    "type": "Standardisation"
   },
   {
+   "date": "2026-06-04",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Attaches of the Working Party on Telecommunications and Information Society: Digital Networks Act Part IV, …",
+   "doc": "CM 3048/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3048-2026-INIT/en/pdf",
+   "key": "CM 3048/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-06-03",
    "act": "medical-devices-simplification",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
@@ -6007,6 +6566,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-06-02",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Progress report",
+   "doc": "ST 9685/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-9685-2026-INIT/en/pdf",
+   "key": "ST 9685/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-06-01",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
@@ -6016,6 +6587,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-2973-2026-REV-1/en/pdf",
    "key": "CM 2973/26 REV 1",
    "page": "csa2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-29",
+   "act": "product-digitalisation-directive",
+   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus IV: Digitalisation and Common Specifications Proposal …",
+   "doc": "CM 2966/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2966-2026-INIT/en/pdf",
+   "key": "CM 2966/26",
+   "page": "product-digitalisation-directive",
    "type": "Legislation"
   },
   {
@@ -6165,6 +6748,30 @@
   },
   {
    "date": "2026-05-27",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus IV: Small Mid-Caps (SMCs) Proposal for a REGULATION OF …",
+   "doc": "CM 2918/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2918-2026-INIT/en/pdf",
+   "key": "CM 2918/26",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-27",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital rules Proposal for a Regulation amending …",
+   "doc": "CM 2918/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2918-2026-INIT/en/pdf",
+   "key": "CM 2918/26",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-27",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -6234,6 +6841,18 @@
    "key": "C130300-S115823/1",
    "page": "espr",
    "type": "Committees"
+  },
+  {
+   "date": "2026-05-22",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Progress report",
+   "doc": "ST 8523/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-8523-2026-INIT/en/pdf",
+   "key": "ST 8523/26",
+   "page": "dna",
+   "type": "Legislation"
   },
   {
    "date": "2026-05-22",
@@ -6309,6 +6928,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-9547-2026-INIT/en/pdf",
    "key": "ST 9547/26",
    "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-21",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act a) Part III: General …",
+   "doc": "CM 2807/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2807-2026-INIT/en/pdf",
+   "key": "CM 2807/26",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -6445,18 +7076,6 @@
   },
   {
    "date": "2026-05-13",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WG17",
-   "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Start of pre-processing",
-   "doc": "EN 300 422-4",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
-   "key": "eso-REN/ERM-WG17-158-2026-05-13",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-05-13",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -6507,6 +7126,30 @@
   },
   {
    "date": "2026-05-11",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus IV a) Small Mid-Caps (SMCs): Directive and Regulation …",
+   "doc": "CM 2580/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2580-2026-INIT/en/pdf",
+   "key": "CM 2580/26",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-11",
+   "act": "product-digitalisation-directive",
+   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus IV a) Small Mid-Caps (SMCs): Directive and Regulation …",
+   "doc": "CM 2580/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2580-2026-INIT/en/pdf",
+   "key": "CM 2580/26",
+   "page": "product-digitalisation-directive",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-11",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -6527,6 +7170,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf",
    "key": "ST 8861/26",
    "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-08",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Proposal for a REGULATION OF THE …",
+   "doc": "CM 2577/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2577-2026-INIT/en/pdf",
+   "key": "CM 2577/26",
+   "page": "digital-omnibus",
    "type": "Legislation"
   },
   {
@@ -6575,6 +7230,18 @@
    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AR4240",
    "key": "CELEX 52025AR4240",
    "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-07",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act Examination of Articles …",
+   "doc": "CM 2603/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2603-2026-REV-1/en/pdf",
+   "key": "CM 2603/26 REV 1",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -6799,6 +7466,30 @@
   },
   {
    "date": "2026-04-27",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification) (morning only): Omnibus IV: Digitalisation and Common …",
+   "doc": "CM 2545/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2545-2026-INIT/en/pdf",
+   "key": "CM 2545/26",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-27",
+   "act": "product-digitalisation-directive",
+   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification) (morning only): Omnibus IV: Digitalisation and Common …",
+   "doc": "CM 2545/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2545-2026-INIT/en/pdf",
+   "key": "CM 2545/26",
+   "page": "product-digitalisation-directive",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-27",
    "act": "machinery-regulation",
    "title": "MR",
    "actor": "Commission Expert Group on Machinery",
@@ -6817,6 +7508,18 @@
   },
   {
    "date": "2026-04-27",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "European Parliament",
+   "label": "Referral to committee announced in plenary",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0013%28COD%29",
+   "key": "Referral to committee announced in plenary",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-27",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -6825,6 +7528,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-2546-2026-INIT/en/pdf",
    "key": "CM 2546/26",
    "page": "csa2",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-24",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus and Digital Omnibus on AI Format …",
+   "doc": "CM 2463/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2463-2026-INIT/en/pdf",
+   "key": "CM 2463/26",
+   "page": "digital-omnibus",
    "type": "Legislation"
   },
   {
@@ -6849,6 +7564,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-5778-2026-INIT/en/pdf",
    "key": "WK 5778/26",
    "page": "product-digitalisation-directive",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-23",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act a) Deep dive on the …",
+   "doc": "CM 2375/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2375-2026-INIT/en/pdf",
+   "key": "CM 2375/26",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -6924,6 +7651,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-04-16",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act Part VI – Services: Title …",
+   "doc": "CM 2263/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2263-2026-REV-1/en/pdf",
+   "key": "CM 2263/26 REV 1",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-04-15",
    "act": "product-digitalisation-regulation",
    "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
@@ -6967,7 +7706,7 @@
    "label": "EN 302 195 – Ultra Low Power Active Medical Implants (ULP-AMI) and their associated Peripherals (ULP-AM: Drafting Stage – Stable draft",
    "doc": "EN 302 195",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=54438",
-   "key": "eso-REN/ERM-TG30-318-2026-04-08",
+   "key": "eso-REN/ERM-WGMED-318-2026-04-08",
    "page": null,
    "type": "Standardisation"
   },
@@ -7006,6 +7745,30 @@
    "key": "eso-DEN/ERM-EMC-421-2026-03-30",
    "page": null,
    "type": "Standardisation"
+  },
+  {
+   "date": "2026-03-30",
+   "act": "product-digitalisation-regulation",
+   "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus IV: Digitalisation Proposal for a Regulation of the …",
+   "doc": "CM 2208/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2208-2026-INIT/en/pdf",
+   "key": "CM 2208/26",
+   "page": "product-digitalisation-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-03-30",
+   "act": "product-digitalisation-directive",
+   "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus IV: Digitalisation Proposal for a Regulation of the …",
+   "doc": "CM 2208/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2208-2026-INIT/en/pdf",
+   "key": "CM 2208/26",
+   "page": "product-digitalisation-directive",
+   "type": "Legislation"
   },
   {
    "date": "2026-03-30",
@@ -7102,6 +7865,18 @@
    "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0098_EN.pdf",
    "key": "P10_TA(2026)0098",
    "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-03-26",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act Part VI – Services: Title …",
+   "doc": "CM 1989/26 REV 2",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1989-2026-REV-2/en/pdf",
+   "key": "CM 1989/26 REV 2",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -7455,6 +8230,18 @@
    "type": "Committees"
   },
   {
+   "date": "2026-03-12",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act Part VI – Services a) b) c) …",
+   "doc": "CM 1844/26 REV 2",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1844-2026-REV-2/en/pdf",
+   "key": "CM 1844/26 REV 2",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-03-11",
    "act": "product-digitalisation-regulation",
    "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
@@ -7596,6 +8383,18 @@
    "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-784261_EN.pdf",
    "key": "PE784.261",
    "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-03-05",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act a) b) – Part I – Scope, …",
+   "doc": "CM 1766/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1766-2026-INIT/en/pdf",
+   "key": "CM 1766/26",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -7763,6 +8562,18 @@
    "type": "Committees"
   },
   {
+   "date": "2026-02-27",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Proposal for a Regulation amending …",
+   "doc": "CM 1689/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1689-2026-INIT/en/pdf",
+   "key": "CM 1689/26",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-02-26",
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
@@ -7803,6 +8614,30 @@
    ],
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-02-26",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act (part III) – Presentation …",
+   "doc": "CM 1690/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1690-2026-INIT/en/pdf",
+   "key": "CM 1690/26",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-02-26",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "European Parliament",
+   "label": "ITRE rapporteur appointed (Michał Kobosko, RENEW)",
+   "doc": "EP procedure file",
+   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0013%28COD%29",
+   "key": "ITRE rapporteur appointed (Michał Kobosko, RENEW)",
+   "page": "dna",
+   "type": "Legislation"
   },
   {
    "date": "2026-02-26",
@@ -8071,6 +8906,18 @@
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Proposal for a Regulation amending …",
+   "doc": "CM 1533/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1533-2026-INIT/en/pdf",
+   "key": "CM 1533/26",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-02-13",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
    "label": "Attendance of third parties at the Simplification subgroup of the …",
    "doc": "ST 6311/26",
    "url": null,
@@ -8215,6 +9062,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-02-05",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act (DNA) – Information from …",
+   "doc": "CM 1365/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1365-2026-REV-1/en/pdf",
+   "key": "CM 1365/26 REV 1",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-02-03",
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
@@ -8224,6 +9083,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-1393-2026-REV-1/en/pdf",
    "key": "CM 1393/26 REV 1",
    "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-02-03",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act (DNA) Information from the …",
+   "doc": "CM 1364/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1364-2026-INIT/en/pdf",
+   "key": "CM 1364/26",
+   "page": "dna",
    "type": "Legislation"
   },
   {
@@ -8271,6 +9142,18 @@
    ],
    "page": "ehds",
    "type": "Committees"
+  },
+  {
+   "date": "2026-01-29",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Telecommunications and Information Society: Digital Networks Act (DNA) – Impact Assessment …",
+   "doc": "CM 1221/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1221-2026-REV-1/en/pdf",
+   "key": "CM 1221/26 REV 1",
+   "page": "dna",
+   "type": "Legislation"
   },
   {
    "date": "2026-01-28",
@@ -8405,6 +9288,18 @@
    "type": "Legislation"
   },
   {
+   "date": "2026-01-21",
+   "act": "dna",
+   "title": "Digital Networks Act – COM(2026) 16 (proposal)",
+   "actor": "European Commission",
+   "label": "Commission proposal (Art. 294(2) TFEU)",
+   "doc": "COM(2026) 16",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0016",
+   "key": "COM(2026) 16",
+   "page": "dna",
+   "type": "Legislation"
+  },
+  {
    "date": "2026-01-20",
    "act": "nis2-amendment",
    "title": "Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)",
@@ -8498,6 +9393,18 @@
    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29",
    "key": "Referral to committee announced in plenary",
    "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-01-16",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Proposal for a Regulation amending …",
+   "doc": "CM 1136/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1136-2026-INIT/en/pdf",
+   "key": "CM 1136/26",
+   "page": "digital-omnibus",
    "type": "Legislation"
   },
   {
@@ -8660,6 +9567,18 @@
    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509",
    "key": "CELEX 32025R2509",
    "page": "toy-safety-regulation",
+   "type": "Legislation"
+  },
+  {
+   "date": "2025-12-12",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus: Format 1+1 Proposal for a …",
+   "doc": "CM 5409/25",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5409-2025-INIT/en/pdf",
+   "key": "CM 5409/25",
+   "page": "digital-omnibus",
    "type": "Legislation"
   },
   {
@@ -8867,6 +9786,18 @@
    "type": "Committees"
   },
   {
+   "date": "2025-12-01",
+   "act": "digital-omnibus",
+   "title": "Digital Omnibus – COM(2025) 837 (proposal)",
+   "actor": "Council",
+   "label": "Meeting of the Antici Group (Simplification): Examination of the Commission proposal INIT + ADD 1 + ADD 2 (ST …",
+   "doc": "CM 5239/25",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5239-2025-INIT/en/pdf",
+   "key": "CM 5239/25",
+   "page": "digital-omnibus",
+   "type": "Legislation"
+  },
+  {
    "date": "2025-11-27",
    "act": "red-cybersecurity",
    "title": "RED DA 2022/30",
@@ -8961,42 +9892,6 @@
    "key": "ST 15830/25",
    "page": "space-act",
    "type": "Legislation"
-  },
-  {
-   "date": "2025-11-25",
-   "act": "toy-safety-regulation",
-   "title": "Toy Safety Regulation – Regulation (EU) 2025/2509",
-   "actor": "European Parliament",
-   "label": "EP approves the Council position at second reading (Art. 294(7)(a) TFEU)",
-   "doc": "P10_TA(2025)0279",
-   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0279_EN.pdf",
-   "key": "P10_TA(2025)0279",
-   "page": "toy-safety-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-11-25",
-   "act": "csa",
-   "title": "CSA",
-   "actor": "European Cybersecurity Certification Committee",
-   "label": "Voting sheet published: 11th Meeting of the European Cybersecurity Certification Committee (2025-10-28)",
-   "doc": "voting sheet",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/111366/1/consult",
-   "key": "C106400-V111366/1",
-   "page": "csa",
-   "type": "Committees"
-  },
-  {
-   "date": "2025-11-25",
-   "act": "csa",
-   "title": "CSA",
-   "actor": "European Cybersecurity Certification Committee",
-   "label": "Voting sheet published: 11th Meeting of the European Cybersecurity Certification Committee (2025-10-28)",
-   "doc": "voting sheet",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/111367/1/consult",
-   "key": "C106400-V111367/1",
-   "page": "csa",
-   "type": "Committees"
   }
  ]
 }

@@ -28,8 +28,6 @@ In view of the upcoming Working Party on Competitiveness and Growth (Industry) o
 
 This first presidency compromise text **does not cover** the recitals, unless these are explicitly affected by the changes introduced, Chapters III and IV and Annexes II and III. Moreover, in Chapters I and VI, the provisions on parts of the proposals that relate to Chapters III and IV, are also not included.
 
-COMPET. ^(1) **LIMITE EN**
-
 ++**ANNEX**++
 
 2026/0068 (COD)
@@ -362,8 +360,6 @@ For the European Parliament For the Council The President The President
 3. Net-zero technologies, as referred to in Article 4(1) of Regulation (EU) 2024/1735;
 
 […]
-
-ANNEX I COMPET. ^(1) **LIMITE EN**
 
 <a id="notes"></a>
 ## Notes

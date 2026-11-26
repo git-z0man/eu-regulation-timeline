@@ -26,8 +26,6 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 In view of the upcoming meetings of the Working Party on Competitiveness and Growth (Industry) on 26 and 27 October 2026, delegations will find in Annex to this note a marked version of the third Presidency compromise text of the proposed Regulation. Changes in comparison to the second Presidency compromise texts included in document ST 12236/26 REV1 are marked in **bold** for additions and in ~~strikethrough~~ for deletions.
 
-COMPET. ^(1) **LIMITE EN**
-
 ++**ANNEX**++
 
 2026/0068 (COD)
@@ -1493,8 +1491,6 @@ For the European Parliament For the Council The President The President
 
 3. Net-zero technologies, as referred to in Article 4(1) of Regulation (EU) 2024/1735;
 
-ANNEX I COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-ii"></a>
 ## Annex II – Low-carbon and Union origin requirements for energy intensive industries
 
@@ -1511,8 +1507,6 @@ Where, in the context of public procurement procedures for which the call for co
 
 Where the delegated acts and harmonised technical specifications or European Technical Assessments establishing the relevant criteria and methodology referred to in Article 7b have not entered into ~~force~~ **application** at least six months before the date referred to in the first paragraph, the application of the **low-carbon** requirements set out in this Part shall be postponed until six months after the entry into force of those delegated acts.
 
-ANNEX II COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-ii-part-ii"></a>
 ### Part II – Other forms of public intervention
 
@@ -1525,8 +1519,6 @@ For schemes established or updated on or after 1 January 2029 that benefit house
 - (c) aluminium, and any product the performance of which depends mainly on aluminium: at least 25% of the total volume of aluminium used in the product or project that receives support shall be low-carbon and of Union origin.
 
 Where the delegated acts and harmonised technical specifications or European Technical Assessments establishing the relevant criteria and methodology referred to in Article 7b have not entered into ~~force~~ **application** at least six months before the date referred to in the first paragraph, the application of the **low-carbon** requirements set out in this Part shall be postponed until six months after the entry into force of those delegated acts.
-
-ANNEX II COMPET. ^(1) **LIMITE EN**
 
 ++**Annex IIa**++
 
@@ -1560,8 +1552,6 @@ ANNEX II COMPET. ^(1) **LIMITE EN**
 
 **ALUMINIUM**
 
-Annex IIa COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-iii"></a>
 ## Annex III – Union origin requirements for motor vehicles
 
@@ -1584,7 +1574,7 @@ Motor Vehicles referred to in Parts II and III and in Article 13 shall ~~include
 
 ~~1.~~ The requirements set out in points d), e) and f) apply from [OP: please insert date 3 years after the date of entry into force of this Regulation].
 
-ANNEX III COMPET. ^(1) **LIMITE EN** **In case of completed vehicles produced in multiple stages the requirements set out in points** **from a) to f) do not apply to the vehicle components and equipment installed or modified in** **the last stage.**
+**In case of completed vehicles produced in multiple stages the requirements set out in points** **from a) to f) do not apply to the vehicle components and equipment installed or modified in** **the last stage.**
 
 **By way of derogation to the requirements set out above, small electric vehicles of** **subcategory M1E, as defined in Regulation (EU) 2018/858, shall include the following** **Union origin requirements:**
 
@@ -1601,7 +1591,7 @@ ANNEX III COMPET. ^(1) **LIMITE EN** **In case of completed vehicles produced in
 
 ~~New~~ Pure electric vehicles (PEV), off-vehicle charging hybrid electric vehicles (OVC-HEV) or fuel cell vehicles (FCV) purchased, leased, rented or hire-purchased in public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, for which the call for competition has been sent or commencement takes place on or after [OP: Please insert the date = six months after the date of entry into force of this Regulation] shall comply with Union origin requirements set out above in Part I of this Annex and the definition of Union Origin as per Article 8 of this regulation.
 
-ANNEX III COMPET. ^(1) **LIMITE EN** ~~New~~ PEV, OVC-HEV and FCV that are used for the provision of **transport services, refuse** **transport services and refuse collection** services sourced through public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, shall comply with Union origin requirements set out in Part I of this Annex and the definition of Union Origin as per Article 8 of this regulation.
+~~New~~ PEV, OVC-HEV and FCV that are used for the provision of **transport services, refuse** **transport services and refuse collection** services sourced through public procurement procedures that fall within the scope of Directive 2014/24/EU, or Directive 2014/25/EU, shall comply with Union origin requirements set out in Part I of this Annex and the definition of Union Origin as per Article 8 of this regulation.
 
 Where public procurement procedures concern public service contracts, motor vehicles already registered in the Union shall be deemed to comply with the Union origin requirements set out in this Annex ~~until 31 December 2035~~.
 
@@ -1615,7 +1605,7 @@ For schemes established or updated after [OP: Please insert the date = six month
 
 For the purpose of considering vehicles as “made in the EU” in accordance with Article 5 of Regulation (EU) 2019/631 [as amended by the Proposal for a Regulation of 16 December 2025 amending Regulation (EU) 2019/631 as regards CO2 emission performance standards for new light duty vehicles and vehicle labelling], the definition of Union origin in Article 7 of this regulation and the below requirements apply ~~.~~ **:**
 
-ANNEX III COMPET. ^(1) **LIMITE EN** ~~Small electric vehicles of subcategory M1E, as defined in Regulation (EU) 2018/858, shall include~~ ~~the following Union origin requirements:~~
+~~Small electric vehicles of subcategory M1E, as defined in Regulation (EU) 2018/858, shall include~~ ~~the following Union origin requirements:~~
 
 1. the vehicle is assembled within the Union; and
 
@@ -1624,8 +1614,6 @@ ANNEX III COMPET. ^(1) **LIMITE EN** ~~Small electric vehicles of subcategory M1
 - (a) the ratio between the total ex-works price of vehicle components - excluding the vehicle battery - originating in the Union and the total ex-works price of all vehicle components – excluding the battery – is equal to or greater than 70%; or
 
 - (b) the vehicle’s traction battery contains at least three main specific components of batteries, among which the battery cells, originating in the Union.
-
-ANNEX III COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-iv"></a>
 ## Annex IV – Amendment to Regulation (EU) 2018/1724
@@ -1648,9 +1636,7 @@ Annexes I and II are amended as follows:
 
 ‘Permission for exercising a business activity, including procedures related to all relevant permits to build and operate critical raw materials projects ^(1), procedures for all relevant permits to build, expand, convert and operate net-zero technology manufacturing projects ^(2), and procedures related to industrial manufacturing projects.’;
 
-ANNEX IV COMPET. ^(1) **LIMITE EN**
-
-- (b) in the third column, the following second subparagraph is added:
+  - (b) in the third column, the following second subparagraph is added:
 
 ‘Confirmation of the request for permission for business activity, as well as all outputs pertaining to the procedures related to critical raw material, net-zero technology manufacturing and manufacturing industry projects (ranging from the acknowledgement that the application is complete to the notification of the comprehensive decision on the outcome of the procedure, including by the designated contact point).;
 
@@ -1661,8 +1647,6 @@ _____________
 2 Procedures for all relevant permits to build, expand, convert and operate ~~netzero~~ **net-zero** technology manufacturing projects, and net-zero strategic projects, including building, chemical and grid connection permits, environmental assessments and authorisations where required, and encompassing all applications and procedures.’
 
 - (b) rows ‘Critical raw materials projects’ and ‘Net-zero technology manufacturing projects’ are deleted.
-
-ANNEX IV COMPET. ^(1) **LIMITE EN**
 
 <a id="notes"></a>
 ## Notes

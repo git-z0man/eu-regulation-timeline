@@ -26,10 +26,6 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **I.** ++**BACKGROUND**++ 1. On 20 November 2025, the Commission transmitted a Proposal for a Council Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) (“the Proposal”) ^(1), as part of the overall Digital Omnibus package.
 
-1 ST 15698/25
-
-GIP.B **LIMITE EN**
-
 2. The objectives of the Proposal, as presented by the Commission, are a first step to facilitate the application of the digital rulebook, with a view to simplify, streamline, and optimise its implementation in order to improve EU competitiveness while preserving existing policy goals and protections. The Commission explicitly stated that the Proposal is not intended to weaken protections nor to amend underlying objectives, but to preserve the same standards for fundamental rights protection.
 
 3. The Proposal introduces amendments to the General Data Protection Regulation (“GDPR”) including the modernisation of cookies rules laid down in the ePrivacy Directive (“ePrivacy Directive”), repeals provisions of the Platform to Business Regulation (“P2B Regulation”), consolidates single-market rules on data (“Data Acquis”), and introduces a mechanism for a single reporting point for cyber security and data incidents.
@@ -40,9 +36,7 @@ GIP.B **LIMITE EN**
 
 6. In its Conclusions of 19 March 2026, the European Council urgently called on the colegislator to keep up the momentum to simplify and reduce burdens arising from existing legislation, notably by agreeing, before the end of 2026, all pending Omnibus packages, including an ambitious AI Omnibus by July 2026. Following interinstitutional negotiations with the European Parliament, the AI part of the Digital Omnibus is set to be approved by Council on 29 June 2026 ^(3).
 
-2 WK 2859/2026 3 ST 10752/26
-
-GIP.B **LIMITE EN** **II.** ++**STATE OF PLAY**++
+**II.** ++**STATE OF PLAY**++
 
 7. The Antici Group (Simplification), the dedicated group set up on 21 February 2025 ^(4) to work on the simplification omnibus proposals, examined the proposal at its meetings on 16 January, 13 February, 27 February, 24 April, 8 May, 27 May and 15 June 2026. In the course of the meetings held between January and June, the Presidency presented five compromise texts, in which most of the comments and concerns raised by delegations have been progressively addressed.
 
@@ -52,10 +46,6 @@ GIP.B **LIMITE EN** **II.** ++**STATE OF PLAY**++
 
 10. Overall, the Presidency considers that the compromise text reaches a balanced approach on the basis of the different views expressed by delegations, delivering swift and concrete simplification gains for businesses, while preserving protections for individuals and organisations within the digital ecosystem. The Presidency notes in particular that, building upon the Commission proposal, the compromise text includes amendments to fourteen different Articles of the GDPR, with a view to streamline and simplify the application of data protection rules. A detailed list of proposed simplification measures under the GDPR was provided to delegations in the Presidency note of 11 June 2026 ^(6).
 
-4 Antici Group (Simplification) mandate, 6340/25 5 ST 10677/26 6 WK 8070/2026
-
-GIP.B **LIMITE EN**
-
 11. Ahead of the meeting of the Permanent Representatives Committee, the Presidency has further considered positions expressed by delegations and has consequently updated its proposed compromise, in relation to the following elements, reflected in the revised text in Annex to this note:
 
 i) On provisions related to the **GDPR**, a new paragraph 2a has been included in the proposed Article 29a on the application of pseudonymisation, in order to further clarify the application of this provision in relation to the further transmission or making available of personal data having undergone pseudonymisation to a third party who possesses or can obtain means reasonably likely to enable the data subject to be identified. The corresponding Recital 27a has been updated accordingly. In addition, a clarification has been added to Recital 34 on biometric data, and the proposed amendment to Article 37 concerning the obligation to communicate the contact details of the Data Protection Officer to the supervisory authority has been deleted, thus maintaining the provision as currently laid down under the GDPR.
@@ -64,23 +54,17 @@ ii) On provisions related to the **EUDPR**, since the compromise text for the GD
 
 iii) On the establishment of a **national entry point for cyber security and data incidents**, the text of Article 23b, paragraph 1, has been further adjusted to allow for the necessary flexibility in the establishment of the national entry point, supporting and facilitating the reporting of incidents and related events. The text of Recital 49 has been updated accordingly.
 
-GIP.B **LIMITE EN**
-
 12. The Presidency also took into consideration the request from several delegations made during previous meetings of the Antici Group (simplification) in relation to the **exchange of** **personal data with third countries for the purposes of cooperation on tax matters**. Since this request could only be addressed through a possible amendment to Chapter V of the GDPR in relation to the transfer of personal data to third countries, which has not been amended by the Commission proposal, the Presidency had not included it in its previous compromise texts. Having assessed the matter further, the Presidency considers that the concerns raised by delegations may be addressed mainly through a clarifying and interpretative recital, together with a slight amendment to Article 49 of the GDPR on derogations for specific situations, maintaining and affirming that the public interest referred to in this Article shall be recognised in Union or Member States law.
 
 13. The proposed corresponding new recital 40a states that the transfer of personal data relying on such a derogation includes the implementation, application and compliance with international agreements or administrative arrangements on mutual assistance or cooperation in tax matters concluded by a Member State with a third country or an international organisation where personal data are exchanged on a periodic or automated basis. In such cases, Member States should ensure that appropriate safeguards are provided so that the level of protection guaranteed by the GDPR is not undermined.
 
 14. In the latest Presidency compromise text in Annex which includes the above adjustments in response to delegations’ requests, changes as compared to the Commission’s proposal are indicated in **bold** and ~~strikethrough~~. Changes as compared to the previous compromise text ^(7) issued on 18 June 2026 are underlined.
 
-7 ST 10677/26
-
-GIP.B **LIMITE EN** **III.** ++**CONCLUSION**++
+**III.** ++**CONCLUSION**++
 
 15. In view of the above, the Permanent Representatives Committee is therefore invited to confirm agreement on the text of the mandate for negotiations with the European Parliament, as set out in the Annex to this Note, to enable the Presidency to conduct those negotiations.
 
 16. In accordance with the approach to legislative transparency endorsed by Coreper on 14 July 2023, and in full consistency with Regulation (EC) 1049/2001 and the Council's Rules of Procedure, the text of the mandate thus agreed will be made public unless the Permanent Representatives Committee objects.
-
-GIP.B **LIMITE EN**
 
 ++**ANNEX**++
 
@@ -2160,6 +2144,20 @@ Article 7 Repealed Article 8 Repealed Article 9 Repealed
 
 <a id="notes"></a>
 ## Notes
+
+^(1) ST 15698/25
+
+^(2) WK 2859/2026
+
+^(3) ST 10752/26
+
+^(4) Antici Group (Simplification) mandate, 6340/25
+
+^(5) ST 10677/26
+
+^(6) WK 8070/2026
+
+^(7) ST 10677/26
 
 ^(1) OJ C […], […], p. […].
 

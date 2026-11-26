@@ -28,7 +28,7 @@ This is a paper intended for a specific community of recipients. Handling and fu
 
 **WORKING DOCUMENT** From: Presidency To: Delegations Subject: Proposal for a Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in strategic sectors (Industrial Accelerator Act) - Third Presidency compromise text (clean version)
 
-WK 16104/2026 INIT **LIMITE EN** 2026/0068 (COD)
+WK 16104/2026 INIT 2026/0068 (COD)
 
 Proposal for a
 

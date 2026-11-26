@@ -28,10 +28,6 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 1. On 20 November 2025, the Commission transmitted a Proposal for a Council Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) (“the Proposal”) ^(1), as part of the overall Digital Omnibus package.
 
-1 ST 15698/25
-
-GIP.B **LIMITE EN**
-
 2. The objectives of the Proposal, as presented by the Commission, are a first step to facilitate the application of the digital rulebook, with a view to simplify, streamline, and optimise its implementation in order to improve EU competitiveness while preserving existing policy goals and protections. The Commission explicitly stated that the Proposal is not intended to weaken protections nor to amend underlying objectives, but to preserve the same standards for fundamental rights protection.
 
 3. The Proposal introduces amendments to the General Data Protection Regulation (“GDPR”) including the modernisation of cookies rules laid down in the ePrivacy Directive (“ePrivacy Directive”), repeals provisions of the Platform to Business Regulation (“P2B Regulation”), consolidates single-market rules on data (“Data Acquis”), and introduces a mechanism for a single reporting point for cyber security and data incidents.
@@ -42,9 +38,7 @@ GIP.B **LIMITE EN**
 
 6. In its Conclusions of 19 March 2026, the European Council urgently called on the colegislator to keep up the momentum to simplify and reduce burdens arising from existing legislation, notably by agreeing, before the end of 2026, all pending Omnibus packages, including an ambitious AI Omnibus by July 2026. In its Conclusions of 19 June 2026, the European Council underlined the urgency of decisive progress on the Single Market, on simplification and reducing administrative burdens. Following interinstitutional negotiations with the European Parliament, the AI part of the Digital Omnibus was approved by Council on 29 June 2026 ^(3).
 
-2 WK 2859/2026 3 ST 10752/26
-
-GIP.B **LIMITE EN** **II.** ++**STATE OF PLAY**++
+**II.** ++**STATE OF PLAY**++
 
 7. The Antici Group (Simplification), the dedicated group set up on 21 February 2025 ^(4) to work on the simplification omnibus proposals, examined the proposal at its meetings on 16 January, 13 February, 27 February, 24 April, 8 May, 27 May, 15 June, 16 July, 11 September, and 25 September. In the course of the meetings held between July and September, the Presidency presented two revised compromise texts, in which most of the comments and concerns raised by delegations have been progressively addressed.
 
@@ -54,29 +48,19 @@ GIP.B **LIMITE EN** **II.** ++**STATE OF PLAY**++
 
 10. Overall, the Presidency considers that the compromise text reaches a balanced approach on the basis of the different views expressed by delegations, delivering swift and concrete simplification gains for businesses, while preserving protections for individuals and organisations within the digital ecosystem. The consolidation of the Data Acquis is further clarified, notably concerning the requests for re-use and the protection of trade secrets. The Presidency notes in particular that, building upon the Commission proposal, the compromise text includes a series of amendments to the GDPR, with a view to streamline and simplify the application of data protection rules, including in the context of the development and operation of artificial intelligence. The rules applicable for the placing of cookies online have been further clarified under the ePrivacy Directive, with a new exemption from consent requirement for the measurement of contextual advertising, as well as modernised rules aiming at reducing the number of cookie banners online.
 
-4 Antici Group (Simplification) mandate, 6340/25
-
-GIP.B **LIMITE EN**
-
 11. Ahead of the meeting of the Permanent Representatives Committee, the Presidency has further considered positions expressed by delegations and has consequently updated its proposed compromise, in relation to the following elements, reflected in the revised text in Annex to this note:
 
 i) On provisions related to the Data Act, Recital 14 has been amended to align the wording on refusals with the operative text. On Article 32la, a clarification has been added to ensure compatibility with existing national time limits for requests for re-use. In light of concerns raised by some delegations on the protection of trade secrets, the text was amended to strengthen the handbrake mechanism. According to Article 4(6) and Article 5(9), trade secrets do not have to be disclosed unless the data holder and the user have taken all necessary measures to preserve their confidentiality, in particular regarding third parties. In Article 4(8) and Article 5(11), the risk threshold was lowered, and the Commission guidelines to be prepared in consultation with the EDIB are expanded to cover the types of data in critical sectors that could cause serious economic damage if disclosed, and how to assess control of operators by third-country entities. A new recital (14a) explains that the guidelines should give businesses legal certainty on how the handbrake works, with particular attention to critical sectors, such as those listed in Annexes I and II of the NIS2 Directive, point 3, 5a, 5d, and 5e.
 
-ii) On provisions related to e-Privacy, the so-called “whitelist” of purposes for which consent is not required for the placing of cookies has been further clarified, in particular concerning audience measurement, and an additional purpose has been added allowing for the placing of cookies without consent for the purpose of measuring the performance of contextual advertising. Furthermore, the compromise text tasks the Commission to reviewing and assessing the use of privacy-enhancing technologies, with a view to provide incentives and legal certainty for service providers in deploying such technologies. Overall, the compromise text modernises the applicable rules for the placing of cookies online, adapting to current practice and looking at innovative technologies, while reducing the number of instances when cookie banners will pop up for users online. For example, if a user refuses consent, a new request for consent for the same purpose shall not be made for a period of at least four months.
-
-GIP.B **LIMITE EN** iii) On provisions related to the GDPR, the dedicated Article on processing in the context of the development and operation of AI has been further complemented with an explicit reference to the right to object, and the corresponding recital clarifies the applicability of the legitimate interest lawful ground for such processing, as well as the possibility for public authorities to rely on the public interest lawful ground for the development and operation of AI. A clarification has been added to the definition of ‘scientific research’, stating in the operative part of the text that it does not exclude that the research may also aim to further a commercial interest. The new exemption from information obligations under Article 13 of the GDPR has been further streamlined and simplified. The compromise also further clarifies the interpretative recital in relation to the transfers of data to third countries under the derogations for specific situations, including in the context of international data exchange between tax administrations. Finally, the dedicated new Article 25a on pseudonymisation and the identification of natural persons has been further adjusted, with an explicit reference to security measures and wording alignments to ensure clarity and legal certainty in its application.
+ii) On provisions related to e-Privacy, the so-called “whitelist” of purposes for which consent is not required for the placing of cookies has been further clarified, in particular concerning audience measurement, and an additional purpose has been added allowing for the placing of cookies without consent for the purpose of measuring the performance of contextual advertising. Furthermore, the compromise text tasks the Commission to reviewing and assessing the use of privacy-enhancing technologies, with a view to provide incentives and legal certainty for service providers in deploying such technologies. Overall, the compromise text modernises the applicable rules for the placing of cookies online, adapting to current practice and looking at innovative technologies, while reducing the number of instances when cookie banners will pop up for users online. For example, if a user refuses consent, a new request for consent for the same purpose shall not be made for a period of at least four months. iii) On provisions related to the GDPR, the dedicated Article on processing in the context of the development and operation of AI has been further complemented with an explicit reference to the right to object, and the corresponding recital clarifies the applicability of the legitimate interest lawful ground for such processing, as well as the possibility for public authorities to rely on the public interest lawful ground for the development and operation of AI. A clarification has been added to the definition of ‘scientific research’, stating in the operative part of the text that it does not exclude that the research may also aim to further a commercial interest. The new exemption from information obligations under Article 13 of the GDPR has been further streamlined and simplified. The compromise also further clarifies the interpretative recital in relation to the transfers of data to third countries under the derogations for specific situations, including in the context of international data exchange between tax administrations. Finally, the dedicated new Article 25a on pseudonymisation and the identification of natural persons has been further adjusted, with an explicit reference to security measures and wording alignments to ensure clarity and legal certainty in its application.
 
 12. In the latest Presidency compromise text in Annex which includes the above adjustments in response to delegations’ requests, changes as compared to the Commission’s proposal are indicated in **bold** and ~~strikethrough~~. Changes as compared to the previous compromise text ^(5) issued on 21 September 2026 are underlined. Changes compared to the previous version of the Coreper note ^(6) are highlighted in yellow.
 
-5 ST 13112/26 6 ST 13886/26
-
-GIP.B **LIMITE EN** **III.** ++**CONCLUSION**++
+**III.** ++**CONCLUSION**++
 
 13. In view of the above, the Permanent Representatives Committee is therefore invited to agree on the text of the mandate for negotiations with the European Parliament, as set out in the Annex to this Note, to enable the Presidency to conduct those negotiations.
 
 14. In accordance with the approach to legislative transparency endorsed by Coreper on 14 July 2023, and in full consistency with Regulation (EC) 1049/2001 and the Council's Rules of Procedure, the text of the mandate thus agreed will be made public unless the Permanent Representatives Committee objects.
-
-GIP.B **LIMITE EN**
 
 ++**ANNEX**++
 
@@ -2233,6 +2217,18 @@ Article 9 Repealed
 
 <a id="notes"></a>
 ## Notes
+
+^(1) ST 15698/25
+
+^(2) WK 2859/2026
+
+^(3) ST 10752/26
+
+^(4) Antici Group (Simplification) mandate, 6340/25
+
+^(5) ST 13112/26
+
+^(6) ST 13886/26
 
 ^(1) OJ C […], […], p. […].
 

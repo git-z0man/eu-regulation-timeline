@@ -28,8 +28,6 @@ In view of the upcoming meetings of the Working Party on Competitiveness and Gro
 
 Revision 1 supplements the second Presidency compromise with the revision of the recitals.
 
-COMPET. ^(1) **LIMITE EN**
-
 ++**ANNEX**++
 
 2026/0068 (COD)
@@ -1503,8 +1501,6 @@ For the European Parliament For the Council The President The President
 
 3. Net-zero technologies, as referred to in Article 4(1) of Regulation (EU) 2024/1735;
 
-ANNEX I COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-ii"></a>
 ## Annex II – Low-carbon and Union origin requirements for energy intensive industries
 
@@ -1521,8 +1517,6 @@ Where, in the context of public procurement procedures for which the call for co
 
 **Where the delegated acts and harmonised technical specifications or European Technical** **Assessments establishing the relevant criteria and methodology referred to in Article 7b have** **not entered into force at least six months before the date referred to in the first paragraph, the** **application of the requirements set out in this Part shall be postponed until six months after** **the entry into force of those delegated acts.**
 
-ANNEX II COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-ii-part-ii"></a>
 ### Part II – Other forms of public intervention
 
@@ -1535,8 +1529,6 @@ For schemes established or updated on or after 1 January 2029 that benefit house
 - (c) aluminium, and any product the performance of which depends mainly on aluminium: at least 25% of the total volume of aluminium used in the product or project that receives support shall be low-carbon and of Union origin.
 
 **Where the delegated acts and harmonised technical specifications or European Technical** **Assessments establishing the relevant criteria and methodology referred to in Article 7b have** **not entered into force at least six months before the date referred to in the first paragraph, the** **application of the requirements set out in this Part shall be postponed until six months after** **the entry into force of those delegated acts.**
-
-ANNEX II COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-iii"></a>
 ## Annex III – Union origin requirements for motor vehicles
@@ -1560,8 +1552,6 @@ ANNEX II COMPET. ^(1) **LIMITE EN**
 
 **The requirements set out in points d), e) and f) apply from [OP: please insert date 3** **years after the date of entry into force of this Regulation].**
 
-ANNEX III COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-iii-part-ii"></a>
 ### Part ~~I~~ II – Public procurement procedures of electric vehicles
 
@@ -1581,8 +1571,6 @@ New PEV, OVC-HEV and FCV that are used for the provision of services sourced thr
 
 - ~~(e) the ratio between the total ex-works price of e-powertrain components originating in the~~ ~~Union and the total ex-works price of all e-powertrain components is at least 50%;~~
 
-ANNEX III COMPET. ^(1) **LIMITE EN**
-
 - ~~(f) the ratio between the total ex-works price of main electronic systems originating in the~~ ~~Union and the total ex-works price of all main electronic systems is equal to or greater than~~ ~~50%.~~
 
 ~~The requirements set out in points d), e) and f) apply from [OP: please insert date 3 years after the~~ ~~date of entry into force of this Regulation].~~
@@ -1600,8 +1588,6 @@ ANNEX III COMPET. ^(1) **LIMITE EN**
 ~~All PEV, OVC-HEV or FCV from a vehicle manufacturer can be considered compliant, for a period~~ ~~of twelve months, with the Union origin requirements if the manufacturer provides a self-~~ ~~declaration that the total number of all PEV, OVC-HEC or FCV compliant with the Union origin~~ ~~requirements that were assembled by that vehicle manufacturer during the period from 1 January to~~ ~~31 December (included) of the previous year represent a percentage equal or greater than 85% of~~ ~~the total number of PEV, OVC-HEV or FCV from the same vehicle manufacturer that were~~ ~~registered within the Union in the same period.~~ **[moved to Article 15a]**
 
 Where public procurement procedures concern public service contracts ~~referred to in~~ ~~subparagraph 2~~, motor vehicles already registered in the Union shall be deemed to comply with the **Union origin** requirements set out in this Annex until 31 December 2035.
-
-ANNEX III COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-iii-part-iii"></a>
 ### Part ~~II~~ III – Other forms of public intervention ~~and financial~~
@@ -1622,8 +1608,6 @@ For schemes established or updated after [OP: Please insert the date = six month
 
 - (e) ~~the ratio between the total ex-works price of e-powertrain components originating in the~~ ~~Union and the total ex-works price of all e-powertrain components is equal to or greater~~ ~~than 50%;~~
 
-ANNEX III COMPET. ^(1) **LIMITE EN**
-
 - (f) ~~the ratio between the total ex-works price of main electronic systems originating in the~~ ~~Union and the total ex-works price of all main electronic systems is equal to or greater than~~ ~~50%.~~
 
 ~~The requirements set out in points d), e) and f) apply from [OP: please insert date three years after~~ ~~the date of entry into force of this Regulation].~~
@@ -1640,8 +1624,6 @@ ANNEX III COMPET. ^(1) **LIMITE EN**
 
 ~~All PEV, OVC-HEV or FCV from a vehicle manufacturer can be considered compliant, for a period~~ ~~of twelve months, with the Un ion origin requirements if the manufacturer provides a self-~~ ~~declaration that all PEV, OVC-HEV or FCV compliant with the Union origin requirements that~~ ~~were assembled by that vehicle manufacturer during the period from 1 January to 31 December~~ ~~(included) of the previous year represent a percentage equal or greater than 85% of the total number~~ ~~of PEV, OVC-HEV or FCV from the same vehicle manufacturer that were registered within the~~ ~~Union in the same period.~~
 
-ANNEX III COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-iii-part-iv"></a>
 ### Part ~~III~~ IV – Super credits for small zero-emission vehicles
 
@@ -1656,8 +1638,6 @@ For the purpose of considering vehicles as “made in the EU” in accordance wi
 - (a) the ratio between the total ex-works price of vehicle components - excluding the vehicle battery - originating in the Union and the total ex-works price of all vehicle components – excluding the battery – is equal to or greater than 70%; or
 
 - (b) the vehicle’s traction battery contains at least three main specific components of batteries, among which the battery cells, originating in the Union.
-
-ANNEX III COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-iv"></a>
 ## Annex IV – Amendment to Regulation (EU) 2018/1724
@@ -1682,9 +1662,7 @@ Annexes I and II are amended as follows:
 
   - (b) in the third column, the following second subparagraph is added:
 
-‘Confirmation of the request for permission for business activity, as well as all outputs pertaining to the procedures related to critical raw material, net-zero technology manufacturing and manufacturing industry projects (ranging from the
-
-ANNEX IV COMPET. ^(1) **LIMITE EN** acknowledgement that the application is complete to the notification of the comprehensive decision on the outcome of the procedure, including by the designated contact point).;
+‘Confirmation of the request for permission for business activity, as well as all outputs pertaining to the procedures related to critical raw material, net-zero technology manufacturing and manufacturing industry projects (ranging from the acknowledgement that the application is complete to the notification of the comprehensive decision on the outcome of the procedure, including by the designated contact point).;
 
 _____________
 
@@ -1693,8 +1671,6 @@ _____________
 2 Procedures for all relevant permits to build, expand, convert and operate netzero technology manufacturing projects, and net-zero strategic projects, including building, chemical and grid connection permits, environmental assessments and authorisations where required, and encompassing all applications and procedures.’
 
 - (b) rows ‘Critical raw materials projects’ and ‘Net-zero technology manufacturing projects’ are deleted.
-
-ANNEX IV COMPET. ^(1) **LIMITE EN**
 
 <a id="notes"></a>
 ## Notes

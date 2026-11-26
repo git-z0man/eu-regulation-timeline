@@ -26,8 +26,6 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Delegations will find attached the Presidency revised compromise text of the Digital Omnibus in view of the AGS meeting of 24 April 2026.
 
-GIP.B **LIMITE EN**
-
 ++**ANNEX**++
 
 2025/0360 (COD)

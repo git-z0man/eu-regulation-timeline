@@ -2,451 +2,451 @@
   "forecast-ai-act-rule": {
     "pdf": "forecast-ai-act-rule.pdf",
     "png": "forecast-ai-act-rule.png",
-    "svg_sha256": "aa9df10b6d1f82e6fee374e488c5a316e105adaed47d98aac8063fbec8908854"
+    "svg_sha256": "c853943a4219f2b623c2821e53cde0745b2ae9e6d2a7be9d6009cf80d28f4738"
   },
   "forecast-ai-act-rule-de": {
     "pdf": "forecast-ai-act-rule-de.pdf",
     "png": "forecast-ai-act-rule-de.png",
-    "svg_sha256": "b9ad88207fcdbb2634cd582b21c41d641748739ae83e7455b57d334a8b7c90ca"
+    "svg_sha256": "3a4dc14f6ec820f687a68925052f642ca4d815f427cb2b3706bbcf2febe4bd8e"
   },
   "forecast-chips-act-2": {
     "pdf": "forecast-chips-act-2.pdf",
     "png": "forecast-chips-act-2.png",
-    "svg_sha256": "e9e953b729589c41bc1e5e4caccaa8be9738bede7e794333b2c81a776f479567"
+    "svg_sha256": "f7097a713d5f3326d7cec76d9773e66e04e1373a783174f0a0ba048dd7f7f710"
   },
   "forecast-chips-act-2-chance": {
     "pdf": "forecast-chips-act-2-chance.pdf",
     "png": "forecast-chips-act-2-chance.png",
-    "svg_sha256": "c213ba097a2f915b032089c7a67ce2f295998addb22584dd9c73debfd1fae5af"
+    "svg_sha256": "d6526fe43a1e1f9c3d3add2d577846ac63b79c28898a25d0cf59b458e0b5c593"
   },
   "forecast-chips-act-2-rule": {
     "pdf": "forecast-chips-act-2-rule.pdf",
     "png": "forecast-chips-act-2-rule.png",
-    "svg_sha256": "cfa949c3cb0fc79cf7fcdb0641f67dcea4bcb2fc1610ecf519326b9076bf3f8b"
+    "svg_sha256": "0654aba9d9159bcd0d52d8145b1c1b8582323fa49c43eb9e2f3ca44fe10949e8"
   },
   "forecast-chips-act-2-rule-de": {
     "pdf": "forecast-chips-act-2-rule-de.pdf",
     "png": "forecast-chips-act-2-rule-de.png",
-    "svg_sha256": "1bd7aa4f117227dfaebaffd94da6d15d40d9e8fe2690c9b597958c1e2b02bef1"
+    "svg_sha256": "3e4bef2fb32ec762116f502d1f9d4015219e8de10f518d9b9d1c3573948d4622"
   },
   "forecast-cloud-ai-development-act": {
     "pdf": "forecast-cloud-ai-development-act.pdf",
     "png": "forecast-cloud-ai-development-act.png",
-    "svg_sha256": "00c509d77120bd41006a6ad82ddbfee2bcdaadc14a12bf3e98e598b9d3ed122b"
+    "svg_sha256": "592d5083dd73905d085a24e4a57955b0dc5c649c143e69efea39c9c29aa5d9d4"
   },
   "forecast-cloud-ai-development-act-chance": {
     "pdf": "forecast-cloud-ai-development-act-chance.pdf",
     "png": "forecast-cloud-ai-development-act-chance.png",
-    "svg_sha256": "65ef0fb7e551e5a0bfa8e36bfaa1a8795a719d07c56bbc74662aaf26b1794b09"
+    "svg_sha256": "8cfa03a59d2f4e432dc8237e5d9e4b9e0242ccc3f69425ea0f50a6e934c21239"
   },
   "forecast-cloud-ai-development-act-rule": {
     "pdf": "forecast-cloud-ai-development-act-rule.pdf",
     "png": "forecast-cloud-ai-development-act-rule.png",
-    "svg_sha256": "0c8b89cd02b14e1c74972da362f504d637e1a1309dd7b48d696f05eec23f418e"
+    "svg_sha256": "c3b173fb967745e74f42e0c85d5677b97cad77d29394c68920ff57faf9296750"
   },
   "forecast-cloud-ai-development-act-rule-de": {
     "pdf": "forecast-cloud-ai-development-act-rule-de.pdf",
     "png": "forecast-cloud-ai-development-act-rule-de.png",
-    "svg_sha256": "461da9c22de99a8ded5ce5971c89a7e1ff9817e05360e8c87adc863cd9de7703"
+    "svg_sha256": "c9a0c6ed0fae0adaf874baa3fe9e5971b9f45e6529b54786c5013746e94cce15"
   },
   "forecast-cra-rule": {
     "pdf": "forecast-cra-rule.pdf",
     "png": "forecast-cra-rule.png",
-    "svg_sha256": "f0b7952f6a08c568b1e8b1320dd403ef65f2a0a40d664c27eb2531498c1010e0"
+    "svg_sha256": "65c4dda0598a906ca2c878c06e3f8c93d042d37ad44ff9d4c31c53bf7433db80"
   },
   "forecast-cra-rule-de": {
     "pdf": "forecast-cra-rule-de.pdf",
     "png": "forecast-cra-rule-de.png",
-    "svg_sha256": "d7492c3daa81b5a0c819238172bc3a465f621735592265ffb5cf85d74e733de4"
+    "svg_sha256": "dc7061b986a6e3ba7a249fe8258ae88e2597a52a6dc010fc3113f8b3139527d4"
   },
   "forecast-csa2": {
     "pdf": "forecast-csa2.pdf",
     "png": "forecast-csa2.png",
-    "svg_sha256": "5c8117370e1378d7e7b642e217a18a04cc5726c456776ecb680bf3c373925e67"
+    "svg_sha256": "705557b36582c7a24df117b5c34d2832fa70a6bd0acf64655f14d8952f556d2b"
   },
   "forecast-csa2-chance": {
     "pdf": "forecast-csa2-chance.pdf",
     "png": "forecast-csa2-chance.png",
-    "svg_sha256": "9434062049e5becddc480df2f31aef7406da47792b92160b14a1c822a85deeb0"
+    "svg_sha256": "d46e242768f76d59c1922fc0b4edbd4a018a37a71efc2e75d880202522f5ed68"
   },
   "forecast-csa2-rule": {
     "pdf": "forecast-csa2-rule.pdf",
     "png": "forecast-csa2-rule.png",
-    "svg_sha256": "55ecc8f920bbcd407d226e2299189c8847491b3f3487d21499c1ef1a147e3240"
+    "svg_sha256": "d17a15013b385705cf346d1752b0bcf98e130255b58bfcf8366ecbc6412dda8c"
   },
   "forecast-csa2-rule-de": {
     "pdf": "forecast-csa2-rule-de.pdf",
     "png": "forecast-csa2-rule-de.png",
-    "svg_sha256": "11bc085ae208753d96541b9810da465c3dd432b5bc48f7ca97ec444c06551a56"
+    "svg_sha256": "8e25d83d52386e873f3dca85371f94d8961158fa09f3324a243401b5e7dad599"
   },
   "forecast-digital-omnibus": {
     "pdf": "forecast-digital-omnibus.pdf",
     "png": "forecast-digital-omnibus.png",
-    "svg_sha256": "d827bbce41bd40b263a3cf90e84398bcf838228c75449c08fb92e20c21429b73"
+    "svg_sha256": "efcab695c77a4e63020fb3c69175d3fcb6122e091c53d9b470b7da4a9bd286ab"
   },
   "forecast-digital-omnibus-ai-rule": {
     "pdf": "forecast-digital-omnibus-ai-rule.pdf",
     "png": "forecast-digital-omnibus-ai-rule.png",
-    "svg_sha256": "627e599df492933c66e96c04d60924a55d8c396519aef58e1be5da5d9c6a54f8"
+    "svg_sha256": "020596dc9f92551a79fef3b289907574ffd0b692eccc02a40ae59ae9774ebf10"
   },
   "forecast-digital-omnibus-ai-rule-de": {
     "pdf": "forecast-digital-omnibus-ai-rule-de.pdf",
     "png": "forecast-digital-omnibus-ai-rule-de.png",
-    "svg_sha256": "afc64e8a2b522d05ed3a5e55a19b137a29a981ce8c3139fe843bfddfd0281394"
+    "svg_sha256": "d41159a9122d14962f48c9cc8a505cd5100dd69335d8435461f05ef99fde78a7"
   },
   "forecast-digital-omnibus-chance": {
     "pdf": "forecast-digital-omnibus-chance.pdf",
     "png": "forecast-digital-omnibus-chance.png",
-    "svg_sha256": "9f78ca50efe99f9854f1dd41f876c8faaefbe7717330781806e233865a668eae"
+    "svg_sha256": "29e00e4d70ab8f940b0c8e6339050c75dfc0d347fd4be9c0253d80cf74a5121f"
   },
   "forecast-digital-omnibus-rule": {
     "pdf": "forecast-digital-omnibus-rule.pdf",
     "png": "forecast-digital-omnibus-rule.png",
-    "svg_sha256": "b8c3fa53a3e9c50479acd91ef26930660a0f7da309e84e830ea89b0d7ee8b66c"
+    "svg_sha256": "7f3d53cc548e1cf884b97d9d4f2892bcb9b3999bfbb0283bd783fe46def43edf"
   },
   "forecast-digital-omnibus-rule-de": {
     "pdf": "forecast-digital-omnibus-rule-de.pdf",
     "png": "forecast-digital-omnibus-rule-de.png",
-    "svg_sha256": "3412694e8a8a4c666e18638fccb64307b64e6964ac42eace83db6e780c44bbf6"
+    "svg_sha256": "2b83e1a0cc2161986e5c715d422cf8d2d5a4c3a18fa65bc12d3c9aac64cb9d4c"
+  },
+  "forecast-dna": {
+    "pdf": "forecast-dna.pdf",
+    "png": "forecast-dna.png",
+    "svg_sha256": "5facd988409eb4f0602a85700a3aa101cd7ed4bd8d7295f06b2e1d76c05b6ad2"
+  },
+  "forecast-dna-chance": {
+    "pdf": "forecast-dna-chance.pdf",
+    "png": "forecast-dna-chance.png",
+    "svg_sha256": "6998e4186e19fb7db055644e66971c56c4e29975add6fc5bf054cc8121622490"
+  },
+  "forecast-dna-rule": {
+    "pdf": "forecast-dna-rule.pdf",
+    "png": "forecast-dna-rule.png",
+    "svg_sha256": "4ebce3d0f05a25c28dfabd3f58f7ad5ec7d308b6c9dc24819c5fc70e79f90436"
+  },
+  "forecast-dna-rule-de": {
+    "pdf": "forecast-dna-rule-de.pdf",
+    "png": "forecast-dna-rule-de.png",
+    "svg_sha256": "ad66b8b16388d4b80fb588709d44e03682661d9cd397b301fd43df817fdce3fd"
   },
   "forecast-epa": {
     "pdf": "forecast-epa.pdf",
     "png": "forecast-epa.png",
-    "svg_sha256": "576c9dfd10ab86ce1b3f4bbe1995a71bb5b5c49f0b9e4ca68d6a41765d815f30"
+    "svg_sha256": "9bb04d8747fe37023f5bfb96ea285f4d3bffb935dc08d8ecff81455ba935e740"
   },
   "forecast-epa-chance": {
     "pdf": "forecast-epa-chance.pdf",
     "png": "forecast-epa-chance.png",
-    "svg_sha256": "c0f4f702ec4482ffd8671b8b4717ef818f55e906b94811f173366864647d00d0"
+    "svg_sha256": "0bd155ca8bde4abb5b25c9fceb3d7d41014f6fa3a6b6d73086836b912213277f"
   },
   "forecast-epa-package": {
     "pdf": "forecast-epa-package.pdf",
     "png": "forecast-epa-package.png",
-    "svg_sha256": "d6da7d7e207ed89245a25fa6ae3297a701e3c5ec55468d47740aa128809a5dae"
+    "svg_sha256": "5adeb18ee2601063f51eb68c71bcc2b984ef71131034c2320c59d427ff17c776"
   },
   "forecast-epa-rule": {
     "pdf": "forecast-epa-rule.pdf",
     "png": "forecast-epa-rule.png",
-    "svg_sha256": "b2f5e38d7211f83b974c5baeafe08d535a41226b93c76e7cc4426435e3462bc9"
+    "svg_sha256": "6b06d866aa4414b09371f6e944c2f8d60b6d23df7597f95d7825ab25b5709b11"
   },
   "forecast-epa-rule-de": {
     "pdf": "forecast-epa-rule-de.pdf",
     "png": "forecast-epa-rule-de.png",
-    "svg_sha256": "a8e9612cca94a59f77d5374f6140d5f47d9a793cb2cc9cd69dd9e678dea26428"
+    "svg_sha256": "ba6dfec4836ff20be2263565f522e2bc04c1b45edc4dbd4724af7e8d34a97b56"
   },
   "forecast-history": {
     "pdf": "forecast-history.pdf",
     "png": "forecast-history.png",
-    "svg_sha256": "0d489607746cbf3e1f0e3e33da1da8a1779dc6a613bced031c207fc470f20705"
+    "svg_sha256": "21ba1d8dc91950d6182f39b3f61c0ef4bf5c98b6785d38cdd37eabaf941a19e7"
   },
   "forecast-industrial-accelerator-act": {
     "pdf": "forecast-industrial-accelerator-act.pdf",
     "png": "forecast-industrial-accelerator-act.png",
-    "svg_sha256": "c40483ec6a25aa6e7a3149bd2b9f70ecf008135f49e80106ae67e5c7afa39b40"
+    "svg_sha256": "682ed2b17a47318dc525127a1a700eb4f41ae3822405046b5c07cac2df20bed6"
   },
   "forecast-industrial-accelerator-act-chance": {
     "pdf": "forecast-industrial-accelerator-act-chance.pdf",
     "png": "forecast-industrial-accelerator-act-chance.png",
-    "svg_sha256": "2c5b47d608cd66b228495d374b8cf7da8a10fc75af948fd3cc94a5b9820ee15f"
+    "svg_sha256": "bbd094ba5848f299015d60fec1a07ff1d2cb83a8fca16419441039f09d9796ae"
   },
   "forecast-industrial-accelerator-act-rule": {
     "pdf": "forecast-industrial-accelerator-act-rule.pdf",
     "png": "forecast-industrial-accelerator-act-rule.png",
-    "svg_sha256": "b29c541b377922f3e3f4a0e337e8800f951c6be225d81fb30550b1ab4421f9bc"
+    "svg_sha256": "a345a3d9781ba1f985e9113bd9b8760e7855cfd95aa9c9ca4d5e6262974abecc"
   },
   "forecast-industrial-accelerator-act-rule-de": {
     "pdf": "forecast-industrial-accelerator-act-rule-de.pdf",
     "png": "forecast-industrial-accelerator-act-rule-de.png",
-    "svg_sha256": "955ae2cdaf3ce2c61cbf7efcab6a06be3bef43f91a18da443c6179aeb8c0541d"
+    "svg_sha256": "8082e8bc075e5758ae08a5406e7fcc4bbcf5b929828a08ac7c8c733c4a4bb92c"
   },
   "forecast-machinery-regulation-rule": {
     "pdf": "forecast-machinery-regulation-rule.pdf",
     "png": "forecast-machinery-regulation-rule.png",
-    "svg_sha256": "069e6fb41c4207962bfde81d3d4881753cd77486f56358af5889273ce557284f"
+    "svg_sha256": "3cf192f4fc07a8a3119f8022fabed8adb9d905c403f2b75c62a62d251b2b2ad9"
   },
   "forecast-machinery-regulation-rule-de": {
     "pdf": "forecast-machinery-regulation-rule-de.pdf",
     "png": "forecast-machinery-regulation-rule-de.png",
-    "svg_sha256": "bdab0a623f6a6416143e1aa724f0449fdab0028a17552aa22477c24ab42524a8"
+    "svg_sha256": "bf5d5c05d4c6c44123d76983a72c31b0da6bde4aecbcc8902f6dbd0ea92868b7"
   },
   "forecast-market-surveillance-rule": {
     "pdf": "forecast-market-surveillance-rule.pdf",
     "png": "forecast-market-surveillance-rule.png",
-    "svg_sha256": "8c3c6bf2a33db3da74325e54775d00b3754ff3175a54013d08a14e7b1b185e5e"
+    "svg_sha256": "7a32c0520f8bd826264ead2118f64e95a1db99c3ded041fa68b325fba5ab7e94"
   },
   "forecast-market-surveillance-rule-de": {
     "pdf": "forecast-market-surveillance-rule-de.pdf",
     "png": "forecast-market-surveillance-rule-de.png",
-    "svg_sha256": "7a4417637f25696bf62560469cb9ebce516487d6d8a2df49772d3a01dc889da1"
+    "svg_sha256": "4240191f567c8e60c69c4890826921e6b78623e77b08b48734a736c907ba93d2"
   },
   "forecast-medical-devices-simplification": {
     "pdf": "forecast-medical-devices-simplification.pdf",
     "png": "forecast-medical-devices-simplification.png",
-    "svg_sha256": "ee20bdb5d887c60fee4e69c0364e19a15047bdbefb43c893a0334e0c7697663c"
+    "svg_sha256": "817a899c72b4339af0f814caa079d468a568a3c12dbff083e49d0913dfdc52d2"
   },
   "forecast-medical-devices-simplification-chance": {
     "pdf": "forecast-medical-devices-simplification-chance.pdf",
     "png": "forecast-medical-devices-simplification-chance.png",
-    "svg_sha256": "db09f6c49ddd0349a2d25c5466b973cafa4b86cf8d143972a2606d83d4e92384"
+    "svg_sha256": "792856ec4f21c4b3f8f9ae1947fe09fa81130f63aeddddc2df2e617fe699346b"
   },
   "forecast-medical-devices-simplification-rule": {
     "pdf": "forecast-medical-devices-simplification-rule.pdf",
     "png": "forecast-medical-devices-simplification-rule.png",
-    "svg_sha256": "4eccbd88333c422134746a29ead01bd2583e143b5cacfc07205d3350d67e6525"
+    "svg_sha256": "d0f0402a10ea247a35e775d605ee33201d527b2fba50d343ad6e1ec3a0af8558"
   },
   "forecast-medical-devices-simplification-rule-de": {
     "pdf": "forecast-medical-devices-simplification-rule-de.pdf",
     "png": "forecast-medical-devices-simplification-rule-de.png",
-    "svg_sha256": "a526e91f3c289c0b4f6a17f5c6da57665f9f5ca6e1fdf5cc81371a8289a4ff82"
+    "svg_sha256": "98a054dbc35f563a1fdcaa9a51995d13f3be3440e4591ab07cdb1fd6120b9082"
   },
   "forecast-nis2-amendment": {
     "pdf": "forecast-nis2-amendment.pdf",
     "png": "forecast-nis2-amendment.png",
-    "svg_sha256": "89db558a5129fa3054a33a3085f6991b94c4ebc1a7972348cdecf661766408d9"
+    "svg_sha256": "c32008a2312092518c8b0571b027cc880b41517b0184de9d144cfced1d8fdc58"
   },
   "forecast-nis2-amendment-chance": {
     "pdf": "forecast-nis2-amendment-chance.pdf",
     "png": "forecast-nis2-amendment-chance.png",
-    "svg_sha256": "3eecaa5e62a80fa04d4d499dfb6a18d7024336235b5590334b0304283e194616"
+    "svg_sha256": "5128855255720f88985df662bc7a3e5e34648f5ed5230d2ff6e5a8abcabc47fa"
   },
   "forecast-nis2-amendment-rule": {
     "pdf": "forecast-nis2-amendment-rule.pdf",
     "png": "forecast-nis2-amendment-rule.png",
-    "svg_sha256": "4c7598a2565e85f352b3a3ae06d2c1b49bc35679ac0e60dcfe327cf0d5c1a84a"
+    "svg_sha256": "33f645e4d07e1ceac483d7dcd38b28d63c412ca9bf0173b8364a5c14291766a3"
   },
   "forecast-nis2-amendment-rule-de": {
     "pdf": "forecast-nis2-amendment-rule-de.pdf",
     "png": "forecast-nis2-amendment-rule-de.png",
-    "svg_sha256": "ae6d162d5001aec6275114a8ffc955a233be41f78b6911384dcc9b4bca77b743"
+    "svg_sha256": "3e91eb15681267cdabebd94ba98bad667bd85af2cb05d89e1b377f05834b23fd"
   },
   "forecast-nis2-rule": {
     "pdf": "forecast-nis2-rule.pdf",
     "png": "forecast-nis2-rule.png",
-    "svg_sha256": "bdc4d6c01e453e6aa176909d6e6680cf3d1de05ab83677606266890156770bfc"
+    "svg_sha256": "80456243d4d46fc476caa62898bfa7bf1ca27b68dda7abac5520cfceb93cfe8b"
   },
   "forecast-nis2-rule-de": {
     "pdf": "forecast-nis2-rule-de.pdf",
     "png": "forecast-nis2-rule-de.png",
-    "svg_sha256": "ac4c005edc9c01012de425c5b35cf108c6415d9a3b25f4cfbd3798bc716b09d5"
+    "svg_sha256": "6d8e7e8632eceade8cd31f5dec2b89b826a1b1e341ffaa27c73a2362a2242402"
   },
   "forecast-overview": {
     "pdf": "forecast-overview.pdf",
     "png": "forecast-overview.png",
-    "svg_sha256": "76d8970b0a9ee133f6a25093025aea79c3ab627186de8204d1a8a2e325956266"
+    "svg_sha256": "6e9fc8c848221b03d6e51741edf8707927fd9c9fd900a58cafcdffd9444220cf"
   },
   "forecast-product-digitalisation-directive": {
     "pdf": "forecast-product-digitalisation-directive.pdf",
     "png": "forecast-product-digitalisation-directive.png",
-    "svg_sha256": "c49cd3579636f51290b2151776d09eb0e9c3b6ae412fabdef95ba73ee60bfee8"
+    "svg_sha256": "a5bfa5ef1fbf50ffc1737fd2d0047577ab52b553c9590390e176305f74687d07"
   },
   "forecast-product-digitalisation-directive-chance": {
     "pdf": "forecast-product-digitalisation-directive-chance.pdf",
     "png": "forecast-product-digitalisation-directive-chance.png",
-    "svg_sha256": "0ec3c54d24c631e591cea8199c78ff936293565a82244d6ec6fc6af023c9e799"
-  },
-  "forecast-product-digitalisation-directive-rule": {
-    "pdf": "forecast-product-digitalisation-directive-rule.pdf",
-    "png": "forecast-product-digitalisation-directive-rule.png",
-    "svg_sha256": "1fbe3e209bac93b5fd600f5a91d16678e7a670722f791435c89a231c5864cb8a"
-  },
-  "forecast-product-digitalisation-directive-rule-de": {
-    "pdf": "forecast-product-digitalisation-directive-rule-de.pdf",
-    "png": "forecast-product-digitalisation-directive-rule-de.png",
-    "svg_sha256": "cfea3e647c738277c92eeb6eb66ea797085c94e41f48e74bdbabcf8431895f07"
+    "svg_sha256": "cdae1e090800c44bee3590b2edeee672395dbe3d5b14f490f97b2997ed54caff"
   },
   "forecast-product-digitalisation-regulation": {
     "pdf": "forecast-product-digitalisation-regulation.pdf",
     "png": "forecast-product-digitalisation-regulation.png",
-    "svg_sha256": "7bd31d8f8b3c36764a176403fc69b1098ab5d7127f1fae6bac643d600f73881b"
+    "svg_sha256": "19de3be0181141c3ff21da10fcfa185c06266b537adce1fba82ad3b148754138"
   },
   "forecast-product-digitalisation-regulation-chance": {
     "pdf": "forecast-product-digitalisation-regulation-chance.pdf",
     "png": "forecast-product-digitalisation-regulation-chance.png",
-    "svg_sha256": "9548584bfda4dfbf6ed87cb19673eab87e98fc19e89ab50c7ed08052dfb88b7d"
-  },
-  "forecast-product-digitalisation-regulation-rule": {
-    "pdf": "forecast-product-digitalisation-regulation-rule.pdf",
-    "png": "forecast-product-digitalisation-regulation-rule.png",
-    "svg_sha256": "c8613fce47f16d2965f59fba4fafbd9749cba742e8ed5c63277046261801d7f6"
-  },
-  "forecast-product-digitalisation-regulation-rule-de": {
-    "pdf": "forecast-product-digitalisation-regulation-rule-de.pdf",
-    "png": "forecast-product-digitalisation-regulation-rule-de.png",
-    "svg_sha256": "e658be57c0ed0cbd62f4e6aa116aa7abfdbf89d40d524c4e8e727ccd474c8588"
+    "svg_sha256": "4421c5ddca8578231c2cebf2546c064ec0eef81f3cddda8b46efbcda45083bcf"
   },
   "forecast-public-procurement-act": {
     "pdf": "forecast-public-procurement-act.pdf",
     "png": "forecast-public-procurement-act.png",
-    "svg_sha256": "1285e06ca30fa23c5dfa6151401b6fb8741e61b19c0fd1aac51ecc7c03955d14"
+    "svg_sha256": "1afecc266f61cb7c0a37c1cbdefa6378b2d0c9f2a92c392dfcf60408ba935342"
   },
   "forecast-public-procurement-act-chance": {
     "pdf": "forecast-public-procurement-act-chance.pdf",
     "png": "forecast-public-procurement-act-chance.png",
-    "svg_sha256": "dce3785ff8d635ba89b9399edf161a5113ed443d3befa78059e19b9e67e014f2"
+    "svg_sha256": "b905e601b87130ad1c23209bb360d4442fd5dc8f7683917e5cbb6e0624d226b7"
   },
   "forecast-public-procurement-act-rule": {
     "pdf": "forecast-public-procurement-act-rule.pdf",
     "png": "forecast-public-procurement-act-rule.png",
-    "svg_sha256": "29c9c5b7f14213491a99a342ef360d9fbcf0d5f8c7052d2671e0e7522e66a39f"
+    "svg_sha256": "2f2f94faa8bbfaaa363979bc018f9567afd1100b4c20e44e1337b56a20fbe736"
   },
   "forecast-public-procurement-act-rule-de": {
     "pdf": "forecast-public-procurement-act-rule-de.pdf",
     "png": "forecast-public-procurement-act-rule-de.png",
-    "svg_sha256": "3b7a0716a73e86e705503202e58753f4bc46a84c32fc9b6c6b0244616e3f875d"
+    "svg_sha256": "ab7c211195b9c6c2a9f3ad325d571e8f06b9e19c39476c75bd421c71d4e8fab4"
   },
   "forecast-quantum-act": {
     "pdf": "forecast-quantum-act.pdf",
     "png": "forecast-quantum-act.png",
-    "svg_sha256": "203e81f20e065ed02a4e7c69b06e80067fb098c730cf821b7e7364902935beb2"
+    "svg_sha256": "a312dfe11135e3ada2cca42ad452251b51625743a3e515f59e578028c6767942"
   },
   "forecast-quantum-act-chance": {
     "pdf": "forecast-quantum-act-chance.pdf",
     "png": "forecast-quantum-act-chance.png",
-    "svg_sha256": "12e162a14ffdf58a75038953237b55609e339e63061de07a4f5a012b637ae06a"
+    "svg_sha256": "e67989a68f0b9dbff4578fcb73ccd5ed8bc5163a402d045165ee166fbe01abd9"
   },
   "forecast-quantum-act-rule": {
     "pdf": "forecast-quantum-act-rule.pdf",
     "png": "forecast-quantum-act-rule.png",
-    "svg_sha256": "4646268bf25be16430a8eeb330b85f183a077405f05299440698728050750ab1"
+    "svg_sha256": "e345456f8b4c73f47ed0cd4bf51860716159744e31876071850f1a6c78b98e22"
   },
   "forecast-quantum-act-rule-de": {
     "pdf": "forecast-quantum-act-rule-de.pdf",
     "png": "forecast-quantum-act-rule-de.png",
-    "svg_sha256": "4895d4a8b631c4ba498c33e541d228a83e60ae8087cfc079f5d85357595e2f1d"
+    "svg_sha256": "08000ee21ec09cd7b007420463b9852f7360e2d46a8c690af7bfc768298fb10f"
   },
   "forecast-space-act": {
     "pdf": "forecast-space-act.pdf",
     "png": "forecast-space-act.png",
-    "svg_sha256": "6b5250eed40fa2b05069814d8c15194dd6d5a2edf74a9786c537c59d4714e365"
+    "svg_sha256": "8260b014428382f9b19291d914af18c4b4c8b45a7c2a6b6740db932f5afffc51"
   },
   "forecast-space-act-chance": {
     "pdf": "forecast-space-act-chance.pdf",
     "png": "forecast-space-act-chance.png",
-    "svg_sha256": "a4f2d1a283adbca32c2d9bfda78d9f42ef78ca6a77db1671a42f0743ad7c6ee2"
+    "svg_sha256": "ec05b6ff75cc1ab66aec9ac9f031a9552a5678d746d2c01f18629aad7bdd1a74"
   },
   "forecast-space-act-rule": {
     "pdf": "forecast-space-act-rule.pdf",
     "png": "forecast-space-act-rule.png",
-    "svg_sha256": "c154829ae1a07f73c97f071f7a9f78991f57331a98256316b1c3ba037dbc9df0"
+    "svg_sha256": "605ed7f12201e31afd54c0812098993a04defc271f3b1c9f072a29bf2f28954c"
   },
   "forecast-space-act-rule-de": {
     "pdf": "forecast-space-act-rule-de.pdf",
     "png": "forecast-space-act-rule-de.png",
-    "svg_sha256": "7991d69249abc514b091408093bd20624a21b34bde24d39a4f34a98b03023873"
+    "svg_sha256": "1fb5739d31365afec90f8a83cab50732ed037a5b4c89d31a159d7f30a4b13a4c"
   },
   "forecast-standardisation-revision": {
     "pdf": "forecast-standardisation-revision.pdf",
     "png": "forecast-standardisation-revision.png",
-    "svg_sha256": "03d5634a05a4858180892675fdc294a5ff6367183321e9a4ca9b09d18f1a2825"
+    "svg_sha256": "bdcab410211a3487aca861fc9e76fdb69e31ab4250e370ba6ab148d67b1ea7f2"
   },
   "forecast-standardisation-revision-chance": {
     "pdf": "forecast-standardisation-revision-chance.pdf",
     "png": "forecast-standardisation-revision-chance.png",
-    "svg_sha256": "dd8c335a7be57c1eee4d073011d05475476330a962ecf77056667968d210dbbe"
+    "svg_sha256": "b25029ba498bffa668736d2ea786c20107cc479ea61bc300ef256064bb8348f0"
   },
   "forecast-standardisation-revision-rule": {
     "pdf": "forecast-standardisation-revision-rule.pdf",
     "png": "forecast-standardisation-revision-rule.png",
-    "svg_sha256": "c4688fb424626f3bda32ff0fde0c011156d5f9489611f28f7a21e3e82d29c37f"
+    "svg_sha256": "9899a237b298a5b4fc802553549113d20129abd5b6d3341c6b51c69ea22f15c7"
   },
   "forecast-standardisation-revision-rule-de": {
     "pdf": "forecast-standardisation-revision-rule-de.pdf",
     "png": "forecast-standardisation-revision-rule-de.png",
-    "svg_sha256": "f1e5c7ddcc7543e1bd603c66689806100236028aaf6b3aefc97e4bc99c15148e"
+    "svg_sha256": "08d75345112fe533e0919e6e064cad8d8d21c09fb8bcb13b8dc7daa003fcac9f"
   },
   "method-backtest-size": {
     "pdf": "method-backtest-size.pdf",
     "png": "method-backtest-size.png",
-    "svg_sha256": "7becca532ec075b2ac1b3bb2c1ad6cca0961517a060287fb2b249514844c431c"
+    "svg_sha256": "e4deb1a73c1733c0116cf4dd8859e671a598e35125ae2a1c3f2bcc1dfb9429fd"
   },
   "method-backtest-size-de": {
     "pdf": "method-backtest-size-de.pdf",
     "png": "method-backtest-size-de.png",
-    "svg_sha256": "c26f1f3b94c2e2d01dc0564b96e27eb8a3175787ba461d528e9cd2356b58b2f4"
+    "svg_sha256": "29d42e24872b9f04f62536495a169b2b0a9860af3e0edcc83ff70e85da15e418"
   },
   "method-c-index": {
     "pdf": "method-c-index.pdf",
     "png": "method-c-index.png",
-    "svg_sha256": "6962e086eca88ed6c1468b14d7bd68a8bcac83cb1af85f83573180b8d13c1752"
+    "svg_sha256": "a7dc89dc70752e22be8916b0e285a2792e58fdd4ad533a21f032425620e4ce4b"
   },
   "method-c-index-de": {
     "pdf": "method-c-index-de.pdf",
     "png": "method-c-index-de.png",
-    "svg_sha256": "44c4dfc1ba0fa307e62fc488f0525cc6a8c88f1b445cf4e004c3f4089f54a40a"
+    "svg_sha256": "946066717e02e31a2066e8b41020dffd3c256a7c4626f763e3f434f93acf1383"
   },
   "method-candidates": {
     "pdf": "method-candidates.pdf",
     "png": "method-candidates.png",
-    "svg_sha256": "8d271d32c1ba6011c156cf9aa9100d86daa3f7d6e38986027afe4650a13691a3"
+    "svg_sha256": "729e28b61783e076e82cc83971f22b23d51c7fe79540bd713203998e9d602b36"
   },
   "method-candidates-de": {
     "pdf": "method-candidates-de.pdf",
     "png": "method-candidates-de.png",
-    "svg_sha256": "4a750cae80fd739997a5e98684c30853e549ecd30d3c507528a18fcfcd8d698c"
+    "svg_sha256": "0bb3c7ff561cb8d25904ed6d3951b96c6ec03deec58c09652c133a3f76e88819"
   },
   "method-criteria": {
     "pdf": "method-criteria.pdf",
     "png": "method-criteria.png",
-    "svg_sha256": "5a75131a53a81024834acd6d9523bee47efefe29bfb3e4d08a6e27b22f68b558"
+    "svg_sha256": "8c227bb2e874de7a2380fb1490525ebe39d1b5f619dba1e65bc4c92fbcadfae6"
   },
   "method-criteria-de": {
     "pdf": "method-criteria-de.pdf",
     "png": "method-criteria-de.png",
-    "svg_sha256": "1c5a94b25b80239ef48e461d08cb744d7de73a833e43b7ae4ab2ea3167a92310"
+    "svg_sha256": "025a138ce2bf24329cfc657f3235fe28bb674061ecdce53997c63b3bfb529038"
   },
   "method-deadline-scatter": {
     "pdf": "method-deadline-scatter.pdf",
     "png": "method-deadline-scatter.png",
-    "svg_sha256": "2f57a1f80a88904b576ce11a72a3eeacc52b7f573b5cbcdd6fcc8fc0c8a1a6ae"
+    "svg_sha256": "2ba0da12e37590edd4baa71143bf94292361957a836995947aad270c0dd99773"
   },
   "method-deadline-scatter-de": {
     "pdf": "method-deadline-scatter-de.pdf",
     "png": "method-deadline-scatter-de.png",
-    "svg_sha256": "58a3f79f7022b605eeaa827104811da94f0b4f4b7d8b8b8374fdbaf6268f5625"
+    "svg_sha256": "b56698723dfdd3c4d0521f9e66929a3d40c72a3a896ef129445bebf488572b87"
   },
   "method-election-deadline": {
     "pdf": "method-election-deadline.pdf",
     "png": "method-election-deadline.png",
-    "svg_sha256": "2ea98bed3b1db300656af1aabf127f7e39a40d44cf8fc52a5fbf1bf1471f93ee"
+    "svg_sha256": "3979ed462e4153153eb38e1625fe619acdbd455f1326617abde5919a5ad29d55"
   },
   "method-election-deadline-de": {
     "pdf": "method-election-deadline-de.pdf",
     "png": "method-election-deadline-de.png",
-    "svg_sha256": "016cdb653552518224359f1e7019b0b4d7eb52c8650812d2f5fe595f6506dc06"
+    "svg_sha256": "a76fc4deeec62d5ecea2e209ab3fe8988bd5a1abd4d36334cbee6e7a48ca6661"
   },
   "method-further-back": {
     "pdf": "method-further-back.pdf",
     "png": "method-further-back.png",
-    "svg_sha256": "22afbca7577c9cceb7097baf7527f3ac6e2db39cf634a421b2a23566cd62bf3e"
+    "svg_sha256": "16911f7442e994c605281dafaaac9414d22deb454b88b69f4b2f2c9493a7b460"
   },
   "method-further-back-de": {
     "pdf": "method-further-back-de.pdf",
     "png": "method-further-back-de.png",
-    "svg_sha256": "b9e2d77ad7c46015758bd0f8b7636647058cd1617177a7ace58fb327f955b59e"
+    "svg_sha256": "294e65226af69d305097cedf7174c36826db0d22d661560bc6097c3cbffbc3f9"
   },
   "method-rule-of-thumb": {
     "pdf": "method-rule-of-thumb.pdf",
     "png": "method-rule-of-thumb.png",
-    "svg_sha256": "73ec620d21587269c02cf3a9f9613639025f8257216a49075f9857bb7db52052"
+    "svg_sha256": "eaf4c782f04478e3ddc9df823a5e80e55a5faba2f244a7139f89d739b2ec2726"
   },
   "method-rule-of-thumb-de": {
     "pdf": "method-rule-of-thumb-de.pdf",
     "png": "method-rule-of-thumb-de.png",
-    "svg_sha256": "52da9e55061fbb95aeeac1faef8b34624682eaf6e958d81c6083d7797fe6c352"
+    "svg_sha256": "a87e01227480688c042a5d83fceb55679e8cdb490390f4db98b44a136f0eb687"
   },
   "method-size-trend": {
     "pdf": "method-size-trend.pdf",
     "png": "method-size-trend.png",
-    "svg_sha256": "6b74b1625561777e78f14bdbb103174ec7c050058148cb77dd0001f193136c8b"
+    "svg_sha256": "a554be53f5b682622d8a8aa50ecc57ab75848467ce1455e14f9a631693719abe"
   },
   "method-size-trend-de": {
     "pdf": "method-size-trend-de.pdf",
     "png": "method-size-trend-de.png",
-    "svg_sha256": "7f50857af8281948827c934724f421a050ea82114b2404bcf2afed9825cd6c4d"
+    "svg_sha256": "6fcae8b3090fa5de792677660fe8cbb4feaaecccb3e12672fc037116d2910e9c"
   },
   "nlf-overview": {
     "pdf": "nlf-overview.pdf",
     "png": "nlf-overview.png",
-    "svg_sha256": "1e77fec9c545816561f403e870b0e9014ecec2a6f9866d59947d45717214afbd"
+    "svg_sha256": "2c49076cc6d04d331f099a5f63abcd7dfd0ee2931c3807faa3ab046616920f8d"
   }
 }

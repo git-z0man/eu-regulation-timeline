@@ -1012,9 +1012,7 @@ Those objectives shall be implemented, where appropriate, in accordance with the
 4. The competence centres shall have substantial overall autonomy to lay down their organisation, composition and working methods. The organisation, composition and working methods of the competence centres shall comply with and contribute to the objectives of this Regulation and the Chips for Europe Initiative 2.0.
 
 <a id="art-7"></a>
-### Article 7
-
-Grand challenges
+### Article 7 – Grand challenges
 
 1. Grand challenges shall develop, integrate, and ensure industrial deployment of promising and critical semiconductor and related technologies of key importance for the Union, and be implemented, where appropriate, in accordance with the technical description set out in Annex I.
 
@@ -1183,9 +1181,7 @@ Grand challenges
 4. By way of derogation from paragraph 3, participation of legal entities established in third countries is allowed, provided that such participation is consistent with the conditions referred to in paragraph 1 and such participation shall be subject to the relevant security-related conditions of the applicable Union programmes.
 
 <a id="art-17"></a>
-### Article 17
-
-Identification of priority areas for strategic projects
+### Article 17 – Identification of priority areas for strategic projects
 
 1. A technical description of priority areas for potential strategic projects in certain indicative technological areas is set out in Annex II. In order to update the technological descriptions and indicative technological areas listed in Annex II to reflect technological change and market developments relevant to the semiconductor sector the Commission is empowered to adopt delegated acts in accordance with Article 55 to amend Annex II.
 
@@ -1445,9 +1441,7 @@ Identification of priority areas for strategic projects
 6. The national competent authority pursuant to Article 48 of this Regulation shall compile a verified list of all the domestic undertakings identified in public procurement procedures within the Member State. The lists may be exchanged partially or in full between Member States following the necessary confidentiality requirements, pursuant to Article 50.
 
 <a id="art-31"></a>
-### Article 31
-
-Further actions on public procurement
+### Article 31 – Further actions on public procurement
 
 1. Where the Commission identifies a potential supply chain risk in the context of the monitoring carried out pursuant to Article 35, it may, after consulting the European Semiconductor Board, issue recommendations to contracting authorities and contracting entities regarding the supply of semiconductors by domestic undertakings for procurement procedures referred to in Article 30(1).
 
@@ -1887,9 +1881,7 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 ### Industrial Alliance
 
 <a id="art-49"></a>
-### Article 49
-
-Industrial Alliance for Semiconductors
+### Article 49 – Industrial Alliance for Semiconductors
 
 1. An Industrial Alliance for Semiconductors (‘the Alliance’) is hereby established.
 
@@ -2073,9 +2065,7 @@ Industrial Alliance for Semiconductors
 ## Final provisions
 
 <a id="art-57"></a>
-### Article 57
-
-Evaluation and review
+### Article 57 – Evaluation and review
 
 1. By [OP: insert date for four years after date of entry into force] and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The reports shall be made public.
 
@@ -2089,9 +2079,7 @@ Evaluation and review
 1. Regulation (EU) 2023/1781 is repealed. 2.References to Regulation (EU) 2023/1781, shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex VII.
 
 <a id="art-59"></a>
-### Article 59
-
-Transitional provisions
+### Article 59 – Transitional provisions
 
 1. Regulation (EU) 2023/1781 shall continue to apply to integrated production facilities and open EU foundries referred to in Articles 13 and 14 of that Regulation respectively who were granted such status in accordance with Article 15(3) of that Regulation, for the period of duration of the status or the time period applicable pursuant to Article 15(8), second sentence, of that Regulation.
 

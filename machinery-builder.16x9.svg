@@ -2,18 +2,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
 <rect width="1920" height="1080" fill="#ffffff"/>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family='"Source Sans 3", Helvetica, Arial, sans-serif' x="48" y="48" width="1824" height="984" viewBox="-317 -0 2133 1200" preserveAspectRatio="xMidYMid meet">
-<defs><pattern id="hatch-4f6f73" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#4f6f73" stroke-opacity="0.5" stroke-width="2"/></pattern><pattern id="hatch-7a8b8e" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#7a8b8e" stroke-opacity="0.5" stroke-width="2"/></pattern></defs>
+<defs><pattern id="hatch-4f6f73" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#4f6f73" stroke-opacity="0.5" stroke-width="2"/></pattern><pattern id="hatch-7a8b8e" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#7a8b8e" stroke-opacity="0.5" stroke-width="2"/></pattern><pattern id="hatch-8a9096" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#ffffff"/><line x1="1" y1="0" x2="1" y2="7" stroke="#8a9096" stroke-opacity="0.5" stroke-width="2"/></pattern></defs>
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
 <rect x="-317" y="-0" width="2133" height="1200" fill="#ffffff"/>
 <g class="tl-title">
 <text font-size="20" fill="#222222" text-anchor="start" font-family='"Source Serif 4", Georgia, serif' font-weight="600"><tspan x="24.0" y="29.0">EU digital and product regulation – Machinery builder</tspan></text>
 </g>
 <g class="tl-sub">
-<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 25 Nov 2026. An orientation for planning, not legal advice.</tspan></text>
+<text font-size="11" fill="#555555" text-anchor="start"><tspan x="24.0" y="48.9">Manufacturer of machinery with software, connectivity or AI functions, selling in the EU. As of 26 Nov 2026. An orientation for planning, not legal advice.</tspan></text>
 </g>
 <g class="tl-span" data-top="88" data-bottom="1102" data-kx="1480" data-width="1500">
-<rect x="772.9" y="88.0" width="169.9" height="1014.0" fill="#e3eeef" stroke="none" opacity="0.7"/>
-<text font-size="10" fill="#0f5a63" text-anchor="start" font-weight="bold"><tspan x="772.9" y="81.5">as of 25 Nov 2026 · shaded: the next 12 months</tspan></text>
+<rect x="773.4" y="88.0" width="169.9" height="1014.0" fill="#e3eeef" stroke="none" opacity="0.7"/>
+<text font-size="10" fill="#0f5a63" text-anchor="start" font-weight="bold"><tspan x="773.4" y="81.5">as of 26 Nov 2026 · shaded: the next 12 months</tspan></text>
 <line x1="280.0" y1="88.0" x2="280.0" y2="1102.0" stroke="#d0d4d8" stroke-width="1"/>
 <line x1="450.3" y1="88.0" x2="450.3" y2="1102.0" stroke="#d0d4d8" stroke-width="1"/>
 <line x1="620.2" y1="88.0" x2="620.2" y2="1102.0" stroke="#d0d4d8" stroke-width="1"/>
@@ -134,7 +134,7 @@
 <a xlink:href="http://data.europa.eu/eli/dir/2024/2853/oj" target="_blank"><rect x="439.2" y="561.0" width="340.2" height="14.0" fill="#cfe2e4" stroke="#083c42"/></a>
 <a xlink:href="http://data.europa.eu/eli/dir/2024/2853/oj" target="_blank"><rect x="779.4" y="561.0" width="690.7" height="14.0" fill="#0b4f57" stroke="#083c42"/></a>
 <a xlink:href="http://data.europa.eu/eli/dir/2024/2853/oj" target="_blank"><title>Transposition: 09 Dec 2026 (Art. 22)</title><polygon points="779.4113620807666,562.0 785.4113620807666,568.0 779.4113620807666,574.0 773.4113620807666,568.0" fill="#14181c" stroke="#ffffff" stroke-width="1.5"/></a>
-<a xlink:href="http://data.europa.eu/eli/dir/2024/2853/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="780.9" y="556.0">Transposition</tspan></text></a>
+<a xlink:href="http://data.europa.eu/eli/dir/2024/2853/oj" target="_blank"><text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="781.4" y="556.0">Transposition</tspan></text></a>
 <line x1="20.0" y1="592.0" x2="1480.0" y2="592.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-row" data-row="gpsr" data-group="Product framework" data-y="592" data-h="48" data-compact="48">
@@ -226,12 +226,15 @@
 <g class="tl-row" data-row="quantum" data-group="Industrial policy" data-y="1054" data-h="48" data-compact="48">
 <g><title>low: low relevance for this profile</title><rect x="20.8" y="1073.8" width="8.5" height="8.5" fill="#ffffff" stroke="#8a9096" stroke-width="1.5"/></g>
 <text font-size="11" fill="#222222" text-anchor="start"><tspan x="36.0" y="1081.8">Quantum Act</tspan></text>
+<rect x="772.9" y="1071.0" width="357.0" height="14.0" fill="url(#hatch-8a9096)" stroke="#8a9096" stroke-dasharray="6 3" stroke-width="1.2"/>
 <g><title>Announced (Work Programme 2026): 21 Oct 2025</title><polygon points="586.7214236824093,1072.0 592.7214236824093,1078.0 586.7214236824093,1084.0 580.7214236824093,1078.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
 <text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="582.7" y="1066.0">Announced (Work Programme 2026)</tspan></text>
+<g><title>Proposal: 25 Nov 2026</title><polygon points="772.8952772073922,1072.0 778.8952772073922,1078.0 772.8952772073922,1084.0 766.8952772073922,1078.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/></g>
+<text font-size="9" fill="#222222" text-anchor="start" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" paint-order="stroke"><tspan x="781.4" y="1098.0">Proposal</tspan></text>
 <line x1="20.0" y1="1102.0" x2="1480.0" y2="1102.0" stroke="#eceef0" stroke-width="1"/>
 </g>
 <g class="tl-span">
-<line x1="772.9" y1="88.0" x2="772.9" y2="1102.0" stroke="#0f5a63" stroke-width="2"/>
+<line x1="773.4" y1="88.0" x2="773.4" y2="1102.0" stroke="#0f5a63" stroke-width="2"/>
 </g>
 <g class="tl-foot">
 <text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="1136.8">Rating</tspan></text>
@@ -256,7 +259,7 @@
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="950.4" y="1160.5">milestone</tspan></text>
 <polygon points="1207.2,1151 1213.2,1157 1207.2,1163 1201.2,1157" fill="#14181c" stroke="#14181c" stroke-width="1.5"/>
 <text font-size="10" fill="#222222" text-anchor="start"><tspan x="1221.2" y="1160.5">obligations start</tspan></text>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1476.0" y="1183.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 25 Nov 2026</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1476.0" y="1183.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 26 Nov 2026</tspan></text>
 </g>
 </svg>
 

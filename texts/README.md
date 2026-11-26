@@ -160,6 +160,7 @@ All texts of this act as one file: [cloud-ai-development-act.zip](downloads/clou
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-03_com-proposal | com-proposal | 52026PC0502 | [en](cloud-ai-development-act/2026-06-03_com-proposal.en.md) | [de](cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-06-03_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0502) |
+| 2026-10-30_council-compromise-st-14918-26 | council-compromise | ST 14918/26 | [en](cloud-ai-development-act/2026-10-30_council-compromise-st-14918-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-10-30_council-compromise-st-14918-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-14918-2026-INIT/en/pdf) |
 | 2026-11-13_council-progress-report-st-15300-26 | council-progress-report | ST 15300/26 | [en](cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-13_council-progress-report-st-15300-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf) |
 | 2026-11-17_ep-draft-report-pe797-430 | ep-draft-report | PE797.430 | [en](cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/CJ18-PR-797430/CJ18-PR-797430_en.docx) |
 
@@ -402,6 +403,22 @@ All texts of this act as one file: [digital-omnibus-ai.zip](downloads/digital-om
 | 2026-03-19_ep-report-a10-0073-2026 | ep-report | A10-0073/2026 | [en](digital-omnibus-ai/2026-03-19_ep-report-a10-0073-2026.en.md) | [de](digital-omnibus-ai/2026-03-19_ep-report-a10-0073-2026.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-03-19_ep-report-a10-0073-2026.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iPlRp/A-10-2026-0073/A-10-2026-0073_de.docx) |
 | 2026-07-24_oj | oj | 32026R1744 | [en](digital-omnibus-ai/2026-07-24_oj.en.md) | [de](digital-omnibus-ai/2026-07-24_oj.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-07-24_oj.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744) |
 | 2026-09-29_corrigendum-01 | corrigendum | 32026R1744R(01) | – | [de](digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2026-09-29_corrigendum-01.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)) |
+
+## DNA
+
+`dna` – Proposal for a Regulation on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act)
+
+All texts of this act as one file: [dna.zip](downloads/dna.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-21_com-proposal | com-proposal | 52026PC0016 | [en](dna/2026-01-21_com-proposal.en.md) | [de](dna/2026-01-21_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-01-21_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0016) |
+| 2026-05-22_council-progress-report-st-8523-26 | council-progress-report | ST 8523/26 | [en](dna/2026-05-22_council-progress-report-st-8523-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-05-22_council-progress-report-st-8523-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-8523-2026-INIT/en/pdf) |
+| 2026-06-02_council-progress-report-st-9685-26 | council-progress-report | ST 9685/26 | [en](dna/2026-06-02_council-progress-report-st-9685-26.en.md) | [de](dna/2026-06-02_council-progress-report-st-9685-26.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-06-02_council-progress-report-st-9685-26.de.md) | [source](https://data.consilium.europa.eu/doc/document/ST-9685-2026-INIT/de/pdf) |
+| 2026-10-16_council-compromise-st-14468-26 | council-compromise | ST 14468/26 | [en](dna/2026-10-16_council-compromise-st-14468-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-10-16_council-compromise-st-14468-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-14468-2026-INIT/en/pdf) |
+| 2026-10-20_ep-draft-report-pe791-994 | ep-draft-report | PE791.994 | [en](dna/2026-10-20_ep-draft-report-pe791-994.en.md) | [de](dna/2026-10-20_ep-draft-report-pe791-994.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-10-20_ep-draft-report-pe791-994.de.md) | [source](https://data.europarl.europa.eu/distribution/reds_iCmRp-Dft/ITRE-PR-791994/ITRE-PR-791994_de.docx) |
+| 2026-11-13_council-progress-report-st-15128-26 | council-progress-report | ST 15128/26 | [en](dna/2026-11-13_council-progress-report-st-15128-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-11-13_council-progress-report-st-15128-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15128-2026-INIT/en/pdf) |
+| 2026-11-24_council-progress-report-st-15968-26 | council-progress-report | ST 15968/26 | [en](dna/2026-11-24_council-progress-report-st-15968-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/dna/2026-11-24_council-progress-report-st-15968-26.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-15968-2026-INIT/en/pdf) |
 
 ## ECCC Regulation
 
@@ -2256,6 +2273,16 @@ All texts of this act as one file: [guidance-enisa-application-common-criteria-i
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-06_final | final | – | [en](guidance/enisa/application-common-criteria-integrated-circuits/2026-02-06_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/application-common-criteria-integrated-circuits/2026-02-06_final.en.md) | [source](https://certification.enisa.europa.eu/document/download/98f3cd81-532a-43f0-a897-e4a2cb3040f6_en?filename=EUCC_state_of_the_art_Application%20CC%20to%20integrated%20circuits%20v2%20%28final%29.pdf) |
 
+## As LLMs evolve from prompt-based tools into autonomous, agentic AI sys
+
+`guidance/enisa/as-llms-evolve-from-prompt-based-tools` – As LLMs evolve from prompt-based tools into autonomous, agentic AI systems, how should organisations secure their use in cybersecurity operations?
+
+All texts of this act as one file: [guidance-enisa-as-llms-evolve-from-prompt-based-tools.zip](downloads/guidance-enisa-as-llms-evolve-from-prompt-based-tools.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-24_draft | draft | – | [en](guidance/enisa/as-llms-evolve-from-prompt-based-tools/2026-11-24_draft.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/as-llms-evolve-from-prompt-based-tools/2026-11-24_draft.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2026-11/Report%20on%20the%20Current%20State%20of%20Agentic%20Ai%20in%20Cyber%20Security%20Operations_DRAFT.pdf) |
+
 ## Candidate EUCS Scheme v1.0
 
 `guidance/enisa/candidate-eucs-scheme` – Candidate EUCS Scheme v1.0
@@ -3457,7 +3484,7 @@ All texts of this act as one file: [standardisation-revision.zip](downloads/stan
 
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-06_com-proposal | com-proposal | 52026PC0780 | [en](standardisation-revision/2026-10-06_com-proposal.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal.en.md) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780) |
+| 2026-10-06_com-proposal | com-proposal | 52026PC0780 | [en](standardisation-revision/2026-10-06_com-proposal.en.md) | [de](standardisation-revision/2026-10-06_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0780) |
 | 2026-10-06_com-proposal-st-14141-26 | com-proposal | – | [en](standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | [source](http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1) |
 
 ## TSR

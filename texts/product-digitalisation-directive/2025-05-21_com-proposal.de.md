@@ -261,9 +261,7 @@ in Erwägung nachstehender Gründe:
 HABEN FOLGENDE RICHTLINIE ERLASSEN:
 
 <a id="art-1"></a>
-### Artikel 1
-
-Änderungen der Richtlinie 2000/14/EG
+### Artikel 1 – Änderungen der Richtlinie 2000/14/EG
 
 Die Richtlinie 2000/14/EG wird wie folgt geändert:
 
@@ -312,9 +310,7 @@ Die Mitgliedstaaten gehen davon aus, dass Geräte und Maschinen im Sinne des Art
 - 8. Die Anhänge II und V bis VIII werden gemäß Anhang I dieser Richtlinie geändert.
 
 <a id="art-2"></a>
-### Artikel 2
-
-Änderung der Richtlinie 2011/65/EU
+### Artikel 2 – Änderung der Richtlinie 2011/65/EU
 
 Die Richtlinie 2011/65/EU wird wie folgt geändert:
 
@@ -393,9 +389,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 19 Absatz 3 genannt
 - 9. Die Anhänge V und VI werden entsprechend dem Anhang II dieser Richtlinie geändert.
 
 <a id="art-3"></a>
-### Artikel 3
-
-Änderungen der Richtlinie 2013/53/EU
+### Artikel 3 – Änderungen der Richtlinie 2013/53/EU
 
 Die Richtlinie 2013/53/EU wird wie folgt geändert:
 
@@ -544,9 +538,7 @@ b) bei Prüfungen ohne Verwendung der harmonisierten Norm oder der gemeinsamen S
 - 14. Die Anhänge I, III, IV und V werden gemäß Anhang III der vorliegenden Richtlinie geändert.
 
 <a id="art-4"></a>
-### Artikel 4
-
-Änderung der Richtlinie 2014/29/EU
+### Artikel 4 – Änderung der Richtlinie 2014/29/EU
 
 Die Richtlinie 2014/29/EU wird wie folgt geändert:
 
@@ -669,9 +661,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 39 Absatz 2 genannt
 - 11. Die Anhänge II, III und IV werden gemäß Anhang IV der vorliegenden Richtlinie geändert.
 
 <a id="art-5"></a>
-### Artikel 5
-
-Änderung der Richtlinie 2014/30/EU
+### Artikel 5 – Änderung der Richtlinie 2014/30/EU
 
 Die Richtlinie 2014/30/EU wird wie folgt geändert:
 
@@ -776,9 +766,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 41 Absatz 2 genannt
 - 11. Die Anhänge II, III und IV werden gemäß Anhang V der vorliegenden Richtlinie geändert.
 
 <a id="art-6"></a>
-### Artikel 6
-
-Änderung der Richtlinie 2014/31/EU
+### Artikel 6 – Änderung der Richtlinie 2014/31/EU
 
 Die Richtlinie 2014/31/EU wird wie folgt geändert:
 
@@ -883,9 +871,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 41 Absatz 2 genannt
 - 11. Die Anhänge II und IV werden entsprechend dem Anhang VI dieser Richtlinie geändert.
 
 <a id="art-7"></a>
-### Artikel 7
-
-Änderung der Richtlinie 2014/32/EU
+### Artikel 7 – Änderung der Richtlinie 2014/32/EU
 
 Die Richtlinie 2014/32/EU wird wie folgt geändert:
 
@@ -1018,9 +1004,7 @@ g) eine Beschreibung der zur Erfüllung der wesentlichen Anforderungen gewählte
 - 13. Die Anhänge II und XIII werden entsprechend dem Anhang VII dieser Richtlinie geändert.
 
 <a id="art-8"></a>
-### Artikel 8
-
-Änderung der Richtlinie 2014/33/EU
+### Artikel 8 – Änderung der Richtlinie 2014/33/EU
 
 Die Richtlinie 2014/33/EU wird wie folgt geändert:
 
@@ -1167,9 +1151,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 42 Absatz 2 genannt
 - 14. Die Anhänge II und IV bis XII werden gemäß Anhang VIII dieser Richtlinie geändert.
 
 <a id="art-9"></a>
-### Artikel 9
-
-Änderung der Richtlinie 2014/34/EU
+### Artikel 9 – Änderung der Richtlinie 2014/34/EU
 
 Die Richtlinie 2014/34/EU wird wie folgt geändert:
 
@@ -1300,9 +1282,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 39 Absatz 2 genannt
 - 12. Die Anhänge II bis V und VII bis X werden gemäß Anhang IX dieser Richtlinie geändert.
 
 <a id="art-10"></a>
-### Artikel 10
-
-Änderung der Richtlinie 2014/35/EU
+### Artikel 10 – Änderung der Richtlinie 2014/35/EU
 
 Die Richtlinie 2014/35/EU wird wie folgt geändert:
 
@@ -1401,9 +1381,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 23 Absatz 3a genann
 - 9. Die Anhänge III und IV werden entsprechend dem Anhang X dieser Richtlinie geändert.
 
 <a id="art-11"></a>
-### Artikel 11
-
-Änderung der Richtlinie 2014/53/EU
+### Artikel 11 – Änderung der Richtlinie 2014/53/EU
 
 Die Richtlinie 2014/53/EU wird wie folgt geändert:
 
@@ -1538,9 +1516,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 45 Absatz 2 genannt
 - 10. Die Anhänge Ia und III, IV, V, VI und VII werden gemäß Anhang XI dieser Richtlinie geändert.
 
 <a id="art-12"></a>
-### Artikel 12
-
-Änderung der Richtlinie 2014/68/EU
+### Artikel 12 – Änderung der Richtlinie 2014/68/EU
 
 Die Richtlinie 2014/68/EU wird wie folgt geändert:
 
@@ -1675,9 +1651,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 44 Absatz 2 genannt
 - 13. Die Anhänge I, III und IV werden entsprechend Anhang XII der vorliegenden Richtlinie geändert.
 
 <a id="art-13"></a>
-### Artikel 13
-
-Änderung der Richtlinie 2014/90/EU
+### Artikel 13 – Änderung der Richtlinie 2014/90/EU
 
 Die Richtlinie 2014/90/EU wird wie folgt geändert:
 
@@ -1758,16 +1732,12 @@ Der Endnutzer kann jedoch zum Zeitpunkt des Kaufs des Produkts oder bis zu sechs
 - 9. Anhang II wird entsprechend Anhang XIII dieser Richtlinie geändert.
 
 <a id="art-14"></a>
-### Artikel 14
-
-Übergangsbestimmung
+### Artikel 14 – Übergangsbestimmung
 
 Die Mitgliedstaaten dürfen die Bereitstellung von Produkten auf dem Markt nicht behindern, die im Einklang mit den Richtlinien 2000/14/EG, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU und 2014/90/EU vor dem [Amt für Veröffentlichungen: Bitte das in Artikel 15 Absatz 1 Unterabsatz 2 genannte Datum einfügen] in Verkehr gebracht wurden.
 
 <a id="art-15"></a>
-### Artikel 15
-
-Umsetzung
+### Artikel 15 – Umsetzung
 
 - (1) Die Mitgliedstaaten erlassen und veröffentlichen spätestens am [Amt für Veröffentlichungen: Bitte Datum einsetzen: 12 Monate nach Inkrafttreten dieser Änderungsrichtlinie] die Rechts- und Verwaltungsvorschriften, die erforderlich sind, um dieser Richtlinie nachzukommen. Sie teilen der Kommission unverzüglich den Wortlaut dieser Vorschriften mit.
 
@@ -1830,16 +1800,12 @@ Umsetzung
 - (2) Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen Vorschriften mit, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen.
 
 <a id="art-16"></a>
-### Artikel 16
-
-Inkrafttreten
+### Artikel 16 – Inkrafttreten
 
 Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 
 <a id="art-17"></a>
-### Artikel 17
-
-Adressaten
+### Artikel 17 – Adressaten
 
 Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
 

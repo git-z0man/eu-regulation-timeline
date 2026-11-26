@@ -28,8 +28,6 @@ In view of the upcoming meeting of the Working Party on Competitiveness and Grow
 
 This partial Presidency compromise text **does not cover** the recitals.
 
-COMPET. ^(1) **LIMITE EN**
-
 ++**ANNEX**++
 
 2026/0068 (COD)

@@ -261,9 +261,7 @@ Whereas:
 HAVE ADOPTED THIS DIRECTIVE:
 
 <a id="art-1"></a>
-### Article 1
-
-Amendments to Directive 2000/14/EC
+### Article 1 – Amendments to Directive 2000/14/EC
 
 Directive 2000/14/EC is amended as follows:
 
@@ -312,9 +310,7 @@ Member States shall presume that equipment referred to in Article 2(1) bearing t
 - (8) Annexes II and V to VIII are amended in accordance with Annex I to this Directive.
 
 <a id="art-2"></a>
-### Article 2
-
-Amendments to Directive 2011/65/EU
+### Article 2 – Amendments to Directive 2011/65/EU
 
 Directive 2011/65/EU is amended as follows:
 
@@ -393,9 +389,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (9) Annexes V and VI are amended in accordance with Annex II to this Directive.
 
 <a id="art-3"></a>
-### Article 3
-
-Amendments to Directive 2013/53/EU
+### Article 3 – Amendments to Directive 2013/53/EU
 
 Directive 2013/53/EU is amended as follows:
 
@@ -544,9 +538,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (14) Annexes I, III, IV and V are amended in accordance with Annex III to this Directive.
 
 <a id="art-4"></a>
-### Article 4
-
-Amendments to Directive 2014/29/EU
+### Article 4 – Amendments to Directive 2014/29/EU
 
 Directive 2014/29/EU is amended as follows:
 
@@ -669,9 +661,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (11) Annexes II, III and IV are amended in accordance with Annex IV to this Directive.
 
 <a id="art-5"></a>
-### Article 5
-
-Amendments to Directive 2014/30/EU
+### Article 5 – Amendments to Directive 2014/30/EU
 
 Directive 2014/30/EU is amended as follows:
 
@@ -776,9 +766,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (11) Annexes II, III and IV are amended in accordance with Annex V to this Directive.
 
 <a id="art-6"></a>
-### Article 6
-
-Amendments to Directive 2014/31/EU
+### Article 6 – Amendments to Directive 2014/31/EU
 
 Directive 2014/31/EU is amended as follows:
 
@@ -883,9 +871,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (11) Annexes II and IV are amended in accordance with Annex VI to this Directive.
 
 <a id="art-7"></a>
-### Article 7
-
-Amendments to Directive 2014/32/EU
+### Article 7 – Amendments to Directive 2014/32/EU
 
 Directive 2014/32/EU is amended as follows:
 
@@ -1018,9 +1004,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (13) Annexes II and XIII are amended in accordance with Annex VII to this Directive.
 
 <a id="art-8"></a>
-### Article 8
-
-Amendments to Directive 2014/33/EU
+### Article 8 – Amendments to Directive 2014/33/EU
 
 Directive 2014/33/EU is amended as follows:
 
@@ -1167,9 +1151,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (14) Annexes II and IV to XII are amended in accordance with Annex VIII to this Directive.
 
 <a id="art-9"></a>
-### Article 9
-
-Amendments to Directive 2014/34/EU
+### Article 9 – Amendments to Directive 2014/34/EU
 
 Directive 2014/34/EU is amended as follows:
 
@@ -1300,9 +1282,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (12) Annexes II to V and VII to X are amended in accordance with Annex IX to this Directive.
 
 <a id="art-10"></a>
-### Article 10
-
-Amendments to Directive 2014/35/EU
+### Article 10 – Amendments to Directive 2014/35/EU
 
 Directive 2014/35/EU is amended as follows:
 
@@ -1401,9 +1381,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (9) Annexes III and IV are amended in accordance with Annex X to this Directive.
 
 <a id="art-11"></a>
-### Article 11
-
-Amendments to Directive 2014/53/EU
+### Article 11 – Amendments to Directive 2014/53/EU
 
 Directive 2014/53/EU is amended as follows:
 
@@ -1538,9 +1516,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (10) Annexes Ia, and III to, IV, V, VI and VII are amended in accordance with Annex XI to this Directive.
 
 <a id="art-12"></a>
-### Article 12
-
-Amendments to Directive 2014/68/EU
+### Article 12 – Amendments to Directive 2014/68/EU
 
 Directive 2014/68/EU is amended as follows:
 
@@ -1675,9 +1651,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (13) Annexes I, III and IV are amended in accordance with Annex XII to this Directive.
 
 <a id="art-13"></a>
-### Article 13
-
-Amendments to Directive 2014/90/EU
+### Article 13 – Amendments to Directive 2014/90/EU
 
 Directive 2014/90/EU is amended as follows:
 
@@ -1758,16 +1732,12 @@ However, the end-user may, at time of the purchase of the product, or up to six 
 - (9) Annex II is amended in accordance with Annex XIII to this Directive.
 
 <a id="art-14"></a>
-### Article 14
-
-Transitional provision
+### Article 14 – Transitional provision
 
 Member States shall not impede the making available on the market of products which were placed on the market in accordance with Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU before [PO: Please insert the date set out in Article 15(1), second subparagraph].
 
 <a id="art-15"></a>
-### Article 15
-
-Transposition
+### Article 15 – Transposition
 
 1. Member States shall adopt and publish, by [OP:Please insert 12 months after entry into force of this amending Directive] at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions.
 
@@ -1830,16 +1800,12 @@ They shall apply those provisions from [OP: Please insert 12 months after entry 
 2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
 
 <a id="art-16"></a>
-### Article 16
-
-Entry into force
+### Article 16 – Entry into force
 
 This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
 <a id="art-17"></a>
-### Article 17
-
-Addressees
+### Article 17 – Addressees
 
 This Directive is addressed to the Member States.
 

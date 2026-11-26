@@ -28,7 +28,7 @@ This is a paper intended for a specific community of recipients. Handling and fu
 
 **WORKING DOCUMENT** From: General Secretariat of the Council To: Working Party on Competitiveness and Growth (Industry - Attachés) Working Party on Competitiveness and Growth (Industry) N° Cion doc.: ST 7009 2026 ADD 1 + ST 7009 2026 ADD 2 + ST 7009 2026 ADD 3 + ST 7009 2026 ADD 4 + ST 7009 2026 ADD 5 + ST 7009 2026 INIT Subject: Proposal for a Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in strategic sectors (Industrial Accelerator Act) - Partial Presidency compromise text on Chapter III of IAA (clean text version of doc ST 11423/2026)
 
-WK 9973/2026 INIT **LIMITE EN** 2026/0068 (COD)
+WK 9973/2026 INIT 2026/0068 (COD)
 
 Proposal for a
 

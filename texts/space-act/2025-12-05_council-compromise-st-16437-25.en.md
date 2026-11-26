@@ -30,8 +30,6 @@ Please note that the numbering of the Commission proposal remains unchanged unti
 
 It is understood that all delegations have entered a scrutiny reservation.
 
-COMPET. ^(2). **EN**
-
 ++**ANNEX**++
 
 2025/0335 (COD)
@@ -2248,7 +2246,7 @@ Union launch operators shall implement the following notification and coordinati
 
 1.2.1. The LCOLA shall be carried out before launch.
 
-Annex I COMPET. ^(2). **EN** 1.2.2. The LCOLA shall be carried out with the support of the relevant entity referred to in Article 64(1).
+1.2.2. The LCOLA shall be carried out with the support of the relevant entity referred to in Article 64(1).
 
 The Union launch operator shall ensure that the entity referred to in Article 64(1) obtains the predicated ephemerides for the launch vehicle.
 
@@ -2272,7 +2270,7 @@ The Union launch operator shall ensure that the entity referred to in Article 64
 
 1.2.5. The Union launch operator shall define the launch closure window according to the LCOLA assessment.
 
-Annex I COMPET. ^(2). **EN** 1.3. Casualty risk
+1.3. Casualty risk
 
 The casualty risk at launch and at re-entry shall be limited by the application of the following measures:
 
@@ -2294,11 +2292,9 @@ The casualty risk at launch and at re-entry shall be limited by the application 
 
   - (i) risk at launch;
 
-Annex I COMPET. ^(2). **EN**
+  - (ii) risk at re-entry (controlled and un-controlled);
 
-- (ii) risk at re-entry (controlled and un-controlled);
-
-- (iii) risk for the recovery phase of reusable launch vehicle elements.
+  - (iii) risk for the recovery phase of reusable launch vehicle elements.
 
 2. Flight safety system as referred to in Article 60
 
@@ -2324,15 +2320,11 @@ The launch safety plan shall include at least the following elements:
 
 - (a) the measures of coordination between the Union launch operator and the ANSP and maritime authorities in line with point 1.;
 
-Annex I COMPET. ^(2). **EN**
-
 - (b) the result of the LCOLA, in line with point 1.2;
 
 - (c) the result of the calculation of the collective casualty risk at launch and re-entry, in line with point 1.3;
 
 - (d) the risk assessment of the failure scenario of the flight safety system, in line with point 2.1 and, where applicable, mitigations measures, including neutralisation in line with point 2.2.
-
-Annex I COMPET. ^(2). **EN**
 
 <a id="annex-ii"></a>
 ## Annex II – SPACE DEBRIS MITIGATION FOR LAUNCH VEHICLES REFERRED TO IN ARTICLE 61
@@ -2355,7 +2347,7 @@ Annex I COMPET. ^(2). **EN**
 
 - (f) The limitation of the risk of components becoming detached from the launch vehicle and being placed in orbit which shall be carried out through the measures laid down in the implementing act in accordance with Article 61(3), point (a).
 
-Annex II COMPET. ^(2). **EN** For the purpose of this Annex, ‘GEO protected region’ means a segment of the spherical shell defined by the following: lower altitude = geostationary altitude minus 200 km; upper altitude = geostationary altitude plus 200 km; -15 degrees ≤ latitude ≤ +15 degrees; geostationary altitude: 35.786 km is the altitude of the geostationary Earth orbit.
+For the purpose of this Annex, ‘GEO protected region’ means a segment of the spherical shell defined by the following: lower altitude = geostationary altitude minus 200 km; upper altitude = geostationary altitude plus 200 km; -15 degrees ≤ latitude ≤ +15 degrees; geostationary altitude: 35.786 km is the altitude of the geostationary Earth orbit.
 
 1.1.2. The requirements referred to in point 1.1.1., (a) and (b), shall not apply to the pyrotechnic system and to the solid or hybrid propellants.
 
@@ -2378,8 +2370,6 @@ In accordance with the implementing act referred to in Article 61(3), point (d),
 - (a) launch vehicle elements and launched objects;
 
 - (b) launch vehicle elements and existing space objects in orbit (crewed, un-crewed and debris).
-
-Annex II COMPET. ^(2). **EN**
 
 2. End of life disposal
 
@@ -2405,7 +2395,7 @@ The design shall allow for the demise (‘design for demise’) or deliberate de
 
 The disposal of launch vehicles in MEO shall be performed in an orbit that does not interfere with GEO protected regions and valuable orbits for a limited amount of time, in line with point 1.1.1, point (d).
 
-Annex II COMPET. ^(2). **EN** 2.4. Disposal of launch vehicles in GEO
+2.4. Disposal of launch vehicles in GEO
 
 The disposal of launch vehicle in GEO shall be performed by placing the launch vehicle in a graveyard orbit, ensuring that it remains outside GEO protected region for a period of at least 100 years, under the effect of natural disturbances.
 
@@ -2428,8 +2418,6 @@ The disposal of launch vehicle in GEO shall be performed by placing the launch v
 - (d) the control requirements for disposal or re-orbit manoeuvre;
 
 - (e) the communication requirements for disposal or re-orbit manoeuvre.
-
-Annex II COMPET. ^(2). **EN**
 
 3. Space debris mitigation plans
 
@@ -2456,8 +2444,6 @@ The end-of-mission disposal plan shall include at least the following:
 - (c) Evidence of compliance with the description on the adherence to the threshold of probability of successful disposal, including the relevant verification and analysis.
 
 - (d) The identification of systems and capabilities.
-
-Annex II COMPET. ^(2). **EN**
 
 <a id="annex-iii"></a>
 ## Annex III – TRACKING AND SOFTWARE REFERRED TO IN ARTICLES 63 and 63a
@@ -2488,8 +2474,6 @@ A spacecraft shall be trackable, according to the following principles:
 
 - (a) 7 days at minute level intervals, and in accordance with the Consultative Committee for Space Data Systems (CCSDS) format in LEO;
 
-Annex III COMPET. ^(2). **EN**
-
 - (b) 14 days at minute level intervals and in accordance with CCSDS format in MEO;
 
 - (c) 14 days at minute level intervals and in accordance with CCSDS format in GEO.
@@ -2499,8 +2483,6 @@ Annex III COMPET. ^(2). **EN**
 2.3. The ground-based segment shall be able to process CCSDS data format, and in particular Orbital ephemerides Messages (OEM) and Conjunction Data Messages (CDM), for the collision avoidance operations.
 
 For the purpose of Annex III and IV, ‘conjunction data messages’ means information about a conjunction between two space objects.
-
-Annex III COMPET. ^(2). **EN**
 
 <a id="annex-iv"></a>
 ## Annex IV – COLLISION AVOIDANCE REFERRED TO IN ARTICLES 15 AND 64
@@ -2527,7 +2509,7 @@ The CA system shall be either external or in-house, provided that in the case of
 
 - (c) The CA provider shall be able to compute covariance information in exceptional cases when not included in the data source.
 
-Annex IV COMPET. ^(2). **EN** 1.3. Requirements regarding data Quality Check
+1.3. Requirements regarding data Quality Check
 
 - (a) The CA provider shall perform data quality checks to assess the data from space operators.
 
@@ -2550,8 +2532,6 @@ Annex IV COMPET. ^(2). **EN** 1.3. Requirements regarding data Quality Check
   - (iv) providing users with a diverse, user-selectable set of conjunction and CA "Go/No-Go" manoeuvre metrics, to assess the collision risk and to develop an appropriate course of action;
 
   - (v) checking that mitigation actions decrease the risk level of the conjunctions to be mitigated, and do not unduly increase the risk level of other conjunctions.
-
-Annex IV COMPET. ^(2). **EN**
 
 - (d) The CA provider shall use collision probability estimation techniques whose soundness is generally accepted, such as those used by the Union CA entity, and appropriate for a given encounter.
 
@@ -2581,8 +2561,6 @@ The recommended time interval shall be once per day, per GEO spacecraft, and onc
 
 - (a) any change as regards the active and manoeuvrability status of its spacecraft;
 
-Annex IV COMPET. ^(2). **EN**
-
 - (b) any change regarding the end of the space mission;
 
 - (c) any exceptional operations having an impact on spacecraft orbit or manoeuvrability;
@@ -2604,8 +2582,6 @@ Annex IV COMPET. ^(2). **EN**
 - (a) as regards the elements related to the safety distance requirement, the limit above which the risk of collision is considered high enough to trigger a high interest event alert;
 
 - (b) specific requirements according to the different phases of the mission (launch, transit, passivation, EOL-operations).
-
-Annex IV COMPET. ^(2). **EN**
 
 <a id="annex-v"></a>
 ## Annex V – SPACECRAFT SPACE DEBRIS MITIGATION REFERRED TO IN ARTICLE 70
@@ -2629,8 +2605,6 @@ To limit the planned generation of debris during nominal operations, the followi
 - (a) The probability of accidental fragmentation of a spacecraft in Earth orbit shall be limited, in accordance with the requirements laid down in the implementing act referred to in Article 70(3), point (b)(i), until its end of life.
 
 The calculation of the risk of accidental fragmentation of a spacecraft shall follow a standardised method, taking into account all known failure modes.
-
-Annex V COMPET. ^(2). **EN**
 
 - (b) The spacecraft on-board sources of energy shall be designed to be robust and take into account the following factors:
 
@@ -2656,19 +2630,17 @@ Annex V COMPET. ^(2). **EN**
 
   - (iv) Except for cubesats, the design of spacecraft shall ensure it contains a redundancy function for passivation.
 
-Annex V COMPET. ^(2). **EN**
+  - (v) Union spacecraft operators shall deplete energy reserve in either of the following ways:
 
-- (v) Union spacecraft operators shall deplete energy reserve in either of the following ways:
+    - (1) through hard passivation, whereby a Union spacecraft operator shall put in place controls with parameters set to a level which cannot cause an explosion or deflagration large enough to release orbital debris or fragmentation of the spacecraft;
 
-  - (1) through hard passivation, whereby a Union spacecraft operator shall put in place controls with parameters set to a level which cannot cause an explosion or deflagration large enough to release orbital debris or fragmentation of the spacecraft;
+    - (2) through soft passivation in accordance with the conditions set out in the implementing act referred to in Article 70(3), point (b).
 
-  - (2) through soft passivation in accordance with the conditions set out in the implementing act referred to in Article 70(3), point (b).
+  - (vi) Union spacecraft operators shall deactivate the parts of the spacecraft that produce energy.
 
-- (vi) Union spacecraft operators shall deactivate the parts of the spacecraft that produce energy.
+  - (vii) Following the passivation there shall be no more radioelectric emissions of the platform and the payload.
 
-- (vii) Following the passivation there shall be no more radioelectric emissions of the platform and the payload.
-
-- (viii) Passivation shall not generate space debris larger than 1 mm, with the exception of the ventilation of propellant.
+  - (viii) Passivation shall not generate space debris larger than 1 mm, with the exception of the ventilation of propellant.
 
 - (f) In the case of electrical passivation, energy sources shall be isolated and the battery drained.
 
@@ -2679,8 +2651,6 @@ Specific rules regarding passivation for re-entry shall be specified in the impl
 To limit the fragmentation caused by collision, the following requirements shall be implemented:
 
 - (a) Spacecraft shall be designed and manufactured, and space missions shall be respectively designed, in a way that limits the risk of collision, in accordance with the requirements laid down in the implementing act referred to in Article 70(3), point (b).
-
-Annex V COMPET. ^(2). **EN**
 
 - (b) Spacecraft shall be designed and manufactured to limit the risk that a space debris or meteoroids causes the spacecraft or its component(s) to fragment, and, where tethers are used, additional measures shall be implemented to mitigate the risk of collision with space objects and meteoroids, in accordance with the requirements laid down in the implementing act referred to in Article 70(3), point (b).
 
@@ -2702,7 +2672,7 @@ Annex V COMPET. ^(2). **EN**
 
 2.1.2. Control of the design, manufacture, integration and implementation of spacecraft systems shall be put in place, in order to manage hazards, especially those arising from critical activities.
 
-Annex V COMPET. ^(2). **EN** 2.2. Operational procedures for quality and reliability control
+2.2. Operational procedures for quality and reliability control
 
 Union spacecraft operators shall implement a quality management system.
 
@@ -2728,7 +2698,7 @@ The implementation of a quality management system shall cover at least quality a
 
 - (b) ensuring the traceability of technical and organisation events affecting the engineering and manufacturing processes.
 
-Annex V COMPET. ^(2). **EN** 2.2.3. Definition of procedures to assess critical functions, using in-flight data.
+2.2.3. Definition of procedures to assess critical functions, using in-flight data.
 
 - (a) The procedures shall foresee a re-evaluation to be carried out at least the following times:
 
@@ -2752,9 +2722,7 @@ For the purpose of paragraph 2.2.3., point (b), points (iii) and (iv), ‘delta 
 
 3. End of life
 
-3.1. Probability of successful disposal
-
-Annex V COMPET. ^(2). **EN** 3.1.1. Union spacecraft operators shall calculate and adhere to assigned limits on the probability of successful disposal.
+3.1. Probability of successful disposal 3.1.1. Union spacecraft operators shall calculate and adhere to assigned limits on the probability of successful disposal.
 
 3.1.2. The probability of successful disposal shall be high and shall be calculated according to the requirements set out in the implementing act referred to in Article 70(3), point (c).
 
@@ -2776,7 +2744,7 @@ Annex V COMPET. ^(2). **EN** 3.1.1. Union spacecraft operators shall calculate a
 
 - (b) In due time before disposal, the Union spacecraft operator shall check that it has the necessary propellant to perform the disposal.
 
-Annex V COMPET. ^(2). **EN** 3.2. Design of the spacecraft in view of end of life disposal
+3.2. Design of the spacecraft in view of end of life disposal
 
 3.2.1. Spacecraft shall be designed to support end of life disposal through the means referred to in point 3.3, point 3.6 or point 3.7, as applicable.
 
@@ -2802,8 +2770,6 @@ The removal of spacecraft in LEO shall be performed by one or more of the follow
 
 - (e) In exceptional justified cases, for Very High LEO, disposal can take place in an orbit not interfering with protected regions and valuable orbits;
 
-Annex V COMPET. ^(2). **EN**
-
 - (f) Removal by ISOS.
 
 For the purpose of points (b) and (c), ‘end of space mission’ means the phase when a spacecraft or launch vehicle orbital stage completes the tasks for which it has been designed, other than its disposal, becomes non-functional as a consequence of a failure, or is permanently halted through a voluntary decision.
@@ -2826,7 +2792,7 @@ For the purpose of points (b) and (c), ‘end of space mission’ means the phas
 
 3.5.3. Union spacecraft operators shall carry out an assessment as to whether parts of the spacecraft will survive atmospheric re-entry and impact the surface of the Earth and shall set out the measures to be taken to reduce the casualty risk, in line with point 3.5.4.
 
-Annex V COMPET. ^(2). **EN** 3.5.4. The probability of casualties per re-entry shall be further specified in the implementing act referred to in Article 70(3), point (c)(iii), considering the following requirements:
+3.5.4. The probability of casualties per re-entry shall be further specified in the implementing act referred to in Article 70(3), point (c)(iii), considering the following requirements:
 
 - (a) be as low as possible;
 
@@ -2850,7 +2816,7 @@ Annex V COMPET. ^(2). **EN** 3.5.4. The probability of casualties per re-entry s
 
 3.5.9. The re-entry service referred to in point 3.5.8 shall inform the relevant air traffic and maritime authorities of any expected re-entry.
 
-Annex V COMPET. ^(2). **EN** 3.6. Removal of spacecraft in MEO
+3.6. Removal of spacecraft in MEO
 
 Removal from Earth orbits outside of the protected orbital regions to an orbit not interfering with protected regions and valuable orbits within a number of years specified in the implementing act referred to in Article 70(3), point (c).
 
@@ -2880,7 +2846,7 @@ Removal from Earth orbits outside of the protected orbital regions in an orbit n
 
 4.1.2. When drawing-up the debris control plan, a system level risk assessment approach shall be used.
 
-Annex V COMPET. ^(2). **EN** 4.1.3. The debris control plan shall list at least the following:
+4.1.3. The debris control plan shall list at least the following:
 
 - (a) a description of adherence to the restrictions on the planned debris generation,
 
@@ -2910,8 +2876,6 @@ The Union spacecraft operator shall develop a failure response plan that shall i
 
 - (a) the criteria for selecting, from the alternative disposal methods, the one showing the lowest level of risk for a spacecraft being left in an operational orbit;
 
-Annex V COMPET. ^(2). **EN**
-
 - (b) the criteria for initiating the passivation contingency actions;
 
 - (c) for Union spacecraft operators in MEO and GEO, steps to remove spacecraft to an alternative orbit, and passivate it before any further critical systems are lost;
@@ -2925,8 +2889,6 @@ Annex V COMPET. ^(2). **EN**
   - (i) a dedicated operational mode for the service operation (removal), and making use of the integrated removal interface (if applicable) to de-risk a provided in-space service by the servicer spacecraft;
 
   - (ii) the technical means and the specific mission mode.
-
-Annex V COMPET. ^(2). **EN**
 
 <a id="annex-vi"></a>
 ## Annex VI – CONSTELLATIONS REFERRED TO IN ARTICLE 73
@@ -2947,7 +2909,7 @@ Annex V COMPET. ^(2). **EN**
 
 2.1. For constellations and mega-constellations, Union spacecraft operators shall take specific measures to ensure limitation of light and radio pollution to be specified in the implementing act referred to in Article 73(4), point (b), first subparagraph;
 
-Annex VI COMPET. ^(2). **EN** 2.2. For mega-constellations that following shall apply:
+2.2. For mega-constellations that following shall apply:
 
 - (a) the debris control plan referred to in Article 70(2), point (a), shall include an analysis that demonstrate that specific care has been taken to avoid collision with the international space stations for any phase of the space mission;
 
@@ -2960,8 +2922,6 @@ Annex VI COMPET. ^(2). **EN** 2.2. For mega-constellations that following shall 
   - (i) prepare a plan for transit and demonstrate that the probability of collision is limited;
 
   - (ii) report on the functioning of vital systems is due before reaching operational orbit.
-
-Annex VI COMPET. ^(2). **EN**
 
 <a id="annex-viii"></a>
 ## Annex VIII – IN-SPACE OPERATIONS AND SERVICES (ISOS) REFERRED TO IN ARTICLE 101
@@ -2984,7 +2944,7 @@ Annex VI COMPET. ^(2). **EN**
 
 For the purpose of this Annex, ‘ISOS operation’ means the execution of the planned ISOS tasks involving one or more space objects and ‘ISOS servicer spacecraft’ means a spacecraft specifically designed for the purpose of providing specific ISOS.
 
-Annex VIII COMPET. ^(2). **EN** 1.2. Coordination of control centers
+1.2. Coordination of control centers
 
 - (a) The respective control centers of the ISOS servicer spacecraft and the client object shall ensure appropriate coordination, by sharing all data, including the telemetry, that is necessary to ensure the safety of the respective operations.
 
@@ -3008,7 +2968,7 @@ and, where such prevention is not possible or is not immediately possible, shall
 
 2.2.2. The Union ISOS provider shall define in the operational concept a safe zone where presence of a third party will lead to non-engagement or withdrawal of the ongoing ISOS operation.
 
-Annex VIII COMPET. ^(2). **EN** 2.2.3. Where anomalies occur, or where unforeseen events, including those caused by the carrying out of ISOS, lead to potential adverse impact on third party space objects, the Union ISOS provider shall immediately notify the space operator of the third-party space object impacted.
+2.2.3. Where anomalies occur, or where unforeseen events, including those caused by the carrying out of ISOS, lead to potential adverse impact on third party space objects, the Union ISOS provider shall immediately notify the space operator of the third-party space object impacted.
 
 2.2.4. The Union ISOS provider shall closely cooperate with the Union CA entity, including in the service operation phase.
 
@@ -3023,8 +2983,6 @@ Annex VIII COMPET. ^(2). **EN** 2.2.3. Where anomalies occur, or where unforesee
 2.4. Qualification of the system and servicing concept - Prior testing
 
 Except for non-reversible ISOS operations, Union ISOS providers shall, for the purposes of ascertaining the proper system functioning for the planned ISOS, carry out tests in orbit at least before engaging in the first service operation or in the first step and only if no danger is posed to any other space object.
-
-Annex VIII COMPET. ^(2). **EN**
 
 <a id="annex-ix"></a>
 ## Annex IX – QUALIFIED TECHNICAL BODIES REFERRED TO IN ARTICLE 32a
@@ -3043,7 +3001,7 @@ Annex VIII COMPET. ^(2). **EN**
 
 1.3. A body belonging to a business association or professional federation that represents undertakings which are involved in the design, development, production, provision, assembly, use, maintenance, testing, or operation of a product which a technical body assesses, or respectively undertakings which are involved in the use or operation of a service, activity or process that such technical body certifies, may only be considered as a national QTB, under this Regulation, if such body meets the requirements of independence and absence of conflict of interest.
 
-Annex IX COMPET. ^(2). **EN** 1.4. A national QTB shall be organised and managed in a way that safeguards the independence, objectivity and the impartiality in carrying out its activities. For that purpose, a national QTB shall ensure that:
+1.4. A national QTB shall be organised and managed in a way that safeguards the independence, objectivity and the impartiality in carrying out its activities. For that purpose, a national QTB shall ensure that:
 
 - (a) procedures to safeguard and document its impartiality are set up and guaranteed throughout its activities, and that such procedure apply both to the top-level management and to the personnel carrying out technical assessment activities;
 
@@ -3059,7 +3017,7 @@ Annex IX COMPET. ^(2). **EN** 1.4. A national QTB shall be organised and managed
 
 A national QTB shall meet the organisational, quality management, resource-related and processrelated requirements necessary to fulfil its tasks.
 
-Annex IX COMPET. ^(2). **EN** The organisational structure and operation of a national QTB, as well as the allocation of responsibilities and reporting shall be such as to ensure confidence in the performance of tasks and in the results of its technical assessment activities.
+The organisational structure and operation of a national QTB, as well as the allocation of responsibilities and reporting shall be such as to ensure confidence in the performance of tasks and in the results of its technical assessment activities.
 
 1.5. At all times, and for each procedure in the technical assessment, a national QTB shall:
 
@@ -3083,7 +3041,7 @@ Annex IX COMPET. ^(2). **EN** The organisational structure and operation of a na
 
 - (d) the ability to draw up certificates, records and reports demonstrating that technical assessments have been carried out.
 
-Annex IX COMPET. ^(2). **EN** 1.7. A national QTB shall be capable of carrying out tasks in relation to matters covered by this Regulation with the highest degree of professional integrity and requisite competence in specific fields, whether such tasks are carried out by the national QTB itself or are being carried out on its behalf and under its responsibility.
+1.7. A national QTB shall be capable of carrying out tasks in relation to matters covered by this Regulation with the highest degree of professional integrity and requisite competence in specific fields, whether such tasks are carried out by the national QTB itself or are being carried out on its behalf and under its responsibility.
 
 When a national QTB delegates part of its tasks, it shall have sufficient internal competence to effectively evaluate the way in which the external party executes such tasks on its behalf.
 
@@ -3103,13 +3061,9 @@ The staff of a national QTB shall observe professional secrecy regarding all inf
 
 1.14. A national QTB shall operate in accordance with fair and reasonable terms and conditions, in particular taking into account the interests of SMEs in relation to fees.
 
-Annex IX COMPET. ^(2). **EN**
-
 2. Specific requirements for national QTBs carrying out tasks of verification and validation of the environmental footprint study
 
 2.1. National QTBs that carry out technical assessment of matters covered by Chapter III of Title IV, shall meet, in addition to the requirements laid down in section I of this Annex, the requirements and shall follow the verification process, as laid down in Section 8 of the Commission recommendation C(2021)9332.
-
-Annex IX COMPET. ^(2). **EN**
 
 <a id="notes"></a>
 ## Notes

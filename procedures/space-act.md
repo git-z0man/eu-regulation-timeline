@@ -1,14 +1,14 @@
 # Legislative procedure – EU Space Act – COM(2025) 335 (proposal)
 
-Procedure 2025/0335(COD), as of 23 Nov 2026.
+Procedure 2025/0335(COD), as of 25 Nov 2026.
 Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web page: [space-act.html](space-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP mandate adopted
-- **Parliament:** mandate 19 Nov 2026
+- **Parliament:** mandate 25 Nov 2026
 - **Council:** working party, latest document 20 Nov 2026
-- **Latest activity:** 20 Nov 2026 · Council: Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26) (CM 5015/26)
+- **Latest activity:** 25 Nov 2026 · European Parliament: Plenary confirms mandate for trilogues
 - **Next steps:** Council mandate for negotiations; then trilogues
 
 ## Events
@@ -19,10 +19,10 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 | 2025-07-01 | Council | Space Working Party meeting (ATTACHES): Presentation by the Commission (doc. ) (10935/25+ADD 1); Impact … | [CM 3393/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3393-2025-REV-1/en/pdf) | Council register, CM 3393/25 REV 1 (notice of meeting and provisional agenda) |
 | 2025-07-14 | Council | Space Working Party meeting (morning only on Tuesday 15 July): Presentation by the Commission (doc. ) … | [CM 3597/25](https://data.consilium.europa.eu/doc/document/CM-3597-2025-INIT/en/pdf) | Council register, CM 3597/25 (notice of meeting and provisional agenda) |
 | 2025-07-29 | European Parliament | ITRE rapporteur appointed (Elena Donazzan, ECR) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29) | EP Open Data API, procedure 2025-0335 (participation RAPPORTEUR) |
-| 2025-09-03 | Council | Space Working Party meeting: Exchange of views (doc. ) (10935/25+ADD 1) | [CM 3839/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3839-2025-REV-1/en/pdf) | Council register, CM 3839/25 REV 1 (notice of meeting and provisional agenda) |
+| 2025-09-02 | Council | Space Working Party meeting: Exchange of views (doc. ) (10935/25+ADD 1) | [CM 3839/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3839-2025-REV-1/en/pdf) | Council register, CM 3839/25 REV 1 (notice of meeting and provisional agenda) |
 | 2025-09-08 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29) | EP Open Data API, procedure 2025-0335 (REFERRAL) |
-| 2025-09-10 | Council | Space Working Party meeting - Attaches level on 10 September: Presentation by the Commission Examination … | [CM 3896/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3896-2025-REV-1/en/pdf) | Council register, CM 3896/25 REV 1 (notice of meeting and provisional agenda) |
-| 2025-09-19 | Council | Space Working Party meeting (full day meeting - Attaches level in the: Presentation by the Commission … | [CM 4053/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4053-2025-REV-1/en/pdf) | Council register, CM 4053/25 REV 1 (notice of meeting and provisional agenda) |
+| 2025-09-09 | Council | Space Working Party meeting - Attaches level on 10 September: Presentation by the Commission Examination … | [CM 3896/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-3896-2025-REV-1/en/pdf) | Council register, CM 3896/25 REV 1 (notice of meeting and provisional agenda) |
+| 2025-09-19 | Council | Space Working Party meeting (full day meeting - Attaches level in the morning): Presentation by the … | [CM 4053/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4053-2025-REV-1/en/pdf) | Council register, CM 4053/25 REV 1 (notice of meeting and provisional agenda) |
 | 2025-09-24 | Council | Space Working Party meeting: Impact assessment – Presentation by the Commission (doc. ADD 2-5) (10935/25); … | [CM 4118/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4118-2025-REV-1/en/pdf) | Council register, CM 4118/25 REV 1 (notice of meeting and provisional agenda) |
 | 2025-10-07 | Council | Space Working Party meeting (ATTACHES): Presentation by the Commission (10935/25+ADD 1) | [CM 4300/25 REV 1](https://data.consilium.europa.eu/doc/document/CM-4300-2025-REV-1/en/pdf) | Council register, CM 4300/25 REV 1 (notice of meeting and provisional agenda) |
 | 2025-10-14 | Council | Space Working Party meeting: Examination (doc. ) (10935/25+ADD 1) | [CM 4496/25](https://data.consilium.europa.eu/doc/document/CM-4496-2025-INIT/en/pdf) | Council register, CM 4496/25 (notice of meeting and provisional agenda) |
@@ -50,7 +50,7 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 | 2026-05-05 | Council | Space Working Party meeting: Presentation by the Commission Exchange of views (7806/26) | [CM 2635/26](https://data.consilium.europa.eu/doc/document/CM-2635-2026-INIT/en/pdf) | Council register, CM 2635/26 (notice of meeting and provisional agenda) |
 | 2026-05-08 | Council | Preparation of the Council (Competitiveness (Internal Market, Industry, Research and … | [ST 8861/26](https://data.consilium.europa.eu/doc/document/ST-8861-2026-INIT/en/pdf) · [en.md](../texts/space-act/2026-05-08_council-progress-report-st-8861-26.en.md) [de.md](../texts/space-act/2026-05-08_council-progress-report-st-8861-26.de.md) | Cellar procedure file 2025/335 (Council register) |
 | 2026-06-02 | Council | Space Working Party meeting (Attachés): Examination (7806/26) | [CM 3014/26](https://data.consilium.europa.eu/doc/document/CM-3014-2026-INIT/en/pdf) | Council register, CM 3014/26 (notice of meeting and provisional agenda) |
-| 2026-07-10 | Council | Space Working Party meeting - full day meeting (ATTACHES LEVEL in: Exchange of views (7806/26) | [CM 3526/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf) | Council register, CM 3526/26 REV 1 (notice of meeting and provisional agenda) |
+| 2026-07-10 | Council | Space Working Party meeting - full day meeting (ATTACHES LEVEL in the afternoon): Exchange of views (7806/26) | [CM 3526/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-3526-2026-REV-1/en/pdf) | Council register, CM 3526/26 REV 1 (notice of meeting and provisional agenda) |
 | 2026-09-01 | Council | Space Working Party meeting: Exchange of views (7806/26) | [CM 3875/26](https://data.consilium.europa.eu/doc/document/CM-3875-2026-INIT/en/pdf) | Council register, CM 3875/26 (notice of meeting and provisional agenda) |
 | 2026-09-11 | Council | Space Working Party meeting (morning only): Exchange of views (7806/26) | [CM 3999/26](https://data.consilium.europa.eu/doc/document/CM-3999-2026-INIT/en/pdf) | Council register, CM 3999/26 (notice of meeting and provisional agenda) |
 | 2026-10-29 | Council | Regulation on the safety, resilience and sustainability of space activities in the Union … | [ST 15118/26](https://data.consilium.europa.eu/doc/document/ST-15118-2026-INIT/en/pdf) · [en.md](../texts/space-act/2026-10-29_council-compromise-st-15118-26.en.md) | Cellar procedure file 2025/335 (Council register) |
@@ -60,6 +60,8 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 | 2026-11-19 | European Parliament | Committee adopts report and mandate | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29) | EP Open Data API, procedure 2025-0335 (COMMITTEE_ADOPTING_REPORT) |
 | 2026-11-20 | Council | Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26) | [CM 5015/26](https://data.consilium.europa.eu/doc/document/CM-5015-2026-INIT/en/pdf) | Council register, CM 5015/26 (notice of meeting and provisional agenda) |
 | 2026-11-20 | European Parliament | Report tabled for plenary | [A10-0314/2026](https://www.europarl.europa.eu/doceo/document/A-10-2026-0314_EN.pdf) · [en.md](../texts/space-act/2026-11-20_ep-report-a10-0314-2026.en.md) | EP Open Data API, procedure 2025-0335 (TABLING_PLENARY) |
+| 2026-11-23 | Council | Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26) | [CM 5104/26](https://data.consilium.europa.eu/doc/document/CM-5104-2026-INIT/en/pdf) | Council register, CM 5104/26 (notice of meeting and provisional agenda) |
+| 2026-11-25 | European Parliament | Plenary confirms mandate for trilogues | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0335%28COD%29) | EP Open Data API, procedure 2025-0335 (PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS) |
 
 ## Documents
 
@@ -125,7 +127,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-20 | [A10-0314/2026](https://www.europarl.europa.eu/doceo/document/A-10-2026-0314_EN.pdf) | ep-report | Report on the proposal for a regulation of the European Parliament and of the Council on the safety, resilience and sustainability of space activities in the …<br>*Our summary:* Report of Parliament's Industry, Research and Energy committee on the EU Space Act proposal, adopted in committee on 19 November 2026 and tabled for plenary on 20 November 2026; it is the committee's text for the plenary vote, not Parliament's position and not law. Like the rapporteur's draft report, it removes the proposal's own cybersecurity regime for space operators (risk management, incident reporting and the resilience annex) and instead extends the space sector of the NIS 2 Directive to all space activities, space services and Union-owned assets, with transposition 24 months after entry into force; unlike the draft, it keeps the link to NIS 2 as a without-prejudice clause and drops the reduced duty to report incidents. It also cuts the authorisation deadline to six months with tacit approval where national law allows (not for launch services), adds a security and defence filter for authorisations, exempts SMEs and research institutions from the environmental footprint rules and deletes the Union Space Label; none of the tracked concepts is touched. | public | – | – | [en](../texts/space-act/2026-11-20_ep-report-a10-0314-2026.en.md) |
 | 2026-11-20 | [WK 18038/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/104892) | council-note | EU Space Act - Space-based data - activities - PowerPoint presentation | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
 
 ## Texts as Markdown
 

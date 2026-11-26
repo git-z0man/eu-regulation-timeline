@@ -1,4 +1,4 @@
-<!-- as_of: 2026-11-25 -->
+<!-- as_of: 2026-11-26 -->
 # EU regulation timeline
 
 When do EU rules on cybersecurity, AI and products start to apply, and what do they
@@ -7,7 +7,7 @@ criticality rating per company profile.
 
 **Interactive page:** <https://git-z0man.github.io/eu-regulation-timeline/>
 
-As of **25 November 2026**. Dates are taken from the legal texts (links open EUR-Lex).
+As of **26 November 2026**. Dates are taken from the legal texts (links open EUR-Lex).
 Criticality is computed from the dates and is an orientation for planning, not legal
 advice. This repository is generated automatically; please do not open pull requests
 against the files.
@@ -56,4 +56,4 @@ Editable in draw.io: [`machinery-builder.drawio`](machinery-builder.drawio) · I
 | 🔵 | [Public Procurement Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) | monitor | proposal or legislative procedure | – | Public buyers of machinery; EU preference and cyber criteria in tenders; excludes high-risk suppliers (CSA2); amends the CRA. |
 | ⚪ | [IMERA – Reg. 2024/2747](http://data.europa.eu/eli/reg/2024/2747/oj) | low | low relevance for this profile | – | Only in an internal market emergency; priority orders, fast-track conformity assessment. |
 | ⚪ | [Net Zero Industry Act](http://data.europa.eu/eli/reg/2024/1735/oj) | low | low relevance for this profile | – | Rules for public buyers and renewable energy auctions (resilience, cyber security pre-qualification); relevant when supplying control systems to net-zero projects. |
-| ⚪ | Quantum Act | low | low relevance for this profile | – | Announced in the Commission Work Programme 2026 (planned for Q2 2026), not yet proposed; with the Cloud and AI Development Act meant to strengthen the EU's digital sovereignty. Relevant where quantum technologies enter machines or tenders. |
+| ⚪ | Quantum Act | low | low relevance for this profile | – | Proposed 25 Nov 2026 (COM(2026) 965). Public procurement of quantum technology restricted to EU-controlled suppliers, subcontractors included; critical components such as lasers, cryogenics or vacuum equipment can be reserved to them by implementing act. Post-quantum cryptography duty in tenders only for public administrations under NIS-2. Matters to suppliers of quantum enabling equipment. |

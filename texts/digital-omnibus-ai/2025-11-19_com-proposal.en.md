@@ -711,9 +711,7 @@ Conformity assessment of high-risk AI systems under this Regulation may require 
     Conformity assessment bodies shall use the lists of codes, categories and corresponding types of AI systems set out in this Annex when specifying the types of AI systems in the application for designation referred to in Article 29 of this Regulation.’.
 
 <a id="art-2"></a>
-### Article 2
-
-Amendments to Regulation (EU) 2018/1139
+### Article 2 – Amendments to Regulation (EU) 2018/1139
 
 Regulation (EU) 2018/1139 is amended as follows:
 
@@ -746,9 +744,7 @@ Regulation (EU) 2018/1139 is amended as follows:
     - ‘3. Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’.
 
 <a id="art-3"></a>
-### Article 3
-
-Entry into force and application
+### Article 3 – Entry into force and application
 
 This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
 

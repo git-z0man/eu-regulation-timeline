@@ -253,9 +253,7 @@ Whereas:
 HAVE ADOPTED THIS REGULATION:
 
 <a id="art-1"></a>
-### Article 1
-
-Amendments to Regulation (EU) 765/2008
+### Article 1 – Amendments to Regulation (EU) 765/2008
 
 Regulation (EU) 765/2008 is amended as follows:
 
@@ -278,9 +276,7 @@ Regulation (EU) 765/2008 is amended as follows:
 ‘1. National accreditation bodies that demonstrate conformity with the criteria laid down in the relevant harmonised standard, the reference of which has been published in the Official Journal of the European Union, or with the criteria laid down in common specifications , by having successfully undergone peer evaluation under Article 10 shall be presumed to fulfil the requirements laid down in Article 8.’.
 
 <a id="art-2"></a>
-### Article 2
-
-Amendments to Regulation (EU) 2016/424
+### Article 2 – Amendments to Regulation (EU) 2016/424
 
 Regulation (EU) 2016/424 is amended as follows:
 
@@ -399,9 +395,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (12) Annexes III to IX are amended in accordance with Annex I to this Regulation.
 
 <a id="art-3"></a>
-### Article 3
-
-Amendments to Regulation (EU) 2016/425
+### Article 3 – Amendments to Regulation (EU) 2016/425
 
 Regulation (EU) No 2016/425 is amended as follows:
 
@@ -514,9 +508,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (12) Annexes II, III, V, VII, VIII, and IX are amended in accordance with Annex II to this Regulation.
 
 <a id="art-4"></a>
-### Article 4
-
-Amendments to Regulation (EU) 2016/426
+### Article 4 – Amendments to Regulation (EU) 2016/426
 
 Regulation (EU) No 2016/426 is amended as follows:
 
@@ -657,9 +649,7 @@ Those implementing acts shall be adopted in accordance with the advisory procedu
 - (13) Annexes III and V are amended in accordance with Annex III to this Regulation.
 
 <a id="art-5"></a>
-### Article 5
-
-Amendments to Regulation (EU) 2023/1230
+### Article 5 – Amendments to Regulation (EU) 2023/1230
 
 Regulation (EU) 2023/1230 is amended as follows:
 
@@ -736,9 +726,7 @@ Regulation (EU) 2023/1230 is amended as follows:
 - (12) Annexes III, V, VII, IX, and X are amended in accordance with Annex IV to this Regulation.
 
 <a id="art-6"></a>
-### Article 6
-
-Amendments to Regulation (EU) 2023/1542
+### Article 6 – Amendments to Regulation (EU) 2023/1542
 
 Regulation (EU) 2023/1542 is amended as follows:
 
@@ -809,9 +797,7 @@ The end-user may, at time of the purchase of the stationary battery energy stora
 - (9) Annexes VIII, IX and XIII are amended in accordance with Annex V to this Regulation.
 
 <a id="art-7"></a>
-### Article 7
-
-Amendments to Regulation (EU) 2024/1781
+### Article 7 – Amendments to Regulation (EU) 2024/1781
 
 Regulation (EU) 2024/1781 is amended as follows:
 
@@ -844,16 +830,12 @@ Regulation (EU) 2024/1781 is amended as follows:
 ‘2. Name, postal address and digital contact of the manufacturer and, where applicable, the manufacturer’s authorised representative.’.
 
 <a id="art-8"></a>
-### Article 8
-
-Transitional provision
+### Article 8 – Transitional provision
 
 Member States shall not impede the making available on the market of products which were placed on the market in accordance with Regulations (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1542 and (EU) 2024/1781 before [OP: please insert 24 months after entry into force of this amending Regulation)].
 
 <a id="art-9"></a>
-### Article 9
-
-Entry into force and application
+### Article 9 – Entry into force and application
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 

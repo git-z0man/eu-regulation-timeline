@@ -28,8 +28,6 @@ Delegations will find in the Annex the text of the mandate for negotiations with
 
 Changes compared to the Commission proposal are marked in **bold** and deletions in ~~strikethrough~~.
 
-GIP.B **EN**
-
 ++**ANNEX**++
 
 2025/0360 (COD)

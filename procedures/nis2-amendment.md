@@ -1,6 +1,6 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 24 Nov 2026.
+Procedure 2026/0012(COD), as of 25 Nov 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 - **Stage:** EP committee stage
 - **Parliament:** draft report 24 Sep 2026
 - **Council:** working party, latest document 23 Nov 2026
-- **Latest activity:** 23 Nov 2026 · Council: Proposal for a Directive of the European Parliament and of the Council amending Directive … (WK 18127/26)
+- **Latest activity:** 23 Nov 2026 · Council: Presentation by the Presidency (WK 18127/26)
 - **Next steps:** 8 Mar 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -61,9 +61,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-09 | [WK 17271/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102335) | council-compromise | Presidency compromise text | not public\* | [Request running ↗](https://www.asktheeu.org/request/council_document_wk_172712026_in) (waiting response) | – | – |
 | 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 | 2026-11-16 | [PE797.654](https://www.europarl.europa.eu/doceo/document/IMCO-AD-797654_EN.pdf) | ep-opinion | Opinion on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures and … | public | – | – | – |
-| 2026-11-23 | [WK 18127/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/105291) | council-note | Proposal for a Directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures and alignment with … | not public\* | – | – | – |
+| 2026-11-23 | [WK 18127/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/105291) | council-note | Presentation by the Presidency | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
 
 ## Texts as Markdown
 

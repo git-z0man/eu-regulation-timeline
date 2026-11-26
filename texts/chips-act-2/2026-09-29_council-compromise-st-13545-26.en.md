@@ -26,8 +26,6 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 In view of the upcoming meeting of the Working Party on Competitiveness and Growth (Industry) on 7 October July 2026, delegations will find in Annex to this note a marked version of the Presidency compromise text on Pillars I and II of the proposed Regulation. Changes in comparison to the Commission proposal, document ST 10094/26 + ADD1, are marked in **bold** for additions and in ~~strikethrough~~ for deletions.
 
-COMPET. ^(1) **LIMITE EN**
-
 ++**ANNEX**++
 
 2026/0139 (COD)
@@ -1193,7 +1191,7 @@ The Chips for Europe Initiative 2.0 shall support large-scale innovative design 
 
 As the strategic backbone of the Chips for Europe Initiative 2.0, the platform shall provide a one-stop entry point, guiding users from design to prototyping and manufacturing, and uniting research, education, and industry. Its ultimate goal shall be to foster a new generation of Union fabless start-ups. Those companies contribute to developing innovative chips for Union user industries, capture the highest value in the semiconductor value chain, drive innovation in fast-growing markets, and reduce the Union’s dependence on foreign design ecosystems.
 
-ANNEX I COMPET. ^(1) **LIMITE EN** Status
+Status
 
 As of May 2026, a wide range of actors has been involved, including a Platform Coordination Team (PCT) ^(1), Design Enablement Teams ^(2), cloud providers, Electronic Design Automation (EDA) vendors, and IP providers. The design platform shall be implemented in a sequential manner: a Platform Coordination Team was first selected and put in place to operate the platform, host the central cloud infrastructure and coordinate user support services. The Design Enablement Teams have also been selected to provide tailored, end-to-end support for users throughout the chip development process. A contractor was selected for the central cloud infrastructure, which will host IP, pilot line Process Design Kits, and open-source EDA tools.
 
@@ -1205,9 +1203,7 @@ Future outlook
 
 The Design Platform shall be continuously upgraded with new design capabilities as it continuously integrates more and more technologies and designs. This may include new open-source processor architectures and other innovative architectures, chiplets, programmable chips, new types of memory, processors, accelerators or low power chips.
 
-1 The Platform Coordination Teams serves as the hosting entity for the Design Platform’s virtual infrastructure and central services, coordinates access to a wide range of tools, assets and services, and assists the Chips JU in procuring the cloud platform. 2 Design enablement teams assist users in setting up and customising design environments and flows, and to deploy Electronic Design Automation tools on the cloud.
-
-ANNEX I COMPET. ^(1) **LIMITE EN** The platform shall also integrate photonics and quantum chips IP, libraries and design automation tools in a fully integrated system approach (see also points 3 and 5 below). It shall also integrate the Process Design Kits (PDKs) of the main pilot lines of the Chips for Europe Initiative 2.0, as well as PDKs of industrial manufacturing facilities (subject to their prior agreement) in order to facilitate designing chips ready to be taped out in such pilot lines and industrial facilities.
+The platform shall also integrate photonics and quantum chips IP, libraries and design automation tools in a fully integrated system approach (see also points 3 and 5 below). It shall also integrate the Process Design Kits (PDKs) of the main pilot lines of the Chips for Europe Initiative 2.0, as well as PDKs of industrial manufacturing facilities (subject to their prior agreement) in order to facilitate designing chips ready to be taped out in such pilot lines and industrial facilities.
 
 The platform shall offer its services via the cloud, maximising access and openness to the whole community by networking existing and new design centres across the Member States. In particular, the platform shall offer support to startups, scaleups, and SMEs. It shall enlarge the Union’s semiconductor ecosystem by integrating with different market sectors, such as health, mobility, energy, telecommunications, security, defence and space. More attention shall be given to industrialisation of innovative components designed on the platform and introduced on lead sectors.
 
@@ -1222,8 +1218,6 @@ Status
 As of May 2026, five pilot lines are operational to varying extents, while more equipment, machinery, and tools are being added to increase the capability and capacity of the pilot lines. The pilot line technology areas were chosen to close the Union’s most critical semiconductor gaps while building on existing strengths, securing long-term competitiveness, security of supply, and industrial resilience. The five pilot lines are the following:
 
 - - sub-2 nm logic anchors the Union in the advanced nodes that power AI, HPC, data centres and next-generation communications;
-
-ANNEX I COMPET. ^(1) **LIMITE EN**
 
 - - FD-SOI capitalises on a field where the Union already leads, delivering low-power, highreliability chips for automotive, mobility, industrial automation, and Internet of Things;
 
@@ -1241,7 +1235,7 @@ Pilot lines shall continue to support experimentation, test, and validation, inc
 
 Current pilot lines shall increasingly focus on industrialisation and deployment of pilot line technologies to support the Union’s semiconductor ecosystem.
 
-ANNEX I COMPET. ^(1) **LIMITE EN** New or upgraded pilot lines may be supported for emerging challenges, such as energy efficient AI chips; leading edge technologies such as CFET devices and monolithic 3D integrated circuits for higher performance and lower power consumption; ferroelectric, resistive and charge based memories enabling ultra-fast and ultra-low power operations**; and cutting-edge application-** **oriented pilot lines focused on first industrial deployment for critical sectors**. **Consideration** **should also be given to emerging opportunities across the value chain.**
+New or upgraded pilot lines may be supported for emerging challenges, such as energy efficient AI chips; leading edge technologies such as CFET devices and monolithic 3D integrated circuits for higher performance and lower power consumption; ferroelectric, resistive and charge based memories enabling ultra-fast and ultra-low power operations**; and cutting-edge application-** **oriented pilot lines focused on first industrial deployment for critical sectors**. **Consideration** **should also be given to emerging opportunities across the value chain.**
 
 Furthermore, new or upgraded pilot testbeds may be supported where different innovative technologies or products are combined and integrated for the development and validation of new devices in key applications and user industries. An example is a testbed for the miniaturisation, advanced optics, and laser projection technologies related to smart glasses. Pilot testbeds shall help identify risks, validate performance, and ensure feasibility in real-world conditions before full industrial-scale deployment. **Such testbeds should facilitate collaboration between industry,** **research organisations, competence centres and end-users.**
 
@@ -1251,7 +1245,7 @@ Context
 
 The Chips for Europe Initiative 2.0 shall support the development of quantum chips and associated technologies, including those based on semiconductor material or integrated with photonics. Dedicated actions shall include design libraries for quantum chips, pilot lines for building quantum chips, and facilities for testing and validating quantum chips produced by the pilot lines. The aim is to provide Union researchers, start-ups and industry with reliable access to facilities capable of producing and validating the main quantum chip technologies.
 
-ANNEX I COMPET. ^(1) **LIMITE EN** Status
+Status
 
 As of May 2026, six quantum chip pilot lines are established, one for each of the leading Union technology platforms: superconducting, spin, photonic, diamond, neutral-atom, and trapped-ion chips. The projects focus on setting up stable pilot-scale fabrication processes, integrating testing and experimentation facilities, developing early industrialisation roadmaps, and laying the groundwork for future scaling.
 
@@ -1260,8 +1254,6 @@ Pilot line Name Coordinator Superconducting SUPREME VTT (FI) Spin SPINS IMEC (BE
 Future outlook
 
 Advanced technology and engineering capacities for quantum chips shall continue to be built out and enhanced. This includes design capabilities, design libraries for quantum chips, pilot lines, testing and experimentation facilities, enabling technologies. Support to first industrialisation efforts of the most mature developments shall also be provided. A differentiation in support shall be made for different technology platforms. Maturation of quantum chip technologies shall lead to increased industrialisation. **Open access to relevant infrastructures and facilities should continue to be** **promoted where appropriate and under fair and transparent conditions.**
-
-ANNEX I COMPET. ^(1) **LIMITE EN**
 
 4. A network of semiconductor competence centres and skills development
 
@@ -1277,8 +1269,6 @@ Future outlook
 
 Semiconductor competence centres shall continue to be supported. The possibility to launch new centres or to refocus existing centres depending on market and technology developments shall be analysed. The cooperation between competence centres in the overall network shall be strengthened, where possible. Furthermore, the support by competence centres on skills development shall be enhanced, including by fostering cooperation with higher education and vocational training providers, by collaborating closely with the Pact for Skills and the skills working group of the Industrial Alliance, and by increasing the visibility and attractiveness of the semiconductor sector. **Competence centres should also support technology transfer, industrial** **uptake of research results and integration of national ecosystems into European** **semiconductor value chains.**
 
-ANNEX I COMPET. ^(1) **LIMITE EN**
-
 5. Advanced design, prototyping, and industrial deployment capacities for photonic integrated circuit technologies
 
 Context
@@ -1292,8 +1282,6 @@ As of May 2026, a pilot line on photonic integrated circuits has been inaugurate
 Future outlook
 
 Photonic integrated circuits and associated technologies shall continue to be supported. This shall include design tools, design libraries, pilot lines, demonstrators, training services. Specific attention shall be dedicated to the transfer and industrial uptake of technologies developed under this component of the Chips for Europe Initiative 2.0.
-
-ANNEX I COMPET. ^(1) **LIMITE EN**
 
 6. Chips Fund activities for access to capital by start-ups, scale-ups, ~~and~~ SMEs **and small** **mid-caps**
 
@@ -1309,8 +1297,6 @@ Future outlook
 
 Whereas attention for startups shall continue, more focus shall be put on scaleups and later stage funding. Considerable funding from the Scaleup Europe Fund for deep-tech scaleups shall be increasingly deployed, leveraging additional private venture capital. **The ‘Chips Fund’, in** **cooperation with similar instruments from Member States, should complement, though not** **exclusively, the transfer and industrial uptake of technologies developed under Operational** **Objectives 1 to 5.** **Industrialisation of pilot-lines technologies is a clear example to coordinate instruments from** **different institutions to enhance and accelerate its market uptake**
 
-ANNEX I COMPET. ^(1) **LIMITE EN**
-
 7. Grand challenges
 
 Context
@@ -1325,23 +1311,15 @@ Future outlook
 
 Possible grand challenges that can be targeted may include the development of new computing technologies for drastic (say times 1000) energy reduction. The grand challenge would result in energy-efficient, secure and distributed AI infrastructures, enabling high-performance AI accelerators (HBM-class memory, stacked logic, optical/RF interconnects), agentic/embodied AI systems, contextual edge intelligence and secure low-power infrastructures. The development of energy-efficient chips, including AI chips, shall also support the grand challenge “pioneering energy- and resource-efficient compute infrastructure, with a view to enhancing their sustainability at scale” as identified under the Cloud and AI Development Act (CADA) ^(3). A close link between the R&I activities to address the two complementary challenges shall be established, including possible coordinated calls for proposals. **Participation from research and knowledge-dissemination** **organisations, industry and innovative SMEs should be encouraged where appropriate.**
 
-3 See Article 4 of the Cloud and AI Development Act
-
-ANNEX I COMPET. ^(1) **LIMITE EN** Another grand challenge shall be the development of processors and accelerators, which are designed and, where appropriate, manufactured in the EU, and that would become part of a cloud and AI stack. This grand challenge shall again be closely linked and contribute to a CADA grand challenge, namely ‘reaching autonomy across the cloud and AI stack, with a view to eliminate dependencies in critical technologies’ ^(4). The grand challenge may target in particular solutions developed by upcoming startups and may include the use of innovation procurement. Again, a close link between the R&I activities to address the two complementary challenges shall be established, including possible coordinated calls for proposals.
+Another grand challenge shall be the development of processors and accelerators, which are designed and, where appropriate, manufactured in the EU, and that would become part of a cloud and AI stack. This grand challenge shall again be closely linked and contribute to a CADA grand challenge, namely ‘reaching autonomy across the cloud and AI stack, with a view to eliminate dependencies in critical technologies’ ^(4). The grand challenge may target in particular solutions developed by upcoming startups and may include the use of innovation procurement. Again, a close link between the R&I activities to address the two complementary challenges shall be established, including possible coordinated calls for proposals.
 
 A third grand challenge may be in physical AI, to provide the foundational technologies to enable a wide range of future applications, services, and autonomous systems from, for example, humanoid to industrial robots and their deployment, in particular, in med-tech and healthcare to manufacturing, aerospace and defence. R&I in physical AI shall lead to advances in mainstream technologies such as power semiconductors, microcontrollers, and analog-/mixed signal- and sensor technologies. R&I shall be followed by industrial production and commercialisation of embedded advanced AI into autonomous machines, robots, broadband networks, and next-generation connected devices. **The activities should support collaboration across the semiconductor value** **chain.**
 
 A fourth grand challenge may be on smart glasses and virtual worlds. A recent Commission Communication sets out the strategy and proposed actions on virtual worlds and Web 4.0 ^(5). In this context, optics, photonics and semiconductor technologies are crucial for realizing sensing and visualization devices supporting Virtual Worlds applications such as smart glasses. R&I shall significantly improve the quality, performance, and efficiency of processing and communicating Virtual Worlds content. A grand challenge for smart glasses shall aim at integrating relevant ultra-low power components, such as power electronics, sensors, cameras, audio devices, lasers, specialty glasses, displays, neuromorphic or AI chips into working prototypes and demonstrators.
 
-Grand challenges may address market targets as well, for example, taping out chips from 100 fabless startups including 10 unicorns by 2035. Another type of grand challenges may address lead
-
-4 See Article 5 of the Cloud and AI Development Act 5 Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, “An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological”, COM(2023) 442 final, 11 July 2023.
-
-ANNEX I COMPET. ^(1) **LIMITE EN** markets and demand stimulation, for example, by developing automotive hardware platforms or the full stack for AI (Giga) Factories. Grand challenges may also address new semiconductor production technologies, for instance increasing recycling and boosting circularity of materials, or the development of advanced ~~semiconductors~~ **chip** cooling technologies. **They should also support** **the participation of innovative start-ups, scale-ups, SMEs and research and knowledge-** **dissemination organisations across the Union.**
+Grand challenges may address market targets as well, for example, taping out chips from 100 fabless startups including 10 unicorns by 2035. Another type of grand challenges may address lead markets and demand stimulation, for example, by developing automotive hardware platforms or the full stack for AI (Giga) Factories. Grand challenges may also address new semiconductor production technologies, for instance increasing recycling and boosting circularity of materials, or the development of advanced ~~semiconductors~~ **chip** cooling technologies. **They should also support** **the participation of innovative start-ups, scale-ups, SMEs and research and knowledge-** **dissemination organisations across the Union.**
 
 Industrialisation of new technologies shall be an essential part of the grand challenges.
-
-ANNEX I COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-ii"></a>
 ## Annex II – Priority areas for strategic projects
@@ -1354,9 +1332,7 @@ Reinforced action should be taken to create a sustained demand for advanced ~~se
 
 This strategic project aims to establish an EU semiconductor plant that combines leading-edge node chip manufacturing with chiplet integration and 2.5D/3D packaging. It shall build on solid research foundations, which have been validated in the Chips for Europe Initiative under the Chips Act. The manufacturing facility shall adhere to European values, including guarantees for confidentiality, integrity and traceability of chips, in particular for sensitive and strategic applications and infrastructure. European companies could help create demand by offering growth incentives for fabless chips and AI-driven system design. Public and private investments are estimated between EUR 20 and 40 billion depending on the option chosen. EUR 3 to 4 billion public and private investments could be mobilised to foster the growth of fabless chip design companies across the EU through funding from under the next MFF, Member States, and relevant industries and private investors.
 
-1 This part expands on a potential implementation of Article 19.
-
-Annex II COMPET. ^(1) **LIMITE EN** This project to be developed in close collaboration with domestic and international stakeholders, including credible technology and manufacturing partners, shall enable the establishment of cutting-edge capacities that reduce structural dependencies on non-EU suppliers, increase supply security for sectors such as AI, defence, space, healthcare, telecoms and automotive, and reinforce the EU’s technological sovereignty.
+This project to be developed in close collaboration with domestic and international stakeholders, including credible technology and manufacturing partners, shall enable the establishment of cutting-edge capacities that reduce structural dependencies on non-EU suppliers, increase supply security for sectors such as AI, defence, space, healthcare, telecoms and automotive, and reinforce the EU’s technological sovereignty.
 
 As a first step, an informal call for expressions of interest may be launched. After analysis of submitted expressions, a call for proposals may follow.
 
@@ -1370,8 +1346,6 @@ This strategic project shall reduce reliance on non-EU suppliers and increase te
 
 As a first step, an informal call for expressions of interest may be launched. After analysis of submitted expressions, a call for proposals may follow.
 
-Annex II COMPET. ^(1) **LIMITE EN**
-
 3. Automotive application processor for autonomous driving
 
 The automotive industry is currently undergoing a pivotal transformation, primarily driven by the emergence of electric, connected, autonomous vehicles. This shift necessitates a more centralised, integrated, and flexible electrical/electronic (E/E) architecture to accommodate the advanced computing needs of autonomous driving systems, ensure seamless vehicle connectivity, support electric vehicle (EV) power management, and enable new mobility services. Currently, European automotive OEMs rely on non-European suppliers for the application processors that enable autonomous driving, which creates dependencies, possible vulnerabilities that can be exploited, as well as potential security risks.
@@ -1380,7 +1354,7 @@ This strategic project aims to design, develop, prototype, and tape-out high-per
 
 The strategic project shall address Europe’s technological sovereignty in automotive AI processors and accelerators. It shall reduce the dependence of European automotive OEMs on foreign suppliers. Take-up of the application processors and accelerators shall create further demand to justify further investments in manufacturing in Europe. **The project should also** **contribute to strengthening European capabilities in semiconductor design, advanced** **packaging and related enabling technologies.**
 
-Annex II COMPET. ^(1) **LIMITE EN** As a first step, an informal call for expressions of interest may be launched. After analysis of submitted expressions, a call for proposals may follow.
+As a first step, an informal call for expressions of interest may be launched. After analysis of submitted expressions, a call for proposals may follow.
 
 4. ~~European~~ **Innovative** memory ~~fabrication facility~~ **stacks**
 
@@ -1388,7 +1362,7 @@ Memory chips, such as DRAM, NAND, and emerging non-volatile memories, are essent
 
 The strategic project for the establishment of a European memory fabrication facility shall require a consortium-based approach, combining public funding from the EU and participating Member States with substantial private investment, likely in the range of EUR 15-30 billion given the capital intensity of modern memory fabs. A European-led joint venture could be considered to build a differentiated position, such as embedded memory, low-power memory, or emerging technologies linked to AI and edge computing. A phased approach may begin with a pilot/R&D line before scaling to high-volume manufacturing, mitigating risk and building capability incrementally.
 
-Annex II COMPET. ^(1) **LIMITE EN** A dedicated call for expressions of interest may be structured to identify industrial partners, technology providers, and Member State hosts willing to commit to this strategic initiative. **The proposals should take into account their contribution to the resilience, technological** **sovereignty and competitiveness of the Union and their ability to create positive spill-** **over effects across the European semiconductor ecosystem.**
+A dedicated call for expressions of interest may be structured to identify industrial partners, technology providers, and Member State hosts willing to commit to this strategic initiative. **The proposals should take into account their contribution to the resilience, technological** **sovereignty and competitiveness of the Union and their ability to create positive spill-** **over effects across the European semiconductor ecosystem.**
 
 5. Leading-edge chip design
 
@@ -1399,8 +1373,6 @@ A strategic project for ~~leading-edge~~ **innovative** chip design shall aim to
 - - Advanced AI accelerators for cloud, edge, and industrial applications (including for geospatial modelling and digital twins)**, while also supporting specialised industrial and** **scientific application domains relevant for European competitiveness**
 
 - - High-performance processors for supercomputing and datacentres
-
-Annex II COMPET. ^(1) **LIMITE EN**
 
 - - Secure-by-design chips for critical infrastructure, defence, aeronautics and space
 
@@ -1416,7 +1388,7 @@ Annex II COMPET. ^(1) **LIMITE EN**
 
 Implementation may take the form of a large-scale public-private partnership mobilising EUR 8-12 billion in combined EU, Member State, and private funding, structured around consortia centred around fabless semiconductor firms, and involving ASIC design houses, Electronic Design Automation tool vendors, IP providers, research ~~institutes~~ **and knowledge-dissemination** **organisations**, and end-user industries (automotive and aeronautical Original Equipment Manufacturers, telecom operators, defence primes). Investment shall cover chip architecture and design teams, advanced design tools and IP libraries, prototyping, verification, software stacks, and industrialisation. The project shall have guaranteed access to advanced fabrication through partnerships with leading foundries or European pilot lines at 2nm and below. A phased approach may begin with capability mapping and target application selection, followed by design and validation programmes, pilot tape-outs, ecosystem development, and commercial deployment, alongside dedicated measures to develop talent and attract world-class engineering expertise. **Participation of research and knowledge-dissemination organisations, competence centres and** **innovative SMEs should be encouraged throughout the project lifecycle.**
 
-Annex II COMPET. ^(1) **LIMITE EN** A call for expression of interest may invite proposals from industrial consortia for leading-edge chip design projects with clear strategic relevance, asking applicants to specify the target application domain, expected technological differentiation, required investment, access to design and manufacturing infrastructure, timeline to prototype and commercialisation, and contribution to Europe’s resilience**, technological sovereignty** and competitiveness.
+A call for expression of interest may invite proposals from industrial consortia for leading-edge chip design projects with clear strategic relevance, asking applicants to specify the target application domain, expected technological differentiation, required investment, access to design and manufacturing infrastructure, timeline to prototype and commercialisation, and contribution to Europe’s resilience**, technological sovereignty** and competitiveness.
 
 6. Strengthening key segments of the value chain
 
@@ -1424,25 +1396,21 @@ The Union faces several vulnerabilities in the semiconductor value chain. Many o
 
 It will not be feasible or practical for the Union to address all possible vulnerabilities in the semiconductor value chain. However, it may be desirable for the Union to have the possibility to reduce some vulnerabilities and strengthen key segments of the value chain, especially when disruptions demonstrated dependencies or when such disruptions are likely to happen.
 
-Annex II COMPET. ^(1) **LIMITE EN** This type of strategic projects aims to strengthen a particular key segment of the semiconductor value chain. Such interventions shall not be limited to the most advanced parts of the value chain, and may address, for instance, the production of mainstream chips, back-end processes, Printed Circuit Board (PCB) **production and** assembly, **advanced packaging,** **integrated-circuit substrates, electronics manufacturing services and system integration** and also materials and equipment. An example of a potential strategic project may be the setup of an OSAT ^(2) facility that would predominantly cater for European user industries. Another example may be the setup of an advanced packaging facility that would complement (new) front-end fabs. The main participants in strategic projects shall be companies headquartered in the Union, and prime investment shall typically, but not necessarily always, take place in the Union. **Support for these segments shall be based on an identified** **strategic dependency, market failure or sub-optimal investment situation and shall** **demonstrate clear Union added value.**
+This type of strategic projects aims to strengthen a particular key segment of the semiconductor value chain. Such interventions shall not be limited to the most advanced parts of the value chain, and may address, for instance, the production of mainstream chips, back-end processes, Printed Circuit Board (PCB) **production and** assembly, **advanced packaging,** **integrated-circuit substrates, electronics manufacturing services and system integration** and also materials and equipment. An example of a potential strategic project may be the setup of an OSAT ^(2) facility that would predominantly cater for European user industries. Another example may be the setup of an advanced packaging facility that would complement (new) front-end fabs. The main participants in strategic projects shall be companies headquartered in the Union, and prime investment shall typically, but not necessarily always, take place in the Union. **Support for these segments shall be based on an identified** **strategic dependency, market failure or sub-optimal investment situation and shall** **demonstrate clear Union added value.**
 
 This type of strategic projects shall address suspected and proven vulnerabilities in the semiconductor value chain. Using targeted actions to strengthen key segments of the value chain shall increase Europe’s technological sovereignty and reduce dependencies on foreign actors.
 
 The European Semiconductor Board shall have a key role in selecting the areas of the value chain where strengthening is needed. As a next step, an informal call for expressions of interest may be launched. After analysis of submitted expressions, a call for proposals may follow.
 
-2 OSATs – Outsourced Semiconductor Assembly and Test – are third-party service providers who specialise in the final, critical stages of chip manufacturing, i.e. packaging the semiconductor die and testing it for functionality before it reaches customers.
-
-Annex II COMPET. ^(1) **LIMITE EN** **1f. Photonic chips and integrated photonics**
+**1f. Photonic chips and integrated photonics**
 
 **Photonics is a key enabling technology for the semiconductor value chain and a** **natural extension of the Chips for Europe Initiative. As electrical interconnects** **reach their bandwidth and energy limits, optical transmission is moving into the** **package itself, making co-packaged optics and optical input/output a precondition** **for scaling artificial intelligence compute and data centres. Photonic integrated** **circuits (PICs) are equally indispensable for fibre-optic and 5G/6G networks,** **satellite and free-space laser communication, LiDAR and industrial sensing,** **medical diagnostics, and for quantum computing, communication and sensing. The** **Union has a world-leading research base, mature technology platforms in indium** **phosphide, silicon nitride and silicon-on-insulator, and strong positions in lasers,** **optical equipment and materials, reinforced by the pilot line for advanced** **photonic integrated circuits established under the Chips Act. These strengths are** **not matched by industrial capacity. The Union has no high-volume PIC** **manufacturing at scale and only very limited capacity for photonic packaging,** **assembly and testing, which is the most cost-determining stage of a photonic** **product. It depends on non-EU suppliers for laser light sources, for the high-speed** **driver, receiver and digital signal processing chips that accompany photonic** **circuits, and for most optical transceiver modules deployed in European networks.** **European photonics companies consequently scale and relocate outside the Union,** **and the value created by European research is captured elsewhere.**
 
-Annex II COMPET. ^(1) **LIMITE EN** **This strategic project aims to convert the Union’s research and pilot-line strengths** **in integrated photonics into industrial capacity. It shall establish first-of-a-kind** **high-volume PIC manufacturing, heterogeneous integration and photonic** **packaging, assembly and test capacity in the Union, covering co-packaged optics** **and photonic chiplets for artificial intelligence compute, European light sources** **and their integration on silicon, optical transceivers for networks and space** **communication, photonic chips for sensing, imaging and diagnostics, quantum** **photonics, and the design ecosystem of process design kits, design automation tools** **and prototyping services for fabless photonic companies. Public and private** **investments are estimated between EUR 4 and 8 billion depending on the option** **chosen, building on the pilot lines of the Chips for Europe Initiative and retaining** **the resulting intellectual property in the Union.**
+**This strategic project aims to convert the Union’s research and pilot-line strengths** **in integrated photonics into industrial capacity. It shall establish first-of-a-kind** **high-volume PIC manufacturing, heterogeneous integration and photonic** **packaging, assembly and test capacity in the Union, covering co-packaged optics** **and photonic chiplets for artificial intelligence compute, European light sources** **and their integration on silicon, optical transceivers for networks and space** **communication, photonic chips for sensing, imaging and diagnostics, quantum** **photonics, and the design ecosystem of process design kits, design automation tools** **and prototyping services for fabless photonic companies. Public and private** **investments are estimated between EUR 4 and 8 billion depending on the option** **chosen, building on the pilot lines of the Chips for Europe Initiative and retaining** **the resulting intellectual property in the Union.**
 
 **This strategic project shall reduce structural dependencies on non-EU suppliers of** **photonic components, light sources and optical modules, increase supply security** **for artificial intelligence infrastructure, connectivity, mobility, healthcare, space** **and defence, and retain in the Union both the economic value and the companies** **emerging from European photonics research. It shall also improve the energy** **efficiency of European digital infrastructure and strengthen the Union’s position** **in quantum technologies, for which integrated photonics is a critical enabler.**
 
 **As a first step, an informal call for expressions of interest may be launched. After** **analysis of submitted expressions, a call for proposals may follow.**
-
-Annex II COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-iii"></a>
 ## Annex III – Measurable indicators to monitor the implementation and to report on the progress of this Regulation towards the achievement of its objectives
@@ -1458,8 +1426,6 @@ General monitoring indicators:
 - - total semiconductor related FDI inflows into the Union;
 
 - - skilled workforce in ~~semiconductor and photonics~~ **chips**, including workforce trained/reskilled through the national chips competence centres’ initiatives;
-
-ANNEX III COMPET. ^(1) **LIMITE EN**
 
 - - public support to start-ups and scale ups**, SMEs and small mid-caps operating across the** **semiconductor value chain**; and
 
@@ -1487,9 +1453,7 @@ First specific monitoring indicators for enhancing the capacity, security of sup
 
 Second specific monitoring indicator for developing a strong user market across key industry sectors: Consumption of chips by key sectors (automotive, energy, health, defence, telecom, AI/data centres/cloud) in value (EUR)**, including uptake of semiconductor technologies developed** **within the Union**.
 
-ANNEX III COMPET. ^(1) **LIMITE EN** Third specific monitoring indicator for increasing intelligence capabilities for crisis preparedness and response: Coverage (in %) of the Union semiconductor value chain monitored by the Business-to-Business Semiconductor Supply Chain Platform.
-
-ANNEX III COMPET. ^(1) **LIMITE EN**
+Third specific monitoring indicator for increasing intelligence capabilities for crisis preparedness and response: Coverage (in %) of the Union semiconductor value chain monitored by the Business-to-Business Semiconductor Supply Chain Platform.
 
 <a id="annex-iv"></a>
 ## Annex IV – Synergies of this Regulation with other programmes
@@ -1512,29 +1476,25 @@ ANNEX III COMPET. ^(1) **LIMITE EN**
 
     - (ii) support to research infrastructures under the pillar ‘Excellent Science’;
 
-ANNEX IV COMPET. ^(1) **LIMITE EN**
+    - (iii) the integration of digital across all the Global Challenges (health, security, energy and mobility, climate, etc.); and
 
-- (iii) the integration of digital across all the Global Challenges (health, security, energy and mobility, climate, etc.); and
+    - (iv) support for scale-up breakthrough innovations under the pillar ‘Innovative Europe’ (many of which will combine digital and other technologies).
 
-- (iv) support for scale-up breakthrough innovations under the pillar ‘Innovative Europe’ (many of which will combine digital and other technologies).
+  - (c) the Chips for Europe Initiative 2.0 is exclusively focusing on building large-scale capacities in ~~semiconductor and quantum~~ **chip** technologies across the Union. It will invest in:
 
-- (c) the Chips for Europe Initiative 2.0 is exclusively focusing on building large-scale capacities in ~~semiconductor and quantum~~ **chip** technologies across the Union. It will invest in:
+    - (i) fostering innovation by supporting two closely interlinked technological capacities that enable designing novel system concepts and their testing and validation in pilot lines**, while facilitating technology transfer**;
 
-  - (i) fostering innovation by supporting two closely interlinked technological capacities that enable designing novel system concepts and their testing and validation in pilot lines**, while facilitating technology transfer**;
+    - (ii) providing targeted support to build training capacity and enhance applied advanced digital competences and skills to support development and deployment of ~~semiconductors~~ **chips** by technology development and end-user industries; and
 
-  - (ii) providing targeted support to build training capacity and enhance applied advanced digital competences and skills to support development and deployment of ~~semiconductors~~ **chips** by technology development and end-user industries; and
+    - (iii) a network of national competence centres, which facilitate access and provide expertise and innovation services to end-user communities and industries, to develop new products and applications and to address market failures.
 
-  - (iii) a network of national competence centres, which facilitate access and provide expertise and innovation services to end-user communities and industries, to develop new products and applications and to address market failures.
+  - (d) the technology capacities of the Chips for Europe Initiative 2.0 will be made available to the research and innovation community, including for actions supported through Horizon Europe;
 
-- (d) the technology capacities of the Chips for Europe Initiative 2.0 will be made available to the research and innovation community, including for actions supported through Horizon Europe;
+  - (e) as the development of novel digital technologies in the area of ~~semiconductors~~ **chip technologies** matures through Horizon Europe, those technologies where possible progressively will be taken up and deployed by the Chips for Europe Initiative 2.0;
 
-- (e) as the development of novel digital technologies in the area of ~~semiconductors~~ **chip technologies** matures through Horizon Europe, those technologies where possible progressively will be taken up and deployed by the Chips for Europe Initiative 2.0;
+  - (f) the Horizon Europe programmes established under Regulation (EU) 2021/695 for the development of skills and competencies curricula, including those delivered at the co-location centres of the European Institute of Innovation & Technology’s Knowledge and Innovation Communities, are complemented by capacity building in advanced applied digital skills and competences in ~~semiconductor and quantum~~ **chip** technologies supported by the Chips for Europe Initiative 2.0;
 
-ANNEX IV COMPET. ^(1) **LIMITE EN**
-
-- (f) the Horizon Europe programmes established under Regulation (EU) 2021/695 for the development of skills and competencies curricula, including those delivered at the co-location centres of the European Institute of Innovation & Technology’s Knowledge and Innovation Communities, are complemented by capacity building in advanced applied digital skills and competences in ~~semiconductor and quantum~~ **chip** technologies supported by the Chips for Europe Initiative 2.0;
-
-- (g) strong coordination mechanisms for programming and implementation are put in place, aligning all procedures for both Horizon Europe and the Chips for Europe Initiative 2.0 to the extent possible; their governance structures will involve all Commission services concerned **and should, where appropriate, facilitate** **synergies with national semiconductor strategies and programmes of the** **Member States**.
+  - (g) strong coordination mechanisms for programming and implementation are put in place, aligning all procedures for both Horizon Europe and the Chips for Europe Initiative 2.0 to the extent possible; their governance structures will involve all Commission services concerned **and should, where appropriate, facilitate** **synergies with national semiconductor strategies and programmes of the** **Member States**.
 
 - (3) Synergies with the proposed Cloud and AI Development Act (CADA) **and European** **High Performance Computing (EuroHPC) Joint Undertaking** shall contribute to a coherent approach to strengthening the Union’s technological sovereignty, by addressing both the supply of and demand for advanced ~~semiconductor~~ **chip** technologies, in particular through:
 
@@ -1542,17 +1502,13 @@ ANNEX IV COMPET. ^(1) **LIMITE EN**
 
   - (b) supporting the deployment of AI Factories and AI Gigafactories: this Regulation shall support the availability of advanced and specialised ~~semiconductors~~ **chips** required for high-performance computing and artificial intelligence applications, thereby enabling the deployment and scaling of AI Factories and AI Gigafactories in the Union and contributing to industrial-scale AI development and scientific capabilities.
 
-ANNEX IV COMPET. ^(1) **LIMITE EN**
+  - (c) supporting secure and resilient digital infrastructures: this Regulation shall contribute to ensuring the availability of components needed for the development of trusted and sovereign cloud and AI environments for critical use cases needed to increase reliance on secure and reliable hardware components by strengthening the resilience and security of semiconductor value chains.
 
-- (c) supporting secure and resilient digital infrastructures: this Regulation shall contribute to ensuring the availability of components needed for the development of trusted and sovereign cloud and AI environments for critical use cases needed to increase reliance on secure and reliable hardware components by strengthening the resilience and security of semiconductor value chains.
+  - (d) supporting the deployment of digital infrastructures based on Union technological capabilities and ~~reduce~~ **reducing** exposure to external dependencies **across strategic** **segments of the semiconductor value chain**;
 
-- (d) supporting the deployment of digital infrastructures based on Union technological capabilities and ~~reduce~~ **reducing** exposure to external dependencies **across strategic** **segments of the semiconductor value chain**;
-
-- (e) contributing to sustainability objectives of digital infrastructure deployment: this Regulation shall support the development and production of resource-efficient and energy-efficient ~~semiconductors~~ **chips** in order to address the growing deployment of data centres and cloud infrastructure which is expected to increase demand for energy-efficient digital technologies; **such support shall be accompanied by** **lifecycle-based assessment of energy, water, cooling, land-use and grid impacts** **of cloud, AI and datacentre deployment, and shall prioritise solutions that** **demonstrably reduce total system-level resource consumption;**
+  - (e) contributing to sustainability objectives of digital infrastructure deployment: this Regulation shall support the development and production of resource-efficient and energy-efficient ~~semiconductors~~ **chips** in order to address the growing deployment of data centres and cloud infrastructure which is expected to increase demand for energy-efficient digital technologies; **such support shall be accompanied by** **lifecycle-based assessment of energy, water, cooling, land-use and grid impacts** **of cloud, AI and datacentre deployment, and shall prioritise solutions that** **demonstrably reduce total system-level resource consumption;**
 
 - (4) Synergies with Union programmes under shared management, including the European Regional Development Fund, the European Social Fund Plus, the European Agricultural Fund for Rural Development and the European Maritime, Fisheries and Aquaculture Fund, shall ensure the development and strengthening of regional and local innovation ecosystems, industrial transformation, as well as the digital transformation of society and of public administrations. This includes support for the digital transformation of industry and the take-up of results, as well as the rolling out of novel technologies and innovative solutions. The Chips for Europe Initiative 2.0 will complement and support the transnational networking and mapping of capacities it will support and make them accessible to SMEs and end-user industries in all Union regions.
-
-ANNEX IV COMPET. ^(1) **LIMITE EN**
 
 - (5) Synergies with the Connecting Europe Facility shall ensure that:
 
@@ -1567,8 +1523,6 @@ ANNEX IV COMPET. ^(1) **LIMITE EN**
   - (a) support through market-based financing, including pursuing policy objectives under the Chips for Europe Initiative 2.0 is provided by Regulation (EU) 2021/523; such market-based financing might be combined with the grant support;
 
   - (b) a blending facility under the InvestEU Fund is supported by financing provided by Horizon Europe or the Digital Europe Programme in the form of financial instruments within blending operations.
-
-ANNEX IV COMPET. ^(1) **LIMITE EN**
 
 - (7) Synergies with Erasmus+ shall ensure that:
 
@@ -1590,11 +1544,9 @@ ANNEX IV COMPET. ^(1) **LIMITE EN**
 
   - (a) actions supported under the Chips for Europe Initiative 2.0 remain coherent with existing State aid and competition rules, including the R&D&I Framework and the IPCEI Communication;
 
-ANNEX IV COMPET. ^(1) **LIMITE EN**
+  - (b) IPCEIs, including the IPCEI candidate on Advanced Semiconductor Technologies (AST), may contribute to bridging research and innovation activities with industrial deployment and manufacturing capacities ~~, thereby complementing the objectives of~~ ~~the Chips for Europe Initiative 2.0~~;
 
-- (b) IPCEIs, including the IPCEI candidate on Advanced Semiconductor Technologies (AST), may contribute to bridging research and innovation activities with industrial deployment and manufacturing capacities ~~, thereby complementing the objectives of~~ ~~the Chips for Europe Initiative 2.0~~;
-
-- (c) the Chips for Europe Initiative 2.0 addresses complementary investment gaps to the support of first-of-a-kind semiconductor manufacturing facilities and related technological capacities.
+  - (c) the Chips for Europe Initiative 2.0 addresses complementary investment gaps to the support of first-of-a-kind semiconductor manufacturing facilities and related technological capacities.
 
 - (11) Synergies with national semiconductor strategies, roadmaps and investment plans shall ensure that:
 
@@ -1603,8 +1555,6 @@ ANNEX IV COMPET. ^(1) **LIMITE EN**
   - (b) national and Union investments contribute to strengthening regional and cross-border semiconductor ecosystems across the Union;
 
   - (c) coordination mechanisms support the mapping of semiconductor capacities and facilitate cooperation between Member States in order to strengthen the resilience of the Union’s semiconductor value chains and avoid unnecessary duplication of investments **and maximise complementarities between national and Union** **initiatives**.
-
-ANNEX IV COMPET. ^(1) **LIMITE EN**
 
 <a id="annex-v"></a>
 ## Annex V – Critical Sectors
@@ -1635,8 +1585,6 @@ ANNEX IV COMPET. ^(1) **LIMITE EN**
 
 - (13) Security
 
-ANNEX V COMPET. ^(1) **LIMITE EN**
-
 <a id="annex-vi"></a>
 ## Annex VI – Industrial sectors using semiconductors
 
@@ -1659,8 +1607,6 @@ ANNEX V COMPET. ^(1) **LIMITE EN**
 - (9) Electronic manufacturing services providers and distributors
 
 - (10) Renewable and low carbon energy systems
-
-13545/26 144 ANNEX VI Industrial sectors COMPET. ^(1) **LIMITE EN** using semiconductors
 
 <a id="notes"></a>
 ## Notes
@@ -1742,3 +1688,19 @@ ANNEX V COMPET. ^(1) **LIMITE EN**
 ^(35) Council Regulation (EU) 2021/1173 of 13 July 2021 on establishing the European High Performance Computing Joint Undertaking and repealing Regulation (EU) 2018/1488 (OJ L 256, 19.7.2021, p. 3, ELI: http://data.europa.eu/eli/reg/2021/1173/oj).
 
 ^(36) Communication from the Commission to the European Parliament, the Council, the European Parliament, the European Economic and Social Committee and the Committee of the Regions, European Skills Agenda for sustainable competitiveness, social fairness and resilience, COM(2020) 274 final.
+
+^(1) The Platform Coordination Teams serves as the hosting entity for the Design Platform’s virtual infrastructure and central services, coordinates access to a wide range of tools, assets and services, and assists the Chips JU in procuring the cloud platform.
+
+^(2) Design enablement teams assist users in setting up and customising design environments and flows, and to deploy Electronic Design Automation tools on the cloud.
+
+^(3) See Article 4 of the Cloud and AI Development Act
+
+^(4) See Article 5 of the Cloud and AI Development Act
+
+^(5) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, “An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological”, COM(2023)
+
+^(442) final, 11 July 2023.
+
+^(1) This part expands on a potential implementation of Article 19.
+
+^(2) OSATs – Outsourced Semiconductor Assembly and Test – are third-party service providers who specialise in the final, critical stages of chip manufacturing, i.e. packaging the semiconductor die and testing it for functionality before it reaches customers.

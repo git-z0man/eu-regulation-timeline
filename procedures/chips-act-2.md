@@ -1,6 +1,6 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 24 Nov 2026.
+Procedure 2026/0139(COD), as of 25 Nov 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
@@ -9,16 +9,26 @@ Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) 
 - **Parliament:** draft report 9 Nov 2026
 - **Council:** working party, latest document 6 Nov 2026
 - **Latest activity:** 9 Nov 2026 · European Parliament: ITRE draft report (PE797.426)
-- **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Next steps:** 1 Dec 2026: IMCO committee meeting (EP committee agenda); 1 Dec 2026: ITRE committee meeting (EP committee agenda); 2 Dec 2026: Deadline for tabling amendments: 02 December 2026, 17.00 (ITRE) (EP committee agenda); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-03 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 504](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0504) · [en.md](../texts/chips-act-2/2026-06-03_com-proposal.en.md) [de.md](../texts/chips-act-2/2026-06-03_com-proposal.de.md) | Cellar (CELEX 52026PC0504) |
+| 2026-07-01 | Council | Working Party on Competitiveness and Growth (Industry): Article by Article examination of the proposal (ST … | [CM 3335/26](https://data.consilium.europa.eu/doc/document/CM-3335-2026-INIT/en/pdf) | Council register, CM 3335/26 (notice of meeting and provisional agenda) |
+| 2026-07-08 | Council | Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the … | [CM 3519/26](https://data.consilium.europa.eu/doc/document/CM-3519-2026-INIT/en/pdf) | Council register, CM 3519/26 (notice of meeting and provisional agenda) |
+| 2026-07-14 | Council | Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the … | [CM 3523/26](https://data.consilium.europa.eu/doc/document/CM-3523-2026-INIT/en/pdf) | Council register, CM 3523/26 (notice of meeting and provisional agenda) |
+| 2026-07-17 | Council | Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the … | [CM 3524/26](https://data.consilium.europa.eu/doc/document/CM-3524-2026-INIT/en/pdf) | Council register, CM 3524/26 (notice of meeting and provisional agenda) |
+| 2026-07-24 | Council | Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the … | [CM 3525/26](https://data.consilium.europa.eu/doc/document/CM-3525-2026-INIT/en/pdf) | Council register, CM 3525/26 (notice of meeting and provisional agenda) |
 | 2026-08-31 | European Parliament | ITRE rapporteur appointed (Oliver Schenk, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29) | EP Open Data API, procedure 2026-0139 (participation RAPPORTEUR) |
+| 2026-09-03 | Council | Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the … | [CM 3874/26](https://data.consilium.europa.eu/doc/document/CM-3874-2026-INIT/en/pdf) | Council register, CM 3874/26 (notice of meeting and provisional agenda) |
+| 2026-09-14 | Council | Working Party on Competitiveness and Growth (Industry): Continuation of Article by Article examination of the … | [CM 4043/26](https://data.consilium.europa.eu/doc/document/CM-4043-2026-INIT/en/pdf) | Council register, CM 4043/26 (notice of meeting and provisional agenda) |
 | 2026-09-14 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0139%28COD%29) | EP Open Data API, procedure 2026-0139 (REFERRAL) |
 | 2026-09-29 | Council | Presidency compromise text | [ST 13545/26](https://data.consilium.europa.eu/doc/document/ST-13545-2026-INIT/en/pdf) · [en.md](../texts/chips-act-2/2026-09-29_council-compromise-st-13545-26.en.md) | Cellar procedure file 2026/139 (Council register) |
+| 2026-10-07 | Council | Working Party on Competitiveness and Growth (Industry): Examination of the Presidency compromise text – Doc. … | [CM 4192/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4192-2026-REV-2/en/pdf) | Council register, CM 4192/26 REV 2 (notice of meeting and provisional agenda) |
+| 2026-10-12 | Council | Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0): Examination of the Presidency … | [CM 4509/26](https://data.consilium.europa.eu/doc/document/CM-4509-2026-INIT/en/pdf) | Council register, CM 4509/26 (notice of meeting and provisional agenda) |
+| 2026-10-29 | Council | Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0): Examination of the Presidency … | [CM 4566/26](https://data.consilium.europa.eu/doc/document/CM-4566-2026-INIT/en/pdf) | Council register, CM 4566/26 (notice of meeting and provisional agenda) |
 | 2026-11-09 | European Parliament | ITRE draft report | [PE797.426](https://www.europarl.europa.eu/doceo/document/ITRE-PR-797426_EN.pdf) · [en.md](../texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) [de.md](../texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.de.md) | EP Open Data API, procedure 2026-0139 (COMMITTEE_TABLING_REPORT) |
 
 ## Documents
@@ -62,7 +72,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-06 | [ST 15512/26](https://data.consilium.europa.eu/doc/document/ST-15512-2026-INIT/en/pdf) | council-note | Opinion of the European Economic and Social Committee (EESC) | public | – | – | – |
 | 2026-11-09 | [PE797.426](https://www.europarl.europa.eu/doceo/document/ITRE-PR-797426_EN.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on a framework of measures for strengthening the Union’s …<br>*Our summary:* Draft report of 9 November 2026 by the rapporteur of the Industry, Research and Energy committee on the Chips Act 2.0 proposal, with 226 amendments covering the whole proposal; it is the rapporteur's draft, not the position of the committee or of Parliament, and not law. It would shorten the permit-granting procedure to six months (extendable once by three months) and extend it to other publicly supported projects in the value chain, add first-buyer commitments for public buyers, an independent Semiconductor Expert Panel for strategic projects, competitive calls for European Semiconductor Regions and a European Semiconductor Strategy, and make the supply chain platform optional and participation in it voluntary. In the domestic-undertaking test it adds as domestic an undertaking holding a valid recognition under the Chips Acts, an IPCEI or another Union programme without a disqualifying change of ownership or control; in public procurement it adds a Commission template for the security of supply declaration, and for risk-prone sectors it requires evidence of significant supply chain risks and makes the dual-sourcing guidance conditional on an economically and technically viable alternative.<br>*Updated 2026-11-18:* Decided points applied (rule, r1, r2): the open point on "mid-cap" adds that the Commission proposal already uses "mid-caps" undefined in Art. 6(2), next to the defined 'small mid-cap' of Art. 2(9), so the draft report inherits the gap; the drafting slips add "organise organise" (Am 110, Art. 14(2)) and "Competition Plan" for the "Competitive Plan" of Art. 29a(4) (Am 171, Art. 29b(2)(g)). Summary unchanged. (source: [PE797.426](https://www.europarl.europa.eu/doceo/document/ITRE-PR-797426_EN.pdf)) | public | – | – | [en](../texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) [de](../texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.de.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
 
 ## Texts as Markdown
 

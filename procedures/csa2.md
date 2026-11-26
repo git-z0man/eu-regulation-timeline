@@ -1,14 +1,14 @@
 # Legislative procedure – Cybersecurity Act 2 – COM(2026) 11 (proposal)
 
-Procedure 2026/0011(COD), as of 24 Nov 2026.
+Procedure 2026/0011(COD), as of 25 Nov 2026.
 Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa2.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 18 Sep 2026
-- **Council:** working party, latest document 12 Nov 2026
-- **Latest activity:** 16 Nov 2026 · Council: Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) – Discussion (WK … (CM 4987/26)
+- **Council:** working party, latest document 24 Nov 2026
+- **Latest activity:** 24 Nov 2026 · Council: Recitals and Title I (General provisions) and VI (Final provisions) - Comments from … (WK 18183/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -54,6 +54,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-11-05 | Council | Horizontal Working Party on Cyber Issues: Presidency second compromise text Title IV (Security of ICT Supply … | [CM 4773/26](https://data.consilium.europa.eu/doc/document/CM-4773-2026-INIT/en/pdf) | Council register, CM 4773/26 (notice of meeting and provisional agenda) |
 | 2026-11-10 | European Parliament | IMCO opinion adopted | [PE796.192](https://www.europarl.europa.eu/doceo/document/IMCO-AD-796192_EN.pdf) | EP Open Data API, procedure 2026-0011 (COMMITTEE_ADOPTING_OPINION) |
 | 2026-11-16 | Council | Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) – Discussion (WK … | [CM 4987/26](https://data.consilium.europa.eu/doc/document/CM-4987-2026-INIT/en/pdf) | Council register, CM 4987/26 (notice of meeting and provisional agenda) |
+| 2026-11-23 | Council | Horizontal Working Party on Cyber Issues: Discussion WK17271/2026 | [CM 5124/26](https://data.consilium.europa.eu/doc/document/CM-5124-2026-INIT/en/pdf) | Council register, CM 5124/26 (notice of meeting and provisional agenda) |
 
 ## Notes
 
@@ -148,8 +149,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-09 | [WK 17268/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/102340) | council-compromise | Presidency fourth compromise text Title II (ENISA) | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017268%2F2026%20INIT%20%28Cybersecurity%20Act%202%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017268%2F2026%20INIT%20of%209%20November%202026%3A%20Presidency%20fourth%20compromise%20text%20Title%20II%20%28ENISA%29%0A%20%20%28interinstitutional%20file%202026%2F0011%28COD%29%2C%20Cybersecurity%20Act%202%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17268-2026-INIT) | – | – |
 | 2026-11-12 | [ST 15800/26](https://data.consilium.europa.eu/doc/document/ST-15800-2026-INIT/en/pdf) | council-note | Opinion of the European Committee of the Regions | public | – | – | – |
 | 2026-11-13 | [PE796.192](https://www.europarl.europa.eu/doceo/document/IMCO-AD-796192_EN.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council on the European Union Agency for Cybersecurity (ENISA), the European … | public | – | – | – |
+| 2026-11-24 | [WK 18183/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/105412) | council-note | Recitals and Title I (General provisions) and VI (Final provisions) - Comments from Austria and other Member States | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2018183%2F2026%20INIT%20%28Cybersecurity%20Act%202%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2018183%2F2026%20INIT%20of%2024%20November%202026%3A%20Recitals%20and%20Title%20I%20%28General%20provisions%29%20and%20VI%20%28Final%20provisions%29%20-%20Comments%20from%20Austria%20and%20other%20Member%20States%0A%20%20%28interinstitutional%20file%202026%2F0011%28COD%29%2C%20Cybersecurity%20Act%202%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-18183-2026-INIT) | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
 
 ## Texts as Markdown
 

@@ -253,9 +253,7 @@ in Erwägung nachstehender Gründe:
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
 <a id="art-1"></a>
-### Artikel 1
-
-Änderung der Verordnung (EU) 765/2008
+### Artikel 1 – Änderung der Verordnung (EU) 765/2008
 
 Die Verordnung (EU) 765/2008 wird wie folgt geändert:
 
@@ -278,9 +276,7 @@ Die Verordnung (EU) 765/2008 wird wie folgt geändert:
 „1. Bei nationalen Akkreditierungsstellen, die die Übereinstimmung mit den Kriterien der jeweiligen harmonisierten Norm, deren Fundstelle im Amtsblatt der Europäischen Union veröffentlicht worden ist, oder mit den in gemeinsamen Spezifikationen festgelegten Kriterien dadurch unter Beweis stellen, dass sie sich erfolgreich der in Artikel 10 festgelegten Beurteilung unter Gleichrangigen unterzogen haben, wird vermutet, dass sie die Anforderungen des Artikels 8 erfüllen.“
 
 <a id="art-2"></a>
-### Artikel 2
-
-Änderung der Verordnung (EU) 2016/424
+### Artikel 2 – Änderung der Verordnung (EU) 2016/424
 
 Die Verordnung (EU) 2016/424 wird wie folgt geändert:
 
@@ -399,9 +395,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 44 Absatz 2 genannt
 - 12. Die Anhänge III bis IX werden gemäß Anhang I der vorliegenden Verordnung geändert.
 
 <a id="art-3"></a>
-### Artikel 3
-
-Änderung der Verordnung (EU) 2016/425
+### Artikel 3 – Änderung der Verordnung (EU) 2016/425
 
 Die Verordnung (EU) Nr. 2016/425 wird wie folgt geändert:
 
@@ -514,9 +508,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 44 Absatz 2 genannt
 - 12. Die Anhänge II, III, V, VII, VIII und IX werden gemäß Anhang II dieser Verordnung geändert.
 
 <a id="art-4"></a>
-### Artikel 4
-
-Änderung der Verordnung (EU) 2016/426
+### Artikel 4 – Änderung der Verordnung (EU) 2016/426
 
 Die Verordnung (EU) Nr. 2016/426 wird wie folgt geändert:
 
@@ -657,9 +649,7 @@ Diese Durchführungsrechtsakte werden gemäß dem in Artikel 42 Absatz 2 genannt
 - 13. Die Anhänge III und V werden entsprechend dem Anhang III der vorliegenden Verordnung geändert.
 
 <a id="art-5"></a>
-### Artikel 5
-
-Änderung der Verordnung (EU) 2023/1230
+### Artikel 5 – Änderung der Verordnung (EU) 2023/1230
 
 Die Verordnung (EU) 2023/1230 wird wie folgt geändert:
 
@@ -736,9 +726,7 @@ Die Verordnung (EU) 2023/1230 wird wie folgt geändert:
 - 12. Die Anhänge III, V, VII, IX und X werden gemäß Anhang IV dieser Verordnung geändert.
 
 <a id="art-6"></a>
-### Artikel 6
-
-Änderungen der Verordnung (EU) 2023/1542
+### Artikel 6 – Änderungen der Verordnung (EU) 2023/1542
 
 Die Verordnung (EU) 2023/1542 wird wie folgt geändert:
 
@@ -809,9 +797,7 @@ Der Endnutzer kann zum Zeitpunkt des Kaufs des stationären Batterie-Energiespei
 - 9. Die Anhänge VIII, IX und XIII werden gemäß Anhang V dieser Verordnung geändert.
 
 <a id="art-7"></a>
-### Artikel 7
-
-Änderung der Verordnung (EU) 2024/1781
+### Artikel 7 – Änderung der Verordnung (EU) 2024/1781
 
 Die Verordnung (EU) 2024/1781 wird wie folgt geändert:
 
@@ -844,16 +830,12 @@ Die Verordnung (EU) 2024/1781 wird wie folgt geändert:
 „(2) Name, Postanschrift und digitale Kontaktdaten des Herstellers und gegebenenfalls seines Bevollmächtigten.“
 
 <a id="art-8"></a>
-### Artikel 8
-
-Übergangsbestimmung
+### Artikel 8 – Übergangsbestimmung
 
 Die Mitgliedstaaten dürfen die Bereitstellung von Produkten auf dem Markt nicht behindern, die im Einklang mit den Verordnungen (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1542 und (EU) 2024/1781 vor dem [Amt für Veröffentlichungen: Bitte Datum einsetzen: 24 Monate nach Inkrafttreten dieser Änderungsverordnung] in Verkehr gebracht wurden.
 
 <a id="art-9"></a>
-### Artikel 9
-
-Inkrafttreten und Geltungsbeginn
+### Artikel 9 – Inkrafttreten und Geltungsbeginn
 
 Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 

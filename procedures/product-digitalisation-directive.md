@@ -1,6 +1,6 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)
 
-Procedure 2025/0133(COD), as of 24 Nov 2026.
+Procedure 2025/0133(COD), as of 25 Nov 2026.
 Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive.svg), [product-digitalisation-directive.pdf](product-digitalisation-directive.pdf) · Web page: [product-digitalisation-directive.html](product-digitalisation-directive.html)
 
 ## Status and next steps
@@ -8,15 +8,20 @@ Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive
 - **Stage:** Provisional agreement (last trilogue 9 Jun 2026)
 - **Parliament:** mandate 11 Mar 2026
 - **Council:** mandate (ST 13233/25 of 26 Sep 2025)
-- **Latest activity:** 18 Nov 2026 · European Parliament: Amendment 001-180 - Reinier Van Lanschot - Report A10-0023/2026 - Amending certain … (A10-0023/1-180)
-- **Next steps:** 24 Nov 2026: Plenary vote scheduled (EP agenda); EP plenary vote on the agreed text (Art. 294(3) TFEU), then Council adoption (Art. 294(4) TFEU), with legal-linguistic revision before or after the vote
+- **Latest activity:** 24 Nov 2026 · European Parliament: Plenary vote
+- **Next steps:** EP plenary vote on the agreed text (Art. 294(3) TFEU), then Council adoption (Art. 294(4) TFEU), with legal-linguistic revision before or after the vote
 
 ## Events
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
 | 2025-05-21 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2025) 503](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0503) · [en.md](../texts/product-digitalisation-directive/2025-05-21_com-proposal.en.md) [de.md](../texts/product-digitalisation-directive/2025-05-21_com-proposal.de.md) | Cellar (CELEX 52025PC0503) |
+| 2025-06-06 | Council | Meeting of the Antici Group ATT. & EXP. (Simplification): Examination of the proposals – 21 (ST 9318/25 + ADD … | [CM 3031/25](https://data.consilium.europa.eu/doc/document/CM-3031-2025-INIT/en/pdf) | Council register, CM 3031/25 (notice of meeting and provisional agenda) |
+| 2025-06-16 | Council | Meeting of the Antici Group (Simplification): Further examination of the proposals – 21 (ST 9318/25 + ADD 1, … | [CM 3123/25](https://data.consilium.europa.eu/doc/document/CM-3123-2025-INIT/en/pdf) | Council register, CM 3123/25 (notice of meeting and provisional agenda) |
 | 2025-07-10 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (REFERRAL) |
+| 2025-07-14 | Council | Meeting of the Antici Group (Simplification): Omnibus IV on digitalisation and common specifications Proposal … | [CM 3550/25](https://data.consilium.europa.eu/doc/document/CM-3550-2025-INIT/en/pdf) | Council register, CM 3550/25 (notice of meeting and provisional agenda) |
+| 2025-09-01 | Council | Meeting of the Antici Group (Simplification): Omnibus IV – Digitalisation and common specifications Proposal … | [CM 3736/25](https://data.consilium.europa.eu/doc/document/CM-3736-2025-INIT/en/pdf) | Council register, CM 3736/25 (notice of meeting and provisional agenda) |
+| 2025-09-11 | Council | Meeting of the Antici Group (Simplification): Omnibus IV – Digitalisation and common specifications Format … | [CM 3942/25](https://data.consilium.europa.eu/doc/document/CM-3942-2025-INIT/en/pdf) | Council register, CM 3942/25 (notice of meeting and provisional agenda) |
 | 2025-09-18 | Consultative bodies | EESC opinion | [CELEX 52025AE1910](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025AE1910) | Cellar procedure file 2025/133 |
 | 2025-09-19 | Council | Mandate for negotiations with the European Parliament | [ST 13018/25](https://data.consilium.europa.eu/doc/document/ST-13018-2025-INIT/en/pdf) · [en.md](../texts/product-digitalisation-directive/2025-09-19_council-position-st-13018-25.en.md) | Cellar procedure file 2025/133 (Council register) |
 | 2025-09-26 | Council | Mandate for negotiations with the European Parliament | [ST 13233/25](https://data.consilium.europa.eu/doc/document/ST-13233-2025-INIT/en/pdf) · [en.md](../texts/product-digitalisation-directive/2025-09-26_council-position-st-13233-25.en.md) | Parliament of Austria, EU database (interinstitutional file 2025/0133(COD)) |
@@ -27,8 +32,12 @@ Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive
 | 2026-02-16 | European Parliament | Report tabled for plenary | [A10-0023/2026](https://www.europarl.europa.eu/doceo/document/A-10-2026-0023_EN.pdf) · [en.md](../texts/product-digitalisation-directive/2026-02-16_ep-report-a10-0023-2026.en.md) [de.md](../texts/product-digitalisation-directive/2026-02-16_ep-report-a10-0023-2026.de.md) | EP Open Data API, procedure 2025-0133 (TABLING_PLENARY) |
 | 2026-03-11 | European Parliament | Plenary confirms mandate for trilogues | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS) |
 | 2026-03-12 | Council | 4-column table | [ST 7208/26](https://data.consilium.europa.eu/doc/document/ST-7208-2026-INIT/en/pdf) · [en.md](../texts/product-digitalisation-directive/2026-03-12_trilogue-st-7208-26.en.md) | Cellar procedure file 2025/133 (Council register) |
+| 2026-03-30 | Council | Meeting of the Antici Group (Simplification): Omnibus IV: Digitalisation Proposal for a Regulation of the … | [CM 2208/26](https://data.consilium.europa.eu/doc/document/CM-2208-2026-INIT/en/pdf) | Council register, CM 2208/26 (notice of meeting and provisional agenda) |
 | 2026-04-15 | Trilogues (informal) | Trilogue | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (INTERINSTITUTIONAL_NEGOTIATION) |
 | 2026-04-23 | Council | Presidency compromise - AGS on 27 April 2026 | [WK 5778/26](https://data.consilium.europa.eu/doc/document/WK-5778-2026-INIT/en/pdf) · [en.md](../texts/product-digitalisation-directive/2026-04-23_council-compromise-wk-5778-26.en.md) | Cellar procedure file 2025/133 (Council register) |
+| 2026-04-27 | Council | Meeting of the Antici Group (Simplification) (morning only): Omnibus IV: Digitalisation and Common … | [CM 2545/26](https://data.consilium.europa.eu/doc/document/CM-2545-2026-INIT/en/pdf) | Council register, CM 2545/26 (notice of meeting and provisional agenda) |
+| 2026-05-11 | Council | Meeting of the Antici Group (Simplification): Omnibus IV a) Small Mid-Caps (SMCs): Directive and Regulation … | [CM 2580/26](https://data.consilium.europa.eu/doc/document/CM-2580-2026-INIT/en/pdf) | Council register, CM 2580/26 (notice of meeting and provisional agenda) |
+| 2026-05-29 | Council | Meeting of the Antici Group (Simplification): Omnibus IV: Digitalisation and Common Specifications Proposal … | [CM 2966/26](https://data.consilium.europa.eu/doc/document/CM-2966-2026-INIT/en/pdf) | Council register, CM 2966/26 (notice of meeting and provisional agenda) |
 | 2026-06-05 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26](https://data.consilium.europa.eu/doc/document/ST-9834-2026-INIT/en/pdf) · [en.md](../texts/product-digitalisation-directive/2026-06-05_council-progress-report-st-9834-26.en.md) | Cellar procedure file 2025/133 (Council register) |
 | 2026-06-09 | Trilogues (informal) | Trilogue | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (INTERINSTITUTIONAL_NEGOTIATION) |
 | 2026-06-12 | Council | Omnibus simplification legislative packages - Progress report | [ST 9834/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-9834-2026-REV-1/en/pdf) · [en.md](../texts/product-digitalisation-directive/2026-06-12_council-progress-report-st-9834-26-rev-1.en.md) [de.md](../texts/product-digitalisation-directive/2026-06-12_council-progress-report-st-9834-26-rev-1.de.md) | Cellar procedure file 2025/133 (Council register) |
@@ -38,6 +47,7 @@ Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive
 | 2026-06-24 | Council | Confirmation of the final compromise text with a view to agreement | [ST 10482/26 REV 2](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) · [en.md](../texts/product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | Cellar procedure file 2025/133 (Council register) |
 | 2026-07-14 | European Parliament | Committee approves provisional agreement | [PE790.896](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790896/IMCO-AG-790896_en.pdf) · [en.md](../texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) | EP Open Data API, procedure 2025-0133 (COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT) |
 | 2026-09-07 | European Parliament | JURI opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (COMMITTEE_ADOPTING_OPINION) |
+| 2026-11-24 | European Parliament | Plenary vote | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (PLENARY_VOTE) |
 
 ## Documents
 
@@ -100,7 +110,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-18 | [A10-0023/1-180](https://www.europarl.europa.eu/doceo/document/A-10-2026-0023-AM-001-180_EN.pdf) | ep-amendments | Amendment 001-180 - Reinier Van Lanschot - Report A10-0023/2026 - Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
 | 2026-11-18 | [A10-0023/181](https://www.europarl.europa.eu/doceo/document/A-10-2026-0023-AM-181-181_EN.pdf) | ep-amendments | Amendment - Anna Cavazzini - Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
 
 ## Texts as Markdown
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
 <rect width="1920" height="1080" fill="#ffffff"/>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family='"Source Sans 3", Helvetica, Arial, sans-serif' x="48" y="48" width="1824" height="984" viewBox="0 0 1800 784" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family='"Source Sans 3", Helvetica, Arial, sans-serif' x="48" y="48" width="1824" height="984" viewBox="0 0 1800 823" preserveAspectRatio="xMidYMid meet">
 <metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:creator>Steffen Zimmermann</dc:creator><dc:source>https://git-z0man.github.io/eu-regulation-timeline/</dc:source><dc:rights>Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0</dc:rights><cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/></cc:Work></rdf:RDF></metadata>
-<rect width="1800" height="784" fill="#ffffff"/>
-<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-24">
+<rect width="1800" height="823" fill="#ffffff"/>
+<g class="procedure" data-route="" data-state="ongoing" data-as_of="2026-11-25">
 <text font-size="18" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="28.3">Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)</tspan></text>
-<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0138(COD). State as of 24 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see cloud-ai-development-act.html).</tspan></text>
+<text font-size="11" fill="#454c53" text-anchor="start"><tspan x="24.0" y="48.9">Procedure 2026/0138(COD). State as of 25 Nov 2026: steps done and in progress are marked. Upper part: the ordinary legislative procedure (Art. 294 TFEU); lower part: the act&#x27;s procedure over time. Every event cites its source (see cloud-ai-development-act.html).</tspan></text>
 <text font-size="13" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="82.5">Ordinary legislative procedure (Art. 294 TFEU)</tspan></text>
 <rect x="1010.0" y="94.0" width="22.0" height="11.0" fill="#e3eeef" stroke="#0f5a63" stroke-width="1.5"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1041.0" y="102.7">route taken / step done</tspan></text>
@@ -75,18 +75,18 @@
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1424.0" y="398.6">phase</tspan></text>
 <line x1="1470.0" y1="388.0" x2="1470.0" y2="403.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
 <text font-size="9" fill="#454c53" text-anchor="start"><tspan x="1480.0" y="398.6">date of this drawing</tspan></text>
-<line x1="210.0" y1="440.0" x2="210.0" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="402.2" y1="440.0" x2="402.2" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="210.0" y1="440.0" x2="210.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="402.2" y1="440.0" x2="402.2" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="402.2" y="435.1">Jul</tspan></text>
-<line x1="600.9" y1="440.0" x2="600.9" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="799.6" y1="440.0" x2="799.6" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="991.8" y1="440.0" x2="991.8" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="600.9" y1="440.0" x2="600.9" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="799.6" y1="440.0" x2="799.6" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="991.8" y1="440.0" x2="991.8" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle"><tspan x="991.8" y="435.1">Oct</tspan></text>
-<line x1="1190.4" y1="440.0" x2="1190.4" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1382.7" y1="440.0" x2="1382.7" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
-<line x1="1581.3" y1="440.0" x2="1581.3" y2="700.0" stroke="#b5bac0" stroke-width="1"/>
+<line x1="1190.4" y1="440.0" x2="1190.4" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1382.7" y1="440.0" x2="1382.7" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1581.3" y1="440.0" x2="1581.3" y2="739.0" stroke="#b5bac0" stroke-width="1"/>
 <text font-size="9" fill="#454c53" text-anchor="middle" font-weight="bold"><tspan x="1581.3" y="435.1">Jan 2027</tspan></text>
-<line x1="1780.0" y1="440.0" x2="1780.0" y2="700.0" stroke="#e3e6e9" stroke-width="1"/>
+<line x1="1780.0" y1="440.0" x2="1780.0" y2="739.0" stroke="#e3e6e9" stroke-width="1"/>
 <rect x="20.0" y="440.0" width="1760.0" height="50.0" fill="#ffffff" stroke="#eceef0"/>
 <rect x="20.0" y="444.0" width="6.0" height="42.0" fill="#2a78d6" stroke="none"/>
 <text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="468.9">European Commission</tspan></text>
@@ -101,15 +101,15 @@
 <rect x="20.0" y="585.0" width="6.0" height="20.0" fill="#eda100" stroke="none" opacity="0.35"/>
 <text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="598.9">Trilogues (informal)</tspan></text>
 <text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="598.1">no events yet</tspan></text>
-<rect x="20.0" y="609.0" width="1760.0" height="63.0" fill="#ffffff" stroke="#eceef0"/>
-<rect x="20.0" y="613.0" width="6.0" height="55.0" fill="#4a3aa7" stroke="none"/>
-<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="644.4">Council</tspan></text>
-<rect x="20.0" y="672.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
-<rect x="20.0" y="676.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
-<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="689.9">Signature and publication</tspan></text>
-<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="689.1">no events yet</tspan></text>
-<line x1="1337.8" y1="440.0" x2="1337.8" y2="700.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
-<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1337.8" y="710.1">as of 24 Nov 2026</tspan></text>
+<rect x="20.0" y="609.0" width="1760.0" height="102.0" fill="#ffffff" stroke="#eceef0"/>
+<rect x="20.0" y="613.0" width="6.0" height="94.0" fill="#4a3aa7" stroke="none"/>
+<text font-size="11" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="34.0" y="663.9">Council</tspan></text>
+<rect x="20.0" y="711.0" width="1760.0" height="28.0" fill="#fafbfc" stroke="#eceef0"/>
+<rect x="20.0" y="715.0" width="6.0" height="20.0" fill="#454c53" stroke="none" opacity="0.35"/>
+<text font-size="11" fill="#8a9097" text-anchor="start"><tspan x="34.0" y="728.9">Signature and publication</tspan></text>
+<text font-size="9" fill="#8a9097" text-anchor="start"><tspan x="222.0" y="728.1">no events yet</tspan></text>
+<line x1="1344.2" y1="440.0" x2="1344.2" y2="739.0" stroke="#0f5a63" stroke-width="2" stroke-dasharray="5 4"/>
+<text font-size="9" fill="#0f5a63" text-anchor="middle" font-weight="bold"><tspan x="1344.2" y="749.1">as of 25 Nov 2026</tspan></text>
 <rect x="218.8" y="453.0" width="253.0" height="12.0" fill="#ffffff"/>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0502" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start" font-weight="bold"><tspan x="222.8" y="462.1">03 Jun 2026 · Commission proposal (COM(2026) 502)</tspan></text></a>
 <a xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0502" target="_blank"><title>3 Jun 2026: Commission proposal – COM(2026) 502</title><polygon points="222.81632653061226,465 230.81632653061226,473 222.81632653061226,481 214.81632653061226,473" fill="#2a78d6" stroke="#14181c" stroke-width="1.5"/></a>
@@ -125,15 +125,28 @@
 <g><title>24 Jun 2026: IMCO rapporteur appointed (Reinier Van Lanschot, VERTS-ALE)</title><polygon points="357.38775510204084,545.5 362.88775510204084,551 357.38775510204084,556.5 351.88775510204084,551" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <g><title>17 Sep 2026: Referral to committee announced in plenary</title><polygon points="902.0816326530612,545.5 907.5816326530612,551 902.0816326530612,556.5 896.5816326530612,551" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></g>
 <a xlink:href="https://www.europarl.europa.eu/doceo/document/CJ18-PR-797430_EN.pdf" target="_blank"><title>17 Nov 2026: CJ18 draft report – PE797.430</title><polygon points="1292.9795918367347,545.5 1298.4795918367347,551 1292.9795918367347,556.5 1287.4795918367347,551" fill="#ffffff" stroke="#1baf7a" stroke-width="1.5"/></a>
-<rect x="1263.3" y="622.0" width="210.1" height="12.0" fill="#ffffff"/>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1267.3" y="631.1">13 Nov 2026 · Progress report (ST 15300/26)</tspan></text></a>
-<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="1120.0" y="659.9">5. UNCITRAL Working Group III: 1 meeting (21 Oct 2026 – 21 Oct 2026; ● each)</tspan></text>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4611-2026-REV-1/en/pdf" target="_blank"><title>21 Oct 2026: 5. UNCITRAL Working Group III: AOB 5.1 EU Cloud and AI Development ACT (CADA) CM 4611/1/26 REV 1 1 EN II. … – CM 4611/26 REV 1</title><polygon points="1119.9591836734694,638.5 1123.4591836734694,642 1119.9591836734694,645.5 1116.4591836734694,642" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf" target="_blank"><title>13 Nov 2026: Progress report – ST 15300/26</title><polygon points="1267.3469387755101,636.5 1272.8469387755101,642 1267.3469387755101,647.5 1261.8469387755101,642" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
-<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="731.9">Notes</tspan></text>
-<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="749.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
+<rect x="1173.6" y="648.0" width="261.8" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14918-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1177.6" y="657.1">30 Oct 2026 · Presidency compromise text (ST 14918/26)</tspan></text></a>
+<rect x="1263.3" y="677.0" width="210.1" height="12.0" fill="#ffffff"/>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf" target="_blank"><text font-size="9" fill="#14181c" text-anchor="start"><tspan x="1267.3" y="686.1">13 Nov 2026 · Progress report (ST 15300/26)</tspan></text></a>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="306.1" y="656.9">Working Party on Telecommunications and Information Society: 5 meetings (16 Jun 2026 – 10 Nov 2026; ● each)</tspan></text>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="844.4" y="643.9">Working Party on Telecommunications Ans Information Society: 1 meeting (8 Sep 2026 – 8 Sep 2026; ● each)</tspan></text>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="1023.8" y="698.9">Attaches of the Working Party on Telecommunications and Information Society: 1 meeting (6 Oct 2026 – 6 Oct 2026; ● each)</tspan></text>
+<text font-size="8.3" fill="#454c53" text-anchor="start"><tspan x="1120.0" y="630.9">Trade Policy Committee: 1 meeting (21 Oct 2026 – 21 Oct 2026; ● each)</tspan></text>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3196-2026-REV-1/en/pdf" target="_blank"><title>16 Jun 2026: Working Party on Telecommunications and Information Society: 2. Third EU-India Trade and Technology Council … – CM 3196/26 REV 1</title><polygon points="306.1224489795918,664.5 309.6224489795918,668 306.1224489795918,671.5 302.6224489795918,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3483-2026-INIT/en/pdf" target="_blank"><title>7 Jul 2026: Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) Title IV: … – CM 3483/26</title><polygon points="440.6938775510204,664.5 444.1938775510204,668 440.6938775510204,671.5 437.1938775510204,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3901-2026-INIT/en/pdf" target="_blank"><title>8 Sep 2026: Working Party on Telecommunications Ans Information Society: Cloud and AI Development Act (CADA) – Public … – CM 3901/26</title><polygon points="844.4081632653061,664.5 847.9081632653061,668 844.4081632653061,671.5 840.9081632653061,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-3965-2026-INIT/en/pdf" target="_blank"><title>22 Sep 2026: Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) – Pillar 3 … – CM 3965/26</title><polygon points="934.1224489795918,664.5 937.6224489795918,668 934.1224489795918,671.5 930.6224489795918,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4246-2026-INIT/en/pdf" target="_blank"><title>29 Sep 2026: Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) – Pillar 1 … – CM 4246/26</title><polygon points="978.9795918367347,664.5 982.4795918367347,668 978.9795918367347,671.5 975.4795918367347,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4449-2026-INIT/en/pdf" target="_blank"><title>6 Oct 2026: Attaches of the Working Party on Telecommunications and Information Society: Cloud and AI Development Act … – CM 4449/26</title><polygon points="1023.8367346938776,664.5 1027.3367346938776,668 1023.8367346938776,671.5 1020.3367346938776,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4611-2026-REV-1/en/pdf" target="_blank"><title>21 Oct 2026: Trade Policy Committee (Experts - Services and Investment): AOB 5.1 EU Cloud and AI Development ACT (CADA) CM … – CM 4611/26 REV 1</title><polygon points="1119.9591836734694,664.5 1123.4591836734694,668 1119.9591836734694,671.5 1116.4591836734694,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-14918-2026-INIT/en/pdf" target="_blank"><title>30 Oct 2026: Presidency compromise text – ST 14918/26</title><polygon points="1177.6326530612246,662.5 1183.1326530612246,668 1177.6326530612246,673.5 1172.1326530612246,668" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/CM-4811-2026-INIT/en/pdf" target="_blank"><title>10 Nov 2026: Working Party on Telecommunications and Information Society: Cloud and AI Development Act (CADA) – first … – CM 4811/26</title><polygon points="1248.1224489795918,664.5 1251.6224489795918,668 1248.1224489795918,671.5 1244.6224489795918,668" fill="#4a3aa7" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<a xlink:href="https://data.consilium.europa.eu/doc/document/ST-15300-2026-INIT/en/pdf" target="_blank"><title>13 Nov 2026: Progress report – ST 15300/26</title><polygon points="1267.3469387755101,662.5 1272.8469387755101,668 1267.3469387755101,673.5 1261.8469387755101,668" fill="#ffffff" stroke="#4a3aa7" stroke-width="1.5"/></a>
+<text font-size="11" fill="#222222" text-anchor="start" font-weight="bold"><tspan x="24.0" y="770.9">Notes</tspan></text>
+<text font-size="9" fill="#6f757b" text-anchor="start"><tspan x="24.0" y="788.1">Labels are shortened; the procedure page lists every event in full with its document and source. Sources: EP Open Data API (procedure events), Cellar procedure file, Council register documents and agendas, EUR-Lex. Our own compilation, not an official record.</tspan></text>
 </g>
-<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="775.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 24 Nov 2026</tspan></text>
+<text font-size="10" fill="#5b646b" text-anchor="end"><tspan x="1776.0" y="814.5">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 25 Nov 2026</tspan></text>
 </svg>
 
 </svg>

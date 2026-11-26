@@ -1,6 +1,6 @@
 # Legislative procedure – New Standardisation Regulation – COM(2026) 780 (proposal)
 
-Procedure 2026/0307(COD), as of 23 Nov 2026.
+Procedure 2026/0307(COD), as of 25 Nov 2026.
 Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standardisation-revision.pdf](standardisation-revision.pdf) · Web page: [standardisation-revision.html](standardisation-revision.html)
 
 ## Status and next steps
@@ -40,7 +40,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-17 | [WK 17663/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103822) | council-note | Member States comments on Chapter III | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017663%2F2026%20INIT%20%28New%20Standardisation%20Regulation%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017663%2F2026%20INIT%20of%2017%20November%202026%3A%20Member%20States%20comments%20on%20Chapter%20III%0A%20%20%28interinstitutional%20file%202026%2F0307%28COD%29%2C%20New%20Standardisation%20Regulation%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17663-2026-INIT) | – | – |
 | 2026-11-19 | [WK 17710/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/104529) | council-note | Chapter 4 and 5/Presentation by the Commission | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-24.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
 
 ## Texts as Markdown
 
@@ -49,6 +49,6 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | Date | Stage | Document | Markdown | Read |
 | --- | --- | --- | --- | --- |
 | 2026-10-06 | com-proposal | [2026-10-06_com-proposal-st-14141-26](http://publications.europa.eu/resource/cellar/dd0d07a2-c1c6-11f1-988f-01aa75ed71a1.0001.03/DOC_1) | [en](../texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal-st-14141-26.en.md) |
-| 2026-10-06 | com-proposal | [CELEX 52026PC0780](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780) | [en](../texts/standardisation-revision/2026-10-06_com-proposal.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal.en.md) |
+| 2026-10-06 | com-proposal | [CELEX 52026PC0780](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780) | [en](../texts/standardisation-revision/2026-10-06_com-proposal.en.md) [de](../texts/standardisation-revision/2026-10-06_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/standardisation-revision/2026-10-06_com-proposal.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

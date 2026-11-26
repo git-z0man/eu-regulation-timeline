@@ -28,8 +28,6 @@ Following the AGS meeting of 15 June 2026, and to facilitate their preparation, 
 
 The Coreper note together with the compromise text will be issued on Monday 22 June 2026.
 
-GIP.B **LIMITE EN**
-
 ++**ANNEX**++
 
 2025/0360 (COD)

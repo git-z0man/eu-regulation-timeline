@@ -28,8 +28,6 @@ Delegations will find in the Annex a Presidency compromise text in relation to t
 
 Additions to the Commission proposal are indicated in **bold**, deletions are marked as ~~strikethrough~~. Changes compared to the Commission Proposal (ST 15698/25) are marked in ++**bold underlined.**++
 
-GIP.B **LIMITE EN**
-
 ++**ANNEX**++
 
 **REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending** **Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854,** ++**(EU) 2022/2554,**++ ++**and (EU) 910/2014**++ **and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards** **the simplification of the digital legislative framework, and repealing Regulations (EU)** **2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus)**

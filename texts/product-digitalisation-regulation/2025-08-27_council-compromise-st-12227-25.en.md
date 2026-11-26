@@ -802,8 +802,6 @@ Annexes III to IX to Regulation (EU) 2016/424 are amended as follows:
 
 ‘The certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, any conditions for its validity, the necessary data for identification of the approved type (subsystem or safety component) and if relevant, descriptions of its functioning.;’
 
-ANNEX I GIP.B **LIMITE EN**
-
 - (2) Annex IV is amended as follows:
 
   - (a) in point 3.1., point (a) is replaced by the following:
@@ -828,9 +826,7 @@ In the absence of such a harmonised standard or common specification, the notifi
 
   - (c) point 5.2. is replaced by the following:
 
-‘5.2. A random sample shall be taken from each lot. All the subsystems or safety components in the sample shall be individually examined and appropriate tests
-
-ANNEX I GIP.B **LIMITE EN** set out in the relevant harmonised standard(s) and/or common specification(s), and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the approved type described in the EU-type examination certificate and with the applicable requirements of this Regulation and to determine whether the lot is accepted or rejected. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
+‘5.2. A random sample shall be taken from each lot. All the subsystems or safety components in the sample shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) and/or common specification(s), and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the approved type described in the EU-type examination certificate and with the applicable requirements of this Regulation and to determine whether the lot is accepted or rejected. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
 - (4) Annex VI is amended as follows:
 
@@ -850,17 +846,17 @@ ANNEX I GIP.B **LIMITE EN** set out in the relevant harmonised standard(s) and/o
 
   - (b) in point 3.2., point (b) is replaced by the following:
 
-ANNEX I GIP.B **LIMITE EN** ‘(b) the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards or common specifications will not be applied in full, the means, including other relevant technical specifications, that will be used to ensure that the essential requirements of this Regulation will be met;;’
+‘(b) the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards or common specifications will not be applied in full, the means, including other relevant technical specifications, that will be used to ensure that the essential requirements of this Regulation will be met;;’
 
-- (c) in point 3.3., first subparagraph, the second sentence is replaced by the following:
+  - (c) in point 3.3., first subparagraph, the second sentence is replaced by the following:
 
 ‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
-- (d) in point 3.6.2., point (a) is replaced by the following:
+  - (d) in point 3.6.2., point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer;;’
 
-- (e) in point 3.6.3, first subparagraph, the second sentence is replaced by the following:
+  - (e) in point 3.6.3, first subparagraph, the second sentence is replaced by the following:
 
 ‘That certificate shall give the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the data necessary for identification of the approved design.;’
 
@@ -872,13 +868,11 @@ ANNEX I GIP.B **LIMITE EN** ‘(b) the technical design specifications, includin
 
   - (a) point 2 is replaced by the following:
 
-ANNEX I GIP.B **LIMITE EN** ‘2. Name, postal address and digital contact of the manufacturer and, where applicable, his authorised representative:;’
+‘2. Name, postal address and digital contact of the manufacturer and, where applicable, his authorised representative:;’
 
-- (b) point 6 is replaced by the following:
+  - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared:.’
-
-ANNEX I GIP.B **LIMITE EN**
 
 <a id="annex-ii"></a>
 ## Annex II
@@ -907,35 +901,33 @@ Annexes II, III, V, VII, VIII, and IX to Regulation (EU) 2016/425 are amended as
 
   - (a) in point 3., point (a) is replaced by the following:
 
-ANNEX II GIP.B **LIMITE EN** ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
+‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
 
-- (b) in point 4, points (d) to (f) are replaced by the following:
+  - (b) in point 4, points (d) to (f) are replaced by the following:
 
 ‘(d) verify that the specimen(s) have been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards or common specifications as well as the elements which have been designed in accordance with other technical specifications;
 
-  - (e) carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards or common specifications, these have been applied correctly;
+    - (e) carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards or common specifications, these have been applied correctly;
 
-  - (f) carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer, including those in other technical specifications applied, meet the corresponding essential health and safety requirements and have been applied correctly.;’
+    - (f) carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer, including those in other technical specifications applied, meet the corresponding essential health and safety requirements and have been applied correctly.;’
 
-- (c) point 6.2., is amended as follows:
+  - (c) point 6.2., is amended as follows:
 
-  - (i) point (b) is replaced by the following:
+    - (i) point (b) is replaced by the following:
 
 ‘(b) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, the latter's name, postal address and digital contact;;’
 
-  - (ii) point (e) is replaced by the following:
+    - (ii) point (e) is replaced by the following:
 
 ‘(e) where harmonised standards or common specifications have been fully or partially applied, the references of those standards or specifications or parts thereof;;’
 
-ANNEX II GIP.B **LIMITE EN**
+  - (d) point 7.6. is amended as follows:
 
-- (d) point 7.6. is amended as follows:
-
-  - (i) point (a) is replaced by the following:
+    - (i) point (a) is replaced by the following:
 
 ‘(a) his name, postal address and digital contact and data identifying the EU type-examination certificate concerned;;’
 
-  - (ii) point (b) is replaced by the following:
+    - (ii) point (b) is replaced by the following:
 
 ‘(b) confirmation that there has been no modification to the approved type as referred to in point 7.2, including materials, sub-components or subassemblies, nor to the relevant harmonised standards or common specifications or other technical specifications applied;;’
 
@@ -953,9 +945,9 @@ ANNEX II GIP.B **LIMITE EN**
 
   - (a) in point 3.1., point (a) is replaced by the following:
 
-ANNEX II GIP.B **LIMITE EN** ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
+‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
 
-- (b) in point 3.3., the second subparagraph is replaced by the following:
+  - (b) in point 3.3., the second subparagraph is replaced by the following:
 
 ‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
@@ -968,8 +960,6 @@ ANNEX II GIP.B **LIMITE EN** ‘(a) the name, postal address and digital contact
   - (b) point 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used, including the date of the standard **or common specification**, or references to the other technical specifications, including the date of the specification, in relation to which conformity is declared:.’
-
-ANNEX II GIP.B **LIMITE EN**
 
 <a id="annex-iii"></a>
 ## Annex III
@@ -996,47 +986,47 @@ Annexes III and V to Regulation (EU) 2016/426 are amended as follows:
 
 ‘1.4.3. carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards or common specifications, these have been applied correctly;
 
-ANNEX III GIP.B **LIMITE EN** 1.4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential requirements of this Regulation;;’
+1.4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards or common specifications have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential requirements of this Regulation;;’
 
-- (c) in point 1.6., first subparagraph, the second sentence is replaced by the following:
+  - (c) in point 1.6., first subparagraph, the second sentence is replaced by the following:
 
 ‘The certificate shall contain the name, postal address and digital contact of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity, the necessary data for identification of the approved type, such as the type of gas, appliance category and gas supply pressure, and, if relevant, descriptions of its functioning.;’
 
-- (d) In point 2.3, first subparagraph, the second sentence is replaced by the following:
+  - (d) In point 2.3, first subparagraph, the second sentence is replaced by the following:
 
 ‘An adequate sample of the final appliances or fittings taken on site by the notified body before the placing on the market, shall be examined and appropriate tests as identified by the relevant parts of the harmonised standards, and/or common specifications, and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to check the conformity of the appliance or the fitting with the relevant requirements of this Regulation.;’
 
-- (e) in point 3.3.1., point (a) is replaced by the following:
+  - (e) in point 3.3.1., point (a) is replaced by the following:
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
 
-- (f) in point 3.3.3., the second subparagraph is replaced by the following:
+  - (f) in point 3.3.3., the second subparagraph is replaced by the following:
 
 ‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
-- (g) in point 4.3.1., point (a) is replaced by the following:
+  - (g) in point 4.3.1., point (a) is replaced by the following:
 
-ANNEX III GIP.B **LIMITE EN** ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
+‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by the authorised representative, his name, postal address and digital contact as well;;’
 
-- (h) in point 4.3.3., the second subparagraph is replaced by the following:
+  - (h) in point 4.3.3., the second subparagraph is replaced by the following:
 
 ‘It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard or common specification.;’
 
-- (i) point 5.4.1. is replaced by the following:
+  - (i) point 5.4.1. is replaced by the following:
 
 ‘5.4.1. All appliances or fittings shall be individually examined and appropriate tests set out in the relevant harmonised standard(s), and/or common specifications, and/or equivalent tests set out in other relevant technical specifications shall be carried out in order to verify conformity with the approved type described in the EU type-examination certificate and with the appropriate requirements of this Regulation.
 
 In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
-- (j) point 5.5.2. is replaced by the following:
+  - (j) point 5.5.2. is replaced by the following:
 
 ‘5.5.2. A random sample shall be taken from each lot in accordance with the requirements of point 5.5.3. All appliances or fittings in a sample shall be individually examined and appropriate tests set out in the relevant harmonised standard(s), and/or common specification(s), and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the applicable requirements of this Regulation and to determine whether the lot is accepted or rejected. In the absence of such a harmonised standard or common specification, the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
-- (k) in point 6.2.1., point (d) is replaced by the following:
+  - (k) in point 6.2.1., point (d) is replaced by the following:
 
-ANNEX III GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, ~~or~~ **and** a list of common specifications, applied in full or in part, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied.;’
+‘(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, ~~or~~ **and** a list of common specifications, applied in full or in part, and, where those harmonised standards or common specifications have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards or common specifications, the technical documentation shall specify the parts which have been applied.;’
 
-- (l) in point 6.4., the first subparagraph is replaced by the following:
+  - (l) in point 6.4., the first subparagraph is replaced by the following:
 
 ‘A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant harmonised standards or common specifications and/or equivalent tests set out in other relevant technical specifications, to check the conformity of the appliances or fittings with the applicable requirements of this Regulation, or have them carried out. In the absence of such a harmonised standard or common specification the notified body concerned shall decide on the appropriate tests to be carried out.;’
 
@@ -1049,8 +1039,6 @@ ANNEX III GIP.B **LIMITE EN** ‘(d) a list of the harmonised standards applied 
   - (b) paragraph 6 is replaced by the following:
 
 ‘6. References to the relevant harmonised standards or common specifications used or references to the other technical specifications in relation to which conformity is declared.’
-
-ANNEX III GIP.B **LIMITE EN**
 
 <a id="annex-iv"></a>
 ## Annex IV
@@ -1087,7 +1075,7 @@ Annexes III, V, VII, IX, and X to Regulation (EU) 2023/1230 are amended as follo
 
   - (b) in Part B, point 2 is replaced by the following:
 
-ANNEX IV GIP.B **LIMITE EN** ‘2. Name, postal address and digital contact of the manufacturer and, where applicable, its authorised representative.;’
+‘2. Name, postal address and digital contact of the manufacturer and, where applicable, its authorised representative.;’
 
 - (3) Annex VII is amended as follows:
 
@@ -1113,8 +1101,6 @@ ANNEX IV GIP.B **LIMITE EN** ‘2. Name, postal address and digital contact of t
 
 ‘(a) the name, postal address and digital contact of the manufacturer and, if the application is lodged by an authorised representative, the name, postal address and digital contact of that authorised representative;.’
 
-ANNEX IV GIP.B **LIMITE EN**
-
 <a id="annex-v"></a>
 ## Annex V
 
@@ -1131,8 +1117,6 @@ Annexes VIII, IX and XIII to Regulation (EU) 2023/1542 are amended as follows:
 - (3) in Annex XIII, point 1, the following point (t) is added:
 
 ‘(t) ‘clear, understandable and readable instructions for use in a format that makes it possible to print, download and save them on an electronic device so that the user can access them at all times, in particular during a breakdown of the battery (only for stationary battery energy storage systems).’
-
-ANNEX V GIP.B **LIMITE EN**
 
 <a id="notes"></a>
 ## Notes

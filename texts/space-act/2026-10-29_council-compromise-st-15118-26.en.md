@@ -30,8 +30,6 @@ Please note that the numbering of the Commission proposal remains unchanged unti
 
 It is understood that all delegations have entered a scrutiny reservation.
 
-COMPET. ^(2). **EN**
-
 ++**ANNEX**++
 
 2025/0335 (COD)
@@ -2078,7 +2076,7 @@ For the European Parliament For the Council The President The President [...]
 
 - (c) whether the spacecraft is active.
 
-Annex I COMPET. ^(2). **EN** 1.3. Casualty risk
+1.3. Casualty risk
 
 The casualty risk at launch and at re-entry shall be limited by the application of the following measures:
 
@@ -2104,8 +2102,6 @@ The casualty risk at launch and at re-entry shall be limited by the application 
 
   - (iii) risk for the recovery phase of reusable launch vehicle elements.
 
-Annex I COMPET. ^(2). **EN**
-
 <a id="annex-iii"></a>
 ## Annex III – GROUND SEGMENT SOFTWARE REFERRED TO IN ARTICLE 63
 
@@ -2124,8 +2120,6 @@ Annex I COMPET. ^(2). **EN**
 2.3. The ground segment shall be able to process any relevant CCSDS data format, and in particular Orbital ephemerides Messages (OEM) and Conjunction Data Messages (CDM), for the collision avoidance operations.
 
 For the purpose of Annex III and IV, ‘conjunction data messages’ means information about a conjunction between two space objects.
-
-Annex III COMPET. ^(2). **EN**
 
 <a id="annex-iv"></a>
 ## Annex IV – COLLISION AVOIDANCE REFERRED TO IN ARTICLES 15 AND 64
@@ -2150,7 +2144,7 @@ The CA system shall be either external or in-house, provided that in the case of
 
 - (c) The CA provider shall be able to compute covariance information in exceptional cases when not included in the data source.
 
-Annex IV COMPET. ^(2). **EN** 1.3. Requirements regarding data Quality Check
+1.3. Requirements regarding data Quality Check
 
 - (a) The CA provider shall perform data quality checks to assess the data from space operators.
 
@@ -2175,8 +2169,6 @@ Annex IV COMPET. ^(2). **EN** 1.3. Requirements regarding data Quality Check
   - (v) allowing that mitigation actions decrease the risk level of the conjunctions to be mitigated, and do not unduly increase the risk level of other conjunctions.
 
 - (d) The CA provider shall use collision probability estimation techniques whose soundness is generally accepted, such as those used by the EU-SST CA entity, and appropriate for a given encounter.
-
-Annex IV COMPET. ^(2). **EN**
 
 - (e) The CA provider shall be able to coordinate with other CA providers, especially in case of high-interest event.
 
@@ -2208,13 +2200,9 @@ The recommended time interval shall be once per day, per GEO spacecraft, and onc
 
 - (a) as regards the elements related to the safety distance requirement, the limit above which the risk of collision is considered high enough to trigger a high-interest event alert and a statement of the reasons for setting that limit;
 
-Annex IV COMPET. ^(2). **EN**
-
 - (b) specific requirements according to the different phases of the mission (launch, transit, passivation, EOL-operations).
 
 2.8 In the case of non-manoeuvrable spacecraft, Union spacecraft operators shall meet the requirements referred to in point 2.7 and shall cooperate with the EU-SST CA entity under best efforts.
-
-Annex IV COMPET. ^(2). **EN**
 
 <a id="annex-v"></a>
 ## Annex V – SPACECRAFT SPACE DEBRIS MITIGATION REFERRED TO IN ARTICLE 70
@@ -2242,8 +2230,6 @@ Annex IV COMPET. ^(2). **EN**
 - (2) through soft passivation in accordance with the conditions set out in the implementing act referred to in Article 70(3), point (b).
 
 - (vi) Union spacecraft operators shall deactivate the parts of the spacecraft that produce energy.
-
-Annex V COMPET. ^(2). **EN**
 
 - (vii) Following the passivation there shall be no more radioelectric emissions of the platform and the payload.
 
@@ -2273,7 +2259,7 @@ Annex V COMPET. ^(2). **EN**
 
 3.2.1. Spacecraft shall be designed to support end-of-life disposal through the means referred to in point 3.3.
 
-Annex V COMPET. ^(2). **EN** 3.2.2. Disposal capabilities shall be planned and checked at the design stage. For LEO space missions, this shall include designing for the type of planned re-entry.
+3.2.2. Disposal capabilities shall be planned and checked at the design stage. For LEO space missions, this shall include designing for the type of planned re-entry.
 
 3.2.3. Disposal capabilities shall be available at any time of the space mission.
 
@@ -2300,8 +2286,6 @@ For the purpose of point (b), ‘end of space mission’ means the phase when a 
 3.5.2. Union spacecraft operators shall demonstrate that the risk of in-orbit collision with crewed stations is minimised:
 
 - (i) as of three days after injection into space;
-
-Annex V COMPET. ^(2). **EN**
 
 - (ii) during any phase of the space mission; and
 
@@ -2333,7 +2317,7 @@ Annex V COMPET. ^(2). **EN**
 
 - (d) the rotating mechanisms.
 
-Annex V COMPET. ^(2). **EN** 4.1.2. When drawing-up the debris control plan, a system level risk assessment approach shall be used.
+4.1.2. When drawing-up the debris control plan, a system level risk assessment approach shall be used.
 
 4.1.3. The debris control plan shall list at least the following:
 
@@ -2363,8 +2347,6 @@ The Union spacecraft operator shall develop a failure response plan that shall i
 
 - (f) a removal plan that assesses the possibility of removal to be carried out by an ISOS service provider.
 
-Annex V COMPET. ^(2). **EN**
-
 <a id="annex-vi"></a>
 ## Annex VI – CONSTELLATIONS REFERRED TO IN ARTICLE 73
 
@@ -2388,8 +2370,6 @@ Annex V COMPET. ^(2). **EN**
 
 - (a) the debris control plan referred to in Article 70(2), point (a), shall include an analysis that demonstrate that specific care has been taken to avoid collision with the international space stations for any phase of the space mission;
 
-Annex VI COMPET. ^(2). **EN**
-
 - (b) a report shall analyse, after one year of operation, the probability of intra and intercollision risks, and compare it with the one calculated at the time of the granting of the EUSA certification;
 
 - (c) Union spacecraft operators shall, after one year of operation, demonstrate the effectiveness of measures taken to address the optical and electromagnetical interference which have been explained in their application for EUSA certification. If such measures are not effective, Union spacecraft operators shall initiate the development of technical solutions through research to diminish the measured consequences for their next generation spacecraft in the respective constellation;
@@ -2399,8 +2379,6 @@ Annex VI COMPET. ^(2). **EN**
   - (i) prepare a plan for transit and demonstrate that the probability of collision is limited;
 
   - (ii) report on the functioning of vital systems is due before reaching operational orbit.
-
-Annex VI COMPET. ^(2). **EN**
 
 <a id="annex-viii"></a>
 ## Annex VIII – IN-SPACE OPERATIONS AND SERVICES (ISOS) REFERRED TO IN ARTICLE 101
@@ -2423,7 +2401,7 @@ Annex VI COMPET. ^(2). **EN**
 
 For the purpose of this Annex, ‘ISOS operation’ means the execution of the planned ISOS tasks involving one or more space objects and ‘ISOS servicer spacecraft’ means a spacecraft specifically designed for the purpose of providing specific ISOS.
 
-Annex VIII COMPET. ^(2). **EN** 1.2. Coordination of control centres
+1.2. Coordination of control centres
 
 - (a) The respective control centres of the ISOS servicer spacecraft and the client object shall ensure appropriate coordination, by sharing all data, including the telemetry, that is necessary to ensure the safety of the respective operations.
 
@@ -2447,9 +2425,7 @@ and, where such prevention is not possible or is not immediately possible, shall
 
 2.2.2. The Union ISOS provider shall define in the operational concept a safe zone where presence of a third party will lead to non-engagement or withdrawal of the ongoing ISOS operation.
 
-2.2.3. Where anomalies occur, or where unforeseen events, including those caused by the carrying out of ISOS, lead to potential adverse impact on third-party space objects, the
-
-Annex VIII COMPET. ^(2). **EN** Union ISOS provider shall immediately notify the space operator of the third-party space object impacted.
+2.2.3. Where anomalies occur, or where unforeseen events, including those caused by the carrying out of ISOS, lead to potential adverse impact on third-party space objects, the Union ISOS provider shall immediately notify the space operator of the third-party space object impacted.
 
 2.2.4. The Union ISOS provider shall closely cooperate with the EU-SST CA entity, including in the service operation phase.
 
@@ -2464,8 +2440,6 @@ Annex VIII COMPET. ^(2). **EN** Union ISOS provider shall immediately notify the
 2.4. Qualification of the system and servicing concept - Prior testing
 
 Except for non-reversible ISOS operations, Union ISOS providers shall, for the purposes of ascertaining the proper system functioning for the planned ISOS, carry out tests in orbit at least before engaging in the first service operation or in the first step and only if no danger is posed to any other space object.
-
-Annex VIII COMPET. ^(2). **EN**
 
 <a id="annex-ix"></a>
 ## Annex IX – QUALIFIED TECHNICAL BODIES REFERRED TO IN ARTICLE 32a
@@ -2489,8 +2463,6 @@ Annex VIII COMPET. ^(2). **EN**
 - (c) it has policies and procedures to distinguish between the tasks it carries out in that capacity and any other tasks;
 
 - (d) the QTB, its top-level management, and its personnel responsible for carrying out technical assessment activities does not engage in any activity that may conflict with the independence of judgement or the requirement of integrity, notably consultancy services;
-
-Annex IX COMPET. ^(2). **EN**
 
 - (e) the remuneration of the top-level management and of the personnel of the QTB carrying out technical assessment tasks shall not depend on the number or results of technical assessments being carried out;
 
@@ -2518,7 +2490,7 @@ The organisational structure and operation of a QTB, as well as the allocation o
 
 - (d) the authority, where appropriate, to draw up certificates, records and reports demonstrating that technical assessments have been carried out.
 
-Annex IX COMPET. ^(2). **EN** 1.7. A QTB shall be capable of carrying out tasks in relation to matters covered by this Regulation with the highest degree of professional integrity and requisite competence in specific fields, whether such tasks are carried out by the QTB itself or are being carried out by an external party on its behalf and under its responsibility.
+1.7. A QTB shall be capable of carrying out tasks in relation to matters covered by this Regulation with the highest degree of professional integrity and requisite competence in specific fields, whether such tasks are carried out by the QTB itself or are being carried out by an external party on its behalf and under its responsibility.
 
 When a QTB delegates part of its tasks, it shall have sufficient internal competence to effectively evaluate the way in which the external party executes such tasks on its behalf.
 
@@ -2530,15 +2502,13 @@ When a QTB delegates part of its tasks, it shall inform the authority referred t
 
 The staff of a QTB shall observe professional secrecy regarding all information obtained in carrying out the tasks in relation to matters covered by this Regulation.
 
-Annex IX COMPET. ^(2). **EN** 1.10. Where appropriate, the staff of a QTB shall hold or be in a position to obtain in due time, a valid personnel security clearance certificate.
+1.10. Where appropriate, the staff of a QTB shall hold or be in a position to obtain in due time, a valid personnel security clearance certificate.
 
 1.11. A QTB shall hold an appropriate liability insurance for carrying out its technical assessment activities.
 
 1.12. A QTB shall participate in the coordination activities as referred to in Article 39.
 
 1.13. A QTB shall take part, directly or through representation, in the activities of the European standardisation organisations.
-
-Annex IX COMPET. ^(2). **EN**
 
 <a id="notes"></a>
 ## Notes

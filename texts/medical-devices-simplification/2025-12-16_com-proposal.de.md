@@ -452,9 +452,7 @@ in Erwägung nachstehender Gründe:
 HABEN FOLGENDE VERORDNUNG ERLASSEN:
 
 <a id="art-1"></a>
-### Artikel 1
-
-Änderungen der Verordnung (EU) 2017/745
+### Artikel 1 – Änderungen der Verordnung (EU) 2017/745
 
 Die Verordnung (EU) 2017/745 wird wie folgt geändert:
 
@@ -553,9 +551,7 @@ Die Verordnung (EU) 2017/745 wird wie folgt geändert:
       Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Prüfverfahren erlassen.
 
 <a id="ins-art-4"></a>
-### Artikel 4
-
-Rechtlicher Status von Produkten
+### Artikel 4 – Rechtlicher Status von Produkten
 
   - (1) Die zuständigen Behörden der Mitgliedstaaten koordinieren ihre Tätigkeiten, wenn sie feststellen, ob ein bestimmtes Produkt, eine Produktkategorie oder eine Produktgruppe unter die Begriffsbestimmung ‚Medizinprodukt‘ gemäß Artikel 2 Nummer 1 oder unter die Begriffsbestimmung ‚Zubehör eines Medizinprodukts‘ gemäß Artikel 2 Nummer 2 fällt oder ob ein Produkt in den Anwendungsbereich von Anhang XVI fällt oder das Zubehör eines in diesem Anhang aufgeführten Produkts ist.
 
@@ -1174,9 +1170,7 @@ Koordinierung der Benannten Stellen
   - (4) Alle nach dieser Verordnung und nach der Verordnung (EU) 2017/746 Benannten Stellen befolgen einen von der Koordinierungsgruppe ausgearbeiteten und von der Koordinierungsgruppe Medizinprodukte genehmigten Verhaltenskodex. Im Verhaltenskodex sind die Grundsätze des öffentlichen Interesses, der höchsten fachlichen Kompetenz und Integrität, der Unparteilichkeit, der Unabhängigkeit, der Transparenz, der Verhältnismäßigkeit, der Vorhersehbarkeit und der Rechenschaftspflicht festgelegt, zu deren Einhaltung sich die Benannten Stellen verpflichten, wenn sie die ihnen durch diese Verordnung oder die Verordnung (EU) 2017/746 übertragenen Rechte und Pflichten ausüben.
 
 <a id="ins-art-50"></a>
-### Artikel 50
-
-Zugang zu Benannten Stellen und Gebühren
+### Artikel 50 – Zugang zu Benannten Stellen und Gebühren
 
   - (1) Die Benannten Stellen erstellen Listen ihrer Gebühren für die von ihnen durchgeführten Konformitätsbewertungstätigkeiten und machen diese Listen öffentlich zugänglich. Sie übermitteln der Kommission die Listen, die die Öffentlichkeit auf einer speziellen Website darauf verweist.
 
@@ -1235,9 +1229,7 @@ Klassifizierung im Falle einer Streitigkeit zwischen Hersteller und Benannter St
   - (6) Die Kommission kann mittels Durchführungsrechtsakten weitere Einzelheiten des Verfahrens für die Anwendung dieses Artikels und des Artikels 51b festlegen. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Prüfverfahren erlassen.
 
 <a id="ins-art-51b"></a>
-### Artikel 51b
-
-Anfechtung der Klassifizierung CE-gekennzeichneter Produkte
+### Artikel 51b – Anfechtung der Klassifizierung CE-gekennzeichneter Produkte
 
   - (1) Ist eine zuständige Behörde nach Durchführung einer Bewertung gemäß Artikel 94 der Auffassung, dass ein gemäß Artikel 20 CE-gekennzeichnetes Produkt nicht im Einklang mit Anhang VIII klassifiziert wurde, so konsultiert sie die anderen Mitgliedstaaten zu der von ihr vorgesehenen Maßnahme hinsichtlich der Klassifizierung des Produkts.
 
@@ -1346,9 +1338,7 @@ Konformitätsbewertung von bahnbrechenden Medizinprodukten und Medizinprodukten 
   - (9) Die Kommission kann im Wege von Durchführungsrechtsakten weitere Einzelheiten des in diesem Artikel festgelegten Verfahrens für die Konformitätsbewertung bahnbrechender Produkte oder von Medizinprodukten für seltene Erkrankungen festlegen. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 114 Absatz 3 genannten Prüfverfahren erlassen.
 
 <a id="ins-art-52b"></a>
-### Artikel 52b
-
-Digitalisierung der technischen Dokumentation, der Konformitätsbewertung und der Berichte
+### Artikel 52b – Digitalisierung der technischen Dokumentation, der Konformitätsbewertung und der Berichte
 
   - (1) Der Hersteller kann die technische Dokumentation sowie alle nach dieser Verordnung erforderlichen Berichte oder sonstigen Unterlagen in einem digitalen Format erstellen und bereitstellen. Dieses digitale Format kann ein strukturiertes maschinenlesbares Format sein, sofern es in ein vom Menschen lesbares Format umgewandelt werden kann und eine Versionskontrolle besteht, die die Durchführung rückblickender Konformitätsprüfungen ermöglicht. Sind die technische Dokumentation, die Berichte oder sonstige Unterlagen einer Benannten Stelle vorzulegen und von dieser zu bewerten, vereinbart der Hersteller mit der Benannten Stelle das digitale Format.
 
@@ -1381,9 +1371,7 @@ Konsultationsverfahren zur klinischen Bewertung bestimmter Hochrisikoprodukte
   - (4) Die Benannte Stelle trägt der im Rahmen des Konsultationsverfahrens zur klinischen Bewertung von dem Expertengremium abgegebenen Stellungnahme weitestgehend Rechnung. Hat die Benannte Stelle die in dieser Stellungnahme zum Ausdruck gebrachten Auffassungen und Empfehlungen nicht befolgt, übermittelt sie der für Benannte Stellen zuständigen Behörde des Mitgliedstaats, in dem sie niedergelassen ist, dem Expertengremium, das die Stellungnahme abgegeben hat, und der Kommission eine hinreichende Begründung hierfür sowie ihren abschließenden Bericht über die Begutachtung der klinischen Bewertung.
 
 <a id="ins-art-55"></a>
-### Artikel 55
-
-Mechanismus zur Kontrolle von Konformitätsbewertungen
+### Artikel 55 – Mechanismus zur Kontrolle von Konformitätsbewertungen
 
   - (1) Die Koordinierungsgruppe Medizinprodukte oder die Kommission kann sich auf der Grundlage begründeter Bedenken in Bezug auf die Sicherheit und die Leistung eines Produkts durch ein Expertengremium beraten lassen. Zu diesem Zweck kann die Koordinierungsgruppe Medizinprodukte oder die Kommission die Benannte Stelle, die die Bescheinigung für das betreffende Produkt ausgestellt hat, auffordern, dem Expertengremium ihren Bericht über die Begutachtung der klinischen Bewertung sowie alle nachfolgenden Überwachungsbewertungsberichte zu diesem Produkt vorzulegen. Das Expertengremium kann die Benannte Stelle oder den Hersteller auffordern, zusätzliche für seine Bewertung erforderliche Informationen vorzulegen.
 
@@ -1484,9 +1472,7 @@ Abweichungen von bestimmten Anforderungen im Falle einer schwerwiegenden grenzü
       ****** Verordnung (EU) .../... des Europäischen Parlaments und des Rates vom ... über ... (ABl. ..., ELI). ABl.: Bitte in den Text die Nummer der in 2025/0223(COD) enthaltenen Verordnung (Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über das Katastrophenschutzverfahren der Union und die Unterstützung der Union für die Krisenvorsorge und -reaktion bei gesundheitlichen Notlagen sowie zur Aufhebung des Beschlusses Nr. 1313/2013/EU (Katastrophenschutzverfahren der Union)) einfügen und in der Fußnote die Nummer, das Datum, den Titel und die Fundstelle im Amtsblatt dieser Verordnung einsetzen.
 
 <a id="ins-art-59b"></a>
-### Artikel 59b
-
-Reallabore auf nationaler Ebene
+### Artikel 59b – Reallabore auf nationaler Ebene
 
   - (1) Die Mitgliedstaaten können von sich aus oder auf begründeten Antrag eines Herstellers oder eines künftigen Herstellers ein oder mehrere Reallabore einrichten, für die die Anwendung bestimmter Anforderungen der Kapitel V oder VI oder der Anhänge I, VIII, IX, X, XI, XIV oder XV nicht zweckmäßig wäre. Die Mitgliedstaaten benennen die zuständige Behörde, die für die Beaufsichtigung des Reallabors verantwortlich ist.
 
@@ -1895,9 +1881,7 @@ Aufgaben der Koordinierungsgruppe Medizinprodukte
     Zusätzlich zu den ihr in anderen Bestimmungen dieser Verordnung und der Verordnung (EU) 2017/746 übertragenen Aufgaben unterstützt die Koordinierungsgruppe Medizinprodukte insbesondere die Kommission bei der Bewertung aller Fragen im Zusammenhang mit der Durchführung dieser Verordnungen und trägt zur Ausarbeitung von Leitlinien bei, die auf eine wirksame und einheitliche Durchführung abzielen.
 
 <a id="ins-art-106"></a>
-### Artikel 106
-
-Expertengremien
+### Artikel 106 – Expertengremien
 
   - (1) Die Kommission trifft nach Anhörung der Koordinierungsgruppe Medizinprodukte im Wege von Durchführungsrechtsakten Vorkehrungen für die Benennung von Expertengremien, die der Kommission, der Koordinierungsgruppe Medizinprodukte, den Mitgliedstaaten, den Benannten Stellen oder den Herstellern wissenschaftliche, klinische, technische oder regulatorische Stellungnahmen und Beratung im Zusammenhang mit der Durchführung dieser Verordnung und der Verordnung (EU) 2017/746 zur Verfügung stellen.
 
@@ -2008,9 +1992,7 @@ Unterstützung durch die EMA
 ‘ABSCHNITT 2 – Internationale Zusammenarbeit
 
 <a id="ins-art-108a"></a>
-### Artikel 108a
-
-Internationale regulatorische und administrative Zusammenarbeit
+### Artikel 108a – Internationale regulatorische und administrative Zusammenarbeit
 
   - (1) Die Kommission verfolgt die internationale regulatorische Zusammenarbeit im Bereich der Medizinprodukte und In-vitro-Diagnostika mit dem Ziel, ein hohes Schutzniveau der öffentlichen Gesundheit und der Patientensicherheit herbeizuführen, Innovationen zu fördern und durch weltweite Konvergenz eine effizientere Einhaltung regulatorischer Anforderungen zu erreichen. Zu diesem Zweck tragen die Europäische Kommission und die Mitgliedstaaten zur Entwicklung und Annahme globaler Grundsätze, Normen und Leitlinien bei, die ein hohes Maß an internationaler Konvergenz im Bereich der Medizinprodukte und In-vitro-Diagnostika gewährleisten, auch hinsichtlich Sicherheit, Leistung, Qualitätsmanagementsysteme, Konformitätsbewertung und Überwachung nach dem Inverkehrbringen.
 
@@ -3222,9 +3204,7 @@ Bewertung von Produkten, die mutmaßlich ein unannehmbares Risiko darstellen ode
 - 81. Die Anhänge I, II, III, VI, VII, IX, X, XI, XII, XIII und XIV der Verordnung (EU) 2017/746 werden entsprechend Anhang II der vorliegenden Verordnung geändert.
 
 <a id="art-3"></a>
-### Artikel 3
-
-Änderungen der Verordnung (EU) 2022/123
+### Artikel 3 – Änderungen der Verordnung (EU) 2022/123
 
 Artikel 30 der Verordnung (EU) 2022/123 wird wie folgt geändert:
 
@@ -3255,9 +3235,7 @@ Artikel 30 der Verordnung (EU) 2022/123 wird wie folgt geändert:
     - „i) sie übermittelt der Kommission eine begründete Empfehlung für die Gebühren, die von Herstellern oder Benannten Stellen für die von Expertengremien abgegebenen Stellungnahmen oder erbrachten Beratungsleistungen gemäß Artikel 106 Absätze 9 und 10 der Verordnung (EU) 2017/745 zu entrichten sind.“
 
 <a id="art-4"></a>
-### Artikel 4
-
-Änderungen der Verordnung (EU) 2024/1689
+### Artikel 4 – Änderungen der Verordnung (EU) 2024/1689
 
 Anhang I der Verordnung (EU) 2024/1689 wird wie folgt geändert:
 
@@ -3270,9 +3248,7 @@ Anhang I der Verordnung (EU) 2024/1689 wird wie folgt geändert:
     22. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176).“
 
 <a id="art-5"></a>
-### Artikel 5
-
-Inkrafttreten und Anwendung
+### Artikel 5 – Inkrafttreten und Anwendung
 
 - (1) Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 

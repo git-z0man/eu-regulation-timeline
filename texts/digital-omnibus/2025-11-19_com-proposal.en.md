@@ -1618,9 +1618,7 @@ Role of the EDIB
 27. Annex I is added as set out in the Annex II to this Regulation.
 
 <a id="art-2"></a>
-### Article 2
-
-Amendments to Regulation (EU) 2018/1724
+### Article 2 – Amendments to Regulation (EU) 2018/1724
 
 In the table in Annex II to Regulation (EU) 2018/1724, the entry ‘Starting, running and closing a business’ is replaced by the following:
 
@@ -1636,9 +1634,7 @@ In the table in Annex II to Regulation (EU) 2018/1724, the entry ‘Starting, ru
 |  | Registration as a data altruism organisation recognised in the Union | Confirmation of the registration |
 
 <a id="art-3"></a>
-### Article 3
-
-Amendments to Regulation (EU) 2016/679 (GDPR)
+### Article 3 – Amendments to Regulation (EU) 2016/679 (GDPR)
 
 Regulation (EU) 2016/679 is amended as follows:
 
@@ -1841,9 +1837,7 @@ Where the processing of personal data is necessary for the interests of the cont
 Any such processing shall be subject to appropriate organisational, technical measures and safeguards for the rights and freedoms of the data subject, such as to ensure respect of data minimisation during the stage of selection of sources and the training and testing of AI an system or AI model, to protect against non-disclosure of residually retained data in the AI system or AI model to ensure enhanced transparency to data subjects and providing data subjects with an unconditional right to object to the processing of their personal data.’
 
 <a id="art-4"></a>
-### Article 4
-
-Amendments to Regulation (EU) 2018/1725 (EUDPR)
+### Article 4 – Amendments to Regulation (EU) 2018/1725 (EUDPR)
 
 Regulation (EU) 2018/1725 is amended as follows:
 
@@ -1958,9 +1952,7 @@ Regulation (EU) 2018/1725 is amended as follows:
 The common criteria adopted by the Commission and referred to in article 41a of the Regulation (EU) 2016/679 should apply to the processing of personal data under this Regulation.’
 
 <a id="art-5"></a>
-### Article 5
-
-Amendments to and Directive 2002/58/EC (ePrivacy Directive)
+### Article 5 – Amendments to and Directive 2002/58/EC (ePrivacy Directive)
 
 Directive 2002/58/EC is amended as follows:
 
@@ -1971,9 +1963,7 @@ Directive 2002/58/EC is amended as follows:
     ‘This paragraph shall not apply if the subscriber or user is a natural person, and the information stored or accessed constitutes or leads to the processing of personal data.’
 
 <a id="art-6"></a>
-### Article 6
-
-Amendments to Directive (EU) 2022/2555
+### Article 6 – Amendments to Directive (EU) 2022/2555
 
 Directive (EU) 2022/2555 is amended as follows:
 
@@ -2028,9 +2018,7 @@ Single-entry point for incident reporting
     - (b) entities other than those referred to in point (a), regardless of whether they fall within the scope of this Directive, with regard to significant incidents, cyber threats and near misses.’
 
 <a id="art-7"></a>
-### Article 7
-
-Amendment of Regulation (EU) 910/2014
+### Article 7 – Amendment of Regulation (EU) 910/2014
 
 Regulation (EU) 910/2014 is amended as follows:
 
@@ -2047,9 +2035,7 @@ Regulation (EU) 910/2014 is amended as follows:
       ‘3a. Notifications pursuant to in paragraph 3 to the Commission and to the competent supervisory body, shall be made through the single-entry point pursuant to Article 23a of Directive (EU) 2022/2555.’
 
 <a id="art-8"></a>
-### Article 8
-
-Amendments to Regulation (EU) 2022/2554
+### Article 8 – Amendments to Regulation (EU) 2022/2554
 
 Article 19 of Regulation (EU) 2022/2554 is amended as follows:
 
@@ -2062,9 +2048,7 @@ Article 19 of Regulation (EU) 2022/2554 is amended as follows:
       ‘Financial entities may, on a voluntary basis, notify via the single-entry point established pursuant to Article 23a of Directive (EU) 2022/2555 significant cyber threats to the relevant competent authority when they deem the threat to be of relevance to the financial system, service users or clients. The relevant competent authority may provide such information to other relevant authorities referred to in paragraph 6.’
 
 <a id="art-9"></a>
-### Article 9
-
-Amendments to Directive (EU) 2022/2557
+### Article 9 – Amendments to Directive (EU) 2022/2557
 
 Article 15 of Directive (EU) 2022/2557 is amended as follows:
 
@@ -2077,9 +2061,7 @@ Article 15 of Directive (EU) 2022/2557 is amended as follows:
       ‘The Commission may adopt implementing acts further specifying the type and format of information notified pursuant to Article 15(1). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).’
 
 <a id="art-10"></a>
-### Article 10
-
-Repeals and transitory clauses
+### Article 10 – Repeals and transitory clauses
 
 1. Regulation 2019/1150/EU is repealed with effect from [date = entry into application of this Regulation].
 
@@ -2108,9 +2090,7 @@ c) Directive 2019/1024.
 4. References to Regulation (EU) 2022/868, Regulation (EU) 2018/1807 and Directive 2019/1024 shall be read in accordance with the correlation table set out in Annex I of this Regulation.
 
 <a id="art-11"></a>
-### Article 11
-
-Final provisions
+### Article 11 – Final provisions
 
 This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
 

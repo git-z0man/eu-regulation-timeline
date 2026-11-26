@@ -1618,9 +1618,7 @@ Rolle des Europäischen Dateninnovationsrats
 27. Anhang I wird gemäß dem Anhang II der vorliegenden Verordnung hinzugefügt.
 
 <a id="art-2"></a>
-### Artikel 2
-
-Änderungen der Verordnung (EU) 2018/1724
+### Artikel 2 – Änderungen der Verordnung (EU) 2018/1724
 
 In der Tabelle in Anhang II der Verordnung (EU) 2018/1724 erhält der Eintrag „Gründung, Führung und Schließung eines Unternehmens“ folgende Fassung:
 
@@ -1636,9 +1634,7 @@ In der Tabelle in Anhang II der Verordnung (EU) 2018/1724 erhält der Eintrag �
 |  | Eintragung als in der Union anerkannte datenaltruistische Organisation | Bestätigung der Eintragung“ |
 
 <a id="art-3"></a>
-### Artikel 3
-
-Änderung der Verordnung (EU) 2016/679 (DSGVO)
+### Artikel 3 – Änderung der Verordnung (EU) 2016/679 (DSGVO)
 
 Die Verordnung (EU) 2016/679 wird wie folgt geändert:
 
@@ -1841,9 +1837,7 @@ Ist die Verarbeitung personenbezogener Daten im Zusammenhang mit der Entwicklung
 Eine solche Verarbeitung unterliegt geeigneten organisatorischen, technischen Maßnahmen und Garantien für die Rechte und Freiheiten der betroffenen Person, zum Beispiel um in der Phase der Auswahl der Quellen und des Trainings und Testens von KI-Systemen oder KI-Modellen die Einhaltung der Datenminimierung sicherzustellen, im KI-System oder KI-Modell auf Vorrat gespeicherte Daten vor der Offenlegung zu schützen, für mehr Transparenz für die betroffenen Personen zu sorgen und den betroffenen Personen ein bedingungsloses Recht auf Widerspruch gegen die Verarbeitung ihrer personenbezogenen Daten einzuräumen.“
 
 <a id="art-4"></a>
-### Artikel 4
-
-Änderung der Verordnung (EU) 2018/1725 [EU-DSVO]
+### Artikel 4 – Änderung der Verordnung (EU) 2018/1725 [EU-DSVO]
 
 Die Verordnung (EU) 2018/1725 wird wie folgt geändert:
 
@@ -1958,9 +1952,7 @@ b) Folgender Absatz 4 wird angefügt:
 Die von der Kommission angenommenen und in Artikel 41a der Verordnung (EU) 2016/679 genannten gemeinsamen Kriterien sollten für die Verarbeitung personenbezogener Daten nach der vorliegenden Verordnung gelten.“
 
 <a id="art-5"></a>
-### Artikel 5
-
-Änderung der Richtlinie 2002/58/EG (e-Datenschutzrichtlinie)
+### Artikel 5 – Änderung der Richtlinie 2002/58/EG (e-Datenschutzrichtlinie)
 
 Die Richtlinie 2002/58/EG wird wie folgt geändert:
 
@@ -1971,9 +1963,7 @@ Die Richtlinie 2002/58/EG wird wie folgt geändert:
     „Dieser Absatz findet keine Anwendung, wenn es sich bei dem Teilnehmer oder Nutzer um eine natürliche Person handelt und die gespeicherten oder abgerufenen Informationen eine Verarbeitung personenbezogener Daten darstellen oder zu einer solchen Verarbeitung führen.“
 
 <a id="art-6"></a>
-### Artikel 6
-
-Änderung der Richtlinie (EU) 2022/2555
+### Artikel 6 – Änderung der Richtlinie (EU) 2022/2555
 
 Die Richtlinie (EU) 2022/2555 wird wie folgt geändert:
 
@@ -2028,9 +2018,7 @@ Zentrale Anlaufstelle zur Meldung von Vorfällen
     - b) andere als die in Buchstabe a genannten Einrichtungen, unabhängig davon, ob sie in den Anwendungsbereich dieser Richtlinie fallen, in Bezug auf erhebliche Sicherheitsvorfälle, Cyberbedrohungen und Beinahe-Vorfälle.“
 
 <a id="art-7"></a>
-### Artikel 7
-
-Änderung der Verordnung (EU) Nr. 910/2014
+### Artikel 7 – Änderung der Verordnung (EU) Nr. 910/2014
 
 Die Verordnung (EU) Nr. 910/2014 wird wie folgt geändert:
 
@@ -2047,9 +2035,7 @@ Die Verordnung (EU) Nr. 910/2014 wird wie folgt geändert:
       „(3a) Meldungen nach Absatz 3 an die Kommission und die zuständige Aufsichtsstelle erfolgen über die zentrale Anlaufstelle gemäß Artikel 23a der Richtlinie (EU) 2022/2555.“
 
 <a id="art-8"></a>
-### Artikel 8
-
-Änderungen der Verordnung (EU) 2022/2554
+### Artikel 8 – Änderungen der Verordnung (EU) 2022/2554
 
 Artikel 19 der Verordnung (EU) 2022/2554 wird wie folgt geändert:
 
@@ -2062,9 +2048,7 @@ Artikel 19 der Verordnung (EU) 2022/2554 wird wie folgt geändert:
       „Finanzunternehmen können der jeweils zuständigen Behörde auf freiwilliger Basis über die gemäß Artikel 23a der Richtlinie (EU) 2022/2555 eingerichtete zentrale Anlaufstelle erhebliche Cyberbedrohungen melden, wenn sie der Auffassung sind, dass die Bedrohung für das Finanzsystem, die Dienstnutzer oder die Kunden relevant ist. Die jeweils zuständige Behörde kann derartige Informationen anderen in Absatz 6 genannten einschlägigen Behörden zur Verfügung stellen.“
 
 <a id="art-9"></a>
-### Artikel 9
-
-Änderung der Richtlinie (EU) 2022/2557
+### Artikel 9 – Änderung der Richtlinie (EU) 2022/2557
 
 Artikel 15 der Richtlinie (EU) 2022/2557 wird wie folgt geändert:
 
@@ -2077,9 +2061,7 @@ Artikel 15 der Richtlinie (EU) 2022/2557 wird wie folgt geändert:
       „Die Kommission kann Durchführungsrechtsakte erlassen, in denen die Art und das Format der gemäß Artikel 15 Absatz 1 gemeldeten Informationen genauer festgelegt werden. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 24 Absatz 2 genannten Prüfverfahren erlassen.“
 
 <a id="art-10"></a>
-### Artikel 10
-
-Aufhebungen und Übergangsklauseln
+### Artikel 10 – Aufhebungen und Übergangsklauseln
 
 (1) Die Verordnung (EU) 2019/1150/EU wird mit Wirkung vom [Datum des Inkrafttretens der vorliegenden Verordnung] aufgehoben.
 
@@ -2108,9 +2090,7 @@ c) die Richtlinie (EU) 2019/1024.
 (4) Bezugnahmen auf die Verordnung (EU) 2022/868, die Verordnung (EU) 2018/1807 und die Richtlinie (EU) 2019/1024 sind nach Maßgabe der Entsprechungstabelle in Anhang I der vorliegenden Verordnung zu lesen.
 
 <a id="art-11"></a>
-### Artikel 11
-
-Schlussbestimmungen
+### Artikel 11 – Schlussbestimmungen
 
 Diese Verordnung tritt am dritten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 
