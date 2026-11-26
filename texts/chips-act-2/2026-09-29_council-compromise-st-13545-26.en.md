@@ -1615,9 +1615,7 @@ Third specific monitoring indicator for increasing intelligence capabilities for
 
 ^(2) OJ C,, p..
 
-^(3) Regulation (EU) 2023/1781 of the European Parliament and of the Council of 13 September
-
-^(2023) establishing a framework of measures for strengthening Europe’s semiconductor ecosystem and amending Regulation (EU) 2021/694 (Chips Act) (OJ L 229, 18.9.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1781/oj).
+^(3) Regulation (EU) 2023/1781 of the European Parliament and of the Council of 13 September 2023 establishing a framework of measures for strengthening Europe’s semiconductor ecosystem and amending Regulation (EU) 2021/694 (Chips Act) (OJ L 229, 18.9.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1781/oj).
 
 ^(4) [reference to the published evaluation report to be added]
 
@@ -1663,9 +1661,7 @@ Third specific monitoring indicator for increasing intelligence capabilities for
 
 ^(25) Proposal for a Regulation of the European Parliament and of the Council on speedingup environmentalassessments (COM/2025/984 final, 10.12.2025).
 
-^(26) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
-
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
+^(26) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
 
 ^(27) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1, ELI: http://data.europa.eu/eli/dir/2014/23/oj).
 
@@ -1675,9 +1671,7 @@ Third specific monitoring indicator for increasing intelligence capabilities for
 
 ^(30) Protocol Amending the Agreement on Government Procurement (OJ L 68, 7.3.2014, p. 2, ELI: http://data.europa.eu/eli/prot/2014/115/oj), which entered into force on 6 April 2014 (OJ L 89, 25.3.2014, p. 5).
 
-^(31) Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May
-
-^(2014) concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189, 27.6.2014, pp. 50-58, ELI: http://data.europa.eu/eli/reg/2014/654/oj).
+^(31) Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189, 27.6.2014, pp. 50-58, ELI: http://data.europa.eu/eli/reg/2014/654/oj).
 
 ^(32) Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (notified under document number C(2003) 1422) (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
 
@@ -1697,9 +1691,7 @@ Third specific monitoring indicator for increasing intelligence capabilities for
 
 ^(4) See Article 5 of the Cloud and AI Development Act
 
-^(5) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, “An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological”, COM(2023)
-
-^(442) final, 11 July 2023.
+^(5) Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, “An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological”, COM(2023) 442 final, 11 July 2023.
 
 ^(1) This part expands on a potential implementation of Article 19.
 

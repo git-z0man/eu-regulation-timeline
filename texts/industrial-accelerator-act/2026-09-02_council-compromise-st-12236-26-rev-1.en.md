@@ -1695,43 +1695,27 @@ _____________
 
 ^(10) Proposal for a Regulation of the European Parliament and of the Council on establishing the European Competitiveness Fund ('ECF’), including the specific programme for defence research and innovation activities, repealing Regulations (EU) 2021/522, (EU) 2021/694, (EU) 2021/697, (EU) 2021/783, repealing provisions of
 
-^(11) Directive 2010/75/EU of the European Parliament and of the Council of 24 November
-
-^(2010) on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17, ELI: http://data.europa.eu/eli/dir/2010/75/oj).
+^(11) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17, ELI: http://data.europa.eu/eli/dir/2010/75/oj).
 
 ^(12) World Trade Organisation (WTO), Agreement on Government Procurement 2012, available at https://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.pdf.
 
 ^(13) Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011 (OJ L, 2024/3110, 18.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3110/oj).
 
-^(14) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June
-
-^(2024) establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).
+^(14) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).
 
 ^(15) Communication From the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of The Regions, A Green Deal Industrial Plan for the Net-Zero Age (COM/2023/62 final, 1.2.2023).
 
-^(16) Directive 2014/23/EU of the European Parliament and of the Council of 26 February
+^(16) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, pp. 1-64, ELI: http://data.europa.eu/eli/dir/2014/23/oj).
 
-^(2014) on the award of concession contracts (OJ L 94, 28.3.2014, pp. 1-64, ELI: http://data.europa.eu/eli/dir/2014/23/oj).
+^(17) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65, ELI: http://data.europa.eu/eli/dir/2014/24/oj).
 
-^(17) Directive 2014/24/EU of the European Parliament and of the Council of 26 February
+^(18) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).
 
-^(2014) on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65, ELI: http://data.europa.eu/eli/dir/2014/24/oj).
+^(19) Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011 (OJ L 111, 25.4.2019, p. 13, ELI: http://data.europa.eu/eli/reg/2019/631/oj).
 
-^(18) Directive 2014/25/EU of the European Parliament and of the Council of 26 February
+^(20) Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/858/oj).
 
-^(2014) on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).
-
-^(19) Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April
-
-^(2019) setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011 (OJ L 111, 25.4.2019, p. 13, ELI: http://data.europa.eu/eli/reg/2019/631/oj).
-
-^(20) Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May
-
-^(2018) on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/858/oj).
-
-^(21) Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March
-
-^(2019) establishing a framework for the screening of foreign direct investments into the Union (OJ L 79I, 21.3.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/452/oj).
+^(21) Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March 2019 establishing a framework for the screening of foreign direct investments into the Union (OJ L 79I, 21.3.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/452/oj).
 
 ^(22) Regulation (EU) 2022/2560 of the European Parliament and of the Council of 14 December 2022 on foreign subsidies distorting the internal market (OJ L 330, 23.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2560/oj).
 

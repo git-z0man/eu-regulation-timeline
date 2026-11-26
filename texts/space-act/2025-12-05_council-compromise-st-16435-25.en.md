@@ -4586,41 +4586,23 @@ The staff of a ~~qualified technical body for space activities~~ **national QTB*
 
 ^(2) ^(2) OJ C [...], [...], p. [...]
 
-^(3) ^(3) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December
+^(3) ^(3) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (CER Directive) (OJ L 333 164, 27.12.2022. p.164, ELI: https://eur-lex.europa.eu/eli/dir/2022/2557/oj).
 
-^(2022) on the resilience of critical entities and repealing Council Directive 2008/114/EC (CER Directive) (OJ L 333 164, 27.12.2022. p.164, ELI: https://eur-lex.europa.eu/eli/dir/2022/2557/oj).
+^(4) ^(4) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: https://eur-lex.europa.eu/eli/dir/2022/2555/oj).
 
-^(4) ^(4) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
+^(5) ^(7) Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) (OJ L 108, 24.04.2002, p. 1–6, ELI: http://data.europa.eu/eli/dec/2002/676(1)/oj)
 
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: https://eur-lex.europa.eu/eli/dir/2022/2555/oj).
+^(6) ^(8) Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code, (OJ L 321, 17.12.2018, p. 36–214, ELI: http://data.europa.eu/eli/dir/2018/1972/oj)
 
-^(5) ^(7) Decision No 676/2002/EC of the European Parliament and of the Council of 7 March
+^(7) ^(9) Decision No 243/2012/EU of the European Parliament and of the Council of 14 March 2012 establishing a multiannual radio spectrum policy programme (OJ L 81, 21/03/2012, p. 7–17, ELI: http://data.europa.eu/eli/dec/2012/243(2)/oj)
 
-^(2002) on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) (OJ L 108, 24.04.2002, p. 1–6, ELI: http://data.europa.eu/eli/dec/2002/676(1)/oj)
+^(8) ^(6) Regulation (EU) 2023/588 of the European Parliament and of the Council of 15 March 2023 establishing the Union Secure Connectivity Programme for the period 2023-2027 OJ L 79, 17.3.2023, p. 1-39 (ELI: http://data.europa.eu/eli/reg/2023/588/oj).
 
-^(6) ^(8) Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December
+^(9) ^(5) Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU (OJ L 170, 12.5.2021, p. 69 ELI: ttp://data.europa.eu/eli/reg/2021/696/oj)
 
-^(2018) establishing the European Electronic Communications Code, (OJ L 321, 17.12.2018, p. 36–214, ELI: http://data.europa.eu/eli/dir/2018/1972/oj)
+^(10) ^(14) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, http://data.europa.eu/eli/reg/2008/765/oj).
 
-^(7) ^(9) Decision No 243/2012/EU of the European Parliament and of the Council of 14 March
-
-^(2012) establishing a multiannual radio spectrum policy programme (OJ L 81, 21/03/2012, p. 7–17, ELI: http://data.europa.eu/eli/dec/2012/243(2)/oj)
-
-^(8) ^(6) Regulation (EU) 2023/588 of the European Parliament and of the Council of 15 March
-
-^(2023) establishing the Union Secure Connectivity Programme for the period 2023-2027 OJ L 79, 17.3.2023, p. 1-39 (ELI: http://data.europa.eu/eli/reg/2023/588/oj).
-
-^(9) ^(5) Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April
-
-^(2021) establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU (OJ L 170, 12.5.2021, p. 69 ELI: ttp://data.europa.eu/eli/reg/2021/696/oj)
-
-^(10) ^(14) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July
-
-^(2008) setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, http://data.europa.eu/eli/reg/2008/765/oj).
-
-^(11) ^(10) Directive 2008/98/EC of the European Parliament and of the Council of 19 November
-
-^(2008) on waste and repealing certain Directives (OJ L 312 22.11.2008, p. 3, ELI: http://data.europa.eu/eli/dir/2008/98/2024-02-18)
+^(11) ^(10) Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312 22.11.2008, p. 3, ELI: http://data.europa.eu/eli/dir/2008/98/2024-02-18)
 
 ^(12) ^(11) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36 Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa. eu/eli/reco/2003/361/oj). eu/eli/dir/2022/2555/oj)
 
@@ -4630,15 +4612,11 @@ The staff of a ~~qualified technical body for space activities~~ **national QTB*
 
 ^(15) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).
 
-^(16) ^(13) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April
-
-^(2016) on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1- 88, ELI: http://data.europa.eu/eli/reg/2016/679/oj).
+^(16) ^(13) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1- 88, ELI: http://data.europa.eu/eli/reg/2016/679/oj).
 
 ^(17) ^(15) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council Text with EEA relevance (ELI: http://data.europa.eu/eli/reg/2012/1025/oj)
 
-^(18) ^(16) Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April
-
-^(2019) on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance ELI: http://data.europa.eu/eli/reg/2019/881/oj)
+^(18) ^(16) Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance ELI: http://data.europa.eu/eli/reg/2019/881/oj)
 
 ^(19) ^(17) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj).
 

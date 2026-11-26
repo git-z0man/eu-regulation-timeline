@@ -10,6 +10,7 @@ Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai
 - **Council:** working party, latest document 25 Nov 2026
 - **Latest activity:** 25 Nov 2026 · Council: Opinion on the application of the Principles of Subsidiarity and Proportionality (ST 16444/26)
 - **Next steps:** 1 Dec 2026: CJ18 (IMCO, ITRE) committee meeting (EP committee agenda); 10 Dec 2026: Deadline for tabling amendments: 10 December 2026, 12.00 (CJ18 (IMCO, ITRE)) (EP committee agenda); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Sep 2028 (median; half of the runs Mar 2028 – Apr 2029), [forecast page](../forecast/cloud-ai-development-act.html). Next step: EP committee vote. On track until 2 Sep 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

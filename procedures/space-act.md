@@ -10,6 +10,7 @@ Drawing: [space-act.svg](space-act.svg), [space-act.pdf](space-act.pdf) · Web p
 - **Council:** working party, latest document 20 Nov 2026
 - **Latest activity:** 25 Nov 2026 · European Parliament: Plenary confirms mandate for trilogues
 - **Next steps:** Council mandate for negotiations; then trilogues
+- **Forecast:** Official Journal around Sep 2027 (median; half of the runs Jul 2027 – Jan 2028), [forecast page](../forecast/space-act.html). Next step: Provisional agreement. On track until 16 Jun 2027 (if it came later, the expected publication would move). If it came today: publication around Mar 2027.
 
 ## Events
 

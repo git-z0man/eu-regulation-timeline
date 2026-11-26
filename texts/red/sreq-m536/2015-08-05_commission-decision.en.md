@@ -149,9 +149,7 @@ For the Commission Elżbieta BIEŃKOWSKA Member of the Commission
 
 ^(14) M/364 — Harmonised standards for specific short range devices used for Euroloop and Eurobalise applications giving presumption of conformity with the R&TTE Directive (1999/5/EC)
 
-^(15) M/391 — Standards for Radar Target Enhancers (RTE) for sea going vessels operating in the 9300-
-
-^(9500) MHz Band that are not covered by Directive 96/98/EC.
+^(15) M/391 — Standards for Radar Target Enhancers (RTE) for sea going vessels operating in the 9300-9500 MHz Band that are not covered by Directive 96/98/EC.
 
 ^(16) M/405 — Harmonised standards covering Air Traffic Management Equipment
 

@@ -3,7 +3,7 @@ act: espr/sreq-m604-amd1
 version: 2025-11-28_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 28.11.2025 zur Änderung des Durchführungsbeschlusses C(2024) 5423 hinsichtlich der Rechtsgrundlage und der Fristen für die Annahme der Normen (Nur der englische, französische und deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 28.11.2025 zur Änderung des Durchführungsbeschlusses C(2024) 5423 hinsichtlich der Rechtsgrundlage und der Fristen für die Annahme der Normen
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 28.11.2025 zur Änderung des Durchführungsbeschlusses C(2024) 5423 hinsichtlich der Rechtsgrundlage und der Fristen für die Annahme der Normen (Nur der englische, französische und deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 28.11.2025 zur Änderung des Durchführungsbeschlusses C(2024) 5423 hinsichtlich der Rechtsgrundlage und der Fristen für die Annahme der Normen
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

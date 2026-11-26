@@ -3,7 +3,7 @@ act: red/sreq-m585
 version: 2022-08-05_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 5.8.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung hinsichtlich Funkanlagen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates und der Delegierten Verordnung (EU) 2022/30 der Kommission (Nur der englische, französische und deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 5.8.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung hinsichtlich Funkanlagen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates und der Delegierten Verordnung (EU) 2022/30 der Kommission
 retrieved: '2026-10-09'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 5.8.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung hinsichtlich Funkanlagen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates und der Delegierten Verordnung (EU) 2022/30 der Kommission (Nur der englische, französische und deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 5.8.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung hinsichtlich Funkanlagen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates und der Delegierten Verordnung (EU) 2022/30 der Kommission
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

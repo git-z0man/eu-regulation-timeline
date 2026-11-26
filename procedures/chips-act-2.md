@@ -10,6 +10,7 @@ Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) 
 - **Council:** working party, latest document 6 Nov 2026
 - **Latest activity:** 9 Nov 2026 · European Parliament: ITRE draft report (PE797.426)
 - **Next steps:** 1 Dec 2026: IMCO committee meeting (EP committee agenda); 1 Dec 2026: ITRE committee meeting (EP committee agenda); 2 Dec 2026: Deadline for tabling amendments: 02 December 2026, 17.00 (ITRE) (EP committee agenda); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Oct 2028 (median; half of the runs Mar 2028 – Apr 2029), [forecast page](../forecast/chips-act-2.html). Next step: EP committee vote. On track until 13 Sep 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

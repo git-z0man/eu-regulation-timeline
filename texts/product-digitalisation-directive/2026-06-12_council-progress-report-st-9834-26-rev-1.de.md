@@ -143,9 +143,7 @@ III. FAZIT
 
 ^(6) Verordnung (EU) 2024/2865 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 zur Änderung der Verordnung (EG) Nr. 1272/2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen (ABl. L, 2024/2865, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2865/oj).
 
-^(7) Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November
-
-^(2009) über kosmetische Mittel (Neufassung) (ABl. L 342 vom 22.12.2009, S. 59, ELI: http://data.europa.eu/eli/reg/2009/1223/oj).
+^(7) Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (Neufassung) (ABl. L 342 vom 22.12.2009, S. 59, ELI: http://data.europa.eu/eli/reg/2009/1223/oj).
 
 ^(8) Verordnung (EU) 2019/1009 des Europäischen Parlaments und des Rates vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt und zur Änderung der Verordnungen (EG) Nr. 1069/2009 und (EG) Nr. 1107/2009 sowie zur Aufhebung der Verordnung (EG) Nr. 2003/2003 (ABl. L 170 vom 25.6.2019, S. 1, ELI: http://data.europa.eu/eli/reg/2019/1009/oj).
 

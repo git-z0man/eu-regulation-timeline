@@ -2018,9 +2018,7 @@ _____________
 
 ^(12) World Trade Organisation (WTO), Agreement on Government Procurement 2012, available at https://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.pdf.
 
-^(13) Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November
-
-^(2024) laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011 (OJ L, 2024/3110, 18.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3110/oj).
+^(13) Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011 (OJ L, 2024/3110, 18.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3110/oj).
 
 ^(14) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).
 
@@ -2046,9 +2044,7 @@ _____________
 
 ^(25) Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March 2019 establishing a framework for the screening of foreign direct investments into the Union (OJ L 79I, 21.3.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/452/oj).
 
-^(26) Regulation (EU) 2022/2560 of the European Parliament and of the Council of 14 December
-
-^(2022) on foreign subsidies distorting the internal market (OJ L 330, 23.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2560/oj).
+^(26) Regulation (EU) 2022/2560 of the European Parliament and of the Council of 14 December 2022 on foreign subsidies distorting the internal market (OJ L 330, 23.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2560/oj).
 
 ^(27) Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (OJ L 24, 29.1.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/139/oj).
 
@@ -2060,9 +2056,7 @@ _____________
 
 ^(31) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj).
 
-^(32) Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October
-
-^(2018) establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1724/oj).
+^(32) Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1724/oj).
 
 ^(33) Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, 31.10.2003, pp. 51–70, ELI: http://data.europa.eu/eli/dir/2003/96/oj).
 

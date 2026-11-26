@@ -3,7 +3,7 @@ act: gpsr/sreq-m538
 version: 2015-11-25_commission-decision
 stage: commission-decision
 language: en
-title: COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces Only the English, French and German texts are authentic COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces Only the English, French and German texts are authentic THE EUROPEAN COMMISSION,
+title: COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces Only the English, French and German texts are authentic COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces Only the English, French and German texts are authentic THE EUROPEAN COMMISSION,
+# COMMISSION IMPLEMENTING DECISION of 24.11.2015 on a standardisation request to the European Committee for Standardisation as regards alcohol-powered flueless fireplaces
 
 EUROPEAN COMMISSION
 

@@ -3,7 +3,7 @@ act: cra/sreq-m606-amd1
 version: 2026-11-10_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 10.11.2026 zur Änderung des Durchführungsbeschlusses C(2025) 618 über einen Normungsauftrag an das Europäische Komitee für Normung (CEN), das Europäische Komitee für elektrotechnische Normung (Cenelec) und das Europäische Institut für Telekommunikationsnormen (ETSI) in Bezug auf Produkte mit digitalen Elementen zur Unterstützung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates (Nur der englische, der französische und der deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 10.11.2026 zur Änderung des Durchführungsbeschlusses C(2025) 618 über einen Normungsauftrag an das Europäische Komitee für Normung (CEN), das Europäische Komitee für elektrotechnische Normung (Cenelec) und das Europäische Institut für Telekommunikationsnormen (ETSI) in Bezug auf Produkte mit digitalen Elementen zur Unterstützung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates
 retrieved: '2026-11-12'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 10.11.2026 zur Änderung des Durchführungsbeschlusses C(2025) 618 über einen Normungsauftrag an das Europäische Komitee für Normung (CEN), das Europäische Komitee für elektrotechnische Normung (Cenelec) und das Europäische Institut für Telekommunikationsnormen (ETSI) in Bezug auf Produkte mit digitalen Elementen zur Unterstützung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates (Nur der englische, der französische und der deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 10.11.2026 zur Änderung des Durchführungsbeschlusses C(2025) 618 über einen Normungsauftrag an das Europäische Komitee für Normung (CEN), das Europäische Komitee für elektrotechnische Normung (Cenelec) und das Europäische Institut für Telekommunikationsnormen (ETSI) in Bezug auf Produkte mit digitalen Elementen zur Unterstützung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

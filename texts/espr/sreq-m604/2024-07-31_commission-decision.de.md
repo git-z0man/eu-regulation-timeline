@@ -3,7 +3,7 @@ act: espr/sreq-m604
 version: 2024-07-31_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 31.7.2024 über einen Normungsauftrag an das Europäische Komitee für Normung, das Europäische Komitee für elektrotechnische Normung und das Europäische Institut für Telekommunikationsnormen im Hinblick auf digitale Produktpässe zur Unterstützung der Unionspolitik in Bezug auf Ökodesign-Anforderungen für nachhaltige Produkte sowie auf Batterien und Altbatterien (Nur der englische, französische und deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 31.7.2024 über einen Normungsauftrag an das Europäische Komitee für Normung, das Europäische Komitee für elektrotechnische Normung und das Europäische Institut für Telekommunikationsnormen im Hinblick auf digitale Produktpässe zur Unterstützung der Unionspolitik in Bezug auf Ökodesign-Anforderungen für nachhaltige Produkte sowie auf Batterien und Altbatterien
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 31.7.2024 über einen Normungsauftrag an das Europäische Komitee für Normung, das Europäische Komitee für elektrotechnische Normung und das Europäische Institut für Telekommunikationsnormen im Hinblick auf digitale Produktpässe zur Unterstützung der Unionspolitik in Bezug auf Ökodesign-Anforderungen für nachhaltige Produkte sowie auf Batterien und Altbatterien (Nur der englische, französische und deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 31.7.2024 über einen Normungsauftrag an das Europäische Komitee für Normung, das Europäische Komitee für elektrotechnische Normung und das Europäische Institut für Telekommunikationsnormen im Hinblick auf digitale Produktpässe zur Unterstützung der Unionspolitik in Bezug auf Ökodesign-Anforderungen für nachhaltige Produkte sowie auf Batterien und Altbatterien
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

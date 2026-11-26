@@ -10,6 +10,7 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 - **Council:** mandate (ST 14756/26 of 22 Oct 2026)
 - **Latest activity:** 20 Nov 2026 · European Parliament: Opinion on the proposal for a regulation of the European Parliament and of the Council … (PE789.877)
 - **Next steps:** EP committee report and mandate; then trilogues
+- **Forecast:** Official Journal around Apr 2028 (median; half of the runs Jan 2028 – Dec 2028), [forecast page](../forecast/digital-omnibus.html). Next step: EP committee vote. On track until 4 Jan 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

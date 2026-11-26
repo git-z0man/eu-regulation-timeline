@@ -141,17 +141,13 @@ III. CONCLUSION
 
 ^(5) 16093/25; 16096/25; 16097/25.
 
-^(6) Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October
-
-^(2024) amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (OJ L, 2024/2865, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2865/oj).
+^(6) Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (OJ L, 2024/2865, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2865/oj).
 
 ^(7) Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (OJ L 342, 22.12.2009, pp. 59–209, ELI: http://data.europa.eu/eli/reg/2009/1223/oj).
 
 ^(8) Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (OJ L 170, 25.6.2019, pp. 1–114, ELI: http://data.europa.eu/eli/reg/2019/1009/oj).
 
-^(9) Regulation (EU) 2025/2439 of the European Parliament and of the Council of 26 November
-
-^(2025) amending Regulation (EU) 2024/2865 as regards dates of application and transitional provisions (Text with EEA relevance) (OJ L, 2025/2439, 3.12.2025, ELI: http://data.europa.eu/eli/reg/2025/2439/oj).
+^(9) Regulation (EU) 2025/2439 of the European Parliament and of the Council of 26 November 2025 amending Regulation (EU) 2024/2865 as regards dates of application and transitional provisions (Text with EEA relevance) (OJ L, 2025/2439, 3.12.2025, ELI: http://data.europa.eu/eli/reg/2025/2439/oj).
 
 ^(10) 15001/25.
 

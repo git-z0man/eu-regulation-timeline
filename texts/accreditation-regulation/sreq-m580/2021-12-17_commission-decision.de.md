@@ -3,7 +3,7 @@ act: accreditation-regulation/sreq-m580
 version: 2021-12-17_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 17.12.2021 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Akkreditierung und Konformitätsbewertung zur Unterstützung der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates (Nur der englische, französische und deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 17.12.2021 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Akkreditierung und Konformitätsbewertung zur Unterstützung der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 17.12.2021 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Akkreditierung und Konformitätsbewertung zur Unterstützung der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates (Nur der englische, französische und deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 17.12.2021 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Akkreditierung und Konformitätsbewertung zur Unterstützung der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

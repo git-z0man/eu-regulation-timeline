@@ -10,6 +10,7 @@ Drawing: [dna.svg](dna.svg), [dna.pdf](dna.pdf) · Web page: [dna.html](dna.html
 - **Council:** working party, latest document 24 Nov 2026
 - **Latest activity:** 24 Nov 2026 · Council: Progress report (ST 15968/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Jun 2028 (median; half of the runs Dec 2027 – Nov 2028), [forecast page](../forecast/dna.html). Next step: EP committee vote. On track until 26 Apr 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

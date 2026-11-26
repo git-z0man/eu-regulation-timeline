@@ -2965,22 +2965,12 @@ Annex II to Directive 2014/90/EU is amended as follows:
 
 ^(14) Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146, ELI: http://data.europa.eu/eli/dir/2014/90/oj).
 
-^(15) Decision No 768/2008/EC of the European Parliament and of the Council of 9 July
+^(15) Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC (OJ L 218, 13.8.2008, p. 82, ELI: http://data.europa.eu/eli/dec/2008/768(1)/oj).
 
-^(2008) on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC (OJ L 218, 13.8.2008, p. 82, ELI: http://data.europa.eu/eli/dec/2008/768(1)/oj).
+^(16) Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/1020/oj).
 
-^(16) Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June
+^(17) Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70, ELI: http://data.europa.eu/eli/dir/2019/882/oj).
 
-^(2019) on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/1020/oj).
+^(18) Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (OJ L 135, 23.5.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/988/oj).
 
-^(17) Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April
-
-^(2019) on the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70, ELI: http://data.europa.eu/eli/dir/2019/882/oj).
-
-^(18) Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May
-
-^(2023) on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (OJ L 135, 23.5.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/988/oj).
-
-^(19) Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July
-
-^(2023) concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1542/oj).
+^(19) Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1542/oj).

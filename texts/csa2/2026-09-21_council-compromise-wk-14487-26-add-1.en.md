@@ -3170,29 +3170,19 @@ Article 65 Article 97 Article 66 Article 118 Article 67 Article 120 Article 68 A
 
 ^(3) Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15, ELI: http://data.europa.eu/eli/reg/2019/881/oj).
 
-^(4) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
+^(4) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
 
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
+^(5) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).
 
-^(5) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December
-
-^(2022) on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).
-
-^(6) Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October
-
-^(2024) on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU)
+^(6) Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU)
 
 ^(20) Joint Communication from the Commission to the European Parliament and the Council, Strengthening EU economic security, JOIN(2025) 977 final.
 
 ^(21) COM/2025/837 final
 
-^(22) Regulation (EC) No 460/2004 of the European Parliament and of the Council of 10 March
+^(22) Regulation (EC) No 460/2004 of the European Parliament and of the Council of 10 March 2004 establishing the European Network and Information Security Agency (OJ L 77, 13.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/460/oj).
 
-^(2004) establishing the European Network and Information Security Agency (OJ L 77, 13.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/460/oj).
-
-^(23) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July
-
-^(2014) on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj).
+^(23) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj).
 
 ^(24) Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres (OJ L 202, 8.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/887/oj).
 
@@ -3206,25 +3196,17 @@ Article 65 Article 97 Article 66 Article 118 Article 67 Article 120 Article 68 A
 
 ^(29) Implementing regulation - EU - 2025/1569
 
-^(30) Common Approach, annexed to the Joint Statement of the European Parliament, the Council of the EU and the European Commission on decentralised agencies, adopted on 19 July
+^(30) Common Approach, annexed to the Joint Statement of the European Parliament, the Council of the EU and the European Commission on decentralised agencies, adopted on 19 July 2012 and available at: https://european-union.europa.eu/document/download/d4199ff4-1e3d-45e6-af7e-90cf1a7b10bc_en?filename=joint_statement_on_decentralised_agencies_en.pdf.
 
-^(2012) and available at: https://european-union.europa.eu/document/download/d4199ff4-1e3d-45e6-af7e-90cf1a7b10bc_en?filename=joint_statement_on_decentralised_agencies_en.pdf.
+^(31) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).
 
-^(31) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May
-
-^(2001) regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).
-
-^(32) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
-
-^(2018) on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+^(32) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
 
 ^(33) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65, ELI: http://data.europa.eu/eli/dir/2014/24/oj).
 
 ^(34) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).
 
-^(35) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
-
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
+^(35) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
 
 ^(36) Commission Implementing Regulation (EU) 2024/482 of 31 January 2024 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the adoption of the European Common Criteria-based cybersecurity certification scheme (EUCC) (OJ L, 2024/482, 7.2.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/482/oj).
 
@@ -3236,13 +3218,9 @@ Article 65 Article 97 Article 66 Article 118 Article 67 Article 120 Article 68 A
 
 ^(40) ENISA Threat Landscape 2025, October 2025.
 
-^(41) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
+^(41) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333 du 27.12.2022, p. 80-152, ELI: https://eur-lex.europa.eu/eli/dir/2022/2555/oj).
 
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333 du 27.12.2022, p. 80-152, ELI: https://eur-lex.europa.eu/eli/dir/2022/2555/oj).
-
-^(42) Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October
-
-^(2024) on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng).
+^(42) Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 20.11.2024, ELI: https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng).
 
 ^(43) Joint Communication to the European Parliament and the Council, Strengthening EU economic security, 3 December 2025, JOIN(2025) 977 final.
 
@@ -3252,23 +3230,17 @@ Article 65 Article 97 Article 66 Article 118 Article 67 Article 120 Article 68 A
 
 ^(46) Communication from the Commission on the implementation of the 5G cybersecurity Toolbox, 15 June 2023, C(2023) 4049 final.
 
-^(47) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
-
-^(2018) on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+^(47) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
 
 ^(48) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12, ELI: http://data.europa.eu/eli/reg/2012/1025/oj).
 
-^(49) Regulation (EU) 2023/2675 of the European Parliament and of the Council of 22 November
-
-^(2023) on the protection of the Union and its Member States from economic coercion by third countries (OJ L, 2023/2675, 7.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2675/oj).
+^(49) Regulation (EU) 2023/2675 of the European Parliament and of the Council of 22 November 2023 on the protection of the Union and its Member States from economic coercion by third countries (OJ L, 2023/2675, 7.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2675/oj).
 
 ^(50) OJ L 56, 4.3.1968, p. 1, ELI: http://data.europa.eu/eli/reg/1968/259(1)/oj.
 
 ^(51) Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (OJ L 122, 10.5.2019, p. 1, ELI: http://data.europa.eu/eli/reg_del/2019/715/oj).
 
-^(52) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of
-
-^(11) September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj).
+^(52) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj).
 
 ^(53) OJ L 136, 31.5.1999, p. 15, ELI: http://data.europa.eu/eli/agree_interinstit/1999/531/oj.
 
@@ -3282,8 +3254,6 @@ Article 65 Article 97 Article 66 Article 118 Article 67 Article 120 Article 68 A
 
 ^(58) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53, ELI: http://data.europa.eu/eli/dec/2015/444/oj).
 
-^(59) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
-
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
+^(59) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
 
 ^(60) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (Recast) (OJ L 293, 31.10.2008, p. 3-20, ELI: https://eur-lex.europa.eu/eli/reg/2008/1008/oj/eng).

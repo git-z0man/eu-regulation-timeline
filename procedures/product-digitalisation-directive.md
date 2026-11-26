@@ -10,6 +10,7 @@ Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive
 - **Council:** mandate (ST 13233/25 of 26 Sep 2025)
 - **Latest activity:** 24 Nov 2026 · European Parliament: EP position at first reading (P10_TA(2026)0384)
 - **Next steps:** Council approves the EP position (Art. 294(4) TFEU); signature and publication in the OJ
+- **Forecast:** Official Journal around Jan 2027 (median; half of the runs Dec 2026 – Apr 2027), [forecast page](../forecast/product-digitalisation-directive.html). Next step: Council adoption. On track until 5 Jan 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2026.
 
 ## Events
 

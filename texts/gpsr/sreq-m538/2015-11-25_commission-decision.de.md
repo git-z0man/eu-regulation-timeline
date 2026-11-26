@@ -3,7 +3,7 @@ act: gpsr/sreq-m538
 version: 2015-11-25_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.11.2015 über einen Normungsauftrag an das Europäische Komitee für Normung betreffend alkoholbetriebene abzuglose Feuerstellen Nur der englische, französische und deutsche Text sind verbindlich
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.11.2015 über einen Normungsauftrag an das Europäische Komitee für Normung betreffend alkoholbetriebene abzuglose Feuerstellen
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.11.2015 über einen Normungsauftrag an das Europäische Komitee für Normung betreffend alkoholbetriebene abzuglose Feuerstellen Nur der englische, französische und deutsche Text sind verbindlich
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.11.2015 über einen Normungsauftrag an das Europäische Komitee für Normung betreffend alkoholbetriebene abzuglose Feuerstellen
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

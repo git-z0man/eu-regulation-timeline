@@ -3,7 +3,7 @@ act: red/sreq-m568
 version: 2020-10-09_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 2.10.2020 über einen Normungsauftrag an das Europäische Institut für Telekommunikationsnormen hinsichtlich Handmobiltelefonen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates in Verbindung mit der Delegierten Verordnung (EU) 2019/320 der Kommission (Nur der englische, französische und deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 2.10.2020 über einen Normungsauftrag an das Europäische Institut für Telekommunikationsnormen hinsichtlich Handmobiltelefonen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates in Verbindung mit der Delegierten Verordnung (EU) 2019/320 der Kommission
 retrieved: '2026-10-09'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 2.10.2020 über einen Normungsauftrag an das Europäische Institut für Telekommunikationsnormen hinsichtlich Handmobiltelefonen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates in Verbindung mit der Delegierten Verordnung (EU) 2019/320 der Kommission (Nur der englische, französische und deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 2.10.2020 über einen Normungsauftrag an das Europäische Institut für Telekommunikationsnormen hinsichtlich Handmobiltelefonen zur Unterstützung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates in Verbindung mit der Delegierten Verordnung (EU) 2019/320 der Kommission
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

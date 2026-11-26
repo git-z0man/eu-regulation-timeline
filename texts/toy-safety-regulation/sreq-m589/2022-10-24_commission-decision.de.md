@@ -3,7 +3,7 @@ act: toy-safety-regulation/sreq-m589
 version: 2022-10-24_commission-decision
 stage: commission-decision
 language: de
-title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.10.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Spielzeug zur Unterstützung der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates (Nur der englische, französische und deutsche Text sind verbindlich)
+title: DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.10.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Spielzeug zur Unterstützung der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates
 retrieved: '2026-09-27'
 converter: tools/pdf2md.py
 counts:
@@ -17,7 +17,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 ---
 
 
-# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.10.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Spielzeug zur Unterstützung der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates (Nur der englische, französische und deutsche Text sind verbindlich)
+# DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION vom 24.10.2022 über einen Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische Normung in Bezug auf Spielzeug zur Unterstützung der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates
 
 DURCHFÜHRUNGSBESCHLUSS DER KOMMISSION
 

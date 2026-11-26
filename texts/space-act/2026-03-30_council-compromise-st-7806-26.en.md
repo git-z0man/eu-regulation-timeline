@@ -2661,9 +2661,7 @@ The staff of a national QTB shall observe professional secrecy regarding all inf
 
 ^(3) Decision No 676/2002/EC of the European Parliament and of the Council of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) (OJ L 108, 24.04.2002, p. 1–6, ELI: http://data.europa.eu/eli/dec/2002/676(1)/oj)
 
-^(4) Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December
-
-^(2018) establishing the European Electronic Communications Code, (OJ L 321, 17.12.2018, p. 36–214, ELI: http://data.europa.eu/eli/dir/2018/1972/oj)
+^(4) Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code, (OJ L 321, 17.12.2018, p. 36–214, ELI: http://data.europa.eu/eli/dir/2018/1972/oj)
 
 ^(5) Decision No 243/2012/EU of the European Parliament and of the Council of 14 March 2012 establishing a multiannual radio spectrum policy programme (OJ L 81, 21/03/2012, p. 7–17, ELI: http://data.europa.eu/eli/dec/2012/243(2)/oj)
 
@@ -2671,39 +2669,27 @@ The staff of a national QTB shall observe professional secrecy regarding all inf
 
 ^(7) Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU (OJ L 170, 12.5.2021, p. 69 ELI: ttp://data.europa.eu/eli/reg/2021/696/oj)
 
-^(8) Decision No 1313/2013/EU of the European Parliament and of the Council of 17 December
+^(8) Decision No 1313/2013/EU of the European Parliament and of the Council of 17 December 2013 on a Union Civil Protection Mechanism Text with EEA relevance (OJ L 347, 20.12.20130. ELI: http://data.europa.eu/eli/dec/2013/1313/oj
 
-^(2013) on a Union Civil Protection Mechanism Text with EEA relevance (OJ L 347, 20.12.20130. ELI: http://data.europa.eu/eli/dec/2013/1313/oj
-
-^(9) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December
-
-^(2022) on the resilience of critical entities and repealing Council Directive 2008/114/EC OJ L 333, 27.12.2022. ELI: http://data.europa.eu/eli/dir/2022/2557/oj
+^(9) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC OJ L 333, 27.12.2022. ELI: http://data.europa.eu/eli/dir/2022/2557/oj
 
 ^(10) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) OJ L 119, 4.5.2016. ELI: http://data.europa.eu/eli/reg/2016/679/2016-05-04
 
-^(11) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October
-
-^(2018) on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC OJ L 295, 21.11.2018. ELI: http://data.europa.eu/eli/reg/2018/1725/oj
+^(11) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC OJ L 295, 21.11.2018. ELI: http://data.europa.eu/eli/reg/2018/1725/oj
 
 ^(12) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, http://data.europa.eu/eli/reg/2008/765/oj).
 
-^(13) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
-
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj)
+^(13) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80, ELI: http://data.europa.eu/eli/dir/2022/2555/oj)
 
 ^(14) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
 
-^(15) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December
-
-^(2022) on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).
+^(15) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164, ELI: http://data.europa.eu/eli/dir/2022/2557/oj).
 
 ^(16) Commission Recommendation (EU) 2021/2279 of 15 December 2021 on the use of the Environmental Footprint methods to measure and communicate the life cycle environmental performance of products and organisations (OJ L 471, 30.12.2021, ELI: http://data.europa.eu/eli/reco/2021/2279/oj).
 
 ^(17) Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act)
 
-^(18) Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December
-
-^(2023) on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act)
+^(18) Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act)
 
 ^(19) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (ELI: http://data.europa.eu/eli/reg/2012/1025/oj)
 

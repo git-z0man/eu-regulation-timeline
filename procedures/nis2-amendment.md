@@ -10,6 +10,7 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 - **Council:** working party, latest document 23 Nov 2026
 - **Latest activity:** 23 Nov 2026 · Council: Presentation by the Presidency (WK 18127/26)
 - **Next steps:** 8 Mar 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Feb 2028 (median; half of the runs Sep 2027 – Sep 2028), [forecast page](../forecast/nis2-amendment.html). Next step: EP committee vote. On track until 16 Dec 2026, 20 days from the data date (if it came later, the expected publication would move). If it came today: publication around Aug 2027.
 
 ## Events
 

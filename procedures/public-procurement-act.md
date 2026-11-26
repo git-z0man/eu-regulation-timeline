@@ -10,6 +10,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 - **Council:** working party, latest document 17 Nov 2026
 - **Latest activity:** 20 Nov 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … (CM 5033/26)
 - **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Nov 2028 (median; half of the runs May 2028 – Nov 2029), [forecast page](../forecast/public-procurement-act.html). Next step: EP committee vote. On track until 17 Nov 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

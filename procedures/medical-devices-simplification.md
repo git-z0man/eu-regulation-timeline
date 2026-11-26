@@ -10,6 +10,7 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 - **Council:** draft mandate before Coreper (ST 15342/26 ADD 2 of 20 Nov 2026)
 - **Latest activity:** 20 Nov 2026 · Council: General approach (ST 15342/26)
 - **Next steps:** 3 Dec 2026: SANT committee vote scheduled (EP committee agenda); 18 Jan 2027: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: Coreper to agree the mandate (ST 15342/26 ADD 2)
+- **Forecast:** Official Journal around Dec 2027 (median; half of the runs Sep 2027 – Sep 2028), [forecast page](../forecast/medical-devices-simplification.html). Next step: EP committee vote, scheduled for 3 Dec 2026 (EP committee agenda). The forecast starts from that day.
 
 ## Events
 

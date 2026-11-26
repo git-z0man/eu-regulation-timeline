@@ -95,8 +95,6 @@ V. CONCLUSION
 
 ^(4) 8400/26.
 
-^(5) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December
-
-^(2022) on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
+^(5) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, ELI: http://data.europa.eu/eli/dir/2022/2555/oj).
 
 ^(6) 14787/26 (track changes) and 15118/26 (clean).

@@ -10,6 +10,7 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 - **Council:** working party, latest document 25 Nov 2026
 - **Latest activity:** 25 Nov 2026 · Council: Proposal for a Regulation of European Parliament and of the Council on the European Union … (WK 18205/26)
 - **Next steps:** EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around May 2028 (median; half of the runs Jan 2028 – Dec 2028), [forecast page](../forecast/csa2.html). Next step: EP committee vote. On track until 7 Apr 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

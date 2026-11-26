@@ -10,6 +10,7 @@ Drawing: [industrial-accelerator-act.svg](industrial-accelerator-act.svg), [indu
 - **Council:** working party, latest document 23 Nov 2026
 - **Latest activity:** 23 Nov 2026 · Council: Fourth Presidency compromise text (ST 15418/26)
 - **Next steps:** 14 Dec 2026: Indicative plenary sitting date, 1st reading (EP forecast); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Jun 2028 (median; half of the runs Dec 2027 – Nov 2028), [forecast page](../forecast/industrial-accelerator-act.html). Next step: EP committee vote. On track until 1 Apr 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 

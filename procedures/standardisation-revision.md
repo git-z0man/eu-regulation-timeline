@@ -10,6 +10,7 @@ Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standard
 - **Council:** working party, latest document 19 Nov 2026
 - **Latest activity:** 19 Nov 2026 · Council: Chapter 4 and 5/Presentation by the Commission (WK 17710/26)
 - **Next steps:** Referral to an EP committee; Council working party
+- **Forecast:** Official Journal around Oct 2028 (median; half of the runs Jun 2028 – Dec 2029), [forecast page](../forecast/standardisation-revision.html). Next step: Referral to EP committee. On track until 15 Dec 2026 (if it came later, the expected publication would move). If it came today: publication around Sep 2028.
 
 ## Events
 
