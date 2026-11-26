@@ -2817,6 +2817,16 @@ All texts of this act as one file: [guidance-enisa-voices-cybersecurity-certific
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-15_final | final | – | [en](guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md) | [source](https://www.enisa.europa.eu/sites/default/files/2025-12/2025_Voices%20of%20EU%20Cybersecurity%20Certification.pdf) |
 
+## EP Rules of Procedure
+
+`guidance/eu/ep-rules-of-procedure` – Rules of Procedure of the European Parliament, 10th parliamentary term, May 2026
+
+All texts of this act as one file: [guidance-eu-ep-rules-of-procedure.zip](downloads/guidance-eu-ep-rules-of-procedure.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-01_edition | edition | – | [en](guidance/eu/ep-rules-of-procedure/2026-05-01_edition.en.md) | [de](guidance/eu/ep-rules-of-procedure/2026-05-01_edition.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/eu/ep-rules-of-procedure/2026-05-01_edition.de.md) | [source](https://www.europarl.europa.eu/doceo/document/lastrules/RULES_DE.pdf) |
+
 ## IIA recasting 2001
 
 `guidance/eu/iia-recasting-2001` – Interinstitutional Agreement of 28 November 2001 on a more structured use of the recasting technique for legal acts (2002/C 77/01)

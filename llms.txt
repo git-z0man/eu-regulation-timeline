@@ -272,6 +272,7 @@ Unofficial Markdown conversion made for reading and searching; conversion errors
 - ENISA Threat Landscape 2026: [2026-09-22_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/enisa/threat-landscape-2026/2026-09-22_final.en.md)
 - ENISA’s view on Cybersecurity in the Frontier AI Era: [2026-07-07_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/enisa/view-cybersecurity-frontier-ai-era/2026-07-07_final.en.md)
 - Voices of EU Cybersecurity Certification: [2025-12-15_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/enisa/voices-cybersecurity-certification/2025-12-15_final.en.md)
+- EP Rules of Procedure: [2026-05-01_edition](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/eu/ep-rules-of-procedure/2026-05-01_edition.en.md)
 - IIA recasting 2001: [2002-03-28_agreement](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/eu/iia-recasting-2001/2002-03-28_agreement.en.md)
 - NCSC-IE advisory on refrigeration controllers: [2026-11-03_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/ncsc-ie/refrigeration-controllers-2026/2026-11-03_final.en.md)
 - EU 5G Toolbox: [2020-01-29_final](https://git-z0man.github.io/eu-regulation-timeline/texts/guidance/nis-cg/5g-toolbox/2020-01-29_final.en.md)
