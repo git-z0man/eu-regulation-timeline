@@ -24,29 +24,29 @@
 <text x="830.0" y="488" text-anchor="middle" font-size="12" fill="#454c53">120</text>
 <text x="830" y="98" text-anchor="end" font-size="12" fill="#454c53">EUR million</text>
 <text x="144" y="131.0" text-anchor="end" font-size="13" fill="#14181c">Greece</text>
-<rect x="154" y="119.0" width="564.8" height="14" fill="#0b4f57"><title>Greece, EU contribution: 100.3</title></rect>
-<text x="723.8" y="130.0" font-size="12" font-weight="600" fill="#14181c">100.3</text>
+<rect x="154" y="119.0" width="568.2" height="14" fill="#0b4f57"><title>Greece, EU contribution: 100.9</title></rect>
+<text x="727.2" y="130.0" font-size="12" font-weight="600" fill="#14181c">100.9</text>
 <text x="144" y="161.0" text-anchor="end" font-size="13" fill="#14181c">Italy</text>
-<rect x="154" y="149.0" width="355.2" height="14" fill="#0b4f57"><title>Italy, EU contribution: 63.1</title></rect>
-<text x="514.2" y="160.0" font-size="12" font-weight="600" fill="#14181c">63.1</text>
+<rect x="154" y="149.0" width="355.8" height="14" fill="#0b4f57"><title>Italy, EU contribution: 63.2</title></rect>
+<text x="514.8" y="160.0" font-size="12" font-weight="600" fill="#14181c">63.2</text>
 <text x="144" y="191.0" text-anchor="end" font-size="13" fill="#14181c">Germany</text>
 <rect x="154" y="179.0" width="309.5" height="14" fill="#0b4f57"><title>Germany, EU contribution: 54.9</title></rect>
 <text x="468.5" y="190.0" font-size="12" font-weight="600" fill="#14181c">54.9</text>
 <text x="144" y="221.0" text-anchor="end" font-size="13" fill="#14181c">Cyprus</text>
-<rect x="154" y="209.0" width="292.3" height="14" fill="#0b4f57"><title>Cyprus, EU contribution: 51.9</title></rect>
-<text x="451.3" y="220.0" font-size="12" font-weight="600" fill="#14181c">51.9</text>
+<rect x="154" y="209.0" width="296.9" height="14" fill="#0b4f57"><title>Cyprus, EU contribution: 52.7</title></rect>
+<text x="455.9" y="220.0" font-size="12" font-weight="600" fill="#14181c">52.7</text>
 <text x="144" y="251.0" text-anchor="end" font-size="13" fill="#14181c">Belgium</text>
-<rect x="154" y="239.0" width="276.4" height="14" fill="#0b4f57"><title>Belgium, EU contribution: 49.1</title></rect>
-<text x="435.4" y="250.0" font-size="12" font-weight="600" fill="#14181c">49.1</text>
+<rect x="154" y="239.0" width="278.8" height="14" fill="#0b4f57"><title>Belgium, EU contribution: 49.5</title></rect>
+<text x="437.8" y="250.0" font-size="12" font-weight="600" fill="#14181c">49.5</text>
 <text x="144" y="281.0" text-anchor="end" font-size="13" fill="#14181c">Spain</text>
-<rect x="154" y="269.0" width="242.8" height="14" fill="#0b4f57"><title>Spain, EU contribution: 43.1</title></rect>
-<text x="401.8" y="280.0" font-size="12" font-weight="600" fill="#14181c">43.1</text>
+<rect x="154" y="269.0" width="244.0" height="14" fill="#0b4f57"><title>Spain, EU contribution: 43.3</title></rect>
+<text x="403.0" y="280.0" font-size="12" font-weight="600" fill="#14181c">43.3</text>
 <text x="144" y="311.0" text-anchor="end" font-size="13" fill="#14181c">Romania</text>
-<rect x="154" y="299.0" width="234.8" height="14" fill="#0b4f57"><title>Romania, EU contribution: 41.7</title></rect>
-<text x="393.8" y="310.0" font-size="12" font-weight="600" fill="#14181c">41.7</text>
+<rect x="154" y="299.0" width="240.8" height="14" fill="#0b4f57"><title>Romania, EU contribution: 42.7</title></rect>
+<text x="399.8" y="310.0" font-size="12" font-weight="600" fill="#14181c">42.7</text>
 <text x="144" y="341.0" text-anchor="end" font-size="13" fill="#14181c">France</text>
-<rect x="154" y="329.0" width="223.3" height="14" fill="#0b4f57"><title>France, EU contribution: 39.6</title></rect>
-<text x="382.3" y="340.0" font-size="12" font-weight="600" fill="#14181c">39.6</text>
+<rect x="154" y="329.0" width="231.0" height="14" fill="#0b4f57"><title>France, EU contribution: 41.0</title></rect>
+<text x="390.0" y="340.0" font-size="12" font-weight="600" fill="#14181c">41.0</text>
 <text x="144" y="371.0" text-anchor="end" font-size="13" fill="#14181c">Poland</text>
 <rect x="154" y="359.0" width="166.6" height="14" fill="#0b4f57"><title>Poland, EU contribution: 29.6</title></rect>
 <text x="325.6" y="370.0" font-size="12" font-weight="600" fill="#14181c">29.6</text>
@@ -57,9 +57,9 @@
 <rect x="154" y="419.0" width="134.1" height="14" fill="#0b4f57"><title>Ireland, EU contribution: 23.8</title></rect>
 <text x="293.1" y="430.0" font-size="12" font-weight="600" fill="#14181c">23.8</text>
 <text x="144" y="461.0" text-anchor="end" font-size="13" fill="#14181c">Croatia</text>
-<rect x="154" y="449.0" width="127.3" height="14" fill="#0b4f57"><title>Croatia, EU contribution: 22.6</title></rect>
-<text x="286.3" y="460.0" font-size="12" font-weight="600" fill="#14181c">22.6</text>
-<text x="24" y="526" font-size="11.5" fill="#5b646b">Source: EU Funding &amp; Tenders Portal, projects managed by the ECCC.</text><text x="24" y="543" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 25 Nov 2026</text>
+<rect x="154" y="449.0" width="130.4" height="14" fill="#0b4f57"><title>Croatia, EU contribution: 23.2</title></rect>
+<text x="289.4" y="460.0" font-size="12" font-weight="600" fill="#14181c">23.2</text>
+<text x="24" y="526" font-size="11.5" fill="#5b646b">Source: EU Funding &amp; Tenders Portal, projects managed by the ECCC.</text><text x="24" y="543" font-size="11.5" fill="#5b646b">Steffen Zimmermann, git-z0man.github.io/eu-regulation-timeline, CC BY 4.0 · as of 26 Nov 2026</text>
 </svg>
 
 </svg>

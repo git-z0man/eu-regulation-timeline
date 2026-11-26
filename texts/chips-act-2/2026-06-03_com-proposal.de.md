@@ -1080,11 +1080,10 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 - (5) Die Kommission unterrichtet das Europäische Halbleitergremium regelmäßig über die Fortschritte bei der Durchführung des operativen Ziels 6 der Initiative „Chips für Europa 2.0“.
 
-## Kapitel III
+<a id="chapter-iii"></a>
+## Kapitel III – Versorgungssicherheit und Nachfrage
 
-## Versorgungssicherheit und Nachfrage
-
-<a id="chapter-ii-section-1"></a>
+<a id="chapter-iii-section-1"></a>
 ## Abschnitt 1 – Halbleiterfertigungsfähigkeiten
 
 <a id="art-13"></a>
@@ -1231,7 +1230,7 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
   - d) einschlägige Förder- und Finanzierungsprogramme der Union.
 
-<a id="chapter-ii-section-2"></a>
+<a id="chapter-iii-section-2"></a>
 ## Abschnitt 2 – Genehmigungsverfahren
 
 <a id="art-21"></a>
@@ -1307,7 +1306,7 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 - (2) Die Kommission verweist auf ihrer Website in zentralisierter und leicht zugänglicher Weise auf die von den Mitgliedstaaten bereitgestellten Informationen, um einen umfassenden und klaren Überblick über alle einschlägigen Informationen je Mitgliedstaat zu gewährleisten.
 
-<a id="chapter-ii-section-3"></a>
+<a id="chapter-iii-section-3"></a>
 ## Abschnitt 3 – Europäische Halbleiterexzellenzregionen
 
 <a id="art-26"></a>
@@ -1400,7 +1399,7 @@ Die Initiative „Chips für Europa 2.0“ wird in Synergie mit Unionsprogrammen
 
 - (5) Die Kommission kann die Arbeit des Netzes erleichtern und Sitzungen, Workshops oder andere Tätigkeiten organisieren, um den Informationsaustausch und die Zusammenarbeit zwischen den teilnehmenden Regionen zu unterstützen.
 
-<a id="chapter-ii-section-4"></a>
+<a id="chapter-iii-section-4"></a>
 ## Abschnitt 4 – Resilienz in den Lieferketten
 
 <a id="art-30"></a>

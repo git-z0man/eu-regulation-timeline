@@ -2082,6 +2082,16 @@ All texts of this act as one file: [guidance-commission-progress-report-virkkune
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-04_final | final | – | [en](guidance/commission/progress-report-virkkunen-2026/2026-11-04_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/progress-report-virkkunen-2026/2026-11-04_final.en.md) | [source](https://commission.europa.eu/document/download/2258dd34-0863-440d-adcc-4ac4650d4547_en?filename=APR_Virkkunen_2026.pdf) |
 
+## Quantum Act FAQ
+
+`guidance/commission/quantum-act-faq` – The Quantum Act explained (questions and answers on the Commission's proposal for a Quantum Act, last update 25 November 2026)
+
+All texts of this act as one file: [guidance-commission-quantum-act-faq.zip](downloads/guidance-commission-quantum-act-faq.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-25_final | final | – | [en](guidance/commission/quantum-act-faq/2026-11-25_final.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/guidance/commission/quantum-act-faq/2026-11-25_final.en.md) | [source](https://digital-strategy.ec.europa.eu/en/faqs/quantum-act-explained) |
+
 ## Recommendation (EU) 2019/534
 
 `guidance/commission/recommendation-2019-534` – Commission Recommendation (EU) 2019/534 of 26 March 2019 – Cybersecurity of 5G networks
@@ -3283,6 +3293,7 @@ All texts of this act as one file: [product-digitalisation-directive.zip](downlo
 | 2026-06-24_agreed-text-st-10482-26-add-2-rev-1 | agreed-text | ST 10482/26 ADD 2 REV 1 | [en](product-digitalisation-directive/2026-06-24_agreed-text-st-10482-26-add-2-rev-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-24_agreed-text-st-10482-26-add-2-rev-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf) |
 | 2026-06-24_council-confirmation-st-10482-26-rev-2 | council-confirmation | ST 10482/26 REV 2 | [en](product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) |
 | 2026-06-26_agreed-text-pe790-896 | agreed-text | PE790.896 | [en](product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790896/IMCO-AG-790896_en.docx) |
+| 2026-11-24_ep-position-p10-ta-2026-0384 | ep-position | P10_TA(2026)0384 | [en](product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.en.md) | [de](product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.de.md) | [source](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0384_de.docx) |
 
 ## Omnibus IV – Digitalisation and common specifications (Regulation)
 
@@ -3314,6 +3325,7 @@ All texts of this act as one file: [product-digitalisation-regulation.zip](downl
 | 2026-06-24_agreed-text-st-10482-26-add-2-rev-1 | agreed-text | ST 10482/26 ADD 2 REV 1 | [en](product-digitalisation-regulation/2026-06-24_agreed-text-st-10482-26-add-2-rev-1.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2026-06-24_agreed-text-st-10482-26-add-2-rev-1.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf) |
 | 2026-06-24_council-confirmation-st-10482-26-rev-2 | council-confirmation | ST 10482/26 REV 2 | [en](product-digitalisation-regulation/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | [source](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) |
 | 2026-06-26_agreed-text-pe790-900 | agreed-text | PE790.900 | [en](product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) | [source](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790900/IMCO-AG-790900_en.docx) |
+| 2026-11-24_ep-position-p10-ta-2026-0385 | ep-position | P10_TA(2026)0385 | [en](product-digitalisation-regulation/2026-11-24_ep-position-p10-ta-2026-0385.en.md) | [de](product-digitalisation-regulation/2026-11-24_ep-position-p10-ta-2026-0385.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-regulation/2026-11-24_ep-position-p10-ta-2026-0385.de.md) | [source](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0385_de.docx) |
 
 ## PPA
 
@@ -3324,6 +3336,16 @@ All texts of this act as one file: [public-procurement-act.zip](downloads/public
 | Version | Stage | Document | EN | DE | Read | Official source |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-09-09_com-proposal | com-proposal | 52026PC0590 | [en](public-procurement-act/2026-09-09_com-proposal.en.md) | [de](public-procurement-act/2026-09-09_com-proposal.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/public-procurement-act/2026-09-09_com-proposal.de.md) | [source](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52026PC0590) |
+
+## Quantum Act
+
+`quantum-act` – Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening the Union's quantum ecosystem (Quantum Act)
+
+All texts of this act as one file: [quantum-act.zip](downloads/quantum-act.zip)
+
+| Version | Stage | Document | EN | DE | Read | Official source |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-25_com-proposal-st-16438-26 | com-proposal | – | [en](quantum-act/2026-11-25_com-proposal-st-16438-26.en.md) | – | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/quantum-act/2026-11-25_com-proposal-st-16438-26.en.md) | [source](http://publications.europa.eu/resource/cellar/a4c2f277-e8b5-11f1-b745-01aa75ed71a1.0001.02/DOC_1) |
 
 ## RED
 

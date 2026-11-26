@@ -1,15 +1,15 @@
 # Legislative procedure – Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)
 
-Procedure 2025/0133(COD), as of 25 Nov 2026.
+Procedure 2025/0133(COD), as of 26 Nov 2026.
 Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive.svg), [product-digitalisation-directive.pdf](product-digitalisation-directive.pdf) · Web page: [product-digitalisation-directive.html](product-digitalisation-directive.html)
 
 ## Status and next steps
 
-- **Stage:** Provisional agreement (last trilogue 9 Jun 2026)
-- **Parliament:** mandate 11 Mar 2026
+- **Stage:** EP position adopted
+- **Parliament:** position at first reading 24 Nov 2026
 - **Council:** mandate (ST 13233/25 of 26 Sep 2025)
-- **Latest activity:** 24 Nov 2026 · European Parliament: Plenary vote
-- **Next steps:** EP plenary vote on the agreed text (Art. 294(3) TFEU), then Council adoption (Art. 294(4) TFEU), with legal-linguistic revision before or after the vote
+- **Latest activity:** 24 Nov 2026 · European Parliament: EP position at first reading (P10_TA(2026)0384)
+- **Next steps:** Council approves the EP position (Art. 294(4) TFEU); signature and publication in the OJ
 
 ## Events
 
@@ -47,7 +47,7 @@ Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive
 | 2026-06-24 | Council | Confirmation of the final compromise text with a view to agreement | [ST 10482/26 REV 2](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) · [en.md](../texts/product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | Cellar procedure file 2025/133 (Council register) |
 | 2026-07-14 | European Parliament | Committee approves provisional agreement | [PE790.896](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790896/IMCO-AG-790896_en.pdf) · [en.md](../texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) | EP Open Data API, procedure 2025-0133 (COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT) |
 | 2026-09-07 | European Parliament | JURI opinion adopted | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (COMMITTEE_ADOPTING_OPINION) |
-| 2026-11-24 | European Parliament | Plenary vote | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29) | EP Open Data API, procedure 2025-0133 (PLENARY_VOTE) |
+| 2026-11-24 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P10_TA(2026)0384](https://www.europarl.europa.eu/doceo/document/TA-10-2026-0384_EN.pdf) · [en.md](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.en.md) [de.md](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.de.md) | EP Open Data API, procedure 2025-0133 (PLENARY_ADOPT_POSITION) |
 
 ## Documents
 
@@ -109,8 +109,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-06-26 | [ST 10980/26](https://data.consilium.europa.eu/doc/document/ST-10980-2026-INIT/en/pdf) | council-note | Offer letter to the European Parliament | public | – | – | – |
 | 2026-11-18 | [A10-0023/1-180](https://www.europarl.europa.eu/doceo/document/A-10-2026-0023-AM-001-180_EN.pdf) | ep-amendments | Amendment 001-180 - Reinier Van Lanschot - Report A10-0023/2026 - Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
 | 2026-11-18 | [A10-0023/181](https://www.europarl.europa.eu/doceo/document/A-10-2026-0023-AM-181-181_EN.pdf) | ep-amendments | Amendment - Anna Cavazzini - Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
+| 2026-11-24 | [P10_TA(2026)0384](https://www.europarl.europa.eu/doceo/document/TA-10-2026-0384_EN.pdf) | ep-position | Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | [en](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.en.md) [de](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.de.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
 
 ## Texts as Markdown
 
@@ -137,5 +138,6 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-06-24 | agreed-text | [ST 10482/26 ADD 2 REV 1](https://data.consilium.europa.eu/doc/document/ST-10482-2026-ADD-2-REV-1/en/pdf) | [en](../texts/product-digitalisation-directive/2026-06-24_agreed-text-st-10482-26-add-2-rev-1.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-24_agreed-text-st-10482-26-add-2-rev-1.en.md) |
 | 2026-06-24 | council-confirmation | [ST 10482/26 REV 2](https://data.consilium.europa.eu/doc/document/ST-10482-2026-REV-2/en/pdf) | [en](../texts/product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-24_council-confirmation-st-10482-26-rev-2.en.md) |
 | 2026-06-26 | agreed-text | [PE790.896](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790896/IMCO-AG-790896_en.docx) | [en](../texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-06-26_agreed-text-pe790-896.en.md) |
+| 2026-11-24 | ep-position | [P10_TA(2026)0384](https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0384_en.docx) | [en](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.en.md) [de](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.en.md) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

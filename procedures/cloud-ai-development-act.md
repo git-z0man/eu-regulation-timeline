@@ -1,14 +1,14 @@
 # Legislative procedure – Cloud and AI Development Act – COM(2026) 502 (proposal)
 
-Procedure 2026/0138(COD), as of 25 Nov 2026.
+Procedure 2026/0138(COD), as of 26 Nov 2026.
 Drawing: [cloud-ai-development-act.svg](cloud-ai-development-act.svg), [cloud-ai-development-act.pdf](cloud-ai-development-act.pdf) · Web page: [cloud-ai-development-act.html](cloud-ai-development-act.html)
 
 ## Status and next steps
 
 - **Stage:** EP committee stage
 - **Parliament:** draft report 17 Nov 2026
-- **Council:** working party, latest document 16 Nov 2026
-- **Latest activity:** 17 Nov 2026 · European Parliament: CJ18 draft report (PE797.430)
+- **Council:** working party, latest document 25 Nov 2026
+- **Latest activity:** 25 Nov 2026 · Council: Opinion on the application of the Principles of Subsidiarity and Proportionality (ST 16444/26)
 - **Next steps:** 1 Dec 2026: CJ18 (IMCO, ITRE) committee meeting (EP committee agenda); 10 Dec 2026: Deadline for tabling amendments: 10 December 2026, 12.00 (CJ18 (IMCO, ITRE)) (EP committee agenda); EP: amendments and committee vote on the report and mandate; Council: working party towards a negotiating mandate
 
 ## Events
@@ -72,8 +72,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-13 | [ST 15850/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103315) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality - Cover note from the Portuguese Parliament (Assembleia da República) | not public\* | – | – | – |
 | 2026-11-16 | [ST 15830/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103754) | council-compromise | Presidency compromise text (Part 2) | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20ST%2015830%2F2026%20INIT%20%28Cloud%20and%20AI%20Development%20Act%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20ST%2015830%2F2026%20INIT%20of%2016%20November%202026%3A%20Presidency%20compromise%20text%20%28Part%202%29%0A%20%20%28interinstitutional%20file%202026%2F0138%28COD%29%2C%20Cloud%20and%20AI%20Development%20Act%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AST-15830-2026-INIT) | – | – |
 | 2026-11-17 | [PE797.430](https://www.europarl.europa.eu/doceo/document/CJ18-PR-797430_EN.pdf) | ep-draft-report | DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe’s …<br>*Our summary:* Joint draft report of 17 November 2026 of the co-rapporteurs of the Industry, Research and Energy and the Internal Market committees on the proposed Cloud and AI Development Act, with 366 amendments to the Commission proposal; it is the rapporteurs' draft, not the position of the committees or of Parliament, and not law. On data centres it would make the designation of acceleration zones optional and add an impact analysis, grid, water and local benefit requirements, anti-speculation rules for grid reservations and a time-limited priority for Union operators not controlled from third countries. On the cloud sovereignty framework it would add a list of public sector activities assigned to each assurance level (new Annex IIa), a Commission methodology with powers to warn, suspend and take over national recognition, auditors approved by national authorities and limits on delegated acts amending the criteria, while easing some criteria, such as processing of telemetry and operational metadata outside the Union for cybersecurity purposes at levels 1 to 3. It would oblige private entities in the sectors of Annex I to the NIS-2 Directive to assess their cloud workloads and, after a transition, to use recognised services for critical ones, and it raises the procurement target for innovative SMEs from 25 % to 35 %.<br>*Updated 2026-11-24:* Decided points applied (rule, r1, r2). r1: the open point on acceleration zones says that the text supports two readings of Art. 10 now that designation is optional (Am 103), that our reading is that the duties of Art. 10(2), 10(3a) and 10a apply only once a Member State designates a zone, and that the remaining deadline in Art. 10(1) looks like a drafting leftover the rapporteurs may still correct. r2: the press claim on the easing of the sovereignty requirements stays confirmed, as it concerns the requirements on providers. Summary unchanged. (source: [PE797.430](https://www.europarl.europa.eu/doceo/document/CJ18-PR-797430_EN.pdf)) | public | – | – | [en](../texts/cloud-ai-development-act/2026-11-17_ep-draft-report-pe797-430.en.md) |
+| 2026-11-25 | [ST 16444/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/105744) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
 
 ## Texts as Markdown
 

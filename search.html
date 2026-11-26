@@ -1,0 +1,546 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Search – EU regulation timeline</title><meta name="description" content="Search the regulations, procedures, news, standards and official texts of the EU regulation timeline."><style>
+:root { --bg: var(--s-paper); --panel: var(--s-sheet); --ink: var(--s-ink); --muted: var(--s-ink2); --line: var(--s-hair);
+  --accent: var(--s-accent); --chip: var(--s-tint); --rule: var(--s-rule); }
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--s-sans); font-variant-numeric: tabular-nums; }
+a { color: var(--accent); text-underline-offset: 3px; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent); }
+a:hover { text-decoration-color: currentColor; }
+a:focus-visible, button:focus-visible, summary:focus-visible, select:focus-visible, input:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px; }
+h1 { font: 600 clamp(26px, 3vw, 34px)/1.15 var(--s-serif); margin: 6px 0 6px; text-wrap: balance; }
+h2 { font: 600 22px/1.25 var(--s-serif); margin: 40px 0 12px; padding-bottom: 6px; border-bottom: 3px solid var(--rule);
+  text-wrap: balance; }
+h3 { font-size: 16px; font-weight: 700; margin: 22px 0 6px; }
+p { max-width: 80ch; }
+.muted { color: var(--muted); } .small { font-size: 14px; }
+.signals-list { padding-left: 20px; max-width: 80ch; } .signals-list li { margin: 0 0 10px; }
+.signals blockquote { margin: 4px 0 0; padding-left: 10px; border-left: 3px solid var(--line); max-width: 80ch; }
+table { border-collapse: collapse; width: 100%; font-size: 15px; background: var(--panel); }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 700; white-space: nowrap; border-bottom: 1.5px solid var(--rule); }
+td.nowrap { white-space: nowrap; }
+tbody th { font-weight: 600; border-bottom: 1px solid var(--line); }   /* a row heading: a hairline, as every row */
+.table { overflow-x: auto; }
+/* phones: a table of two or three columns fits the screen and wraps; a wider one is read as one block per row
+   (`phone-stack`, tools/sitenav.py); one that cannot be (merged cells) keeps readable columns and scrolls sideways
+   inside its frame, the page does not */
+@media (max-width: 700px) { .table > table:where(:has(tr > :nth-child(4)):not(.phone-stack)) { min-width: 720px; }
+  .table > table:where(:not(:has(tr > :nth-child(4)))) td { overflow-wrap: anywhere; } }
+details { margin: 8px 0; } summary { cursor: pointer; font-weight: 600; margin: 6px 0; }
+td > details, td > details > summary { margin-top: 0; }   /* a fold-out in a cell starts on the row's first line */
+code { font: 0.92em ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+footer { color: var(--muted); font-size: 14px; margin-top: 36px; padding-top: 10px; border-top: 1px solid var(--line); }
+footer p { max-width: none; }
+/* a switch of several views or filters: text with an underline, not pills */
+.toggles button, button.toggle { font: inherit; color: var(--muted); background: none; border: 0; border-bottom: 2px solid transparent;
+  padding: 2px 0; cursor: pointer; }
+.toggles button:hover, button.toggle:hover { color: var(--ink); border-bottom-color: var(--line); }
+.toggles button[aria-pressed="true"], button.toggle[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+
+.wrap { max-width: 1320px; margin: 0 auto; padding: 0 24px 56px; }
+@media (max-width: 700px) { .wrap { padding-inline: 16px; } }
+.srch { max-width: 56rem; }
+.srch h1 { margin-bottom: 10px; }
+.srch .lang { float: right; font-size: 14px; color: var(--s-ink2); margin-top: 14px; }
+.srch .lang button { font: inherit; color: var(--s-ink2); background: none; border: 0; padding: 2px 0; cursor: pointer;
+  border-bottom: 2px solid transparent; }
+.srch .lang button[aria-pressed="true"] { color: var(--s-ink); border-bottom-color: var(--s-accent); }
+.srch form { display: flex; gap: 16px; align-items: baseline; margin: 6px 0 14px; }
+.srch label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.srch input[type="search"] { flex: 1; min-width: 0; font: inherit; font-size: 20px; color: var(--s-ink); background: transparent;
+  border: 0; border-bottom: 2px solid var(--s-ink); border-radius: 0; padding: 8px 2px; -webkit-appearance: none; appearance: none; }
+.srch input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; }
+.srch form button { font: inherit; font-weight: 600; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.srch .toggles { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 4px 0 10px; font-size: 15px; }
+.srch .toggles button { padding: 4px 0; }
+.srch .toggles .n { color: var(--s-ink2); font-size: 13px; margin-left: 3px; }
+.srch .toggles button[aria-pressed="true"] .n { color: var(--s-accent); }
+#count { margin: 8px 0; color: var(--s-ink2); font-size: 14px; min-height: 1.4em; }
+ol.results { list-style: none; margin: 0; padding: 0; }
+ol.results li { border-top: 1px solid var(--s-hair); padding: 12px 0 13px; }
+ol.results .rtype { font-size: 12.5px; letter-spacing: .04em; text-transform: uppercase; color: var(--s-ink2); margin-right: 8px; }
+ol.results a.rtitle { font-size: 17px; font-weight: 600; overflow-wrap: anywhere; }
+ol.results .rsec { display: block; font-size: 15px; margin-top: 2px; overflow-wrap: anywhere; }
+ol.results .rsnip { margin: 3px 0 0; font-size: 15px; color: var(--s-ink); max-width: 80ch; overflow-wrap: anywhere; }
+ol.results .rpath { display: block; margin-top: 3px; font-size: 13px; color: var(--s-ink2); overflow-wrap: anywhere; }
+mark { background: var(--s-accent-tint); color: inherit; padding: 0; border-bottom: 1px solid var(--s-accent); }
+.srch .hint { max-width: 60ch; }
+.srch .hint ul { list-style: none; padding: 0; margin: 6px 0; }
+.srch .hint li { padding: 3px 0; }
+p.extsearch { margin: 18px 0 0; font-size: 14px; color: var(--s-ink2); }
+button.more { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 12px 0; cursor: pointer;
+  text-decoration: underline; text-underline-offset: 3px; }
+</style><script>(function(){try{var d=document.documentElement,t=localStorage.getItem('rt:theme'),p=localStorage.getItem('rt:palette');if(t)d.dataset.theme=t;if(p==='rank')d.dataset.palette=p;}catch(e){}})();</script><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="manifest" href="site.webmanifest"><meta name="apple-mobile-web-app-title" content="EU Regulation"><meta name="theme-color" content="#0f5a63"></head><body><style>@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/source-sans-3-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-serif-4-latin-600-normal.woff2") format("woff2"); }
+:root { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; --s-sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; --s-serif: "Source Serif 4", Georgia, "Times New Roman", serif; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; } }
+:root[data-theme="dark"] { --s-paper: #14181b; --s-sheet: #1a1f23; --s-ink: #e9ecee; --s-ink2: #b4bcc3; --s-rule: #e9ecee; --s-hair: #e9ecee2b; --s-tint: #1f2629; --s-accent: #6cbcc5; --s-accent-tint: #16353a; --s-act: #6cbcc5; --s-act-pale: #12393d; --s-prepare: #4f9ba3; --s-prepare-pale: #163437; --s-operate: #6e8c90; --s-operate-pale: #1e2d2f; --s-monitor: #5d6f72; --s-monitor-pale: #22292b; --s-low: #4a5155; --s-low-pale: #24282b; --s-low-line: #6c7479; color-scheme: dark; }
+:root[data-palette="rank"] { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; }
+@media (prefers-color-scheme: dark) { :root[data-palette="rank"]:not([data-theme="light"]) { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; } }
+:root[data-palette="rank"][data-theme="dark"] { --s-act: #e5675f; --s-act-pale: #4a2422; --s-prepare: #e8a33d; --s-prepare-pale: #4a3719; --s-operate: #5fae7b; --s-operate-pale: #1f3a2a; --s-monitor: #6b95d8; --s-monitor-pale: #1f2f4a; --s-low: #8a9096; --s-low-pale: #2c3034; }
+@media print { html:root:not([data-print]) { --s-paper: #fafaf8; --s-sheet: #ffffff; --s-ink: #14181c; --s-ink2: #454c53; --s-rule: #14181c; --s-hair: #14181c24; --s-tint: #eef2f2; --s-accent: #0f5a63; --s-accent-tint: #e3eeef; color-scheme: light; }
+  html:root:not([data-print]):not([data-palette="rank"]) { --s-act: #0b4f57; --s-act-pale: #cfe2e4; --s-prepare: #3d7f86; --s-prepare-pale: #d9e9ea; --s-operate: #6e9195; --s-operate-pale: #dde8e9; --s-monitor: #a7b7ba; --s-monitor-pale: #ecf0f1; --s-low: #cdd1d4; --s-low-pale: #f1f2f3; --s-low-line: #7f878d; }
+  html:root[data-palette="rank"]:not([data-print]) { --s-act: #d94841; --s-act-pale: #f6d3d0; --s-prepare: #e8a33d; --s-prepare-pale: #f9e6c4; --s-operate: #4f9a6a; --s-operate-pale: #d5eadc; --s-monitor: #4a78c2; --s-monitor-pale: #dce6f6; --s-low: #9aa0a6; --s-low-pale: #e6e8ea; } }
+
+/* the bar sits in its own wrapper, a direct child of <body>, at the same place on every page: the 1320px column of
+   the start page and the act pages, 24px gutter, 16px at 700px and below (owner's report of 15 Oct 2026) */
+.navwrap { max-width: 1320px; margin: 0 auto; padding: 18px 24px 0; }
+@media (max-width: 700px) { .navwrap { padding-inline: 16px; } }
+/* touch screens: Safari on iPadOS and iOS blurs the page under the status bar and its own bars at the top edge, which
+   blurred the bar's first line; it starts lower there, out of that edge (owner's report of 11 Nov 2026) */
+@media (any-pointer: coarse) { .navwrap { padding-top: max(46px, calc(env(safe-area-inset-top, 0px) + 28px)); } }
+.navwrap + .wrap { padding-top: 0; }   /* the bar's wrapper gives the space above; the content column follows 14px below */
+@media print { .navwrap { display: none !important; } }
+.sitenav { display: flex; align-items: center; gap: 4px 18px; flex-wrap: wrap; margin: 0 0 14px; padding: 0 0 8px;
+  border-bottom: 1px solid var(--s-hair); font: 15px/1.4 var(--s-sans); }
+.sitenav .brand { font-weight: 700; color: var(--s-ink); text-decoration: none; white-space: nowrap; }
+.sitenav a.item { color: var(--s-ink); text-decoration: none; padding: 6px 0; white-space: nowrap;
+  border-bottom: 2px solid transparent; }
+.sitenav a.item:hover { border-bottom-color: var(--s-hair); }
+.sitenav a.item[aria-current="page"] { color: var(--s-accent); font-weight: 600; border-bottom-color: var(--s-accent); }
+.sitenav .brandbox { display: inline-flex; margin-right: 10px; }
+/* the theme choice and the GitHub mark, kept together at the right */
+.sitenav .navend { margin-left: auto; display: inline-flex; align-items: center; gap: 14px; }
+.sitenav a.repo { display: inline-flex; align-items: center; gap: 6px; color: var(--s-ink);
+  text-decoration: none; padding: 6px 0; white-space: nowrap; }
+.sitenav a.repo span { display: none; }   /* the icon alone */
+/* light, dark or as the system: three quiet icon buttons, the chosen one petrol and underlined like the current
+   section; shown only with JavaScript, which applies and stores the choice (rt:theme, read by sitestyle.PREFS_JS) */
+.sitenav .theme { display: inline-flex; align-items: center; gap: 2px; }
+.sitenav .theme button { display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px;
+  padding: 0; margin: 0; font: inherit; color: var(--s-ink2); background: none; border: 0;
+  border-bottom: 2px solid transparent; border-radius: 0; cursor: pointer; }
+.sitenav .theme button:hover { color: var(--s-ink); border-bottom-color: var(--s-hair); }
+.sitenav .theme button[aria-pressed="true"] { color: var(--s-accent); border-bottom-color: var(--s-accent); }
+.sitenav .theme svg { display: block; }
+.sitenav .brk { display: none; }
+/* the search (tools/search.py): a field with a hairline underneath and a magnifier where the bar already has a second
+   line (701px to 1269px, the room beside the theme choice; at 1250 to 1269px even the magnifier alone would wrap it);
+   on wide screens and on phones only the magnifier, as a link to
+   the search page, so that the bar keeps its one line (wide) and does not grow (phones) */
+.sitenav .navsearch { display: none; align-items: center; gap: 2px; margin: 0; }
+.sitenav .navsearch input { width: 11rem; min-width: 0; font: inherit; font-size: 15px; color: var(--s-ink); background: transparent;
+  border: 0; border-bottom: 1px solid var(--s-ink2); border-radius: 0; padding: 4px 2px; -webkit-appearance: none; appearance: none; }
+.sitenav .navsearch input::placeholder { color: var(--s-ink2); opacity: 1; }
+.sitenav .navsearch input::-webkit-search-cancel-button { -webkit-appearance: none; }
+.sitenav .navsearch input:focus { border-bottom-color: var(--s-accent); }
+.sitenav .navsearch button, .sitenav a.searchlink { display: inline-flex; align-items: center; justify-content: center; width: 30px;
+  height: 30px; padding: 0; margin: 0; color: var(--s-ink2); background: none; border: 0; border-bottom: 2px solid transparent;
+  border-radius: 0; cursor: pointer; text-decoration: none; }
+.sitenav .navsearch button:hover, .sitenav a.searchlink:hover { color: var(--s-ink); border-bottom-color: var(--s-hair); }
+.sitenav .navsearch button[aria-current="page"], .sitenav a.searchlink[aria-current="page"] { color: var(--s-accent);
+  border-bottom-color: var(--s-accent); }
+.sitenav a.searchlink { display: inline-flex; }
+@media (max-width: 1269px) and (min-width: 701px) { .sitenav .navsearch { display: inline-flex; } .sitenav a.searchlink { display: none; } }
+@media (max-width: 760px) and (min-width: 701px) { .sitenav .navsearch input { width: 6.5rem; } }
+.sitenav :is(a, button):focus-visible { outline: 2px solid var(--s-accent); outline-offset: 2px; }
+@media (max-width: 1100px) { .sitenav { gap: 4px 13px; font-size: 14.5px; } .sitenav .brandbox { margin-right: 4px; }
+  .sitenav .navsearch input { width: 9rem; } }
+/* phones: brand, theme and GitHub on the first line, the sections wrap below (nothing hidden, nothing cut) */
+@media (max-width: 640px) { .sitenav { gap: 2px 14px; }
+  .sitenav .brandbox { order: -3; flex: 1 0 auto; margin-right: 0; }
+  .sitenav .navend { order: -2; }
+  .sitenav .brk { display: block; order: -1; flex-basis: 100%; height: 0; }
+  .sitenav a.item { padding: 4px 0; font-size: 14.5px; } }
+.sitefoot { margin: 36px 0 0; padding: 10px 0 0; border-top: 1px solid var(--s-hair); color: var(--s-ink2);
+  font: 14px/1.5 var(--s-sans); }
+.sitefoot a { color: var(--s-ink2); }
+.sitefoot a:hover { color: var(--s-accent); }
+/* iOS and Android must not enlarge the text of wide blocks (tables, the drawing frames) on their own */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+/* touch screens zoom into a field whose text is smaller than 16px and stay zoomed after Enter */
+@media (pointer: coarse) { input:not([type="range"], [type="checkbox"], [type="radio"]), select, textarea {
+  font-size: max(16px, 1em) !important; } }
+[hidden] { display: none !important; }
+p.scroll-hint { font-size: 14px; color: var(--s-ink2); margin: 4px 0 0; }   /* added by sitestyle.FRAMES_JS */
+/* a column with nothing in any row (sitestyle.phone_tables) */
+[data-gone] { display: none !important; }
+/* text for screen readers only, e.g. the heading of a column that shows only a relative date (b37) */
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+/* WCAG 2.2 SC 2.5.8: a short link side by side with another (a language, a lone ↗) is a target of at least 24 by 24px */
+a.tgt { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; text-align: center; }
+/* a link to another site: ↗, bound to the word before it (sitestyle.external_links) */
+a.ext::after { content: "\00a0\2197"; font-size: .85em; }
+/* "Show all n" under a folded table (sitestyle.fold_tables) */
+p.showmore { margin: 6px 0 0; }
+button.showmore { font: inherit; font-size: 15px; color: var(--s-accent); background: none; border: 0; padding: 4px 0;
+  cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 70%, transparent);
+  text-underline-offset: 3px; }
+button.showmore:hover { text-decoration-color: currentColor; }
+/* phones: headings and dates of a narrow table wrap rather than run off the screen */
+@media (max-width: 700px) { .table th, .table td.nowrap { white-space: normal; } }
+/* a table of four or more columns as one block per row, each cell with its column heading
+   (sitestyle.phone_tables, added by --sign): on phones, and up to tablet width for six or more columns */
+@media (max-width: 700px) {
+  .table > table.phone-stack { min-width: 0; } table.phone-stack thead { display: none; }
+  table.phone-stack, table.phone-stack tbody, table.phone-stack tr, table.phone-stack td, table.phone-stack th {
+    display: block; width: auto !important; min-width: 0; }
+  table.phone-stack { background: none; }
+  table.phone-stack tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack td, table.phone-stack th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack tr > :first-child { font-weight: 600; }
+  table.phone-stack tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack [data-none] { display: none; } }
+@media (min-width: 701px) and (max-width: 900px) {
+  .table > table.phone-stack.wide { min-width: 0; } table.phone-stack.wide thead { display: none; }
+  table.phone-stack.wide, table.phone-stack.wide tbody, table.phone-stack.wide tr, table.phone-stack.wide td,
+  table.phone-stack.wide th { display: block; width: auto !important; min-width: 0; }
+  table.phone-stack.wide { background: none; }
+  table.phone-stack.wide tr { border-bottom: 1px solid var(--s-hair); padding: 8px 0; }
+  table.phone-stack.wide td, table.phone-stack.wide th { border: 0; padding: 2px 0; text-align: left; white-space: normal;
+    overflow-wrap: anywhere; }
+  table.phone-stack.wide tr > :first-child { font-weight: 600; }
+  table.phone-stack.wide tr > :first-child :is(.muted, .sub, .small, small, .note, .k) { font-weight: 400; }
+  table.phone-stack.wide tr > :not(:first-child)[data-label]:not([data-label=""])::before { content: attr(data-label) ": ";
+    color: var(--s-ink2); font-weight: 400; }
+  table.phone-stack.wide [data-none] { display: none; } }
+/* dark mode: drawings and their thumbnails are rendered light only (the downloads are drawn on white), so they are
+   dimmed a little instead of glaring, and shown at full brightness when pointed at (owner's decision of 11 Oct 2026) */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) img { filter: brightness(.86); }
+  :root:not([data-theme="light"]) :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+  :root:not([data-theme="light"]) :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; } }
+:root[data-theme="dark"] img { filter: brightness(.86); }
+:root[data-theme="dark"] :is(.figure, .fig.img, .card a.thumb, .preview) { background: #dcdcdc; }
+:root[data-theme="dark"] :is(a:hover, a:focus-visible, .figure:hover) img { filter: none; }
+@media print { img { filter: none !important; } }
+::selection { background: var(--s-accent-tint); color: var(--s-ink); }
+html { scrollbar-color: color-mix(in srgb, var(--s-ink) 35%, transparent) transparent; }
+</style><div class="navwrap"><nav class="sitenav" aria-label="Site"><span class="brandbox"><a class="brand" href="index.html">EU regulation timeline</a></span><a class="item" href="index.html" data-en="Timeline" data-de="Zeitachse">Timeline</a><a class="item" href="acts/index.html" data-en="Regulations" data-de="Rechtsakte">Regulations</a><a class="item" href="acts/authorities.html" data-en="Authorities" data-de="Behörden">Authorities</a><a class="item" href="procedures/index.html" data-en="Procedures" data-de="Verfahren">Procedures</a><a class="item" href="forecast/index.html" data-en="Forecast" data-de="Prognose">Forecast</a><a class="item" href="news/index.html" data-en="News" data-de="Nachrichten">News</a><a class="item" href="procedures/changes.html" data-en="Latest activity" data-de="Neueste Aktivität">Latest activity</a><a class="item" href="procedures/standardisation.html" data-en="Standards" data-de="Normung">Standards</a><a class="item" href="procedures/committees.html" data-en="Committees" data-de="Ausschüsse">Committees</a><a class="item" href="texts/index.html" data-en="Texts" data-de="Texte">Texts</a><a class="item" href="graphics.html" data-en="Graphics" data-de="Grafiken">Graphics</a><span class="navend"><form class="navsearch" role="search" aria-label="Site search" action="search.html" method="get"><input type="search" name="q" placeholder="Search" aria-label="Search" data-en="Search" data-de="Suche" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search"><button type="submit" aria-label="Search" title="Search" data-label data-en="Search" data-de="Suche" aria-current="page"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.8" cy="6.8" r="4.6"/><path d="M10.2 10.2 14.5 14.5" stroke-linecap="round"/></svg></button></form><a class="searchlink" href="search.html" aria-label="Search" title="Search" data-label data-en="Search" data-de="Suche" aria-current="page"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.8" cy="6.8" r="4.6"/><path d="M10.2 10.2 14.5 14.5" stroke-linecap="round"/></svg></a><span class="theme" role="group" aria-label="Colour scheme" hidden><button type="button" data-scheme="light" aria-pressed="false" aria-label="Light" title="Light"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="3"/><path d="M8 1v2M8 13v2M1 8h2M13 8h2M3 3l1.4 1.4M11.6 11.6 13 13M3 13l1.4-1.4M11.6 4.4 13 3" stroke-linecap="round"/></svg></button><button type="button" data-scheme="dark" aria-pressed="false" aria-label="Dark" title="Dark"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 9.5A5.5 5.5 0 0 1 6.5 2.5a5.5 5.5 0 1 0 7 7z" stroke-linejoin="round"/></svg></button><button type="button" data-scheme="" aria-pressed="false" aria-label="As the system setting" title="As the system setting"><svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><path d="M8 2a6 6 0 0 1 0 12z" fill="currentColor" stroke="none"/></svg></button></span><a class="repo" href="https://github.com/git-z0man/eu-regulation-timeline" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>GitHub</span></a></span><span class="brk" aria-hidden="true"></span></nav><script>(function(){var d=document.documentElement,w=document.currentScript.parentNode,g=w&&w.querySelector('.theme');if(!g)return;var bs=g.querySelectorAll('button');function show(){var t=d.dataset.theme||'';bs.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.scheme===t));});}function apply(t){if(t)d.dataset.theme=t;else delete d.dataset.theme;show();try{document.dispatchEvent(new CustomEvent('rt:theme',{detail:t}));}catch(e){}}bs.forEach(function(b){b.addEventListener('click',function(){var t=b.dataset.scheme;try{if(t)localStorage.setItem('rt:theme',t);else localStorage.removeItem('rt:theme');}catch(e){}apply(t);});});addEventListener('storage',function(e){if(e.key==='rt:theme')apply(e.newValue||'');});g.hidden=false;show();})();(function(){var d=document.documentElement;function lang(){var l=d.lang==='de'?'de':'en';document.querySelectorAll('[data-en][data-de]').forEach(function(e){var t=e.dataset[l];if(e.tagName==='INPUT'){e.placeholder=t;e.setAttribute('aria-label',t);}else if(e.hasAttribute('data-label')){e.setAttribute('aria-label',t);e.title=t;}else if(e.textContent!==t)e.textContent=t;});}lang();if(window.MutationObserver)new MutationObserver(lang).observe(d,{attributes:true,attributeFilter:['lang']});})();</script></div><div class="wrap"><main id="main"><div class="srch">
+<div class="lang" role="group" aria-label="Language"><button type="button" data-l="de" aria-pressed="false">Deutsch</button> / <button type="button" data-l="en" aria-pressed="true">English</button></div>
+<h1 id="h1">Search</h1>
+<form role="search" aria-labelledby="qlabel" action="search.html" method="get"><label for="q" id="qlabel">Search the site</label>
+<input type="search" id="q" name="q" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search"><button type="submit" id="go">Search</button></form>
+<div class="toggles" id="filters" role="group" aria-label="Type" hidden></div>
+<p id="count" aria-live="polite"></p>
+<div id="out"></div>
+<noscript><p>Search needs JavaScript. Browse instead:
+<a href="acts/index.html">Regulations</a> · <a href="procedures/index.html">Procedures</a> · <a href="texts/index.html">Texts</a> · <a href="procedures/standardisation.html">Standards</a>.</p></noscript>
+</div><div class="sitefoot">EU regulation timeline, a private project by <a href="about.html">Steffen Zimmermann</a> · <a href="LICENSE.md">CC BY 4.0</a></div></main></div>
+<script>
+(function () {
+  var UI = {
+    en: {h1: 'Search', label: 'Search the site', go: 'Search', lang: 'Language', type: 'Type', loading: 'Loading the search index …',
+      failed: 'The search index could not be loaded. Try again later, or browse the sections of the site.',
+      hint: 'Search the regulations, procedures, news, standards and official texts of this site. Try:',
+      none: 'Nothing found. Try fewer or shorter words, or an identifier such as ST 16438/26, COM(2026) 965 or EN 304 626.',
+      n1: '1 result', n: function (n) { return n + ' results'; }, of: function (a, b) { return a + ' of ' + b + ' shown'; },
+      more: 'Show more', all: 'All', page: 'Page', en: 'English', de: 'German',
+      ext: 'Also search this site with', extNote: '(opens the search engine, which sees the query)'},
+    de: {h1: 'Suche', label: 'Die Website durchsuchen', go: 'Suchen', lang: 'Sprache', type: 'Art', loading: 'Suchindex wird geladen …',
+      failed: 'Der Suchindex konnte nicht geladen werden. Bitte später erneut versuchen oder die Bereiche der Website nutzen.',
+      hint: 'Durchsucht Rechtsakte, Verfahren, Nachrichten, Normen und amtliche Texte dieser Website. Zum Beispiel:',
+      none: 'Nichts gefunden. Weniger oder kürzere Wörter versuchen, oder eine Kennung wie ST 16438/26, COM(2026) 965 oder EN 304 626.',
+      n1: '1 Treffer', n: function (n) { return n + ' Treffer'; }, of: function (a, b) { return a + ' von ' + b + ' angezeigt'; },
+      more: 'Mehr anzeigen', all: 'Alle', page: 'Seite', en: 'Englisch', de: 'Deutsch',
+      ext: 'Diese Website auch durchsuchen mit', extNote: '(öffnet die Suchmaschine, die die Suche sieht)'}
+  };
+  var GROUPS = [['all', {en: 'All', de: 'Alle'}], ['acts', {en: 'Acts', de: 'Rechtsakte'}],
+    ['procedures', {en: 'Procedures', de: 'Verfahren'}], ['texts', {en: 'Texts', de: 'Texte'}],
+    ['standards', {en: 'Standards', de: 'Normen'}], ['news', {en: 'News', de: 'Nachrichten'}],
+    ['forecast', {en: 'Forecast', de: 'Prognose'}], ['other', {en: 'Other', de: 'Sonstiges'}]];
+  var TYPES = {act: ['acts', 0, {en: 'Act', de: 'Rechtsakt'}], topic: ['acts', 6, {en: 'Topic', de: 'Thema'}],
+    authority: ['acts', 7, {en: 'Authority', de: 'Behörde'}], procedure: ['procedures', 1, {en: 'Procedure', de: 'Verfahren'}],
+    committee: ['procedures', 7, {en: 'Committee', de: 'Ausschuss'}], activity: ['procedures', 7, {en: 'Latest activity', de: 'Neueste Aktivität'}],
+    text: ['texts', 2, {en: 'Text', de: 'Text'}], standard: ['standards', 3, {en: 'Standards', de: 'Normung'}],
+    news: ['news', 4, {en: 'News', de: 'Nachricht'}], forecast: ['forecast', 5, {en: 'Forecast', de: 'Prognose'}],
+    briefing: ['other', 7, {en: 'Briefing', de: 'Briefing'}], page: ['other', 7, {en: 'Page', de: 'Seite'}]};
+  var EXAMPLES = ["Work Programme", "Arbeitsprogramm", "EN 304 626", "ST 16438/26", "COM(2026) 965", "2026/0365(COD)"], ENGINES = [["DuckDuckGo", "https://duckduckgo.com/?q="], ["Google", "https://www.google.com/search?q="]], SITE_SHORT = "git-z0man.github.io/eu-regulation-timeline";
+  var GITHUB = "https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/";
+  var SHOW = 50;
+  var d = document.documentElement, q = document.getElementById('q'), out = document.getElementById('out'),
+      count = document.getElementById('count'), filters = document.getElementById('filters');
+  var lang = 'en', group = 'all', shown = SHOW, records = null, loading = null, failed = false, timer = 0, results = [];
+  try { lang = localStorage.getItem('rt:searchlang') || ''; } catch (e) { lang = ''; }
+  if (lang !== 'de' && lang !== 'en') lang = /^de/i.test(navigator.language || '') ? 'de' : 'en';
+  
+var PATS = [["celex", "(^|[^a-z0-9])([0-9]{5}[a-z]{1,2}[0-9]{4})(?![0-9a-z])"], ["council", "(^|[^a-z0-9])(st|wk|cm|sn|ds)\\s*-?\\s*([0-9]{1,6})\\s*[/\\-]\\s*([0-9]{4}|[0-9]{2})(?![0-9])"], ["com", "(^|[^a-z0-9])(com|swd|join|sec|c)\\s*\\(\\s*([0-9]{4})\\s*\\)\\s*([0-9]{1,5})(?![0-9])"], ["com", "(^|[^a-z0-9])(com|swd|join|sec)[\\s/\\-]+([0-9]{4})[\\s/\\-]+([0-9]{1,5})(?![0-9])"], ["ojc", "(^|[^a-z0-9])(c)\\s*/\\s*([0-9]{4})\\s*/\\s*([0-9]{1,5})(?![0-9])"], ["proc", "(^|[^a-z0-9])([0-9]{4})\\s*/\\s*([0-9]{1,4})\\s*\\(\\s*([a-z]{3})\\s*\\)"], ["pe", "(^|[^a-z0-9])pe\\s*([0-9]{3})[.\\-\\s]?([0-9]{3})(?![0-9])"], ["ta", "(^|[^a-z0-9])p([0-9]{1,2})_ta(?:-prov)?\\s*\\(\\s*([0-9]{4})\\s*\\)\\s*([0-9]{1,4})(?![0-9])"], ["ta", "(^|[^a-z0-9])ta-([0-9]{1,2})-([0-9]{4})-([0-9]{1,4})(?![0-9])"], ["ta", "(^|[^a-z0-9])p([0-9]{1,2})-ta-([0-9]{4})-([0-9]{1,4})(?![0-9])"], ["act", "(^|[^a-z0-9])(?:(?:regulation|directive|decision|verordnung|richtlinie|beschluss)s?\\s*)?\\(\\s*(?:eu|ec|eec|euratom|eg|ewg)\\s*\\)\\s*(?:(?:no|nr)\\.?\\s*)?([0-9]{2,4})\\s*/\\s*([0-9]{1,4})(?![0-9])"], ["act", "(^|[^a-z0-9])(?:regulation|directive|decision|verordnung|richtlinie|beschluss)s?\\s+(?:(?:no|nr)\\.?\\s*)?([0-9]{2,4})\\s*/\\s*([0-9]{1,4})(?![0-9])"], ["std", "(^|[^a-z0-9])((?:etsi\\s+(?:en|ts|eg|tr|es))|(?:pr)?en[\\s\\-]*(?:iec|iso)|(?:pr)?en|iso\\s*/\\s*iec|(?:iec|iso|cen|clc)\\s*/\\s*(?:ts|tr)|iec|iso)[\\s\\-]*([0-9]{3,6}(?:-[0-9]{1,3}|\\s[0-9]{3}(?![0-9]))*)(?:\\s*:\\s*[0-9]{4})?(?![0-9a-z])"]].map(function (p) { return {n: p[0], re: new RegExp(p[1], 'g')}; });
+var BARE = new RegExp("(^|[^a-z0-9])([0-9]{3,6})\\s*/\\s*([0-9]{2,4})(?![0-9])", 'g');
+var COUNCIL = ['st', 'wk', 'cm', 'sn', 'ds'];
+function fold(s) { return s.toLowerCase().replace(/ß/g, 'ss').normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+function words(s) { return fold(s).match(/[\p{L}\p{N}]+/gu) || []; }
+function int(n) { return String(parseInt(n, 10)); }
+function y4(y) { return y.length === 4 ? y : '20' + y; }
+var H = {
+  celex: function (g) { return [g[0]]; },
+  council: function (g) { return [g[0] + int(g[1]) + '/' + y4(g[2])]; },
+  com: function (g) { return [g[0] + g[1] + '/' + int(g[2])]; },
+  ojc: function (g) { return ['c/' + g[1] + '/' + int(g[2])]; },
+  proc: function (g) { return [g[0] + '/' + ('0000' + g[1]).slice(-4) + g[2]]; },
+  pe: function (g) { return ['pe' + g[0] + '.' + g[1]]; },
+  ta: function (g) { return ['ta' + int(g[0]) + '/' + g[1] + '/' + ('0000' + g[2]).slice(-4)]; },
+  act: function (g) { return [g[0] + '/' + g[1]]; },
+  std: function (g) {
+    var p = g[0].replace(/[\s\-\/]+/g, ''), n = g[1].replace(/\s+/g, ''), k = [p + n, 's:' + n];
+    if (n.indexOf('-') >= 0) k.push('s:' + n.split('-')[0]);
+    return k;
+  }
+};
+function blank(n) { return new Array(n + 1).join(' '); }
+function extract(text) {
+  var low = text.toLowerCase(), items = [];
+  PATS.forEach(function (p) {
+    low = low.replace(p.re, function () {
+      var a = arguments, n = a.length, m = a[0], b = a[1], off = a[n - 2], g = [];
+      for (var i = 2; i < n - 2; i++) g.push(a[i] || '');
+      items.push({k: H[p.n](g), s: off + b.length, e: off + m.length});
+      return b + blank(m.length - b.length);
+    });
+  });
+  items.sort(function (x, y) { return x.s - y.s; });
+  return {items: items, rest: low};
+}
+function keysOf(text) {
+  var seen = {}, out = [];
+  extract(text).items.forEach(function (it) { it.k.forEach(function (k) { if (!seen[k]) { seen[k] = 1; out.push(k); } }); });
+  return out.sort();
+}
+function plan(q) {
+  var e = extract(q), groups = [], rest = e.rest;
+  e.items.forEach(function (it) {
+    var ex = [], core = [];
+    it.k.forEach(function (k) { if (k.slice(0, 2) === 's:') { if (!core.length) core.push(k); } else ex.push(k); });
+    groups.push({ex: ex, pf: [], core: core});
+  });
+  rest = rest.replace(BARE, function (m, b, a, c) {
+    groups.push({ex: (c.length === 2 || c.length === 4) ? COUNCIL.map(function (p) { return p + int(a) + '/' + y4(c); }) : [],
+                 pf: [a + '/' + c], core: []});
+    return b + blank(m.length - b.length);
+  });
+  return {groups: groups, words: words(rest)};
+}
+function hit(g, keys) {
+  var best = 0;
+  for (var i = 0; i < keys.length; i++) {
+    var k = keys[i], j;
+    if (g.ex.indexOf(k) >= 0) return 30;
+    for (j = 0; j < g.core.length; j++)
+      if (k.slice(0, 2) === 's:' && (k === g.core[j] || k.indexOf(g.core[j] + '-') === 0)) best = 28;
+    for (j = 0; j < g.pf.length; j++) {
+      var p = g.pf[j];
+      if (k === p) return 30;
+      if (k.indexOf(p) === 0 && !/[0-9]/.test(k.charAt(p.length))) best = 28;
+    }
+  }
+  return best;
+}
+function prep(r) {
+  r._t = ' ' + words(r.t || '').join(' ') + ' ';
+  r._h = ' ' + words(r.h || '').join(' ') + ' ';
+  r._x = ' ' + words(r.x || '').join(' ') + ' ' + (r.w || '') + ' ';
+  r.n = r.n || [];
+  return r;
+}
+function score(pl, r) {
+  if (!pl.groups.length && !pl.words.length) return 0;
+  var total = 0, i;
+  for (i = 0; i < pl.groups.length; i++) { var h = hit(pl.groups[i], r.n); if (!h) return 0; total += h; }
+  for (i = 0; i < pl.words.length; i++) {
+    var w = ' ' + pl.words[i];
+    if (r._t.indexOf(w) >= 0) total += 10;
+    else if (r._h.indexOf(w) >= 0) total += 5;
+    else if (r._x.indexOf(w) >= 0) total += 1;
+    else return 0;
+  }
+  return total;
+}
+function matchText(q, text) { return score(plan(q), prep({t: '', h: '', x: text, n: keysOf(text)})) > 0; }
+
+
+  function T() { return UI[lang]; }
+  function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+
+  // the ranges of a text that a plan hits: words by prefix, keys by their typed form
+  function ranges(text, pl) {
+    var r = [], m, re = /[\p{L}\p{N}]+/gu;
+    if (pl.words.length) while ((m = re.exec(text))) {
+      var f = fold(m[0]);
+      for (var i = 0; i < pl.words.length; i++) if (f.indexOf(pl.words[i]) === 0) { r.push([m.index, m.index + m[0].length]); break; }
+    }
+    if (pl.groups.length) extract(text).items.forEach(function (it) {
+      for (var i = 0; i < pl.groups.length; i++) if (hit(pl.groups[i], it.k)) { r.push([it.s, it.e]); break; }
+    });
+    return r.sort(function (a, b) { return a[0] - b[0] || b[1] - a[1]; });
+  }
+  // text into a node with <mark>s, from `from` to `to` (textContent only, nothing from the index is parsed as HTML)
+  function marked(node, text, rs, from, to) {
+    var pos = from;
+    rs.forEach(function (r) {
+      if (r[1] <= pos || r[0] >= to) return;
+      var a = Math.max(r[0], pos), b = Math.min(r[1], to);
+      if (a > pos) node.appendChild(document.createTextNode(text.slice(pos, a)));
+      node.appendChild(el('mark', '', text.slice(a, b)));
+      pos = b;
+    });
+    if (pos < to) node.appendChild(document.createTextNode(text.slice(pos, to)));
+  }
+  function snippet(x, pl) {
+    var rs = ranges(x, pl), a = 0, b = Math.min(x.length, 200);
+    if (rs.length) {
+      a = Math.max(0, rs[0][0] - 70);
+      if (a > 0) { var s = x.indexOf(' ', a); if (s >= 0 && s < rs[0][0]) a = s + 1; }
+      b = Math.min(x.length, a + 200);
+    }
+    var p = el('p', 'rsnip');
+    if (a > 0) p.appendChild(document.createTextNode('… '));
+    marked(p, x, rs, a, b);
+    if (b < x.length) p.appendChild(document.createTextNode(' …'));
+    return p;
+  }
+  function pathOf(u) { return u.indexOf(GITHUB) === 0 ? 'texts/' + u.slice(GITHUB.length) : u; }
+
+  function run() {
+    var query = q.value, pl = plan(query);
+    results = [];
+    if (records && (pl.groups.length || pl.words.length)) {
+      for (var i = 0; i < records.length; i++) {
+        var s = score(pl, records[i]);
+        if (s) results.push({r: records[i], s: s});
+      }
+      results.sort(function (a, b) {
+        var ta = TYPES[a.r.k] || TYPES.page, tb = TYPES[b.r.k] || TYPES.page;
+        return b.s - a.s || ta[1] - tb[1] || (a.r.l === lang ? 0 : 1) - (b.r.l === lang ? 0 : 1) ||
+          a.r.t.length - b.r.t.length || (a.r.t < b.r.t ? -1 : a.r.t > b.r.t ? 1 : 0);
+      });
+      // one result per address: a news story is indexed in both languages, the reader's language comes first
+      var seen = {};
+      results = results.filter(function (x) { if (seen[x.r.u]) return false; seen[x.r.u] = 1; return true; });
+    }
+    render(pl);
+  }
+  // a search engine for this site (b962, owner's decision of 26 Nov 2026): plain links, nothing is loaded from the
+  // engine until the reader follows one; the query goes there only then
+  function external() {
+    var t = T(), p = el('p', 'extsearch', t.ext + ' '), term = 'site:' + SITE_SHORT + ' ' + q.value.trim();
+    ENGINES.forEach(function (e, i) {
+      if (i) p.appendChild(document.createTextNode(' · '));
+      var a = el('a', 'ext', e[0]);
+      a.href = e[1] + encodeURIComponent(term); a.target = '_blank'; a.rel = 'noopener noreferrer';
+      p.appendChild(a);
+    });
+    p.appendChild(document.createTextNode(' ' + t.extNote));
+    return p;
+  }
+  function render(pl) {
+    var t = T(), tally = {all: results.length}, list;
+    GROUPS.forEach(function (g) { tally[g[0]] = tally[g[0]] || 0; });
+    results.forEach(function (x) { var g = (TYPES[x.r.k] || TYPES.page)[0]; tally[g]++; });
+    out.textContent = '';
+    filters.textContent = '';
+    if (!q.value.trim()) {
+      count.textContent = '';
+      filters.hidden = true;
+      var h = el('div', 'hint'), ul = el('ul');
+      h.appendChild(el('p', '', failed ? t.failed : t.hint));
+      EXAMPLES.forEach(function (e) {
+        var li = el('li'), a = el('a', '', e);
+        a.href = '?q=' + encodeURIComponent(e);
+        a.addEventListener('click', function (ev) { ev.preventDefault(); q.value = e; sync(); run(); });
+        li.appendChild(a); ul.appendChild(li);
+      });
+      h.appendChild(ul); out.appendChild(h);
+      return;
+    }
+    if (!records) {
+      count.textContent = failed ? t.failed : t.loading;
+      filters.hidden = true;
+      if (failed) out.appendChild(external());
+      return;
+    }
+    filters.hidden = false;
+    GROUPS.forEach(function (g) {
+      if (g[0] !== 'all' && !tally[g[0]]) return;
+      var b = el('button', 'toggle', g[1][lang]);
+      b.type = 'button';
+      b.setAttribute('aria-pressed', String(group === g[0]));
+      b.appendChild(el('span', 'n', String(tally[g[0]])));
+      b.addEventListener('click', function () { group = g[0]; shown = SHOW; render(pl); });
+      filters.appendChild(b);
+    });
+    list = group === 'all' ? results : results.filter(function (x) { return (TYPES[x.r.k] || TYPES.page)[0] === group; });
+    if (!list.length) {
+      count.textContent = t.n(0);
+      out.appendChild(el('p', '', t.none));
+      out.appendChild(external());
+      return;
+    }
+    count.textContent = (list.length === 1 ? t.n1 : t.n(list.length)) + (list.length > shown ? ' · ' + t.of(shown, list.length) : '');
+    var ol = el('ol', 'results');
+    list.slice(0, shown).forEach(function (x) {
+      var r = x.r, ty = TYPES[r.k] || TYPES.page, li = el('li'), a = el('a', 'rtitle');
+      li.appendChild(el('span', 'rtype', ty[2][lang]));
+      a.href = r.u;
+      if (r.u.indexOf('http') === 0) { a.target = '_blank'; a.rel = 'noopener'; a.className += ' ext'; }
+      marked(a, r.t, ranges(r.t, pl), 0, r.t.length);
+      li.appendChild(a);
+      if (r.l && r.l !== lang) li.appendChild(el('span', 'rtype', ' · ' + r.l.toUpperCase()));
+      if (r.h) { var s = el('span', 'rsec'); marked(s, r.h, ranges(r.h, pl), 0, r.h.length); li.appendChild(s); }
+      if (r.x) li.appendChild(snippet(r.x, pl));
+      li.appendChild(el('span', 'rpath', pathOf(r.u)));
+      ol.appendChild(li);
+    });
+    out.appendChild(ol);
+    if (list.length > shown) {
+      var m = el('button', 'more', t.more);
+      m.type = 'button';
+      m.addEventListener('click', function () { shown += SHOW; render(pl); });
+      out.appendChild(m);
+    }
+    out.appendChild(external());
+  }
+  function load() {
+    if (loading) return loading;
+    function get(u, must) {
+      return fetch(u).then(function (r) { if (!r.ok) throw new Error(u); return r.json(); })
+        .catch(function (e) { if (must) throw e; return []; });
+    }
+    loading = get('search/index.json', true).then(function (a) {
+      return get('search/texts.json', false).then(function (b) { return a.concat(b); });
+    }).then(function (all) { records = all.map(prep); run(); }).catch(function () { failed = true; run(); });
+    return loading;
+  }
+  function sync() {
+    try {
+      var u = new URL(location.href);
+      if (q.value) u.searchParams.set('q', q.value); else u.searchParams.delete('q');
+      history.replaceState(null, '', u.pathname + u.search + u.hash);
+    } catch (e) {}
+  }
+  function labels() {
+    var t = T();
+    d.lang = lang;
+    document.getElementById('h1').textContent = t.h1;
+    document.getElementById('qlabel').textContent = t.label;
+    document.getElementById('go').textContent = t.go;
+    document.title = t.h1 + ' – EU regulation timeline';
+    filters.setAttribute('aria-label', t.type);
+    document.querySelector('.srch .lang').setAttribute('aria-label', t.lang);
+    document.querySelectorAll('.srch .lang button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.l === lang)); });
+  }
+  document.querySelectorAll('.srch .lang button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      lang = b.dataset.l;
+      try { localStorage.setItem('rt:searchlang', lang); } catch (e) {}
+      labels(); run();
+    });
+  });
+  q.addEventListener('input', function () {
+    clearTimeout(timer);
+    timer = setTimeout(function () { shown = SHOW; sync(); run(); }, 150);
+    if (q.value.trim()) load();
+  });
+  document.querySelector('.srch form').addEventListener('submit', function (e) { e.preventDefault(); shown = SHOW; sync(); run(); });
+  try { q.value = new URL(location.href).searchParams.get('q') || ''; } catch (e) {}
+  labels();
+  run();
+  if (q.value.trim()) load();
+  else q.addEventListener('focus', load, {once: true});
+  if (!q.value) q.focus();
+})();
+</script></body></html>

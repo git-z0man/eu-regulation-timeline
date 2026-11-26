@@ -754,9 +754,8 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-## Chapter I
-
-## General provisions
+<a id="chapter-i"></a>
+## Chapter I – General provisions
 
 <a id="art-1"></a>
 ### Article 1 – Subject matter
@@ -1081,11 +1080,10 @@ Those objectives shall be implemented, where appropriate, in accordance with the
 
 5. The Commission shall inform the European Semiconductor Board on progress in the implementation of the Chips for Europe Initiative 2.0’s operational objective 6 on a regular basis.
 
-## Chapter III
+<a id="chapter-iii"></a>
+## Chapter III – Security of supply and demand
 
-## Security of supply and demand
-
-<a id="chapter-ii-section-1"></a>
+<a id="chapter-iii-section-1"></a>
 ## Section 1 – Semiconductor manufacturing capabilities
 
 <a id="art-13"></a>
@@ -1232,7 +1230,7 @@ Those objectives shall be implemented, where appropriate, in accordance with the
 
   - (d) relevant Union funding and financing programmes.
 
-<a id="chapter-ii-section-2"></a>
+<a id="chapter-iii-section-2"></a>
 ## Section 2 – Permit-granting procedures
 
 <a id="art-21"></a>
@@ -1308,7 +1306,7 @@ Those objectives shall be implemented, where appropriate, in accordance with the
 
 2. The Commission shall, in a centralised and easily accessible manner, refer to the information provided by the Member States on its website to ensure a comprehensive and clear overview of all relevant information per Member State.
 
-<a id="chapter-ii-section-3"></a>
+<a id="chapter-iii-section-3"></a>
 ## Section 3 – European Semiconductor Regions of Excellence
 
 <a id="art-26"></a>
@@ -1401,9 +1399,8 @@ Those objectives shall be implemented, where appropriate, in accordance with the
 
 5. The Commission may facilitate the functioning of the Network and may organise meetings, workshops or other activities to support the exchange of information and cooperation among participating regions.
 
-### Section 4
-
-### Resilience in supply chains
+<a id="chapter-iii-section-4"></a>
+## Section 4 – Resilience in supply chains
 
 <a id="art-30"></a>
 ### Article 30 – Public procurement
@@ -1488,13 +1485,11 @@ Those objectives shall be implemented, where appropriate, in accordance with the
 
 6. The Commission shall base its assessments carried out in accordance with this Article on evidence, including publicly available information, information gathered through requests for information pursuant to Article 38, or the existence of repeated supply chain disruptions.
 
-## CHAPTER IV
+<a id="chapter-iv"></a>
+## Chapter IV – Monitoring and crisis response
 
-## Monitoring and crisis response
-
-### Section 1
-
-### Monitoring
+<a id="chapter-iv-section-1"></a>
+## Section 1 – Monitoring
 
 <a id="art-33"></a>
 ### Article 33 – Strategic mapping of the Union’s semiconductor sector
@@ -1590,9 +1585,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
   - (d) the impact a disruption of supply of the service or good provided by the market actor may have on the Union’s semiconductor supply chain and dependent markets.
 
-### Section 2
-
-### Alerts and the activation of the crisis stage
+<a id="chapter-iv-section-2"></a>
+## Section 2 – Alerts and the activation of the crisis stage
 
 <a id="art-37"></a>
 ### Article 37 – Alerts and preventive action
@@ -1671,9 +1665,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
 8. The Commission shall update the mapping and the monitoring of the semiconductor value chains pursuant to Articles 33 and 35 taking into account the experience from the crisis no later than six months after the expiry of the duration of the crisis stage.
 
-### Section 3
-
-### Shortage response
+<a id="chapter-iv-section-3"></a>
+## Section 3 – Shortage response
 
 <a id="art-40"></a>
 ### Article 40 – Emergency toolbox
@@ -1751,13 +1744,11 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
 7. The deployment of common purchasing pursuant to this Article shall be without prejudice to other instruments provided for in Regulation (EU, Euratom) 2024/2509.
 
-## CHAPTER V
+<a id="chapter-v"></a>
+## Chapter V – Governance
 
-## Governance
-
-### Section 1
-
-### European Semiconductor Board
+<a id="chapter-v-section-1"></a>
+## Section 1 – European Semiconductor Board
 
 <a id="art-44"></a>
 ### Article 44 – Tasks of the European Semiconductor Board
@@ -1855,9 +1846,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
 3. Member States shall ensure consistency between in their bilateral cooperation with international partners, and in the Union’s international cooperation on semiconductors including non-binding strategic partnerships. They shall also support the Commission in implementing the cooperation measures set out in the Union’s international cooperation on semiconductors including strategic partnerships on semiconductors.
 
-### Section 2
-
-### National competent authorities
+<a id="chapter-v-section-2"></a>
+## Section 2 – National competent authorities
 
 <a id="art-48"></a>
 ### Article 48 – Designation of national competent authorities and national single points of contact
@@ -1876,9 +1866,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
     The Commission shall facilitate the exchange of experience between national competent authorities.
 
-### Section 3
-
-### Industrial Alliance
+<a id="chapter-v-section-3"></a>
+## Section 3 – Industrial Alliance
 
 <a id="art-49"></a>
 ### Article 49 – Industrial Alliance for Semiconductors
@@ -1925,9 +1914,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
 9. The Chair of the Alliance or the Steering Committee, subject to the approval of the Chair, may establish standing or temporary Working Groups for the purpose of examining specific questions.
 
-## Chapter VI
-
-## Confidentiality and penalties
+<a id="chapter-vi"></a>
+## Chapter VI – Confidentiality and penalties
 
 <a id="art-50"></a>
 ### Article 50 – Treatment of confidential information
@@ -2032,9 +2020,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
 4. The rights of defence of the undertaking concerned shall be fully respected in any proceedings. The undertaking concerned shall be entitled to have access to the Commission’s file under the terms of a negotiated disclosure, subject to the legitimate interest of undertakings in the protection of their business secrets. The right of access to the file shall not extend to confidential information and internal documents of the Commission or the authorities of the Member States. In particular, the right of access shall not extend to correspondence between the Commission and the authorities of the Member States. Nothing in this paragraph shall prevent the Commission from disclosing and using information necessary to prove an infringement.
 
-## CHAPTER VII
-
-## Delegation of power and committee procedure
+<a id="chapter-vii"></a>
+## Chapter VII – Delegation of power and committee procedure
 
 <a id="art-55"></a>
 ### Article 55 – Exercise of the delegation
@@ -2060,9 +2047,8 @@ Member States shall, in cooperation with the Commission in accordance with Artic
 
 3. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
 
-## CHAPTER VIII
-
-## Final provisions
+<a id="chapter-viii"></a>
+## Chapter VIII – Final provisions
 
 <a id="art-57"></a>
 ### Article 57 – Evaluation and review

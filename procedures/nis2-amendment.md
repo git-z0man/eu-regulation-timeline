@@ -63,7 +63,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-16 | [PE797.654](https://www.europarl.europa.eu/doceo/document/IMCO-AD-797654_EN.pdf) | ep-opinion | Opinion on the proposal for a directive of the European Parliament and of the Council amending Directive (EU) 2022/2555 as regards simplification measures and … | public | – | – | – |
 | 2026-11-23 | [WK 18127/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/105291) | council-note | Presentation by the Presidency | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
 
 ## Texts as Markdown
 

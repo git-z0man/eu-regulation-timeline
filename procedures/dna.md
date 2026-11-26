@@ -119,7 +119,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-13 | [ST 15128/26](https://data.consilium.europa.eu/doc/document/ST-15128-2026-INIT/en/pdf) | council-progress-report | Progress report | public | – | – | [en](../texts/dna/2026-11-13_council-progress-report-st-15128-26.en.md) |
 | 2026-11-24 | [ST 15968/26](https://data.consilium.europa.eu/doc/document/ST-15968-2026-INIT/en/pdf) | council-progress-report | Progress report | public | – | – | [en](../texts/dna/2026-11-24_council-progress-report-st-15968-26.en.md) |
 
-\* Not public: the registers are checked again daily until the document is released.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
 
 ## Texts as Markdown
 

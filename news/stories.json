@@ -3,78 +3,47 @@
  "previous": "2026-11-25",
  "stories": [
   {
-   "id": "product-digitalisation-directive/ep-vote/Plenary-vote-2026-11-24",
-   "kind": "ep-vote",
+   "id": "quantum-act/proposal",
+   "kind": "proposal",
    "desk": "Legislation",
-   "date": "2026-11-24",
-   "act": "product-digitalisation-directive",
-   "kicker": "Omnibus IV – Digitalisation and common specifications (Directive)",
-   "kicker_de": "Omnibus IV – Digitalisation and common specifications (Directive)",
-   "headline": "Omnibus IV – Digitalisation and common specifications (Directive): Plenary vote",
-   "deck": "European Parliament.",
-   "headline_de": "Omnibus IV – Digitalisation and common specifications (Directive): Abstimmung im Plenum",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
+   "date": "2026-11-25",
+   "act": "quantum-act",
+   "kicker": "Quantum Act",
+   "kicker_de": "Quantengesetz",
+   "headline": "Commission proposal: Quantum Act",
+   "deck": "Quantum Act (COM(2026) 965).",
+   "headline_de": "Kommissionsvorschlag: Quantengesetz",
+   "deck_de": "Quantum Act (COM(2026) 965).",
+   "facts": [
+    "COM(2026) 965",
+    "2026/0365(COD)",
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "COM(2026) 965",
+    "2026/0365(COD)",
+    "Entwurf, kein Recht"
+   ],
    "links": [
     [
-     "Procedure",
-     "../procedures/product-digitalisation-directive.html"
+     "Act page",
+     "../acts/quantum-act.html"
     ],
     [
-     "Document",
-     "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29"
+     "Proposal (official PDF)",
+     "http://publications.europa.eu/resource/cellar/7d903458-e8f5-11f1-b745-01aa75ed71a1.0001.02/DOC_1"
     ]
    ],
    "items": [],
    "brief": null,
-   "score": 81,
+   "score": 113,
    "crumbs": {
     "en": [
-     "Omnibus IV – Digitalisation and common specifications (Directive)",
+     "Quantum Act",
      "Legislation"
     ],
     "de": [
-     "Omnibus IV – Digitalisation and common specifications (Directive)",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-26"
-  },
-  {
-   "id": "product-digitalisation-regulation/ep-vote/Plenary-vote-2026-11-24",
-   "kind": "ep-vote",
-   "desk": "Legislation",
-   "date": "2026-11-24",
-   "act": "product-digitalisation-regulation",
-   "kicker": "Omnibus IV – Digitalisation and common specifications (Regulation)",
-   "kicker_de": "Omnibus IV – Digitalisation and common specifications (Regulation)",
-   "headline": "Omnibus IV – Digitalisation and common specifications (Regulation): Plenary vote",
-   "deck": "European Parliament.",
-   "headline_de": "Omnibus IV – Digitalisation and common specifications (Regulation): Abstimmung im Plenum",
-   "deck_de": "Europäisches Parlament.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/product-digitalisation-regulation.html"
-    ],
-    [
-     "Document",
-     "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0134%28COD%29"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 81,
-   "crumbs": {
-    "en": [
-     "Omnibus IV – Digitalisation and common specifications (Regulation)",
-     "Legislation"
-    ],
-    "de": [
-     "Omnibus IV – Digitalisation and common specifications (Regulation)",
+     "Quantengesetz",
      "Gesetzgebung"
     ]
    },
@@ -321,6 +290,268 @@
    "added": "2026-11-23"
   },
   {
+   "id": "red/standards/M536/2026-W48",
+   "kind": "standard",
+   "desk": "Standards",
+   "date": "2026-11-26",
+   "act": "red",
+   "kicker": "Radio Equipment Directive",
+   "kicker_de": "Funkanlagenrichtlinie",
+   "headline": "Radio Equipment Directive: 2 standards a step further this week",
+   "deck": "2 adopted, 2 in the public enquiry on the draft, 4 in drafting. Standardisation request M/536.",
+   "headline_de": "Funkanlagenrichtlinie: 2 Normen diese Woche einen Schritt weiter",
+   "deck_de": "2 angenommen, 2 in der Umfrage zum Entwurf, 4 in der Ausarbeitung. Normungsauftrag M/536.",
+   "facts": [
+    "M/536"
+   ],
+   "facts_de": [
+    "M/536"
+   ],
+   "links": [
+    [
+     "Standards on the act page",
+     "../procedures/standardisation.html"
+    ]
+   ],
+   "items": [
+    {
+     "label": "EN 302 977: Publication",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024"
+    },
+    {
+     "label": "EN 301 908-1: Drafting Stage – Stable draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178"
+    },
+    {
+     "label": "EN 301 447: Delivery to the EC",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018"
+    },
+    {
+     "label": "EN 301 442: Approval Stage – Deliverable approval procedure initiated",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016"
+    },
+    {
+     "label": "EN 302 186: Publication",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313"
+    },
+    {
+     "label": "EN 301 406-2: Drafting Stage – Final draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499"
+    },
+    {
+     "label": "EN 300 422-4: Drafting Stage – Stable draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882"
+    },
+    {
+     "label": "EN 302 054: Approval Stage – Deliverable approval procedure initiated",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360"
+    },
+    {
+     "label": "EN 301 908-26: Approval Stage – Start of TB review after AP comments",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741"
+    },
+    {
+     "label": "EN 301 843-5: Drafting Stage – Early draft",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66906"
+    }
+   ],
+   "brief": {
+    "status": "rule",
+    "en": "A step further: EN 301 442 to Voting prEN; EN 302 054 to Voting prEN; 2 only changed status within their step (Drafting prEN); 6 without an earlier status on record (EN 302 977, EN 301 908-1, EN 301 447 …).",
+    "de": "Einen Schritt weiter: EN 301 442 auf Umfrage prEN; EN 302 054 auf Umfrage prEN; 2 nur mit neuem Status im selben Schritt (Entwurf prEN); 6 ohne früheren Stand in den Daten (EN 302 977, EN 301 908-1, EN 301 447 …)."
+   },
+   "score": 57,
+   "tree": {
+    "": {
+     "ETSI": {
+      "SES HARM": [
+       {
+        "project": "EN 302 977",
+        "title": "Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operating in the 14/12 GHz frequency bands; Harmonised Standard for access to radio spectrum Vehicle-Mounted Earth Stations (VMES) operating in the 14/12 GHz",
+        "now": "Publication",
+        "date": "2026-11-26",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
+        "step": [
+         5,
+         true,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 301 447",
+        "title": "Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESVs) operating in the 4/6 GHz frequency bands allocated to the Fixed Satellite Service (FSS); Harmonised Standard for access to radio spectrum Earth Stations on board Vessels (ESVs) 4/6 GHz bands allocated to FSS",
+        "now": "Delivery to the EC",
+        "date": "2026-11-26",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+        "step": null,
+        "prev": [
+         5,
+         true,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 301 442",
+        "title": "Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including handheld earth stations, for Satellite Personal Communications Networks (S-PCN) operating in the 1 980 MHz to 2 010 MHz (earth-to-space) and 2 170 MHz to 2 200 MHz (space-to-earth) frequency bands under the Mobile Satellite Service (MSS); Harmonised Standard for access to radio spectrum Satellite Personal Communications Networks (S-PCN) in the 2,0 GHz",
+        "now": "Approval Stage – Deliverable approval procedure initiated",
+        "date": "2026-11-26",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       },
+       {
+        "project": "EN 302 186",
+        "title": "Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in the 11/12/14 GHz frequency bands; Harmonised Standard for access to radio spectrum Ku-band AES 11/12/14 GHz",
+        "now": "Publication",
+        "date": "2026-11-25",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
+        "step": [
+         5,
+         true,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "MSG TFES": [
+       {
+        "project": "EN 301 908-1",
+        "title": "Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirements Release 17 Part 1 Update to 3GPP Release 17",
+        "now": "Drafting Stage – Stable draft",
+        "date": "2026-11-26",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       },
+       {
+        "project": "EN 301 908-26",
+        "title": "Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aerial UE",
+        "now": "Approval Stage – Start of TB review after AP comments",
+        "date": "2026-11-23",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
+        "step": null,
+        "prev": null,
+        "also": []
+       }
+      ],
+      "DECT": [
+       {
+        "project": "EN 301 406-2",
+        "title": "Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to radio spectrum; Part 2: DECT-2020 NR HS for DECT-2020 NR operating in the 1 880 MHz - 1 900 MHz band",
+        "now": "Drafting Stage – Final draft",
+        "date": "2026-11-25",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": null,
+        "also": []
+       }
+      ],
+      "ERM WG17": [
+       {
+        "project": "EN 300 422-4",
+        "title": "Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifiers and inductive systems up to 3 GHz; Harmonised Standard for access to radio spectrum Wireless microphones, Audio PMSE up to 3 GHz Part 4 ALD",
+        "now": "Drafting Stage – Stable draft",
+        "date": "2026-11-25",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ],
+      "ERM WGAERO": [
+       {
+        "project": "EN 302 054",
+        "title": "Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels ranging up to 200 mW; Harmonised Standard for access to radio spectrum Radiosondes (400,15 MHz to 406 MHz), harmonised standard ( Art 3.2)",
+        "now": "Approval Stage – Deliverable approval procedure initiated",
+        "date": "2026-11-23",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
+        "step": [
+         2,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ],
+      "ERM WGEMC": [
+       {
+        "project": "EN 301 843-5",
+        "title": "ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harmonised Standard for electromagnetic compatibility; Part 5: Specific conditions for MF/HF radiotelephone transmitters and receivers EMC for marine MF/HF",
+        "now": "Drafting Stage – Early draft",
+        "date": "2026-11-23",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66906",
+        "step": [
+         1,
+         false,
+         true
+        ],
+        "prev": [
+         1,
+         false,
+         true
+        ],
+        "also": []
+       }
+      ]
+     }
+    }
+   },
+   "ladder": {
+    "request": "M/536",
+    "org": "ETSI"
+   },
+   "crumbs": {
+    "en": [
+     "Radio Equipment Directive",
+     "Standards",
+     "M/536",
+     "ETSI"
+    ],
+    "de": [
+     "Funkanlagenrichtlinie",
+     "Normen",
+     "M/536",
+     "ETSI"
+    ]
+   },
+   "added": "2026-11-23"
+  },
+  {
    "id": "article/harmonised-standards-access",
    "kind": "article",
    "desk": "Analysis",
@@ -475,6 +706,206 @@
    "added": "2026-11-26"
   },
   {
+   "id": "product-digitalisation-directive/forecast/reached/ep/2026-11-24",
+   "kind": "forecast-step",
+   "desk": "Analysis",
+   "date": "2026-11-24",
+   "act": "product-digitalisation-directive",
+   "kicker": "Omnibus IV – Digitalisation and common specifications (Directive)",
+   "kicker_de": "Omnibus IV – Digitalisation and common specifications (Directive)",
+   "headline": "Omnibus IV – Digitalisation and common specifications (Directive): Parliament's vote reached",
+   "deck": "Parliament's vote on 24 Nov 2026.",
+   "headline_de": "Omnibus IV – Digitalisation and common specifications (Directive): Abstimmung im Plenum des Parlaments erreicht",
+   "deck_de": "Abstimmung im Plenum des Parlaments am 24. Nov. 2026.",
+   "facts": [
+    "Step: Parliament's vote",
+    "Reached 24 Nov 2026"
+   ],
+   "facts_de": [
+    "Schritt: Abstimmung im Plenum des Parlaments",
+    "Erreicht 24. Nov. 2026"
+   ],
+   "links": [
+    [
+     "Forecast",
+     "../forecast/product-digitalisation-directive.html"
+    ],
+    [
+     "Procedure",
+     "../acts/product-digitalisation-directive.html"
+    ]
+   ],
+   "items": [],
+   "brief": {
+    "status": "rule",
+    "en": "The forecast now starts from the next step.",
+    "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
+   },
+   "score": 51,
+   "ladder": {
+    "place": {
+     "en": [
+      "Forecast"
+     ],
+     "de": [
+      "Prognose"
+     ]
+    }
+   },
+   "crumbs": {
+    "en": [
+     "Omnibus IV – Digitalisation and common specifications (Directive)",
+     "Analysis",
+     "Forecast"
+    ],
+    "de": [
+     "Omnibus IV – Digitalisation and common specifications (Directive)",
+     "Analyse",
+     "Prognose"
+    ]
+   },
+   "added": "2026-11-26"
+  },
+  {
+   "id": "product-digitalisation-directive/legislation/P10-TA-2026-0384",
+   "kind": "legislation",
+   "desk": "Legislation",
+   "date": "2026-11-24",
+   "act": "product-digitalisation-directive",
+   "kicker": "Omnibus IV – Digitalisation and common specifications (Directive)",
+   "kicker_de": "Omnibus IV – Digitalisation and common specifications (Directive)",
+   "headline": "Omnibus IV – Digitalisation and common specifications (Directive): EP position at first reading (Art. 294(3) TFEU)",
+   "deck": "European Parliament.",
+   "headline_de": "Omnibus IV – Digitalisation and common specifications (Directive): neuer Schritt im Verfahren",
+   "deck_de": "Europäisches Parlament (im Original): EP position at first reading (Art. 294(3) TFEU)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/product-digitalisation-directive.html"
+    ],
+    [
+     "Document",
+     "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0384_EN.pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 51,
+   "crumbs": {
+    "en": [
+     "Omnibus IV – Digitalisation and common specifications (Directive)",
+     "Legislation"
+    ],
+    "de": [
+     "Omnibus IV – Digitalisation and common specifications (Directive)",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-26"
+  },
+  {
+   "id": "product-digitalisation-regulation/forecast/reached/ep/2026-11-24",
+   "kind": "forecast-step",
+   "desk": "Analysis",
+   "date": "2026-11-24",
+   "act": "product-digitalisation-regulation",
+   "kicker": "Omnibus IV – Digitalisation and common specifications (Regulation)",
+   "kicker_de": "Omnibus IV – Digitalisation and common specifications (Regulation)",
+   "headline": "Omnibus IV – Digitalisation and common specifications (Regulation): Parliament's vote reached",
+   "deck": "Parliament's vote on 24 Nov 2026.",
+   "headline_de": "Omnibus IV – Digitalisation and common specifications (Regulation): Abstimmung im Plenum des Parlaments erreicht",
+   "deck_de": "Abstimmung im Plenum des Parlaments am 24. Nov. 2026.",
+   "facts": [
+    "Step: Parliament's vote",
+    "Reached 24 Nov 2026"
+   ],
+   "facts_de": [
+    "Schritt: Abstimmung im Plenum des Parlaments",
+    "Erreicht 24. Nov. 2026"
+   ],
+   "links": [
+    [
+     "Forecast",
+     "../forecast/product-digitalisation-regulation.html"
+    ],
+    [
+     "Procedure",
+     "../acts/product-digitalisation-regulation.html"
+    ]
+   ],
+   "items": [],
+   "brief": {
+    "status": "rule",
+    "en": "The forecast now starts from the next step.",
+    "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
+   },
+   "score": 51,
+   "ladder": {
+    "place": {
+     "en": [
+      "Forecast"
+     ],
+     "de": [
+      "Prognose"
+     ]
+    }
+   },
+   "crumbs": {
+    "en": [
+     "Omnibus IV – Digitalisation and common specifications (Regulation)",
+     "Analysis",
+     "Forecast"
+    ],
+    "de": [
+     "Omnibus IV – Digitalisation and common specifications (Regulation)",
+     "Analyse",
+     "Prognose"
+    ]
+   },
+   "added": "2026-11-26"
+  },
+  {
+   "id": "product-digitalisation-regulation/legislation/P10-TA-2026-0385",
+   "kind": "legislation",
+   "desk": "Legislation",
+   "date": "2026-11-24",
+   "act": "product-digitalisation-regulation",
+   "kicker": "Omnibus IV – Digitalisation and common specifications (Regulation)",
+   "kicker_de": "Omnibus IV – Digitalisation and common specifications (Regulation)",
+   "headline": "Omnibus IV – Digitalisation and common specifications (Regulation): EP position at first reading (Art. 294(3) TFEU)",
+   "deck": "European Parliament.",
+   "headline_de": "Omnibus IV – Digitalisation and common specifications (Regulation): neuer Schritt im Verfahren",
+   "deck_de": "Europäisches Parlament (im Original): EP position at first reading (Art. 294(3) TFEU)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/product-digitalisation-regulation.html"
+    ],
+    [
+     "Document",
+     "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0385_EN.pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 51,
+   "crumbs": {
+    "en": [
+     "Omnibus IV – Digitalisation and common specifications (Regulation)",
+     "Legislation"
+    ],
+    "de": [
+     "Omnibus IV – Digitalisation and common specifications (Regulation)",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-26"
+  },
+  {
    "id": "industrial-accelerator-act/compromise/ST-15418-26",
    "kind": "compromise",
    "desk": "Legislation",
@@ -621,224 +1052,6 @@
    "added": "2026-11-24"
   },
   {
-   "id": "red/standards/M536/2026-W48",
-   "kind": "standard",
-   "desk": "Standards",
-   "date": "2026-11-25",
-   "act": "red",
-   "kicker": "Radio Equipment Directive",
-   "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive: 1 standard a step further this week",
-   "deck": "1 adopted, 1 in the public enquiry on the draft, 3 in drafting. Standardisation request M/536.",
-   "headline_de": "Funkanlagenrichtlinie: 1 Norm diese Woche einen Schritt weiter",
-   "deck_de": "1 angenommen, 1 in der Umfrage zum Entwurf, 3 in der Ausarbeitung. Normungsauftrag M/536.",
-   "facts": [
-    "M/536"
-   ],
-   "facts_de": [
-    "M/536"
-   ],
-   "links": [
-    [
-     "Standards on the act page",
-     "../procedures/standardisation.html"
-    ]
-   ],
-   "items": [
-    {
-     "label": "EN 302 977: Approval Stage – Final deliverable adopted for publicatio",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024"
-    },
-    {
-     "label": "EN 302 186: Publication",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313"
-    },
-    {
-     "label": "EN 301 406-2: Drafting Stage – Final draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499"
-    },
-    {
-     "label": "EN 300 422-4: Drafting Stage – Stable draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882"
-    },
-    {
-     "label": "EN 302 054: Approval Stage – Deliverable approval procedure initiated",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360"
-    },
-    {
-     "label": "EN 301 908-26: Approval Stage – Start of TB review after AP comments",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741"
-    },
-    {
-     "label": "EN 301 908-1: Approval Stage – Final deliverable registered for formal adoption",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178"
-    },
-    {
-     "label": "EN 301 843-5: Drafting Stage – Early draft",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66906"
-    }
-   ],
-   "brief": {
-    "status": "rule",
-    "en": "A step further: EN 302 054 to Voting prEN; 2 only changed status within their step (Drafting prEN); 5 without an earlier status on record (EN 302 977, EN 302 186, EN 301 406-2 …).",
-    "de": "Einen Schritt weiter: EN 302 054 auf Umfrage prEN; 2 nur mit neuem Status im selben Schritt (Entwurf prEN); 5 ohne früheren Stand in den Daten (EN 302 977, EN 302 186, EN 301 406-2 …)."
-   },
-   "score": 47,
-   "tree": {
-    "": {
-     "ETSI": {
-      "SES HARM": [
-       {
-        "project": "EN 302 977",
-        "title": "Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operating in the 14/12 GHz frequency bands; Harmonised Standard for access to radio spectrum Vehicle-Mounted Earth Stations (VMES) operating in the 14/12 GHz",
-        "now": "Approval Stage – Final deliverable adopted for publicatio",
-        "date": "2026-11-25",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
-        "step": null,
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 302 186",
-        "title": "Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in the 11/12/14 GHz frequency bands; Harmonised Standard for access to radio spectrum Ku-band AES 11/12/14 GHz",
-        "now": "Publication",
-        "date": "2026-11-25",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74313",
-        "step": [
-         5,
-         true,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "DECT": [
-       {
-        "project": "EN 301 406-2",
-        "title": "Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to radio spectrum; Part 2: DECT-2020 NR HS for DECT-2020 NR operating in the 1 880 MHz - 1 900 MHz band",
-        "now": "Drafting Stage – Final draft",
-        "date": "2026-11-25",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=75499",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": null,
-        "also": []
-       }
-      ],
-      "ERM WG17": [
-       {
-        "project": "EN 300 422-4",
-        "title": "Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifiers and inductive systems up to 3 GHz; Harmonised Standard for access to radio spectrum Wireless microphones, Audio PMSE up to 3 GHz Part 4 ALD",
-        "now": "Drafting Stage – Stable draft",
-        "date": "2026-11-25",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "ERM WGAERO": [
-       {
-        "project": "EN 302 054",
-        "title": "Radiosondes to be used in the 400,15 MHz to 406 MHz frequency range with power levels ranging up to 200 mW; Harmonised Standard for access to radio spectrum Radiosondes (400,15 MHz to 406 MHz), harmonised standard ( Art 3.2)",
-        "now": "Approval Stage – Deliverable approval procedure initiated",
-        "date": "2026-11-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74360",
-        "step": [
-         2,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "MSG TFES": [
-       {
-        "project": "EN 301 908-26",
-        "title": "Harmonised Standard for access to radio spectrum; Part 26: Aerial User Equipment (UE) Aerial UE",
-        "now": "Approval Stage – Start of TB review after AP comments",
-        "date": "2026-11-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
-        "step": null,
-        "prev": null,
-        "also": []
-       },
-       {
-        "project": "EN 301 908-1",
-        "title": "Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirements Release 17 Part 1 Update to 3GPP Release 17",
-        "now": "Approval Stage – Final deliverable registered for formal adoption",
-        "date": "2026-11-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
-        "step": null,
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ],
-      "ERM WGEMC": [
-       {
-        "project": "EN 301 843-5",
-        "title": "ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services; Harmonised Standard for electromagnetic compatibility; Part 5: Specific conditions for MF/HF radiotelephone transmitters and receivers EMC for marine MF/HF",
-        "now": "Drafting Stage – Early draft",
-        "date": "2026-11-23",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=66906",
-        "step": [
-         1,
-         false,
-         true
-        ],
-        "prev": [
-         1,
-         false,
-         true
-        ],
-        "also": []
-       }
-      ]
-     }
-    }
-   },
-   "ladder": {
-    "request": "M/536",
-    "org": "ETSI"
-   },
-   "crumbs": {
-    "en": [
-     "Radio Equipment Directive",
-     "Standards",
-     "M/536",
-     "ETSI"
-    ],
-    "de": [
-     "Funkanlagenrichtlinie",
-     "Normen",
-     "M/536",
-     "ETSI"
-    ]
-   },
-   "added": "2026-11-23"
-  },
-  {
    "id": "forecast/method/2026-W48",
    "kind": "forecast-shift",
    "desk": "Analysis",
@@ -897,69 +1110,10 @@
    "added": "2026-11-24"
   },
   {
-   "id": "digital-omnibus/released/2026-11-18",
-   "kind": "released",
-   "desk": "Documents",
-   "date": "2026-11-18",
-   "act": "digital-omnibus",
-   "kicker": "Digital Omnibus",
-   "kicker_de": "Digital-Omnibus",
-   "headline": "Council releases 2 Digital Omnibus documents",
-   "deck": "2 Council positions: Mandate for negotiations with the European Parliament; Mandate for negotiations with the European Parliament. Listed as not public since 4 Oct 2026; now public in the register.",
-   "headline_de": "Rat gibt 2 Dokumente zu Digital-Omnibus frei",
-   "deck_de": "2 Ratspositionen: Mandate for negotiations with the European Parliament; Mandate for negotiations with the European Parliament. Seit 4. Okt. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/digital-omnibus.html"
-    ]
-   ],
-   "items": [
-    {
-     "type": "Council position",
-     "type_de": "Ratsposition",
-     "rank": 2,
-     "ref": "ST 13886/26 REV 1",
-     "date": "2026-10-05",
-     "title": "Mandate for negotiations with the European Parliament",
-     "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-REV-1/en/pdf"
-    },
-    {
-     "type": "Council position",
-     "type_de": "Ratsposition",
-     "rank": 2,
-     "ref": "ST 13886/26",
-     "date": "2026-10-02",
-     "title": "Mandate for negotiations with the European Parliament",
-     "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-INIT/en/pdf"
-    }
-   ],
-   "brief": {
-    "status": "summary",
-    "en": "ST 13886/26 REV 1: ST 13886/26 REV 1 of 5 October 2026 is a revised note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law. ST 13886/26: ST 13886/26 of 2 October 2026 is a note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law.",
-    "de": "ST 13886/26 REV 1: ST 13886/26 REV 1 of 5 October 2026 is a revised note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law. ST 13886/26: ST 13886/26 of 2 October 2026 is a note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law.",
-    "lang": "en"
-   },
-   "score": 44,
-   "crumbs": {
-    "en": [
-     "Digital Omnibus",
-     "Legislation"
-    ],
-    "de": [
-     "Digital-Omnibus",
-     "Gesetzgebung"
-    ]
-   },
-   "added": "2026-11-19"
-  },
-  {
    "id": "cra/standards/M606/2026-W48",
    "kind": "standard",
    "desk": "Standards",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "act": "cra",
    "kicker": "Cyber Resilience Act",
    "kicker_de": "CRA",
@@ -983,16 +1137,16 @@
    ],
    "items": [
     {
+     "label": "EN 304 625: Approval Stage – Draft Review after PE",
+     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
+    },
+    {
      "label": "EN 304 623: Approval Stage – Draft Review after PE",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74414"
     },
     {
      "label": "EN 304 622: Approval Stage – Draft Review after PE",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413"
-    },
-    {
-     "label": "EN 304 625: Approval Stage – Draft Review after PE",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860"
     },
     {
      "label": "EN 304 621: Approval Stage – Draft Review after PE",
@@ -1052,11 +1206,25 @@
     }
    ],
    "brief": null,
-   "score": 44,
+   "score": 46,
    "tree": {
     "vertical": {
      "ETSI": {
       "CYBER EUSR": [
+       {
+        "project": "EN 304 625",
+        "title": "Cybersecurity requirements for physical and virtual network interfaces",
+        "now": "Approval Stage – Draft Review after PE",
+        "date": "2026-11-26",
+        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+        "step": null,
+        "prev": [
+         3,
+         false,
+         true
+        ],
+        "also": []
+       },
        {
         "project": "EN 304 623",
         "title": "Cybersecurity requirements for boot managers",
@@ -1077,20 +1245,6 @@
         "now": "Approval Stage – Draft Review after PE",
         "date": "2026-11-25",
         "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74413",
-        "step": null,
-        "prev": [
-         3,
-         false,
-         true
-        ],
-        "also": []
-       },
-       {
-        "project": "EN 304 625",
-        "title": "Cybersecurity requirements for physical and virtual network interfaces",
-        "now": "Approval Stage – Draft Review after PE",
-        "date": "2026-11-24",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
         "step": null,
         "prev": [
          3,
@@ -1326,6 +1480,65 @@
     ]
    },
    "added": "2026-11-23"
+  },
+  {
+   "id": "digital-omnibus/released/2026-11-18",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-18",
+   "act": "digital-omnibus",
+   "kicker": "Digital Omnibus",
+   "kicker_de": "Digital-Omnibus",
+   "headline": "Council releases 2 Digital Omnibus documents",
+   "deck": "2 Council positions: Mandate for negotiations with the European Parliament; Mandate for negotiations with the European Parliament. Listed as not public since 4 Oct 2026; now public in the register.",
+   "headline_de": "Rat gibt 2 Dokumente zu Digital-Omnibus frei",
+   "deck_de": "2 Ratspositionen: Mandate for negotiations with the European Parliament; Mandate for negotiations with the European Parliament. Seit 4. Okt. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/digital-omnibus.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "Council position",
+     "type_de": "Ratsposition",
+     "rank": 2,
+     "ref": "ST 13886/26 REV 1",
+     "date": "2026-10-05",
+     "title": "Mandate for negotiations with the European Parliament",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-REV-1/en/pdf"
+    },
+    {
+     "type": "Council position",
+     "type_de": "Ratsposition",
+     "rank": 2,
+     "ref": "ST 13886/26",
+     "date": "2026-10-02",
+     "title": "Mandate for negotiations with the European Parliament",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13886-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": {
+    "status": "summary",
+    "en": "ST 13886/26 REV 1: ST 13886/26 REV 1 of 5 October 2026 is a revised note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law. ST 13886/26: ST 13886/26 of 2 October 2026 is a note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law.",
+    "de": "ST 13886/26 REV 1: ST 13886/26 REV 1 of 5 October 2026 is a revised note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law. ST 13886/26: ST 13886/26 of 2 October 2026 is a note of the General Secretariat of the Council to the Permanent Representatives Committee with the Presidency's proposed mandate for negotiations with the European Parliament on the Digital Omnibus; it was put to Coreper for agreement and is neither the Council's position nor law.",
+    "lang": "en"
+   },
+   "score": 44,
+   "crumbs": {
+    "en": [
+     "Digital Omnibus",
+     "Legislation"
+    ],
+    "de": [
+     "Digital-Omnibus",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-19"
   },
   {
    "id": "cloud-ai-development-act/ep-draft/PE797-430",
@@ -1876,67 +2089,6 @@
    "added": "2026-11-17"
   },
   {
-   "id": "space-act/forecast/reached/mandate/2026-11-23",
-   "kind": "forecast-step",
-   "desk": "Analysis",
-   "date": "2026-11-23",
-   "act": "space-act",
-   "kicker": "EU Space Act",
-   "kicker_de": "EU-Weltraumgesetz",
-   "headline": "EU Space Act: Trilogues can start reached",
-   "deck": "Trilogues can start on 23 Nov 2026.",
-   "headline_de": "EU-Weltraumgesetz: Beginn der Trilogverhandlungen erreicht",
-   "deck_de": "Beginn der Trilogverhandlungen am 23. Nov. 2026.",
-   "facts": [
-    "Step: Trilogues can start",
-    "Reached 23 Nov 2026"
-   ],
-   "facts_de": [
-    "Schritt: Beginn der Trilogverhandlungen",
-    "Erreicht 23. Nov. 2026"
-   ],
-   "links": [
-    [
-     "Forecast",
-     "../forecast/space-act.html"
-    ],
-    [
-     "Procedure",
-     "../procedures/space-act.html"
-    ]
-   ],
-   "items": [],
-   "brief": {
-    "status": "rule",
-    "en": "The forecast now starts from the next step.",
-    "de": "Die Prognose geht jetzt vom nächsten Schritt aus."
-   },
-   "score": 34,
-   "ladder": {
-    "place": {
-     "en": [
-      "Forecast"
-     ],
-     "de": [
-      "Prognose"
-     ]
-    }
-   },
-   "crumbs": {
-    "en": [
-     "EU Space Act",
-     "Analysis",
-     "Forecast"
-    ],
-    "de": [
-     "EU-Weltraumgesetz",
-     "Analyse",
-     "Prognose"
-    ]
-   },
-   "added": "2026-11-26"
-  },
-  {
    "id": "public-procurement-act/released/2026-11-20",
    "kind": "released",
    "desk": "Documents",
@@ -2161,10 +2313,10 @@
    "act": "red",
    "kicker": "Radio Equipment Directive",
    "kicker_de": "Funkanlagenrichtlinie",
-   "headline": "Radio Equipment Directive: 10 ETSI standards with a new status in week 47",
-   "deck": "1 adopted, 1 in the final vote, 8 in drafting. Standardisation request M/536.",
-   "headline_de": "Funkanlagenrichtlinie: 10 ETSI-Normen mit neuem Status in KW 47",
-   "deck_de": "1 angenommen, 1 in der Schlussabstimmung, 8 in der Ausarbeitung. Normungsauftrag M/536.",
+   "headline": "Radio Equipment Directive: 9 ETSI standards with a new status in week 47",
+   "deck": "1 in the final vote, 8 in drafting. Standardisation request M/536.",
+   "headline_de": "Funkanlagenrichtlinie: 9 ETSI-Normen mit neuem Status in KW 47",
+   "deck_de": "1 in der Schlussabstimmung, 8 in der Ausarbeitung. Normungsauftrag M/536.",
    "facts": [
     "M/536"
    ],
@@ -2195,10 +2347,6 @@
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518"
     },
     {
-     "label": "EN 301 447: Publication",
-     "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018"
-    },
-    {
      "label": "EN 305 550-9: Drafting Stage – Stable draft",
      "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73777"
     },
@@ -2221,8 +2369,8 @@
    ],
    "brief": {
     "status": "rule",
-    "en": "5 only changed status within their step (Drafting prEN, Voting EN); 5 without an earlier status on record (EN 305 550-4, EN 301 447, EN 305 550-9 …).",
-    "de": "5 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 5 ohne früheren Stand in den Daten (EN 305 550-4, EN 301 447, EN 305 550-9 …)."
+    "en": "5 only changed status within their step (Drafting prEN, Voting EN); 4 without an earlier status on record (EN 305 550-4, EN 305 550-9, EN 302 885 …).",
+    "de": "5 nur mit neuem Status im selben Schritt (Abstimmung EN, Entwurf prEN); 4 ohne früheren Stand in den Daten (EN 305 550-4, EN 305 550-9, EN 302 885 …)."
    },
    "score": 29,
    "tree": {
@@ -2343,20 +2491,6 @@
          false,
          true
         ],
-        "also": []
-       },
-       {
-        "project": "EN 301 447",
-        "title": "Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESVs) operating in the 4/6 GHz frequency bands allocated to the Fixed Satellite Service (FSS); Harmonised Standard for access to radio spectrum Earth Stations on board Vessels (ESVs) 4/6 GHz bands allocated to FSS",
-        "now": "Publication",
-        "date": "2026-11-19",
-        "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
-        "step": [
-         5,
-         true,
-         true
-        ],
-        "prev": null,
         "also": []
        }
       ],

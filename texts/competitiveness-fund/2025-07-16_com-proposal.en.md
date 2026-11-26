@@ -513,13 +513,11 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-## Chapter I
+<a id="chapter-i"></a>
+## Chapter I – General Provisions
 
-## General Provisions
-
-### Section 1
-
-### Objectives and Structure of the Fund
+<a id="chapter-i-section-1"></a>
+## Section 1 – Objectives and Structure of the Fund
 
 <a id="art-1"></a>
 ### Article 1
@@ -669,9 +667,8 @@ HAVE ADOPTED THIS REGULATION:
 
 5. The financial envelope referred to in paragraph 1 of this Article and the additional resources referred to in Article 5 may also be used for technical and administrative assistance for the implementation of the ECF, such as preparatory, monitoring, control, audit and evaluation activities, corporate information technology systems and platforms, information and communication activities, including corporate communication on the political priorities of the Union, and all other technical and administrative assistance or staff-related expenses incurred by the Commission for the management of the ECF.
 
-### SECTION 2
-
-### Single Rulebook
+<a id="chapter-i-section-2"></a>
+## Section 2 – Single Rulebook
 
 <a id="art-5"></a>
 ### Article 5
@@ -881,13 +878,11 @@ HAVE ADOPTED THIS REGULATION:
 
 11. The Commission shall ensure that stakeholders are consulted in the development of the work programmes, with the creation of one or several thematic platforms per window.
 
-## Chapter II
+<a id="chapter-ii"></a>
+## Chapter II – ECF TOOLBOX
 
-## ECF TOOLBOX
-
-### SECTION 1
-
-### Grants, procurement and industrial policy coordination tools
+<a id="chapter-ii-section-1"></a>
+## Section 1 – Grants, procurement and industrial policy coordination tools
 
 <a id="art-15"></a>
 ### Article 15
@@ -1007,9 +1002,8 @@ HAVE ADOPTED THIS REGULATION:
 
 3. In accordance with paragraph 1, for actions which require the planning, construction and operation of facilities funded under award procedures the work programme may determine that, depending on the nature of the action, it is of public interest and may be of imperative reason of overriding public interest within the meaning of Article 6(4) and Article 16(1), point (c), of Council Directive 92/43/EEC and Article 4(7) of Directive 2000/60/EC of the European Parliament and of the Council , in the interest of defence within the meaning of Article 2(3) of Regulation (EC) No 1907/2006 of the European Parliament and of the Council , and in the interests of public health and safety within the meaning of Article 9(1), point (a) of Directive 2009/147/EC of the European Parliament and of the Council, in accordance with and under the conditions set out in applicable legislation such as the Net Zero Industry Act Regulation 2024/1735, RED III (Directive 2023/2413), or the Defence Readiness Omnibus (COM(2022)349) provided that the remaining other conditions set out in these provisions are fulfilled.
 
-### SECTION 2
-
-### ECF InvestEU Instrument
+<a id="chapter-ii-section-2"></a>
+## Section 2 – ECF InvestEU Instrument
 
 <a id="art-21"></a>
 ### Article 21
@@ -1080,13 +1074,11 @@ HAVE ADOPTED THIS REGULATION:
 
 3. In addition to entities referred to in Article 62(1), first subparagraph, point (c), and Article 211(5) of Regulation (EU Euratom) 2024/2029, bodies established in a Member State, governed by the private law of a Member State or Union law may also be exceptionally entrusted, following a positive pillar assessment, with the implementation of a budgetary guarantee or financial instrument, including when combined with non-repayable support in a blending operation, to the extent that such bodies are provided with adequate financial guarantees which may be, for each action, limited to the maximum amount of the Union support. Those bodies governed by private law shall be selected with due account to the nature of the financial instrument or budgetary guarantee to be implemented, the experience and the financial and operational capacity, and their rules and procedures for verifying the economic viability of projects of final recipients. The selection shall be transparent, justified on objective grounds and shall not give rise to a conflict of interests.
 
-## Chapter III
+<a id="chapter-iii"></a>
+## Chapter III – Project Advisory, SME Collaboration, skills development and Access to Funding
 
-## Project Advisory, SME Collaboration, skills development and Access to Funding
-
-### SECTION 1
-
-### Project Advisory
+<a id="chapter-iii-section-1"></a>
+## Section 1 – Project Advisory
 
 <a id="art-26"></a>
 ### Article 26
@@ -1111,9 +1103,8 @@ HAVE ADOPTED THIS REGULATION:
 
 6. When implementing the Project Advisory, the Commission, its advisory partners and other service providers shall, when appropriate, collaborate with other Union or national public or private advisory and support service providers, including the EU for Business Network.
 
-### SECTION 2
-
-### SME collaboration
+<a id="chapter-iii-section-2"></a>
+## Section 2 – SME collaboration
 
 <a id="art-27"></a>
 ### Article 27
@@ -1159,9 +1150,8 @@ HAVE ADOPTED THIS REGULATION:
 
 1. The ECF shall finance activities in support of skills development, in particular in the strategic sectors, building strong links between higher education, vocational education and training providers, applied research and businesses for an agile, innovative and competitive economy. This shall include support for a European Skills Guarantee to support value chain transitions in favour of strategic growth sectors or occupations across the labour market through upskilling and reskilling of the workforce and Vocational Education and Training (VET) partnerships to strengthen cooperation between VET providers and businesses, especially SMEs and connecting them with regional industrial ecosystems.
 
-### SECTION 3
-
-### Beneficiary service desk
+<a id="chapter-iii-section-3"></a>
+## Section 3 – Beneficiary service desk
 
 <a id="art-31"></a>
 ### Article 31
@@ -1172,9 +1162,8 @@ HAVE ADOPTED THIS REGULATION:
 
 2. The ECF may support any additional activities to facilitate and accelerate access to Union funding, and other funding, financing and investments, as well as to ensure valorisation and uptake of results through tools and instruments such as proof of concept, deployment grants, advisory and business support services, and any dedicated platform.
 
-## Chapter IV
-
-## Support for Clean Transition and Industrial Decarbonisation
+<a id="chapter-iv"></a>
+## Chapter IV – Support for Clean Transition and Industrial Decarbonisation
 
 <a id="art-32"></a>
 ### Article 32
@@ -1244,9 +1233,8 @@ HAVE ADOPTED THIS REGULATION:
 
 1. Award procedures under this chapter may take the form of competitive bidding. That includes contracts for difference, carbon contracts for difference, or fixed premium contracts to support decarbonisation investment, provided that the financial interests of the Union are protected and the exposure of the budget remains limited to a maximum contribution. Competitive bidding procedures may be implemented through, and in accordance with, any of the budget implementation instruments set out in Article 12.
 
-## CHAPTER V
-
-## SUPPORT FOR HEALTH, BIOTECH, AGRICULTURE AND BIOECONOMY
+<a id="chapter-v"></a>
+## Chapter V – SUPPORT FOR HEALTH, BIOTECH, AGRICULTURE AND BIOECONOMY
 
 <a id="art-36"></a>
 ### Article 36
@@ -1282,9 +1270,8 @@ HAVE ADOPTED THIS REGULATION:
 
 2. Work programmes adopted in accordance with the rules of this Regulation under this chapter shall integrate in a specific dedicated part and ensure coherence with [Competitiveness and Society activities supported under the Regulation (EU) [XXX] [Horizon Europe Framework programme for Research and Innovation
 
-## CHAPTER VI
-
-## SUPPORT FOR DIGITAL LEADERSHIP
+<a id="chapter-vi"></a>
+## Chapter VI – SUPPORT FOR DIGITAL LEADERSHIP
 
 <a id="art-38"></a>
 ### Article 38
@@ -1318,9 +1305,8 @@ HAVE ADOPTED THIS REGULATION:
 
 4. Work programmes adopted in accordance with the rules of this Regulation under this chapter shall integrate in a specific dedicated part and ensure coherence with Competitiveness and Society activities under the Regulation (EU) [XXX] [Horizon Europe Framework programme for Research and Innovation
 
-## CHAPTER VII
-
-## SUPPORT FOR RESILIENCE AND SECURITY, DEFENCE INDUSTRY AND SPACE
+<a id="chapter-vii"></a>
+## Chapter VII – SUPPORT FOR RESILIENCE AND SECURITY, DEFENCE INDUSTRY AND SPACE
 
 <a id="art-40"></a>
 ### Article 40
@@ -1338,9 +1324,8 @@ HAVE ADOPTED THIS REGULATION:
 
 1. A Space and Defence Advisory Board is set up and may advice the Commission on the coordination and complementarity between space and defence activities as laid down Article 3(2)(d), sub-points (1) and (2) and related financial tools to increase efficiency of investments and effectiveness of results. The members of the Advisory Board referred to in paragraph 1 shall be appointed by Member States
 
-### SECTION 1
-
-### Support for resilience policy
+<a id="chapter-vii-section-1"></a>
+## Section 1 – Support for resilience policy
 
 <a id="art-42"></a>
 ### Article 42
@@ -1368,9 +1353,8 @@ HAVE ADOPTED THIS REGULATION:
 
 1. Strategic projects under CRMA and strategic projects foreseen in relevant sectoral legislation may apply the rules in Article 20.
 
-### SECTION 2
-
-### Support for defence industry policy
+<a id="chapter-vii-section-2"></a>
+## Section 2 – Support for defence industry policy
 
 <a id="art-44"></a>
 ### Article 44
@@ -1687,9 +1671,8 @@ HAVE ADOPTED THIS REGULATION:
 
 3. The Defence Industrial Board shall be composed of representatives of the Member States, of the Commission and of the High Representative/Head of the Agency. Each Member State shall nominate one representative and one alternate representative.
 
-### SECTION 3
-
-### SPACE SYSTEMS AND SPACE POLICY IMPLEMENTATION
+<a id="chapter-vii-section-3"></a>
+## Section 3 – SPACE SYSTEMS AND SPACE POLICY IMPLEMENTATION
 
 <a id="art-57"></a>
 ### Article 57
@@ -2295,9 +2278,8 @@ HAVE ADOPTED THIS REGULATION:
 
 3. Without prejudice to Article 13 of Decision 2013/488/EU and to the rules governing the field of industrial security as set out in Decision (EU, Euratom) 2015/444, a natural person or legal person, third country or international organisation may be given access to EUCI where deemed necessary on a case-by-case basis, according to the nature and content of such information, the recipient’s need-to-know and the degree of advantage to the Union.
 
-### SECTION 4
-
-### SUPPORT FOR SECURITY INDUSTRY POLICY
+<a id="chapter-vii-section-4"></a>
+## Section 4 – SUPPORT FOR SECURITY INDUSTRY POLICY
 
 <a id="art-79"></a>
 ### Article 79
@@ -2359,9 +2341,8 @@ HAVE ADOPTED THIS REGULATION:
 
 2. By way of derogation from Article 184(6) of the Financial Regulation when applying flat rates, the authorising officer responsible may authorise or impose funding of the beneficiary’s indirect costs up to a maximum of 25 % of total eligible direct costs for the action.
 
-## Chapter VIII
-
-## Final Provisions
+<a id="chapter-viii"></a>
+## Chapter VIII – Final Provisions
 
 <a id="art-83"></a>
 ### Article 83

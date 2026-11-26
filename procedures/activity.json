@@ -1,15 +1,63 @@
 {
  "items": [
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "act": "red",
    "title": "RED",
    "actor": "SES HARM",
-   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Final deliverable adopted for publicatio",
+   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Publication",
    "doc": "EN 302 977",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51024",
-   "key": "eso-REN/SES-00438-2026-11-25",
+   "key": "eso-REN/SES-00438-2026-11-26",
    "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-26",
+   "act": "red",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Drafting Stage – Stable draft",
+   "doc": "EN 301 908-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
+   "key": "eso-REN/MSG-TFES-1516-2026-11-26",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-26",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Delivery to the EC",
+   "doc": "EN 301 447",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
+   "key": "eso-REN/SES-00433-2026-11-26",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-26",
+   "act": "red",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 442 – Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including han: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 442",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016",
+   "key": "eso-REN/SES-00431-2026-11-26",
+   "page": null,
+   "type": "Standardisation"
+  },
+  {
+   "date": "2026-11-26",
+   "act": "cra",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 625",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
+   "key": "eso-DEN/CYBER-EUS-0017-2026-11-26",
+   "page": "cra",
    "type": "Standardisation"
   },
   {
@@ -117,10 +165,10 @@
    "act": "product-digitalisation-regulation",
    "title": "Omnibus IV – Digitalisation and common specifications (Regulation) – COM(2025) 504 (proposal)",
    "actor": "European Parliament",
-   "label": "Plenary vote",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0134%28COD%29",
-   "key": "Plenary vote",
+   "label": "EP position at first reading (Art. 294(3) TFEU)",
+   "doc": "P10_TA(2026)0385",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0385_EN.pdf",
+   "key": "P10_TA(2026)0385",
    "page": "product-digitalisation-regulation",
    "type": "Legislation"
   },
@@ -129,10 +177,10 @@
    "act": "product-digitalisation-directive",
    "title": "Omnibus IV – Digitalisation and common specifications (Directive) – COM(2025) 503 (proposal)",
    "actor": "European Parliament",
-   "label": "Plenary vote",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0133%28COD%29",
-   "key": "Plenary vote",
+   "label": "EP position at first reading (Art. 294(3) TFEU)",
+   "doc": "P10_TA(2026)0384",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0384_EN.pdf",
+   "key": "P10_TA(2026)0384",
    "page": "product-digitalisation-directive",
    "type": "Legislation"
   },
@@ -163,18 +211,6 @@
    "doc_title": "Presidency compromise text",
    "withheld_since": "2026-11-02",
    "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)"
-  },
-  {
-   "date": "2026-11-24",
-   "act": "cra",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Draft Review after PE",
-   "doc": "EN 304 625",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=74860",
-   "key": "eso-DEN/CYBER-EUS-0017-2026-11-24",
-   "page": "cra",
-   "type": "Standardisation"
   },
   {
    "date": "2026-11-24",
@@ -221,18 +257,6 @@
    "doc": "EN 301 908-26",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=68741",
    "key": "eso-DEN/MSG-TFES-1505-2026-11-23",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-23",
-   "act": "red",
-   "title": "RED",
-   "actor": "MSG TFES",
-   "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Approval Stage – Final deliverable registered for formal adoption",
-   "doc": "EN 301 908-1",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=78178",
-   "key": "eso-REN/MSG-TFES-1516-2026-11-23",
    "page": null,
    "type": "Standardisation"
   },
@@ -651,18 +675,6 @@
    "doc": "EN 302 574-1",
    "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=67518",
    "key": "eso-REN/SES-00465-2026-11-19",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-11-19",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Publication",
-   "doc": "EN 301 447",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51018",
-   "key": "eso-REN/SES-00433-2026-11-19",
    "page": null,
    "type": "Standardisation"
   },
@@ -2307,18 +2319,6 @@
    "date": "2026-10-26",
    "act": "red",
    "title": "RED",
-   "actor": "ERM WGMEDICAL",
-   "label": "EN 304 118 – Medical implantable Wireless Power Transmission (WPT) equipment; Harmonised Standard for a: Drafting Stage – 7 VR – EC assessment before EV received",
-   "doc": "EN 304 118",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73697",
-   "key": "eso-DEN/ERM-WG30-325-2026-10-26",
-   "page": null,
-   "type": "Standardisation"
-  },
-  {
-   "date": "2026-10-26",
-   "act": "red",
-   "title": "RED",
    "actor": "ERM WGEMC",
    "label": "EN 301 843-3 – ElectroMagnetic Compatibility (EMC) standard for marine radio equipment and services Harmo: Drafting Stage – Early draft",
    "doc": "EN 301 843-3",
@@ -2565,6 +2565,18 @@
    "page": "csa2",
    "type": "Legislation",
    "listed": "council-compromise"
+  },
+  {
+   "date": "2026-10-22",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGMEDICAL",
+   "label": "EN 304 118 – Medical implantable Wireless Power Transmission (WPT) equipment; Harmonised Standard for a: Drafting Stage – 7 VR – EC assessment before EV received",
+   "doc": "EN 304 118",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73697",
+   "key": "eso-DEN/ERM-WGMED-325-2026-10-22",
+   "page": null,
+   "type": "Standardisation"
   },
   {
    "date": "2026-10-22",
@@ -3342,18 +3354,6 @@
    "key": "CM 4192/26 REV 2",
    "page": "chips-act-2",
    "type": "Legislation"
-  },
-  {
-   "date": "2026-10-06",
-   "act": "red",
-   "title": "RED",
-   "actor": "SES HARM",
-   "label": "EN 301 442 – Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including han: Drafting Stage – Final draft registered by ETSI Secretari",
-   "doc": "EN 301 442",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=51016",
-   "key": "eso-REN/SES-00431-2026-10-06",
-   "page": null,
-   "type": "Standardisation"
   },
   {
    "date": "2026-10-06",

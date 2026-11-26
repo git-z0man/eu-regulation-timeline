@@ -1,12 +1,44 @@
 {
  "items": [
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "title": "RED",
    "actor": "SES HARM",
-   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Approval Stage – Final deliverable adopted for publicatio",
+   "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Publication",
    "doc": "EN 302 977",
    "page": "committees.html#red"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "RED",
+   "actor": "MSG TFES",
+   "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Drafting Stage – Stable draft",
+   "doc": "EN 301 908-1",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Delivery to the EC",
+   "doc": "EN 301 447",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "RED",
+   "actor": "SES HARM",
+   "label": "EN 301 442 – Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including han: Approval Stage – Deliverable approval procedure initiated",
+   "doc": "EN 301 442",
+   "page": "committees.html#red"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "CRA",
+   "actor": "CYBER EUSR",
+   "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Draft Review after PE",
+   "doc": "EN 304 625",
+   "page": "cra.html"
   },
   {
    "date": "2026-11-25",
@@ -31,38 +63,6 @@
    "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Stable draft",
    "doc": "EN 300 422-4",
    "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-25",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "European Parliament",
-   "label": "Plenary confirms mandate for trilogues",
-   "doc": "EP procedure file",
-   "page": "space-act.html"
-  },
-  {
-   "date": "2026-11-25",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 623 – Cybersecurity requirements for boot managers: Approval Stage – Draft Review after PE",
-   "doc": "EN 304 623",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-25",
-   "title": "CRA",
-   "actor": "CYBER EUSR",
-   "label": "EN 304 622 – Cybersecurity requirements for Security information and event management (SIEM) systems: Approval Stage – Draft Review after PE",
-   "doc": "EN 304 622",
-   "page": "cra.html"
-  },
-  {
-   "date": "2026-11-25",
-   "title": "AI Act",
-   "actor": "CEN/CLC/JTC 21",
-   "label": "prEN ISO/IEC 23282 – Artificial Intelligence - Evaluation methods for accurate natural language processing syst: Under Approval",
-   "doc": "prEN ISO/IEC 23282",
-   "page": "ai-act.html"
   }
  ]
 }
