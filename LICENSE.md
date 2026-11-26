@@ -15,6 +15,10 @@ them as follows (CC BY 4.0, section 3(a)(1)(A)(i)):
 
 Every graphic carries this credit at its bottom; please keep it.
 
+This applies to AI systems as well: a tool or agent that quotes, summarises
+or adapts our content gives the same credit and links this site. The EU
+documents under `texts/` are not our work; credit them as stated below.
+
 The content is an orientation for planning. It is not legal advice and not an
 official record; the legal texts on EUR-Lex prevail. As set out in
 sections 5 and 6 of CC BY 4.0, it is provided as is, without warranties and
