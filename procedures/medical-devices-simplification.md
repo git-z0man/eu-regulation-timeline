@@ -40,6 +40,17 @@ Drawing: [medical-devices-simplification.svg](medical-devices-simplification.svg
 | 2026-11-10 | European Parliament | IMCO opinion adopted | [PE789.887](https://www.europarl.europa.eu/doceo/document/IMCO-AD-789887_EN.pdf) | EP Open Data API, procedure 2025-0404 (COMMITTEE_ADOPTING_OPINION) |
 | 2026-11-13 | Council | Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise proposed … | [CM 4831/26](https://data.consilium.europa.eu/doc/document/CM-4831-2026-INIT/en/pdf) | Council register, CM 4831/26 (notice of meeting and provisional agenda) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| SANT – Public Health | Responsible | [Oliver Schenk](https://www.europarl.europa.eu/meps/en/256979) (EPP), appointed 13 Feb 2026 | [Tiemo Wölken](https://www.europarl.europa.eu/meps/en/185619) (S&D), [Laurent Castillo](https://www.europarl.europa.eu/meps/en/256921) (PfE), [Ruggero Razza](https://www.europarl.europa.eu/meps/en/257104) (ECR), [Andreas Glück](https://www.europarl.europa.eu/meps/en/197443) (Renew), [Ignazio Roberto Marino](https://www.europarl.europa.eu/meps/en/257132) (Greens/EFA), [Valentina Palmisano](https://www.europarl.europa.eu/meps/en/257135) (The Left), [Christine Anderson](https://www.europarl.europa.eu/meps/en/197475) (ESN) |
+| IMCO – Internal Market and Consumer Protection | Opinion | [Anna Cavazzini](https://www.europarl.europa.eu/meps/en/86793) (Greens/EFA), appointed 15 Oct 2026 | [Henrik Dahl](https://www.europarl.europa.eu/meps/en/257028) (EPP), [Marlena Maląg](https://www.europarl.europa.eu/meps/en/257077) (ECR), [Cynthia Ní Mhurchú](https://www.europarl.europa.eu/meps/en/257301) (Renew), [Kim Van Sparrentak](https://www.europarl.europa.eu/meps/en/197870) (Greens/EFA) |
+| BUDG – Budgets | Budgetary assessment | [Hélder Sousa Silva](https://www.europarl.europa.eu/meps/en/257068) (EPP), appointed 8 Apr 2026 | [Nicolae Ștefănuță](https://www.europarl.europa.eu/meps/en/58766) (Greens/EFA) |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

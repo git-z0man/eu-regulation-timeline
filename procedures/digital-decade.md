@@ -22,6 +22,28 @@ Drawing: [digital-decade.svg](digital-decade.svg), [digital-decade.pdf](digital-
 | 2022-12-14 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0293%28COD%29) | EP Open Data API, procedure 2021-0293 (SIGNATURE) |
 | 2022-12-19 | Signature and publication | Published in the Official Journal | [CELEX 32022D2481](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D2481) · [en.md](../texts/digital-decade/2022-12-19_oj.en.md) [de.md](../texts/digital-decade/2022-12-19_oj.de.md) | EP Open Data API, procedure 2021-0293 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| CULT – Culture and Education | Opinion | [Sabine Verheyen](https://www.europarl.europa.eu/meps/en/96756) (EPP), appointed 14 Dec 2021 | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2022-11-24 – Establishing the Digital Decade Policy Programme 2030 ***I
+
+1 vote (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Provisional agreement – Am 2 | – | – | – | 529 / 22 / 25 | ECR, ID, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

@@ -57,6 +57,17 @@ Drawing: [csa2.svg](csa2.svg), [csa2.pdf](csa2.pdf) · Web page: [csa2.html](csa
 | 2026-11-16 | Council | Horizontal Working Party on Cyber Issues: Presidency fourth compromise text Title II (ENISA) – Discussion (WK … | [CM 4987/26](https://data.consilium.europa.eu/doc/document/CM-4987-2026-INIT/en/pdf) | Council register, CM 4987/26 (notice of meeting and provisional agenda) |
 | 2026-11-23 | Council | Horizontal Working Party on Cyber Issues: Discussion WK17271/2026 | [CM 5124/26](https://data.consilium.europa.eu/doc/document/CM-5124-2026-INIT/en/pdf) | Council register, CM 5124/26 (notice of meeting and provisional agenda) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ITRE – Industry, Research and Energy | Responsible | [Markéta Gregorová](https://www.europarl.europa.eu/meps/en/197549) (Greens/EFA), appointed 26 Feb 2026 | [Tomas Tobé](https://www.europarl.europa.eu/meps/en/197402) (EPP), [Jens Geier](https://www.europarl.europa.eu/meps/en/96833) (S&D), [Aleksandar Nikolic](https://www.europarl.europa.eu/meps/en/256883) (PfE), [Diego Solier](https://www.europarl.europa.eu/meps/en/257021) (ECR), [Bart Groothuis](https://www.europarl.europa.eu/meps/en/197780) (Renew), [Marc Botenga](https://www.europarl.europa.eu/meps/en/187917) (The Left), [Markus Buchheit](https://www.europarl.europa.eu/meps/en/128483) (ESN) |
+| IMCO – Internal Market and Consumer Protection | Opinion | [Maria Guzenina](https://www.europarl.europa.eu/meps/en/256803) (S&D), appointed 25 Mar 2026 | [Dimitris Tsiodras](https://www.europarl.europa.eu/meps/en/256950) (EPP), [Reinis Pozņaks](https://www.europarl.europa.eu/meps/en/256907) (ECR), [Morten Løkkegaard](https://www.europarl.europa.eu/meps/en/96709) (Renew) |
+| BUDG – Budgets | Budgetary assessment | [Hélder Sousa Silva](https://www.europarl.europa.eu/meps/en/257068) (EPP), appointed 28 Jan 2026 | [Bogdan Rzońca](https://www.europarl.europa.eu/meps/en/197545) (ECR), [Nicolae Ștefănuță](https://www.europarl.europa.eu/meps/en/58766) (Greens/EFA), [Alexander Jungbluth](https://www.europarl.europa.eu/meps/en/256941) (ESN) |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
 ## Notes
 
 - Status as of 25 Sep 2026: first reading, committee stage in the EP; no Council mandate for negotiations (not public). No trilogue has taken place.
@@ -175,45 +186,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2026-09-21 | council-compromise | [WK 14487/26 ADD 1](https://data.consilium.europa.eu/doc/document/WK-14487-2026-ADD-1/en/pdf) | [en](../texts/csa2/2026-09-21_council-compromise-wk-14487-26-add-1.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-21_council-compromise-wk-14487-26-add-1.en.md) |
 | 2026-09-22 | council-note | [WK 14500/26](https://data.consilium.europa.eu/doc/document/WK-14500-2026-INIT/en/pdf) | [en](../texts/csa2/2026-09-22_council-note-wk-14500-26.en.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/csa2/2026-09-22_council-note-wk-14500-26.en.md) |
 
-## Committees and expert groups
+What applies under this act, with its committees and expert groups, is on its [act page](../acts/csa2.html).
 
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
-
-### [ENISA ad hoc working group on EUMSS certification (ENISA AHWG EUMSS)](committee-enisa-ahwg-eumss.md)
-
-ENISA ad hoc working group, Art. 49(4) and 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-eumss-certification).
-
-No meetings listed.
-
-Publications (3, as listed on the [group's page](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-eumss-certification)):
-
-- Documents in which ENISA acknowledges the group
-  - [Draft candidate EUMSS Scheme v1.1 for Public Review (draft, 2026-07-24): “…ENISA via the certification webpage Ask questions, find answers - European Union Cybersecurity Certification. ACKNOWLEDGEMENTS ENISA AHWG ON EUMSS LEGAL NOTICE This publication represents the views and interpretations of ENISA, unless stated otherwise. It does not endorse a regulatory obligation of…”](https://certification.enisa.europa.eu/publications/draft-candidate-eumss-scheme-v11-public-review_en)
-- Documents that mention the group
-  - [ENISA NIS360 (final, 2026-05-28): “…or authorities together to discuss on topics of cyber relevance (e.g. ISACs, workstreams, expert groups, conferences). That said, an ad hoc working group on EUMSS was established in 2025, to support the drafting of the EUMSS scheme foreseen under Regulation (EU) 2025/37 of the European Parliament and of the Council of…”](https://www.enisa.europa.eu/enisa-nis360-2026)
-  - [Voices of EU Cybersecurity Certification (final, 2025-12-15): “…focuses on the “how” to certify. But for sure, a cloud scheme faces more issues (shall be only focus on technical measures?) and the newly EUMSS AHWG will clearly face the difficulty to set, for each vertical, where it starts and where it ends. The second is the assurance levels associated with the scheme.…”](https://www.enisa.europa.eu/publications/voices-of-eu-cybersecurity-certification)
-
-### [ENISA ad hoc working group on cloud services certification (EUCS) (ENISA AHWG Cloud Services)](committee-enisa-ahwg-cloud.md)
-
-ENISA ad hoc working group, Art. 49(4) and 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/ad-hoc-working-group-on-cloud-services).
-
-No meetings listed.
-
-Publications (1, as listed on the [group's page](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/ad-hoc-working-group-on-cloud-services)):
-
-- Documents in which ENISA acknowledges the group
-  - [Candidate EUCS Scheme v1.0 (final, 2026-04-28): “…ENISA thanks the members of the ad-hoc Working Group (available from https://www.enisa.europa.eu/topics/standards/adhoc_wg_calls/ahWG02/ahwg02_members), as well as the representatives from the Member States and the European Commission, and the representatives from all the observer…”](https://certification.enisa.europa.eu/publications/candidate-eucs-scheme-v10_en)
-
-### [ENISA ad hoc working group on 5G cybersecurity certification (EU5G) (ENISA AHWG 5G)](committee-enisa-ahwg-5g.md)
-
-ENISA ad hoc working group, Art. 49(4) and 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/call-0121-5g-cybersecurity-certification).
-
-No meetings listed.
-
-### [ENISA ad hoc working group on the EU cybersecurity market (ENISA AHWG Cybersecurity Market)](committee-enisa-ahwg-market.md)
-
-ENISA ad hoc working group, Art. 20(4) Regulation (EU) 2019/881. Official source: [ENISA website (ad hoc working groups)](https://www.enisa.europa.eu/working-with-us/ad-hoc-working-groups-calls/enisas-ad-hoc-working-group-on-the-eu-cybersecurity-market).
-
-No meetings listed.
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

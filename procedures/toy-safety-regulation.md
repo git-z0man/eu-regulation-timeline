@@ -40,6 +40,71 @@ Drawing: [toy-safety-regulation.svg](toy-safety-regulation.svg), [toy-safety-reg
 | 2025-11-26 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0290%28COD%29) | EP Open Data API, procedure 2023-0290 (SIGNATURE) |
 | 2025-12-12 | Signature and publication | Published in the Official Journal | [CELEX 32025R2509](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509) · [en.md](../texts/toy-safety-regulation/2025-12-12_oj.en.md) [de.md](../texts/toy-safety-regulation/2025-12-12_oj.de.md) | EP Open Data API, procedure 2023-0290 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Marion Walsmann](https://www.europarl.europa.eu/meps/en/197429) (EPP), appointed 5 Sep 2023, [Marion Walsmann](https://www.europarl.europa.eu/meps/en/197429) (EPP), appointed 1 Aug 2024 | [Brando Benifei](https://www.europarl.europa.eu/meps/en/124867) (S&D), [Ernő Schaller-baross](https://www.europarl.europa.eu/meps/en/213330) (PfE), [Piotr Müller](https://www.europarl.europa.eu/meps/en/257080) (ECR), [Anna Stürgkh](https://www.europarl.europa.eu/meps/en/256839) (Renew), [Katrin Langensiepen](https://www.europarl.europa.eu/meps/en/197461) (Greens/EFA), [Luke Ming Flanagan](https://www.europarl.europa.eu/meps/en/124985) (The Left), [Alessandra Basso](https://www.europarl.europa.eu/meps/en/197610) (ID), [Brando Benifei](https://www.europarl.europa.eu/meps/en/124867) (S&D), [Beata Mazurek](https://www.europarl.europa.eu/meps/en/197538) (ECR), [Vlad-Marius Botoş](https://www.europarl.europa.eu/meps/en/197668) (Renew) |
+| ? | Role not given | not yet appointed | [Billy Kelleher](https://www.europarl.europa.eu/meps/en/197818) (Renew), [Katrin Langensiepen](https://www.europarl.europa.eu/meps/en/197461) (Greens/EFA), [Sara Matthieu](https://www.europarl.europa.eu/meps/en/208722) (Greens/EFA), [Idoia Villanueva Ruiz](https://www.europarl.europa.eu/meps/en/197827) (The Left), [Stelios Kouloglou](https://www.europarl.europa.eu/meps/en/130833) (The Left) |
+| ENVI – Environment, Climate and Food Safety | Role not given | [Sara Cerdas](https://www.europarl.europa.eu/meps/en/197641) (S&D), appointed 24 Oct 2023 | [Henk Jan Ormel](https://www.europarl.europa.eu/meps/en/253043) (EPP) |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2024-03-13 – Safety of toys and repealing Directive 2009/48/EC ***I
+
+42 votes: 34 adopted, 5 rejected, 3 lapsed. Vote on the Commission proposal as amended: adopted, 603 for, 5 against, 15 abstentions; groups in favour: ECR, ID, NI, PPE, Renew, S&D, The Left, Verts/ALE.
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Amendments by the committee responsible – put to the vote collectively | committee amendments (block) | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 7 | committee | adopted | 409 / 211 / 2 | – |
+| Amendments by the committee responsible – separate votes | Am 9 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 174 | committee | adopted | 365 / 255 / 4 | – |
+| Amendments by the committee responsible – separate votes | Am 175 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 176 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 177 | committee | adopted | 354 / 265 / 3 | – |
+| Amendments by the committee responsible – separate votes | Am 183 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 187 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 190 | committee | adopted | 329 / 283 / 7 | – |
+| Amendments by the committee responsible – separate votes | Am 208 | committee | adopted | 335 / 274 / 5 | – |
+| Amendments by the committee responsible – separate votes | Am 209 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 210 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 211 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 212 | committee | adopted | 340 / 281 / 4 | – |
+| Amendments by the committee responsible – separate votes | Am 213 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 214 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate votes | Am 215 | committee | adopted | show of hands | – |
+| Article 22, § 3, after point d | Am 259 | S&D, Verts/ALE, The Left | rejected | 295 / 316 / 12 | – |
+| Article 46, § 6 | Am 251 | ENVI | adopted | 344 / 266 / 16 | – |
+| Article 46, § 6 | Am 173 | committee | lapsed | show of hands | – |
+| Article 46, after § 7 | Am 252 | ENVI | adopted | 357 / 254 / 4 | – |
+| Article 53, § 1 | Am 242 | ECR | rejected | 299 / 314 / 7 | – |
+| Article 54, § 1 | Am 243 | ECR | rejected | 297 / 315 / 6 | – |
+| Article 54, § 1 | Am 195 | committee | adopted | 490 / 117 / 4 | – |
+| Article 54, § 2 | Am 244 | ECR | rejected | 300 / 317 / 6 | – |
+| Article 54, § 2 | Am 197 | committee | adopted | show of hands | – |
+| Article 54, § 3 | Am 245 | ECR | adopted | 323 / 295 / 4 | – |
+| Article 54, § 3 | Am 198 | committee | lapsed | show of hands | – |
+| Article 56, § 2 | Am 246 | ECR | rejected | 301 / 309 / 5 | – |
+| Annex II, Part II, point (2) (a) (5) | Am 253 | committee, ENVI | adopted | 532 / 77 / 14 | – |
+| Annex II, Part II, point (2) (a) (6) | Am 254 | ENVI | adopted | 306 / 289 / 13 | – |
+| Annex II, Appendix, Part A, Table | Am 257 | ENVI | adopted | 380 / 238 / 5 | – |
+| Annex II, Appendix, Part A, after point 1 | Am 255 | ENVI | adopted | 392 / 210 / 21 | – |
+| Annex II, Appendix, Part A, point 2 | Am 256 | ENVI | adopted | 344 / 247 / 32 | – |
+| Annex II, Appendix, Part A, point 2 | Am 220 | committee | lapsed | show of hands | – |
+| Annex II, Appendix, Part C, Table | Am 258 | ENVI | adopted | 352 / 259 / 13 | – |
+| Recital 17 | Am 247 | ENVI | adopted | 356 / 260 / 3 | – |
+| Recital 21 | Am 248 | ENVI | adopted | show of hands | – |
+| After recital 21 | Am 249 | ENVI | adopted | show of hands | – |
+| Recital 54 | Am 250 | ENVI | adopted | show of hands | – |
+| Commission proposal | – | – | adopted | 603 / 5 / 15 | ECR, ID, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

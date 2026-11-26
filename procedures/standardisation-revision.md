@@ -16,7 +16,7 @@ Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standard
 
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
-| 2026-10-06 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 780](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780) | Cellar procedure file 2026/307 (CELEX 52026PC0780) |
+| 2026-10-06 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 780](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0780) · [en.md](../texts/standardisation-revision/2026-10-06_com-proposal.en.md) [de.md](../texts/standardisation-revision/2026-10-06_com-proposal.de.md) | Cellar (CELEX 52026PC0780) |
 | 2026-10-19 | Council | Working Party on Technical Harmonisation: Presentation of the Proposal by the Commission and first exchange … | [CM 4544/26 REV 1](https://data.consilium.europa.eu/doc/document/CM-4544-2026-REV-1/en/pdf) | Council register, CM 4544/26 REV 1 (notice of meeting and provisional agenda) |
 
 ## Documents

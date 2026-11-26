@@ -12,7 +12,7 @@ Criticality is computed from the dates and is an orientation for planning, not l
 advice. This repository is generated automatically; please do not open pull requests
 against the files.
 
-**Legislative procedures** of the acts (Art. 294 TFEU route, events in Parliament and
+**Legislative procedures in negotiation** (Art. 294 TFEU route, events in Parliament and
 Council, public documents): [`procedures/`](procedures/index.html).
 
 **Act pages** (next dates, texts, implementing acts, standardisation requests with

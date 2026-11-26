@@ -46,6 +46,88 @@ Drawing: [digital-omnibus-ai.svg](digital-omnibus-ai.svg), [digital-omnibus-ai.p
 | 2026-07-08 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359%28COD%29) | EP Open Data API, procedure 2025-0359 (SIGNATURE) |
 | 2026-07-24 | Signature and publication | Published in the Official Journal | [CELEX 32026R1744](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1744) · [en.md](../texts/digital-omnibus-ai/2026-07-24_oj.en.md) [de.md](../texts/digital-omnibus-ai/2026-07-24_oj.de.md) | EP Open Data API, procedure 2025-0359 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Arba Kokalari](https://www.europarl.europa.eu/meps/en/197406) (EPP), appointed 21 Jan 2026 | [Brando Benifei](https://www.europarl.europa.eu/meps/en/124867) (S&D), [Virginie Joron](https://www.europarl.europa.eu/meps/en/197627) (PfE), [Piotr Müller](https://www.europarl.europa.eu/meps/en/257080) (ECR), [Svenja Hahn](https://www.europarl.europa.eu/meps/en/197444) (Renew), [Kim Van Sparrentak](https://www.europarl.europa.eu/meps/en/197870) (Greens/EFA), [Leila Chaibi](https://www.europarl.europa.eu/meps/en/197529) (The Left) |
+| LIBE – Civil Liberties, Justice and Home Affairs | Responsible | [Michael Mcnamara](https://www.europarl.europa.eu/meps/en/257300) (Renew), appointed 21 Jan 2026 | [Axel Voss](https://www.europarl.europa.eu/meps/en/96761) (EPP), [Kristian Vigenin](https://www.europarl.europa.eu/meps/en/34232) (S&D), [Jaroslav Bžoch](https://www.europarl.europa.eu/meps/en/220840) (PfE), [Assita Kanko](https://www.europarl.europa.eu/meps/en/197469) (ECR), [Markéta Gregorová](https://www.europarl.europa.eu/meps/en/197549) (Greens/EFA), [Pernando Barrena Arza](https://www.europarl.europa.eu/meps/en/197684) (The Left), [Mary Khan](https://www.europarl.europa.eu/meps/en/256957) (ESN) |
+| CULT – Culture and Education | Opinion | [Emma Rafowicz](https://www.europarl.europa.eu/meps/en/256902) (S&D), appointed 20 Jan 2026 | [Zoltán Tarr](https://www.europarl.europa.eu/meps/en/256863) (EPP), [Lara Magoni](https://www.europarl.europa.eu/meps/en/257149) (ECR), [Laurence Farreng](https://www.europarl.europa.eu/meps/en/197589) (Renew), [Zsuzsanna Borvendég](https://www.europarl.europa.eu/meps/en/257457) (ESN) |
+| ITRE – Industry, Research and Energy | Opinion | not yet appointed | – |
+| JURI – Legal Affairs | Opinion | [Sergey Lagodinsky](https://www.europarl.europa.eu/meps/en/197460) (Greens/EFA), appointed 3 Dec 2025 | [Laurence Farreng](https://www.europarl.europa.eu/meps/en/197589) (Renew), [Adrián Vázquez Lázara](https://www.europarl.europa.eu/meps/en/204400) (EPP), [José Cepeda](https://www.europarl.europa.eu/meps/en/257002) (S&D), [Ton Diepeveen](https://www.europarl.europa.eu/meps/en/256981) (PfE), [Tobiasz Bocheński](https://www.europarl.europa.eu/meps/en/257073) (ECR) |
+| TRAN – Transport and Tourism | Opinion | [Vivien Costanzo](https://www.europarl.europa.eu/meps/en/256937) (S&D), appointed 21 Jan 2026 | [Sophia Kircher](https://www.europarl.europa.eu/meps/en/256831) (EPP), [Kosma Złotowski](https://www.europarl.europa.eu/meps/en/124884) (ECR), [Oihane Agirregoitia Martínez](https://www.europarl.europa.eu/meps/en/256987) (Renew), [Jutta Paulus](https://www.europarl.europa.eu/meps/en/197466) (Greens/EFA), [Elena Kountoura](https://www.europarl.europa.eu/meps/en/197699) (The Left) |
+| BUDG – Budgets | Budgetary assessment | not yet appointed | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2026-03-26 – Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) ***I
+
+55 votes: 20 adopted, 33 rejected, 2 lapsed. Vote on the Commission proposal as amended: adopted, 569 for, 45 against, 23 abstentions; groups in favour: ECR, ESN, NI, PPE, PfE, Renew, S&D, Verts/ALE. Parliament then referred the file back to the committee for negotiations (Rule 60(4)): this is its mandate, not a first-reading position and not law.
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| [Recital 6 Digital Omnibus on AI](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2025-11-19_com-proposal.en.md#rec-6) | Am 109 | ESN | rejected | show of hands | – |
+| [Recital 6 Digital Omnibus on AI](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/digital-omnibus-ai/2025-11-19_com-proposal.en.md#rec-6) | Am 6 | committee | adopted | show of hands | – |
+| [Art. 2 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-2) | Am 90 | ECR | rejected | 162 / 406 / 57 | ECR, ESN, PfE |
+| [Art. 2 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-2) | Am 91 | ECR | rejected | 214 / 408 / 13 | ECR, ESN, PfE |
+| [after Art. 2 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-2) | Am 84 | PfE | rejected | 199 / 431 / 3 | ECR, ESN, NI, PfE |
+| [after Art. 2 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-2) | Am 92 | ECR | rejected | 220 / 406 / 4 | ECR, ESN, NI, PfE |
+| [Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 85 | PfE | rejected | show of hands | – |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 110 | ESN | rejected | show of hands | – |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 111 | ESN | rejected | show of hands | – |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 31 | committee | adopted | 544 / 75 / 20 | NI, PPE, PfE, Renew, S&D, The Left, Verts/ALE |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 112 | ESN | rejected | show of hands | – |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 113 | ESN | rejected | show of hands | – |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 114 | ESN | rejected | show of hands | – |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 103 | The Left | rejected | 90 / 522 / 16 | NI, The Left |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 32 | committee | adopted | 518 / 97 / 7 | NI, PPE, PfE, Renew, S&D, The Left, Verts/ALE |
+| [after Art. 4 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-4) | Am 115 | ESN | lapsed | show of hands | – |
+| [Art. 5 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-5) | Am 86 | PfE | rejected | show of hands | – |
+| [Art. 6 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-6) | Am 36 | committee | adopted | 444 / 176 / 12 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| [Art. 6 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-6) | Am 93 | ECR | lapsed | – | – |
+| [Art. 10 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-10) | Am 116 | ESN | rejected | show of hands | – |
+| [Art. 10 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-10) | Am 117 | ESN | rejected | show of hands | – |
+| [Art. 50 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-50) | Am 94 | ECR | rejected | 195 / 430 / 12 | ECR, ESN, NI, PfE |
+| [Art. 50 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-50) | Am 47 | committee | adopted | show of hands | – |
+| [after Art. 60 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-60) | Am 104 | The Left | rejected | show of hands | – |
+| [after Art. 60 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-60) | Am 55 | committee | adopted | show of hands | – |
+| [Art. 63 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-63) | Am 87/1 | PfE | rejected | 206 / 427 / 8 | ECR, ESN, NI, PfE |
+| [Art. 63 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-63) | Am 87/2 | PfE | rejected | 112 / 479 / 38 | ESN, NI, PfE |
+| [Art. 63 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-63) | Am 95 | ECR | rejected | 216 / 412 / 12 | ECR, ESN, PfE |
+| [Art. 63 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-63) | Am 56 | committee | adopted | show of hands | – |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 88 | PfE | rejected | 195 / 443 / 0 | ECR, ESN, PfE |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 63 | committee | adopted | show of hands | – |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 96 | ECR | rejected | 189 / 443 / 6 | ECR, ESN, PfE |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 60/1 | committee | adopted | show of hands | – |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 60/2 | committee | adopted | show of hands | – |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 60/3 | committee | adopted | show of hands | – |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 60/4 | committee | adopted | 464 / 161 / 13 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| [Art. 75 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-75) | Am 97 | ECR | rejected | 197 / 433 / 5 | ECR, ESN, NI, PfE |
+| [Art. 78 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-78) | Am 98 | ECR | rejected | 199 / 436 / 2 | ECR, ESN, NI, PfE |
+| [after Art. 80 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-80) | Am 99 | ECR | rejected | 203 / 426 / 4 | ECR, ESN, NI, PfE |
+| [Art. 111 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-111) | Am 100 | ECR | rejected | 196 / 433 / 8 | ECR, ESN, NI, PfE |
+| [Art. 111 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-111) | Am 105 | The Left | rejected | 76 / 542 / 15 | The Left |
+| [Art. 111 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-111) | Am 108 | ECR | rejected | 195 / 433 / 9 | ECR, ESN, PfE |
+| [Art. 111 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-111) | Am 106 | The Left | rejected | 67 / 540 / 33 | The Left |
+| [Art. 111 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-111) | Am 101 | ECR | rejected | 196 / 431 / 8 | ECR, ESN, NI, PfE |
+| [Art. 111 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-111) | Am 76 | committee | adopted | show of hands | – |
+| [Art. 113 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-113) | Am 107 | The Left | rejected | 66 / 552 / 18 | The Left |
+| [Art. 113 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-113) | Am 102 | ECR | rejected | 195 / 439 / 1 | ECR, ESN, PfE |
+| [Art. 113 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-113) | Am 89 | PfE | rejected | 189 / 438 / 6 | ECR, ESN, PfE |
+| [Art. 113 AI Act](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2024-07-12_oj.en.md#art-113) | Am 80 | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – put to the vote collectively | committee amendments (block) | committee | adopted | show of hands | – |
+| Amendments by the committee responsible – separate vote | Am 11 | committee | adopted | 471 / 161 / 2 | ESN, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate vote | Am 81 | committee | adopted | 548 / 74 / 13 | ECR, ESN, NI, PPE, PfE, Renew, S&D, Verts/ALE |
+| Amendments by the committee responsible – separate vote | Am 82 | committee | adopted | 541 / 81 / 15 | ECR, ESN, NI, PPE, PfE, Renew, S&D, Verts/ALE |
+| Commission proposal | – | – | adopted | 569 / 45 / 23 | ECR, ESN, NI, PPE, PfE, Renew, S&D, Verts/ALE |
+| Request for referral back (Rule 60(4)) | – | – | adopted | show of hands | – |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

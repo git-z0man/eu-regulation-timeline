@@ -25,6 +25,23 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 | 2026-11-16 | European Parliament | IMCO rapporteur appointed (Christian Doleschal, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29) | EP Open Data API, procedure 2026-0265 (participation RAPPORTEUR) |
 | 2026-11-20 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 5033/26](https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf) | Council register, CM 5033/26 (notice of meeting and provisional agenda) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Christian Doleschal](https://www.europarl.europa.eu/meps/en/197473) (EPP), appointed 16 Nov 2026 | [Maria Guzenina](https://www.europarl.europa.eu/meps/en/256803) (S&D), [Jeannette Baljeu](https://www.europarl.europa.eu/meps/en/257003) (Renew) |
+| AGRI – Agriculture | Opinion | not yet appointed | – |
+| EMPL – Employment and Social Affairs | Opinion | [Sara Matthieu](https://www.europarl.europa.eu/meps/en/208722) (Greens/EFA), appointed 4 Nov 2026 | [Gheorghe Falcă](https://www.europarl.europa.eu/meps/en/197649) (EPP), [Marianne Vind](https://www.europarl.europa.eu/meps/en/199941) (S&D), [Marie Dauchy](https://www.europarl.europa.eu/meps/en/236050) (PfE), [Mariateresa Vivaldini](https://www.europarl.europa.eu/meps/en/257143) (ECR), [Jana Toom](https://www.europarl.europa.eu/meps/en/124700) (Renew), [Per Clausen](https://www.europarl.europa.eu/meps/en/257023) (The Left) |
+| ENVI – Environment, Climate and Food Safety | Opinion | [Per Clausen](https://www.europarl.europa.eu/meps/en/257023) (The Left), appointed 12 Nov 2026 | – |
+| INTA – International Trade | Opinion | [Catarina Vieira](https://www.europarl.europa.eu/meps/en/257437) (Greens/EFA), appointed 12 Nov 2026 | – |
+| ITRE – Industry, Research and Energy | Opinion | [Julie Rechagneux](https://www.europarl.europa.eu/meps/en/256882) (PfE), appointed 12 Oct 2026 | [Davor Ivo Stier](https://www.europarl.europa.eu/meps/en/119435) (EPP), [Georgia Tramacere](https://www.europarl.europa.eu/meps/en/275087) (S&D), [Brigitte Van Den Berg](https://www.europarl.europa.eu/meps/en/256976) (Renew), [Marie Toussaint](https://www.europarl.europa.eu/meps/en/97236) (Greens/EFA), [Marcin Sypniewski](https://www.europarl.europa.eu/meps/en/257070) (ESN) |
+| JURI – Legal Affairs | Opinion | not yet appointed | – |
+| LIBE – Civil Liberties, Justice and Home Affairs | Opinion: decided not to give an opinion | – | – |
+| BUDG – Budgets | Budgetary assessment | not yet appointed | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

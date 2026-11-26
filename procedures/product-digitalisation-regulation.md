@@ -53,6 +53,29 @@ Drawing: [product-digitalisation-regulation.svg](product-digitalisation-regulati
 | 2026-07-14 | European Parliament | Committee approves provisional agreement | [PE790.900](https://data.europarl.europa.eu/distribution/reds_iTrInag/IMCO-AG-790900/IMCO-AG-790900_en.pdf) · [en.md](../texts/product-digitalisation-regulation/2026-06-26_agreed-text-pe790-900.en.md) | EP Open Data API, procedure 2025-0134 (COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT) |
 | 2026-11-24 | European Parliament | EP position at first reading (Art. 294(3) TFEU) | [P10_TA(2026)0385](https://www.europarl.europa.eu/doceo/document/TA-10-2026-0385_EN.pdf) · [en.md](../texts/product-digitalisation-regulation/2026-11-24_ep-position-p10-ta-2026-0385.en.md) [de.md](../texts/product-digitalisation-regulation/2026-11-24_ep-position-p10-ta-2026-0385.de.md) | EP Open Data API, procedure 2025-0134 (PLENARY_ADOPT_POSITION) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Reinier Van Lanschot](https://www.europarl.europa.eu/meps/en/256978) (Greens/EFA), appointed 2 Oct 2025 | [Andreas Schwab](https://www.europarl.europa.eu/meps/en/28223) (EPP), [Christel Schaldemose](https://www.europarl.europa.eu/meps/en/37312) (S&D), [Virginie Joron](https://www.europarl.europa.eu/meps/en/197627) (PfE), [Denis Nesci](https://www.europarl.europa.eu/meps/en/239260) (ECR), [Anna-Maja Henriksson](https://www.europarl.europa.eu/meps/en/198073) (Renew) |
+| ENVI – Environment, Climate and Food Safety | Opinion | [Raúl De La Hoz Quintano](https://www.europarl.europa.eu/meps/en/257030) (EPP), appointed 13 Oct 2025 | [Tiemo Wölken](https://www.europarl.europa.eu/meps/en/185619) (S&D), [Stefano Cavedagna](https://www.europarl.europa.eu/meps/en/257096) (ECR), [Ana Vasconcelos](https://www.europarl.europa.eu/meps/en/257061) (Renew), [Valentina Palmisano](https://www.europarl.europa.eu/meps/en/257135) (The Left) |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2026-11-24 – Amending certain Regulations as regards digitalisation and common specifications (Omnibus IV) ***I
+
+1 vote: 1 adopted.
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Provisional agreement | Am 86 | committee | adopted | 622 / 2 / 38 | ECR, ESN, NI, PPE, PfE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

@@ -1,6 +1,6 @@
 # Legislative procedure – Digital Networks Act – COM(2026) 16 (proposal)
 
-Procedure 2026/0013(COD), as of 25 Nov 2026.
+Procedure 2026/0013(COD), as of 26 Nov 2026.
 Drawing: [dna.svg](dna.svg), [dna.pdf](dna.pdf) · Web page: [dna.html](dna.html)
 
 ## Status and next steps
@@ -49,6 +49,18 @@ Drawing: [dna.svg](dna.svg), [dna.pdf](dna.pdf) · Web page: [dna.html](dna.html
 | 2026-11-04 | European Parliament | LIBE opinion adopted | [PE789.917](https://www.europarl.europa.eu/doceo/document/LIBE-AD-789917_EN.pdf) | EP Open Data API, procedure 2026-0013 (COMMITTEE_ADOPTING_OPINION) |
 | 2026-11-13 | Council | Progress report | [ST 15128/26](https://data.consilium.europa.eu/doc/document/ST-15128-2026-INIT/en/pdf) · [en.md](../texts/dna/2026-11-13_council-progress-report-st-15128-26.en.md) | Cellar procedure file 2026/13 (Council register) |
 | 2026-11-24 | Council | Progress report | [ST 15968/26](https://data.consilium.europa.eu/doc/document/ST-15968-2026-INIT/en/pdf) · [en.md](../texts/dna/2026-11-24_council-progress-report-st-15968-26.en.md) | Parliament of Austria, EU database (interinstitutional file 2026/0013(COD)) |
+
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ITRE – Industry, Research and Energy | Responsible | [Michał Kobosko](https://www.europarl.europa.eu/meps/en/257037) (Renew), appointed 26 Feb 2026 | [Pilar Del Castillo Vera](https://www.europarl.europa.eu/meps/en/28390) (EPP), [Matthias Ecke](https://www.europarl.europa.eu/meps/en/237465) (S&D), [Mélanie Disdier](https://www.europarl.europa.eu/meps/en/256874) (PfE), [Francesco Torselli](https://www.europarl.europa.eu/meps/en/257163) (ECR), [Damian Boeselager](https://www.europarl.europa.eu/meps/en/197439) (Greens/EFA), [Jussi Saramo](https://www.europarl.europa.eu/meps/en/127766) (The Left) |
+| IMCO – Internal Market and Consumer Protection | Opinion | [Stéphanie Yon-courtin](https://www.europarl.europa.eu/meps/en/197581) (Renew), appointed 8 May 2026 | [Adina Vălean](https://www.europarl.europa.eu/meps/en/37324) (EPP), [Alex Agius Saliba](https://www.europarl.europa.eu/meps/en/197403) (S&D), [Stefano Cavedagna](https://www.europarl.europa.eu/meps/en/257096) (ECR), [Alexandra Geese](https://www.europarl.europa.eu/meps/en/183916) (Greens/EFA) |
+| LIBE – Civil Liberties, Justice and Home Affairs | Opinion | [Ana Vasconcelos](https://www.europarl.europa.eu/meps/en/257061) (Renew), appointed 2 Mar 2026 | [Krzysztof Brejza](https://www.europarl.europa.eu/meps/en/251324) (EPP), [Evin Incir](https://www.europarl.europa.eu/meps/en/197392) (S&D), [Tom Vandendriessche](https://www.europarl.europa.eu/meps/en/185771) (PfE), [Jacek Ozdoba](https://www.europarl.europa.eu/meps/en/257086) (ECR), [Markéta Gregorová](https://www.europarl.europa.eu/meps/en/197549) (Greens/EFA), [Damien Carême](https://www.europarl.europa.eu/meps/en/197574) (The Left) |
+| BUDG – Budgets | Budgetary assessment: decided not to give an opinion | – | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
 
 ## Documents
 

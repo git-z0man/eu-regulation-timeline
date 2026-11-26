@@ -6,7 +6,7 @@
    "actor": "SES HARM",
    "label": "EN 302 977 – Satellite Earth Stations and Systems (SES); Vehicle-Mounted Earth Stations (VMES) operatin: Publication",
    "doc": "EN 302 977",
-   "page": "committees.html#red"
+   "page": "committees.html"
   },
   {
    "date": "2026-11-26",
@@ -14,7 +14,7 @@
    "actor": "MSG TFES",
    "label": "EN 301 908-1 – Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirem: Drafting Stage – Stable draft",
    "doc": "EN 301 908-1",
-   "page": "committees.html#red"
+   "page": "committees.html"
   },
   {
    "date": "2026-11-26",
@@ -22,7 +22,7 @@
    "actor": "SES HARM",
    "label": "EN 301 447 – Satellite Earth Stations and Systems (SES); Satellite Earth Stations on board Vessels (ESV: Delivery to the EC",
    "doc": "EN 301 447",
-   "page": "committees.html#red"
+   "page": "committees.html"
   },
   {
    "date": "2026-11-26",
@@ -30,7 +30,23 @@
    "actor": "SES HARM",
    "label": "EN 301 442 – Satellite Earth Stations and Systems (SES); NGSO Mobile Earth Stations (MES) including han: Approval Stage – Deliverable approval procedure initiated",
    "doc": "EN 301 442",
-   "page": "committees.html#red"
+   "page": "committees.html"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-09 (Comments from Italy), listed as not public since 2026-10-13",
+   "doc": "WK 15710/26",
+   "page": "cloud-ai-development-act.html"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Cloud and AI Development Act – COM(2026) 502 (proposal)",
+   "actor": "Council",
+   "label": "Progress report",
+   "doc": "ST 16007/26",
+   "page": "cloud-ai-development-act.html"
   },
   {
    "date": "2026-11-26",
@@ -38,7 +54,7 @@
    "actor": "CYBER EUSR",
    "label": "EN 304 625 – Cybersecurity requirements for physical and virtual network interfaces: Approval Stage – Draft Review after PE",
    "doc": "EN 304 625",
-   "page": "cra.html"
+   "page": "../acts/cra.html#standardisation"
   },
   {
    "date": "2026-11-25",
@@ -46,23 +62,7 @@
    "actor": "SES HARM",
    "label": "EN 302 186 – Satellite Earth Stations and Systems (SES); Aircraft Earth Stations (AESs) operating in th: Publication",
    "doc": "EN 302 186",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-25",
-   "title": "RED",
-   "actor": "DECT",
-   "label": "EN 301 406-2 – Digital Enhanced Cordless Telecommunications (DECT); Harmonised Standard for access to rad: Drafting Stage – Final draft",
-   "doc": "EN 301 406-2",
-   "page": "committees.html#red"
-  },
-  {
-   "date": "2026-11-25",
-   "title": "RED",
-   "actor": "ERM WG17",
-   "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Stable draft",
-   "doc": "EN 300 422-4",
-   "page": "committees.html#red"
+   "page": "committees.html"
   }
  ]
 }

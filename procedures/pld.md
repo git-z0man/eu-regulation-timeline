@@ -30,6 +30,30 @@ Drawing: [pld.svg](pld.svg), [pld.pdf](pld.pdf) · Web page: [pld.html](pld.html
 | 2024-10-23 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0302%28COD%29) | EP Open Data API, procedure 2022-0302 (SIGNATURE) |
 | 2024-11-18 | Signature and publication | Published in the Official Journal | [CELEX 32024L2853](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853) · [en.md](../texts/pld/2024-11-18_oj.en.md) [de.md](../texts/pld/2024-11-18_oj.de.md) | EP Open Data API, procedure 2022-0302 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Vlad-Marius Botoş](https://www.europarl.europa.eu/meps/en/197668) (Renew), appointed 31 Jan 2023 | [Maria-Manuel Leitão-marques](https://www.europarl.europa.eu/meps/en/197635) (S&D), [Kosma Złotowski](https://www.europarl.europa.eu/meps/en/124884) (ECR), [Karen Melchior](https://www.europarl.europa.eu/meps/en/197567) (Renew), [Krzysztof Hetman](https://www.europarl.europa.eu/meps/en/124895) (EPP), [René Repasi](https://www.europarl.europa.eu/meps/en/229839) (S&D), [Eugen Jurzyca](https://www.europarl.europa.eu/meps/en/197767) (ECR), [Marcel Kolaja](https://www.europarl.europa.eu/meps/en/197546) (Greens/EFA) |
+| JURI – Legal Affairs | Responsible | [Pascal Arimont](https://www.europarl.europa.eu/meps/en/24922) (EPP), appointed 31 Jan 2023 | [Sergey Lagodinsky](https://www.europarl.europa.eu/meps/en/197460) (Greens/EFA), [Emmanuel Maurel](https://www.europarl.europa.eu/meps/en/24505) (The Left) |
+| ITRE – Industry, Research and Energy | Opinion | not yet appointed | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2024-03-12 – Liability for defective products ***I
+
+1 vote: 1 adopted.
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Provisional agreement | Am 118 | committee | adopted | 543 / 6 / 58 | ECR, ID, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

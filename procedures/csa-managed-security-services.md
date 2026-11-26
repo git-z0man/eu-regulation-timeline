@@ -30,6 +30,17 @@ Drawing: [csa-managed-security-services.svg](csa-managed-security-services.svg),
 | 2024-12-19 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0108%28COD%29) | EP Open Data API, procedure 2023-0108 (SIGNATURE) |
 | 2025-01-15 | Signature and publication | Published in the Official Journal | [CELEX 32025R0037](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0037) · [en.md](../texts/csa-managed-security-services/2025-01-15_oj.en.md) [de.md](../texts/csa-managed-security-services/2025-01-15_oj.de.md) | EP Open Data API, procedure 2023-0108 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ITRE – Industry, Research and Energy | Responsible | [Josianne Cutajar](https://www.europarl.europa.eu/meps/en/197394) (S&D), appointed 2 May 2023 | [Angelika Niebler](https://www.europarl.europa.eu/meps/en/4289) (EPP), [Evžen Tošenovský](https://www.europarl.europa.eu/meps/en/96713) (ECR), [Bart Groothuis](https://www.europarl.europa.eu/meps/en/197780) (Renew), [Ville Niinistö](https://www.europarl.europa.eu/meps/en/197802) (Greens/EFA) |
+| IMCO – Internal Market and Consumer Protection | Opinion | [Anna Cavazzini](https://www.europarl.europa.eu/meps/en/86793) (Greens/EFA), appointed 23 May 2023 | – |
+| LIBE – Civil Liberties, Justice and Home Affairs | Opinion | not yet appointed | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

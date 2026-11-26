@@ -33,6 +33,41 @@ Drawing: [imera.svg](imera.svg), [imera.pdf](imera.pdf) · Web page: [imera.html
 | 2024-10-09 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0278%28COD%29) | EP Open Data API, procedure 2022-0278 (SIGNATURE) |
 | 2024-11-08 | Signature and publication | Published in the Official Journal | [CELEX 32024R2747](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2747) · [en.md](../texts/imera/2024-11-08_oj.en.md) [de.md](../texts/imera/2024-11-08_oj.de.md) | EP Open Data API, procedure 2022-0278 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Andreas Schwab](https://www.europarl.europa.eu/meps/en/28223) (EPP), appointed 16 Dec 2022 | [René Repasi](https://www.europarl.europa.eu/meps/en/229839) (S&D), [Dita Charanzová](https://www.europarl.europa.eu/meps/en/124708) (Renew), [Anne-Sophie Pelletier](https://www.europarl.europa.eu/meps/en/197527) (The Left), [Adam Bielan](https://www.europarl.europa.eu/meps/en/23788) (ECR), [Anna Cavazzini](https://www.europarl.europa.eu/meps/en/86793) (Greens/EFA) |
+| BUDG – Budgets | Opinion | [Johan Van Overtveldt](https://www.europarl.europa.eu/meps/en/125106) (ECR), appointed 26 Oct 2022 | – |
+| ECON – Economic and Monetary Affairs | Opinion | not yet appointed | – |
+| EMPL – Employment and Social Affairs | Opinion | [Marc Angel](https://www.europarl.europa.eu/meps/en/202073) (S&D), appointed 17 Nov 2022 | – |
+| LIBE – Civil Liberties, Justice and Home Affairs | Opinion | not yet appointed | – |
+| TRAN – Transport and Tourism | Opinion | not yet appointed | [Marco Campomenosi](https://www.europarl.europa.eu/meps/en/35016) (ID) |
+| ITRE – Industry, Research and Energy | Role not given | [Eva Maydell](https://www.europarl.europa.eu/meps/en/98341) (EPP), appointed 15 Dec 2022 | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2023-09-13 – Single market emergency instrument ***I
+
+8 votes (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Commission proposal | – | – | – | 476 / 121 / 51 | PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate votes – Am 128 | – | – | – | 442 / 199 / 5 | NI, PPE, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate votes – Am 136 | – | – | – | 472 / 93 / 80 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate votes – Am 151 | – | – | – | 487 / 152 / 11 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 27 – Am 295D | – | – | – | 156 / 480 / 9 | ECR, ID, NI |
+| Article 27 – Am 233-237 | – | – | – | 466 / 76 / 107 | PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 28 – Am 238-242 | – | – | – | 470 / 134 / 45 | PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 33 – Am 252-255 | – | – | – | 526 / 107 / 18 | PPE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

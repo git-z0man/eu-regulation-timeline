@@ -40,6 +40,49 @@ Drawing: [nzia.svg](nzia.svg), [nzia.pdf](nzia.pdf) · Web page: [nzia.html](nzi
 | 2024-06-13 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0081%28COD%29) | EP Open Data API, procedure 2023-0081 (SIGNATURE) |
 | 2024-06-28 | Signature and publication | Published in the Official Journal | [CELEX 32024R1735](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1735) · [en.md](../texts/nzia/2024-06-28_oj.en.md) [de.md](../texts/nzia/2024-06-28_oj.de.md) | EP Open Data API, procedure 2023-0081 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ITRE – Industry, Research and Energy | Responsible | [Christian Ehler](https://www.europarl.europa.eu/meps/en/28226) (EPP), appointed 30 Mar 2023 | [Evžen Tošenovský](https://www.europarl.europa.eu/meps/en/96713) (ECR), [Christophe Grudler](https://www.europarl.europa.eu/meps/en/197557) (Renew), [Marc Botenga](https://www.europarl.europa.eu/meps/en/187917) (The Left) |
+| BUDG – Budgets | Opinion | not yet appointed | – |
+| INTA – International Trade | Opinion | [Inma Rodríguez-piñero](https://www.europarl.europa.eu/meps/en/125043) (S&D), appointed 27 Apr 2023 | – |
+| TRAN – Transport and Tourism | Opinion | [Anna Deparnay-grunenberg](https://www.europarl.europa.eu/meps/en/197453) (Greens/EFA), appointed 25 May 2023 | – |
+| ? | Role not given | not yet appointed | [Paolo Borchia](https://www.europarl.europa.eu/meps/en/101039) (ID), [Tsvetelina Penkova](https://www.europarl.europa.eu/meps/en/197845) (S&D), [Damien Carême](https://www.europarl.europa.eu/meps/en/197574) (Greens/EFA) |
+| ECON – Economic and Monetary Affairs | Role not given | [Luděk Niedermayer](https://www.europarl.europa.eu/meps/en/124701) (EPP), appointed 20 Apr 2023 | – |
+| EMPL – Employment and Social Affairs | Role not given | [Marie-Pierre Vedrenne](https://www.europarl.europa.eu/meps/en/197502) (Renew), appointed 15 May 2023 | – |
+| ENVI – Environment, Climate and Food Safety | Role not given | [Tiemo Wölken](https://www.europarl.europa.eu/meps/en/185619) (S&D), appointed 20 Apr 2023 | – |
+| IMCO – Internal Market and Consumer Protection | Role not given | [Tom Vandenkendelaere](https://www.europarl.europa.eu/meps/en/129164) (EPP), appointed 27 Apr 2023 | – |
+| REGI – Regional Development | Role not given | [Niklas Nienass](https://www.europarl.europa.eu/meps/en/197465) (Greens/EFA), appointed 22 Mar 2023 | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2023-11-21 – Framework of measures for strengthening Europe’s net-zero technology products manufacturing ecosystem (Net Zero Industry Act) ***I
+
+13 votes (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Commission proposal | – | – | – | 376 / 139 / 116 | ID, PPE, Renew, S&D |
+| Article 6, § 9a – Am 1CP | – | – | – | 413 / 146 / 72 | ECR, ID, PPE, Renew, S&D |
+| Article 13a, § 4, point b – Am 1CP | – | – | – | 428 / 181 / 17 | ECR, PPE, Renew, S&D |
+| Article 1, § 2, after point a – Am 10 | – | – | – | 164 / 450 / 3 | The Left, Verts/ALE |
+| Article 10, § 1, introductory part – Am 15 | – | – | – | 152 / 464 / 10 | The Left, Verts/ALE |
+| Article 10, § 1, point b after point iv – Am 33 | – | – | – | 194 / 397 / 33 | ID, NI, The Left, Verts/ALE |
+| Article 10, § 2, after point b – Am 17 | – | – | – | 148 / 476 / 7 | The Left, Verts/ALE |
+| Article 10, after § 4 – Am 18 | – | – | – | 278 / 341 / 12 | S&D, The Left, Verts/ALE |
+| Article 16, § 1 – Am 21 | – | – | – | 150 / 480 / 4 | The Left, Verts/ALE |
+| Article 19, § 2, point d – Am 26 | – | – | – | 237 / 376 / 15 | S&D, The Left, Verts/ALE |
+| After recital 44 – Am 30 | – | – | – | 275 / 345 / 8 | ECR, ID, NI, The Left, Verts/ALE |
+| After recital 44 – Am 31 | – | – | – | 211 / 368 / 50 | ECR, ID, NI, The Left, Verts/ALE |
+| after Article 3 – Am 1CP/2 | – | – | – | 456 / 153 / 16 | ECR, ID, NI, PPE, Renew, S&D |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

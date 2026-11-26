@@ -24,6 +24,19 @@ Drawing: [gpsr.svg](gpsr.svg), [gpsr.pdf](gpsr.pdf) · Web page: [gpsr.html](gps
 | 2023-05-10 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0170%28COD%29) | EP Open Data API, procedure 2021-0170 (SIGNATURE) |
 | 2023-05-23 | Signature and publication | Published in the Official Journal | [CELEX 32023R0988](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0988) · [en.md](../texts/gpsr/2023-05-23_oj.en.md) [de.md](../texts/gpsr/2023-05-23_oj.de.md) | EP Open Data API, procedure 2021-0170 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## Plenary votes
+
+### 2023-03-30 – General Product Safety Regulation ***I
+
+1 vote (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Provisional agreement – Am 237 | – | – | – | 569 / 13 / 0 | ECR, ID, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

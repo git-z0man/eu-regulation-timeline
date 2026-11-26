@@ -30,6 +30,16 @@ Drawing: [internal-market-emergency-omnibus.svg](internal-market-emergency-omnib
 | 2024-10-09 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0279%28COD%29) | EP Open Data API, procedure 2022-0279 (SIGNATURE) |
 | 2024-11-08 | Signature and publication | Published in the Official Journal | [CELEX 32024R2748](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2748) · [en.md](../texts/internal-market-emergency-omnibus/2024-11-08_oj.en.md) [de.md](../texts/internal-market-emergency-omnibus/2024-11-08_oj.de.md) | EP Open Data API, procedure 2022-0279 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Andreas Schwab](https://www.europarl.europa.eu/meps/en/28223) (EPP), appointed 16 Dec 2022 | [René Repasi](https://www.europarl.europa.eu/meps/en/229839) (S&D), [Dita Charanzová](https://www.europarl.europa.eu/meps/en/124708) (Renew), [Anne-Sophie Pelletier](https://www.europarl.europa.eu/meps/en/197527) (The Left), [Adam Bielan](https://www.europarl.europa.eu/meps/en/23788) (ECR), [Anna Cavazzini](https://www.europarl.europa.eu/meps/en/86793) (Greens/EFA) |
+| ? | Role not given | not yet appointed | [Marco Campomenosi](https://www.europarl.europa.eu/meps/en/35016) (ID) |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

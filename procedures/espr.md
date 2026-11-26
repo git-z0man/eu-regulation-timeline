@@ -34,6 +34,47 @@ Drawing: [espr.svg](espr.svg), [espr.pdf](espr.pdf) · Web page: [espr.html](esp
 | 2024-06-13 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0095%28COD%29) | EP Open Data API, procedure 2022-0095 (SIGNATURE) |
 | 2024-06-28 | Signature and publication | Published in the Official Journal | [CELEX 32024R1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) · [en.md](../texts/espr/2024-06-28_oj.en.md) [de.md](../texts/espr/2024-06-28_oj.de.md) | EP Open Data API, procedure 2022-0095 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ENVI – Environment, Climate and Food Safety | Responsible | [Alessandra Moretti](https://www.europarl.europa.eu/meps/en/124799) (S&D), appointed 16 May 2022 | [Silvia Sardone](https://www.europarl.europa.eu/meps/en/197578) (ID), [Jessica Polfjärd](https://www.europarl.europa.eu/meps/en/197404) (EPP), [Alexandr Vondra](https://www.europarl.europa.eu/meps/en/197537) (ECR), [Jan Huitema](https://www.europarl.europa.eu/meps/en/58789) (Renew), [Sara Matthieu](https://www.europarl.europa.eu/meps/en/208722) (Greens/EFA), [Malin Björk](https://www.europarl.europa.eu/meps/en/124992) (The Left) |
+| IMCO – Internal Market and Consumer Protection | Role not given | [David Cormand](https://www.europarl.europa.eu/meps/en/197503) (Greens/EFA), appointed 31 Aug 2022 | – |
+| ITRE – Industry, Research and Energy | Role not given | [Maria Spyraki](https://www.europarl.europa.eu/meps/en/125064) (EPP), appointed 5 May 2022 | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2023-07-12 – Ecodesign Regulation ***I
+
+18 votes (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Amendments by the committee responsible – Split vote and separate vote – Am 34/2 | – | – | – | 461 / 138 / 14 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – Split vote and separate vote – Am 59 | – | – | – | 435 / 174 / 9 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – Split vote and separate vote – Am 122 | – | – | – | 336 / 281 / 4 | Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – Split vote and separate vote – Am 131 | – | – | – | 457 / 126 / 38 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – Split vote and separate vote – Am 168 | – | – | – | 463 / 150 / 15 | PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – Split vote and separate vote – Am 170/1 | – | – | – | 391 / 240 / 4 | ECR, ID, NI, PPE, Renew |
+| Amendments by the committee responsible – Split vote and separate vote – Am 186 | – | – | – | 361 / 272 / 5 | ECR, ID, NI, PPE, Renew |
+| Amendments by the committee responsible – Split vote and separate vote – Am 187 | – | – | – | 361 / 273 / 5 | ECR, ID, NI, PPE, Renew |
+| Amendments by the committee responsible – Split vote and separate vote – Am 222/2 | – | – | – | 464 / 174 / 3 | PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 2, § 1, point 28, point b – Am 254D | – | – | – | 64 / 516 / 66 | ECR, ID |
+| Article 2, § 1, point 28, point b – Am 249 | – | – | – | 202 / 424 / 14 | ECR, ID, NI |
+| Article 2, § 1, point 28, point b – Am 60 | – | – | – | 456 / 161 / 26 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 2, § 1, point 28, point b – Am 61 | – | – | – | 483 / 155 / 9 | ID, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 2, § 1, point 35 – Am 255 | – | – | – | 155 / 479 / 9 | ECR, ID |
+| Annex III, § 1, after point g – Am 257 | – | – | – | 104 / 507 / 28 | ID, NI |
+| After recital 3 – Am 251 | – | – | – | 146 / 476 / 20 | ECR, ID, NI |
+| After recital 13 – Am 252 | – | – | – | 74 / 506 / 59 | ECR, ID |
+| Commission proposal | – | – | – | 473 / 110 / 69 | NI, PPE, Renew, S&D, The Left, Verts/ALE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

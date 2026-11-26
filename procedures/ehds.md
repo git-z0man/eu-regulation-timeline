@@ -38,6 +38,44 @@ Drawing: [ehds.svg](ehds.svg), [ehds.pdf](ehds.pdf) · Web page: [ehds.html](ehd
 | 2025-02-11 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0140%28COD%29) | EP Open Data API, procedure 2022-0140 (SIGNATURE) |
 | 2025-03-05 | Signature and publication | Published in the Official Journal | [CELEX 32025R0327](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327) · [en.md](../texts/ehds/2025-03-05_oj.en.md) [de.md](../texts/ehds/2025-03-05_oj.de.md) | EP Open Data API, procedure 2022-0140 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ENVI – Environment, Climate and Food Safety | Responsible | [Tomislav Sokol](https://www.europarl.europa.eu/meps/en/197417) (EPP), appointed 31 Jan 2023 | [Sara Cerdas](https://www.europarl.europa.eu/meps/en/197641) (S&D), [Susana Solís Pérez](https://www.europarl.europa.eu/meps/en/197784) (Renew), [Tilly Metz](https://www.europarl.europa.eu/meps/en/193292) (Greens/EFA), [Joanna Kopcińska](https://www.europarl.europa.eu/meps/en/197530) (ECR), [Sylvia Limmer](https://www.europarl.europa.eu/meps/en/197483) (ID), [Kateřina Konečná](https://www.europarl.europa.eu/meps/en/23699) (The Left) |
+| LIBE – Civil Liberties, Justice and Home Affairs | Responsible | [Annalisa Tardino](https://www.europarl.europa.eu/meps/en/197806) (ID), appointed 31 Jan 2023 | [Javier Zarzalejos](https://www.europarl.europa.eu/meps/en/197606) (EPP), [Petar Vitanov](https://www.europarl.europa.eu/meps/en/197844) (S&D), [Lucia Ďuriš Nicholsonová](https://www.europarl.europa.eu/meps/en/197766) (Renew), [Patrick Breyer](https://www.europarl.europa.eu/meps/en/197431) (Greens/EFA), [Beata Kempa](https://www.europarl.europa.eu/meps/en/197519) (ECR), [Konstantinos Arvanitis](https://www.europarl.europa.eu/meps/en/197701) (The Left) |
+| BUDG – Budgets | Opinion | not yet appointed | – |
+| IMCO – Internal Market and Consumer Protection | Role not given | [Andrey Kovatchev](https://www.europarl.europa.eu/meps/en/97968) (EPP), appointed 8 Jul 2022 | – |
+| ITRE – Industry, Research and Energy | Role not given | [Cristian-Silviu Buşoi](https://www.europarl.europa.eu/meps/en/38420) (EPP), appointed 9 Jun 2022 | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2023-12-13 – European Health Data Space ***I
+
+13 votes (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Commission proposal | – | – | – | 516 / 95 / 20 | ECR, NI, PPE, Renew, S&D, Verts/ALE |
+| Amendments by the committee responsible – separate votes – Am 16/2 | – | – | – | 567 / 52 / 6 | ECR, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate votes – Am 34 | – | – | – | 572 / 48 / 12 | ECR, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate votes – Am 122/2 | – | – | – | 565 / 57 / 5 | ECR, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 3, after § 9 – Am 552 | – | – | – | 209 / 395 / 29 | ID, The Left, Verts/ALE |
+| After Article 3 – Am 557 | – | – | – | 143 / 470 / 13 | ECR, ID |
+| Article 7, after § 1 – Am 555 | – | – | – | 373 / 254 / 8 | ECR, ID, NI, S&D, The Left, Verts/ALE |
+| Article 33, § 5 – Am 553 | – | – | – | 202 / 367 / 68 | ECR, ID, NI, The Left, Verts/ALE |
+| Article 34, § 1, point e – Am 554 | – | – | – | 195 / 412 / 25 | ECR, The Left, Verts/ALE |
+| After Article 60 – Am 551 | – | – | – | 99 / 481 / 49 | ECR, ID, NI |
+| Article 70, § 2 – Am 545 | – | – | – | 115 / 508 / 10 | ECR, NI |
+| Article 70, after § 3 – Am 546 | – | – | – | 86 / 525 / 22 | ECR, NI |
+| After recital 41 – Am 556 | – | – | – | 131 / 483 / 16 | ECR, ID |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).

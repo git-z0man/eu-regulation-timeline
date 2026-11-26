@@ -1,6 +1,6 @@
 # Legislative procedure – Chips Act 2.0 – COM(2026) 504 (proposal)
 
-Procedure 2026/0139(COD), as of 25 Nov 2026.
+Procedure 2026/0139(COD), as of 26 Nov 2026.
 Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) · Web page: [chips-act-2.html](chips-act-2.html)
 
 ## Status and next steps
@@ -31,6 +31,18 @@ Drawing: [chips-act-2.svg](chips-act-2.svg), [chips-act-2.pdf](chips-act-2.pdf) 
 | 2026-10-12 | Council | Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0): Examination of the Presidency … | [CM 4509/26](https://data.consilium.europa.eu/doc/document/CM-4509-2026-INIT/en/pdf) | Council register, CM 4509/26 (notice of meeting and provisional agenda) |
 | 2026-10-29 | Council | Working Party on Competitiveness and Growth (Industry) (Chips Act 2.0): Examination of the Presidency … | [CM 4566/26](https://data.consilium.europa.eu/doc/document/CM-4566-2026-INIT/en/pdf) | Council register, CM 4566/26 (notice of meeting and provisional agenda) |
 | 2026-11-09 | European Parliament | ITRE draft report | [PE797.426](https://www.europarl.europa.eu/doceo/document/ITRE-PR-797426_EN.pdf) · [en.md](../texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.en.md) [de.md](../texts/chips-act-2/2026-11-09_ep-draft-report-pe797-426.de.md) | EP Open Data API, procedure 2026-0139 (COMMITTEE_TABLING_REPORT) |
+
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ITRE – Industry, Research and Energy | Responsible | [Oliver Schenk](https://www.europarl.europa.eu/meps/en/256979) (EPP), appointed 31 Aug 2026 | [András László](https://www.europarl.europa.eu/meps/en/256860) (PfE), [Francesco Torselli](https://www.europarl.europa.eu/meps/en/257163) (ECR), [Bart Groothuis](https://www.europarl.europa.eu/meps/en/197780) (Renew), [Virginijus Sinkevičius](https://www.europarl.europa.eu/meps/en/201945) (Greens/EFA), [Jussi Saramo](https://www.europarl.europa.eu/meps/en/127766) (The Left), [Marcin Sypniewski](https://www.europarl.europa.eu/meps/en/257070) (ESN) |
+| IMCO – Internal Market and Consumer Protection | Opinion | [Paulius Saudargas](https://www.europarl.europa.eu/meps/en/256809) (EPP), appointed 29 Oct 2026 | [Maria Grapini](https://www.europarl.europa.eu/meps/en/124785) (S&D) |
+| JURI – Legal Affairs | Opinion | [Maravillas Abadía Jover](https://www.europarl.europa.eu/meps/en/257043) (EPP), appointed 23 Jun 2026 | [Victor Negrescu](https://www.europarl.europa.eu/meps/en/88882) (S&D), [Tobiasz Bocheński](https://www.europarl.europa.eu/meps/en/257073) (ECR), [Dainius Žalimas](https://www.europarl.europa.eu/meps/en/256807) (Renew), [Sergey Lagodinsky](https://www.europarl.europa.eu/meps/en/197460) (Greens/EFA), [Marcin Sypniewski](https://www.europarl.europa.eu/meps/en/257070) (ESN) |
+| BUDG – Budgets | Budgetary assessment: decided not to give an opinion | – | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
 
 ## Documents
 

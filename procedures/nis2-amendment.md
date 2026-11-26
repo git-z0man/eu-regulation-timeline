@@ -1,6 +1,6 @@
 # Legislative procedure – Targeted amendment of NIS-2 (simplification, alignment with CSA2) – COM(2026) 13 (proposal)
 
-Procedure 2026/0012(COD), as of 25 Nov 2026.
+Procedure 2026/0012(COD), as of 26 Nov 2026.
 Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-amendment.pdf) · Web page: [nis2-amendment.html](nis2-amendment.html)
 
 ## Status and next steps
@@ -26,6 +26,17 @@ Drawing: [nis2-amendment.svg](nis2-amendment.svg), [nis2-amendment.pdf](nis2-ame
 | 2026-05-28 | Council | Horizontal Working Party on Cyber Issues - attachés: Examination of the Proposal (5627/26 + ADD 1) | [CM 2950/26](https://data.consilium.europa.eu/doc/document/CM-2950-2026-INIT/en/pdf) | Council register, CM 2950/26 (notice of meeting and provisional agenda) |
 | 2026-09-24 | European Parliament | ITRE draft report | [PE792.221](https://www.europarl.europa.eu/doceo/document/ITRE-PR-792221_EN.pdf) · [en.md](../texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.en.md) [de.md](../texts/nis2-amendment/2026-09-22_ep-draft-report-pe792-221.de.md) | EP Open Data API, procedure 2026-0012 (COMMITTEE_TABLING_REPORT) |
 | 2026-11-10 | European Parliament | IMCO opinion adopted | [PE797.654](https://www.europarl.europa.eu/doceo/document/IMCO-AD-797654_EN.pdf) | EP Open Data API, procedure 2026-0012 (COMMITTEE_ADOPTING_OPINION) |
+
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| ITRE – Industry, Research and Energy | Responsible | [Markéta Gregorová](https://www.europarl.europa.eu/meps/en/197549) (Greens/EFA), appointed 26 Feb 2026 | [Tomas Tobé](https://www.europarl.europa.eu/meps/en/197402) (EPP), [Jens Geier](https://www.europarl.europa.eu/meps/en/96833) (S&D), [Aleksandar Nikolic](https://www.europarl.europa.eu/meps/en/256883) (PfE), [Diego Solier](https://www.europarl.europa.eu/meps/en/257021) (ECR), [Morten Løkkegaard](https://www.europarl.europa.eu/meps/en/96709) (Renew), [Marc Botenga](https://www.europarl.europa.eu/meps/en/187917) (The Left), [Markus Buchheit](https://www.europarl.europa.eu/meps/en/128483) (ESN) |
+| IMCO – Internal Market and Consumer Protection | Opinion | [Henrik Dahl](https://www.europarl.europa.eu/meps/en/257028) (EPP), appointed 28 Apr 2026 | [Maria Guzenina](https://www.europarl.europa.eu/meps/en/256803) (S&D), [Michał Dworczyk](https://www.europarl.europa.eu/meps/en/257076) (ECR), [Morten Løkkegaard](https://www.europarl.europa.eu/meps/en/96709) (Renew) |
+| LIBE – Civil Liberties, Justice and Home Affairs | Opinion: decided not to give an opinion | – | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
 
 ## Documents
 

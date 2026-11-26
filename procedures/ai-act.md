@@ -37,6 +37,70 @@ Drawing: [ai-act.svg](ai-act.svg), [ai-act.pdf](ai-act.pdf) · Web page: [ai-act
 | 2024-06-13 | Signature and publication | Signature by the Presidents of EP and Council | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106%28COD%29) | EP Open Data API, procedure 2021-0106 (SIGNATURE) |
 | 2024-07-12 | Signature and publication | Published in the Official Journal | [CELEX 32024R1689](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689) · [en.md](../texts/ai-act/2024-07-12_oj.en.md) [de.md](../texts/ai-act/2024-07-12_oj.de.md) | EP Open Data API, procedure 2021-0106 (PUBLICATION_OFFICIAL_JOURNAL) |
 
+## European Parliament committees
+
+| Committee | Role | Rapporteur | Shadow rapporteurs |
+| --- | --- | --- | --- |
+| IMCO – Internal Market and Consumer Protection | Responsible | [Brando Benifei](https://www.europarl.europa.eu/meps/en/124867) (S&D), appointed 1 Dec 2021 | [Jean-Lin Lacapelle](https://www.europarl.europa.eu/meps/en/204421) (ID), [Deirdre Clune](https://www.europarl.europa.eu/meps/en/124988) (EPP), [Kosma Złotowski](https://www.europarl.europa.eu/meps/en/124884) (ECR), [Svenja Hahn](https://www.europarl.europa.eu/meps/en/197444) (Renew), [Kim Van Sparrentak](https://www.europarl.europa.eu/meps/en/197870) (Greens/EFA), [Kateřina Konečná](https://www.europarl.europa.eu/meps/en/23699) (The Left) |
+| LIBE – Civil Liberties, Justice and Home Affairs | Responsible | [Dragoş Tudorache](https://www.europarl.europa.eu/meps/en/197665) (Renew), appointed 1 Dec 2021 | [Jaak Madison](https://www.europarl.europa.eu/meps/en/197493) (ID), [Axel Voss](https://www.europarl.europa.eu/meps/en/96761) (EPP), [Petar Vitanov](https://www.europarl.europa.eu/meps/en/197844) (S&D), [Rob Rooken](https://www.europarl.europa.eu/meps/en/197776) (ECR), [Sergey Lagodinsky](https://www.europarl.europa.eu/meps/en/197460) (Greens/EFA), [Cornelia Ernst](https://www.europarl.europa.eu/meps/en/96852) (The Left) |
+| ENVI – Environment, Climate and Food Safety | Opinion | [Susana Solís Pérez](https://www.europarl.europa.eu/meps/en/197784) (Renew), appointed 15 Sep 2021 | – |
+| TRAN – Transport and Tourism | Opinion | [Josianne Cutajar](https://www.europarl.europa.eu/meps/en/197394) (S&D), appointed 4 Nov 2021 | – |
+| CULT – Culture and Education | Role not given | [Marcel Kolaja](https://www.europarl.europa.eu/meps/en/197546) (Greens/EFA), appointed 13 Jul 2021 | – |
+| ITRE – Industry, Research and Energy | Role not given | [Eva Maydell](https://www.europarl.europa.eu/meps/en/98341) (EPP), appointed 11 Jan 2022 | – |
+| JURI – Legal Affairs | Role not given | [Axel Voss](https://www.europarl.europa.eu/meps/en/96761) (EPP), appointed 10 Jan 2022 | – |
+
+Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
+
+
+## Plenary votes
+
+### 2024-03-13 – Artificial Intelligence Act ***I
+
+1 vote: 1 adopted.
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Provisional agreement | Am 808 | committee | adopted | 523 / 46 / 49 | ECR, ID, NI, PPE, Renew, S&D, Verts/ALE |
+
+### 2023-06-14 – Artificial Intelligence Act ***I
+
+29 votes (the data of this sitting give no outcome per vote: see the counts).
+
+| Provision | Amendment | Tabled by | Outcome | For / against / abstain | Groups in favour |
+| --- | --- | --- | --- | --- | --- |
+| Commission proposal | – | – | – | 499 / 28 / 93 | ECR, ID, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate vote – Am 227 | – | – | – | 397 / 193 / 30 | ECR, ID, NI, Renew, S&D, The Left, Verts/ALE |
+| Amendments by the committee responsible – separate vote – Am 494/2 | – | – | – | 554 / 51 / 15 | ECR, ID, NI, PPE, Renew, S&D, Verts/ALE |
+| Article 1, before § 1 – Am 774 | – | – | – | 78 / 497 / 44 | NI, The Left |
+| Article 2, § 3 – Am 792 | – | – | – | 140 / 471 / 6 | ECR, ID |
+| Article 3, § 1, after point 1 – Am 775 | – | – | – | 101 / 511 / 4 | ID, The Left |
+| Article 5, § 1, point c, introductory part – Am 804 | – | – | – | 74 / 524 / 22 | ID |
+| Article 5, § 1, point c, point i | – | – | – | 547 / 53 / 18 | ECR, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 5, § 1, point c, point ii | – | – | – | 549 / 51 / 22 | ECR, NI, PPE, Renew, S&D, The Left, Verts/ALE |
+| Article 5, § 1, point d – Am 220-223 | – | – | – | 335 / 235 / 49 | NI, Renew, S&D, The Left, Verts/ALE |
+| Article 5, § 1, after point d – Am 772 | – | – | – | 249 / 360 / 11 | NI, S&D, The Left, Verts/ALE |
+| Article 5, § 1, after point d – Am 773 | – | – | – | 245 / 358 / 12 | S&D, The Left, Verts/ALE |
+| Article 5, § 1, after point d – Am 776= | – | – | – | 277 / 306 / 38 | NI, S&D, The Left, Verts/ALE |
+| Article 5, after § 2 – Am 778 | – | – | – | 102 / 497 / 13 | NI, The Left |
+| Article 5, after § 2 – Am 779 | – | – | – | 108 / 489 / 8 | The Left |
+| Article 5, after § 2 – Am 780 | – | – | – | 109 / 490 / 12 | The Left |
+| After Article 5 – Am 801/1 | – | – | – | 268 / 300 / 48 | ECR, ID, NI, PPE |
+| Article 6, § 2 – Am 781 | – | – | – | 130 / 479 / 8 | ID, The Left |
+| Article 6, § 2 – Am 234/2 | – | – | – | 542 / 62 / 11 | ECR, ID, NI, PPE, Renew, S&D, Verts/ALE |
+| Article 10, § 5 – Am 782D | – | – | – | 97 / 502 / 20 | The Left |
+| Article 29, after § 5 – Am 783 | – | – | – | 103 / 486 / 28 | NI, The Left |
+| Article 54 – Am 784D | – | – | – | 87 / 520 / 11 | The Left |
+| After Article 68 – Am 785 | – | – | – | 109 / 501 / 10 | NI, The Left |
+| After Article 68 – Am 786 | – | – | – | 112 / 502 / 3 | The Left |
+| Article 84, after § 3 – Am 798 | – | – | – | 164 / 423 / 33 | ECR, ID, NI |
+| Annex VIII, after point 5 – Am 789 | – | – | – | 108 / 477 / 32 | The Left |
+| Annex VIII, after point 5 – Am 788 | – | – | – | 110 / 484 / 17 | The Left |
+| After recital 2 – Am 791 | – | – | – | 158 / 439 / 19 | ECR, ID |
+| After recital 18 – Am 800 | – | – | – | 233 / 327 / 59 | ECR, ID, PPE |
+
+Votes by political group; no Member's vote is shown. A group counts as in favour where more of its Members voted for than against. Groups are those the Members belonged to on the day of the sitting (from their memberships, b471); a Member without a group membership that day is in the totals but in no group. Source: European Parliament Open Data Portal, vote results and decisions of the sitting. The outcome of a single amendment, and the vote on the proposal as amended, are not law; Parliament's first-reading position exists only where it closes the reading without a referral back.
+
+
 ## Documents
 
 Every document the Council register, the EU database of the Parliament of Austria or the EP lists for the procedure, with its state: public documents link to the official file; documents that are not public link to their entry in the Austrian database where there is one (metadata only). Status: public; not public; not public, leak available (an unofficial copy is known to circulate outside the institutions; it is neither published nor quoted here). Released: when a document listed as not public was released, by the date of the Council's public PDF (a technical date) or else the day our daily check found it public. Access, our estimate for a Council document that is not public: Request opens a prefilled request on AsktheEU, which the reader sends under their own name and which is then public there; Request running links a request already made there for the document, with its state (a reply not yet classified by the requester can be the institution's automatic receipt), and a finished one shows its outcome (e.g. Request rejected); Release expected gives the day by which this register usually releases such a document; – means nothing to ask for (public, or no position text).
@@ -97,93 +161,7 @@ Unofficial Markdown conversions for reading, searching and project folders; only
 | 2025-10-09 | corrigendum | [CELEX 32024R1689R(01)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689R(01)) | [de](../texts/ai-act/2025-10-09_corrigendum-01.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2025-10-09_corrigendum-01.de.md) |
 | 2026-07-27 | consolidated | [CELEX 02024R1689-20260727](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727) | [en](../texts/ai-act/2026-07-27_consolidated.en.md) [de](../texts/ai-act/2026-07-27_consolidated.de.md) | [GitHub](https://github.com/git-z0man/eu-regulation-timeline/blob/main/texts/ai-act/2026-07-27_consolidated.en.md) |
 
-## Standardisation
+What applies under this act, with its standardisation and committees and expert groups, is on its [act page](../acts/ai-act.html).
 
-Standardisation requests (Art. 10 of Regulation (EU) No 1025/2012) ask CEN, CENELEC and ETSI to draft harmonised standards in support of the act; standards cited in the Official Journal give a presumption of conformity. Planned requests come from the Commission's annual Union work programmes for European standardisation (Art. 8), which are plans, not decisions. Deadlines as set in the request's annexes (hand-checked).
-
-### M/613 – C(2025)3871 (under execution)
-
-COMMISSION IMPLEMENTING DECISION of 23.6.2025 on a standardisation request to the European Committee for Standardisation and the European Committee for Electrotechnical Standardisation as regards high-risk AI-systems in support of Regulation (EU) 2024/1689 of the European Parliament and of the Council and repealing Implementing Decision C(2023)3215
-
-adopted 2025-06-23; expires 2027-02-28; ESOs: CEN, CENELEC. [eNorm](https://ec.europa.eu/growth/tools-databases/enorm/mandate/613_en) · [decision and annexes](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)3871&lang=en) · [en.md](../texts/ai-act/sreq-m613/2025-06-23_commission-decision.en.md) · [de.md](../texts/ai-act/sreq-m613/2025-06-23_commission-decision.de.md)
-
-| Item | Standard(s) requested | Kind | Deadline |
-| --- | --- | --- | --- |
-| 1 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on risk management systems for AI systems | new | 2025-08-31 |
-| 2 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on governance and quality of datasets used to build AI systems | new | 2025-08-31 |
-| 3 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on record keeping through logging capabilities by AI systems | new | 2025-08-31 |
-| 4 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on transparency and information provisions for users of AI systems | new | 2025-08-31 |
-| 5 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on human oversight of AI systems | new | 2025-08-31 |
-| 6 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on accuracy specifications for AI systems | new | 2025-08-31 |
-| 7 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on robustness specifications for AI systems | new | 2025-08-31 |
-| 8 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on cybersecurity specifications for AI systems | new | 2025-08-31 |
-| 9 | Harmonised standard(s) and if necessary European standardisation deliverable(s) on quality management systems for providers of AI systems, including post-market monitoring processes | new | 2025-08-31 |
-| 10 | Harmonised standard(s) or European standardisation deliverable(s) on conformity assessment for AI systems | new | 2025-08-31 |
-
-Source: Annex I and Article 1(1) of Commission Implementing Decision C(2025)3871 (M/613).
-
-### Planned (annual Union work programmes)
-
-| Year | Action | Planned | Text |
-| --- | --- | --- | --- |
-| 2024 | 15. Revision of standardisation request in support of Union policy on artificial intelligence | Laying down technical specifications supporting the implementation of the upcoming act on artificial intelligence, including aspects related to risk management, data quality, record keeping, transparency, human oversight, accuracy, robustness, cybersecurity, quality management, conformity assessment, biometric identification, resource performance of artificial intelligence systems, and energy efficient development of general-purpose models of artificial intelligence. | [en.md](../texts/guidance/commission/uwp-2024/2024-02-15_final.en.md) · [de.md](../texts/guidance/commission/uwp-2024/2024-02-15_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024XC01364) |
-| 2025 | 11. Artificial intelligence | Development of harmonised standards and standardisation deliverables supporting the implementation of the Artificial Intelligence Act. These harmonised standards and standardisation deliverables should notably cover essential requirements for high-risk artificial intelligence systems, obligations for providers of general-purpose artificial intelligence models, as well as reporting and documentation processes to improve the resource efficiency of artificial intelligence systems and ensure energy-efficient development of general-purpose artificial intelligence models. | [en.md](../texts/guidance/commission/uwp-2025/2025-03-27_final.en.md) · [de.md](../texts/guidance/commission/uwp-2025/2025-03-27_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025XC01818) |
-| 2026 | 1. Artificial intelligence | Preparation of standardisation request to develop European standards and/or European standardisation deliverables in support of Article 40 of Regulation (EU) 2024/1689 (Artificial Intelligence Act), covering: (i) reporting and documentation processes to improve the resource performance of artificial intelligence systems (including high-risk systems), with lifecycle measurement methods, metrics, boundary conditions and reporting templates for energy and other resource consumption; and (ii) deliverables on the energy-efficient development of general-purpose AI models (development, training and inference). The request complements, without duplicating, work already mandated by Commission Implementing Decision C(2025) 3871, standardisation request M/613. It excludes essential requirements for high-risk AI systems covered by M/613. Outputs will build on ongoing environmental-impact work and inform the Commission’s review under Article 112(6). | [en.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.en.md) · [de.md](../texts/guidance/commission/uwp-2026/2026-03-19_final.de.md) · [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC01695) |
-
-## Work at the standardisation organisations
-
-Projects of CEN, CENELEC and ETSI for the act, from their public work programmes: status, date of the current stage and the next one, and for CEN-CENELEC the forecasted date of the formal vote. Drafts of harmonised standards are not public; only the citation of a standard's reference in the Official Journal gives a presumption of conformity.
-
-| Body | Project | Title | Status | Next step | Vote (forecast) | Request |
-| --- | --- | --- | --- | --- | --- | --- |
-| CEN/CLC/JTC 21 | [EN 18286:2026](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT:80556&cs=14AE42ED2F03B261D02113245F6A65F24) (WI JT021039) | Artificial intelligence - Quality management system for EU AI Act regulatory purposes | Published (2026-07-22) | – | – | M/593, M/613 |
-| CEN/CLC/JTC 21 | [FprEN ISO/IEC 24970](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:78565,25&cs=11492185C74B08825BC0990EEEF862587) (WI JT021021) | Artificial intelligence - AI system logging (ISO/IEC FDIS 24970:2026) | Approved (2026-11-24) | next stage (2027-01-25) | 2026-05-20 | M/613 |
-| CEN/CLC/JTC 21 | [prEN 18228](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79438,25&cs=126AEABA70EBCF2433A6A5472A8FD6F84) (WI JT021024) | AI Risk Management | Under Approval (2026-07-30) | next stage (2026-09-30) | 2026-09-30 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-1](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80364,25&cs=16B97AF755CF36534FF119CB9782A0D1C) (WI JT021037) | Artificial Intelligence – AI system requirements – Part 1: Quality and governance of data sets in AI | Under Drafting (2024-09-05) | – | 2027-03-18 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-2](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80353,25&cs=1A0A0C0DBC7B012D69EA9AAAF8D5DFDA3) (WI JT021036) | Artificial Intelligence – AI system requirements – Part 2: Concepts, measures and requirements for managing bias in AI systems | Under Enquiry (2026-10-01) | next stage (2026-12-24) | 2027-03-03 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-3](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76986,25&cs=17E4F9ABCBAC14D2D4C9D36D274FAA1FB) (WI JT021008) | Artificial Intelligence – AI system requirements – Part 3: Logging | Under Approval (2026-08-20) | next stage (2026-11-30) | 2026-11-30 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-4](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:82493,25&cs=1400FEB0B6AA9D5AB34BF0233CC4E75B7) (WI JT021047) | Artificial Intelligence - AI system requirements - Part 4: Transparency | Under Enquiry (2026-11-19) | next stage (2027-02-11) | 2027-03-07 | M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-5](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:83968,25&cs=124FF52F5EF7AC5D775D83763E06A42B3) (WI JT021056) | Artificial Intelligence – AI system requirements – Part 5: Human oversight | Under Approval (2026-10-22) | next stage (2027-07-01) | 2027-07-01 | M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-6](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:84357,25&cs=1B167381A7C1803FA72B8695973C3687A) (WI JT021058) | Artificial Intelligence – AI system requirements – Part 6: Accuracy | Under Drafting (2026-06-24) | – | 2027-07-21 | M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-7](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:84358,25&cs=1DF937FC7BA9026B80165D9234A225E15) (WI JT021059) | Artificial Intelligence – AI system requirements – Part 7: Robustness | Under Drafting (2026-06-24) | – | 2027-07-21 | M/613 |
-| CEN/CLC/JTC 21 | [prEN 18229-8](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79708,25&cs=1F22C53E33572EA17236E5EF8F9DE9DCD) (WI JT021029) | Artificial Intelligence – AI system requirements – Part 8: Cybersecurity specifications for AI systems | Under Approval (2026-07-30) | next stage (2026-07-15) | 2026-07-15 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18281](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:79657,25&cs=14D236550058D93DCA7973A19C8D13B24) (WI JT021025) | Artificial Intelligence - Evaluation methods for accurate computer vision systems | Under Approval (2026-06-11) | next stage (2026-09-02) | 2026-09-02 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18285](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80555,25&cs=1A16BF3B3D24FE1F037E7D0FB1A7A014A) (WI JT021038) | AI Conformity assessment framework | Under Drafting (2024-10-16) | next stage (2025-02-12) | 2026-07-29 | M/593, M/613 |
-| CEN/CLC/JTC 21 | [prEN 18288](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:80792,25&cs=122F75B8F5F29C32081BE0659FF745F1D) (WI JT021044) | Artificial Intelligence - Taxonomy of AI tasks in computer vision | Under Approval (2026-07-16) | next stage (2027-06-02) | 2027-06-02 | M/613 |
-| CEN/CLC/JTC 21 | [prEN ISO/IEC 23282](https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:77582,25&cs=12CADCFE745035835A4EE315C44A5045C) (WI JT021012) | Artificial Intelligence - Evaluation methods for accurate natural language processing systems (ISO/IEC DIS 23282:2026) | Under Approval (2026-11-25) | next stage (2027-07-26) | 2027-07-26 | M/613 |
-
-Sources: [CEN/CLC/JTC 21](https://standards.cencenelec.eu/ords/f?p=205:7:::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=114251C6C0B684FBBC069923513BF6348).
-
-## Committees and expert groups
-
-Comitology committees of Member State representatives give opinions on draft implementing acts (Regulation (EU) No 182/2011); expert groups advise the Commission on delegated acts, guidance and implementation; groups set up by an act itself (e.g. the NIS Cooperation Group) bring together the Member States, the Commission and agencies. Meetings and documents as published in the Comitology Register, the Register of Commission expert groups and on the Commission's pages of these groups, from 2024 on.
-
-### [Artificial Intelligence Committee](committee-c129100.md)
-
-Comitology committee C129100, CNECT; examination procedure (Art. 5, 6 and 7 of Regulation (EU) No 182/2011). Official source: [Comitology Register](https://ec.europa.eu/transparency/comitology-register/screen/committees/C129100/consult).
-
-| Date | Meeting | Documents |
-| --- | --- | --- |
-| 2026-05-22 | [Written consultation on Implementing Act on General-Purpose AI (GPAI) Procedures](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1645/consult) | [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/115456/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/118408/1/consult) |
-| 2026-05-21 | [AI Committee meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)780/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/115451/1/consult) · [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/111933/2/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/115456/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/118216/1/consult) · [other document](https://ec.europa.eu/transparency/comitology-register/screen/documents/115454/1/consult) · [other document](https://ec.europa.eu/transparency/comitology-register/screen/documents/115455/1/consult) |
-| 2025-12-15 | [Second meeting of the Artificial Intelligence Committee](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2025)2320/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/111905/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/111933/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/113630/1/consult) · [other document](https://ec.europa.eu/transparency/comitology-register/screen/documents/111913/1/consult) |
-| 2024-12-20 | [Written consultation on draft implementing regulation to establish the scientific panel under Article 68 AI Act](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)2398/consult) | [draft implementing act v2](https://ec.europa.eu/transparency/comitology-register/screen/documents/104666/2/consult) · [voting sheet](https://ec.europa.eu/transparency/comitology-register/screen/documents/104694/1/consult) |
-| 2024-12-11 | [AI Committee Meeting](https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2024)2262/consult) | [agenda](https://ec.europa.eu/transparency/comitology-register/screen/documents/104665/1/consult) · [draft implementing act](https://ec.europa.eu/transparency/comitology-register/screen/documents/104666/1/consult) · [summary record](https://ec.europa.eu/transparency/comitology-register/screen/documents/104723/1/consult) |
-
-### [European Artificial Intelligence Board](committee-x03966.md)
-
-Expert group X03966, CNECT. Official source: [Register of Commission expert groups](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3966).
-
-| Date | Meeting | Documents |
-| --- | --- | --- |
-| 2026-09-17 | Ninth meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138092/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download) |
-| 2026-06-11 | Eighth meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/136331/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138112/download) · [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138612/download) |
-| 2026-03-20 | Seventh meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134351/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134352/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134542/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134543/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134213/download) |
-| 2025-12-04 | Sixth meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124475/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/125620/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/124476/download) |
-| 2025-10-24 | Fifth meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123024/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/123900/download) |
-| 2025-06-30 | Fourth meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/120216/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/120217/download) |
-| 2025-03-24 | Third meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/116113/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/117235/download) |
-| 2024-12-10 | Second meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/113918/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/113919/download) |
-| 2024-09-10 | First meeting of the European Artificial Intelligence Board | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/108418/download) · [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/109020/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/110100/download) |
 
 Built from public sources only: the EP Open Data API, the Cellar procedure file of the Publications Office, documents the Council register releases, the Comitology Register, the Register of Commission expert groups, eNorm, the Register of Commission documents and the work programmes of CEN-CENELEC and ETSI. Documents that are not public are listed with their state only, never their text. Our own compilation, not an official record and not legal advice.

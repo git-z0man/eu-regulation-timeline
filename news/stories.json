@@ -706,6 +706,45 @@
    "added": "2026-11-26"
   },
   {
+   "id": "quantum-act/legislation/COM-2026-965",
+   "kind": "legislation",
+   "desk": "Legislation",
+   "date": "2026-11-25",
+   "act": "quantum-act",
+   "kicker": "Quantum Act",
+   "kicker_de": "Quantengesetz",
+   "headline": "Quantum Act: Commission proposal (Art. 294(2) TFEU)",
+   "deck": "European Commission.",
+   "headline_de": "Quantengesetz: neuer Schritt im Verfahren",
+   "deck_de": "Europäische Kommission (im Original): Commission proposal (Art. 294(2) TFEU)",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/quantum-act.html"
+    ],
+    [
+     "Document",
+     "http://publications.europa.eu/resource/cellar/a4c2f277-e8b5-11f1-b745-01aa75ed71a1.0001.02/DOC_1"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 53,
+   "crumbs": {
+    "en": [
+     "Quantum Act",
+     "Legislation"
+    ],
+    "de": [
+     "Quantengesetz",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-26"
+  },
+  {
    "id": "product-digitalisation-directive/forecast/reached/ep/2026-11-24",
    "kind": "forecast-step",
    "desk": "Analysis",
@@ -1482,6 +1521,51 @@
    "added": "2026-11-23"
   },
   {
+   "id": "cloud-ai-development-act/released/2026-11-26",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-26",
+   "act": "cloud-ai-development-act",
+   "kicker": "Cloud and AI Development Act",
+   "kicker_de": "CADA",
+   "headline": "Council releases 1 Cloud and AI Development Act document",
+   "deck": "1 note: Comments from Italy. Listed as not public since 13 Oct 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu CADA frei",
+   "deck_de": "1 Vermerk: Comments from Italy. Seit 13. Okt. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/cloud-ai-development-act.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 15710/26",
+     "date": "2026-10-09",
+     "title": "Comments from Italy",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-15710-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 45,
+   "crumbs": {
+    "en": [
+     "Cloud and AI Development Act",
+     "Legislation"
+    ],
+    "de": [
+     "CADA",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-26"
+  },
+  {
    "id": "digital-omnibus/released/2026-11-18",
    "kind": "released",
    "desk": "Documents",
@@ -1728,6 +1812,45 @@
     ]
    },
    "added": "2026-11-17"
+  },
+  {
+   "id": "cloud-ai-development-act/legislation/ST-16007-26",
+   "kind": "legislation",
+   "desk": "Legislation",
+   "date": "2026-11-26",
+   "act": "cloud-ai-development-act",
+   "kicker": "Cloud and AI Development Act",
+   "kicker_de": "CADA",
+   "headline": "Cloud and AI Development Act: Progress report",
+   "deck": "Council.",
+   "headline_de": "CADA: neuer Schritt im Verfahren",
+   "deck_de": "Rat (im Original): Progress report",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/cloud-ai-development-act.html"
+    ],
+    [
+     "Document",
+     "https://data.consilium.europa.eu/doc/document/ST-16007-2026-INIT/en/pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 40,
+   "crumbs": {
+    "en": [
+     "Cloud and AI Development Act",
+     "Legislation"
+    ],
+    "de": [
+     "CADA",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-26"
   },
   {
    "id": "cra/standards/M606/2026-W47",
@@ -3489,7 +3612,7 @@
    "links": [
     [
      "Committee page",
-     "../procedures/cra.html"
+     "../acts/cra.html#committees"
     ]
    ],
    "items": [],
@@ -3732,6 +3855,13 @@
  ],
  "ahead": [
   {
+   "date": "2026-11-26",
+   "act": "Cloud and AI Development Act",
+   "text": "Progress report",
+   "url": "../procedures/cloud-ai-development-act.html",
+   "top": true
+  },
+  {
    "date": "2026-11-27",
    "act": "Regulation on European standardisation",
    "text": "Committee on Standards: 33rd meeting of the Committee on standards",
@@ -3757,13 +3887,6 @@
    "act": "NIS 2 Directive",
    "text": "Funding call deadline: EYVOR NCC-IS: The NCC-IS Cybersecurity Grant (FSTP)",
    "url": "../acts/nis2.html#funding",
-   "top": true
-  },
-  {
-   "date": "2026-12-01",
-   "act": "NIS 2 Directive",
-   "text": "ENISA survey closes: ENISA NIS360 survey 2027",
-   "url": "../acts/nis2.html",
    "top": true
   }
  ],
