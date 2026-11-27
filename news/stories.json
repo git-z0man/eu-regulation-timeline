@@ -829,6 +829,50 @@
    "added": "2026-11-26"
   },
   {
+   "id": "industrial-accelerator-act/compromise/WK-18171-26",
+   "kind": "compromise",
+   "desk": "Legislation",
+   "date": "2026-11-24",
+   "act": "industrial-accelerator-act",
+   "kicker": "Industrial Accelerator Act",
+   "kicker_de": "IAA",
+   "headline": "Industrial Accelerator Act · Council Presidency: fourth compromise text",
+   "deck": "Presidency compromise text: the Presidency's proposal, not the Council's position.",
+   "headline_de": "IAA · Präsidentschaft: Vierter Kompromisstext",
+   "deck_de": "Titel im Original: Fourth Presidency compromise text on the draft proposal for a Regulation on establishing …. Vorschlag der Präsidentschaft, nicht die Position des Rates.",
+   "facts": [
+    "Draft, not law"
+   ],
+   "facts_de": [
+    "Entwurf, kein Recht"
+   ],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/industrial-accelerator-act.html"
+    ],
+    [
+     "Document",
+     "https://www.parlament.gv.at/gegenstand/XXVIII/EU/105426"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 49,
+   "not_public": true,
+   "crumbs": {
+    "en": [
+     "Industrial Accelerator Act",
+     "Legislation"
+    ],
+    "de": [
+     "IAA",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-27"
+  },
+  {
    "id": "product-digitalisation-directive/forecast/reached/ep/2026-11-24",
    "kind": "forecast-step",
    "desk": "Analysis",
@@ -1173,6 +1217,51 @@
     ]
    },
    "added": "2026-11-24"
+  },
+  {
+   "id": "medical-devices-simplification/released/2026-11-27",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-27",
+   "act": "medical-devices-simplification",
+   "kicker": "Simplification of the medical devices rules",
+   "kicker_de": "MDR/IVDR-Vereinfachung",
+   "headline": "Council releases 1 Simplification of the medical devices rules document",
+   "deck": "1 note: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the … Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 1 Dokument zu MDR/IVDR-Vereinfachung frei",
+   "deck_de": "1 Vermerk: Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the … Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/medical-devices-simplification.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 14267/26",
+     "date": "2026-09-17",
+     "title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-14267-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 45,
+   "crumbs": {
+    "en": [
+     "Simplification of the medical devices rules",
+     "Legislation"
+    ],
+    "de": [
+     "MDR/IVDR-Vereinfachung",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-27"
   },
   {
    "id": "forecast/method/2026-W48",
@@ -1900,6 +1989,60 @@
     ]
    },
    "added": "2026-11-26"
+  },
+  {
+   "id": "medical-devices-simplification/released/2026-11-24",
+   "kind": "released",
+   "desk": "Documents",
+   "date": "2026-11-24",
+   "act": "medical-devices-simplification",
+   "kicker": "Simplification of the medical devices rules",
+   "kicker_de": "MDR/IVDR-Vereinfachung",
+   "headline": "Council releases 2 Simplification of the medical devices rules documents",
+   "deck": "2 notes: Regulation to simplify rules on medical and in vitro diagnostic medical devices - …; Regulation to simplify rules on medical and in vitro diagnostic devices - Technical input … Listed as not public since 25 Sep 2026; now public in the register.",
+   "headline_de": "Rat gibt 2 Dokumente zu MDR/IVDR-Vereinfachung frei",
+   "deck_de": "2 Vermerke: Regulation to simplify rules on medical and in vitro diagnostic medical devices - …; Regulation to simplify rules on medical and in vitro diagnostic devices - Technical input … Seit 25. Sept. 2026 als nicht öffentlich geführt, jetzt im Ratsregister abrufbar.",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/medical-devices-simplification.html"
+    ]
+   ],
+   "items": [
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "ST 12919/26",
+     "date": "2026-10-09",
+     "title": "Regulation to simplify rules on medical and in vitro diagnostic medical devices - …",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-12919-2026-INIT/en/pdf"
+    },
+    {
+     "type": "note",
+     "type_de": "Vermerk",
+     "rank": 8,
+     "ref": "WK 13494/26",
+     "date": "2026-09-07",
+     "title": "Regulation to simplify rules on medical and in vitro diagnostic devices - Technical input …",
+     "url": "https://data.consilium.europa.eu/doc/document/WK-13494-2026-INIT/en/pdf"
+    }
+   ],
+   "brief": null,
+   "score": 39,
+   "crumbs": {
+    "en": [
+     "Simplification of the medical devices rules",
+     "Legislation"
+    ],
+    "de": [
+     "MDR/IVDR-Vereinfachung",
+     "Gesetzgebung"
+    ]
+   },
+   "added": "2026-11-27"
   },
   {
    "id": "public-procurement-act/released/2026-11-24",
@@ -3716,45 +3859,6 @@
    "added": "2026-11-21"
   },
   {
-   "id": "public-procurement-act/meeting/2026-11-20",
-   "kind": "meeting",
-   "desk": "Committees",
-   "date": "2026-11-20",
-   "act": "public-procurement-act",
-   "kicker": "Public Procurement Act",
-   "kicker_de": "Vergabe-Rechtsakt (PPA)",
-   "headline": "Public Procurement Act: Council working party meeting",
-   "deck": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
-   "headline_de": "Vergabe-Rechtsakt (PPA): Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/public-procurement-act.html"
-    ],
-    [
-     "Document",
-     "https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": 6,
-   "crumbs": {
-    "en": [
-     "Public Procurement Act",
-     "Committees"
-    ],
-    "de": [
-     "Vergabe-Rechtsakt (PPA)",
-     "Ausschüsse"
-    ]
-   },
-   "added": "2026-11-23"
-  },
-  {
    "id": "space-act/meeting/2026-11-20",
    "kind": "meeting",
    "desk": "Committees",
@@ -3792,6 +3896,45 @@
     ]
    },
    "added": "2026-11-23"
+  },
+  {
+   "id": "public-procurement-act/meeting/2026-11-19",
+   "kind": "meeting",
+   "desk": "Committees",
+   "date": "2026-11-19",
+   "act": "public-procurement-act",
+   "kicker": "Public Procurement Act",
+   "kicker_de": "Vergabe-Rechtsakt (PPA)",
+   "headline": "Public Procurement Act: Council working party meeting",
+   "deck": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "headline_de": "Vergabe-Rechtsakt (PPA): Sitzung einer Ratsarbeitsgruppe",
+   "deck_de": "Tagesordnung des Rates (Titel im Original): Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "facts": [],
+   "facts_de": [],
+   "links": [
+    [
+     "Procedure",
+     "../procedures/public-procurement-act.html"
+    ],
+    [
+     "Document",
+     "https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf"
+    ]
+   ],
+   "items": [],
+   "brief": null,
+   "score": 4,
+   "crumbs": {
+    "en": [
+     "Public Procurement Act",
+     "Committees"
+    ],
+    "de": [
+     "Vergabe-Rechtsakt (PPA)",
+     "Ausschüsse"
+    ]
+   },
+   "added": "2026-11-27"
   },
   {
    "id": "cra/committee/2026-11-17",
@@ -3897,45 +4040,6 @@
     ]
    },
    "added": "2026-11-17"
-  },
-  {
-   "id": "medical-devices-simplification/meeting/2026-11-13",
-   "kind": "meeting",
-   "desk": "Committees",
-   "date": "2026-11-13",
-   "act": "medical-devices-simplification",
-   "kicker": "Simplification of the medical devices rules",
-   "kicker_de": "MDR/IVDR-Vereinfachung",
-   "headline": "Simplification of the medical devices rules: Council working party meeting",
-   "deck": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise proposed …",
-   "headline_de": "MDR/IVDR-Vereinfachung: Sitzung einer Ratsarbeitsgruppe",
-   "deck_de": "Tagesordnung des Rates (Titel im Original): Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise proposed …",
-   "facts": [],
-   "facts_de": [],
-   "links": [
-    [
-     "Procedure",
-     "../procedures/medical-devices-simplification.html"
-    ],
-    [
-     "Document",
-     "https://data.consilium.europa.eu/doc/document/CM-4831-2026-INIT/en/pdf"
-    ]
-   ],
-   "items": [],
-   "brief": null,
-   "score": -8,
-   "crumbs": {
-    "en": [
-     "Simplification of the medical devices rules",
-     "Committees"
-    ],
-    "de": [
-     "MDR/IVDR-Vereinfachung",
-     "Ausschüsse"
-    ]
-   },
-   "added": "2026-11-16"
   },
   {
    "id": "space-act/meeting/2026-11-13",

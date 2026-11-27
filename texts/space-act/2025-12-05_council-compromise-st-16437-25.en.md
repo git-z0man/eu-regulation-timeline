@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 5 December 2025** **(OR. en)**
 
-**1 6437/25** **Interinstitutional File:** **2025/0335 (COD)** **ESPACE 97** **MI 1014** **ENV 1339** **CODEC 2023** **EU-GNSS 28** **CSCGNSS 18** **CSCGMES 12** **IND 585** **CYBER 368** **COMPET 1302** **HYBRID 168** **P ROCIV 179** **NOTE** From: General Secretariat of the Council To: Delegations No. Cion doc.: 10935/25 + ADD 1 Subject: Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Presidency compromise text - clean version
+**16437/25** **Interinstitutional File:** **2025/0335 (COD)** **ESPACE 97** **MI 1014** **ENV 1339** **CODEC 2023** **EU-GNSS 28** **CSCGNSS 18** **CSCGMES 12** **IND 585** **CYBER 368** **COMPET 1302** **HYBRID 168** **PROCIV 179** **NOTE** From: General Secretariat of the Council To: Delegations No. Cion doc.: 10935/25 + ADD 1 Subject: Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Presidency compromise text - clean version
 
 Delegations will find in the Annex the Presidency text with a view to the meeting of 16 December 2025, in clean version to facilitate readability.
 

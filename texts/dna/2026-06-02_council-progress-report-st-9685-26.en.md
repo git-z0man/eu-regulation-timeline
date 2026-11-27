@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Council of the European Union Brussels, 2 June 2026 (OR. en)
 
-9 685/26 Interinstitutional File: 2026/0013 (COD) TELECOM 266 CYBER 250 COMPET 624 MI 527 FIN 741 ESPACE 85 CODEC 1000 I A 136 NOTE From: General Secretariat of the Council To: Council Subject: Proposal for a Regulation of the European Parliament and of the Council on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act) - Progress report
+9685/26 Interinstitutional File: 2026/0013 (COD) TELECOM 266 CYBER 250 COMPET 624 MI 527 FIN 741 ESPACE 85 CODEC 1000 IA 136 NOTE From: General Secretariat of the Council To: Council Subject: Proposal for a Regulation of the European Parliament and of the Council on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act) - Progress report
 
 I. INTRODUCTION
 

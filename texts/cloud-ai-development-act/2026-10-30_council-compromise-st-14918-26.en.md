@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 30 October 2026** **(OR. en)**
 
-**1 4918/26** **Interinstitutional File:** ++**2026/0138 (COD)**++ **LIMITE** **TELECOM 502** **CYBER 430** **COMPET 1251** **MI 1064** **IA 274** **C ODEC 1982** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework of measures for strengthening Europe's cloud and AI ecosystem (Cloud and AI Development Act) - Presidency compromise text
+**14918/26** **Interinstitutional File:** ++**2026/0138 (COD)**++ **LIMITE** **TELECOM 502** **CYBER 430** **COMPET 1251** **MI 1064** **IA 274** **CODEC 1982** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework of measures for strengthening Europe's cloud and AI ecosystem (Cloud and AI Development Act) - Presidency compromise text
 
 **INTRODUCTION** 1. The Commission adopted the proposal for a Regulation establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development Act) on 4 June 2026 ^(1).
 

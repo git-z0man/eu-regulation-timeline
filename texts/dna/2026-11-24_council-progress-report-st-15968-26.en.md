@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Council of the European Union Brussels, 24 November 2026 (OR. en)
 
-1 5968/26 Interinstitutional File: 2026/0013 (COD) TELECOM 562 CYBER 466 COMPET 1381 MI 1210 FIN 1631 ESPACE 190 CODEC 2192 I A 317 NOTE From: General Secretariat of the Council To: Council No. Cion doc.: 5600/26 + ADD 1 Subject: Proposal for a Regulation of the European Parliament and of the Council on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act) (Text with EEA relevance) - Progress report
+15968/26 Interinstitutional File: 2026/0013 (COD) TELECOM 562 CYBER 466 COMPET 1381 MI 1210 FIN 1631 ESPACE 190 CODEC 2192 IA 317 NOTE From: General Secretariat of the Council To: Council No. Cion doc.: 5600/26 + ADD 1 Subject: Proposal for a Regulation of the European Parliament and of the Council on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act) (Text with EEA relevance) - Progress report
 
 I. INTRODUCTION 1. The Commission adopted the proposal for a Regulation on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act), on 21 January 2026 ^(1).
 

@@ -22,9 +22,9 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Council of the European Union Brussels, 13 October 2025 (OR. en)
 
-1 3787/25
+13787/25
 
-SIMPL 137 ENER 519 ANTICI 147 ENT 216 AGRI 481 ENV 995 AGRIFIN 109 FIN 1185 BETREG 38 IA 156 CHIMIE 104 IND 424 CLIMA 430 INDEF 116 COH 188 JAI 1377 COMPET 1003 MAP 85 CONSOM 214 MI 769 CSC 507 POLCOM 297 DATAPROTECT 249 SAN 622 DRS 85 TELECOM 350 ECO 45 TRANS 462 ECOFIN 1336 CODEC 1495 E F 337 NOTE From: General Secretariat of the Council To: Permanent Representatives Committee/Council Subject: Omnibus simplification legislative packages - Progress report
+SIMPL 137 ENER 519 ANTICI 147 ENT 216 AGRI 481 ENV 995 AGRIFIN 109 FIN 1185 BETREG 38 IA 156 CHIMIE 104 IND 424 CLIMA 430 INDEF 116 COH 188 JAI 1377 COMPET 1003 MAP 85 CONSOM 214 MI 769 CSC 507 POLCOM 297 DATAPROTECT 249 SAN 622 DRS 85 TELECOM 350 ECO 45 TRANS 462 ECOFIN 1336 CODEC 1495 EF 337 NOTE From: General Secretariat of the Council To: Permanent Representatives Committee/Council Subject: Omnibus simplification legislative packages - Progress report
 
 I. INTRODUCTION
 

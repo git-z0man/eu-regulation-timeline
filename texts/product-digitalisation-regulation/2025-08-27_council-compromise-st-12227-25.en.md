@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 27 August 2025** **(OR. en)**
 
-**1 2227/25** **Interinstitutional File:** **2025/0134 (COD) LIMITE** **SIMPL 90 TELECOM 266** **ANTICI 100 POLCOM 192** **EF 268 COMPET 817** **ECOFIN 1107 ENV 771** **MI 597 CLIMA 310** **ECO 23 TRANS 338** **ENT 143 ENER 407** **IA 106 CODEC 1157** **I ND 313** **NOTE** From: General Secretariat of the Council To: Delegations Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 76512008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 202311542 and (EU) 2024/1781 as regards digitalisation and common specifications - Presidency compromise text
+**12227/25** **Interinstitutional File:** **2025/0134 (COD) LIMITE** **SIMPL 90 TELECOM 266** **ANTICI 100 POLCOM 192** **EF 268 COMPET 817** **ECOFIN 1107 ENV 771** **MI 597 CLIMA 310** **ECO 23 TRANS 338** **ENT 143 ENER 407** **IA 106 CODEC 1157** **IND 313** **NOTE** From: General Secretariat of the Council To: Delegations Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 76512008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 202311542 and (EU) 2024/1781 as regards digitalisation and common specifications - Presidency compromise text
 
 Delegations will find in the Annex a Presidency compromise text in relation to the above proposal, for examination at the meeting of the Antici Group (Simplification) on 1 September 2025.
 

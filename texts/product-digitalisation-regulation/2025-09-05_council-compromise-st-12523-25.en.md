@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 5 September 2025** **(OR. en)**
 
-**1 2523/25** **Interinstitutional File:** **2025/0134 (COD) LIMITE** **SIMPL 95 TELECOM 282** **ANTICI 106 POLCOM 224** **EF 277 COMPET 842** **ECOFIN 1129 ENV 803** **MI 622 CLIMA 321** **ECO 28 TRANS 359** **ENT 153 ENER 426** **IA 117 CODEC 1208** **I ND 330** **NOTE** From: General Secretariat of the Council To: Delegations No. prev. doc.: 12227/25 No. Cion doc.: 9318/25 + ADD 1 Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 76512008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 202311542 and (EU) 2024/1781 as regards digitalisation and common specifications - Revised Presidency compromise text
+**12523/25** **Interinstitutional File:** **2025/0134 (COD) LIMITE** **SIMPL 95 TELECOM 282** **ANTICI 106 POLCOM 224** **EF 277 COMPET 842** **ECOFIN 1129 ENV 803** **MI 622 CLIMA 321** **ECO 28 TRANS 359** **ENT 153 ENER 426** **IA 117 CODEC 1208** **IND 330** **NOTE** From: General Secretariat of the Council To: Delegations No. prev. doc.: 12227/25 No. Cion doc.: 9318/25 + ADD 1 Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) No 76512008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 202311542 and (EU) 2024/1781 as regards digitalisation and common specifications - Revised Presidency compromise text
 
 Delegations will find in the Annex a revised Presidency compromise text in relation to the above proposal, for examination at the meeting of the Antici Group (Simplification) on 11 September 2025.
 

@@ -87,16 +87,16 @@
     },
     {
      "date": "2026-11-20",
-     "act": "EU Space Act",
-     "text": "European Parliament: Report tabled for plenary",
-     "url": "procedures/space-act.html",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council: General approach (not public)",
+     "url": "procedures/medical-devices-simplification.html",
      "top": false
     },
     {
      "date": "2026-11-20",
-     "act": "Simplification of the medical devices rules",
-     "text": "Council: General approach (not public)",
-     "url": "procedures/medical-devices-simplification.html",
+     "act": "EU Space Act",
+     "text": "European Parliament: Report tabled for plenary",
+     "url": "procedures/space-act.html",
      "top": false
     },
     {
@@ -118,6 +118,13 @@
      "act": "Cloud and AI Development Act",
      "text": "Council released 3 documents listed as not public, incl. Presidency compromise text",
      "url": "procedures/cloud-ai-development-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-24",
+     "act": "Industrial Accelerator Act",
+     "text": "Council: Fourth Presidency compromise text on the draft proposal for a Regulation on establishing … (not …",
+     "url": "procedures/industrial-accelerator-act.html",
      "top": false
     },
     {
@@ -164,6 +171,13 @@
     },
     {
      "date": "2026-11-27",
+     "act": "Simplification of the medical devices rules",
+     "text": "Council released 3 documents listed as not public",
+     "url": "procedures/medical-devices-simplification.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-27",
      "act": "Radio Equipment Directive",
      "text": "13 standardisation projects moved on, e.g. EN 302 977: Publication",
      "url": "procedures/index.html",
@@ -181,13 +195,6 @@
      "act": "EU Space Act",
      "text": "Council working parties met 2 times, latest: Space Working Party meeting: clean version: doc. ) …",
      "url": "procedures/space-act.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-20",
-     "act": "Public Procurement Act",
-     "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
-     "url": "procedures/public-procurement-act.html",
      "top": false
     },
     {

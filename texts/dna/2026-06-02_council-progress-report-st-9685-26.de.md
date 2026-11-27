@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Rat der Europäischen Union Brüssel, den 2. Juni 2026 (OR. en)
 
-9 685/26 Interinstitutionelles Dossier: 2026/0013(COD) TELECOM 266 CYBER 250 COMPET 624 MI 527 FIN 741 ESPACE 85 CODEC 1000 I A 136 VERMERK Absender: Generalsekretariat des Rates Empfänger: Rat Betr.: Verordnung des Europäischen Parlaments und des Rates über digitale Netze, zur Änderung der Verordnung (EU) 2015/2120, der Richtlinie 2002/58/EG und der Entscheidung Nr. 676/2002/EG sowie zur Aufhebung der Verordnung (EU) 2018/1971, der Richtlinie (EU) 2018/1972 und des Beschlusses Nr. 243/2012/EU (Verordnung über digitale Netze) – Fortschrittsbericht
+9685/26 Interinstitutionelles Dossier: 2026/0013(COD) TELECOM 266 CYBER 250 COMPET 624 MI 527 FIN 741 ESPACE 85 CODEC 1000 IA 136 VERMERK Absender: Generalsekretariat des Rates Empfänger: Rat Betr.: Verordnung des Europäischen Parlaments und des Rates über digitale Netze, zur Änderung der Verordnung (EU) 2015/2120, der Richtlinie 2002/58/EG und der Entscheidung Nr. 676/2002/EG sowie zur Aufhebung der Verordnung (EU) 2018/1971, der Richtlinie (EU) 2018/1972 und des Beschlusses Nr. 243/2012/EU (Verordnung über digitale Netze) – Fortschrittsbericht
 
 I. EINLEITUNG
 

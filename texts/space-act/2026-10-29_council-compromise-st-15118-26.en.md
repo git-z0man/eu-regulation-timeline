@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 29 October 2026** **(OR. en)**
 
-**1 5118/26** **Interinstitutional File:** ++**2025/0335 (COD)**++ **ESPACE 167** **MI 1087** **ENV 1331** **CODEC 2017** **EU-GNSS 38** **CSCGNSS 25** **CSCGMES 7** **IND 646** **CYBER 435** **COMPET 1273** **HYBRID 127** **P ROCIV 203** ++**NOTE**++ From: General Secretariat of the Council To: Delegations No. Cion doc.: 10935/25 + ADD 1 Subject: Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Presidency compromise text - clean version
+**15118/26** **Interinstitutional File:** ++**2025/0335 (COD)**++ **ESPACE 167** **MI 1087** **ENV 1331** **CODEC 2017** **EU-GNSS 38** **CSCGNSS 25** **CSCGMES 7** **IND 646** **CYBER 435** **COMPET 1273** **HYBRID 127** **PROCIV 203** ++**NOTE**++ From: General Secretariat of the Council To: Delegations No. Cion doc.: 10935/25 + ADD 1 Subject: Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Presidency compromise text - clean version
 
 Delegations will find in the Annex the Presidency text with a view to the meeting of 3 November 2026, in clean version to facilitate readability.
 

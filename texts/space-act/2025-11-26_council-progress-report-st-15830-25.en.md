@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Council of the European Union Brussels, 26 November 2025 (OR. en)
 
-1 5830/25 Interinstitutional File: 2025/0335 (COD) ESPACE 89 MI 945 ENV 1265 CODEC 1900 EU-GNSS 25 CSCGNSS 15 CSCGMES 9 IND 539 CYBER 343 COMPET 1226 HYBRID 154 P ROCIV 163 NOTE From: General Secretariat of the Council To: Permanent Representatives Committee/Council No. Cion doc.: 10935/25 + ADD 1 Subject: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 8-9 December 2025 Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Progress report
+15830/25 Interinstitutional File: 2025/0335 (COD) ESPACE 89 MI 945 ENV 1265 CODEC 1900 EU-GNSS 25 CSCGNSS 15 CSCGMES 9 IND 539 CYBER 343 COMPET 1226 HYBRID 154 PROCIV 163 NOTE From: General Secretariat of the Council To: Permanent Representatives Committee/Council No. Cion doc.: 10935/25 + ADD 1 Subject: Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 8-9 December 2025 Regulation on the safety, resilience and sustainability of space activities in the Union (EU Space Act) - Progress report
 
 I. INTRODUCTION
 

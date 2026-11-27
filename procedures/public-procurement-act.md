@@ -8,7 +8,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 - **Stage:** EP committee stage
 - **Parliament:** in committee since 11 Nov 2026
 - **Council:** working party, latest document 17 Nov 2026
-- **Latest activity:** 20 Nov 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … (CM 5033/26)
+- **Latest activity:** 19 Nov 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … (CM 5033/26)
 - **Next steps:** 30 Nov 2026: INTA committee meeting (EP committee agenda); EP: rapporteur's draft report; Council: working party towards a negotiating mandate
 - **Forecast:** Official Journal around Nov 2028 (median; half of the runs Apr 2028 – Nov 2029), [forecast page](../forecast/public-procurement-act.html). Next step: EP committee vote. On track until 17 Nov 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
@@ -17,13 +17,13 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 | Date | Actor | Event | Document | Source |
 | --- | --- | --- | --- | --- |
 | 2026-09-09 | European Commission | Commission proposal (Art. 294(2) TFEU) | [COM(2026) 590](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590) · [en.md](../texts/public-procurement-act/2026-09-09_com-proposal.en.md) [de.md](../texts/public-procurement-act/2026-09-09_com-proposal.de.md) | Cellar (CELEX 52026PC0590) |
-| 2026-09-18 | Council | Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of … | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) | Council register, CM 4104/26 (notice of meeting and provisional agenda) |
+| 2026-09-17 | Council | Working Party on Competitiveness and Growth (Public Procurement) (17 September am - attachés format - no … | [CM 4104/26](https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf) | Council register, CM 4104/26 (notice of meeting and provisional agenda) |
 | 2026-10-02 | Council | Working Party on Competitiveness and Growth (Public Procurement): Examination of the proposal – Parts I and … | [CM 4305/26](https://data.consilium.europa.eu/doc/document/CM-4305-2026-INIT/en/pdf) | Council register, CM 4305/26 (notice of meeting and provisional agenda) |
-| 2026-10-30 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) | Council register, CM 4602/26 (notice of meeting and provisional agenda) |
-| 2026-11-11 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 4835/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf) | Council register, CM 4835/26 REV 2 (notice of meeting and provisional agenda) |
+| 2026-10-29 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 4602/26](https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf) | Council register, CM 4602/26 (notice of meeting and provisional agenda) |
+| 2026-11-11 | Council | Working Party on Competitiveness and Growth (Public Procurement) (Attachés format in the morning): … | [CM 4835/26 REV 2](https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf) | Council register, CM 4835/26 REV 2 (notice of meeting and provisional agenda) |
 | 2026-11-11 | European Parliament | Referral to committee announced in plenary | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29) | EP Open Data API, procedure 2026-0265 (REFERRAL) |
 | 2026-11-16 | European Parliament | IMCO rapporteur appointed (Christian Doleschal, PPE) | [EP procedure file](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265%28COD%29) | EP Open Data API, procedure 2026-0265 (participation RAPPORTEUR) |
-| 2026-11-20 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 5033/26](https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf) | Council register, CM 5033/26 (notice of meeting and provisional agenda) |
+| 2026-11-19 | Council | Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … | [CM 5033/26](https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf) | Council register, CM 5033/26 (notice of meeting and provisional agenda) |
 
 ## European Parliament committees
 

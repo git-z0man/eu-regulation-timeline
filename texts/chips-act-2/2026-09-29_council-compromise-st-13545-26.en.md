@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 29 September 2026** **(OR. en)**
 
-**1 3545/26** **Interinstitutional File:** ++**2026/0139 (COD)**++ **LIMITE** **COMPET 1120** **IND 574** **MI 934** **RC 24** **RECH 383** **TELECOM 443** **FIN 1348** **CADREFIN 404** **C ODEC 1735** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening the Union's semiconductor ecosystem, repealing Regulation (EU) 2023/1781 (Chips Act 2.0) - Presidency compromise text
+**13545/26** **Interinstitutional File:** ++**2026/0139 (COD)**++ **LIMITE** **COMPET 1120** **IND 574** **MI 934** **RC 24** **RECH 383** **TELECOM 443** **FIN 1348** **CADREFIN 404** **CODEC 1735** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a framework of measures for strengthening the Union's semiconductor ecosystem, repealing Regulation (EU) 2023/1781 (Chips Act 2.0) - Presidency compromise text
 
 In view of the upcoming meeting of the Working Party on Competitiveness and Growth (Industry) on 7 October July 2026, delegations will find in Annex to this note a marked version of the Presidency compromise text on Pillars I and II of the proposed Regulation. Changes in comparison to the Commission proposal, document ST 10094/26 + ADD1, are marked in **bold** for additions and in ~~strikethrough~~ for deletions.
 

@@ -21,6 +21,22 @@
   },
   {
    "date": "2026-11-27",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-17 (Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the …), listed as not public since 2026-09-25",
+   "doc": "WK 14267/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14267-2026-INIT/en/pdf",
+   "key": "WK 14267/26-released",
+   "page": "medical-devices-simplification",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-17",
+   "doc_title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices - Flash from the …",
+   "withheld_since": "2026-09-25",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-11-27",
    "act": "red",
    "title": "RED",
    "actor": "ERM WGSRR",
@@ -316,6 +332,38 @@
   },
   {
    "date": "2026-11-24",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-10-09 (Regulation to simplify rules on medical and in vitro diagnostic medical devices - …), listed as not public since 2026-10-12",
+   "doc": "ST 12919/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12919-2026-INIT/en/pdf",
+   "key": "ST 12919/26-released",
+   "page": "medical-devices-simplification",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-10-09",
+   "doc_title": "Regulation to simplify rules on medical and in vitro diagnostic medical devices - …",
+   "withheld_since": "2026-10-12",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "medical-devices-simplification",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-07 (Regulation to simplify rules on medical and in vitro diagnostic devices - Technical input …), listed as not public since 2026-09-25",
+   "doc": "WK 13494/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13494-2026-INIT/en/pdf",
+   "key": "WK 13494/26-released",
+   "page": "medical-devices-simplification",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-07",
+   "doc_title": "Regulation to simplify rules on medical and in vitro diagnostic devices - Technical input …",
+   "withheld_since": "2026-09-25",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-11-24",
    "act": "public-procurement-act",
    "actor": "Council",
    "label": "Released: Council note of 2026-10-29 (Mapping of Existing Reporting Obligations and Procurement : Related Information …), listed as not public since 2026-10-30",
@@ -353,6 +401,19 @@
    "key": "P10_TA(2026)0384",
    "page": "product-digitalisation-directive",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-11-24",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Fourth Presidency compromise text on the draft proposal for a Regulation on establishing … (not public)",
+   "doc": "WK 18171/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/105426",
+   "key": "WK 18171/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-11-24",
@@ -743,18 +804,6 @@
   {
    "date": "2026-11-20",
    "act": "public-procurement-act",
-   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
-   "doc": "CM 5033/26",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf",
-   "key": "CM 5033/26",
-   "page": "public-procurement-act",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-11-20",
-   "act": "public-procurement-act",
    "actor": "Council",
    "label": "Released: Council note of 2026-10-29 (Public Procurement Act: Proposal for a Regulation of the European Parliament and of the …), listed as not public since 2026-11-02",
    "doc": "WK 14963/26 REV 1 ADD 6",
@@ -872,6 +921,18 @@
    "page": null,
    "type": "Standardisation",
    "hub": null
+  },
+  {
+   "date": "2026-11-19",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "doc": "CM 5033/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5033-2026-INIT/en/pdf",
+   "key": "CM 5033/26",
+   "page": "public-procurement-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-19",
@@ -1304,18 +1365,6 @@
   },
   {
    "date": "2026-11-13",
-   "act": "medical-devices-simplification",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise proposed …",
-   "doc": "CM 4831/26",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4831-2026-INIT/en/pdf",
-   "key": "CM 4831/26",
-   "page": "medical-devices-simplification",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-11-13",
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
@@ -1365,6 +1414,18 @@
    "doc_title": "Presidency compromise text",
    "withheld_since": "2026-09-30",
    "title": "Chips Act 2.0 – COM(2026) 504 (proposal)"
+  },
+  {
+   "date": "2026-11-12",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the fourth compromise proposed …",
+   "doc": "CM 4831/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4831-2026-INIT/en/pdf",
+   "key": "CM 4831/26",
+   "page": "medical-devices-simplification",
+   "type": "Legislation"
   },
   {
    "date": "2026-11-12",
@@ -1494,7 +1555,7 @@
    "act": "public-procurement-act",
    "title": "Public Procurement Act – COM(2026) 590 (proposal)",
    "actor": "Council",
-   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement) (Attachés format in the morning): …",
    "doc": "CM 4835/26 REV 2",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4835-2026-REV-2/en/pdf",
    "key": "CM 4835/26 REV 2",
@@ -2051,6 +2112,19 @@
   },
   {
    "date": "2026-11-04",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "European Parliament",
+   "label": "BUDG committee meeting held: agenda item 15",
+   "doc": "OJ-1353501",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/CJ13/OJ/2026/11-04/1353501EN.pdf",
+   "key": "emeeting-BUDG(2026)1104_1-2026-11-04",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-11-04",
    "act": "red",
    "title": "RED",
    "actor": "ERM WGUWB",
@@ -2330,18 +2404,6 @@
   },
   {
    "date": "2026-10-30",
-   "act": "public-procurement-act",
-   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
-   "doc": "CM 4602/26",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf",
-   "key": "CM 4602/26",
-   "page": "public-procurement-act",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-10-30",
    "act": "digital-omnibus",
    "actor": "Council",
    "label": "Released: Council note of 2026-09-17 (Draft proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) …), listed as not public since 2026-09-30",
@@ -2409,6 +2471,18 @@
    "doc_title": "Exchange of views",
    "withheld_since": "2026-09-25",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)"
+  },
+  {
+   "date": "2026-10-29",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the …",
+   "doc": "CM 4602/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4602-2026-INIT/en/pdf",
+   "key": "CM 4602/26",
+   "page": "public-procurement-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-29",
@@ -2498,18 +2572,6 @@
    "page": "ai-act",
    "type": "Committees",
    "hub": "committees"
-  },
-  {
-   "date": "2026-10-27",
-   "act": "medical-devices-simplification",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by …",
-   "doc": "CM 4464/26 REV 2",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-2/en/pdf",
-   "key": "CM 4464/26 REV 2",
-   "page": "medical-devices-simplification",
-   "type": "Legislation"
   },
   {
    "date": "2026-10-27",
@@ -2640,6 +2702,18 @@
   },
   {
    "date": "2026-10-26",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: = Exchange of views on the third compromise proposed by …",
+   "doc": "CM 4464/26 REV 2",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4464-2026-REV-2/en/pdf",
+   "key": "CM 4464/26 REV 2",
+   "page": "medical-devices-simplification",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-10-26",
    "act": "red",
    "title": "RED",
    "actor": "ERM WGEMC",
@@ -2686,6 +2760,18 @@
    "page": "nzia",
    "type": "Committees",
    "hub": null
+  },
+  {
+   "date": "2026-10-26",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry) (IAA): Examination of the third Presidency compromise …",
+   "doc": "CM 4565/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4565-2026-INIT/en/pdf",
+   "key": "CM 4565/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-10-26",
@@ -3825,6 +3911,19 @@
   },
   {
    "date": "2026-10-05",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "European Parliament",
+   "label": "ENVI committee meeting held: agenda item 14 (vote)",
+   "doc": "OJ-1351634",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/ENVI/OJ/2026/10-05/1351634EN.pdf",
+   "key": "emeeting-ENVI(2026)1005_1-2026-10-05",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-10-05",
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
@@ -4299,6 +4398,32 @@
   },
   {
    "date": "2026-09-28",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "European Parliament",
+   "label": "IMCO committee meeting held: agenda item 4",
+   "doc": "OJ-Draft agenda",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/09-28/1350956EN.pdf",
+   "key": "emeeting-IMCO(2026)0928_1-2026-09-28",
+   "page": "public-procurement-act",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-09-28",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "European Parliament",
+   "label": "CJ80 (IMCO, INTA, ITRE) committee meeting held: agenda item 3",
+   "doc": "OJ-PE792.180",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/CJ80/OJ/2026/09-28/1350776EN.pdf",
+   "key": "emeeting-CJ80(2026)0928_1-2026-09-28",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-09-28",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "European Parliament",
@@ -4337,18 +4462,6 @@
   },
   {
    "date": "2026-09-25",
-   "act": "medical-devices-simplification",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise …",
-   "doc": "CM 4059/26",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf",
-   "key": "CM 4059/26",
-   "page": "medical-devices-simplification",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-09-25",
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
@@ -4369,6 +4482,18 @@
    "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-792221_EN.pdf",
    "key": "PE792.221",
    "page": "nis2-amendment",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-24",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the second Presidency compromise …",
+   "doc": "CM 4059/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4059-2026-INIT/en/pdf",
+   "key": "CM 4059/26",
+   "page": "medical-devices-simplification",
    "type": "Legislation"
   },
   {
@@ -4626,18 +4751,6 @@
   },
   {
    "date": "2026-09-18",
-   "act": "public-procurement-act",
-   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Competitiveness and Growth (Public Procurement): Presentation by the Commission Exchange of …",
-   "doc": "CM 4104/26",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf",
-   "key": "CM 4104/26",
-   "page": "public-procurement-act",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-09-18",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "European Parliament",
@@ -4660,6 +4773,18 @@
    "page": null,
    "type": "Standardisation",
    "hub": null
+  },
+  {
+   "date": "2026-09-17",
+   "act": "public-procurement-act",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Public Procurement) (17 September am - attachés format - no …",
+   "doc": "CM 4104/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4104-2026-INIT/en/pdf",
+   "key": "CM 4104/26",
+   "page": "public-procurement-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-09-17",
@@ -4808,18 +4933,6 @@
   },
   {
    "date": "2026-09-11",
-   "act": "medical-devices-simplification",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the first Presidency compromise …",
-   "doc": "CM 3836/26 REV 1",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-3836-2026-REV-1/en/pdf",
-   "key": "CM 3836/26 REV 1",
-   "page": "medical-devices-simplification",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-09-11",
    "act": "industrial-accelerator-act",
    "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
    "actor": "European Parliament",
@@ -4867,6 +4980,44 @@
    "page": "toy-safety-regulation",
    "type": "Committees",
    "hub": null
+  },
+  {
+   "date": "2026-09-10",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: Exchange of views on the first Presidency compromise …",
+   "doc": "CM 3836/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3836-2026-REV-1/en/pdf",
+   "key": "CM 3836/26 REV 1",
+   "page": "medical-devices-simplification",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-10",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "European Parliament",
+   "label": "IMCO committee meeting held: agenda item 7",
+   "doc": "OJ-PE791.977",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/IMCO/OJ/2026/09-10/1349471EN.pdf",
+   "key": "emeeting-IMCO(2026)0910_1-2026-09-10",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "meeting": true
+  },
+  {
+   "date": "2026-09-10",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "European Parliament",
+   "label": "BUDG committee meeting held: agenda item 15",
+   "doc": "OJ-PE792.034",
+   "url": "https://www.europarl.europa.eu/meetdocs/2024_2029/plmrep/COMMITTEES/BUDG/OJ/2026/09-10/1349880EN.pdf",
+   "key": "emeeting-BUDG(2026)0910_1-2026-09-10",
+   "page": "medical-devices-simplification",
+   "type": "Legislation",
+   "meeting": true
   },
   {
    "date": "2026-09-10",
@@ -4967,6 +5118,18 @@
    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0590",
    "key": "COM(2026) 590",
    "page": "public-procurement-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-09-09",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the second Presidency compromise text …",
+   "doc": "CM 3996/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3996-2026-INIT/en/pdf",
+   "key": "CM 3996/26",
+   "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
   {
@@ -5568,7 +5731,7 @@
    "hub": "standardisation"
   },
   {
-   "date": "2026-07-28",
+   "date": "2026-07-27",
    "act": "medical-devices-simplification",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
@@ -5681,18 +5844,6 @@
   },
   {
    "date": "2026-07-16",
-   "act": "medical-devices-simplification",
-   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
-   "actor": "Council",
-   "label": "Working Party on Pharmaceuticals and Medical Devices: cluster 3 and 4 – Exchange of views = Block 1 – …",
-   "doc": "CM 3481/26",
-   "url": "https://data.consilium.europa.eu/doc/document/CM-3481-2026-INIT/en/pdf",
-   "key": "CM 3481/26",
-   "page": "medical-devices-simplification",
-   "type": "Legislation"
-  },
-  {
-   "date": "2026-07-16",
    "act": "emc",
    "title": "EMC Directive",
    "actor": "ERM WGEMC",
@@ -5741,6 +5892,18 @@
    "page": "ai-act",
    "type": "Standardisation",
    "hub": "standardisation"
+  },
+  {
+   "date": "2026-07-15",
+   "act": "medical-devices-simplification",
+   "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Pharmaceuticals and Medical Devices: cluster 3 and 4 – Exchange of views = Block 1 – …",
+   "doc": "CM 3481/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3481-2026-INIT/en/pdf",
+   "key": "CM 3481/26",
+   "page": "medical-devices-simplification",
+   "type": "Legislation"
   },
   {
    "date": "2026-07-15",
@@ -6019,6 +6182,18 @@
   },
   {
    "date": "2026-07-06",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of partial Presidency compromise text …",
+   "doc": "CM 3470/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3470-2026-INIT/en/pdf",
+   "key": "CM 3470/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-07-06",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -6097,11 +6272,23 @@
    "act": "medical-devices-simplification",
    "title": "Simplification of the medical devices rules – COM(2025) 1023 (proposal)",
    "actor": "Council",
-   "label": "Meeting of the Working Party on Public Health and of the Working Party: 2. Presentation of the Presidency …",
+   "label": "Meeting of the Working Party on Public Health and of the Working Party on Pharmaceuticals and Medical Devices …",
    "doc": "CM 3277/26",
    "url": "https://data.consilium.europa.eu/doc/document/CM-3277-2026-INIT/en/pdf",
    "key": "CM 3277/26",
    "page": "medical-devices-simplification",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-07-02",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of partial Presidency compromise text …",
+   "doc": "CM 3336/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3336-2026-REV-1/en/pdf",
+   "key": "CM 3336/26 REV 1",
+   "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
   {
@@ -6209,6 +6396,18 @@
    "page": null,
    "type": "Standardisation",
    "hub": null
+  },
+  {
+   "date": "2026-06-29",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of partial Presidency compromise text …",
+   "doc": "CM 3331/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3331-2026-INIT/en/pdf",
+   "key": "CM 3331/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-06-29",
@@ -6743,6 +6942,18 @@
   },
   {
    "date": "2026-06-11",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 3105/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-3105-2026-INIT/en/pdf",
+   "key": "CM 3105/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-11",
    "act": "dna",
    "title": "Digital Networks Act – COM(2026) 16 (proposal)",
    "actor": "Council",
@@ -7044,6 +7255,18 @@
   },
   {
    "date": "2026-06-04",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2993/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2993-2026-INIT/en/pdf",
+   "key": "CM 2993/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-04",
    "act": "dna",
    "title": "Digital Networks Act – COM(2026) 16 (proposal)",
    "actor": "Council",
@@ -7124,6 +7347,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-9685-2026-INIT/en/pdf",
    "key": "ST 9685/26",
    "page": "dna",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-06-01",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2991/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2991-2026-INIT/en/pdf",
+   "key": "CM 2991/26",
+   "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
   {
@@ -7478,6 +7713,18 @@
   },
   {
    "date": "2026-05-21",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2874/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2874-2026-INIT/en/pdf",
+   "key": "CM 2874/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-21",
    "act": "digital-omnibus",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)",
    "actor": "Council",
@@ -7616,6 +7863,18 @@
   },
   {
    "date": "2026-05-18",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2818/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2818-2026-INIT/en/pdf",
+   "key": "CM 2818/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-18",
    "act": "csa2",
    "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
    "actor": "Council",
@@ -7712,6 +7971,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-2580-2026-INIT/en/pdf",
    "key": "CM 2580/26",
    "page": "product-digitalisation-directive",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-05-11",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2711/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2711-2026-INIT/en/pdf",
+   "key": "CM 2711/26",
+   "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
   {
@@ -8011,6 +8282,18 @@
   },
   {
    "date": "2026-04-28",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2475/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2475-2026-INIT/en/pdf",
+   "key": "CM 2475/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-28",
    "act": "digital-omnibus-ai",
    "title": "Digital Omnibus on AI – Regulation (EU) 2026/1744",
    "actor": "Trilogues (informal)",
@@ -8076,6 +8359,18 @@
    "page": "machinery-regulation",
    "type": "Committees",
    "hub": "committees"
+  },
+  {
+   "date": "2026-04-27",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2474/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2474-2026-INIT/en/pdf",
+   "key": "CM 2474/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
   },
   {
    "date": "2026-04-27",
@@ -8219,6 +8514,18 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-8253-2026-INIT/en/pdf",
    "key": "ST 8253/26",
    "page": "digital-omnibus-ai",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-04-16",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2243/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2243-2026-INIT/en/pdf",
+   "key": "CM 2243/26",
+   "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
   {
@@ -8529,6 +8836,18 @@
   },
   {
    "date": "2026-03-23",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Examination of the proposal (doc. ) (7009/26 + ADD 1)",
+   "doc": "CM 2038/26",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-2038-2026-INIT/en/pdf",
+   "key": "CM 2038/26",
+   "page": "industrial-accelerator-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-03-23",
    "act": "ehds",
    "title": "EHDS",
    "actor": "Committee on the European Health Data Space",
@@ -8750,6 +9069,18 @@
    "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-785496_EN.pdf",
    "key": "PE785.496",
    "page": "space-act",
+   "type": "Legislation"
+  },
+  {
+   "date": "2026-03-16",
+   "act": "industrial-accelerator-act",
+   "title": "Industrial Accelerator Act – COM(2026) 100 (proposal)",
+   "actor": "Council",
+   "label": "Working Party on Competitiveness and Growth (Industry): Presentation by the Commission Exchange of views …",
+   "doc": "CM 1921/26 REV 1",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-1921-2026-REV-1/en/pdf",
+   "key": "CM 1921/26 REV 1",
+   "page": "industrial-accelerator-act",
    "type": "Legislation"
   },
   {

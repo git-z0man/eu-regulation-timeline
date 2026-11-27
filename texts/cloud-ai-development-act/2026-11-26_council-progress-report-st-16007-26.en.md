@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Council of the European Union Brussels, 26 November 2026 (OR. en)
 
-1 6007/26 Interinstitutional File: 2026/0138 (COD) TELECOM 564 CYBER 468 MI 1215 COMPET 1384 IA 319 C ODEC 2201 NOTE From: General Secretariat of the Council To: Council No. Cion doc.: 10104/26 + ADD 1 Subject: Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe's cloud and AI ecosystem (Cloud and AI Development Act) (Text with EEA relevance) - Progress report
+16007/26 Interinstitutional File: 2026/0138 (COD) TELECOM 564 CYBER 468 MI 1215 COMPET 1384 IA 319 CODEC 2201 NOTE From: General Secretariat of the Council To: Council No. Cion doc.: 10104/26 + ADD 1 Subject: Proposal for a Regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe's cloud and AI ecosystem (Cloud and AI Development Act) (Text with EEA relevance) - Progress report
 
 I. INTRODUCTION
 

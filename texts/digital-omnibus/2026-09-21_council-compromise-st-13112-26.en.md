@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 21 September 2026** **(OR. en)**
 
-**1 3112/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 192** **ANTICI 201** **DATAPROTECT 274** **CYBER 366** **TELECOM 420** **CODEC 1657** **PROCIV 175** **COMPET 1059** **M I 874** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a Regulation amending Regulations (EU) 2016/1679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) - Presidency revised compromise text
+**13112/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 192** **ANTICI 201** **DATAPROTECT 274** **CYBER 366** **TELECOM 420** **CODEC 1657** **PROCIV 175** **COMPET 1059** **MI 874** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a Regulation amending Regulations (EU) 2016/1679, (EU) 2018/1724, (EU) 2018/1725, (EU) 2023/2854, (EU) 2024/1689 and Directives 2002/58/EC, (EU) 2022/2555 and (EU) 2022/2557 as regards the simplification of the digital legislative framework, and repealing Regulations (EU) 2018/1807, (EU) 2019/1150, (EU) 2022/868, and Directive (EU) 2019/1024 (Digital Omnibus) - Presidency revised compromise text
 
 Delegations will find attached the Presidency revised compromise text of the Digital Omnibus in view of the AGS meeting of 25 September 2026.
 

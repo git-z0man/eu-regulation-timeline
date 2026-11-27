@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 20 February 2026** **(OR. en)**
 
-**6 406/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 14** **ANTICI 21** **DATAPROTECT 47** **CYBER 66** **TELECOM 71** **CODEC 246** **PROCIV 27** **COMPET 195** **M I 132** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Presidency compromise text on Omnibus VII – Digital (GDPR/P2B)
+**6406/26** **Interinstitutional File:** ++**2025/0360 (COD)**++ **LIMITE** **SIMPL 14** **ANTICI 21** **DATAPROTECT 47** **CYBER 66** **TELECOM 71** **CODEC 246** **PROCIV 27** **COMPET 195** **MI 132** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Presidency compromise text on Omnibus VII – Digital (GDPR/P2B)
 
 Delegations will find in the Annex a Presidency compromise text in relation to the above proposal, for examination at the meeting of the Antici Group (Simplification) on 27 February 2026.
 

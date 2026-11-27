@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Rat der Europäischen Union Brüssel, den 26. November 2025 (OR. en)
 
-1 5830/25 Interinstitutionelles Dossier: 2025/0335(COD) ESPACE 89 MI 945 ENV 1265 CODEC 1900 EU-GNSS 25 CSCGNSS 15 CSCGMES 9 IND 539 CYBER 343 COMPET 1226 HYBRID 154 P ROCIV 163 VERMERK Absender: Generalsekretariat des Rates Empfänger: Ausschuss der Ständigen Vertreter/Rat Nr. Komm.dok.: 10935/25 + ADD 1 Betr.: Vorbereitung der Tagung des Rates (Wettbewerbsfähigkeit (Binnenmarkt, Industrie, Forschung und Raumfahrt)) am 8./9. Dezember 2025 Verordnung über die Sicherheit, Resilienz und Nachhaltigkeit von Weltraumtätigkeiten in der Union (EU-Weltraum-Rechtsakt) – Fortschrittsbericht
+15830/25 Interinstitutionelles Dossier: 2025/0335(COD) ESPACE 89 MI 945 ENV 1265 CODEC 1900 EU-GNSS 25 CSCGNSS 15 CSCGMES 9 IND 539 CYBER 343 COMPET 1226 HYBRID 154 PROCIV 163 VERMERK Absender: Generalsekretariat des Rates Empfänger: Ausschuss der Ständigen Vertreter/Rat Nr. Komm.dok.: 10935/25 + ADD 1 Betr.: Vorbereitung der Tagung des Rates (Wettbewerbsfähigkeit (Binnenmarkt, Industrie, Forschung und Raumfahrt)) am 8./9. Dezember 2025 Verordnung über die Sicherheit, Resilienz und Nachhaltigkeit von Weltraumtätigkeiten in der Union (EU-Weltraum-Rechtsakt) – Fortschrittsbericht
 
 I. EINLEITUNG
 

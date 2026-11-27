@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 26 June 2026** **(OR. en)**
 
-**1 1237/26** **Interinstitutional File:** ++**2026/0068 (COD)**++ **LIMITE** **COMPET 888** **IND 456** **MI 716** **MAP 144** **FDI 24** **TRANS 463** **CLIMA 361** **ENV 867** **ENER 480** **ECOFIN 943** **UD 197** **POLCOM 242** **C ODEC 1331** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in strategic sectors (Industrial Accelerator Act) - Partial Presidency compromise text
+**11237/26** **Interinstitutional File:** ++**2026/0068 (COD)**++ **LIMITE** **COMPET 888** **IND 456** **MI 716** **MAP 144** **FDI 24** **TRANS 463** **CLIMA 361** **ENV 867** **ENER 480** **ECOFIN 943** **UD 197** **POLCOM 242** **CODEC 1331** ++**NOTE**++ From: General Secretariat of the Council To: Delegations Subject: Proposal for a Regulation on establishing a framework of measures for accelerating industrial capacity and decarbonisation in strategic sectors (Industrial Accelerator Act) - Partial Presidency compromise text
 
 In view of the upcoming meeting of the Working Party on Competitiveness and Growth (Industry) on 2 July 2026, delegations will find in Annex to this note a marked version of the partial Presidency compromise text on Chapter IV of the proposed Regulation. Changes in comparison to the Commission proposal, document ST 7009/26, are marked in **bold** for additions and in ~~strikethrough~~ for deletions.
 

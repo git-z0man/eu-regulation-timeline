@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Rat der Europäischen Union Brüssel, den 8. Mai 2026 (OR. en)
 
-8 861/26 Interinstitutionelles Dossier: 2025/0335(COD) ESPACE 70 MI 428 ENV 452 CODEC 825 EU-GNSS 19 CSCGNSS 14 CSCGMES 5 IND 309 CYBER 203 COMPET 524 HYBRID 59 P ROCIV 90 VERMERK Absender: Generalsekretariat des Rates Empfänger: Ausschuss der Ständigen Vertreter/Rat Nr. Komm.dok.: 10935/25 + ADD 1 Betr.: Vorbereitung der Tagung des Rates (Wettbewerbsfähigkeit (Binnenmarkt, Industrie, Forschung und Raumfahrt)) am 28./29. Mai 2026 Verordnung über die Sicherheit, Resilienz und Nachhaltigkeit von Weltraumtätigkeiten in der Union (EU-Weltraum-Rechtsakt) − Fortschrittsbericht
+8861/26 Interinstitutionelles Dossier: 2025/0335(COD) ESPACE 70 MI 428 ENV 452 CODEC 825 EU-GNSS 19 CSCGNSS 14 CSCGMES 5 IND 309 CYBER 203 COMPET 524 HYBRID 59 PROCIV 90 VERMERK Absender: Generalsekretariat des Rates Empfänger: Ausschuss der Ständigen Vertreter/Rat Nr. Komm.dok.: 10935/25 + ADD 1 Betr.: Vorbereitung der Tagung des Rates (Wettbewerbsfähigkeit (Binnenmarkt, Industrie, Forschung und Raumfahrt)) am 28./29. Mai 2026 Verordnung über die Sicherheit, Resilienz und Nachhaltigkeit von Weltraumtätigkeiten in der Union (EU-Weltraum-Rechtsakt) − Fortschrittsbericht
 
 Die Delegationen erhalten in der Anlage den Sachstandsbericht zum EU-Weltraum-Rechtsakt.
 

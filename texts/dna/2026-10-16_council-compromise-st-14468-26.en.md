@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 **Council of the** **European Union** **Brussels, 16 October 2026** **(OR. en)**
 
-**1 4468/26** **Interinstitutional File:** ++**2026/0013 (COD)**++ **LIMITE** **TELECOM 481** **CYBER 410** **COMPET 1202** **MI 1022** **FIN 1454** **ESPACE 163** **CODEC 1901** **I A 265** ++**NOTE**++ From: Presidency To: Delegations No. Cion doc.: 5600/26 + ADD 1 Subject: Proposal for a Regulation of the European Parliament and of the Council on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act) - Presidency compromise text - Articles 1-12 and 87-114
+**14468/26** **Interinstitutional File:** ++**2026/0013 (COD)**++ **LIMITE** **TELECOM 481** **CYBER 410** **COMPET 1202** **MI 1022** **FIN 1454** **ESPACE 163** **CODEC 1901** **IA 265** ++**NOTE**++ From: Presidency To: Delegations No. Cion doc.: 5600/26 + ADD 1 Subject: Proposal for a Regulation of the European Parliament and of the Council on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (Digital Networks Act) - Presidency compromise text - Articles 1-12 and 87-114
 
 **I. INTRODUCTION** 1. The Commission adopted the proposal for a Regulation on digital networks, amending Regulation (EU) 2015/2120, Directive 2002/58/EC and Decision No 676/2002/EC and repealing Regulation (EU) 2018/1971, Directive (EU) 2018/1972 and Decision No 243/2012/EU (**Digital Networks Act**), on 21 January 2026 ^(1).
 

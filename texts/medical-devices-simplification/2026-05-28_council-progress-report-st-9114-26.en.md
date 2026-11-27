@@ -22,7 +22,7 @@ extraction: Text extracted from the PDF text layer; headers, footers and page nu
 
 Council of the European Union Brussels, 28 May 2026 (OR. en)
 
-9 114/26 Interinstitutional File: 2025/0404 (COD) LIMITE SAN 289 PHARM 78 MI 453 COMPET 554 CODEC 874 I A 121 NOTE From: General Secretariat of the Council To: Permanent Representatives Committee Subject: Regulation to simplify rules on medical and in vitro diagnostic devices - Progress report
+9114/26 Interinstitutional File: 2025/0404 (COD) LIMITE SAN 289 PHARM 78 MI 453 COMPET 554 CODEC 874 IA 121 NOTE From: General Secretariat of the Council To: Permanent Representatives Committee Subject: Regulation to simplify rules on medical and in vitro diagnostic devices - Progress report
 
 I. INTRODUCTION
 
