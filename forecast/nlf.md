@@ -1,6 +1,6 @@
 # Product laws under the New Legislative Framework: changes in parallel
 
-Data of 2026-11-26. Our own assessment from public sources, CC BY 4.0. 23 of 31 product laws are changed by 8 files that are pending or were adopted since Nov 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
+Data of 2026-11-27. Our own assessment from public sources, CC BY 4.0. 23 of 31 product laws are changed by 8 files that are pending or were adopted since Nov 2024; the European Product Act and a sectoral omnibus are announced on top (the Commission's intention, scope open).
 
 | Act | Changed in parallel by | Announced |
 | --- | --- | --- |
@@ -42,4 +42,4 @@ Data of 2026-11-26. Our own assessment from public sources, CC BY 4.0. 23 of 31 
 | Regulation 2026/405 – Detergents and surfactants | – | Sectoral omnibus: may change, scope open |
 | Directive 2000/14 – Noise emission of outdoor equipment | Omnibus IV directive (amends; Parliament voted) | – |
 
-Columns: Sectoral omnibus (assumed Dec 2026, OJ ~Aug 2028); European Product Act (assumed Dec 2026, OJ ~Jan 2029); Omnibus IV directive (Parliament voted, OJ ~Jan 2027); Omnibus IV regulation (Parliament voted, OJ ~Jan 2027); MDR/IVDR simplification (referred to committee, OJ ~Dec 2027); New Standardisation Regulation (proposal, OJ ~Oct 2028); Public Procurement Act (referred to committee, OJ ~Nov 2028); Health Data Space (EHDS) (in force, OJ Mar 2025); Toy Safety Regulation (in force, OJ Dec 2025); Digital Omnibus on AI (in force, OJ Jul 2026).
+Columns: Sectoral omnibus (assumed Dec 2026, OJ ~Aug 2028); European Product Act (assumed Dec 2026, OJ ~Jan 2029); Omnibus IV regulation (Parliament voted, OJ ~Jan 2027); Omnibus IV directive (Parliament voted, OJ ~Jan 2027); MDR/IVDR simplification (referred to committee, OJ ~Dec 2027); New Standardisation Regulation (proposal, OJ ~Oct 2028); Public Procurement Act (referred to committee, OJ ~Nov 2028); Health Data Space (EHDS) (in force, OJ Mar 2025); Toy Safety Regulation (in force, OJ Dec 2025); Digital Omnibus on AI (in force, OJ Jul 2026).

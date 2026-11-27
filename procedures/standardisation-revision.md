@@ -10,7 +10,7 @@ Drawing: [standardisation-revision.svg](standardisation-revision.svg), [standard
 - **Council:** working party, latest document 19 Nov 2026
 - **Latest activity:** 19 Nov 2026 · Council: Chapter 4 and 5/Presentation by the Commission (WK 17710/26)
 - **Next steps:** Referral to an EP committee; Council working party
-- **Forecast:** Official Journal around Oct 2028 (median; half of the runs Jun 2028 – Dec 2029), [forecast page](../forecast/standardisation-revision.html). Next step: Referral to EP committee. On track until 15 Dec 2026 (if it came later, the expected publication would move). If it came today: publication around Sep 2028.
+- **Forecast:** Official Journal around Oct 2028 (median; half of the runs Jun 2028 – Dec 2029), [forecast page](../forecast/standardisation-revision.html). Next step: Referral to EP committee. On track until 15 Dec 2026 (if it came later, the expected publication would move). If it came today: publication around Oct 2028.
 
 ## Events
 
@@ -41,7 +41,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-17 | [WK 17663/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103822) | council-note | Member States comments on Chapter III | not public\* | [Request ↗](https://www.asktheeu.org/new/council_of_the_eu?title=Council%20document%20WK%2017663%2F2026%20INIT%20%28New%20Standardisation%20Regulation%29&body=Dear%20Council%20of%20the%20European%20Union%2C%0A%0AUnder%20the%20right%20of%20access%20to%20documents%20in%20the%20EU%20treaties%2C%20as%20developed%20in%20Regulation%201049%2F2001%2C%20I%20am%20requesting%20access%20to%20the%20following%20Council%20document%3A%0A%0A-%20WK%2017663%2F2026%20INIT%20of%2017%20November%202026%3A%20Member%20States%20comments%20on%20Chapter%20III%0A%20%20%28interinstitutional%20file%202026%2F0307%28COD%29%2C%20New%20Standardisation%20Regulation%29%0A%0AI%20would%20prefer%20the%20English%20version.%20If%20parts%20of%20the%20document%20are%20covered%20by%20an%20exception%2C%20I%20ask%20for%20access%20to%20the%20remaining%20parts%20%28Article%204%286%29%20of%20Regulation%201049%2F2001%29.%0A%0AYours%20faithfully%2C%0A%0A&tags=council_doc%3AWK-17663-2026-INIT) | – | – |
 | 2026-11-19 | [WK 17710/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/104529) | council-note | Chapter 4 and 5/Presentation by the Commission | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-27.
 
 ## Texts as Markdown
 

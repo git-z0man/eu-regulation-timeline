@@ -7,8 +7,8 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 ## At a glance
 
 - Next meeting: none announced
-- Last meeting: 2026-09-17 – Ninth meeting of the European Artificial Intelligence Board ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138092/download) · [other document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download))
-- Meetings since 2024: 9
+- Last meeting: 2026-11-18 – Tenth meeting of the European Artificial Intelligence Board ([agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/142447/download))
+- Meetings since 2024: 10
 - Latest minutes: [Eighth meeting of the European Artificial Intelligence Board (2026-06-11)](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138112/download)
 - Members: 27 members: 27 Member State authorities (type D).
 - Contact: [EU-AI-BOARD@ec.europa.eu](mailto:EU-AI-BOARD@ec.europa.eu)
@@ -17,7 +17,7 @@ Official source: [Register of Commission expert groups](https://ec.europa.eu/tra
 
 - Type: Formal, Permanent, Limited
 - Policy areas: Information Society
-- Registered: 2024-07-24; last updated: 2026-10-27
+- Registered: 2024-07-24; last updated: 2026-11-26
 
 Tasks:
 
@@ -37,6 +37,7 @@ Tasks:
 
 | Date | Meeting | Place | Agenda | Minutes or summary record | Other documents |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-18 | Tenth meeting of the European Artificial Intelligence Board | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/142447/download) | – | – |
 | 2026-09-17 | Ninth meeting of the European Artificial Intelligence Board | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138092/download) | – | [AIBSG SG deliverable - NA - Explanatory Note](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/140530/download) |
 | 2026-06-11 | Eighth meeting of the European Artificial Intelligence Board | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/136331/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138112/download) | [working document](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/138612/download) |
 | 2026-03-20 | Seventh meeting of the European Artificial Intelligence Board | Brussels | [agenda](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134351/download) | [minutes](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134352/download) | [AIBSG STD D1v 2025](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134542/download) · [AIBSG STD D2v 2025](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134543/download) · [AIBSG STD D3 2025](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/134213/download) |

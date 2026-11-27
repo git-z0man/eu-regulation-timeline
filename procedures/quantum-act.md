@@ -1,6 +1,6 @@
 # Legislative procedure – Quantum Act – COM(2026) 965 (proposal)
 
-Procedure 2026/0365(COD), as of 26 Nov 2026.
+Procedure 2026/0365(COD), as of 27 Nov 2026.
 Drawing: [quantum-act.svg](quantum-act.svg), [quantum-act.pdf](quantum-act.pdf) · Web page: [quantum-act.html](quantum-act.html)
 
 ## Status and next steps

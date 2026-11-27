@@ -1,18 +1,11 @@
 {
- "as_of": "2026-11-26",
+ "as_of": "2026-11-27",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "note": "All acts we follow",
    "ahead": [
-    {
-     "date": "2026-11-26",
-     "act": "Cloud and AI Development Act",
-     "text": "Progress report",
-     "url": "procedures/cloud-ai-development-act.html",
-     "top": true
-    },
     {
      "date": "2026-11-27",
      "act": "Regulation on European standardisation",
@@ -46,7 +39,7 @@
      "act": "NIS 2 Directive",
      "text": "ENISA survey closes: ENISA NIS360 survey 2027",
      "url": "acts/nis2.html",
-     "top": false
+     "top": true
     }
    ],
    "recap": [
@@ -107,16 +100,16 @@
      "top": false
     },
     {
-     "date": "2026-11-19",
-     "act": "EU Space Act",
-     "text": "European Parliament: ITRE committee meeting held: agenda item 9 (vote)",
-     "url": "procedures/space-act.html",
+     "date": "2026-11-25",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency third compromise text on Title IV (Security of ICT Supply Chains) (not public)",
+     "url": "procedures/csa2.html",
      "top": false
     },
     {
-     "date": "2026-11-19",
+     "date": "2026-11-26",
      "act": "EU Space Act",
-     "text": "European Parliament: Committee adopts report and mandate",
+     "text": "Council released 1 document listed as not public, incl. October 2026 Presidency compromise text – Explanations",
      "url": "procedures/space-act.html",
      "top": false
     },
@@ -135,16 +128,9 @@
      "top": false
     },
     {
-     "date": "2026-11-19",
-     "act": "Industrial Accelerator Act",
-     "text": "Council released 3 documents listed as not public, incl. Third Presidency compromise text (clean version)",
-     "url": "procedures/industrial-accelerator-act.html",
-     "top": false
-    },
-    {
      "date": "2026-11-26",
      "act": "Cyber Resilience Act",
-     "text": "18 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
+     "text": "17 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": false
     },
@@ -158,7 +144,7 @@
     {
      "date": "2026-11-25",
      "act": "Artificial Intelligence Act",
-     "text": "3 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
+     "text": "2 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
      "url": "acts/ai-act.html#standardisation",
      "top": false
     },
@@ -177,16 +163,16 @@
      "top": false
     },
     {
-     "date": "2026-11-26",
+     "date": "2026-11-27",
      "act": "Radio Equipment Directive",
-     "text": "14 standardisation projects moved on, e.g. EN 302 977: Publication",
+     "text": "13 standardisation projects moved on, e.g. EN 302 977: Publication",
      "url": "procedures/index.html",
      "top": false
     },
     {
-     "date": "2026-11-24",
+     "date": "2026-11-26",
      "act": "Public Procurement Act",
-     "text": "Council released 4 documents listed as not public",
+     "text": "Council released 5 documents listed as not public",
      "url": "procedures/public-procurement-act.html",
      "top": false
     },
@@ -202,6 +188,20 @@
      "act": "Public Procurement Act",
      "text": "Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination …",
      "url": "procedures/public-procurement-act.html",
+     "top": false
+    },
+    {
+     "date": "2026-11-27",
+     "act": "Artificial Intelligence Act",
+     "text": "European Artificial Intelligence Board: Agenda published: Tenth meeting of the European Artificial …",
+     "url": "acts/ai-act.html#committees",
+     "top": false
+    },
+    {
+     "date": "2026-11-27",
+     "act": "Regulation on European standardisation",
+     "text": "Committee on Standards: 33rd meeting of the Committee on standards",
+     "url": "procedures/standardisation-regulation.html",
      "top": false
     },
     {
@@ -256,9 +256,16 @@
    ],
    "recap": [
     {
+     "date": "2026-11-25",
+     "act": "Cybersecurity Act 2",
+     "text": "Council: Presidency third compromise text on Title IV (Security of ICT Supply Chains) (not public)",
+     "url": "procedures/csa2.html",
+     "top": true
+    },
+    {
      "date": "2026-11-26",
      "act": "Cyber Resilience Act",
-     "text": "18 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
+     "text": "17 standardisation projects moved on, e.g. EN 304 625: Approval Stage – Draft Review after PE",
      "url": "acts/cra.html#standardisation",
      "top": true
     },
@@ -272,7 +279,7 @@
     {
      "date": "2026-11-25",
      "act": "Artificial Intelligence Act",
-     "text": "3 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
+     "text": "2 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
      "url": "acts/ai-act.html#standardisation",
      "top": true
     },
@@ -288,7 +295,21 @@
      "act": "Cybersecurity Act 2",
      "text": "Council released 2 documents listed as not public",
      "url": "procedures/csa2.html",
-     "top": true
+     "top": false
+    },
+    {
+     "date": "2026-11-27",
+     "act": "Artificial Intelligence Act",
+     "text": "European Artificial Intelligence Board: Agenda published: Tenth meeting of the European Artificial …",
+     "url": "acts/ai-act.html#committees",
+     "top": false
+    },
+    {
+     "date": "2026-11-27",
+     "act": "Regulation on European standardisation",
+     "text": "Committee on Standards: 33rd meeting of the Committee on standards",
+     "url": "procedures/standardisation-regulation.html",
+     "top": false
     }
    ]
   }

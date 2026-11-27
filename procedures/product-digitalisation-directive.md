@@ -10,7 +10,7 @@ Drawing: [product-digitalisation-directive.svg](product-digitalisation-directive
 - **Council:** mandate (ST 13233/25 of 26 Sep 2025)
 - **Latest activity:** 24 Nov 2026 · European Parliament: EP position at first reading (P10_TA(2026)0384)
 - **Next steps:** Council approves the EP position (Art. 294(4) TFEU); signature and publication in the OJ
-- **Forecast:** Official Journal around Jan 2027 (median; half of the runs Dec 2026 – Apr 2027), [forecast page](../forecast/product-digitalisation-directive.html). Next step: Council adoption. On track until 5 Jan 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2026.
+- **Forecast:** Official Journal around Jan 2027 (median; half of the runs Jan 2027 – Apr 2027), [forecast page](../forecast/product-digitalisation-directive.html). Next step: Council adoption. On track until 5 Jan 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2026.
 
 ## Events
 
@@ -137,7 +137,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-18 | [A10-0023/181](https://www.europarl.europa.eu/doceo/document/A-10-2026-0023-AM-181-181_EN.pdf) | ep-amendments | Amendment - Anna Cavazzini - Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | – |
 | 2026-11-24 | [P10_TA(2026)0384](https://www.europarl.europa.eu/doceo/document/TA-10-2026-0384_EN.pdf) | ep-position | Amending certain Directives as regards digitalisation and common specifications (Omnibus IV) | public | – | – | [en](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.en.md) [de](../texts/product-digitalisation-directive/2026-11-24_ep-position-p10-ta-2026-0384.de.md) |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-27.
 
 ## Texts as Markdown
 

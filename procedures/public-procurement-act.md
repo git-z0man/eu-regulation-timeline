@@ -1,6 +1,6 @@
 # Legislative procedure – Public Procurement Act – COM(2026) 590 (proposal)
 
-Procedure 2026/0265(COD), as of 25 Nov 2026.
+Procedure 2026/0265(COD), as of 27 Nov 2026.
 Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procurement-act.pdf](public-procurement-act.pdf) · Web page: [public-procurement-act.html](public-procurement-act.html)
 
 ## Status and next steps
@@ -9,8 +9,8 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 - **Parliament:** in committee since 11 Nov 2026
 - **Council:** working party, latest document 17 Nov 2026
 - **Latest activity:** 20 Nov 2026 · Council: Working Party on Competitiveness and Growth (Public Procurement): Continuation of the examination of the … (CM 5033/26)
-- **Next steps:** EP: rapporteur's draft report; Council: working party towards a negotiating mandate
-- **Forecast:** Official Journal around Nov 2028 (median; half of the runs May 2028 – Nov 2029), [forecast page](../forecast/public-procurement-act.html). Next step: EP committee vote. On track until 17 Nov 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
+- **Next steps:** 30 Nov 2026: INTA committee meeting (EP committee agenda); EP: rapporteur's draft report; Council: working party towards a negotiating mandate
+- **Forecast:** Official Journal around Nov 2028 (median; half of the runs Apr 2028 – Nov 2029), [forecast page](../forecast/public-procurement-act.html). Next step: EP committee vote. On track until 17 Nov 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
 ## Events
 
@@ -37,7 +37,7 @@ Drawing: [public-procurement-act.svg](public-procurement-act.svg), [public-procu
 | ITRE – Industry, Research and Energy | Opinion | [Julie Rechagneux](https://www.europarl.europa.eu/meps/en/256882) (PfE), appointed 12 Oct 2026 | [Davor Ivo Stier](https://www.europarl.europa.eu/meps/en/119435) (EPP), [Georgia Tramacere](https://www.europarl.europa.eu/meps/en/275087) (S&D), [Brigitte Van Den Berg](https://www.europarl.europa.eu/meps/en/256976) (Renew), [Marie Toussaint](https://www.europarl.europa.eu/meps/en/97236) (Greens/EFA), [Marcin Sypniewski](https://www.europarl.europa.eu/meps/en/257070) (ESN) |
 | JURI – Legal Affairs | Opinion | not yet appointed | – |
 | LIBE – Civil Liberties, Justice and Home Affairs | Opinion: decided not to give an opinion | – | – |
-| BUDG – Budgets | Budgetary assessment | not yet appointed | – |
+| BUDG – Budgets | Budgetary assessment: decided not to give an opinion | – | – |
 
 Source: EP Open Data API (participations) and the Legislative Observatory (joint committee, opinions declined); names link to each Member's page on the EP website. The API names no committee for shadow rapporteurs; they are assigned by the EP's order of participants, which groups each committee.
 
@@ -54,9 +54,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-09-10 | [ST 12969/26 ADD 3](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-3/en/pdf) | council-transmission | Commission staff working document impact assessment report Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on … | public | – | – | – |
 | 2026-09-10 | [ST 12969/26 ADD 4](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-4/en/pdf) | council-transmission | Commission staff working document executive summary of the impact assessment report Accompanying the document Proposal for a Regulation of the European … | public | – | – | – |
 | 2026-09-10 | [ST 12969/26 ADD 5](https://data.consilium.europa.eu/doc/document/ST-12969-2026-ADD-5/en/pdf) | council-transmission | Regulatory scrutiny board opinion Public Procurement Act | public | – | – | – |
-| 2026-09-10 | WK 13868/26 | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 September 2026: Presidency Flash | not public\* | – | – | – |
+| 2026-09-10 | [WK 13868/26](https://data.consilium.europa.eu/doc/document/WK-13868-2026-INIT/en/pdf) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 September 2026: Presidency Flash | public | – | 2026-11-26 | – |
 | 2026-09-10 | WK 283/26 REV 5 | council-note | Sector-Specific Files with Public Procurement Provisions: State of Play in September 2026 | not public\* | – | – | – |
-| 2026-09-11 | WK 13779/26 | council-note | Procedure regarding the Impact Assessment | not public\* | – | – | – |
+| 2026-09-11 | [WK 13779/26](https://data.consilium.europa.eu/doc/document/WK-13779-2026-INIT/en/pdf) | council-note | Procedure regarding the Impact Assessment | public | – | 2026-11-26 | – |
 | 2026-09-21 | [WK 14274/26](https://data.consilium.europa.eu/doc/document/WK-14274-2026-INIT/en/pdf) | council-note | Public Procurement Act : Impact Assessment - Presentation at the Working Party on Competitiveness and Growth (Public Procurement) on 17 September 2026 | public | – | 2026-11-03 | – |
 | 2026-09-21 | [WK 14276/26](https://data.consilium.europa.eu/doc/document/WK-14276-2026-INIT/en/pdf) | council-note | Public Procurement Act - Presentation at the Working Party on Competitiveness and Growth (Public Procurement) on 17-18 September 2026 | public | – | 2026-11-03 | – |
 | 2026-09-25 | [WK 14815/26](https://data.consilium.europa.eu/doc/document/WK-14815-2026-INIT/en/pdf) | council-note | Working Party Meeting on Competitiveness and Growth (Public Procurement) on 2 October 2026: Presidency Flash | public | – | 2026-10-20 | – |
@@ -74,7 +74,7 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-16 | [ST 15648/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/103696) | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research, and Space) on 3 December 2026: Public Procurement Act: The Proposed Reform of … | not public\* | – | – | – |
 | 2026-11-17 | ST 15648/26 REV 1 | council-note | Preparation of the Competitiveness Council (Internal Market, Industry, Research, and Space) on 3 December 2026: Regulation on public contracts and concessions … | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-25.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-27.
 
 ## Texts as Markdown
 

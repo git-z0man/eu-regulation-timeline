@@ -1,6 +1,6 @@
 # Legislative procedure – Digital Omnibus – COM(2025) 837 (proposal)
 
-Procedure 2025/0360(COD), as of 26 Nov 2026.
+Procedure 2025/0360(COD), as of 27 Nov 2026.
 Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digital-omnibus.pdf) · Web page: [digital-omnibus.html](digital-omnibus.html)
 
 ## Status and next steps
@@ -8,7 +8,7 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 - **Stage:** Council mandate adopted
 - **Parliament:** draft report 22 Jun 2026
 - **Council:** mandate (ST 14756/26 of 22 Oct 2026)
-- **Latest activity:** 20 Nov 2026 · European Parliament: Opinion on the proposal for a regulation of the European Parliament and of the Council … (PE789.877)
+- **Latest activity:** 27 Nov 2026 · Council: Opinion on the application of the Principles of Subsidiarity and Proportionality (ST 16404/26)
 - **Next steps:** EP committee report and mandate; then trilogues
 - **Forecast:** Official Journal around Apr 2028 (median; half of the runs Jan 2028 – Dec 2028), [forecast page](../forecast/digital-omnibus.html). Next step: EP committee vote. On track until 4 Jan 2027 (if it came later, the expected publication would move). If it came today: publication around Dec 2027.
 
@@ -49,7 +49,7 @@ Drawing: [digital-omnibus.svg](digital-omnibus.svg), [digital-omnibus.pdf](digit
 | 2026-09-11 | Council | Meeting of the Antici Group (Simplification): Omnibus VII: Digital Omnibus Format 1+1 Proposal for a … | [CM 3890/26](https://data.consilium.europa.eu/doc/document/CM-3890-2026-INIT/en/pdf) | Council register, CM 3890/26 (notice of meeting and provisional agenda) |
 | 2026-09-21 | Council | Presidency revised compromise text | [ST 13112/26](https://data.consilium.europa.eu/doc/document/ST-13112-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-09-21_council-compromise-st-13112-26.en.md) | Cellar procedure file 2025/360 (Council register) |
 | 2026-09-25 | Council | Meeting of the Antici Group (Simplification) (morning only): Omnibus VII: Digital Omnibus Proposal for a … | [CM 4156/26](https://data.consilium.europa.eu/doc/document/CM-4156-2026-INIT/en/pdf) | Council register, CM 4156/26 (notice of meeting and provisional agenda) |
-| 2026-10-02 | Council | Mandate for negotiations with the European Parliament | [ST 13886/26](https://data.consilium.europa.eu/doc/document/ST-13886-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-10-02_council-position-st-13886-26.en.md) | Parliament of Austria, EU database (interinstitutional file 2025/0360(COD)) |
+| 2026-10-02 | Council | Mandate for negotiations with the European Parliament | [ST 13886/26](https://data.consilium.europa.eu/doc/document/ST-13886-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-10-02_council-position-st-13886-26.en.md) | Cellar procedure file 2025/360 (Council register) |
 | 2026-10-05 | Council | Mandate for negotiations with the European Parliament | [ST 13886/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-13886-2026-REV-1/en/pdf) · [en.md](../texts/digital-omnibus/2026-10-05_council-position-st-13886-26-rev-1.en.md) | Cellar procedure file 2025/360 (Council register) |
 | 2026-10-22 | Council | Mandate for negotiations with the European Parliament | [ST 14756/26](https://data.consilium.europa.eu/doc/document/ST-14756-2026-INIT/en/pdf) · [en.md](../texts/digital-omnibus/2026-10-22_council-position-st-14756-26.en.md) | Parliament of Austria, EU database (interinstitutional file 2025/0360(COD)) |
 | 2026-11-04 | European Parliament | JURI opinion adopted | [PE789.142](https://www.europarl.europa.eu/doceo/document/JURI-AD-789142_EN.pdf) | EP Open Data API, procedure 2025-0360 (COMMITTEE_ADOPTING_OPINION) |
@@ -171,8 +171,9 @@ Every document the Council register, the EU database of the Parliament of Austri
 | 2026-11-11 | [PE789.142](https://www.europarl.europa.eu/doceo/document/JURI-AD-789142_EN.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) … | public | – | – | – |
 | 2026-11-12 | [ST 15001/26](https://data.consilium.europa.eu/doc/document/ST-15001-2026-INIT/en/pdf) | council-note | AOB item for the meeting of the General Affairs Council on 19 November 2026 Omnibus simplification packages: state of play - Information from the Presidency | public | – | – | – |
 | 2026-11-20 | [PE789.877](https://www.europarl.europa.eu/doceo/document/IMCO-AD-789877_EN.pdf) | ep-opinion | Opinion on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2018/1724, (EU) 2018/1725, (EU) … | public | – | – | – |
+| 2026-11-27 | [ST 16404/26](https://www.parlament.gv.at/gegenstand/XXVIII/EU/106305) | council-note | Opinion on the application of the Principles of Subsidiarity and Proportionality | not public\* | – | – | – |
 
-\* Not public: the registers are checked again daily until the document is released; last check 2026-11-26.
+\* Not public: the registers are checked again daily until the document is released; last check 2026-11-27.
 
 ## Documents known only from unofficially leaked copies
 

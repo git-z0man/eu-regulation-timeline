@@ -5,7 +5,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | Act | Committee or group | Kind | Meetings | Last meeting | Next meeting |
 | --- | --- | --- | --- | --- | --- |
 | [Artificial Intelligence Act](ai-act.md) | [Artificial Intelligence Committee](committee-c129100.md) | Comitology committee | 5 | 2026-05-22 | – |
-| [Artificial Intelligence Act](ai-act.md) | [European Artificial Intelligence Board](committee-x03966.md) | Expert group | 9 | 2026-09-17 | – |
+| [Artificial Intelligence Act](ai-act.md) | [European Artificial Intelligence Board](committee-x03966.md) | Expert group | 10 | 2026-11-18 | – |
 | [Cyber Resilience Act](cra.md) | [Product Security Committee](committee-c130100.md) | Comitology committee | 3 | 2025-11-07 | – |
 | [Cyber Resilience Act](cra.md) | [CRA Expert Group](committee-e03967.md) | Expert group | 6 | 2026-10-08 | – |
 | [Cyber Resilience Act](cra.md) | [ENISA AHWG Standardisation](committee-enisa-ahwg-std.md) | ENISA ad hoc working group | 0 | – | – |
@@ -45,7 +45,7 @@ Comitology committees of Member State representatives give opinions on draft imp
 | [Product Liability Directive](pld.md) | [Expert Group on Product Liability](committee-e03995.md) | Expert group | 0 | – | – |
 | [Radio Equipment Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0053) – No legislative procedure page; applies from 2016-06-13; [meetings](#radio-equipment-directive) | [Telecommunications Conformity Assessment and Market Surveillance Committee (TCAM)](committee-c03000.md) | Comitology committee | 5 | 2025-11-27 | – |
 | [Radio Equipment Directive cybersecurity delegated act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030) – Delegated act of the Commission, adopted without a legislative procedure; applies from 2025-08-01; repealed from 2027-12-11; [meetings](#radio-equipment-directive-cybersecurity-delegated-act) | [RED expert group](committee-e03587.md) | Expert group | 4 | 2025-11-27 | – |
-| [Regulation on European standardisation](standardisation-regulation.md) | [Committee on Standards](committee-c41700.md) | Comitology committee | 13 | 2026-09-16 | 2026-11-27 |
+| [Regulation on European standardisation](standardisation-regulation.md) | [Committee on Standards](committee-c41700.md) | Comitology committee | 13 | 2026-11-27 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [HLFS](committee-e03874.md) | Expert group | 2 | 2026-03-19 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [MSP](committee-e02758.md) | Expert group | 8 | 2026-10-21 | – |
 | [Regulation on European standardisation](standardisation-regulation.md) | [ENISA AHWG Standardisation](committee-enisa-ahwg-std.md) | ENISA ad hoc working group | 0 | – | – |

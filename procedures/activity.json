@@ -1,6 +1,77 @@
 {
  "items": [
   {
+   "date": "2026-11-27",
+   "act": "standardisation-regulation",
+   "title": "Standardisation Regulation",
+   "actor": "Committee on Standards",
+   "label": "33rd meeting of the Committee on standards",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/comitology-register/screen/meetings/CMTD(2026)1814/consult",
+   "key": "C41700-CMTD(2026)1814",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/comitology-register/screen/documents/119034/1/consult"
+    ]
+   ],
+   "page": "standardisation-regulation",
+   "type": "Committees",
+   "hub": null
+  },
+  {
+   "date": "2026-11-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WGSRR",
+   "label": "EN 302 858 – Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 G: Drafting Stage – Early draft",
+   "doc": "EN 302 858",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
+   "key": "eso-REN/ERM-WGSRR-581-2026-11-27",
+   "page": null,
+   "type": "Standardisation",
+   "hub": null
+  },
+  {
+   "date": "2026-11-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG17",
+   "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Stable draft",
+   "doc": "EN 300 422-4",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
+   "key": "eso-REN/ERM-WG17-158-2026-11-27",
+   "page": null,
+   "type": "Standardisation",
+   "hub": null
+  },
+  {
+   "date": "2026-11-27",
+   "act": "red",
+   "title": "RED",
+   "actor": "ERM WG17 WP3",
+   "label": "EN 300 422-1 – Harmonised Standard for access to radio spectrum Wireless microphones, Audio PMSE up to 3 : Drafting Stage – Early draft",
+   "doc": "EN 300 422-1",
+   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73027",
+   "key": "eso-REN/ERM-WG17WP3-27-2026-11-27",
+   "page": null,
+   "type": "Standardisation",
+   "hub": null
+  },
+  {
+   "date": "2026-11-27",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "European Artificial Intelligence Board",
+   "label": "Agenda published: Tenth meeting of the European Artificial Intelligence Board (2026-11-18)",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/142447/download",
+   "key": "X03966-https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/142447/download",
+   "page": "ai-act",
+   "type": "Committees",
+   "hub": "committees"
+  },
+  {
    "date": "2026-11-26",
    "act": "red",
    "title": "RED",
@@ -51,6 +122,54 @@
    "page": null,
    "type": "Standardisation",
    "hub": null
+  },
+  {
+   "date": "2026-11-26",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-11 (Procedure regarding the Impact Assessment), listed as not public since 2026-09-25",
+   "doc": "WK 13779/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13779-2026-INIT/en/pdf",
+   "key": "WK 13779/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-11",
+   "doc_title": "Procedure regarding the Impact Assessment",
+   "withheld_since": "2026-09-25",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-26",
+   "act": "public-procurement-act",
+   "actor": "Council",
+   "label": "Released: Council note of 2026-09-10 (Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 …), listed as not public since 2026-09-25",
+   "doc": "WK 13868/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13868-2026-INIT/en/pdf",
+   "key": "WK 13868/26-released",
+   "page": "public-procurement-act",
+   "type": "Released",
+   "kind": "council-note",
+   "doc_date": "2026-09-10",
+   "doc_title": "Working Party Meeting on Competitiveness and Growth (Public Procurement) on 17-18 …",
+   "withheld_since": "2026-09-25",
+   "title": "Public Procurement Act – COM(2026) 590 (proposal)"
+  },
+  {
+   "date": "2026-11-26",
+   "act": "space-act",
+   "actor": "Council",
+   "label": "Released: Council compromise of 2026-11-04 (October 2026 Presidency compromise text – Explanations), listed as not public since 2026-11-05",
+   "doc": "WK 17096/26",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-17096-2026-INIT/en/pdf",
+   "key": "WK 17096/26-released",
+   "page": "space-act",
+   "type": "Released",
+   "kind": "council-compromise",
+   "doc_date": "2026-11-04",
+   "doc_title": "October 2026 Presidency compromise text – Explanations",
+   "withheld_since": "2026-11-05",
+   "title": "EU Space Act – COM(2025) 335 (proposal)"
   },
   {
    "date": "2026-11-26",
@@ -121,19 +240,6 @@
   },
   {
    "date": "2026-11-25",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WG17",
-   "label": "EN 300 422-4 – Part 4: Assistive Listening Devices including: Cochlear Implants, personal sound amplifier: Drafting Stage – Stable draft",
-   "doc": "EN 300 422-4",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=53882",
-   "key": "eso-REN/ERM-WG17-158-2026-11-25",
-   "page": null,
-   "type": "Standardisation",
-   "hub": null
-  },
-  {
-   "date": "2026-11-25",
    "act": "quantum-act",
    "title": "Quantum Act – COM(2026) 965 (proposal)",
    "actor": "European Commission",
@@ -155,6 +261,19 @@
    "key": "Plenary confirms mandate for trilogues",
    "page": "space-act",
    "type": "Legislation"
+  },
+  {
+   "date": "2026-11-25",
+   "act": "csa2",
+   "title": "Cybersecurity Act 2 – COM(2026) 11 (proposal)",
+   "actor": "Council",
+   "label": "Presidency third compromise text on Title IV (Security of ICT Supply Chains) (not public)",
+   "doc": "WK 18205/26",
+   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/105749",
+   "key": "WK 18205/26",
+   "page": "csa2",
+   "type": "Legislation",
+   "listed": "council-compromise"
   },
   {
    "date": "2026-11-25",
@@ -968,6 +1087,25 @@
    "page": "cra",
    "type": "Standardisation",
    "hub": "standardisation"
+  },
+  {
+   "date": "2026-11-18",
+   "act": "ai-act",
+   "title": "AI Act",
+   "actor": "European Artificial Intelligence Board",
+   "label": "Tenth meeting of the European Artificial Intelligence Board",
+   "doc": "agenda",
+   "url": "https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupId=3966",
+   "key": "X03966-79137",
+   "links": [
+    [
+     "agenda",
+     "https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/142447/download"
+    ]
+   ],
+   "page": "ai-act",
+   "type": "Committees",
+   "hub": "committees"
   },
   {
    "date": "2026-11-17",
@@ -1929,13 +2067,12 @@
    "act": "space-act",
    "title": "EU Space Act – COM(2025) 335 (proposal)",
    "actor": "Council",
-   "label": "October 2026 Presidency compromise text – Explanations (not public)",
+   "label": "October 2026 Presidency compromise text – Explanations",
    "doc": "WK 17096/26",
-   "url": "https://www.parlament.gv.at/gegenstand/XXVIII/EU/101555",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-17096-2026-INIT/en/pdf",
    "key": "WK 17096/26",
    "page": "space-act",
-   "type": "Legislation",
-   "listed": "council-compromise"
+   "type": "Legislation"
   },
   {
    "date": "2026-11-04",
@@ -2190,19 +2327,6 @@
    "doc_title": "Presidency revised compromise text",
    "withheld_since": "2026-09-26",
    "title": "Digital Omnibus – COM(2025) 837 (proposal)"
-  },
-  {
-   "date": "2026-10-30",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WGSRR",
-   "label": "EN 302 858 – Harmonised Standard for access to radio spectrum; Radar equipment operating in the 24,05 G: Drafting Stage – Early draft",
-   "doc": "EN 302 858",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=61445",
-   "key": "eso-REN/ERM-WGSRR-581-2026-10-30",
-   "page": null,
-   "type": "Standardisation",
-   "hub": null
   },
   {
    "date": "2026-10-30",
@@ -3301,19 +3425,6 @@
    "page": "csa2",
    "type": "Legislation",
    "listed": "council-compromise"
-  },
-  {
-   "date": "2026-10-14",
-   "act": "red",
-   "title": "RED",
-   "actor": "ERM WG17 WP3",
-   "label": "EN 300 422-1 – Harmonised Standard for access to radio spectrum Wireless microphones, Audio PMSE up to 3 : Drafting Stage – Early draft",
-   "doc": "EN 300 422-1",
-   "url": "https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=73027",
-   "key": "eso-REN/ERM-WG17WP3-27-2026-10-14",
-   "page": null,
-   "type": "Standardisation",
-   "hub": null
   },
   {
    "date": "2026-10-13",
@@ -10387,43 +10498,6 @@
    "page": "digital-decade",
    "type": "Committees",
    "hub": null
-  },
-  {
-   "date": "2025-11-26",
-   "act": "toy-safety-regulation",
-   "title": "Toy Safety Regulation – Regulation (EU) 2025/2509",
-   "actor": "Signature and publication",
-   "label": "Signature by the Presidents of EP and Council",
-   "doc": "EP procedure file",
-   "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0290%28COD%29",
-   "key": "Signature by the Presidents of EP and Council",
-   "page": "toy-safety-regulation",
-   "type": "Legislation"
-  },
-  {
-   "date": "2025-11-26",
-   "act": "standardisation-regulation",
-   "title": "Standardisation Regulation",
-   "actor": "Committee on Standards",
-   "label": "Summary record published: 31st meeting of the Committee on standards (2025-11-18)",
-   "doc": "summary record",
-   "url": "https://ec.europa.eu/transparency/comitology-register/screen/documents/111390/1/consult",
-   "key": "C41700-S111390/1",
-   "page": "standardisation-regulation",
-   "type": "Committees",
-   "hub": null
-  },
-  {
-   "date": "2025-11-26",
-   "act": "space-act",
-   "title": "EU Space Act – COM(2025) 335 (proposal)",
-   "actor": "Council",
-   "label": "Preparation of the Council (Competitiveness (Internal Market, Industry, Research and …",
-   "doc": "ST 15830/25",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-15830-2025-INIT/en/pdf",
-   "key": "ST 15830/25",
-   "page": "space-act",
-   "type": "Legislation"
   }
  ]
 }

@@ -12,7 +12,7 @@
   "eccc-countries": {
     "pdf": "eccc-countries.pdf",
     "png": "eccc-countries.png",
-    "svg_sha256": "2e8e7ca0afa399811be52a7785991af777abf13ce4a6e2f316e59ed09e8ca21f"
+    "svg_sha256": "e4b84353ae54668ae1c0160be5a669833e5ac8dece878ce7d091bb8b9166388b"
   },
   "eccc-execution": {
     "pdf": "eccc-execution.pdf",
@@ -22,7 +22,7 @@
   "eccc-grants": {
     "pdf": "eccc-grants.pdf",
     "png": "eccc-grants.png",
-    "svg_sha256": "becac2640eeb287f15559498693b3d675eea6d10ec26728422b80c47300d68a5"
+    "svg_sha256": "57526012cf970a4ca8c8dd5dccda619cbcc5078702b920a56da3073456dc5c82"
   },
   "eccc-staff": {
     "pdf": "eccc-staff.pdf",
@@ -32,7 +32,7 @@
   "enisa-agreements": {
     "pdf": "enisa-agreements.pdf",
     "png": "enisa-agreements.png",
-    "svg_sha256": "2823959d5ccbc2b9a0fa700ada2564812fc780c06df7c0c7ce2f8ded75f390fd"
+    "svg_sha256": "62fe6bd82aeb3effaca8f5033856715f04b1afe44b67705b85191b8e0e297df3"
   },
   "enisa-outlook": {
     "pdf": "enisa-outlook.pdf",
