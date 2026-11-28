@@ -1,18 +1,11 @@
 {
- "as_of": "2026-11-27",
+ "as_of": "2026-11-28",
  "views": [
   {
    "key": "all",
    "label": "All acts",
    "note": "All acts we follow",
    "ahead": [
-    {
-     "date": "2026-11-27",
-     "act": "Regulation on European standardisation",
-     "text": "Committee on Standards: 33rd meeting of the Committee on standards",
-     "url": "procedures/committee-c41700.html",
-     "top": true
-    },
     {
      "date": "2026-11-30",
      "act": "Cyber Resilience Act",
@@ -86,20 +79,6 @@
      "top": false
     },
     {
-     "date": "2026-11-20",
-     "act": "Simplification of the medical devices rules",
-     "text": "Council: General approach (not public)",
-     "url": "procedures/medical-devices-simplification.html",
-     "top": false
-    },
-    {
-     "date": "2026-11-20",
-     "act": "EU Space Act",
-     "text": "European Parliament: Report tabled for plenary",
-     "url": "procedures/space-act.html",
-     "top": false
-    },
-    {
      "date": "2026-11-25",
      "act": "Cybersecurity Act 2",
      "text": "Council: Presidency third compromise text on Title IV (Security of ICT Supply Chains) (not public)",
@@ -142,13 +121,6 @@
      "top": false
     },
     {
-     "date": "2026-11-20",
-     "act": "Machinery Regulation",
-     "text": "Standardisation: EN 50742:2026: Published",
-     "url": "acts/machinery-regulation.html#standardisation",
-     "top": false
-    },
-    {
      "date": "2026-11-25",
      "act": "Artificial Intelligence Act",
      "text": "2 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
@@ -179,21 +151,21 @@
     {
      "date": "2026-11-27",
      "act": "Radio Equipment Directive",
-     "text": "13 standardisation projects moved on, e.g. EN 302 977: Publication",
+     "text": "12 standardisation projects moved on, e.g. EN 302 977: Publication",
      "url": "procedures/index.html",
      "top": false
     },
     {
      "date": "2026-11-26",
      "act": "Public Procurement Act",
-     "text": "Council released 5 documents listed as not public",
+     "text": "Council released 3 documents listed as not public",
      "url": "procedures/public-procurement-act.html",
      "top": false
     },
     {
      "date": "2026-11-23",
      "act": "EU Space Act",
-     "text": "Council working parties met 2 times, latest: Space Working Party meeting: clean version: doc. ) …",
+     "text": "Council: Space Working Party meeting: clean version: doc. ) – Examination (14787/26, 15118/26)",
      "url": "procedures/space-act.html",
      "top": false
     },
@@ -214,7 +186,7 @@
     {
      "date": "2026-11-23",
      "act": "Cyber Solidarity Act",
-     "text": "2 new meetings or documents of committees and expert groups",
+     "text": "Digital Europe Programme Coordination Committee: Voting sheet published: COMMISSION IMPLEMENTING DECISION …",
      "url": "procedures/cyber-solidarity-act.html",
      "top": false
     }
@@ -225,13 +197,6 @@
    "label": "Cybersecurity",
    "note": "Only the acts of the timeline view “Cybersecurity incl. NIS-2” and the proposals that change them",
    "ahead": [
-    {
-     "date": "2026-11-27",
-     "act": "Regulation on European standardisation",
-     "text": "Committee on Standards: 33rd meeting of the Committee on standards",
-     "url": "procedures/committee-c41700.html",
-     "top": true
-    },
     {
      "date": "2026-11-30",
      "act": "Cyber Resilience Act",
@@ -277,13 +242,6 @@
      "top": true
     },
     {
-     "date": "2026-11-20",
-     "act": "Machinery Regulation",
-     "text": "Standardisation: EN 50742:2026: Published",
-     "url": "acts/machinery-regulation.html#standardisation",
-     "top": true
-    },
-    {
      "date": "2026-11-25",
      "act": "Artificial Intelligence Act",
      "text": "2 standardisation projects moved on, e.g. prEN ISO/IEC 23282: Under Approval",
@@ -302,7 +260,7 @@
      "act": "Cybersecurity Act 2",
      "text": "Council released 2 documents listed as not public",
      "url": "procedures/csa2.html",
-     "top": false
+     "top": true
     },
     {
      "date": "2026-11-27",
